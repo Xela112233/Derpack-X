@@ -52,3 +52,9 @@ mr:farmers-delight
 mr:sophisticated-backpacks
 mr:irons-spells-n-spellbooks
 mr:supplementaries
+
+# deps
+mr:geckolib
+mr:curios
+mr:player-animator
+mr:irons-lib
