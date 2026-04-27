@@ -1,0 +1,3 @@
+# Disable line ending conversion so packwiz hashes stay consistent.
+# Per https://packwiz.infra.link/tutorials/installing/packwiz-installer/
+* -text

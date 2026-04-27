@@ -1,11 +1,8 @@
 name: Build modpack
 
 on:
-  push:
-    tags:
-      - 'v*'
   release:
-    types: [created, published]
+    types: [published]
   workflow_dispatch:
 
 permissions:
@@ -56,9 +53,7 @@ jobs:
       # 3. Prism (installer) — thin zip, fetches mods on launch
       - name: Build Prism instance (installer)
         env:
-          # Bake the raw URL of pack.toml at this tag into the instance.
-          # github.ref_name is the tag (e.g. v0.1.0); release events also expose this.
-          PACK_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.release.tag_name || github.ref_name }}/pack.toml
+          PACK_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.release.tag_name }}/pack.toml
         run: bash scripts/build-prism-installer.sh
 
       # 4. Server pack — configs + fetch-mods.sh + run.sh
@@ -77,12 +72,11 @@ jobs:
           path: dist/
 
       - name: Upload to GitHub Release
-        if: startsWith(github.ref, 'refs/tags/v') || github.event_name == 'release'
+        if: github.event_name == 'release'
         uses: softprops/action-gh-release@v2
         with:
           files: |
             dist/*.mrpack
             dist/*.zip
-          tag_name: ${{ github.event.release.tag_name || github.ref_name }}
-          generate_release_notes: true
+          tag_name: ${{ github.event.release.tag_name }}
           fail_on_unmatched_files: true

@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
-# Builds a server-ready zip: configs + KubeJS + a fetch-mods.sh that
-# pulls every server-side jar from the URLs in mods/*.pw.toml.
+# Builds a server-ready zip with mod jars baked in.
+#
+# Approach: same as build-prism-bundled.sh — spin up `packwiz serve`,
+# use packwiz-installer-bootstrap to fetch *server-side* mods. We bake jars
+# in directly rather than ship a fetch-mods.sh because:
+#   - It works for CurseForge mods (which have no direct URL)
+#   - The end state is identical: a working server folder
 #
 # Result: dist/<slug>-server-<version>.zip
 
@@ -20,35 +25,57 @@ OUT="dist/${INSTANCE_NAME}.zip"
 rm -rf "${STAGING}"
 mkdir -p "${STAGING}"
 
+# Configs
 for d in config defaultconfigs kubejs; do
     if [[ -d "${d}" ]]; then
         cp -r "${d}" "${STAGING}/"
     fi
 done
 
-cat > "${STAGING}/fetch-mods.sh" <<'EOF'
-#!/usr/bin/env bash
-# Auto-generated. Downloads server-side mod jars from the packwiz manifest URLs.
-set -euo pipefail
-mkdir -p mods
-EOF
-
-if [[ -d mods ]]; then
-    for f in mods/*.pw.toml; do
-        [[ -e "$f" ]] || continue
-        side="$(grep -E '^side\s*=' "$f" | sed -E 's/.*"([^"]+)".*/\1/' || echo both)"
-        [[ "${side}" == "client" ]] && continue
-        url="$(grep -E '^url\s*=' "$f" | sed -E 's/.*"([^"]+)".*/\1/')"
-        if [[ -n "${url}" ]]; then
-            modname="$(basename "$f" .pw.toml)"
-            echo "echo \"  fetching ${modname}\"" >> "${STAGING}/fetch-mods.sh"
-            echo "curl -fsSL -o \"mods/${modname}.jar\" \"${url}\"" >> "${STAGING}/fetch-mods.sh"
-        fi
-    done
+# Bootstrap jar
+BOOTSTRAP_JAR="${REPO_ROOT}/.tools/packwiz-installer-bootstrap.jar"
+if [[ ! -f "${BOOTSTRAP_JAR}" ]]; then
+    mkdir -p "${REPO_ROOT}/.tools"
+    curl -fsSL -o "${BOOTSTRAP_JAR}" \
+        "https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar"
 fi
 
-chmod +x "${STAGING}/fetch-mods.sh"
+# packwiz serve
+PORT=8766  # different port from bundled in case both run together
+echo "==> Starting packwiz serve on :${PORT}"
+packwiz serve --port "${PORT}" >/tmp/packwiz-serve-server.log 2>&1 &
+SERVE_PID=$!
+trap "kill ${SERVE_PID} 2>/dev/null || true" EXIT
 
+for i in $(seq 1 20); do
+    if curl -fs "http://localhost:${PORT}/pack.toml" >/dev/null 2>&1; then break; fi
+    sleep 0.5
+done
+if ! curl -fs "http://localhost:${PORT}/pack.toml" >/dev/null 2>&1; then
+    echo "ERROR: packwiz serve never came up. Log:" >&2
+    cat /tmp/packwiz-serve-server.log >&2
+    exit 1
+fi
+
+echo "==> Fetching server-side mod jars"
+(
+    cd "${STAGING}"
+    java -jar "${BOOTSTRAP_JAR}" -g -s server "http://localhost:${PORT}/pack.toml"
+)
+
+kill ${SERVE_PID} 2>/dev/null || true
+trap - EXIT
+
+rm -f "${STAGING}/packwiz.json" "${STAGING}/packwiz-installer-bootstrap.jar"
+
+mod_count="$(find "${STAGING}/mods" -name '*.jar' 2>/dev/null | wc -l)"
+if [[ "${mod_count}" -eq 0 ]]; then
+    echo "ERROR: no mod jars in ${STAGING}/mods after install" >&2
+    exit 1
+fi
+echo "==> ${mod_count} server-side mod jars bundled"
+
+# Aikar's flags launcher
 cat > "${STAGING}/run.sh" <<'EOF'
 #!/usr/bin/env bash
 set -e
@@ -69,12 +96,14 @@ chmod +x "${STAGING}/run.sh"
 cat > "${STAGING}/README.txt" <<EOF
 ${PACK_NAME} ${PACK_VERSION} — Server Pack
 
-1. Install NeoForge for Minecraft 1.21.1 in this directory:
-     https://neoforged.net/
+Mods are already in ./mods/. To finish setup:
 
-2. Run:  ./fetch-mods.sh
-3. Accept the EULA in eula.txt
-4. Start: ./run.sh nogui
+1. Install NeoForge for Minecraft 1.21.1 in this directory:
+     https://neoforged.net/   (download the installer, run with --installServer)
+
+2. Accept the EULA in eula.txt
+
+3. Start: ./run.sh nogui
 
 Tune memory in run.sh if 12G is wrong for your box.
 EOF

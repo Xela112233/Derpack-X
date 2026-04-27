@@ -1,12 +1,15 @@
 #!/usr/bin/env bash
 # Builds the "jars bundled" Prism instance zip.
-# Workflow:
-#   1. Use packwiz-installer-bootstrap to fetch every mod jar from the manifest
-#   2. Place jars in .minecraft/mods/
-#   3. Zip the whole instance dir
+#
+# Approach: spin up `packwiz serve` (its built-in local HTTP server),
+# point packwiz-installer-bootstrap at it, let it fetch every jar
+# (including CurseForge ones, which the bootstrap resolves via the CF API).
+# Then bundle the resulting mods/ folder into a Prism instance zip.
+#
+# This is the documented, supported path — same one users would run on
+# their own machine, just driven by us at build time.
 #
 # Result: dist/<slug>-prism-bundled-<version>.zip
-# Friend just opens Prism -> Add Instance -> Import from zip.
 
 set -euo pipefail
 
@@ -24,32 +27,60 @@ OUT="dist/${INSTANCE_NAME}.zip"
 rm -rf "${STAGING}"
 mkdir -p dist
 
-# 1. Build skeleton
+# 1. Build the Prism instance skeleton
 bash scripts/build-prism-skeleton.sh "${STAGING}" "bundled"
 
-# 2. Fetch jars via packwiz-installer-bootstrap
-#    The bootstrap jar reads pack.toml and downloads everything to mods/
-BOOTSTRAP_JAR=".tools/packwiz-installer-bootstrap.jar"
+# 2. Get the bootstrap jar
+BOOTSTRAP_JAR="${REPO_ROOT}/.tools/packwiz-installer-bootstrap.jar"
 if [[ ! -f "${BOOTSTRAP_JAR}" ]]; then
-    mkdir -p .tools
+    mkdir -p "${REPO_ROOT}/.tools"
     echo "==> Downloading packwiz-installer-bootstrap"
     curl -fsSL -o "${BOOTSTRAP_JAR}" \
         "https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar"
 fi
 
-echo "==> Fetching mod jars (this is the slow step — pulling all referenced jars)"
-# Run the bootstrap from inside .minecraft/ with a file:// URL pointing at our pack.toml.
-# -g = headless (no GUI), -s both = client+server side mods
-PACK_URL="file://${REPO_ROOT}/pack.toml"
+# 3. Start `packwiz serve` in the background, fetch jars, kill it
+PORT=8765
+echo "==> Starting packwiz serve on :${PORT}"
+packwiz serve --port "${PORT}" >/tmp/packwiz-serve.log 2>&1 &
+SERVE_PID=$!
+trap "kill ${SERVE_PID} 2>/dev/null || true" EXIT
+
+# Wait for server to be reachable (max ~10s)
+for i in $(seq 1 20); do
+    if curl -fs "http://localhost:${PORT}/pack.toml" >/dev/null 2>&1; then
+        break
+    fi
+    sleep 0.5
+done
+if ! curl -fs "http://localhost:${PORT}/pack.toml" >/dev/null 2>&1; then
+    echo "ERROR: packwiz serve never came up. Log:" >&2
+    cat /tmp/packwiz-serve.log >&2
+    exit 1
+fi
+
+echo "==> Fetching jars via packwiz-installer-bootstrap"
 (
     cd "${STAGING}/.minecraft"
-    java -jar "${REPO_ROOT}/${BOOTSTRAP_JAR}" -g -s both --no-gui "${PACK_URL}"
+    java -jar "${BOOTSTRAP_JAR}" -g -s client "http://localhost:${PORT}/pack.toml"
 )
 
-# packwiz-installer leaves a packwiz.json behind; harmless but we don't ship it
-rm -f "${STAGING}/.minecraft/packwiz.json"
+# Kill the server
+kill ${SERVE_PID} 2>/dev/null || true
+trap - EXIT
 
-# 3. Drop a README in the instance for the friend
+# bootstrap leaves these behind; not needed in the shipped zip
+rm -f "${STAGING}/.minecraft/packwiz.json" "${STAGING}/.minecraft/packwiz-installer-bootstrap.jar"
+
+# Sanity check
+mod_count="$(find "${STAGING}/.minecraft/mods" -name '*.jar' 2>/dev/null | wc -l)"
+if [[ "${mod_count}" -eq 0 ]]; then
+    echo "ERROR: no mod jars in ${STAGING}/.minecraft/mods after install" >&2
+    exit 1
+fi
+echo "==> ${mod_count} mod jars bundled"
+
+# 4. README for friends
 cat > "${STAGING}/README.txt" <<EOF
 ${PACK_NAME} ${PACK_VERSION} — Prism Instance (bundled jars)
 
@@ -61,13 +92,9 @@ Install:
 
 Memory: 8-12 GB (configured)
 Java:   21 (Prism will prompt to download if missing)
-
-Updating:
-  Download a new bundled zip and re-import, or use the
-  "installer" variant if you want auto-updates.
 EOF
 
-# 4. Zip it
+# 5. Zip
 echo "==> Packaging zip"
 (cd dist/staging && zip -qr "../${INSTANCE_NAME}.zip" "${INSTANCE_NAME}")
 

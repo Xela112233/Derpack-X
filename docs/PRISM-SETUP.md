@@ -10,7 +10,7 @@
 2. **Allocate memory** → Edit Instance → Settings → Java
    - Min: `8192M`
    - Max: `12288M`
-   - Java args: paste Aikar's flags (same set as the Xela's server tuning):
+   - Java args: paste Aikar's flags (same set as the NTNH server tuning):
      ```
      -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200
      -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch
