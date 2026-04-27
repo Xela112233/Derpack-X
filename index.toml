@@ -14,7 +14,7 @@ hash = "bb60ca2bfc51502ab943fdf2048219fa284fe2b7de9e8287300ed0edb21bc18d"
 
 [[files]]
 file = ".github/workflows/build.yml"
-hash = "58e376b436a5453f0e4e1540263d193342e2d684bfe9dce8e3551720d8d06b34"
+hash = "1936074efb0683b1916036390bf9739f9fe7059ead8802bbbadf68b5a1586bb1"
 
 [[files]]
 file = ".github/workflows/remove-mod.yml"
@@ -112,11 +112,6 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
 metafile = true
 
 [[files]]
