@@ -1,12 +1,12 @@
 name = "Derpack X: Create"
 author = "Alex Ignacio-Gamez"
-version = "0.2.0"
+version = "0.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = ""
+hash = "5345e20c2a468656dda26d63ec4c90873280203fd05ceb780318a365f5301b60"
 
 [versions]
 minecraft = "1.21.1"
