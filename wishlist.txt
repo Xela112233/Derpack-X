@@ -36,7 +36,6 @@ mr:modernfix
 
 # === QoL ===
 mr:aileron
-cf:elytra-bounce
 mr:jei
 mr:jade
 mr:mouse-tweaks
@@ -44,12 +43,11 @@ mr:xaeros-minimap:client
 mr:xaeros-world-map:client
 
 # === Create addons ===
-mr:create-steam-n-rails
+mr:create-steam-n-rails-1.21.1
 mr:create-new-age
 mr:create-enchantment-industry
 
 # === Adventure / content ===
-mr:alexs-mobs
 mr:farmers-delight
 mr:sophisticated-backpacks
 mr:irons-spells-n-spellbooks
