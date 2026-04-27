@@ -1,20 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/actions/setup-packwiz/action.yml"
+hash = "6b2a29d773a278637a08c33e59ad85d8140ececc08d8b056484839b1ce66767d"
+
+[[files]]
 file = ".github/workflows/add-mod.yml"
-hash = "57134599982d15e91504e1883c40ed3fcf0b6a25cd40ef8867aef86dd6c75231"
+hash = "39536457536b298e50be34d375018d98dfdb8a497e7ddb821b34cb2f4e8b274f"
 
 [[files]]
 file = ".github/workflows/build.yml"
-hash = "2c6b662e90ca35a2148fb46a549dcddc5a5f3f835523133a9d5a78b891505cae"
+hash = "58e376b436a5453f0e4e1540263d193342e2d684bfe9dce8e3551720d8d06b34"
 
 [[files]]
 file = ".github/workflows/remove-mod.yml"
-hash = "86a1b89ad6fa8017ae4bddadc4e53af5fd0582ca9b4f93440575a4c218606dd1"
+hash = "8bde6ac33ddfd1f3e35878d32665c167add62dcd676e2a98c78e244181d25776"
 
 [[files]]
 file = ".github/workflows/update-mods.yml"
-hash = "b187c74f7eb261a640078957df9ab6d1939c0e19bd601d213ab310c385247185"
+hash = "d9126477772933202efc2fc67f4ddb85b3db64309900744ce34813ec1e482353"
 
 [[files]]
 file = "LICENSE"
@@ -55,6 +59,11 @@ hash = "cd82b7d39d0aabec0160decce26d25daa3a36a700e6215042d48b2f13bfa2555"
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
 metafile = true
 
 [[files]]
