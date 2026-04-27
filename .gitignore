@@ -1,0 +1,40 @@
+# Mod jars - never committed (license + size)
+mods/*.jar
+mods/*.zip
+mods/*.disabled
+
+# packwiz artifacts we don't need in git
+*.mrpack
+.packwizignore
+
+# Minecraft runtime state
+.minecraft/
+saves/
+logs/
+crash-reports/
+journeymap/
+xaero/
+screenshots/
+backups/
+
+# Per-user
+options.txt
+optionsof.txt
+servers.dat*
+usercache.json
+usernamecache.json
+realms_persistence.json
+hotbar.nbt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Build outputs
+dist/
+build/
+out/

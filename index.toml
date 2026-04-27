@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "pack.toml"
+hash = ""
+metafile = false
