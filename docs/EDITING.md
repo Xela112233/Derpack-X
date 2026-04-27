@@ -1,82 +1,48 @@
 # Editing this pack
 
-Quick reference for adding mods, dropping in configs, tweaking behavior. Written for someone who has never touched packwiz and just wants to know "where do I put the file?"
+Quick reference for adding mods, dropping in configs, tweaking behavior. Two ways to do most things:
 
----
+- **Through GitHub** (no install required) — click buttons in the Actions tab. Works for adding/removing/updating mods.
+- **Locally with `packwiz` installed** — needed for dropping in config files, KubeJS scripts, or anything that requires inspecting actual game output. See "Local setup" near the bottom.
 
-## One-time setup
-
-You need the `packwiz` tool installed locally.
-
-**Easiest install (any OS with Go):**
-```bash
-go install github.com/packwiz/packwiz@latest
-```
-
-**Other options:**
-- macOS: `brew install packwiz`
-- Arch / Fedora COPR: `paru -S packwiz-bin`
-- Windows: download `packwiz.exe` from [GitHub Actions builds](https://github.com/packwiz/packwiz/actions) and put it in your PATH
-
-Verify it works: `packwiz --version`
-
-Then clone this repo and `cd` into it. From here on everything is run from the repo root.
+Default to the GitHub flow when you can. It leaves a clean paper trail of every change in your Actions history.
 
 ---
 
 ## I want to ADD a mod
 
-### From Modrinth
+1. Go to the repo on GitHub → **Actions** tab.
+2. Click **Add mod** in the sidebar.
+3. Click **Run workflow** (top right).
+4. Fill in the form:
+   - **Source**: Modrinth or CurseForge — pick whichever has the mod
+   - **Slug**: the last part of the mod's URL
+     - Modrinth: `modrinth.com/mod/jei` → slug is `jei`
+     - CurseForge: `curseforge.com/minecraft/mc-mods/create-aeronautics-compatability` → slug is `create-aeronautics-compatability`
+   - **Side**: usually `both`. Use `client` for things like minimaps and JEI; `server` is rare.
+5. Click **Run workflow**.
+6. Wait ~30 seconds. The workflow runs `packwiz add`, commits, and pushes to `main`.
+7. Refresh the repo — you'll see a new commit "Add `<slug>` from `<source>`" by `github-actions[bot]`.
 
-1. Find the mod on [modrinth.com](https://modrinth.com). The slug is the URL piece, e.g. `modrinth.com/mod/jei` → slug is `jei`.
-2. Run:
-   ```bash
-   packwiz mr add jei
-   ```
-3. Commit:
-   ```bash
-   git add mods/ index.toml
-   git commit -m "Add JEI"
-   git push
-   ```
+If the workflow fails: open the run, scroll to the failed step, and the log will say why (most common: wrong slug, mod not on the platform you picked, no version available for 1.21.1 NeoForge).
 
-### From CurseForge
-
-Same idea, different source:
-```bash
-packwiz cf add create-diesel-generators
-```
-
-Slug is the last part of the CurseForge URL, e.g. `curseforge.com/minecraft/mc-mods/create-diesel-generators` → `create-diesel-generators`.
-
-### Then update the modlist
-
-Open [`MODLIST.md`](MODLIST.md) and add a row in the right section. This isn't required to make the pack work — it's just the human-readable list.
+After adding mods, also update [`MODLIST.md`](MODLIST.md) so the human-readable list stays accurate. You can edit it directly in the GitHub UI (pencil icon).
 
 ---
 
 ## I want to REMOVE a mod
 
-```bash
-packwiz remove <slug>
-```
-
-Same slug as when you added it. Commit. Done.
+Actions → **Remove mod** → Run workflow → enter the slug → run.
 
 ---
 
-## I want to UPDATE all mods to their latest versions
+## I want to UPDATE mods
 
-```bash
-packwiz update --all
-```
+Actions → **Update mods** → Run workflow:
+- Leave the slug blank to update **everything** to latest versions
+- Or enter a specific slug to update just that one
 
-This goes through every mod and asks Modrinth/CurseForge "is there a newer version compatible with our Minecraft version?" If yes, it bumps the URL/hash. Review the changes with `git diff mods/`, commit if happy.
-
-For a single mod:
-```bash
-packwiz update <slug>
-```
+The workflow checks Modrinth/CurseForge for newer versions and bumps the URL+hash automatically.
 
 ---
 
@@ -104,62 +70,56 @@ When in doubt, use `defaultconfigs/`. It's friendlier to users.
 
 ### Where do I get the config files in the first place?
 
-Run the pack once, configure the mod in-game, then go grab the file from `.minecraft/config/<modname>.toml` (or whatever the file is). Copy it into the repo, commit.
+Run the pack once, configure the mod in-game, then go grab the file from `.minecraft/config/<modname>.toml` (or whatever the file is). Drop it in the repo using one of:
+
+- **GitHub web UI**: navigate to `config/` or `defaultconfigs/` → "Add file" → "Upload files" → drag the file in → commit.
+- **Local checkout** with `packwiz` (see Local setup below).
+
+After uploading via the web UI, trigger the **Update mods** workflow (with no slug) — it does a `packwiz refresh` which is needed to register the new file in `index.toml`.
 
 ---
 
 ## I want to add a RESOURCEPACK or SHADERPACK
 
-Drop the `.zip` file directly in `resourcepacks/` or `shaderpacks/`, then:
+Same flow as configs:
 
-```bash
-packwiz refresh
-```
-
-This generates a `.pw.toml` for the file so packwiz knows about it. Commit both the zip and the `.toml`.
+1. In the GitHub UI, navigate to `resourcepacks/` or `shaderpacks/` → "Add file" → "Upload files" → drag the `.zip` in → commit.
+2. Trigger **Update mods** with no slug to refresh the index.
 
 ---
 
 ## I want to add a KUBEJS script (custom recipe, etc.)
 
-KubeJS is a mod that lets you write JavaScript files to add/remove/change recipes. Drop your `.js` file in:
+KubeJS lets you write JavaScript files to add/remove/change recipes. Drop your `.js` file in:
 
 - `kubejs/server_scripts/` — for recipes, loot, server-side stuff
-- `kubejs/client_scripts/` — for tooltips, textures, client-side stuff
-- `kubejs/startup_scripts/` — for things that run at game startup (rare)
+- `kubejs/client_scripts/` — for tooltips, JEI hide/show, item renaming
+- `kubejs/startup_scripts/` — for things that run at game launch (rare)
 
-Example recipe removal in `kubejs/server_scripts/example.js`:
+If you're just changing recipes, put it in `server_scripts/`.
+
+You can create the file directly in the GitHub web UI (navigate to the folder → "Add file" → "Create new file"). Then trigger **Update mods** to refresh the index.
+
+Example recipe removal:
 
 ```js
 ServerEvents.recipes(event => {
-  // Remove the vanilla recipe for sticks
   event.remove({ output: 'minecraft:stick' })
 })
 ```
 
-Commit. KubeJS scripts are loaded by the user's instance the next time they launch.
-
----
-
-## I changed something — how do I make sure the index is up to date?
-
-```bash
-packwiz refresh
-```
-
-This re-hashes everything in the repo. Run it after editing any config file so the hash in `index.toml` matches reality. If you forget, `packwiz refresh --build` (which CI runs) will fail and tell you what's stale.
+See [`../kubejs/README.md`](../kubejs/README.md) for more examples.
 
 ---
 
 ## I want to publish a release
 
-1. Bump the `version` in `pack.toml` (e.g. `0.1.0` → `0.1.1`)
-2. Commit and push to `main`
-3. On GitHub: Releases tab → "Draft a new release"
-4. "Choose a tag" → type `v0.1.1` → "Create new tag on publish"
-5. Title: `v0.1.1` (or something descriptive)
-6. Description: write what changed, or just hit "Generate release notes"
-7. Click **Publish release**
+1. Bump the `version` in `pack.toml` (edit it directly in GitHub's web UI — pencil icon — and commit).
+2. Releases tab → "Draft a new release"
+3. "Choose a tag" → type `v0.1.1` → "Create new tag on publish"
+4. Title: `v0.1.1` (or something descriptive)
+5. Description: write what changed, or just hit "Generate release notes"
+6. Click **Publish release**
 
 GitHub Actions will then:
 - Download every mod jar
@@ -170,32 +130,53 @@ This takes ~5 minutes. If something fails, check the **Actions** tab — the fai
 
 ---
 
+## Local setup (only if you need it)
+
+The GitHub workflows handle adding/removing/updating mods, and the web UI handles file uploads. But a few tasks still benefit from a local checkout:
+
+- Bulk-editing many config files at once
+- Writing or testing KubeJS scripts (so you can see syntax errors before pushing)
+- Running a local test build before tagging a release
+
+If you want to do this:
+
+1. Install [packwiz](https://packwiz.infra.link/installation/): `go install github.com/packwiz/packwiz@latest` (with [Go](https://go.dev/dl/) installed), or `brew install packwiz` on Mac.
+2. Clone the repo: `git clone <repo-url>`.
+3. From the repo root you can now run any packwiz command. Common ones:
+   - `packwiz refresh` — re-hash files after editing configs
+   - `packwiz serve` — local HTTP server for testing
+   - `./scripts/build-prism-bundled.sh` — build a test zip locally
+
+If you'd rather not install anything: every task above can be done through the GitHub web UI plus the workflows. It's just slightly slower for bulk edits.
+
+---
+
 ## Things you should NOT edit by hand
 
-- `mods/*.pw.toml` — packwiz writes these. If you need to change a mod's version, use `packwiz update <slug>`.
-- `index.toml` — packwiz manages this. If it's out of sync, run `packwiz refresh`.
+- `mods/*.pw.toml` — these are auto-managed. Use the **Add mod** / **Update mods** workflows.
+- `index.toml` — packwiz manages this. The workflows refresh it automatically.
 
 ---
 
 ## Common gotchas
 
-- **"hash mismatch" on CI** — you edited a config file but forgot `packwiz refresh`. Run it, commit, push.
-- **A mod's slug isn't found** — slugs sometimes have different forms on Modrinth vs CurseForge. Check the URL on the actual site. If it's only on one platform, use the matching command (`mr` vs `cf`).
-- **"side = client" mods on the server** — fine, the server pack build automatically excludes them. But putting a server-only mod (`side = server`) in a client install will cause the client to crash. Most mods are `both`.
-- **Config changes don't seem to apply for users** — if you put it in `defaultconfigs/`, it only applies on first install. If they've already installed, they keep their old version. Use `config/` if you want to force-update.
+- **Workflow says "no version found"** — the mod doesn't have a 1.21.1 NeoForge build, or you picked the wrong source (some mods are CF-only or Modrinth-only).
+- **Wrong version got picked by Add mod** — the workflow uses `--yes` which auto-accepts. If a mod has multiple candidates and the workflow picked badly, remove it and add it from a local checkout (no `--yes`) so you can pick.
+- **"hash mismatch" on the build workflow** — usually means a file in `config/`, `defaultconfigs/`, `kubejs/` etc. was edited without a refresh. Trigger the **Update mods** workflow with no slug — it does a refresh as part of its run.
+- **Config changes don't apply for existing users** — if you put it in `defaultconfigs/`, it only applies on first install. If they already installed, they keep their old version. Use `config/` if you want to force-update.
 
 ---
 
 ## Quick FAQ
 
 **Q: Where do I put a jar I downloaded?**
-A: You don't. We don't ship jars in the repo — only URLs. If you want a mod, find it on Modrinth or CurseForge and run `packwiz mr add` or `packwiz cf add`. The build pipeline downloads jars at release time.
+A: You don't. We don't ship jars in the repo — only URLs. Use the **Add mod** workflow to register a mod from Modrinth or CurseForge. The build pipeline downloads jars at release time.
 
-**Q: What if a mod is *only* on a website, not Modrinth or CurseForge?**
-A: `packwiz url add <name> <url>`. Rare case but supported.
+**Q: What if a mod is *only* on some random website, not Modrinth or CurseForge?**
+A: Rare case, currently needs a local packwiz install: `packwiz url add <n> <url>`. Tell me if this comes up and I can add a workflow for it too.
 
 **Q: I broke something. How do I undo?**
-A: `git status` to see what changed, `git checkout <file>` to revert a specific file, or `git reset --hard HEAD` to nuke all uncommitted changes. Standard git stuff.
+A: Every workflow run is a commit. Repo → Commits → find the bad one → "Revert" button. GitHub will open a PR to undo it.
 
 **Q: I want to test the pack without making a release.**
-A: Run `./scripts/build-prism-bundled.sh` locally. It produces a zip in `dist/` you can import into Prism.
+A: Trigger the **Build modpack** workflow manually (Actions tab → Build modpack → Run workflow). It produces all four artifacts in the run's "Artifacts" section, downloadable for 90 days. Inspect the bundled zip to see if mods are there before cutting a real release.

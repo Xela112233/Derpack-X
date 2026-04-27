@@ -1,0 +1,101 @@
+name: Add mod
+
+on:
+  workflow_dispatch:
+    inputs:
+      source:
+        description: 'Where to fetch from'
+        required: true
+        type: choice
+        options:
+          - modrinth
+          - curseforge
+        default: modrinth
+      slug:
+        description: 'Mod slug (last part of the URL, e.g. "jei" from modrinth.com/mod/jei)'
+        required: true
+        type: string
+      side:
+        description: 'Which sides need this mod'
+        required: true
+        type: choice
+        options:
+          - both
+          - client
+          - server
+        default: both
+
+permissions:
+  contents: write
+
+jobs:
+  add-mod:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Need full history + token with write access for the push step
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Add mod
+        id: add
+        run: |
+          # Map "modrinth"/"curseforge" to packwiz's short commands
+          case "${{ inputs.source }}" in
+            modrinth)   cmd="mr" ;;
+            curseforge) cmd="cf" ;;
+          esac
+
+          slug='${{ inputs.slug }}'
+          side='${{ inputs.side }}'
+
+          echo "==> packwiz $cmd add $slug (side=$side)"
+
+          # --yes auto-accepts prompts. May pick the wrong version if there are multiple.
+          # Capture output so we can show it in the commit message
+          packwiz "$cmd" add "$slug" --yes 2>&1 | tee /tmp/packwiz-add.log
+
+          # Verify a mod metadata file was actually created
+          # packwiz puts mods in ./mods/<slug>.pw.toml by default
+          if ! ls "mods/${slug}.pw.toml" >/dev/null 2>&1; then
+            echo "ERROR: no mods/${slug}.pw.toml file was created"
+            echo "       packwiz may have used a different filename, or the add silently failed"
+            ls -la mods/ || true
+            exit 1
+          fi
+
+          # Update the side field if user picked something other than 'both' (packwiz defaults to both)
+          if [[ "$side" != "both" ]]; then
+            sed -i "s/^side = \".*\"/side = \"${side}\"/" "mods/${slug}.pw.toml"
+            echo "==> set side = ${side}"
+          fi
+
+          # Refresh the index so the new mod is registered everywhere
+          packwiz refresh
+
+      - name: Commit and push
+        env:
+          # Use the github-actions[bot] identity for the commit
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          git add mods/ index.toml
+          if git diff --cached --quiet; then
+            echo "No changes to commit (mod may have already been present)"
+            exit 0
+          fi
+          git commit -m "Add ${{ inputs.slug }} from ${{ inputs.source }}
+
+          Triggered by ${{ github.actor }} via Add mod workflow.
+          Side: ${{ inputs.side }}"
+          git push

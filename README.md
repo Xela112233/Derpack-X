@@ -31,15 +31,16 @@ The list of mods to read first:
 - **[`docs/MODLIST.md`](docs/MODLIST.md)** — human-readable list of every mod, what it does, and why it's in the pack. Start here.
 - **[`docs/EDITING.md`](docs/EDITING.md)** — how to add a mod, drop in a config, or change something. Written for people who've never touched packwiz.
 
-### The three commands you'll actually use
+### How to make changes
 
-```bash
-packwiz mr add <slug>     # add a mod from Modrinth (e.g. packwiz mr add jei)
-packwiz cf add <slug>     # add a mod from CurseForge
-packwiz update --all      # bump every mod to its newest version
-```
+Most edits happen through the GitHub UI — no local install needed:
 
-That's most of what touching this repo looks like day to day. After any of these, do `git add . && git commit -m "..."` and push.
+- **Add a mod** → Actions tab → "Add mod" workflow → Run
+- **Remove a mod** → Actions tab → "Remove mod" workflow → Run
+- **Update mods** → Actions tab → "Update mods" workflow → Run (blank slug = update all)
+- **Drop in a config / shaderpack / KubeJS script** → upload via the web UI, then trigger "Update mods" to refresh the index
+
+Full walkthrough in [`docs/EDITING.md`](docs/EDITING.md).
 
 ### Where things live
 
