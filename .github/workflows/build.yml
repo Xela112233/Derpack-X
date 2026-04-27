@@ -20,13 +20,8 @@ jobs:
           distribution: temurin
           java-version: '21'
 
-      - name: Set up Go (for packwiz)
-        uses: actions/setup-go@v5
-        with:
-          go-version: '1.22'
-
-      - name: Install packwiz
-        run: go install github.com/packwiz/packwiz@latest
+      - name: Set up packwiz
+        uses: ./.github/actions/setup-packwiz
 
       - name: Refresh packwiz index
         run: packwiz refresh --build
