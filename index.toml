@@ -22,7 +22,7 @@ hash = "8bde6ac33ddfd1f3e35878d32665c167add62dcd676e2a98c78e244181d25776"
 
 [[files]]
 file = ".github/workflows/sync-wishlist.yml"
-hash = "b4bc16771393bc9c8ee35f678f27ab51d0a431325b0b5a934c3ec58cda0014ea"
+hash = "8d7d9ffd1ef9a32afdf262445ceb4a0504ca00c92b894201ae7d83825666e930"
 
 [[files]]
 file = ".github/workflows/update-mods.yml"
@@ -34,7 +34,7 @@ hash = "a367e594ee80fba5f6979bdd46202c3cbc63ab5b3dbc782b832af1c2275e9ed0"
 
 [[files]]
 file = "README.md"
-hash = "91b4b86b7ca7d7e7eb2777aebc3f3eea76e6a104f9f0477ac93704682c39d53f"
+hash = "20a473c07297024bb4e215dc6e8887b654172949b19cfbc30e2855e77279dde0"
 
 [[files]]
 file = "config/README.md"
@@ -46,11 +46,7 @@ hash = "fb4b47e354a896eb39c0bc65ada1f4020b0c01936013c8c1e64780dba2b621fa"
 
 [[files]]
 file = "docs/EDITING.md"
-hash = "3be1fa167853b1d2d983070534b379305baf1f646dffc8a01d140ecef496412c"
-
-[[files]]
-file = "docs/MODLIST.md"
-hash = "b635eef33a59f302e376c9385ab583d12229a15127a76c33e180ed461997c574"
+hash = "3ebdcebfe0f343a6eaa2983e86b78fa839621e351f99d0e9e352264551d9a122"
 
 [[files]]
 file = "docs/PRISM-SETUP.md"
@@ -195,11 +191,6 @@ hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
-file = "mods/playeranimatorapi.pw.toml"
-hash = "e28765ba82e87c025f6741bbce86de4fee23df33faf71a94c4a75fb9cc19db3d"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "7a8880ea7dc331692ce1210d300bd156427d4b88f11a49766120992f8edf5f75"
 metafile = true
@@ -286,4 +277,4 @@ hash = "0380f3632f5d349cf5bf5e1d6bedf04d8ce03eea1b09ef8bd3435e2dc6e2b826"
 
 [[files]]
 file = "wishlist.txt"
-hash = "14bc697c8d064410c7ad715faff30dae4b1aa803824ae6134072f96186dde762"
+hash = "58a1eb56bc2f70eb4b8fc5ea3899f04c40ba8d61392bb84b16772968d65d42b7"
