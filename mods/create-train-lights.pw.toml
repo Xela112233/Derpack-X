@@ -1,0 +1,13 @@
+name = "Create Train Lights"
+filename = "ctl-neoforge-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nRC3whhL/versions/suYdvEKP/ctl-neoforge-1.1.1.jar"
+hash-format = "sha512"
+hash = "e210f08cb7479877f2f30082a290d5fbecd4d71acecf68bb7a102146c11971eddd536faa0852afbb35c06727ef6245091451115dd99f0e7a80357e4490cced40"
+
+[update]
+[update.modrinth]
+mod-id = "nRC3whhL"
+version = "suYdvEKP"

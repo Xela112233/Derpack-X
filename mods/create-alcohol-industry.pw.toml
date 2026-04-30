@@ -1,0 +1,13 @@
+name = "Create: Alcohol Industry"
+filename = "alcohol_industry-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DK0udKSN/versions/30sNmYOR/alcohol_industry-2.0.jar"
+hash-format = "sha512"
+hash = "c1355d71383743bf58711bc72d84b7658497ac0511920f71fdfab0bcaf858aee345a4b1f4989817fac189a8e8da4b5d38c51f74bae3a01ce1a3d59b590b7e594"
+
+[update]
+[update.modrinth]
+mod-id = "DK0udKSN"
+version = "30sNmYOR"

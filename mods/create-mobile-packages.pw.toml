@@ -1,0 +1,13 @@
+name = "Create: Mobile Packages"
+filename = "create_mobile_packages-1.21.1-0.7.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vXRfEHZ/versions/vrSxdmxm/create_mobile_packages-1.21.1-0.7.4.jar"
+hash-format = "sha512"
+hash = "8c7c2eea47455cbc27de25688926261ea58b9f61ae86d1d39cdfa834a22d4a5b474415d8d4b9766b5f69cb8cc8b1c8a00005a082f6df668bbecd1bd9621bb359"
+
+[update]
+[update.modrinth]
+mod-id = "1vXRfEHZ"
+version = "vrSxdmxm"

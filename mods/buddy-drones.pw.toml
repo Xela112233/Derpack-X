@@ -1,0 +1,13 @@
+name = "Buddy Drones"
+filename = "drones-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5NYdYLm1/versions/EfH1X1Lo/drones-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "8c90e97294c605f5b717b6bef5f8b4565d9bc1f5b83a6722f0836a3956155f96ed01c3e5199b6de4493f0015b31c72f0a576d8b043ee3046264234041f610306"
+
+[update]
+[update.modrinth]
+mod-id = "5NYdYLm1"
+version = "EfH1X1Lo"

@@ -1,0 +1,13 @@
+name = "Create: Mechanical Companion"
+filename = "createmechanicalcompanion-1.9-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nJ9B5oz1/versions/6ZRWru4y/createmechanicalcompanion-1.9-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "3f1af10bba57620549dc6dcbf67bdeb4235fc00fd8cb0073a55d18560eb16be303f2d0b200f3955e985ff4c18df1f4b8214bbe65691dae19eeb6ffbdd670622b"
+
+[update]
+[update.modrinth]
+mod-id = "nJ9B5oz1"
+version = "6ZRWru4y"
