@@ -1,0 +1,13 @@
+name = "Game Discs"
+filename = "gamediscs-0.3.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AgqoIu86/versions/1Kl2MsiJ/gamediscs-0.3.2-neoforge.jar"
+hash-format = "sha512"
+hash = "486ebca8cf0fcbcbe8e73650bf65e4890316f2ec7f5f81813634f0296a865705454308f871468b6947566dcb0e395878da6789e7a2956591bb5dc2db300ff324"
+
+[update]
+[update.modrinth]
+mod-id = "AgqoIu86"
+version = "1Kl2MsiJ"

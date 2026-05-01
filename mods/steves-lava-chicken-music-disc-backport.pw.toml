@@ -1,0 +1,13 @@
+name = "Steve's lava chicken music disc backport"
+filename = "steves_lava_chicken_music_disc-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P3ygT8R5/versions/tgcwRlY2/steves_lava_chicken_music_disc-1.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "00c0f8a7bb8de7b1b96c55acf7b447f0512d66f14df36c521fc07d91343b57807f42c41d4258ca56f94f9bd8f9ce96220ee87596560f5033f0929008494097d1"
+
+[update]
+[update.modrinth]
+mod-id = "P3ygT8R5"
+version = "tgcwRlY2"

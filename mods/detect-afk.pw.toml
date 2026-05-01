@@ -1,0 +1,13 @@
+name = "Detect AFK Players"
+filename = "detect-afk-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OZdgwUpA/versions/NueuBhVh/detect-afk-1.2.2.jar"
+hash-format = "sha512"
+hash = "1773b5399f6244102e1d54fea994a4d773adaf19dfded6eaebe7518dbd483bfe90160feb619cd491e9ed207d70057e34b8980312d0671b5a3fa122ccaddde81a"
+
+[update]
+[update.modrinth]
+mod-id = "OZdgwUpA"
+version = "NueuBhVh"

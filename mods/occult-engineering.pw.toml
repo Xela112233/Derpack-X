@@ -1,0 +1,13 @@
+name = "Create: Occult Engineering"
+filename = "occultengineering-1.21.1-0.12.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FHMHF9Qr/versions/Se09d8Qf/occultengineering-1.21.1-0.12.3.jar"
+hash-format = "sha512"
+hash = "adc9de9717b78564f7171340b99bccf7a722d2e412b6cde7e7c8465c6905c3a70c5d780750abf8213844b5032638e166d2cc387d781822d34ba0c03ccce123ff"
+
+[update]
+[update.modrinth]
+mod-id = "FHMHF9Qr"
+version = "Se09d8Qf"

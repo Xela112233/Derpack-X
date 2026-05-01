@@ -1,0 +1,13 @@
+name = "Head in the Clouds"
+filename = "head_in_the_clouds-neoforge-2.2.1+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Agw7MFEL/versions/EfRXmaU4/head_in_the_clouds-neoforge-2.2.1%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "c1a54abf4a72e70dad63bf6495c5de8f29e982b19c8bba1c31cc72d09ae8050ef7dedf5ada830d9276f5ac2765d532112a3851062b4eba83551f72e1a93c3445"
+
+[update]
+[update.modrinth]
+mod-id = "Agw7MFEL"
+version = "EfRXmaU4"

@@ -1,0 +1,13 @@
+name = "Rolling Down in the Deep"
+filename = "rolling-down-in-the-deep-0.2.1+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zQqsEeqy/versions/EAZy6MA3/rolling-down-in-the-deep-0.2.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "9cef0f98dfafb175096ae34770261ebace8178d92072c7ea40411ffbb6bf5c2ea29a501a4af730c674832497898fdbc0700a19079e96a5750a7bc0acb823a44a"
+
+[update]
+[update.modrinth]
+mod-id = "zQqsEeqy"
+version = "EAZy6MA3"

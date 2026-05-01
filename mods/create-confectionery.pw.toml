@@ -1,0 +1,13 @@
+name = "Create Confectionery"
+filename = "create-confectionery1.21.1_v1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WPE5gRs9/versions/m9KI739R/create-confectionery1.21.1_v1.1.2.jar"
+hash-format = "sha512"
+hash = "2ea7f9e0114c5a22f0c1795b1a6fdd841e4b1d7faaaf5795f923b3fcf7d2de0c0841fdfa37ade711a68e1cd7cedb1576d29113bf14b012929e3aca6f336bfec9"
+
+[update]
+[update.modrinth]
+mod-id = "WPE5gRs9"
+version = "m9KI739R"

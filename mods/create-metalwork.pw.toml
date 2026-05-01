@@ -1,0 +1,13 @@
+name = "Create: Metalwork"
+filename = "createmetalwork-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q5i9RTSJ/versions/cQiPf5no/createmetalwork-2.0.0.jar"
+hash-format = "sha512"
+hash = "d413d617c37207d75261c64c0032fae6be7895c44225ccf5f532d9b26d3d3ff198710ef6274a6df77f356f9424ca028f4a0a1afae9ee16ac4293b9be398245af"
+
+[update]
+[update.modrinth]
+mod-id = "q5i9RTSJ"
+version = "cQiPf5no"

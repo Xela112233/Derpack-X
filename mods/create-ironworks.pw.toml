@@ -1,0 +1,13 @@
+name = "Create: Ironworks"
+filename = "create_ironworks-4.0.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FZb6dmQf/versions/91r9PehB/create_ironworks-4.0.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "1d121e4f6ba2464976a83925053a0d28a43e692d337890c33a24ce4cf7fb8fd34abfd3ce37293bf18b14ff45a665e29a8d6ff71212a0a75404d9e1c24a22347f"
+
+[update]
+[update.modrinth]
+mod-id = "FZb6dmQf"
+version = "91r9PehB"

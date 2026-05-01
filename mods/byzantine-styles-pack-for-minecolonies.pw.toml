@@ -1,0 +1,13 @@
+name = "Byzantine Styles Pack for Minecolonies"
+filename = "Byzantine-1.21.1-37.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5andNzP4/versions/H0yoh9qf/Byzantine-1.21.1-37.jar"
+hash-format = "sha512"
+hash = "01da00db7b40cae82565e40277d35f2857f56dc95744858bcb4dae07676773b71b40ef14fc65f1f4cbde636b3e5474171b7e6bf57c57b79302d9a2316f049016"
+
+[update]
+[update.modrinth]
+mod-id = "5andNzP4"
+version = "H0yoh9qf"

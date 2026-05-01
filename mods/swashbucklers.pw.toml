@@ -1,0 +1,13 @@
+name = "Swashbucklers"
+filename = "swashbucklers! 2.6.6C 1.21.1 neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g6bnDQis/versions/Htp11AjW/swashbucklers%21%202.6.6C%201.21.1%20neoforge.jar"
+hash-format = "sha512"
+hash = "62410d930b8f62bb0bb582c88fd9fbf0381813925340e83ebd8b34af25439cbe505a514c55fd1dbd184a3e839a913eba395f8f8374f836de6403e5dddfaf9e7a"
+
+[update]
+[update.modrinth]
+mod-id = "g6bnDQis"
+version = "Htp11AjW"

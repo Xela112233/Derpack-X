@@ -1,0 +1,13 @@
+name = "Tofu Create"
+filename = "tofucreate-1.21.1-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SNoLi0im/versions/gak7ih86/tofucreate-1.21.1-2.1.0.jar"
+hash-format = "sha512"
+hash = "178d1ba017762715ab9f01c4a19cc16e7b250ab801338e5738d48fc3ac607f77b557fc02ae27ae0bfddeab5cf9af36222897171cc34b00cad39fa81f63c2b883"
+
+[update]
+[update.modrinth]
+mod-id = "SNoLi0im"
+version = "gak7ih86"
