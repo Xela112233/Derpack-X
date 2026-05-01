@@ -1,0 +1,13 @@
+name = "Lithostitched"
+filename = "lithostitched-1.7.2-neoforge-21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/IONexlgI/lithostitched-1.7.2-neoforge-21.1.jar"
+hash-format = "sha512"
+hash = "ff5b534e0f6519dfa2ce3e993a92529b7400265f1f94f806ba384b253449305c645f0a6e4defce80ba1ac7028be1933dec3e1ec2106ac974c5126927e8bd9ab8"
+
+[update]
+[update.modrinth]
+mod-id = "XaDC71GB"
+version = "IONexlgI"

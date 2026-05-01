@@ -1,0 +1,13 @@
+name = "Mushroom Quest"
+filename = "MushroomQuest-NeoForge-1.21.1-v4.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OjcK2Epc/versions/AZmVI7pr/MushroomQuest-NeoForge-1.21.1-v4.3.1.jar"
+hash-format = "sha512"
+hash = "108f97ce8df0e3e06a8bd8fd910a825ab4bd3f18867921eef73dfe33b218d14769474a5083abe9a940afb254dc5e5eec7910274ade9171ffa6289c9f5f2e2674"
+
+[update]
+[update.modrinth]
+mod-id = "OjcK2Epc"
+version = "AZmVI7pr"

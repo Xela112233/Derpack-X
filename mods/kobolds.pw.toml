@@ -1,0 +1,13 @@
+name = "Kobolds"
+filename = "Kobolds-3.0.41.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufaxN0Ay/versions/nvPUjaxs/Kobolds-3.0.41.jar"
+hash-format = "sha512"
+hash = "da05f6e1f9e173b505174d9e6b8dfc8c07131917f37cb7ff0bb39a6ce216e994f31b1431b5881da6b4bbd2e588ac1e62beead3a2b189b6fa5cc95f3a3edd76b4"
+
+[update]
+[update.modrinth]
+mod-id = "ufaxN0Ay"
+version = "nvPUjaxs"

@@ -1,0 +1,13 @@
+name = "Big Sign Writer"
+filename = "bigsignwriter-2.0.1+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UCpxwAAu/versions/S4z7PThV/bigsignwriter-2.0.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "382c28f3f4810f4366b6968fbffb2c18ffb07b4287dfab04c589b896c106a16b38bed3c93543a1a9e9c444731458c3cb562c2d2be5c97f6bfe0017019abc5a59"
+
+[update]
+[update.modrinth]
+mod-id = "UCpxwAAu"
+version = "S4z7PThV"

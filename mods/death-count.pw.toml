@@ -1,0 +1,13 @@
+name = "Death Count"
+filename = "death-count-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JaEZg1D1/versions/YQjXpK5d/death-count-1.0.jar"
+hash-format = "sha512"
+hash = "8bca30d07a31bb722709d8f03ea5fc3cc63511c378610f9c555d8d04e1170dffb2d7301b2fca3bfa8fc516ca359577c853262bbcde472bbc815589f6b3d94866"
+
+[update]
+[update.modrinth]
+mod-id = "JaEZg1D1"
+version = "YQjXpK5d"

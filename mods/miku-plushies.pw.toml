@@ -1,0 +1,13 @@
+name = "Miku Plushies"
+filename = "miku-plushie-2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LnqZM7XU/versions/UsG3L0dr/miku-plushie-2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "b80ab48d49fd9b7ffa3840318e736dd96507a14bc761c4c7405747ee2dbef016b55ea84a7d7ad3442411fcfacea0c4606911ac60d991a3f37f0798d12a64fd3c"
+
+[update]
+[update.modrinth]
+mod-id = "LnqZM7XU"
+version = "UsG3L0dr"

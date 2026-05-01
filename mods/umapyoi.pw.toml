@@ -1,0 +1,13 @@
+name = "Umapyoi"
+filename = "umapyoi-1.4.11-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7VBSfzFP/versions/9vNmKSM6/umapyoi-1.4.11-1.21.1.jar"
+hash-format = "sha512"
+hash = "24068a9a5e9afdc0fc9bf09262a765f93fb1203d8bbd0ad7a9154957ab62e29a6495797965489e5e2ebb11217010e3b35dcdab4b8e34023c9ea3dabb370b4dac"
+
+[update]
+[update.modrinth]
+mod-id = "7VBSfzFP"
+version = "9vNmKSM6"

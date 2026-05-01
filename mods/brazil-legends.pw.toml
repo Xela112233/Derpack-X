@@ -1,0 +1,13 @@
+name = "Brazil Legends"
+filename = "brazil_legends-1.7.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ayPSrrVb/versions/8x9J6bus/brazil_legends-1.7.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "2d1f6a0482472705f7537f7f5ce8cb49d547b6cf6746bc9fef7748f7318aaf8883dee52bca5abd216917590eef1e16432f3c90c08af2705879ea76e9eff07f33"
+
+[update]
+[update.modrinth]
+mod-id = "ayPSrrVb"
+version = "8x9J6bus"

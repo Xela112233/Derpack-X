@@ -1,0 +1,13 @@
+name = "Bundle Recipe"
+filename = "bundle-recipe-1.21.1-v1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hkc2j5Bf/versions/lt52vHA3/bundle-recipe-1.21.1-v1.1.0.jar"
+hash-format = "sha512"
+hash = "be668e4790181af5a512dd1cfcf5004904f332fac8b75cfe39dbd6ae29226d8658b38feef9db542e93f6c3f5ed8ac60d24e87871f6b768945f37da0128131807"
+
+[update]
+[update.modrinth]
+mod-id = "Hkc2j5Bf"
+version = "lt52vHA3"

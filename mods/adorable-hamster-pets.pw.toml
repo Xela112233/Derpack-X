@@ -1,0 +1,13 @@
+name = "Adorable Hamster Pets"
+filename = "adorablehamsterpets-3.6.0-1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LmrhZdK2/versions/YtAMyMxt/adorablehamsterpets-3.6.0-1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "9bf505ecc9dd5920fbfdb90fa86eeea279c9f24e05047c9a21f943aea6b5b6ce24cb48fdb409f0527599c45c45b97e810d3774c278c42628a97e0d0754f986d8"
+
+[update]
+[update.modrinth]
+mod-id = "LmrhZdK2"
+version = "YtAMyMxt"

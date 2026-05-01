@@ -1,0 +1,13 @@
+name = "Valarian Conquest"
+filename = "valarian_conquest-4.2.1.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FTLgMXgq/versions/rJEDQhmW/valarian_conquest-4.2.1.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "6d1c277f27ac351e1fb2850220e7ed61048c816129573f7e71f8f4351825507abee7e8414e0bef0eb1dfae749974e0aca4a2d0e706390d619e2a84401187b990"
+
+[update]
+[update.modrinth]
+mod-id = "FTLgMXgq"
+version = "rJEDQhmW"

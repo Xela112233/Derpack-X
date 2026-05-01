@@ -1,0 +1,13 @@
+name = "Spectrum"
+filename = "spectrum-1.11.6-1.21.1-neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/T32MtgeB/spectrum-1.11.6-1.21.1-neo.jar"
+hash-format = "sha512"
+hash = "b09377050db3f2649abd134a0dc7ac5f93c8815671ab433fb0af756e837107f769b74f63976bcb45263a3475f28ba6bd9a2919eb810681721b6754be2ab86d15"
+
+[update]
+[update.modrinth]
+mod-id = "3rc31Hgo"
+version = "T32MtgeB"
