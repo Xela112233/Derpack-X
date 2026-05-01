@@ -866,11 +866,6 @@ hash = "28a5b63f5db878a2b7ba6a07a94502a3910be4a3f1f53ce1f835f7042f587603"
 metafile = true
 
 [[files]]
-file = "mods/via-romana.pw.toml"
-hash = "d96fe12674f0a9d208ab683e0799542b03ddfd9b17bd89996f3fca73dd3df2dd"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "974c70cb83d75b39a3b0a49fc56db06423d7343b74f80c3cf5437951d743c8e8"
 metafile = true
