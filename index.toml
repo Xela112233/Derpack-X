@@ -826,11 +826,6 @@ hash = "455ba0409bef5fe9bda93434d826a8d2d5eb11c1b7d41ea119256fe3b15da157"
 metafile = true
 
 [[files]]
-file = "mods/tofucraftreload.pw.toml"
-hash = "963b12760816abf162e1d579ae03db8112f2178edcf1961fd230bbee0f40f2b7"
-metafile = true
-
-[[files]]
 file = "mods/touhou-little-maid.pw.toml"
 hash = "c46e22076b4905de8ac9a2d61976c830d709258d641de7c99cca68063e745eed"
 metafile = true
