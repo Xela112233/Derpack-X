@@ -14,7 +14,7 @@ hash = "bb60ca2bfc51502ab943fdf2048219fa284fe2b7de9e8287300ed0edb21bc18d"
 
 [[files]]
 file = ".github/workflows/build.yml"
-hash = "1936074efb0683b1916036390bf9739f9fe7059ead8802bbbadf68b5a1586bb1"
+hash = "727305377cd815fdff6ad279c45dee2f4dd646dad6c0c07d8977ae6662747402"
 
 [[files]]
 file = ".github/workflows/compute-hash.yml"
@@ -221,11 +221,6 @@ metafile = true
 [[files]]
 file = "mods/continents.pw.toml"
 hash = "2093cb1975cff3c2e584282bc19340d1d7567dc61c86a0461adce0066d6e3a62"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
