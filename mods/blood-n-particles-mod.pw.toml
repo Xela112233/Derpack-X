@@ -1,0 +1,12 @@
+name = "Blood N Particles Mod"
+filename = "Blood N' Particles v1.4.0 - NeoForge 1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/GMc9eFJe/versions/Qzygmveo/Blood%20N%27%20Particles%20v1.4.0%20-%20NeoForge%201.21.1.jar"
+hash-format = "sha512"
+hash = "3e0010b701824acc29aa39dec5601303257c6ba719234100b42c8c203c49faaba570a84220ee842036af1f0b2b7073c5e6f1ef21973cf3133827de0068c9bbea"
+
+[update]
+[update.modrinth]
+mod-id = "GMc9eFJe"
+version = "Qzygmveo"

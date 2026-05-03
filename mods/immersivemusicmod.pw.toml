@@ -1,0 +1,12 @@
+name = "The Immersive Music Mod"
+filename = "timm-1.1-neoforge-1.21.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/EgBj3Bnf/versions/AoFYLDWr/timm-1.1-neoforge-1.21.jar"
+hash-format = "sha512"
+hash = "6635a5e316d0e84c59c472a98cf02248c81484fbe34397f5da03f0e1d4c336ae098474c46272499f924c745c4fb4f89d5810ffc2944ce98a909ea796b23e7e90"
+
+[update]
+[update.modrinth]
+mod-id = "EgBj3Bnf"
+version = "AoFYLDWr"

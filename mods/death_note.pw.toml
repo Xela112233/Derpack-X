@@ -1,0 +1,12 @@
+name = "Death Note"
+filename = "death-note-v1.4.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/5c0WluYg/versions/OZhQ6Ehy/death-note-v1.4.2.jar"
+hash-format = "sha512"
+hash = "f58d534ead7226bf60976f3ae3bf0fc521e759a3c1eb5bd91abdb7ae8eb42d3aabda6c74ed59674eac93467403a2acdebc1e2cc4ac331069dd41155a7a7565e3"
+
+[update]
+[update.modrinth]
+mod-id = "5c0WluYg"
+version = "OZhQ6Ehy"
