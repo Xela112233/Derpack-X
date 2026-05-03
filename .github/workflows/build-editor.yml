@@ -62,12 +62,16 @@ jobs:
       - name: Check if binary changed
         id: check
         run: |
-          if git diff --quiet tools/derpack-edit.exe; then
+          # Stage the file first so `git diff --cached` can compare it against
+          # whatever's currently in the index. This handles the first-build
+          # case correctly (where the file doesn't exist in HEAD yet).
+          git add tools/derpack-edit.exe
+          if git diff --cached --quiet -- tools/derpack-edit.exe; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "Binary unchanged, skipping commit"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "Binary changed, will commit"
+            echo "Binary changed (or new), will commit"
             ls -lh tools/derpack-edit.exe
           fi
 
@@ -80,7 +84,7 @@ jobs:
           GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
         run: |
           set -euo pipefail
-          git add tools/derpack-edit.exe
+          # Already staged in the previous step.
           git commit -m "Rebuild derpack-edit.exe [skip ci]
 
           Triggered by ${{ github.event.head_commit.message || 'manual rebuild' }}
