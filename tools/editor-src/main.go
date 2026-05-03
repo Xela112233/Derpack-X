@@ -77,6 +77,7 @@ func run() error {
 	mux.HandleFunc("/api/pack", srv.HandleGetPack)
 	mux.HandleFunc("/api/mods", srv.HandleListMods)
 	mux.HandleFunc("/api/mods/add", srv.HandleAddMod)
+	mux.HandleFunc("/api/mods/batch-add", srv.HandleBatchAdd)
 	mux.HandleFunc("/api/mods/remove", srv.HandleRemoveMod)
 	mux.HandleFunc("/api/mods/pin", srv.HandlePin)
 	mux.HandleFunc("/api/mods/set-version", srv.HandleSetVersion)

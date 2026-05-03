@@ -428,6 +428,92 @@ function submitSvUrl() {
   confirmSetVersion(setVersionSlug, { url, filename, label: filename || url });
 }
 
+// ----- Wishlist (batch add) modal ---------------------------------------
+
+function openWishlistModal() {
+  $('#wishlist-modal').classList.remove('hidden');
+  $('#wishlist-results').classList.add('hidden');
+  $('#wishlist-results-list').innerHTML = '';
+  // Don't clear the textarea automatically — preserve in-progress edits
+  // across modal opens in case the user accidentally closed it.
+  $('#wishlist-input').focus();
+}
+
+function closeWishlistModal() {
+  $('#wishlist-modal').classList.add('hidden');
+}
+
+async function processWishlist() {
+  const text = $('#wishlist-input').value;
+  const lines = text.split('\n').map(l => l.replace(/\r$/, ''));
+  const nonEmpty = lines.filter(l => {
+    const trimmed = l.trim();
+    return trimmed && !trimmed.startsWith('#');
+  });
+
+  if (nonEmpty.length === 0) {
+    logStatus('warn', 'Wishlist is empty (or only comments)');
+    return;
+  }
+
+  const btn = $('#wishlist-process');
+  btn.disabled = true;
+  btn.textContent = `Processing ${nonEmpty.length}...`;
+
+  $('#wishlist-results').classList.remove('hidden');
+  const list = $('#wishlist-results-list');
+  list.innerHTML = `<li class="wishlist-pending">Processing ${nonEmpty.length} entries (this may take a while)...</li>`;
+
+  logStatus('ok', `Processing wishlist (${nonEmpty.length} entries)...`);
+
+  try {
+    const r = await apiPost('/api/mods/batch-add', { lines });
+    list.innerHTML = '';
+
+    let okCount = 0;
+    let errCount = 0;
+    const failedLines = [];
+
+    for (const result of r.results || []) {
+      const li = document.createElement('li');
+      li.className = result.ok ? 'wishlist-ok' : 'wishlist-err';
+      const slugLabel = result.slug
+        ? `${escapeHtml(result.source || '?')}:${escapeHtml(result.slug)}`
+        : escapeHtml(result.line);
+      if (result.ok) {
+        li.innerHTML = `<span class="wishlist-icon">✓</span> ${slugLabel}`;
+        okCount++;
+      } else {
+        const errText = result.error || 'unknown error';
+        li.innerHTML = `<span class="wishlist-icon">✗</span> ${slugLabel} — <span class="wishlist-err-msg">${escapeHtml(errText)}</span>`;
+        errCount++;
+        failedLines.push(result.line);
+      }
+      list.appendChild(li);
+    }
+
+    logStatus(errCount === 0 ? 'ok' : 'warn',
+      `Wishlist done: ${okCount} added, ${errCount} failed`);
+
+    // Replace the textarea with only the failed lines, so the user can fix
+    // and retry without manually filtering.
+    if (errCount > 0 && okCount > 0) {
+      $('#wishlist-input').value = failedLines.join('\n');
+    } else if (okCount > 0) {
+      // All succeeded — clear the textarea.
+      $('#wishlist-input').value = '';
+    }
+
+    await loadMods();
+  } catch (err) {
+    list.innerHTML = `<li class="wishlist-err"><span class="wishlist-icon">✗</span> ${escapeHtml(err.message)}</li>`;
+    logStatus('err', `Wishlist processing failed: ${err.message}`);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Process all';
+  }
+}
+
 // ----- Settings modal ----------------------------------------------------
 
 let configCache = null;
@@ -569,6 +655,16 @@ document.addEventListener('DOMContentLoaded', () => {
   $('#add-confirm').addEventListener('click', submitAddMod);
   $('#add-slug').addEventListener('keydown', (e) => {
     if (e.key === 'Enter') submitAddMod();
+  });
+
+  // Wishlist modal
+  $('#wishlist-btn').addEventListener('click', openWishlistModal);
+  $('#wishlist-cancel').addEventListener('click', closeWishlistModal);
+  $('#wishlist-process').addEventListener('click', processWishlist);
+  $('#wishlist-clear-btn').addEventListener('click', () => {
+    $('#wishlist-input').value = '';
+    $('#wishlist-results').classList.add('hidden');
+    $('#wishlist-input').focus();
   });
 
   // Set version modal

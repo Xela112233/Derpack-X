@@ -28,6 +28,7 @@
 
     <section class="action-bar">
       <button id="add-mod-btn" type="button" class="primary">+ Add mod</button>
+      <button id="wishlist-btn" type="button">📋 Wishlist (batch add)</button>
       <button id="update-all-btn" type="button">Update all (skip pinned)</button>
       <button id="build-launch-btn" type="button" class="success">▶ Build & Launch in Prism</button>
       <button id="settings-btn" type="button" title="Configure Prism instance path">⚙ Settings</button>
@@ -91,6 +92,35 @@
       <div class="modal-actions">
         <button type="button" id="confirm-cancel">Cancel</button>
         <button type="button" id="confirm-ok" class="danger">Confirm</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Wishlist (batch add) modal -->
+  <div id="wishlist-modal" class="modal hidden" role="dialog" aria-labelledby="wishlist-title">
+    <div class="modal-content wishlist-modal-content">
+      <h2 id="wishlist-title">Wishlist — batch add mods</h2>
+      <p class="sv-help">
+        One slug per line. Format:<br>
+        <code>mr:supplementaries</code> for Modrinth, <code>cf:create-mob-spawners</code> for CurseForge,
+        or just <code>supplementaries</code> (defaults to Modrinth). Lines starting with <code>#</code> are comments.
+      </p>
+      <label>
+        <span style="display: flex; justify-content: space-between; align-items: center;">
+          Mods to add
+          <button type="button" id="wishlist-clear-btn" class="wishlist-mini-btn" title="Clear textarea">Clear</button>
+        </span>
+        <textarea id="wishlist-input" rows="12" placeholder="mr:supplementaries&#10;mr:create-deco&#10;cf:create-diesel-generators&#10;# this is a comment, ignored"></textarea>
+      </label>
+
+      <div id="wishlist-results" class="wishlist-results hidden">
+        <h3>Results</h3>
+        <ul id="wishlist-results-list"></ul>
+      </div>
+
+      <div class="modal-actions">
+        <button type="button" id="wishlist-cancel">Close</button>
+        <button type="button" id="wishlist-process" class="primary">Process all</button>
       </div>
     </div>
   </div>
