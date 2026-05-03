@@ -20,3 +20,4 @@
 # To remove a mod from the pack, use the "Remove mod" workflow instead.
 #
 # === Add new mods below this line ===
+mr:handcrafted

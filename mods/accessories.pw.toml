@@ -1,7 +1,6 @@
 name = "Accessories"
 filename = "accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/Fb55Fgjz/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar"
