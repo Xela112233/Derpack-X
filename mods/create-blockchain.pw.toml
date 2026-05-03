@@ -1,0 +1,12 @@
+name = "Create: Blockchain"
+filename = "createblockchain-1.0.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/FqqlztK7/versions/AZNYSImQ/createblockchain-1.0.2.jar"
+hash-format = "sha512"
+hash = "adbb9a8071e761fb23a78ad2e97cd1fe68729ab712ce05dd1807345b8409cca92eb83de6d85c2ad33df699c55e48a74fd009f10249099470ce035561c05e9e48"
+
+[update]
+[update.modrinth]
+mod-id = "FqqlztK7"
+version = "AZNYSImQ"

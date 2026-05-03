@@ -1,0 +1,12 @@
+name = "Tough As Nails"
+filename = "ToughAsNails-neoforge-1.21.1-10.1.0.13.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/ge1sOdFH/versions/mboAbksk/ToughAsNails-neoforge-1.21.1-10.1.0.13.jar"
+hash-format = "sha512"
+hash = "ee6984b6b97f9a4ee03103ea3caaaeb373bbd39eca5e4bd268f62c21e3e365c3ff91a707ab0f15b3352d0052d44d78903fab20ae6d9d259a4b19f1eb49954659"
+
+[update]
+[update.modrinth]
+mod-id = "ge1sOdFH"
+version = "mboAbksk"

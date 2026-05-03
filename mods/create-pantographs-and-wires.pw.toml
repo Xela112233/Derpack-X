@@ -1,0 +1,12 @@
+name = "Create: Pantographs & Wires"
+filename = "pantographsandwires-neoforge-1.21.1-beta-0.2.2-C6.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/VzdCnMqW/versions/KV6hDZ7C/pantographsandwires-neoforge-1.21.1-beta-0.2.2-C6.jar"
+hash-format = "sha512"
+hash = "5ed5f48791aa9108411335457beacf67803c91dea161b05d332a10ad426220a69256f1f1268a820109a7ed0e1d71fdb1a17289c2a5c86173ffd030b00c09ccab"
+
+[update]
+[update.modrinth]
+mod-id = "VzdCnMqW"
+version = "KV6hDZ7C"

@@ -5,1052 +5,36 @@ file = ".devcontainer/devcontainer.json"
 hash = "bdd9c71945406ce4bfb6bb8b13aced1a1ee520cadbe077fd345dd8f676ef1101"
 
 [[files]]
-file = ".editor/build-staging/.minecraft/.devcontainer/devcontainer.json"
-hash = "bdd9c71945406ce4bfb6bb8b13aced1a1ee520cadbe077fd345dd8f676ef1101"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.editor/build-staging/.minecraft/config/README.md"
-hash = "86e7944b9da85a39c7dd016ab819eda76892d5bb70cc0deb1c9224580f283175"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.editor/build-staging/.minecraft/defaultconfigs/README.md"
-hash = "fb4b47e354a896eb39c0bc65ada1f4020b0c01936013c8c1e64780dba2b621fa"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.editor/build-staging/.minecraft/kubejs/README.md"
-hash = "dc55272ae40f89dd922cc92b4d77448bf8afdc47be96f80c4ca0a20bdfedd2d6"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.editor/build-staging/.minecraft/kubejs/server_scripts/example.js"
-hash = "cd82b7d39d0aabec0160decce26d25daa3a36a700e6215042d48b2f13bfa2555"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.editor/build-staging/.minecraft/packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.editor/build-staging/.minecraft/resourcepacks/README.md"
-hash = "932ff2e9a4378a583a87c9a7a0609837c5b02b5633e5b8dba381a3b1333a9e9f"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.editor/build-staging/.minecraft/shaderpacks/README.md"
-hash = "0380f3632f5d349cf5bf5e1d6bedf04d8ce03eea1b09ef8bd3435e2dc6e2b826"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.editor/build-staging/instance.cfg"
-hash = "c4e2b0197546f0a1807a185318f33cd4c91a0559daab63a451e016b117645af1"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.editor/build-staging/mmc-pack.json"
-hash = "f3fd4fdd8811f271cb56e8c3f0eb0a2f5b6cec809f6a646be1e56c5ac76737ab"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.editor/config.json"
-hash = "242c4f7a6f0400a4891adf11125140400a43626a0634fcf7138bc76a3f53786d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.editor/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.github/actions/setup-packwiz/action.yml"
-hash = "6b2a29d773a278637a08c33e59ad85d8140ececc08d8b056484839b1ce66767d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.github/workflows/add-mod.yml"
-hash = "bb60ca2bfc51502ab943fdf2048219fa284fe2b7de9e8287300ed0edb21bc18d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.github/workflows/build-editor.yml"
-hash = "aaee2ea6c8ed26d6d419e8155376ae9252e4d0488d4ba0cf57e45e6b63033c43"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.github/workflows/build.yml"
-hash = "727305377cd815fdff6ad279c45dee2f4dd646dad6c0c07d8977ae6662747402"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.github/workflows/compute-hash.yml"
-hash = "5ecddcaed3576aaedac61860a12f30bb0129584298cea282ae1de9027fdb4a71"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.github/workflows/remove-mod.yml"
-hash = "8bde6ac33ddfd1f3e35878d32665c167add62dcd676e2a98c78e244181d25776"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.github/workflows/sync-wishlist.yml"
-hash = "8d7d9ffd1ef9a32afdf262445ceb4a0504ca00c92b894201ae7d83825666e930"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/.github/workflows/update-mods.yml"
-hash = "d9126477772933202efc2fc67f4ddb85b3db64309900744ce34813ec1e482353"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/LICENSE"
-hash = "a367e594ee80fba5f6979bdd46202c3cbc63ab5b3dbc782b832af1c2275e9ed0"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/README.md"
-hash = "20a473c07297024bb4e215dc6e8887b654172949b19cfbc30e2855e77279dde0"
-
-[[files]]
 file = ".editor/build-staging/.minecraft/config/README.md"
-hash = "86e7944b9da85a39c7dd016ab819eda76892d5bb70cc0deb1c9224580f283175"
+hash = "1a8fb9efa5fb4bbd14a2bf4f5a6ed21082f59d52bd337461e8365fb54ea65127"
 
 [[files]]
 file = ".editor/build-staging/.minecraft/defaultconfigs/README.md"
-hash = "fb4b47e354a896eb39c0bc65ada1f4020b0c01936013c8c1e64780dba2b621fa"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/docs/EDITING.md"
-hash = "3ebdcebfe0f343a6eaa2983e86b78fa839621e351f99d0e9e352264551d9a122"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/docs/PRISM-SETUP.md"
-hash = "0f7f16a2a25af8f0614ffa4b758f3b9058303dc6870b356511dd0bda07506d56"
+hash = "a03321eab7376c0a6aede15689d668e3df8f5fa2cd34f4c6e4b6600abeed47de"
 
 [[files]]
 file = ".editor/build-staging/.minecraft/kubejs/README.md"
-hash = "dc55272ae40f89dd922cc92b4d77448bf8afdc47be96f80c4ca0a20bdfedd2d6"
+hash = "d5ac59914d82a6343e7d1b206901702fcb3e6816c588eb78b8ac58d64e65f83c"
 
 [[files]]
 file = ".editor/build-staging/.minecraft/kubejs/server_scripts/example.js"
 hash = "cd82b7d39d0aabec0160decce26d25daa3a36a700e6215042d48b2f13bfa2555"
 
 [[files]]
-file = ".editor/build-staging/.minecraft/mods/Byzantine-1.21.1-37.jar"
-hash = "8152953a2b2b7a73e001e98f7d15af42f6044ca39434cb0a4e5d5e526cdab5ce"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar"
-hash = "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Continents_26.1_v1.1.13.jar"
-hash = "a9fccccfd3516181538290f1e8df4e47e794ed69c4f0b26aa7d72b46cf85eb7e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Controlling-neoforge-1.21.1-19.0.5.jar"
-hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar"
-hash = "ed7cc0dde1a3660cb043ac88106ebe591749f28b9c0130adf196d2ff49fbefc5"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/CreateDragonsPlus-1.10.0b.jar"
-hash = "8cc47a5ea04c8bbefd24ebca67d45e6a44f80925723cb2f82676d27b0a2a9d66"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar"
-hash = "1375ba1b50e53fd09435029b5b2d5b94779ba397cca7e01180d07b0f624e5b9b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar"
-hash = "84d0fea1e051913a6cd9656fb63692313f1748d06221e453911ec1a22940262e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/DnDesires-1.21.1-2.2d-BETA.jar"
-hash = "8718c117ba98e7fd92312a73b37f20fc8cbfac800963bc5ced4eb49ccdb11330"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/FarmersDelight-1.21.1-1.3.1.jar"
-hash = "f02ffbf597af17d481b930daeed4b5906d6a6fddb464d392f28f42560965f4f4"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar"
-hash = "31589ffc136ac031319db88fa7ce2599ba789ae5d18bd5125e1857e20a834993"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/GnKinetics-1.21.1-1.0m.jar"
-hash = "9f5e699b59282464aad038b88f89634b080fbee23a1e5dab5b7d954b4f10893b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/GrimoireOfGaia4-1.21.1-6.0.0-alpha.9.jar"
-hash = "53cec3d317ebda50c5b778452e25425c397d2022e1c9d33bbeaf03fca354c0e0"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar"
-hash = "05f1b8660f74f543fba61d4ce7cf8632d4c69a95b7c15b1a6fd442be2e397ca6"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Jade-1.21.1-NeoForge-15.10.5.jar"
-hash = "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Kobolds-3.0.41.jar"
-hash = "b90d4b69ebcf84f93d3d5b29e313818e549ab630708ce06c1f6e59489f7ec0e2"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/LetMeFeedYou-neoforge-1.21.1-1.1.jar"
-hash = "7b68d00d65a41fd08a97e15734bafe23254881356e79e63b6924ff061b9e838c"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/MineColonies_Compatibility-1.21.1-3.47.jar"
-hash = "8ad9621ac2a7b7a3809e1f4f32fa2a31d44fb33a030f72a7146888adfe382048"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/MineColonies_Tweaks-1.21.1-3.29.jar"
-hash = "bfb33675c924c3d5b5043df63a84154c51a24ff22e0bc080dfa763cb503e8409"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
-hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/MushroomQuest-NeoForge-1.21.1-v4.3.1.jar"
-hash = "6bab4d833404a165994a2169ec3616d90056f489f2c7c32dcbd2c879080ac70b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
-hash = "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar"
-hash = "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Northstar-0.5.4+1.21.1.jar"
-hash = "60df8f09df05152d3f686397e78d079667de710e4a0572677cb5147d06c5d09b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Patchouli-1.21.1-93-NEOFORGE.jar"
-hash = "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Psi-1.21.1-108.jar"
-hash = "b09095cfad2fe886ca047b0e41ad9fab447fb8bd931df3397abb106293356449"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
-hash = "305c828c171a5b52867b56686665b525bcf286018496ece81f376806794ba914"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Quark-4.1-477.jar"
-hash = "5f12a8b0524a3dc6b51d13d45ae725fbe81c5b66e2fd210f750c8a55300ca688"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/README.md"
-hash = "1bdaf31d6e67e799ad6af84b42a70b00b385a79de30ad2ef2662dd7ca7563370"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Searchables-neoforge-1.21.1-1.0.2.jar"
-hash = "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar"
-hash = "db5182afe9197044916d364b69cd70139457f92859b0bf4f4bb76c3f42360a65"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
-hash = "68036561cc5511766d54cc0deabc3fc3a5e68f9e3db2478f2574ec82b494374b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
-hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/Zeta-1.1-40.jar"
-hash = "4f17d1a2b9fd6d18ddb7697aa451db7fb154053b8648f79de279ae0d7e68a2fa"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/[1.21.1] SecurityCraft v1.10.1.jar"
-hash = "cce82e9f2b74b2c678241a24eeca6c656a07f55f73e16d4d860591db5ed4435f"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
-hash = "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/accessories_compat_layer-neoforge-0.1.12+1.21.1.jar"
-hash = "d9b673ebc4766a59663e4cc73d50e0ff3a371334e599c7890941e6e0bdd286ae"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/adorablehamsterpets-3.6.0-1.21.1+neoforge.jar"
-hash = "db1d5622d1e82d7b2b2ddfc2c2474b531fd4b3f987beec293f7b5052b5457c32"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/aeronauticscompat-1.1.2.jar"
-hash = "5eff8158a171f7520f5fafe2db66d8309983a0fbaa0bdcfd6e107b19b1466482"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/afk-sleep-1.3.2.jar"
-hash = "6a52e880baa50bb9a770c4ae1bda53ff1d203541cc78eebb14ebaff82284e521"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/aileron-1.21.1-neoforge-1.1.4.jar"
-hash = "18e3fa14e352b3df2fe1e670828ee51120a50b37345dae0e5c3a84c44d557527"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/alcohol_industry-2.0.jar"
-hash = "7e1f7f1138f19b8a7f9a4e7904c1ba8cc6da739c55b0a123f97e1a30f9224781"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/alexsmobs-1.22.17.jar"
-hash = "6e502855f79e4c9f2a11d560a9b88a3ab295aa378c44b0f0a0dd95f95d0301a6"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/almostunified-neoforge-1.21.1-1.4.1.jar"
-hash = "a8af0fda75e40b0a1e36a6431fa0a6dbff183376bc9f3d53250b0a5cd600c56a"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/appleskin-neoforge-mc1.21-3.0.9.jar"
-hash = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/architectury-13.0.8-neoforge.jar"
-hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/bagus_lib-1.21.1-13.25.1.jar"
-hash = "a1e6baf5c41881235fe9b6f820426a7755c75fe174df62bac0aa341bab5483d4"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/balm-neoforge-1.21.1-21.0.57.jar"
-hash = "ab56a4edaaf7366e6aa5a7446cf4f0d939e844ab0fb0df9b27967916bff0425a"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/better_lib-neoforge-1.21.1-1.0.109.jar"
-hash = "7d567fac31f88f9df39a81f1a02b255c4b1ec3c2ad8719fb391c17b80adfb2ce"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/bettercombat-neoforge-2.3.2+1.21.1.jar"
-hash = "afb1f28271ee3b622947f533aa754bb22ed67edd4940a3e9fdf2cca1edb7b8a9"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/bigsignwriter-2.0.1+1.21.1-neoforge.jar"
-hash = "44eb0548b26355fab500750e20cce7bbd780689976c7c520fe828515d03cd83e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/bits_n_bobs-0.0.44.jar"
-hash = "6d8268d82cc6e38dd13f5247b28f37b7a35d66cb476c6e0632f4e9ba5570f5d8"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/blockui-1.0.211-1.21.1-snapshot.jar"
-hash = "5dfffc80c057b4d36123bd5f5cad9f32f86896a9dd993ea4a3ecad315cabd77e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/brazil_legends-1.7.0-neoforge-1.21.1.jar"
-hash = "eed40e6de74175a3e2241bc5e3a4dddeed44b960f3302b21ece18f83401dd58b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/bundle-recipe-1.21.1-v1.1.0.jar"
-hash = "b95cd38f61afd6f3f497b7d0e7d497e4f80e35d2f7d78ce6255a62e730519ad7"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/butchery-4.9-neoforge-1.21.1.jar"
-hash = "08de0e8a15b0040f6fa37386af7d17bac3e2852de2ed4df3d46e5e71311ff723"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/chat_heads-0.15.1-neoforge-1.21.jar"
-hash = "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/chefsdelight-1.0.5-neoforge-1.21.1.jar"
-hash = "9fd7920a4cced00443c107c1ac05002b35543734c76e05ef1d1ebf5f17ce99c8"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/citadel-1.21.1-2.7.6.jar"
-hash = "9e12468c49e5a95b7adbf22b3b4d05bc55565989b89c40b985cd73bdfe63c3c2"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/cloth-config-15.0.140-neoforge.jar"
-hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/cmpackagecouriers-neoforge-2.2.3.jar"
-hash = "da112751b2c98f919f670c8ea5b8f30663183accfe08fd43f6b9febdfbb46809"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/cmpackagepipebomb-neoforge-2.1.0.jar"
-hash = "e879fef3037bf04bdc54b86cbc54f7e5189c42d4b6fe981533f74ff601828280"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/cmparallelpipes-neoforge-2.0.2.jar"
-hash = "da852ea8c3588bd775ec038743bb3c8332a68e84fd969d56947f62cbf9fc3e11"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/comforts-neoforge-9.0.5+1.21.1.jar"
-hash = "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/cookingforblockheads-neoforge-1.21.1-21.1.21.jar"
-hash = "57b5195b2f549428109fc3d17647a6ae534f6882792e9e3dcebc667b473bd6e7"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/coroutil-neoforge-1.21.0-1.3.8.jar"
-hash = "9b32bcf2c793d33b93b5d4739c0dc4b64231025c7dc5fe40732b66d7cf4b2826"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create-1.21.1-6.0.10.jar"
-hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create-aeronautics-bundled-1.21.1-1.2.1.jar"
-hash = "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create-central-kitchen-2.4.0.jar"
-hash = "259a9b88d305780234bb2020359879406d74b945616d99a16871334d7aee1826"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create-confectionery1.21.1_v1.1.2.jar"
-hash = "abf25a26f4e814bc208e60ddbe53a52bbd7638fb689184dd220b2146190b43b3"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create-enchantment-industry-2.3.1.jar"
-hash = "6bd60393cf582568a09aa38f82fe6ea6e5928659d7befc6b0ee9f46025179064"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create-integrated-farming-1.2.2.jar"
-hash = "4831d39260cd234b3ae5131f2554e94f525d65ac4f2bb01142d14cc28b55a1c5"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create-new-age-1.1.7c+neoforge-mc1.21.1.jar"
-hash = "ed25425e13bd21c9fb88a4644210e5dab1f8257ccf2158330db0dd068edb9034"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create-shufflefilter-2.0.2-neo.jar"
-hash = "772290d5c6c244169409d1a9323bc6432b6996fe5eba2b1a068e55414f5a672e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create_better_villagers-1.3.2.jar"
-hash = "6601f55c65168141f35a2cc8e9cac96fe52ffa63ba58d4044156de185f416504"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create_cheese_factory-1.5.0-neoforge-1.21.1.jar"
-hash = "a86d55de8bf66c8724e232ece7efc00b1774c241067df8496194651ba731da23"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create_compressed-2.2.0-neoforge-1.21.1.jar"
-hash = "8c0c86a75aa082fd603eb61dfdc72d028b01b1a7bdad377ed2de64ace95b5622"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create_connected-1.1.14-mc1.21.1.jar"
-hash = "fb33e9cbb234d5b6cc7e3eb9ebd55e8dbb4506a11c37a9d72899eef788d25b8f"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create_factory-0.5a-1.21.1.jar"
-hash = "0cc9707eccdd02864ddc735cc92e809533d8d289f6e4691888d47fb7c345a235"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create_ironworks-4.0.3-neoforge-1.21.1.jar"
-hash = "d6efd546e0dce52d7a79fb98de5be4a2690e70505e9ce1ed920f0431597243fd"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create_jetpack-forge-5.1.2.jar"
-hash = "9fe5a681ea841ce9dc02e7132cd360e1c3e75314905b4ef1493e7548265d0985"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create_ltab-3.9.2.jar"
-hash = "93ceae221dbfeaa284c5c0db571ae5696198068376ff3b9b3377f952cb5bdc0e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create_mobile_packages-1.21.1-0.7.4.jar"
-hash = "782a4691cb32bdeea865d6754204bfe9ab8703435a17460aaa6ac251c109a510"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar"
-hash = "58c88a2277ba4e942cf4d0ffda160f590236eb35e7757bacd95a7ac3246a7dce"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/createadditionallogistics-1.21.1-1.4.5.jar"
-hash = "f7bf95504c3bf293464b883c989354dd643d559de5bfcad4a23fed4144592d6a"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/createaddoncompatibility-neoforge-1.21.1-1.0.0.jar"
-hash = "fc48e02329e3248ec5c983819192ce3a2c47c9adde233e70f3b0822b466e1374"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/createbigcannons-5.11.3-mc.1.21.1.jar"
-hash = "16cb451c1673198131148cec8196bb6325b3eb85168172bd629c0b93261381df"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/createfisheryindustry-5.0.1.jar"
-hash = "d858eb38967c2d33f4b85120ea5cf45800967a96a8a439942c62dcb7e302ed8f"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/createfood-neoforge-1.21.1-2.4.0.jar"
-hash = "3c830e87762eeb183ca06cc9c62be9b8f2d3d3f15af92c7572a50affde62236a"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/createharmonics-neoforge-1.21.1-1.1.4.jar"
-hash = "44d19720797d8987c176368b102ba9814c04f377657cfde480f0ea3522c61d0d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/createmechanicalcompanion-1.9-neoforge-1.21.1.jar"
-hash = "06b216b06ef400fe573303a6acbfb5e599474a61c8fd329356397c69b6f4a2ef"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/createmetalwork-2.0.0.jar"
-hash = "2cc07f6c62219bf0434f322180330e7276b16a9af5b44527c494b2e7af274583"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/createoreexcavation-1.21-1.6.8.jar"
-hash = "d3a2e1a6e65de7e50ae9e279de399b6535da407abc8e6b4688a56f2e461aab99"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/createtreadmill-1.12.jar"
-hash = "1fb89e9d6b626fa081c0d6e53f41d7909b7e1ef1394be9223fc60dee997eb103"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/ctl-neoforge-1.1.1.jar"
-hash = "788997f550e6b9a86e1bd6aecc534964ad0ce1fe453a8e544b7e45d7709f4199"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/curios-neoforge-9.5.1+1.21.1.jar"
-hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/cwb-neoforge-3.0.0+mc1.21.jar"
-hash = "be7144647bc160858e659f6793fcce993914443b9256c2df0369b1c616a2a5d4"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/death-count-1.0.jar"
-hash = "4669b2bcfc59a030e081d3d4985e6ba168de237d214aeab53dd65eab42f61cf0"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/detect-afk-1.2.2.jar"
-hash = "a22f771db9fc84d88b45266891b4fb76db1886b55a94b3382cd046c079fe02d8"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/direct_chute-1.1.1.jar"
-hash = "ba08bb1a31959d3d977ea2bf973b8409591c7e8dce9fffecb5c34bd64f55ff7c"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/do_a_barrel_roll-neoforge-3.7.3+1.21.jar"
-hash = "e56395ebb26318c11f3a9474bba14518f17f4f2028683eb0aa9cdc7dacf124e2"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/domum-ornamentum-1.0.233-snapshot-main.jar"
-hash = "7321f70c4bacc3f40aa6f2adf730b917554c51fe42513639c4f7550055956f70"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/drones-neoforge-1.1.0.jar"
-hash = "89a121763060b50c2b308b66433519240e120dc42ccbc7782c17c5eb5c502c46"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
-hash = "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/ecologics-1.21.1-2.3.3.jar"
-hash = "8886d4b46159f7fec3d4dc1e9656a01377521bb4aa7cccf2ba3322eb72eac8a6"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/emi-1.1.22+1.21.1+neoforge.jar"
-hash = "772cf3108900e86e336a42f73ec0dfc2f8d5168840285f4a71fda84ea98859a8"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/entity_model_features_1.21-neoforge-3.2.2.jar"
-hash = "d3cccbd3445c7d00f5e7b6a7f6880aaa22aa4875f8bcba18d42f5665090e3042"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/entity_texture_features_1.21-neoforge-7.1.jar"
-hash = "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/everycomp-1.21-2.11.40-neoforge.jar"
-hash = "359bb959e106f910ed271b6e088c7311d2feb913c99e8944bccf57d72b1159e4"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/expandeddelight-0.1.4.jar"
-hash = "35e9f833432a7a7d25c24e85289a6f58e2cbe2e1cf43b9c0cfef7d5752d04394"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/extradelight-2.6.3.jar"
-hash = "56708d172f229d3911bd1ba64d7eae69011e3ad0662333cae418f36fdd1ba4c8"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/ferritecore-7.0.3-neoforge.jar"
-hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/firstperson-neoforge-2.7.1-mc1.21.1.jar"
-hash = "174f26cdc4ec39aa1327e230084637120750f3b96ecab3fa8a1ffeb4e9b80ac9"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/fishingreal-neoforge-1.21.1-1.9.1.jar"
-hash = "7e82506f23b48a011ddb5df81fb62c6343cf344c29622ddf0108c206aa06fd43"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/foodeffecttooltips+neoforge-1.21.1-1.4.0.jar"
-hash = "0c79817c72f18560afcb90d451354cd776468cf40b69da3ea5e2f3b4efd3f7ac"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
-hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/fusion-1.2.12-neoforge-mc1.21.1.jar"
-hash = "5961f78d85b7bd88205bc65c9f8182bc041646aa3579fa39810878d9b5b87c0c"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/fxntstorage-1.2.7+mc-1.21.1-neoforge.jar"
-hash = "3bc1172f835203b84ead269d1634a944e10c5e43f9206cbde1940e9d879b3f46"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/fzzy_config-0.7.6+1.21+neoforge.jar"
-hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/gamediscs-0.3.2-neoforge.jar"
-hash = "3c25f2e891007c729abcde63604089205b18b1c23ed0a61fee4092e83b109722"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/geckolib-neoforge-1.21.1-4.8.4.jar"
-hash = "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
-hash = "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/immersive_armors-1.7.5+1.21.1-neoforge.jar"
-hash = "69a2a6482d446529e2c402ab94da7abd4a1ab63acb08578575ebdd166fe76b13"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/irons_lib-1.21.1-1.0.2.jar"
-hash = "650900b0f6561a74d6e2129a9094fd0b8a9eea0a60d2a580261e0d4b25fcaf22"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/irons_spellbooks-1.21.1-3.15.6.jar"
-hash = "ba1f1986ca706ae348cb6fce6e383ab7cc61c375826ccf0e4d3a88ed2f9fcd3d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/jamlib-neoforge-1.3.6+1.21.1.jar"
-hash = "911afdfe717a2375a651253e282ac9e769f8bead381d33c2167955c25eefe514"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar"
-hash = "4857ff49f674dac569495eb6cd4252cf5bb075c0c2566923b44be434c4c401d2"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/kotlinforforge-5.11.0-all.jar"
-hash = "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/letsdo-bakery-neoforge-2.1.6.jar"
-hash = "bfe7f9b3ea104fb68303d49b7cda0876520a5504067b2ba0293965474aaef649"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/letsdo-farm_and_charm-neoforge-1.1.22.jar"
-hash = "2fe62301c96883689bee28a7eac4b05ea026990c26b51d06a124a4bd3a1b5293"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/letsdo-meadow-neoforge-1.4.8.jar"
-hash = "f5d4a870b46f2952b7a04dad663cc4bdf8faad75e8951ba1551e85fd72d14402"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/letsdo-vinery-neoforge-1.5.3.jar"
-hash = "d0348d1bbf15cd7f8ec5821457887240150d073fb5f612bc70f9517515225d10"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/libIPN-neoforge-1.21.1-6.6.3.jar"
-hash = "98f061ba69d31764fa10ab7810ca49062633e107a6b261ba3b66dc25ba5fef7b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/lithostitched-1.7.2-neoforge-21.1.jar"
-hash = "52c4b387f41a7bcc6ce85daeccd9356dd96314f5ea5df33ebc3ef0249c8c7500"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/lootr-neoforge-1.21.1-1.11.37.119.jar"
-hash = "47fd639e3e80c7ab435c24f6176be64e9afe0e41c4c68907e1b5cd723b726511"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/midnightlib-neoforge-1.9.3+1.21.1.jar"
-hash = "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/minecolonies-1.1.1307-1.21.1-snapshot.jar"
-hash = "44526cc82d2273529b9b03355269a5d2f5ef03237625e83c68f8b4917cd42973"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/modelfix-1.21-1.10.jar"
-hash = "ee774b72135450ef9db1c7a75837304f30d05c3541e3a348c4f5769ab0f04912"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/modernfix-neoforge-5.27.4+mc1.21.1.jar"
-hash = "eb3b0bee79078ca0f9d39b20a8edd847384c287179478f99065c7d1eb95f4033"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/modonomicon-1.21.1-neoforge-1.120.1.jar"
-hash = "f5753e656ea6f200f3862d95a3ffab660470f09cdd222566b562aa3e465dd703"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/moonlight-1.21-2.29.33-neoforge.jar"
-hash = "47759081ab26271fed829f17abe1a8aa8ac1a17a111acb3b9255749e35e00f7a"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/moreculling-neoforge-1.21.1-1.0.7.jar"
-hash = "80e4716a3da53c920ce6e8d122332edc65b91c9f7e4d94bedacac9f35fe32aa0"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/multipiston-1.2.58-1.21.1.jar"
-hash = "7ca26db4648589b7f76694c249d5096c0c0afb7615fe6adf9f638c6c825c15e7"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/mysterious_mountain_lib-1.2.15-1.21.1.jar"
-hash = "d750a23aac696222984935263baeec96e95901bbeca134d8a1018d66e6e9e2d6"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/notenoughanimations-neoforge-1.12.2-mc1.21.1.jar"
-hash = "ec941215d8b14ccf2927e5c80304511d6340d6025fec7212fcdb3fb2ef00a61c"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/occultengineering-1.21.1-0.12.3.jar"
-hash = "8ba5f2442359ec7273193d149c944e4fa891fde4e35696770780aea8cbac96bc"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/occultism-1.21.1-neoforge-1.214.1.jar"
-hash = "91992735725b6fe38aed6975a992f30168b380cbbeec8f34d5f6fa8c07ed9377"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/oceansdelight-neoforge-1.0.4-1.21.1.jar"
-hash = "30fec2263f77bcd4002995d9fc127a911c964317dbd0e3c54e348954d1722d38"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
-hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
-hash = "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
-hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/polymorph-neoforge-1.1.0+1.21.1.jar"
-hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/railways-0.2.0-beta.2+neoforge-mc1.21.1.jar"
-hash = "8dd9e285da0bd01c24f2cddc14182c01b570197dc2a9c9d5aa85e0b6bae47570"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/rechiseled-1.2.4-neoforge-mc1.21.jar"
-hash = "3316acf7af3a250fd0f2fa5c39540ee4e81c21f7ead29c4107d6a95f47642dd2"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/rechiseledcreate-1.1.0-neoforge-mc1.21.jar"
-hash = "13832eec4d25548658ab93b235889d314b0add4abe7ca0c603db3efdf7664e73"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/resourcefullib-neoforge-1.21-3.0.12.jar"
-hash = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/revelationary-neoforge-1.4.1+1.21.1.jar"
-hash = "259c46c5e279f83afb98742f0c605b08cb4f415ada9c8337a25f8c100354f6a1"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
-hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/rolling-down-in-the-deep-0.2.1+1.21.1-neoforge.jar"
-hash = "e9567a74ee3b8e7f08d03fbb768b1496b8ef6c5994bdaa6b96c3dfc75f1e06a0"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/s_a_b-1.4.3-neoforge-1.21.1.jar"
-hash = "69f4682d136b29b284c971593d2171a8e5efc9abf9eff9b13b450a916f99a84e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/sable-neoforge-1.21.1-1.2.2.jar"
-hash = "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar"
-hash = "36c6ab0fd4b6e684e2d554c67d783067dced9906cfd2b75cae56dd9ede53407a"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/simplehats-neoforge-1.21.1-0.4.0.jar"
-hash = "227c366601509a62493c6b0a7ef3b3ff8941d2d85a1714fc18835e2a55021864"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/sliceanddice-forge-4.2.4.jar"
-hash = "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/smallships-neoforge-1.21.1-2.0.0-b2.1.jar"
-hash = "423d81eaeccf32088ed0b42a3a1c0976695fa5ab99c2b6b1d4c5706537fcbf62"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/smokeleafindustries-0.5.5-1.21.1.jar"
-hash = "8064df0e3b72c1e12d5fef75323d8d352be4cd01854099e757183b3969c497cc"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/snowyspirit-1.21.1-3.1.2-neoforge.jar"
-hash = "8543bac29b6d7e6bc131a8996290671b79f285ea7480c7af6f961450542fc1dc"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar"
-hash = "3b9155b2836d99856fab610c9e28e48724bc2f10c17d2529a6af55d476378390"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/sophisticatedcore-1.21.1-1.4.33.1808.jar"
-hash = "90cbba3bfee30fa23e38d52fb4609e41cf38b263d6f9098aa4b2814b1614dc0e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
-hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/spectrum-1.11.6-1.21.1-neo.jar"
-hash = "6d01387956926375a7038877cf2eb01dcd488fc6a15be59774384d5e204a7ce0"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/staaaaaaaaaaaack-neoforge-1.21.1-1.8.jar"
-hash = "02ff3bf8aa1bc5410e4ef1d0a114f078f96831c0fa69da35587ca4683acb1e5d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/steves_lava_chicken_music_disc-1.0.1-neoforge-1.21.1.jar"
-hash = "c025fcc22bf882085a7a4f66f3e4e003b3aea89510877b3ff6051ea3ecde461e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/structurize-1.0.823-1.21.1-snapshot.jar"
-hash = "2000810e7376ee2477edcc97485b8ceb095fb84d9e750ada67442bb24aa18df2"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/stylecolonies-1.15.51-1.21.1.jar"
-hash = "a59cdf86203078cee11870a8863c73d77817f410e7dfe053e0216ae5eca09aa7"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/superbwarfare-0.8.9-snapshot-mc1.21.1-99de0ec6.jar"
-hash = "bfcd5182339fa9946130b2e8437aa896670b3b92eef03d5a363e49f03c16b0ed"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
-hash = "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar"
-hash = "d22b6dfea6922cb534adb9f8c5d43e4a3c27c864e512951df801cb1435a4d4d8"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/supplementaries-1.21-3.5.34-neoforge.jar"
-hash = "3e82252fcd89b090786e1640f8cf8fac76e3e35f30465849944e7b89ca2f433b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/sushigocrafting-1.21-0.6.5.jar"
-hash = "5b59c5f71609fd06b47afbf357360c65d47905efda59ad64b27e03617ab9d8ce"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/swashbucklers! 2.6.6C 1.21.1 neoforge.jar"
-hash = "61e38ac756394746896ddc23d00ac01b1071224397f5a059974f591968d25cff"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/tacz-neoforge-1.21.1-1.1.7-hotfix-r5.jar"
-hash = "dfb5b8da5a5e38839668037b347e419a65e75d74dc4c7753b75a943616955c4b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/tectonic-3.0.22-neoforge-21.1.jar"
-hash = "bf5cf7e351586865905eceb2a63e06769f8cd0f9c826864b6a30541e20cffc56"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/tfmg-1.2.0.jar"
-hash = "fc824a91cfe22e137c9014ed608ee9bf35f16490d2162b687666332c6eb3a555"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/tide-neoforge-1.21.1-2.0.3.jar"
-hash = "f841040dc3c6c9ce6a694754e968d33150fa0e26125331b09c78bfd31c8efd73"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/titanium-1.21-4.0.43.jar"
-hash = "34c58645cc1e624ec976f6fd711b7d69ddea76de495354a19a594c1bc92da6b0"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/tofucraft-1.21.1-12.20.3.0.jar"
-hash = "d76389d9caa5f24cb7a46c4bbd13cf43960eb1ac52d5946be8b040885144e5e2"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/touhoulittlemaid-1.5.2-neoforge+mc1.21.1.jar"
-hash = "43d5c7e6c3e3c87733b04cfb269fde6711972180f70095b53e822dfabf261348"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/towntalk-1.2.0.jar"
-hash = "98139f54cc0f6f4be6d7fa8927cd170df8b14545ae04643436dbd48517589eb4"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/trading_floor-3.0.16.jar"
-hash = "f0aacddb1f8f191f13b79c603e52bd49a6d1cb918078d8a3bdcb2621c88b8d40"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/trailandtales_delight-0.4.jar"
-hash = "c07323833beb1357ea23c300bbaed24d49b5e679f3463e938305c7b3e318210c"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/trashcans-1.0.18c-neoforge-mc1.21.jar"
-hash = "5d05b498f7c6a6a00deda3b4f66206a5269b69f9c031b1faf5a5e75c0f2b449a"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/travelersbackpack-neoforge-1.21.1-10.1.34.jar"
-hash = "3371817ad2880d49edc4b34036b3cbe65515f07b0beffcbedeedf244f083c9d1"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/umapyoi-1.4.11-1.21.1.jar"
-hash = "cb2640eaf1e19646ca0231003e96ffc33830394723777c216d20840d89ca6195"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/underground_village-neoforge-1.21.1-1.5.7.jar"
-hash = "2cbba6df207d445dce78535742e818d4433870b51d0a073d83819b097878f62a"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/valarian_conquest-4.2.1.1-neoforge-1.21.1.jar"
-hash = "dfef5e31c157dc48a09357ce9fd50e3567db3d11afcc4248416d51cdb19b6457"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/voicechat-neoforge-1.21.1-2.6.16.jar"
-hash = "1d3cc0668f3aaad383e2f0940c14c8c7d278ff6f71332afbac6d368a2438bedc"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/xaerominimap-neoforge-1.21.1-25.3.10.jar"
-hash = "b28dd669e17d70be126b887845646ade10f2c9a2aed15a0750e7cc1c760e653d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar"
-hash = "a00363399c1672e5bfa399889d128f5ba60f42200ee97312038924df6cbebcb6"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/mods/zombieawareness-neoforge-1.21.0-1.13.2.jar"
-hash = "8152f9fa4c0c3cdb6541ac46d852902617e80ccd121cfa43412c0b56045b40ae"
-
-[[files]]
 file = ".editor/build-staging/.minecraft/packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
-file = ".editor/build-staging/.minecraft/packwizignore"
-hash = "25f4dd5a581785897cd5a05bb5d6426abbf919882eb1c0f500917914a34b47c0"
-
-[[files]]
 file = ".editor/build-staging/.minecraft/resourcepacks/README.md"
-hash = "932ff2e9a4378a583a87c9a7a0609837c5b02b5633e5b8dba381a3b1333a9e9f"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/scripts/bootstrap-mods.sh"
-hash = "63a580f7e2ac27e2b1a4a6279a289e1cfe0d9df30a03f2df3c890f404aa2431a"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/scripts/build-mrpack.sh"
-hash = "2ffac7786318505965a4714ff2caa0dd9db58ca15d2027425c7fe013daab0121"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/scripts/build-prism-bundled.sh"
-hash = "f5c4ae6f5b1652cf6d42e39e6e7ebfba3c8d4348026d88eca3790e85d109b52e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/scripts/build-prism-installer.sh"
-hash = "8025de90d2f3b32bc9ac6574ebd81e07b0e2af2e6d521d0c5298bb22f017b093"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/scripts/build-prism-skeleton.sh"
-hash = "c01da4965ca0f352026abc5e6d4d0dd12c23ee4f10872491b1e5be20f34de4b0"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/scripts/build-server.sh"
-hash = "984415662f0fd431322ef573b2e13d7bfae326cded0f399fc0d19a080702bf04"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/scripts/setup.sh"
-hash = "a213c16bca4aa68588c19f814a3c34875440eee242893a5a2bcbc7b56e55c3dd"
+hash = "254b52ada3465717457cde5ab91a78f28cf054f6920240a5260bfa7c46dac1ba"
 
 [[files]]
 file = ".editor/build-staging/.minecraft/shaderpacks/README.md"
-hash = "0380f3632f5d349cf5bf5e1d6bedf04d8ce03eea1b09ef8bd3435e2dc6e2b826"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/README.md"
-hash = "e17faa2dd0e5e979f45331ce028dcdd769b2c02aa026ca5917cf19c0eee29430"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/derpack-edit.exe"
-hash = "27a48e13c3edb6a2894547fe1fd6bec7dfebabd0ce83a0b0c9f601088e5e2b30"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/README.md"
-hash = "64dece0e7dde2e037ede97266ec54182c36e868c5e400ed7ceefb24b762cc00b"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/build.sh"
-hash = "6469d145713e3f055eb8bfdf45a9598e78515ce87e62a694c3d953e87753180a"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/go.mod"
-hash = "854ffee39418d597832c6c5c456404c06757a747f0c4d622d89871ee63ba60d6"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/go.sum"
-hash = "cb87513b91fcdbac6ede622b50f5361682d43875ccf76afc45a3331b511e95fd"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/internal/builder/builder.go"
-hash = "efc8df920870ce276d1b69d65b07ca2bead2add569bd16b4c821ad413531a701"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/internal/config/config.go"
-hash = "f2f76d46441e2a4e1b444cf04dd36c2fbe0021c0f9d8a2c9646f9f35f704178d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/internal/handlers/build.go"
-hash = "28d1c72ccb263b177737ae648708006c0223aec5b872e664d1d55957bbb7dca1"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/internal/handlers/config.go"
-hash = "f835b71d512a0d419bcf430dffdd5cfd5db8ddecbb45138929e98a320e09b3bc"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/internal/handlers/list.go"
-hash = "20056eb8c425f4e98e2f284c348898a03cdf400c77036613d0fc70e0b3662a99"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/internal/handlers/mods.go"
-hash = "4c0bd9a2f2d0ce0aa5a20b52e322485ee9033517a33078e08f0d8a32164dabfb"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/internal/handlers/pin.go"
-hash = "5aa14488f75783dcff7aef9d2d85a61ce916ab2744c9b312d7277489261f8c60"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/internal/handlers/server.go"
-hash = "2d0c60ae4f7ae95200091a4075d2816b6f01dcdf1364ed16a3cfabf4a25db89e"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/internal/handlers/versions.go"
-hash = "98ce02aac0a2bdda9b4a608d868927adc7a1c4c9acd441ad583b61e24947d096"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/internal/hashutil/hash.go"
-hash = "e3d3e7fa04d090704cac61728d5d1aefce3d223ffdd4db6240b26ebf5f29225c"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/internal/modrinth/client.go"
-hash = "0bd080918005a95733c8e0271cc28c5361e45789e92f2b85861343155f0f591d"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/main.go"
-hash = "e002bfbac10dd2f838de4520c2e7d1dd92eda437e2989ff3f93e20ac1ad09fbd"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/ui/app.js"
-hash = "055a4df16886831ce02d42dd75404075337d1c9336601c01e8ab0eb5b087c6ee"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/ui/index.html"
-hash = "85fb44698402ed362fb5a92affd52bd18c349102209e1d3697608decb10f5f4c"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/tools/editor-src/ui/style.css"
-hash = "97dd0c8b5c6c7a9078b652ceb61bc8d078f82dd9ff3c42ab4182fee2701c1810"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/wishlist.txt"
-hash = "c15a89bf406b532e4d694edbca6d12bb4d20413adf1a079c673615fb1fb7e729"
+hash = "0f90cbce3a6b43c51adb9e65500f69adbc425d06dde44255da60c0bde0cade32"
 
 [[files]]
 file = ".editor/build-staging/instance.cfg"
-hash = "c4e2b0197546f0a1807a185318f33cd4c91a0559daab63a451e016b117645af1"
+hash = "122753292b1a7a004c83cb290cf87cb5e9692f20e38276e475caf9d6389963e1"
 
 [[files]]
 file = ".editor/build-staging/mmc-pack.json"
@@ -1175,6 +159,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "a276b6fef58f44cf000b99979f090265a5b2727fe8f8eee68c2ae25c8d32baf7"
 metafile = true
 
 [[files]]
@@ -1343,6 +332,11 @@ hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
 metafile = true
 
 [[files]]
+file = "mods/create-blockchain.pw.toml"
+hash = "858125151c726ab2ed1c588366eaf6d2d8953c4a51cee1aa81cd9ea2b901df38"
+metafile = true
+
+[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "a002022e71a7c39f6d2b8983b877c329ea1aaaa34a4abae0d64dbb97b9f1b5ed"
 metafile = true
@@ -1398,6 +392,11 @@ hash = "ef0a5f90004da2a193ec89c106ceb7c7e1026b7b338db4cf665e5dc302291a5e"
 metafile = true
 
 [[files]]
+file = "mods/create-fluid.pw.toml"
+hash = "b978310f80023f3a2c734571e2e85eacb64f6bbb45c27b8ce8abffab64a08487"
+metafile = true
+
+[[files]]
 file = "mods/create-food.pw.toml"
 hash = "9659152903c07ccc018e00e09ffe021d78da8be78a83a19ffe269c251e0cd191"
 metafile = true
@@ -1430,6 +429,11 @@ metafile = true
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
 hash = "c27afa0779ec479fe6811153607bf23d9242c2c93e02a23a03b934db4bb3f8c3"
+metafile = true
+
+[[files]]
+file = "mods/create-low-heated.pw.toml"
+hash = "e1ab0ec582fd856f2756bddd455eba2fc8ca4d62a06d46265422d17b99b23007"
 metafile = true
 
 [[files]]
@@ -1473,6 +477,16 @@ hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
 metafile = true
 
 [[files]]
+file = "mods/create-pantographs-and-wires.pw.toml"
+hash = "5b22ee1a8351c575fbef3f94ab65e4dde540a3ae1d82a891d3db3f47fd9a76ac"
+metafile = true
+
+[[files]]
+file = "mods/create-picky-wheels.pw.toml"
+hash = "202a3837c8e8838eed996c6f9f4630674c8f6dda08f43675391cd19d29f13250"
+metafile = true
+
+[[files]]
 file = "mods/create-shuffle-filter.pw.toml"
 hash = "0e2648eb1a0918fa430fecfdc6cfb9508f2fb28714ff51e27dffdbddcec31614"
 metafile = true
@@ -1508,13 +522,23 @@ hash = "ceda03b1da3ce385d3dec0dcca9a7e7f032eb00b990eea8f1226747202f353bc"
 metafile = true
 
 [[files]]
+file = "mods/create-train-parts.pw.toml"
+hash = "ec24ce72b412df4486272029ea82a48c18b733ae7f1aaebc84baeda93a29cbff"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "e002fe71d2ddab09d22e9def9aef6cfc4decfcf372ca40c9cb4d7987f3190fad"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
 metafile = true
 
 [[files]]
@@ -1528,8 +552,23 @@ hash = "c6129dd7b6f1db8baa64ee9d2c6699eba8d870c181f94a4ed06bf00a0acf953a"
 metafile = true
 
 [[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "b411c5446f2d01c3de71bc1ff773ee10825616074865d92d5fb2cb1a678efcb6"
+metafile = true
+
+[[files]]
 file = "mods/createtreadmill.pw.toml"
 hash = "2cfc94f5c24eb3ba06a798ca7665410a7b3a6f7c827afc3af573f1785c567422"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "d10c6f194a20ef07b764bce9ef35bec526c5c5ff9acf84c53f9e172963869e56"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "a48d635d2d328348ecee76a4e64b799bfbd8eec0b659f08a214ec967b4f0b747"
 metafile = true
 
 [[files]]
@@ -1578,8 +617,38 @@ hash = "acf14ebf63e023fd7b1a58c187f88f2091d5632e1723a816c460e511f6df711d"
 metafile = true
 
 [[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "77109801093172dad01b0d62423eee91b317d23e094097760b065e980e8b10c2"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "b774ca4128cda9157fbc88317c802ac42be1518e4d630e270ba222d1f3489b49"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-ars-nouveau.pw.toml"
+hash = "44125cdaab80f69b9676a7a85de2d2adea9f56e499d15819e961da32d0c44751"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-terralith.pw.toml"
+hash = "36dfee47394fd9d3fae508c7610215f920d76ef904d22565eb765c1a87e16a2b"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "9b3916150da735ecfdb30e9cbfb54f51e90532bf1d3e995e84fb09e25c7e0e6f"
+metafile = true
+
+[[files]]
+file = "mods/dynamictreesplus.pw.toml"
+hash = "aa0b5cd295a75aa1534d603b85e2a3d09279b65d01693ec9bbdf97fb514b1598"
 metafile = true
 
 [[files]]
@@ -1590,6 +659,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "d1c8978591c696b1b132b3687d0802ba25e4455f5c967641e28e9bef651447e1"
 metafile = true
 
 [[files]]
@@ -1653,6 +727,16 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "cdddddbf94aabd1af201bfbe02733c871da8cfa4141828843e1e9fc6d7c89bf6"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "41ea41c71242b710df4768bdd0f3f2433c64600d2d1405472c01993bd7f5da25"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "9342bd3338c6fbb80f84625e2715a6c443b54daff11826f0dfb9ebb6ab411fd2"
 metafile = true
@@ -1660,6 +744,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
+hash = "287534e3add39dd30a102ddce26f9f9252ad719e9ddaf8e1809877694b90a961"
 metafile = true
 
 [[files]]
@@ -1690,6 +779,21 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "6cf2bb6f7d9b036a86517b952a46a8754ed79bf5ff295b1bcf953a6f68af0f7b"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "92ada0d7d993d7925e127c6d29a34519d8a5a8274a1c40aeaeb1a4ff646e62bb"
+metafile = true
+
+[[files]]
+file = "mods/ifr25ku.pw.toml"
+hash = "bc3b436d543dacfda9ad2f2bbcdfd054a93cd0c6ba2d18f47d1433f8e71eaa01"
 metafile = true
 
 [[files]]
@@ -1833,6 +937,16 @@ hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
 metafile = true
 
 [[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "8e9b61ed721c95cf7fdca46979bb20fdb12aaecccccc92a7822e5ce7a6cbca19"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "0d93e50de0112b6f6643ab44abbd3f1b5f1ecf676c4325c73de02d4689a56fca"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "fab671f369f78495f6f1439b7a94d6febd36a940a1ee14813f793d587a7cdebc"
 metafile = true
@@ -1908,6 +1022,11 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "07ba6127f0a6e3451669af62ff34c02e3d6f15f1a122148945e54b2d942b1712"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
@@ -1970,6 +1089,16 @@ metafile = true
 [[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
+metafile = true
+
+[[files]]
+file = "mods/roadarchitect-encounters.pw.toml"
+hash = "3ca364000ae408681720edc4fcd9c1c9735ae9ef665c923e0447e9652b7119ea"
+metafile = true
+
+[[files]]
+file = "mods/roadarchitect.pw.toml"
+hash = "5e7309338d4a9080fd2e7cb783276138a5ea0d5026aac1b83e84057ce899fedc"
 metafile = true
 
 [[files]]
@@ -2133,6 +1262,16 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "05f964127cfe45440c5a3dfb0482d16c8501be9f66ccf32860f6ecff3eb81331"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "4c6f7b9400c313faa67408db2a5a12ee38a94293926bcbcd7ce9a0c8b2e402e7"
+metafile = true
+
+[[files]]
 file = "mods/tide.pw.toml"
 hash = "74674dea8d53bc4e52793a6bdd03092478ee67d2d5c65f542ea13a5dc2847f32"
 metafile = true
@@ -2148,8 +1287,18 @@ hash = "963b12760816abf162e1d579ae03db8112f2178edcf1961fd230bbee0f40f2b7"
 metafile = true
 
 [[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "1e8f5000848ff7f4bd58d8a5e1f54d7faae28edda247feed16c71a1cb3874fe4"
+metafile = true
+
+[[files]]
 file = "mods/touhou-little-maid.pw.toml"
 hash = "c46e22076b4905de8ac9a2d61976c830d709258d641de7c99cca68063e745eed"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "91eb5311f11014074fb3101cc1369995b21c1f3cb166d66d4c74984c27cd86ac"
 metafile = true
 
 [[files]]
@@ -2173,6 +1322,11 @@ hash = "06c4aaad4458f57a7a7df4aa16e7e3dd42abf1070191a13d18d99b7a6d649724"
 metafile = true
 
 [[files]]
+file = "mods/trek.pw.toml"
+hash = "6508d7fadd019bf4c3652ccd31c9e1c65f1118b7e88e4e1e97c0abbc9835e2f6"
+metafile = true
+
+[[files]]
 file = "mods/umapyoi.pw.toml"
 hash = "0c062b1ee8b13a74334ed4153835df1b1cdfb2eb10516c19e60bfe37c805477e"
 metafile = true
@@ -2183,8 +1337,18 @@ hash = "9e5eedc2329699c885d2630198e7f2f00979f5eb74aed7acf362957df78454bf"
 metafile = true
 
 [[files]]
+file = "mods/underground-worlds.pw.toml"
+hash = "961ee992837626f5c1b16252d40d1660f5cdca8de1e855fcc289bf513496e4b7"
+metafile = true
+
+[[files]]
 file = "mods/valarian-conquest.pw.toml"
 hash = "28a5b63f5db878a2b7ba6a07a94502a3910be4a3f1f53ce1f835f7042f587603"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "8630faa4460132aee0b31448f98acc89e67c28b0439fd7f58a63f6d6584ae334"
 metafile = true
 
 [[files]]
@@ -2195,6 +1359,36 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "f750250b94b5ae4bb453951c80aab690b3993c0547cf4496b591286694c5ad81"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "20b0a8537f3589652bdf04c985077d3406f8341c5d7e8bf568e51357e672725d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "f676b07d7dfcb166137a3f64785e2bf41031314574ed4542db91c2019037898a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "4e5282ab4b97404103ebd0ebd44311ba3f70941f7eaecc88615ec7277dab7bc5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "51768e95d163f67c2726bc1407cd344eb34916f09cf16ef5c809b67fd3e71a2b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "810f4b45f92c57ed9df2a53233defaa3acb2ff9b2503304946da64460d9666c9"
 metafile = true
 
 [[files]]

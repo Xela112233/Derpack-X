@@ -1,0 +1,12 @@
+name = "Dynamic Trees - Terralith"
+filename = "dtterralith-1.3.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/o8eM9Cnp/versions/L7qfjzNn/dtterralith-1.3.0.jar"
+hash-format = "sha512"
+hash = "216d3e65aff5f9b51fe78a81cd34e1c43dc786905dc95d715d7a5698172933e5abc3b337e4c6757349e83cd74f3ee53dabcc3ddddd189799b255908c1a2a32e2"
+
+[update]
+[update.modrinth]
+mod-id = "o8eM9Cnp"
+version = "L7qfjzNn"

@@ -1,0 +1,12 @@
+name = "RoadArchitect: Encounters"
+filename = "roadarchitect_encounters-1.1.0-neoforge+1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/XVknWoiY/versions/UCIXM4M3/roadarchitect_encounters-1.1.0-neoforge%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "07613f83937ce163fc18e5ed171143f27a289d0f285e5924a73512f2c3100ada2ed6325a8cfeed199a62d4a03a14e3cd0526bf63ef7f755ef23d9b7eb65d2a15"
+
+[update]
+[update.modrinth]
+mod-id = "XVknWoiY"
+version = "UCIXM4M3"

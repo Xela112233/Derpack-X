@@ -1,0 +1,12 @@
+name = "RoadArchitect"
+filename = "roadarchitect-1.6.6-neoforge+1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/dLRvLyY3/versions/UgUuJbI5/roadarchitect-1.6.6-neoforge%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "ca675fa5bbf8f2418faba384f20ec2fb6956a45a13b26e1badd641ec28faa44cad2b0f1362de71cd2b23e21949bb2f40adda3d50d89b983fc1db9006b8d1981d"
+
+[update]
+[update.modrinth]
+mod-id = "dLRvLyY3"
+version = "UgUuJbI5"

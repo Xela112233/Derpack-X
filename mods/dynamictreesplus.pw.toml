@@ -1,0 +1,12 @@
+name = "Dynamic Trees Plus"
+filename = "DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/qaO9Dqpu/versions/LX5fWOvU/DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar"
+hash-format = "sha512"
+hash = "e5ccd43fb43c6d1417fcc070f87a15a606ed062415bd00e72a8fb8ea30b195f5a23f5629e17844e232368653f0cd2bfd48d77b71aedd46fe64a92e7e7c731a76"
+
+[update]
+[update.modrinth]
+mod-id = "qaO9Dqpu"
+version = "LX5fWOvU"

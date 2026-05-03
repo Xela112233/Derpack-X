@@ -1,0 +1,12 @@
+name = "IFR25KU: The Institute of Fairy Research 2025 Kakera Unofficial"
+filename = "ifr25ku-31.31.2+neoforge.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/QucEAPKz/versions/waQ2dNWD/ifr25ku-31.31.2%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "656c9ad5c4b9d4481e0ff74710a61155b80269d335e056b717f3579290978daccbdaac8b5e67ad1bf6a0f1e315521e6f8c16cab59206e46406a16d512b5e0edc"
+
+[update]
+[update.modrinth]
+mod-id = "QucEAPKz"
+version = "waQ2dNWD"

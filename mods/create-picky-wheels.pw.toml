@@ -1,0 +1,12 @@
+name = "Create Picky Wheels"
+filename = "createpickywheels-neoforge-1.21.1-6.0.9-6.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zotbxaw6/versions/ws15FV2y/createpickywheels-neoforge-1.21.1-6.0.9-6.jar"
+hash-format = "sha512"
+hash = "0fb2ba424c7e976a46a3e97423ed4b3aa18628c40ffeeb38885f8fa89ee8078f629938306d1f600fac6d657352744da49a9e9dbee67faaa7067931e8f35cd219"
+
+[update]
+[update.modrinth]
+mod-id = "Zotbxaw6"
+version = "ws15FV2y"
