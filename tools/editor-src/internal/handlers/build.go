@@ -87,8 +87,10 @@ func (s *Server) HandleLaunchPrism(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Also sync configs that affect gameplay (config/, defaultconfigs/, kubejs/).
-	for _, d := range []string{"config", "defaultconfigs", "kubejs"} {
+	// Also sync configs that affect gameplay or visuals.
+	// Matches the dirs that the builder stages, so the Prism instance ends up
+	// reflecting the full repo state.
+	for _, d := range []string{"config", "defaultconfigs", "kubejs", "resourcepacks", "shaderpacks"} {
 		src := filepath.Join(res.StagingDir, ".minecraft", d)
 		if _, err := os.Stat(src); err != nil {
 			continue

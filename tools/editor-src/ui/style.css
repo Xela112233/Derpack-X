@@ -265,12 +265,13 @@ button:disabled:hover {
   background: var(--bg-elev);
   border: 1px solid var(--border);
   border-radius: 6px;
-  padding: 16px;
+  padding: 12px 16px;
+  margin-bottom: 16px;
 }
 
 .status-pane h3 {
-  margin: 0 0 12px;
-  font-size: 13px;
+  margin: 0 0 8px;
+  font-size: 12px;
   text-transform: uppercase;
   color: var(--text-dim);
   letter-spacing: 0.05em;
@@ -280,11 +281,22 @@ button:disabled:hover {
   list-style: none;
   margin: 0;
   padding: 0;
-  max-height: 240px;
+  /* Cap at ~10 lines (each li is roughly 18px tall after padding) */
+  max-height: 180px;
   overflow-y: auto;
   font-family: ui-monospace, "Cascadia Code", "Consolas", monospace;
   font-size: 12px;
   line-height: 1.5;
+}
+
+#status-log:empty::after {
+  content: "(no operations yet)";
+  display: block;
+  color: var(--text-dim);
+  font-style: italic;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-size: 13px;
+  padding: 4px 0;
 }
 
 #status-log li {

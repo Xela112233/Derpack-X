@@ -5,6 +5,30 @@ file = ".devcontainer/devcontainer.json"
 hash = "bdd9c71945406ce4bfb6bb8b13aced1a1ee520cadbe077fd345dd8f676ef1101"
 
 [[files]]
+file = ".editor/build-staging/.minecraft/kubejs/server_scripts/example.js"
+hash = "cd82b7d39d0aabec0160decce26d25daa3a36a700e6215042d48b2f13bfa2555"
+
+[[files]]
+file = ".editor/build-staging/.minecraft/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = ".editor/build-staging/instance.cfg"
+hash = "c4e2b0197546f0a1807a185318f33cd4c91a0559daab63a451e016b117645af1"
+
+[[files]]
+file = ".editor/build-staging/mmc-pack.json"
+hash = "f3fd4fdd8811f271cb56e8c3f0eb0a2f5b6cec809f6a646be1e56c5ac76737ab"
+
+[[files]]
+file = ".editor/config.json"
+hash = "af52d88de0f67cd9b900d35647337c196b8e509a8f6b693e195f64932730c250"
+
+[[files]]
+file = ".editor/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "cd82b7d39d0aabec0160decce26d25daa3a36a700e6215042d48b2f13bfa2555"
 
@@ -485,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "16a71663c0dbd51f97a9cf6febb9a642131309d3c6a69fe36d2231735df12548"
+hash = "bbcbc7b4f4510f9dde83cac3d7c674536195cdbdd049207552a685c1a291997a"
 metafile = true
 
 [[files]]
@@ -1050,8 +1074,20 @@ file = "tools/editor-src/go.sum"
 hash = "cb87513b91fcdbac6ede622b50f5361682d43875ccf76afc45a3331b511e95fd"
 
 [[files]]
+file = "tools/editor-src/internal/builder/builder.go"
+hash = "efc8df920870ce276d1b69d65b07ca2bead2add569bd16b4c821ad413531a701"
+
+[[files]]
 file = "tools/editor-src/internal/config/config.go"
 hash = "f2f76d46441e2a4e1b444cf04dd36c2fbe0021c0f9d8a2c9646f9f35f704178d"
+
+[[files]]
+file = "tools/editor-src/internal/handlers/build.go"
+hash = "28d1c72ccb263b177737ae648708006c0223aec5b872e664d1d55957bbb7dca1"
+
+[[files]]
+file = "tools/editor-src/internal/handlers/config.go"
+hash = "d1d5165b8e35194591a9e48770b202e1321aad113607ec8f8e0a839a9dc01f8b"
 
 [[files]]
 file = "tools/editor-src/internal/handlers/list.go"
@@ -1083,19 +1119,19 @@ hash = "0bd080918005a95733c8e0271cc28c5361e45789e92f2b85861343155f0f591d"
 
 [[files]]
 file = "tools/editor-src/main.go"
-hash = "dfcb8d2123df1dea86e1c634a31c7944e5a5ca9e6c02e5d1420173036ac14c41"
+hash = "e002bfbac10dd2f838de4520c2e7d1dd92eda437e2989ff3f93e20ac1ad09fbd"
 
 [[files]]
 file = "tools/editor-src/ui/app.js"
-hash = "02b49322e099b3829de0bba7a80c4a67fa9423b086d8cb803b0d268b67f56cd2"
+hash = "a1ab4cb8f31fcf6a6bdabb4100d2c8ec606ddb37fd478c2a085ce1c90b470fc7"
 
 [[files]]
 file = "tools/editor-src/ui/index.html"
-hash = "e449c93b60667a05cedc5c79748a391710e86230d75359fb9dd8c141a52f77c8"
+hash = "85fb44698402ed362fb5a92affd52bd18c349102209e1d3697608decb10f5f4c"
 
 [[files]]
 file = "tools/editor-src/ui/style.css"
-hash = "ba084b5753e6cb93bb6d4bbaf981907a4efe606c433b35303049143c08d13d3c"
+hash = "97dd0c8b5c6c7a9078b652ceb61bc8d078f82dd9ff3c42ab4182fee2701c1810"
 
 [[files]]
 file = "wishlist.txt"

@@ -38,3 +38,6 @@ Thumbs.db
 dist/
 build/
 out/
+
+# App-local state — not synced across users
+.editor/
