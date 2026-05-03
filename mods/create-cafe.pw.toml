@@ -1,6 +1,5 @@
 name = "Create Cafe"
 filename = "createcafe-1.4.3.jar"
-side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/O3hKBfwC/versions/5CZzXBed/createcafe-1.4.3.jar"

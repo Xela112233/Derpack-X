@@ -1050,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/climate-rivers.pw.toml"
-hash = "763125b743e375904c81af45f8702b6d6a5b90b5dca1c34f1f77338b75444488"
+hash = "c4972f37e7d3394f6c11567c22940d0cf996e03996e51880ad01c0b496e06ee3"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "afaabf661bca24c48b6efbdf21cd0583a914ddf86e44e8dc2d59f1a418d6e838"
+hash = "a002022e71a7c39f6d2b8983b877c329ea1aaaa34a4abae0d64dbb97b9f1b5ed"
 metafile = true
 
 [[files]]
@@ -1280,7 +1280,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
-hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+hash = "ad4309a9cbca4b689f55b99f35411ad782e35b7e1aafb8dbf0feaf137789c6b3"
 metafile = true
 
 [[files]]
@@ -1515,7 +1515,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-addon-compat.pw.toml"
-hash = "2478c8520ff2a5cbf5d4644007c5f751bfbe41a3603352bcb68849e817bbad5f"
+hash = "73fd079686b7fe5c45c08ac2b08cf414080a323cc966231bf5ddfbb1126760fb"
 metafile = true
 
 [[files]]
@@ -1720,7 +1720,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "87708c5cf041f2c7eede5dc1a5ee0dd517a13c0c7e8c40c359669a5ffabef7db"
+hash = "f2a650461d21b0355cc7056c0ab3729babfa1e5e05207b39e7bb0a187e73f4a7"
 metafile = true
 
 [[files]]
@@ -1969,7 +1969,7 @@ hash = "25f4dd5a581785897cd5a05bb5d6426abbf919882eb1c0f500917914a34b47c0"
 
 [[files]]
 file = "tools/derpack-edit.exe"
-hash = "da03030492a1ae794a512d4e56b3b3bda925209af9308e7f81fab883f3669849"
+hash = "db96e9aa2877cf655b4c0db250d9ef20ca7509cb3821f518fba2a0059a79565d"
 
 [[files]]
 file = "tools/editor-src/build.sh"
@@ -2037,7 +2037,7 @@ hash = "694382568236cca9b9198ddb5ca6e690f8de9821a7950f1b10054d20da208540"
 
 [[files]]
 file = "tools/editor-src/ui/app.js"
-hash = "c389f1243fc75ce16a2522b764e492b2dd557f66ade5f1d7b639cbb6172f2f87"
+hash = "30ff4967eeb07b0dabc90c0aa7eb5c61094867d3318fe878843417d2d6c92875"
 
 [[files]]
 file = "tools/editor-src/ui/index.html"
@@ -2045,7 +2045,7 @@ hash = "8d9ecaf77f49d32d179da480eaac1a78c61e5960021044db30b8e015b081dd94"
 
 [[files]]
 file = "tools/editor-src/ui/style.css"
-hash = "324051fe2c17d36e0366e553d1f31e6df37cb661b77835efc2fbd55ea8e6bb29"
+hash = "a7eedea4e922b846a003a189d96bc28736b1d5e2fdea2c1fc40309ef9b16d5dd"
 
 [[files]]
 file = "wishlist.txt"

@@ -1,6 +1,5 @@
 name = "[Let's Do Addon] Compat"
 filename = "letsdocompat-neoforge-2.3.1.jar"
-side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/FNi5IMiX/versions/vJUgfTU0/letsdocompat-neoforge-2.3.1.jar"
