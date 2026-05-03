@@ -1,6 +1,7 @@
 name = "Moonlight Lib"
 filename = "moonlight-1.21-2.29.33-neoforge.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/twkfQtEc/versions/RftyTwKR/moonlight-1.21-2.29.33-neoforge.jar"
