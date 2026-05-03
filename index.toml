@@ -694,11 +694,6 @@ hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
 metafile = true
 
 [[files]]
-file = "mods/miku-plushies.pw.toml"
-hash = "17f414e91b6144e755671297997bcdcfafde5ccb63bd399c61ebf88e74682aa4"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies-compatibility.pw.toml"
 hash = "145f985bdbebf581c42b18c6e353abd6ad1f631abe735e5303039d27116ab8bc"
 metafile = true
