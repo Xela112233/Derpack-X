@@ -5,50 +5,6 @@ file = ".devcontainer/devcontainer.json"
 hash = "bdd9c71945406ce4bfb6bb8b13aced1a1ee520cadbe077fd345dd8f676ef1101"
 
 [[files]]
-file = ".editor/build-staging/.minecraft/config/README.md"
-hash = "1a8fb9efa5fb4bbd14a2bf4f5a6ed21082f59d52bd337461e8365fb54ea65127"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/defaultconfigs/README.md"
-hash = "a03321eab7376c0a6aede15689d668e3df8f5fa2cd34f4c6e4b6600abeed47de"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/kubejs/README.md"
-hash = "d5ac59914d82a6343e7d1b206901702fcb3e6816c588eb78b8ac58d64e65f83c"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/kubejs/server_scripts/example.js"
-hash = "cd82b7d39d0aabec0160decce26d25daa3a36a700e6215042d48b2f13bfa2555"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/resourcepacks/README.md"
-hash = "254b52ada3465717457cde5ab91a78f28cf054f6920240a5260bfa7c46dac1ba"
-
-[[files]]
-file = ".editor/build-staging/.minecraft/shaderpacks/README.md"
-hash = "0f90cbce3a6b43c51adb9e65500f69adbc425d06dde44255da60c0bde0cade32"
-
-[[files]]
-file = ".editor/build-staging/instance.cfg"
-hash = "a3b752b9d393078e968cc5951f3c6a7799a4ecbd9749f129f3952089e83893cd"
-
-[[files]]
-file = ".editor/build-staging/mmc-pack.json"
-hash = "f3fd4fdd8811f271cb56e8c3f0eb0a2f5b6cec809f6a646be1e56c5ac76737ab"
-
-[[files]]
-file = ".editor/config.json"
-hash = "242c4f7a6f0400a4891adf11125140400a43626a0634fcf7138bc76a3f53786d"
-
-[[files]]
-file = ".editor/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = ".github/actions/setup-packwiz/action.yml"
 hash = "6b2a29d773a278637a08c33e59ad85d8140ececc08d8b056484839b1ce66767d"
 
