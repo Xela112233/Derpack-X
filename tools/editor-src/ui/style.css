@@ -261,6 +261,35 @@ button:disabled:hover {
 .source-tag.mr { background: #1abc9c33; color: #4ddbb8; }
 .source-tag.cf { background: #f47b3b33; color: #ff9c5e; }
 
+.side-cell {
+  padding: 2px 8px;
+  font-size: 12px;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  font-family: inherit;
+  text-transform: lowercase;
+  min-width: 56px;
+}
+
+.side-cell:hover {
+  background: var(--bg-row-hover);
+}
+
+.side-cell.side-both {
+  color: var(--text-dim);
+}
+
+.side-cell.side-client {
+  color: #5ba0db;
+  border-color: #5ba0db44;
+}
+
+.side-cell.side-server {
+  color: #d6a85f;
+  border-color: #d6a85f44;
+}
+
 .status-pane {
   background: var(--bg-elev);
   border: 1px solid var(--border);

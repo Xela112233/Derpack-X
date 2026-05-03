@@ -80,6 +80,7 @@ func run() error {
 	mux.HandleFunc("/api/mods/batch-add", srv.HandleBatchAdd)
 	mux.HandleFunc("/api/mods/remove", srv.HandleRemoveMod)
 	mux.HandleFunc("/api/mods/pin", srv.HandlePin)
+	mux.HandleFunc("/api/mods/set-side", srv.HandleSetSide)
 	mux.HandleFunc("/api/mods/set-version", srv.HandleSetVersion)
 	mux.HandleFunc("/api/mods/compute-hash", srv.HandleComputeHash)
 	mux.HandleFunc("/api/mods/update", srv.HandleUpdate)

@@ -73,8 +73,17 @@ func (s *Server) HandleBatchAdd(w http.ResponseWriter, r *http.Request) {
 			res.Error = err.Error()
 			res.Output = out
 		} else {
-			res.OK = true
-			res.Output = out
+			// Force "both" — packwiz often picks up wrong side metadata
+			// from Modrinth for Create addons and similar. The user can
+			// flip a specific mod with the per-row Side button if needed.
+			if sideErr := s.applySide(slug, "both"); sideErr != nil {
+				// Mod added but side wasn't normalized. Annotate but don't fail.
+				res.OK = true
+				res.Output = out + "\nNOTE: side normalization failed: " + sideErr.Error()
+			} else {
+				res.OK = true
+				res.Output = out
+			}
 		}
 		results = append(results, res)
 	}

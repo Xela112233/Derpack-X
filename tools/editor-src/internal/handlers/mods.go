@@ -58,9 +58,11 @@ func (s *Server) HandleAddMod(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// If a side was requested and packwiz didn't set it (it doesn't take a
-	// flag), patch the manifest after the fact.
-	if req.Side != "" && req.Side != "both" {
+	// Apply the user's side choice. packwiz sets the side based on the mod's
+	// Modrinth metadata (client_side / server_side), but that's frequently
+	// wrong — most Create addons need "both" but get tagged "client" because
+	// the author misconfigured their Modrinth project. The user's pick wins.
+	if req.Side != "" {
 		if err := s.applySide(req.Slug, req.Side); err != nil {
 			// Mod was added but side wasn't applied. Surface as a warning.
 			writeJSON(w, http.StatusOK, opResp{
@@ -76,6 +78,7 @@ func (s *Server) HandleAddMod(w http.ResponseWriter, r *http.Request) {
 }
 
 // applySide rewrites mods/<slug>.pw.toml to set the Side field, then refreshes.
+// Passing side = "both" clears the field entirely (packwiz default = both).
 func (s *Server) applySide(slug, side string) error {
 	mods, err := packwiz.LoadMods(s.RepoRoot)
 	if err != nil {
@@ -83,7 +86,11 @@ func (s *Server) applySide(slug, side string) error {
 	}
 	for _, m := range mods {
 		if m.Slug == slug {
-			m.Side = side
+			if side == "both" {
+				m.Side = ""
+			} else {
+				m.Side = side
+			}
 			if err := packwiz.SaveMod(s.RepoRoot, m); err != nil {
 				return err
 			}
@@ -92,6 +99,39 @@ func (s *Server) applySide(slug, side string) error {
 		}
 	}
 	return nil
+}
+
+// HandleSetSide changes a mod's side field on an existing manifest.
+// Useful for fixing mods that packwiz tagged wrong from Modrinth metadata.
+func (s *Server) HandleSetSide(w http.ResponseWriter, r *http.Request) {
+	if !requirePost(w, r) {
+		return
+	}
+	var req struct {
+		Slug string `json:"slug"`
+		Side string `json:"side"` // "both", "client", "server"
+	}
+	if !decodeJSON(w, r, &req) {
+		return
+	}
+	req.Slug = strings.TrimSpace(req.Slug)
+	if req.Slug == "" {
+		writeError(w, http.StatusBadRequest, "slug is required")
+		return
+	}
+	if req.Side != "both" && req.Side != "client" && req.Side != "server" {
+		writeError(w, http.StatusBadRequest, "side must be 'both', 'client', or 'server'")
+		return
+	}
+	if !packwiz.ManifestExists(s.RepoRoot, req.Slug) {
+		writeError(w, http.StatusNotFound, "no manifest for slug: "+req.Slug)
+		return
+	}
+	if err := s.applySide(req.Slug, req.Side); err != nil {
+		writeError(w, http.StatusInternalServerError, err.Error())
+		return
+	}
+	writeJSON(w, http.StatusOK, opResp{OK: true, Slug: req.Slug, Output: "side set to " + req.Side})
 }
 
 type removeReq struct {

@@ -99,7 +99,7 @@ function renderMods() {
     btn.addEventListener('click', () => {
       const action = btn.dataset.action;
       const slug = btn.dataset.slug;
-      handleRowAction(action, slug);
+      handleRowAction(action, slug, btn);
     });
   });
 }
@@ -121,11 +121,13 @@ function modRow(m) {
     ? `<button disabled title="Pinned mods are not auto-updated">Update</button>`
     : `<button data-action="update" data-slug="${escapeHtml(m.slug)}">Update</button>`;
 
+  const side = m.side || 'both';
+
   return `
     <tr>
       <td><code>${escapeHtml(m.slug)}</code></td>
       <td>${escapeHtml(m.name || '')}</td>
-      <td>${escapeHtml(m.side || 'both')}</td>
+      <td><button class="side-cell side-${side}" data-action="cycle-side" data-slug="${escapeHtml(m.slug)}" data-side="${side}" title="Click to cycle: both → client → server → both">${side}</button></td>
       <td>${sourceTag}</td>
       <td class="col-pinned">${pinIcon}</td>
       <td class="col-actions">
@@ -145,7 +147,7 @@ function modRow(m) {
 
 // ----- Row actions -------------------------------------------------------
 
-async function handleRowAction(action, slug) {
+async function handleRowAction(action, slug, btn) {
   switch (action) {
     case 'pin':
       await doPin(slug, true);
@@ -169,6 +171,27 @@ async function handleRowAction(action, slug) {
     case 'compute-hash':
       await doComputeHash(slug);
       break;
+    case 'cycle-side':
+      await doCycleSide(slug, btn ? btn.dataset.side : 'both');
+      break;
+  }
+}
+
+async function doCycleSide(slug, currentSide) {
+  // Cycle: both → client → server → both
+  const next = currentSide === 'both' ? 'client'
+             : currentSide === 'client' ? 'server'
+             : 'both';
+  try {
+    const r = await apiPost('/api/mods/set-side', { slug, side: next });
+    if (r.ok) {
+      logStatus('ok', `${slug}: side set to ${next}`);
+      await loadMods();
+    } else {
+      logStatus('err', `Set side failed for ${slug}: ${r.error || 'unknown error'}`);
+    }
+  } catch (err) {
+    logStatus('err', err.message);
   }
 }
 
