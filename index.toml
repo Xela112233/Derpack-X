@@ -42,7 +42,7 @@ hash = "f3fd4fdd8811f271cb56e8c3f0eb0a2f5b6cec809f6a646be1e56c5ac76737ab"
 
 [[files]]
 file = ".editor/config.json"
-hash = "af52d88de0f67cd9b900d35647337c196b8e509a8f6b693e195f64932730c250"
+hash = "242c4f7a6f0400a4891adf11125140400a43626a0634fcf7138bc76a3f53786d"
 
 [[files]]
 file = ".editor/packwiz-installer-bootstrap.jar"
@@ -624,11 +624,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-ars-nouveau.pw.toml"
-hash = "44125cdaab80f69b9676a7a85de2d2adea9f56e499d15819e961da32d0c44751"
 metafile = true
 
 [[files]]
