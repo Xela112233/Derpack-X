@@ -1,6 +1,6 @@
 # Derpack X — Design
 
-This document captures the **why** behind the architectural decisions in Derpack X. The README and per-folder docs cover the **what**: how to install, how to add a mod, where things live. This is for when future-you (or future-me-in-a-fresh-conversation) is staring at something and wondering why it's structured that way.
+This document captures the **why** behind the architectural decisions in Derpack X. The README and per-folder docs cover the **what**: how to install, how to add a mod, where things live. This is for when someone is staring at something and wondering why it's structured that way.
 
 If a decision feels weird, look here first. If it isn't here, it should be — propose an addition.
 
