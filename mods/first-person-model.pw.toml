@@ -1,6 +1,7 @@
 name = "First-person Model"
 filename = "firstperson-neoforge-2.7.1-mc1.21.1.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/7vdkHp0W/firstperson-neoforge-2.7.1-mc1.21.1.jar"
