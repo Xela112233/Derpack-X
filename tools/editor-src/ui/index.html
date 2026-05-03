@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Derpack Editor</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="pack-info">
+      <span id="pack-name">Loading...</span>
+      <span class="separator">·</span>
+      <span id="pack-version">—</span>
+      <span class="separator">·</span>
+      <span id="mod-count">0 mods</span>
+    </div>
+    <div class="topbar-actions">
+      <button id="refresh-btn" type="button" title="Reload mod list from disk">↻ Refresh</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="status-pane" class="status-pane">
+      <h3>Recent operations</h3>
+      <ul id="status-log"></ul>
+    </section>
+
+    <section class="action-bar">
+      <button id="add-mod-btn" type="button" class="primary">+ Add mod</button>
+      <button id="update-all-btn" type="button">Update all (skip pinned)</button>
+      <button id="build-launch-btn" type="button" class="success">▶ Build & Launch in Prism</button>
+      <button id="settings-btn" type="button" title="Configure Prism instance path">⚙ Settings</button>
+      <input type="search" id="search" placeholder="Filter mods..." />
+    </section>
+
+    <section class="mod-list-wrapper">
+      <table class="mod-list">
+        <thead>
+          <tr>
+            <th>Slug</th>
+            <th>Name</th>
+            <th>Side</th>
+            <th>Source</th>
+            <th class="col-pinned">Pinned</th>
+            <th class="col-actions">Actions</th>
+          </tr>
+        </thead>
+        <tbody id="mod-list-body">
+          <tr><td colspan="6" class="empty">Loading mods...</td></tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <!-- Add mod modal -->
+  <div id="add-modal" class="modal hidden" role="dialog" aria-labelledby="add-modal-title">
+    <div class="modal-content">
+      <h2 id="add-modal-title">Add mod</h2>
+      <label>
+        Source
+        <select id="add-source">
+          <option value="mr">Modrinth</option>
+          <option value="cf">CurseForge</option>
+        </select>
+      </label>
+      <label>
+        Slug
+        <input type="text" id="add-slug" placeholder="e.g. supplementaries" />
+      </label>
+      <label>
+        Side
+        <select id="add-side">
+          <option value="both">Both (client + server)</option>
+          <option value="client">Client only</option>
+          <option value="server">Server only</option>
+        </select>
+      </label>
+      <div class="modal-actions">
+        <button type="button" id="add-cancel">Cancel</button>
+        <button type="button" id="add-confirm" class="primary">Add</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Confirm modal (used for remove and unpin) -->
+  <div id="confirm-modal" class="modal hidden" role="dialog">
+    <div class="modal-content">
+      <h2 id="confirm-title">Confirm</h2>
+      <p id="confirm-message">Are you sure?</p>
+      <div class="modal-actions">
+        <button type="button" id="confirm-cancel">Cancel</button>
+        <button type="button" id="confirm-ok" class="danger">Confirm</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Settings modal -->
+  <div id="settings-modal" class="modal hidden" role="dialog" aria-labelledby="settings-title">
+    <div class="modal-content">
+      <h2 id="settings-title">Settings</h2>
+      <p class="sv-help">
+        Configure where the editor copies built mods when you click "Build &amp;
+        Launch in Prism." This should be the path to your Prism Launcher
+        instance folder (the one containing <code>instance.cfg</code> and
+        <code>.minecraft/</code>).
+      </p>
+      <label>
+        Prism instance path
+        <input type="text" id="settings-prism-path" placeholder="C:\Users\You\AppData\Roaming\PrismLauncher\instances\my-instance" />
+      </label>
+      <div id="settings-detected" class="settings-detected hidden">
+        <p class="sv-help">Detected Prism instances:</p>
+        <ul id="settings-detected-list"></ul>
+      </div>
+      <div class="modal-actions">
+        <button type="button" id="settings-cancel">Cancel</button>
+        <button type="button" id="settings-save" class="primary">Save</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Set version modal -->
+  <div id="sv-modal" class="modal hidden" role="dialog" aria-labelledby="sv-title">
+    <div class="modal-content sv-modal-content">
+      <h2 id="sv-title">Set version</h2>
+      <div class="sv-tabs">
+        <button type="button" id="sv-tab-mr" class="sv-tab active">Pick from Modrinth</button>
+        <button type="button" id="sv-tab-url" class="sv-tab">Paste URL</button>
+      </div>
+      <div id="sv-pane-mr" class="sv-pane">
+        <div id="sv-versions-list" class="sv-versions-list"></div>
+      </div>
+      <div id="sv-pane-url" class="sv-pane hidden">
+        <p class="sv-help">
+          Paste a direct download URL for the mod (e.g. a CurseForge file URL or
+          a beta jar URL from Modrinth). The hash will be computed automatically
+          after setting.
+        </p>
+        <label>
+          URL
+          <input type="url" id="sv-url" placeholder="https://..." />
+        </label>
+        <label>
+          Filename (optional, will be derived from URL if blank)
+          <input type="text" id="sv-filename" placeholder="mod-1.2.3.jar" />
+        </label>
+        <div class="modal-actions">
+          <button type="button" id="sv-url-submit" class="primary">Set version from URL</button>
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button type="button" id="sv-cancel">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+name: Build editor
+
+# Auto-builds tools/derpack-edit.exe whenever the editor source changes.
+# The compiled binary is committed back to main with a [skip ci] tag to
+# prevent infinite loops.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/editor-src/**'
+      - '.github/workflows/build-editor.yml'
+  workflow_dispatch: {}  # manual trigger if you want to force a rebuild
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      # Build packwiz from source. Slower than downloading a prebuilt, but
+      # avoids any dependency on packwiz's CI distribution mechanism.
+      - name: Check out packwiz
+        uses: actions/checkout@v4
+        with:
+          repository: packwiz/packwiz
+          path: .packwiz-src
+          # Pin to a tested commit. Bump as needed.
+          ref: main
+
+      - name: Build packwiz binary
+        run: |
+          set -euo pipefail
+          cd .packwiz-src
+          # Cross-compile for Windows from the Linux runner.
+          GOOS=windows GOARCH=amd64 go build -o ../tools/editor-src/internal/packwiz/assets/packwiz.bin .
+          ls -lh ../tools/editor-src/internal/packwiz/assets/packwiz.bin
+
+      - name: Build editor binary
+        working-directory: tools/editor-src
+        run: |
+          set -euo pipefail
+          # Make sure go.sum is fresh.
+          go mod tidy
+          # Cross-compile for Windows.
+          GOOS=windows GOARCH=amd64 go build \
+            -o ../derpack-edit.exe \
+            -ldflags="-s -w" \
+            .
+          ls -lh ../derpack-edit.exe
+
+      - name: Check if binary changed
+        id: check
+        run: |
+          if git diff --quiet tools/derpack-edit.exe; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Binary unchanged, skipping commit"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Binary changed, will commit"
+            ls -lh tools/derpack-edit.exe
+          fi
+
+      - name: Commit and push
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          set -euo pipefail
+          git add tools/derpack-edit.exe
+          git commit -m "Rebuild derpack-edit.exe [skip ci]
+
+          Triggered by ${{ github.event.head_commit.message || 'manual rebuild' }}
+          Source SHA: ${{ github.sha }}"
+          git push

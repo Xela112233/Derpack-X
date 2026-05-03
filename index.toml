@@ -5,68 +5,32 @@ file = ".devcontainer/devcontainer.json"
 hash = "bdd9c71945406ce4bfb6bb8b13aced1a1ee520cadbe077fd345dd8f676ef1101"
 
 [[files]]
-file = ".github/actions/setup-packwiz/action.yml"
-hash = "6b2a29d773a278637a08c33e59ad85d8140ececc08d8b056484839b1ce66767d"
+file = ".editor/build-staging/.minecraft/kubejs/server_scripts/example.js"
+hash = "cd82b7d39d0aabec0160decce26d25daa3a36a700e6215042d48b2f13bfa2555"
 
 [[files]]
-file = ".github/workflows/add-mod.yml"
-hash = "bb60ca2bfc51502ab943fdf2048219fa284fe2b7de9e8287300ed0edb21bc18d"
+file = ".editor/build-staging/.minecraft/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
-file = ".github/workflows/build.yml"
-hash = "727305377cd815fdff6ad279c45dee2f4dd646dad6c0c07d8977ae6662747402"
+file = ".editor/build-staging/instance.cfg"
+hash = "c4e2b0197546f0a1807a185318f33cd4c91a0559daab63a451e016b117645af1"
 
 [[files]]
-file = ".github/workflows/compute-hash.yml"
-hash = "5ecddcaed3576aaedac61860a12f30bb0129584298cea282ae1de9027fdb4a71"
+file = ".editor/build-staging/mmc-pack.json"
+hash = "f3fd4fdd8811f271cb56e8c3f0eb0a2f5b6cec809f6a646be1e56c5ac76737ab"
 
 [[files]]
-file = ".github/workflows/remove-mod.yml"
-hash = "8bde6ac33ddfd1f3e35878d32665c167add62dcd676e2a98c78e244181d25776"
+file = ".editor/config.json"
+hash = "af52d88de0f67cd9b900d35647337c196b8e509a8f6b693e195f64932730c250"
 
 [[files]]
-file = ".github/workflows/sync-wishlist.yml"
-hash = "8d7d9ffd1ef9a32afdf262445ceb4a0504ca00c92b894201ae7d83825666e930"
-
-[[files]]
-file = ".github/workflows/update-mods.yml"
-hash = "d9126477772933202efc2fc67f4ddb85b3db64309900744ce34813ec1e482353"
-
-[[files]]
-file = "LICENSE"
-hash = "a367e594ee80fba5f6979bdd46202c3cbc63ab5b3dbc782b832af1c2275e9ed0"
-
-[[files]]
-file = "README.md"
-hash = "20a473c07297024bb4e215dc6e8887b654172949b19cfbc30e2855e77279dde0"
-
-[[files]]
-file = "config/README.md"
-hash = "86e7944b9da85a39c7dd016ab819eda76892d5bb70cc0deb1c9224580f283175"
-
-[[files]]
-file = "defaultconfigs/README.md"
-hash = "fb4b47e354a896eb39c0bc65ada1f4020b0c01936013c8c1e64780dba2b621fa"
-
-[[files]]
-file = "docs/EDITING.md"
-hash = "3ebdcebfe0f343a6eaa2983e86b78fa839621e351f99d0e9e352264551d9a122"
-
-[[files]]
-file = "docs/PRISM-SETUP.md"
-hash = "0f7f16a2a25af8f0614ffa4b758f3b9058303dc6870b356511dd0bda07506d56"
-
-[[files]]
-file = "kubejs/README.md"
-hash = "dc55272ae40f89dd922cc92b4d77448bf8afdc47be96f80c4ca0a20bdfedd2d6"
+file = ".editor/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "cd82b7d39d0aabec0160decce26d25daa3a36a700e6215042d48b2f13bfa2555"
-
-[[files]]
-file = "mods/README.md"
-hash = "1bdaf31d6e67e799ad6af84b42a70b00b385a79de30ad2ef2662dd7ca7563370"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -990,7 +954,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "27c4a6b4bd988b4e0dae56b1c4ba8dc2cb8e8ffa386300ebe29642f4c5ad8f4a"
+hash = "a6eddcd3f7272b85a0e1475abbee8d0291259806ec2ffd0d38fa3ee47d17161f"
 metafile = true
 
 [[files]]
@@ -1098,40 +1062,76 @@ file = "packwizignore"
 hash = "25f4dd5a581785897cd5a05bb5d6426abbf919882eb1c0f500917914a34b47c0"
 
 [[files]]
-file = "resourcepacks/README.md"
-hash = "932ff2e9a4378a583a87c9a7a0609837c5b02b5633e5b8dba381a3b1333a9e9f"
+file = "tools/editor-src/build.sh"
+hash = "6469d145713e3f055eb8bfdf45a9598e78515ce87e62a694c3d953e87753180a"
 
 [[files]]
-file = "scripts/bootstrap-mods.sh"
-hash = "63a580f7e2ac27e2b1a4a6279a289e1cfe0d9df30a03f2df3c890f404aa2431a"
+file = "tools/editor-src/go.mod"
+hash = "854ffee39418d597832c6c5c456404c06757a747f0c4d622d89871ee63ba60d6"
 
 [[files]]
-file = "scripts/build-mrpack.sh"
-hash = "2ffac7786318505965a4714ff2caa0dd9db58ca15d2027425c7fe013daab0121"
+file = "tools/editor-src/go.sum"
+hash = "cb87513b91fcdbac6ede622b50f5361682d43875ccf76afc45a3331b511e95fd"
 
 [[files]]
-file = "scripts/build-prism-bundled.sh"
-hash = "f5c4ae6f5b1652cf6d42e39e6e7ebfba3c8d4348026d88eca3790e85d109b52e"
+file = "tools/editor-src/internal/builder/builder.go"
+hash = "efc8df920870ce276d1b69d65b07ca2bead2add569bd16b4c821ad413531a701"
 
 [[files]]
-file = "scripts/build-prism-installer.sh"
-hash = "8025de90d2f3b32bc9ac6574ebd81e07b0e2af2e6d521d0c5298bb22f017b093"
+file = "tools/editor-src/internal/config/config.go"
+hash = "f2f76d46441e2a4e1b444cf04dd36c2fbe0021c0f9d8a2c9646f9f35f704178d"
 
 [[files]]
-file = "scripts/build-prism-skeleton.sh"
-hash = "c01da4965ca0f352026abc5e6d4d0dd12c23ee4f10872491b1e5be20f34de4b0"
+file = "tools/editor-src/internal/handlers/build.go"
+hash = "28d1c72ccb263b177737ae648708006c0223aec5b872e664d1d55957bbb7dca1"
 
 [[files]]
-file = "scripts/build-server.sh"
-hash = "984415662f0fd431322ef573b2e13d7bfae326cded0f399fc0d19a080702bf04"
+file = "tools/editor-src/internal/handlers/config.go"
+hash = "d1d5165b8e35194591a9e48770b202e1321aad113607ec8f8e0a839a9dc01f8b"
 
 [[files]]
-file = "scripts/setup.sh"
-hash = "a213c16bca4aa68588c19f814a3c34875440eee242893a5a2bcbc7b56e55c3dd"
+file = "tools/editor-src/internal/handlers/list.go"
+hash = "20056eb8c425f4e98e2f284c348898a03cdf400c77036613d0fc70e0b3662a99"
 
 [[files]]
-file = "shaderpacks/README.md"
-hash = "0380f3632f5d349cf5bf5e1d6bedf04d8ce03eea1b09ef8bd3435e2dc6e2b826"
+file = "tools/editor-src/internal/handlers/mods.go"
+hash = "4c0bd9a2f2d0ce0aa5a20b52e322485ee9033517a33078e08f0d8a32164dabfb"
+
+[[files]]
+file = "tools/editor-src/internal/handlers/pin.go"
+hash = "5aa14488f75783dcff7aef9d2d85a61ce916ab2744c9b312d7277489261f8c60"
+
+[[files]]
+file = "tools/editor-src/internal/handlers/server.go"
+hash = "2d0c60ae4f7ae95200091a4075d2816b6f01dcdf1364ed16a3cfabf4a25db89e"
+
+[[files]]
+file = "tools/editor-src/internal/handlers/versions.go"
+hash = "98ce02aac0a2bdda9b4a608d868927adc7a1c4c9acd441ad583b61e24947d096"
+
+[[files]]
+file = "tools/editor-src/internal/hashutil/hash.go"
+hash = "e3d3e7fa04d090704cac61728d5d1aefce3d223ffdd4db6240b26ebf5f29225c"
+
+[[files]]
+file = "tools/editor-src/internal/modrinth/client.go"
+hash = "0bd080918005a95733c8e0271cc28c5361e45789e92f2b85861343155f0f591d"
+
+[[files]]
+file = "tools/editor-src/main.go"
+hash = "e002bfbac10dd2f838de4520c2e7d1dd92eda437e2989ff3f93e20ac1ad09fbd"
+
+[[files]]
+file = "tools/editor-src/ui/app.js"
+hash = "a1ab4cb8f31fcf6a6bdabb4100d2c8ec606ddb37fd478c2a085ce1c90b470fc7"
+
+[[files]]
+file = "tools/editor-src/ui/index.html"
+hash = "85fb44698402ed362fb5a92affd52bd18c349102209e1d3697608decb10f5f4c"
+
+[[files]]
+file = "tools/editor-src/ui/style.css"
+hash = "97dd0c8b5c6c7a9078b652ceb61bc8d078f82dd9ff3c42ab4182fee2701c1810"
 
 [[files]]
 file = "wishlist.txt"
