@@ -1,0 +1,40 @@
+# Files and directories packwiz should ignore (i.e. NOT include in the pack).
+# Syntax is gitignore-style. Without this, `packwiz refresh` indexes every
+# file in the repo, including dev/build artifacts that end users don't need.
+
+# Repo metadata
+README.md
+LICENSE
+.gitattributes
+.gitignore
+.git/
+.github/
+.devcontainer/
+.vscode/
+.idea/
+
+# Documentation — for collaborators, not players
+docs/
+*/README.md
+
+# Build helpers — only run by CI / maintainers
+scripts/
+tools/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Editor app state — user-local, build staging, packwiz-installer cache
+.editor/
+
+# packwiz config (if any user keeps one in the repo by accident)
+.packwiz/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# This file itself
+.packwizignore

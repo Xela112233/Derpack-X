@@ -5,7 +5,7 @@ mods/*.disabled
 
 # packwiz artifacts we don't need in git
 *.mrpack
-.packwizignore
+
 
 # Minecraft runtime state
 .minecraft/
