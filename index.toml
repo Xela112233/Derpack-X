@@ -397,11 +397,6 @@ hash = "8d1e96b736c0fd38e3f87eabbb9025eaeb7f037152481c0eeb4ff467bf8ec3fe"
 metafile = true
 
 [[files]]
-file = "mods/climate-rivers.pw.toml"
-hash = "c4972f37e7d3394f6c11567c22940d0cf996e03996e51880ad01c0b496e06ee3"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -1384,11 +1379,6 @@ metafile = true
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
 hash = "1b9f0f895a466ec47ddd6656d8aeaac266741295e974752ca4ac7b3fdca4b64e"
-metafile = true
-
-[[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
-hash = "0d93e50de0112b6f6643ab44abbd3f1b5f1ecf676c4325c73de02d4689a56fca"
 metafile = true
 
 [[files]]
