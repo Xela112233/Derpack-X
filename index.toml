@@ -5,6 +5,10 @@ file = "kubejs/server_scripts/example.js"
 hash = "cd82b7d39d0aabec0160decce26d25daa3a36a700e6215042d48b2f13bfa2555"
 
 [[files]]
+file = "kubejs/server_scripts/reduce_hostile_spawns.js"
+hash = "59c4a4f178e134ae3c216f87069ff4ce8334813ab25e0d10c538d7c52b7e51ea"
+
+[[files]]
 file = "mods/777.pw.toml"
 hash = "1c79d8c39bac3a369ca4407fa4cb79a9ad12345464353b4d0f45abc2f22c2b58"
 metafile = true
@@ -107,11 +111,6 @@ metafile = true
 [[files]]
 file = "mods/bbrb.pw.toml"
 hash = "de7e6d9b703fcb9344b55e0fac474d1021b43b51832853f4c1957b7b1a18d0c1"
-metafile = true
-
-[[files]]
-file = "mods/bens-sharks.pw.toml"
-hash = "23a42f197651cfd7f8aac1e12096388b6469542bc6ecf1fe97f4c1595b32dbfc"
 metafile = true
 
 [[files]]
@@ -860,11 +859,6 @@ hash = "1e7a9d95a8f4160be40bea4fd6645bb66b544436729001bf37c1bfbb4c58e5a9"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
-metafile = true
-
-[[files]]
 file = "mods/formations-nether.pw.toml"
 hash = "cdddddbf94aabd1af201bfbe02733c871da8cfa4141828843e1e9fc6d7c89bf6"
 metafile = true
@@ -872,11 +866,6 @@ metafile = true
 [[files]]
 file = "mods/formations.pw.toml"
 hash = "36eabc748220aa2ec279622dd29ba6789a4f56a0e272cb9c835f579fc376a76a"
-metafile = true
-
-[[files]]
-file = "mods/fowlplay.pw.toml"
-hash = "06fb5c515c614a271ace3a2f904f6aff5311276a7ff67c525447e4e04493e612"
 metafile = true
 
 [[files]]
@@ -942,11 +931,6 @@ metafile = true
 [[files]]
 file = "mods/horde-moon.pw.toml"
 hash = "3b28da2221d9a32d1eff328b0c3bb76ebc5ff19b8bcf2954c4c21454405a3ef6"
-metafile = true
-
-[[files]]
-file = "mods/hybrid-aquatic.pw.toml"
-hash = "6cf2bb6f7d9b036a86517b952a46a8754ed79bf5ff295b1bcf953a6f68af0f7b"
 metafile = true
 
 [[files]]
@@ -1786,12 +1770,7 @@ metafile = true
 
 [[files]]
 file = "mods/valarian-conquest.pw.toml"
-hash = "28a5b63f5db878a2b7ba6a07a94502a3910be4a3f1f53ce1f835f7042f587603"
-metafile = true
-
-[[files]]
-file = "mods/weather-storms-tornadoes.pw.toml"
-hash = "8af81aa625596bdbf8ae03f2a56e276e2d38b1eb8e116f4997c33e092c7487fe"
+hash = "5e116858f979b7f0f3040334d352a02176233e1345c656d0423d8d0a6053d8ae"
 metafile = true
 
 [[files]]
@@ -1857,9 +1836,4 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
-metafile = true
-
-[[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "25f44960f8a331cafb3446c9388f959989aa01bd53a17a38766967f6cf20bb60"
 metafile = true

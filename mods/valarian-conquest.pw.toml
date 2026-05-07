@@ -1,6 +1,5 @@
 name = "Valarian Conquest"
 filename = "valarian_conquest-4.2.1.1-neoforge-1.21.1.jar"
-side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FTLgMXgq/versions/rJEDQhmW/valarian_conquest-4.2.1.1-neoforge-1.21.1.jar"
