@@ -25,11 +25,6 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
-file = "mods/adorable-hamster-pets.pw.toml"
-hash = "e3a626afc8faa65d4a951570749655754d4f1e92420bcade57441acb511f231e"
-metafile = true
-
-[[files]]
 file = "mods/afk-sleep.pw.toml"
 hash = "f860d14f65c6239b2e5da1a25ac6765ffc14193a55b4c7f345af80de4cebf4a9"
 metafile = true
@@ -80,11 +75,6 @@ hash = "ed6e931bcc89e8b4a05751449e7ed7168d3933bcfe4c7f662d12a8bda070e803"
 metafile = true
 
 [[files]]
-file = "mods/athena-ctm.pw.toml"
-hash = "ca4fdebf931acb8578216209bcc396cdfe7d804231f8048794eba5104df30f56"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "a29567cd17fab7ed0b5e33dbc46dbcdfd945657b224916d93d87bf6719fbe675"
 metafile = true
@@ -112,11 +102,6 @@ metafile = true
 [[files]]
 file = "mods/bbrb.pw.toml"
 hash = "de7e6d9b703fcb9344b55e0fac474d1021b43b51832853f4c1957b7b1a18d0c1"
-metafile = true
-
-[[files]]
-file = "mods/bens-sharks.pw.toml"
-hash = "23a42f197651cfd7f8aac1e12096388b6469542bc6ecf1fe97f4c1595b32dbfc"
 metafile = true
 
 [[files]]
@@ -262,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "4c05ea60d85212e4737d23a4b5ee74659a37c7cb9d6ab54c71b2eca56ed1f58c"
-metafile = true
-
-[[files]]
-file = "mods/chipped.pw.toml"
-hash = "ecad7c82cdd9a3c1d749b3dac4ea5ae3c211e9588da3193151beeab9c9379fb7"
 metafile = true
 
 [[files]]
@@ -870,11 +850,6 @@ hash = "1e7a9d95a8f4160be40bea4fd6645bb66b544436729001bf37c1bfbb4c58e5a9"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
-metafile = true
-
-[[files]]
 file = "mods/formations-nether.pw.toml"
 hash = "cdddddbf94aabd1af201bfbe02733c871da8cfa4141828843e1e9fc6d7c89bf6"
 metafile = true
@@ -882,11 +857,6 @@ metafile = true
 [[files]]
 file = "mods/formations.pw.toml"
 hash = "36eabc748220aa2ec279622dd29ba6789a4f56a0e272cb9c835f579fc376a76a"
-metafile = true
-
-[[files]]
-file = "mods/fowlplay.pw.toml"
-hash = "06fb5c515c614a271ace3a2f904f6aff5311276a7ff67c525447e4e04493e612"
 metafile = true
 
 [[files]]
@@ -955,11 +925,6 @@ hash = "3b28da2221d9a32d1eff328b0c3bb76ebc5ff19b8bcf2954c4c21454405a3ef6"
 metafile = true
 
 [[files]]
-file = "mods/hybrid-aquatic.pw.toml"
-hash = "6cf2bb6f7d9b036a86517b952a46a8754ed79bf5ff295b1bcf953a6f68af0f7b"
-metafile = true
-
-[[files]]
 file = "mods/hypertube.pw.toml"
 hash = "92ada0d7d993d7925e127c6d29a34519d8a5a8274a1c40aeaeb1a4ff646e62bb"
 metafile = true
@@ -1012,11 +977,6 @@ metafile = true
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "46fd3a8062699383239729b7f4937fdd83177581492d3b12c8ad74dd52bfe05a"
-metafile = true
-
-[[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "5e0d041982ed3e765b89cc0ccd6db86588dcd97a03e2ed9b6d5f07424123b984"
 metafile = true
 
 [[files]]
@@ -1092,11 +1052,6 @@ metafile = true
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "c14baa435b615d0c08e81e93e1848e9d0597eebfec0581114046929e634762b6"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "23384e5d71abfca933c72d3a351011e3076d903c78c6af20b827285310c9ad36"
 metafile = true
 
 [[files]]
@@ -1460,11 +1415,6 @@ hash = "7a8880ea7dc331692ce1210d300bd156427d4b88f11a49766120992f8edf5f75"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled-chipped.pw.toml"
-hash = "5abff8886adbd7bcbee7e7eed388a3dbaaeba886de45f294a01167dd24116aad"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "e3e04f1664902e639c5d1df39cc8085fdece053827479b452ac728bcd3604c13"
 metafile = true
@@ -1607,6 +1557,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "5bb6b05f4fe1b71d0821f21cef8cedba0ffdbcb816132273b7854015d7e59f36"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "b4ce7d265e136dd8bf58361bff5b77afcabbd7aa6017de660bb6f6c45b378644"
 metafile = true
 
 [[files]]
@@ -1806,12 +1761,7 @@ metafile = true
 
 [[files]]
 file = "mods/valarian-conquest.pw.toml"
-hash = "28a5b63f5db878a2b7ba6a07a94502a3910be4a3f1f53ce1f835f7042f587603"
-metafile = true
-
-[[files]]
-file = "mods/weather-storms-tornadoes.pw.toml"
-hash = "8af81aa625596bdbf8ae03f2a56e276e2d38b1eb8e116f4997c33e092c7487fe"
+hash = "5e116858f979b7f0f3040334d352a02176233e1345c656d0423d8d0a6053d8ae"
 metafile = true
 
 [[files]]
@@ -1877,9 +1827,4 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
-metafile = true
-
-[[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "25f44960f8a331cafb3446c9388f959989aa01bd53a17a38766967f6cf20bb60"
 metafile = true
