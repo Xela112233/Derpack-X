@@ -294,6 +294,23 @@ button:disabled:hover {
 .source-tag.mr { background: #1abc9c33; color: #4ddbb8; }
 .source-tag.cf { background: #f47b3b33; color: #ff9c5e; }
 
+/* When the source tag is a link (mod has a page URL), style it as a button:
+   inherit color, kill default underline, give a subtle hover. */
+a.source-tag {
+  text-decoration: none;
+  transition: filter 0.15s;
+}
+
+a.source-tag:hover {
+  filter: brightness(1.25);
+}
+
+.source-tag-arrow {
+  opacity: 0.6;
+  margin-left: 1px;
+  font-size: 10px;
+}
+
 .side-select {
   padding: 2px 22px 2px 8px;
   font-size: 12px;

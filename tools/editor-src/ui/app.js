@@ -114,7 +114,9 @@ function renderMods() {
 
 function modRow(m) {
   const sourceTag = m.source
-    ? `<span class="source-tag ${m.source}">${m.source}</span>`
+    ? (m.page_url
+        ? `<a class="source-tag ${m.source}" href="${escapeHtml(m.page_url)}" target="_blank" rel="noopener" title="Open on ${m.source === 'mr' ? 'Modrinth' : 'CurseForge'}">${m.source} <span class="source-tag-arrow">↗</span></a>`
+        : `<span class="source-tag ${m.source}">${m.source}</span>`)
     : '';
   const pinIcon = m.pinned
     ? '<span class="pin-icon pinned" title="Pinned">📌</span>'

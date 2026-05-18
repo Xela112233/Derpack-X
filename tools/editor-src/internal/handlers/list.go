@@ -38,6 +38,7 @@ type modResp struct {
 	Pinned  bool   `json:"pinned"`
 	Source  string `json:"source"` // "mr", "cf", or ""
 	URL     string `json:"url"`
+	PageURL string `json:"page_url"` // Modrinth/CurseForge project page; "" if no source
 }
 
 // HandleListMods returns all mods from mods/*.pw.toml.
@@ -51,12 +52,13 @@ func (s *Server) HandleListMods(w http.ResponseWriter, r *http.Request) {
 	out := make([]modResp, 0, len(mods))
 	for _, m := range mods {
 		entry := modResp{
-			Slug:   m.Slug,
-			Name:   m.Name,
-			Side:   m.Side,
-			Pinned: m.Pin,
-			Source: m.Source(),
-			URL:    m.Download.URL,
+			Slug:    m.Slug,
+			Name:    m.Name,
+			Side:    m.Side,
+			Pinned:  m.Pin,
+			Source:  m.Source(),
+			URL:     m.Download.URL,
+			PageURL: m.PageURL(),
 		}
 		// "Version" surfaces source-specific identifiers for display.
 		if m.Update.Modrinth != nil {
