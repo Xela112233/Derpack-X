@@ -190,11 +190,6 @@ hash = "81e1c627c553aecd5105e2d6df0bc80d4dd03acda3e8fd86b8d267c68f8475b4"
 metafile = true
 
 [[files]]
-file = "mods/boykisser.pw.toml"
-hash = "1ff8238d12ec66d94c49e49fbcc19abe6c5004420a636bddc77e23bd0c1518af"
-metafile = true
-
-[[files]]
 file = "mods/brazil-legends.pw.toml"
 hash = "0ecb3fbb4f2d9fde6fa7f817c6be4466a905d7d03fdbf5a5d66754aeed590c44"
 metafile = true
