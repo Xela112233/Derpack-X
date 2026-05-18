@@ -1,6 +1,6 @@
 name = "Derpack X"
 author = "Alex Ignacio-Gamez"
-version = "0.3.5"
+version = "0.3.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
