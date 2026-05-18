@@ -60,6 +60,11 @@ hash = "38dbd0c29a678ebd7b131b3cc153257432166b2e80023a8bb7720ddb94542b27"
 metafile = true
 
 [[files]]
+file = "mods/ars-n-spells.pw.toml"
+hash = "b880eb83e5d21786cbffe5fa60184014cab0bd90e2f3d2d40afeda98ea467ac3"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "a276b6fef58f44cf000b99979f090265a5b2727fe8f8eee68c2ae25c8d32baf7"
 metafile = true
@@ -160,11 +165,6 @@ hash = "7b136c6b5bb91d765bd16ed24ba2b5e006aeaa0283ef2813c11c6c3bda36d244"
 metafile = true
 
 [[files]]
-file = "mods/bloos-gacha-machine.pw.toml"
-hash = "4ffc089bd33fd1e405ce28ab71f3f5c6534de238317c9c90a02f2e469c70ef8b"
-metafile = true
-
-[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
@@ -190,11 +190,6 @@ hash = "81e1c627c553aecd5105e2d6df0bc80d4dd03acda3e8fd86b8d267c68f8475b4"
 metafile = true
 
 [[files]]
-file = "mods/boykisser.pw.toml"
-hash = "1ff8238d12ec66d94c49e49fbcc19abe6c5004420a636bddc77e23bd0c1518af"
-metafile = true
-
-[[files]]
 file = "mods/brazil-legends.pw.toml"
 hash = "0ecb3fbb4f2d9fde6fa7f817c6be4466a905d7d03fdbf5a5d66754aeed590c44"
 metafile = true
@@ -212,11 +207,6 @@ metafile = true
 [[files]]
 file = "mods/bundle-recipe.pw.toml"
 hash = "9fdd6e5493d0bbf564f032223ef2106eaef018e16d63d337043dc162771228dd"
-metafile = true
-
-[[files]]
-file = "mods/butchery.pw.toml"
-hash = "8e8026d4c90f7a55853f4553b3c4777547c79ad78472f3f1ea85c5ef67be211e"
 metafile = true
 
 [[files]]
@@ -247,11 +237,6 @@ metafile = true
 [[files]]
 file = "mods/citadel-(1.21.1-port).pw.toml"
 hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
-metafile = true
-
-[[files]]
-file = "mods/clientsort.pw.toml"
-hash = "8d1e96b736c0fd38e3f87eabbb9025eaeb7f037152481c0eeb4ff467bf8ec3fe"
 metafile = true
 
 [[files]]
@@ -370,11 +355,6 @@ hash = "858125151c726ab2ed1c588366eaf6d2d8953c4a51cee1aa81cd9ea2b901df38"
 metafile = true
 
 [[files]]
-file = "mods/create-cafe.pw.toml"
-hash = "a002022e71a7c39f6d2b8983b877c329ea1aaaa34a4abae0d64dbb97b9f1b5ed"
-metafile = true
-
-[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "c8b2e60b789885854508c674ba0630cdc8dc2a880302d8475cdc5ae06c44f64a"
 metafile = true
@@ -432,11 +412,6 @@ metafile = true
 [[files]]
 file = "mods/create-food.pw.toml"
 hash = "9659152903c07ccc018e00e09ffe021d78da8be78a83a19ffe269c251e0cd191"
-metafile = true
-
-[[files]]
-file = "mods/create-industry.pw.toml"
-hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
 metafile = true
 
 [[files]]
@@ -621,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -632,11 +607,6 @@ metafile = true
 [[files]]
 file = "mods/death-count.pw.toml"
 hash = "47a2c19ab58b6c98398c4bd531babe4ac5b42d86fb19e4095fc925b4cdcdfcea"
-metafile = true
-
-[[files]]
-file = "mods/death_note.pw.toml"
-hash = "1a82c9b142eda7d0ef65374b8a29c006edf0f47d09db3d4cfd627ff458f449e9"
 metafile = true
 
 [[files]]
@@ -876,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
 
 [[files]]
@@ -955,13 +925,18 @@ hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true
 
 [[files]]
+file = "mods/invtweaks-emu-for-ipn.pw.toml"
+hash = "be26a76ebecc5004c7723c86ed5b989603d750c20698b176e9f69f4c787459b8"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
+hash = "de72c43ede23c75ec2c9242add0f3d196dda4d07e31fd02d81a7ac14cc0a140a"
 metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "46fd3a8062699383239729b7f4937fdd83177581492d3b12c8ad74dd52bfe05a"
+hash = "678fa6583298962cb79fac4cde7a631019429f9e0298d3a3af638b632c883d76"
 metafile = true
 
 [[files]]
@@ -1371,7 +1346,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
@@ -1387,11 +1362,6 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
-metafile = true
-
-[[files]]
-file = "mods/psi.pw.toml"
-hash = "53a629cb7c4c98a5ca555d2adf3ea45b18c837526c54d2decc391d9f4e4f9ede"
 metafile = true
 
 [[files]]
@@ -1617,11 +1587,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a6eddcd3f7272b85a0e1475abbee8d0291259806ec2ffd0d38fa3ee47d17161f"
-metafile = true
-
-[[files]]
-file = "mods/sushigocrafting.pw.toml"
-hash = "35fe45dbe992cb418145565d1193bf0694d548dce5dcd5222a57d99a69d3a8eb"
 metafile = true
 
 [[files]]

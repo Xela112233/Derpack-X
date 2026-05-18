@@ -3,11 +3,11 @@ filename = "irons_lib-1.21.1-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9nfaJPtX/versions/sRMMFgei/irons_lib-1.21.1-1.0.2.jar"
-hash-format = "sha512"
-hash = "41aaf569abdfa6947ce72c076242b7d794307f37696350a3967e46a7d7390fc3569ce41335497d92e897d555be02c8b878ca43a0a7de039d262d26aedafd013e"
+hash-format = "sha1"
+hash = "ef92f362a352a30f927c30c2be72a2d843c41342"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "9nfaJPtX"
-version = "sRMMFgei"
+[update.curseforge]
+file-id = 7907336
+project-id = 1492763
