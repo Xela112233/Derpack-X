@@ -1,5 +1,6 @@
 name = "Better Clouds"
 filename = "better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5srFLIaK/versions/ucwzanPQ/better-clouds-1.7.20-alpha%2B1.21.1-neoforge.rev.4c611d9.jar"
