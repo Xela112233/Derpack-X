@@ -210,11 +210,6 @@ hash = "9fdd6e5493d0bbf564f032223ef2106eaef018e16d63d337043dc162771228dd"
 metafile = true
 
 [[files]]
-file = "mods/butchery.pw.toml"
-hash = "8e8026d4c90f7a55853f4553b3c4777547c79ad78472f3f1ea85c5ef67be211e"
-metafile = true
-
-[[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
 hash = "17385465977d23245fc8d9a5ebe7230201fe3d67f7ad0f637a6752d1d3f67b91"
 metafile = true
@@ -1607,11 +1602,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a6eddcd3f7272b85a0e1475abbee8d0291259806ec2ffd0d38fa3ee47d17161f"
-metafile = true
-
-[[files]]
-file = "mods/sushigocrafting.pw.toml"
-hash = "35fe45dbe992cb418145565d1193bf0694d548dce5dcd5222a57d99a69d3a8eb"
 metafile = true
 
 [[files]]
