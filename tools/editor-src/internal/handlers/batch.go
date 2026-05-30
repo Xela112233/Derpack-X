@@ -66,7 +66,10 @@ func (s *Server) HandleBatchAdd(w http.ResponseWriter, r *http.Request) {
 		case "mr":
 			out, err = s.Runner.AddModrinth(slug, "")
 		case "cf":
-			out, err = s.Runner.AddCurseForge(slug)
+			// CF goes through our own resolution path so we can pass the
+			// API key, detect opt-outs cleanly, and enforce the no-half-
+			// state contract.
+			out, err = s.addCurseForgeMod(slug)
 		}
 
 		if err != nil {
@@ -76,6 +79,9 @@ func (s *Server) HandleBatchAdd(w http.ResponseWriter, r *http.Request) {
 			// Force "both" — packwiz often picks up wrong side metadata
 			// from Modrinth for Create addons and similar. The user can
 			// flip a specific mod with the per-row Side button if needed.
+			// CF additions already write with no Side field (matching
+			// "both"), but applying again is harmless and keeps the path
+			// uniform.
 			if sideErr := s.applySide(slug, "both"); sideErr != nil {
 				// Mod added but side wasn't normalized. Annotate but don't fail.
 				res.OK = true

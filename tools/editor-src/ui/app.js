@@ -117,7 +117,7 @@ function modRow(m) {
     ? (m.page_url
         ? `<a class="source-tag ${m.source}" href="${escapeHtml(m.page_url)}" target="_blank" rel="noopener" title="Open on ${m.source === 'mr' ? 'Modrinth' : 'CurseForge'}">${m.source} <span class="source-tag-arrow">↗</span></a>`
         : `<span class="source-tag ${m.source}">${m.source}</span>`)
-    : '';
+    : `<span class="source-tag self" title="Self-hosted (no upstream source)">self</span>`;
   const pinIcon = m.pinned
     ? '<span class="pin-icon pinned" title="Pinned">📌</span>'
     : '<span class="pin-icon unpinned" title="Not pinned">📌</span>';
@@ -126,10 +126,16 @@ function modRow(m) {
   const setVersionBtn = m.source
     ? `<button data-action="set-version" data-slug="${escapeHtml(m.slug)}">Set version</button>`
     : '';
-  // Update is disabled for pinned mods (packwiz skips them anyway).
-  const updateBtn = m.pinned
-    ? `<button disabled title="Pinned mods are not auto-updated">Update</button>`
-    : `<button data-action="update" data-slug="${escapeHtml(m.slug)}">Update</button>`;
+  // Update is disabled for pinned mods (packwiz skips them) and for
+  // self-hosted mods (no upstream to check).
+  let updateBtn;
+  if (m.pinned) {
+    updateBtn = `<button disabled title="Pinned mods are not auto-updated">Update</button>`;
+  } else if (!m.source) {
+    updateBtn = `<button disabled title="Self-hosted mods have no upstream to check for updates">Update</button>`;
+  } else {
+    updateBtn = `<button data-action="update" data-slug="${escapeHtml(m.slug)}">Update</button>`;
+  }
 
   const side = m.side || 'both';
   const sideOpts = ['both', 'client', 'server'].map(s =>
@@ -290,18 +296,66 @@ async function doComputeHash(slug) {
   }
 }
 
+async function doRefreshIndex() {
+  logStatus('ok', 'Running `packwiz refresh`...');
+  const btn = $('#refresh-index-btn');
+  btn.disabled = true;
+  try {
+    const r = await apiPost('/api/refresh', {});
+    if (r.ok) {
+      logStatus('ok', 'Index refreshed.');
+      if (r.output) {
+        const lines = r.output.split('\n').map(l => l.trim()).filter(Boolean);
+        lines.slice(-3).forEach(l => logStatus('ok', `  ${l}`));
+      }
+      await loadMods();
+    } else {
+      logStatus('err', `Refresh failed: ${r.error || 'unknown error'}`);
+    }
+  } catch (err) {
+    logStatus('err', err.message);
+  } finally {
+    btn.disabled = false;
+  }
+}
+
 // ----- Add mod modal -----------------------------------------------------
 
 function openAddModal() {
   $('#add-source').value = 'mr';
   $('#add-slug').value = '';
+  $('#add-name').value = '';
+  $('#add-url').value = '';
+  $('#add-filename').value = '';
   $('#add-side').value = 'both';
+  // Reset modal to mr/cf shape — URL fields hidden, slug visible.
+  applyAddSourceUI('mr');
   $('#add-modal').classList.remove('hidden');
   $('#add-slug').focus();
 }
 
 function closeAddModal() {
   $('#add-modal').classList.add('hidden');
+}
+
+// applyAddSourceUI toggles which fields are visible in the Add Mod modal
+// based on the current source selection. For mr/cf we just need a slug;
+// for self-hosted url we also need name + URL + optional filename.
+function applyAddSourceUI(source) {
+  const urlFields = $('#add-url-fields');
+  const slugLabel = $('#add-slug-label');
+  const slugInput = $('#add-slug');
+  if (source === 'url') {
+    urlFields.classList.remove('hidden');
+    slugLabel.textContent = 'Slug (any unique identifier)';
+    slugInput.placeholder = 'e.g. my-custom-mod';
+  } else {
+    urlFields.classList.add('hidden');
+    slugLabel.textContent = 'Slug';
+    slugInput.placeholder = source === 'cf'
+      ? 'e.g. create-mob-spawners'
+      : 'e.g. supplementaries';
+  }
 }
 
 async function submitAddMod() {
@@ -312,12 +366,32 @@ async function submitAddMod() {
     return;
   }
 
+  // Self-hosted needs name + URL too.
+  const payload = { source, slug, side };
+  if (source === 'url') {
+    const name = $('#add-name').value.trim();
+    const url = $('#add-url').value.trim();
+    const filename = $('#add-filename').value.trim();
+    if (!name) {
+      logStatus('err', 'Self-hosted mods need a name');
+      return;
+    }
+    if (!url) {
+      logStatus('err', 'Self-hosted mods need a URL');
+      return;
+    }
+    payload.name = name;
+    payload.url = url;
+    payload.filename = filename;
+  }
+
   $('#add-confirm').disabled = true;
   $('#add-confirm').textContent = 'Adding...';
   try {
-    const r = await apiPost('/api/mods/add', { source, slug, side });
+    const r = await apiPost('/api/mods/add', payload);
     if (r.ok) {
       logStatus('ok', `Added ${slug} (${source})`);
+      if (r.output) logStatus('ok', `  ${r.output.split('\n')[0]}`);
       closeAddModal();
       await loadMods();
     } else {
@@ -389,6 +463,17 @@ async function fetchVersions(slug) {
           openSettings();
         });
       }
+      return;
+    }
+    // CF mod whose author opted out of third-party distribution: the API
+    // returned files but every downloadUrl is null. The picker can't help
+    // here; surface the real reason rather than a "no versions" message
+    // that looks like a filter problem.
+    if (result && result.opted_out) {
+      list.innerHTML = `
+        <div class="sv-needs-key">
+          <p>${escapeHtml(result.hint || 'This mod has disabled third-party distribution on CurseForge.')}</p>
+        </div>`;
       return;
     }
     if (!Array.isArray(result) || result.length === 0) {
@@ -690,12 +775,15 @@ function closeConfirm() {
 // ----- Wire up -----------------------------------------------------------
 
 document.addEventListener('DOMContentLoaded', () => {
-  // Top bar
+  // Top bar — reload UI from disk (does NOT touch packwiz).
   $('#refresh-btn').addEventListener('click', () => {
     loadPack();
     loadMods();
-    logStatus('ok', 'Refreshed');
+    logStatus('ok', 'Reloaded mod list from disk');
   });
+
+  // Refresh index — runs `packwiz refresh` to rebuild index.toml.
+  $('#refresh-index-btn').addEventListener('click', () => doRefreshIndex());
 
   // Update all
   $('#update-all-btn').addEventListener('click', () => {
@@ -718,6 +806,9 @@ document.addEventListener('DOMContentLoaded', () => {
   $('#add-confirm').addEventListener('click', submitAddMod);
   $('#add-slug').addEventListener('keydown', (e) => {
     if (e.key === 'Enter') submitAddMod();
+  });
+  $('#add-source').addEventListener('change', (e) => {
+    applyAddSourceUI(e.target.value);
   });
 
   // Wishlist modal

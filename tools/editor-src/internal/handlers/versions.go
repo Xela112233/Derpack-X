@@ -3,6 +3,7 @@ package handlers
 import (
 	"net/http"
 	"path"
+	"regexp"
 	"sort"
 	"strconv"
 	"strings"
@@ -12,6 +13,42 @@ import (
 	"github.com/derpack/derpack-edit/internal/modrinth"
 	"github.com/derpack/derpack-edit/internal/packwiz"
 )
+
+// cfOptOutMessage is the user-facing explanation when a CurseForge author
+// has disabled third-party distribution. Used in several spots that all
+// surface the same condition, so the wording lives in one place.
+const cfOptOutMessage = "This mod's author has disabled third-party distribution on CurseForge. " +
+	"packwiz cannot auto-fetch the jar. To use this mod, you'll need to self-host the file " +
+	"(see docs for the self-hosted workflow)."
+
+// cfPageURLPattern matches the CurseForge page URLs users typically copy
+// from their browser. Captures the file ID.
+//
+// Matches:
+//
+//	https://www.curseforge.com/minecraft/mc-mods/<slug>/files/<fileId>
+//	https://www.curseforge.com/minecraft/mc-mods/<slug>/download/<fileId>
+//	https://legacy.curseforge.com/minecraft/mc-mods/<slug>/files/<fileId>
+//	https://www.curseforge.com/projects/<projectId>/files/<fileId>   (older form)
+//
+// Does NOT match direct CDN URLs (media.forgecdn.net, edge.forgecdn.net) —
+// those are already direct downloads and don't need resolution.
+var cfPageURLPattern = regexp.MustCompile(
+	`curseforge\.com/(?:minecraft/mc-mods/[^/]+|projects/\d+)/(?:files|download)/(\d+)`)
+
+// extractCFFileID returns the file ID from a CurseForge page URL, or 0 if
+// the URL doesn't look like one we recognize.
+func extractCFFileID(url string) int64 {
+	m := cfPageURLPattern.FindStringSubmatch(url)
+	if m == nil {
+		return 0
+	}
+	id, err := strconv.ParseInt(m[1], 10, 64)
+	if err != nil {
+		return 0
+	}
+	return id
+}
 
 // ----- GET /api/mods/{slug}/versions ------------------------------------
 
@@ -106,6 +143,11 @@ func (s *Server) listModrinthVersions(w http.ResponseWriter, mod *packwiz.Mod) {
 
 // listCurseForgeVersions handles the CF source. Requires a CF API key
 // configured in user settings; returns a clear error if missing.
+//
+// If every file from the API has an empty downloadUrl (the author opted out
+// of third-party distribution at the project level), returns a structured
+// {opted_out: true, hint: ...} response so the UI can render a real
+// explanation instead of a misleading "no matching versions" message.
 func (s *Server) listCurseForgeVersions(w http.ResponseWriter, mod *packwiz.Mod) {
 	if mod.Update.CurseForge == nil {
 		writeError(w, http.StatusBadRequest, "mod is not a CurseForge mod")
@@ -145,10 +187,12 @@ func (s *Server) listCurseForgeVersions(w http.ResponseWriter, mod *packwiz.Mod)
 	}
 
 	out := make([]versionEntry, 0, len(files))
+	optedOutCount := 0
 	for _, f := range files {
-		// CF sometimes returns null downloadUrl for files behind their auth
-		// wall; skip those rather than offer them as choices that won't work.
 		if f.DownloadURL == "" {
+			// Author opted out of third-party distribution for this file.
+			// Track it so we can surface a clear message if NOTHING resolves.
+			optedOutCount++
 			continue
 		}
 		// CF doesn't have a separate "version_number" field — DisplayName is
@@ -167,18 +211,33 @@ func (s *Server) listCurseForgeVersions(w http.ResponseWriter, mod *packwiz.Mod)
 			Size:          f.FileLength,
 		})
 	}
+
+	// If we found files for this MC/loader combo but every single one is
+	// opted-out, the user needs to know that — otherwise the picker says
+	// "no matching versions" and they assume it's a filter problem.
+	if len(out) == 0 && optedOutCount > 0 {
+		writeJSON(w, http.StatusOK, map[string]any{
+			"opted_out": true,
+			"hint":      cfOptOutMessage,
+		})
+		return
+	}
+
 	sort.SliceStable(out, func(i, j int) bool {
 		return out[i].DatePublished > out[j].DatePublished
 	})
 
 	writeJSON(w, http.StatusOK, out)
 }
-// The "versions" map looks like:
-//   [versions]
-//   minecraft = "1.21.1"
-//   neoforge = "21.1.180"
+
+// loadersAndVersions converts the [versions] table from pack.toml into
+// loader names and MC versions.
 //
-// We turn that into loaders=["neoforge"], mcVersions=["1.21.1"].
+//	[versions]
+//	minecraft = "1.21.1"
+//	neoforge = "21.1.180"
+//
+// → loaders=["neoforge"], mcVersions=["1.21.1"].
 func loadersAndVersions(pack *packwiz.PackToml) (loaders, mcVersions []string) {
 	knownLoaders := map[string]bool{
 		"forge": true, "neoforge": true, "fabric": true, "quilt": true,
@@ -198,7 +257,7 @@ func loadersAndVersions(pack *packwiz.PackToml) (loaders, mcVersions []string) {
 type setVersionReq struct {
 	Slug string `json:"slug"`
 
-	// Path 1: from Modrinth picker.
+	// Path 1: from Modrinth/CurseForge picker.
 	VersionID string `json:"version_id,omitempty"`
 
 	// Path 2: paste URL (works for any source).
@@ -206,6 +265,10 @@ type setVersionReq struct {
 	Filename string `json:"filename,omitempty"` // optional, derived from URL if absent
 }
 
+// HandleSetVersion changes a mod to a specific version, either via picker
+// (version_id) or by pasting a URL. The contract is: the on-disk manifest
+// is only mutated if both the source resolution AND the hash computation
+// succeed. A failure at any point leaves the existing manifest untouched.
 func (s *Server) HandleSetVersion(w http.ResponseWriter, r *http.Request) {
 	if !requirePost(w, r) {
 		return
@@ -226,7 +289,8 @@ func (s *Server) HandleSetVersion(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Resolve URL + filename + (optionally) version ID / file ID.
+	// Resolve URL + filename + (optionally) version ID / file ID. Nothing
+	// hits disk in this section.
 	var (
 		url, filename, versionID string
 		cfFileID                 int64
@@ -273,26 +337,16 @@ func (s *Server) HandleSetVersion(w http.ResponseWriter, r *http.Request) {
 				writeError(w, http.StatusBadRequest, "CurseForge version_id must be a numeric file ID")
 				return
 			}
+			// One CF API call instead of listing + filtering. Returns the
+			// File directly by ID.
 			cf := curseforge.New(s.Config.CurseForgeAPIKey)
-			files, err := cf.ListFiles(int64(mod.Update.CurseForge.ProjectID), "", "")
+			picked, err := cf.GetFile(fileID)
 			if err != nil {
 				writeError(w, http.StatusBadGateway, err.Error())
 				return
 			}
-			var picked *curseforge.File
-			for i := range files {
-				if files[i].ID == fileID {
-					picked = &files[i]
-					break
-				}
-			}
-			if picked == nil {
-				writeError(w, http.StatusNotFound, "file ID not found for this CurseForge mod")
-				return
-			}
 			if picked.DownloadURL == "" {
-				writeError(w, http.StatusBadRequest,
-					"this CurseForge file does not expose a direct download URL (mod author opted out of third-party distribution)")
+				writeError(w, http.StatusBadRequest, cfOptOutMessage)
 				return
 			}
 			url = picked.DownloadURL
@@ -305,17 +359,48 @@ func (s *Server) HandleSetVersion(w http.ResponseWriter, r *http.Request) {
 		}
 
 	case req.URL != "":
-		url = strings.TrimSpace(req.URL)
-		if req.Filename != "" {
-			filename = req.Filename
+		pasted := strings.TrimSpace(req.URL)
+
+		// If this looks like a CurseForge page URL, resolve via the CF API
+		// to get the actual download URL. Direct GETs to CF page URLs return
+		// 403 — that's what was producing the "saved manifest but failed to
+		// compute hash" error before this fix.
+		if fileID := extractCFFileID(pasted); fileID != 0 {
+			if s.Config.CurseForgeAPIKey == "" {
+				writeError(w, http.StatusBadRequest,
+					"This looks like a CurseForge page URL. Add a CurseForge API key in Settings to resolve it, or paste the direct media.forgecdn.net URL instead.")
+				return
+			}
+			cf := curseforge.New(s.Config.CurseForgeAPIKey)
+			picked, ferr := cf.GetFile(fileID)
+			if ferr != nil {
+				writeError(w, http.StatusBadGateway, ferr.Error())
+				return
+			}
+			if picked.DownloadURL == "" {
+				writeError(w, http.StatusBadRequest, cfOptOutMessage)
+				return
+			}
+			url = picked.DownloadURL
+			filename = picked.FileName
+			cfFileID = picked.ID
+			// Honor a user-supplied filename override.
+			if req.Filename != "" {
+				filename = req.Filename
+			}
 		} else {
-			filename = path.Base(url)
-		}
-		// We can't infer the version ID from a pasted URL, but if the URL is a
-		// Modrinth CDN URL (https://cdn.modrinth.com/data/<modID>/versions/<versionID>/<file>),
-		// we can extract it.
-		if vid := extractModrinthVersionID(url); vid != "" {
-			versionID = vid
+			// Not a CF page URL — proceed with the pasted URL as-is.
+			url = pasted
+			if req.Filename != "" {
+				filename = req.Filename
+			} else {
+				filename = path.Base(url)
+			}
+			// If the URL is a Modrinth CDN URL, we can extract the version ID
+			// for the [update.modrinth] block.
+			if vid := extractModrinthVersionID(url); vid != "" {
+				versionID = vid
+			}
 		}
 
 	default:
@@ -323,11 +408,10 @@ func (s *Server) HandleSetVersion(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Mutate the manifest.
+	// Stage manifest mutations in memory; nothing is written to disk yet.
 	mod.Filename = filename
 	mod.Download.URL = url
 	mod.Download.HashFormat = "sha512"
-	mod.Download.Hash = "" // placeholder, computed below
 	if mod.Update.Modrinth != nil && versionID != "" {
 		mod.Update.Modrinth.Version = versionID
 	}
@@ -335,24 +419,22 @@ func (s *Server) HandleSetVersion(w http.ResponseWriter, r *http.Request) {
 		mod.Update.CurseForge.FileID = int(cfFileID)
 	}
 
-	if err := packwiz.SaveMod(s.RepoRoot, mod); err != nil {
-		writeError(w, http.StatusInternalServerError, "save manifest: "+err.Error())
-		return
-	}
-
-	// Compute hash and save again.
+	// Compute the hash BEFORE writing the manifest. If the download fails,
+	// nothing changes on disk — the prior manifest is preserved exactly.
 	hash, size, err := hashutil.SHA512OfURL(url)
 	if err != nil {
 		writeJSON(w, http.StatusOK, opResp{
 			OK:    false,
 			Slug:  req.Slug,
-			Error: "saved manifest but failed to compute hash: " + err.Error(),
+			Error: "failed to download from URL: " + err.Error(),
 		})
 		return
 	}
 	mod.Download.Hash = hash
+
+	// Now save — manifest hits disk only if the hash succeeded.
 	if err := packwiz.SaveMod(s.RepoRoot, mod); err != nil {
-		writeError(w, http.StatusInternalServerError, "save manifest with hash: "+err.Error())
+		writeError(w, http.StatusInternalServerError, "save manifest: "+err.Error())
 		return
 	}
 
