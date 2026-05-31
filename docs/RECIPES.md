@@ -11,6 +11,10 @@
 - Ore→metal uses Create **crushing** (the ore-doubling players already like) — a *reward*, not a tax;
   the vanilla 1:1 smelt path stays.
 - Never break a chain: if you `remove` a recipe, always add the Create replacement.
+- **Comment the original.** Every swap keeps the original recipe's ingredients as an `orig:` comment
+  (from the recipe digest) so review can weigh the author's intent and catch *accidental
+  easier/harder* shifts — e.g. don't silently drop a Totem-of-Undying gate. (Digest = ingredients;
+  exact shape/counts come from the jar when one's on hand.)
 
 ## Create "parts palette" (the recipe vocabulary)
 Ingredients used to signal/gate tiers (verified in Create 6):
