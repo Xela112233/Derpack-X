@@ -21,6 +21,10 @@ Ingredients used to signal/gate tiers (verified in Create 6):
 - **Tier-up gate:** `create:precision_mechanism`, `create:electron_tube`, `create:brass_ingot`
 - **Cross-mod metals via tags:** `#c:ingots/<metal>`, `#c:plates/<metal>`, `#c:nuggets/<metal>`
   (`almost-unified` collapses duplicates, so tags are safe)
+- **Higher metal tiers — already Create-made by addons, *use* don't rebuild:** bronze
+  (`create_ironworks:bronze_ingot`/`_sheet`), steel (`#c:ingots/steel` — TFMG + Ironworks) and
+  TFMG's steel parts (`tfmg:steel_mechanism`, `tfmg:steel_casing`, `tfmg:steel_cogwheel`), plus
+  Create: Metalwork's molten-metal casting (`create:compacting` from molten buckets).
 
 ## Create "methods palette"
 - `crushing` — ore → crushed (+byproduct): the ore-processing path
@@ -46,7 +50,11 @@ ServerEvents.recipes(event => {
 
 ## Scope & sequence (per-branch)
 Each branch's key craftables get a Create-part gate or Create-method build:
-1. **Metals & base materials** — sheets/alloys via pressing/mixing; ore→crushing reward.
+1. **Metals & base materials — already Create-ified; leverage, don't rebuild.** Create (sheets,
+   andesite_alloy), **Create: Metalwork** (molten-metal melting + `compacting`), **TFMG** (steel
+   tier + sheets), and **Create: Ironworks** (bronze/steel + sheets) already route metal processing
+   through Create. We *use* these parts as the gating vocabulary below — only add a missing
+   pressing/crushing recipe if a specific pack metal lacks one. **The real work is steps 2–5.**
 2. **Tools / armor / machines** — gate tier-ups behind `precision_mechanism` / sheets.
 3. **Magic** (Ars, Iron's Spells, Occultism) — foci/altars want Create parts.
 4. **Guns / vehicles** — TaCZ already routed via Immersive TaCZ; extend to Big Cannons / Aeronautics.
