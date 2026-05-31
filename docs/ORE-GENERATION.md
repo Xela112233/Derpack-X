@@ -39,10 +39,14 @@ Copy that pattern for each new ore.
 
 ## Biome targeting: tags (easy) vs IDs (precise)
 
-Prefer **vanilla biome tags** — Terralith biomes inherit them, so one tag covers many biomes:
+Prefer **vanilla biome tags** — Terralith routes its biomes into them via `#terralith:reference/*`
+tags (verified), so one vanilla tag covers all the matching Terralith biomes too:
 
 `#minecraft:is_mountain` · `is_hill` · `is_forest` · `is_taiga` · `is_jungle` · `is_savanna`
-· `is_badlands` · `is_beach` · `is_ocean` · `is_river` · `is_nether` · `is_overworld`
+· `is_badlands` · `is_beach` · `is_deep_ocean` · `is_river` · `is_overworld`
+
+> Note (verified): there is **no** `is_desert`, `is_ocean` (shallow), or `is_snowy` tag — for those,
+> list specific biomes (e.g. `minecraft:desert`, `terralith:desert_oasis`, snowy biomes by name).
 
 Use a **specific biome ID** only for special cases (e.g. diamonds *only* in `terralith:amethyst_rainforest`).
 You can also list several: `"biomes": ["terralith:alpine_highlands", "terralith:rocky_mountains"]`.
@@ -53,13 +57,31 @@ You can also list several: `"biomes": ["terralith:alpine_highlands", "terralith:
 
 **Vanilla (overworld):** coal, iron, copper, gold, redstone, lapis, diamond, emerald.
 
-**Modded (overworld) — installed in this pack** *(block IDs to be VERIFIED from jars once network allows; best-guess shown):*
+**Modded (overworld) — installed in this pack** *(block IDs VERIFIED from the jars):*
 - **Zinc** — Create — `create:zinc_ore`, `create:deepslate_zinc_ore`
-- **Uranium** — Create: New Age — `create_new_age:uranium_ore` (+ deepslate?) *(verify)*
-- **Silver** — Occultism — `occultism:silver_ore`, `occultism:silver_ore_deepslate` *(verify)*
+- **Thorium** — Create: New Age — `create_new_age:thorium_ore` (no deepslate variant). *New Age adds
+  **thorium, not uranium**; it also adds `create_new_age:magnetite_block` — vein it only if we want it.*
+- **Silver** — Occultism — `occultism:silver_ore`, `occultism:silver_ore_deepslate`
 
 **Nether / dimensional (optional, later pass):** `nether_gold_ore`, `nether_quartz_ore`,
-`ancient_debris`; Occultism `iesnium_ore` (Other dimension).
+`ancient_debris`; Occultism `occultism:iesnium_ore` (nether).
+
+### Disabling each mod's default ore gen (so our veins are the only source)
+
+Vanilla **and** every ore mod inject their ore into `#minecraft:is_overworld` at worldgen step
+`underground_ores`. To make an ore vein-based + biome-specific, **override the mod's biome modifier**
+(replace its `features` with `minecraft:empty`) and add our own vein. Verified override targets
+(create the same path under `kubejs/data/…` to shadow the mod's file):
+
+| Ore | File to override |
+|---|---|
+| Zinc | `create/neoforge/biome_modifier/zinc_ore.json` |
+| Thorium | `create_new_age/neoforge/biome_modifier/thorium_ore.json` |
+| Magnetite | `create_new_age/neoforge/biome_modifier/magnetite_block.json` |
+| Silver | `occultism/neoforge/biome_modifier/add_ore_silver.json` + `…/add_ore_silver_deepslate.json` |
+
+Leave the nether ones (`occultism` iesnium, Create `striated_ores_nether`) alone unless we do a nether pass.
+Create also has `striated_ores_overworld` (its stone-stripe ores) — decide later whether to keep.
 
 ---
 
@@ -73,12 +95,12 @@ Pre-filled with a starting proposal. Edit freely; add rows; assign several ores 
 | Iron ✅ | `#is_mountain` | 48 | 8 | -24…64 | example built |
 | Copper ✅ | `#is_badlands` | 48 | 7 | -16…112 | example built |
 | Gold | `#is_savanna`, `#is_badlands` | 40 | 9 | -48…40 | |
-| Redstone | desert biomes | 40 | 8 | -60…-8 | |
-| Lapis | snowy/icy biomes | 28 | 11 | -32…40 | |
+| Redstone | desert biomes (by name) | 40 | 8 | -60…-8 | no `is_desert` tag |
+| Lapis | snowy biomes (by name) | 28 | 11 | -32…40 | no `is_snowy` tag |
 | Diamond | jungle + deepslate | 24 | 14 | -60…-16 | endgame rare |
 | Emerald | mountain peaks | 16 | 9 | 64…256 | |
 | Zinc (Create) | `#is_overworld` plains/savanna | 40 | 7 | 0…80 | |
-| Uranium (New Age) | ? | 24 | 14 | -60…-20 | strong — keep rare |
+| Thorium (New Age) | ? (deep, rare) | 24 | 14 | -60…-20 | radioactive fuel — keep rare |
 | Silver (Occultism) | ? | 32 | 10 | -32…48 | |
 
 **Starter-trickle floor (thinned vanilla, everywhere):** coal/iron/copper at `chance` 10–12,
@@ -86,39 +108,31 @@ others 12+. Tune so a fresh player can find *some* iron within ~10 min, but real
 
 ---
 
-## Terralith biome list (choose from these)
+## Terralith biome list — VERIFIED (95 biomes, Terralith 2.5.8)
 
-> From **Terralith 2.5.x** knowledge — **cross-check against the jar** (`data/terralith/worldgen/biome/`)
-> when jar access is available. Vanilla biomes also still generate. Tip: most of these carry the
-> vanilla tags above, so tag-targeting usually suffices.
+> Exact IDs from the jar (`data/terralith/worldgen/biome/`). Vanilla biomes also still generate.
+> Easiest path is to target a **vanilla tag** (above); use these IDs only for specific placements.
 
-**Hot / arid:** `ancient_sands` · `arid_highlands` · `ashen_savanna` · `brushland` · `bryce_canyon`
-· `desert_canyon` · `desert_oasis` · `desert_spires` · `fractured_savanna` · `hot_shrubland`
-· `lush_desert` · `red_oasis` · `sandstone_valley` · `savanna_badlands` · `warped_mesa`
-· `white_mesa` · `yellowstone`
+**Surface (`terralith:…`):** `alpha_islands` · `alpha_islands_winter` · `alpine_grove` · `alpine_highlands`
+· `amethyst_canyon` · `amethyst_rainforest` · `ancient_sands` · `arid_highlands` · `ashen_savanna`
+· `basalt_cliffs` · `birch_taiga` · `blooming_plateau` · `blooming_valley` · `brushland` · `bryce_canyon`
+· `caldera` · `cloud_forest` · `cold_shrubland` · `deep_warm_ocean` · `desert_canyon` · `desert_oasis`
+· `desert_spires` · `emerald_peaks` · `forested_highlands` · `fractured_savanna` · `frozen_cliffs`
+· `glacial_chasm` · `granite_cliffs` · `gravel_beach` · `gravel_desert` · `haze_mountain` · `highlands`
+· `hot_shrubland` · `ice_marsh` · `jungle_mountains` · `lavender_forest` · `lavender_valley` · `lush_desert`
+· `lush_valley` · `mirage_isles` · `moonlight_grove` · `moonlight_valley` · `orchid_swamp` · `painted_mountains`
+· `red_oasis` · `rocky_jungle` · `rocky_mountains` · `rocky_shrubland` · `sakura_grove` · `sakura_valley`
+· `sandstone_valley` · `savanna_badlands` · `savanna_slopes` · `scarlet_mountains` · `shield` · `shield_clearing`
+· `siberian_grove` · `siberian_taiga` · `skylands_autumn` · `skylands_spring` · `skylands_summer`
+· `skylands_winter` · `snowy_badlands` · `snowy_cherry_grove` · `snowy_maple_forest` · `snowy_shield`
+· `steppe` · `stony_spires` · `temperate_highlands` · `tropical_jungle` · `valley_clearing` · `volcanic_crater`
+· `volcanic_peaks` · `warm_river` · `warped_mesa` · `white_cliffs` · `white_mesa` · `windswept_spires`
+· `wintry_forest` · `wintry_lowlands` · `yellowstone` · `yosemite_cliffs` · `yosemite_lowlands`
 
-**Temperate / forest:** `blooming_valley` · `blooming_plateau` · `cloud_forest` · `forested_highlands`
-· `haze_mountain` · `highlands` · `hot_shrubland` · `lavender_forest` · `lavender_valley`
-· `lush_valley` · `moonlight_grove` · `moonlight_valley` · `orchid_swamp` · `rocky_jungle`
-· `sakura_grove` · `sakura_valley` · `shrubland` · `skylands` · `temperate_highlands`
-· `tropical_jungle` · `tropical_rainforest` · `valley_clearing`
-
-**Mountainous:** `alpine_grove` · `alpine_highlands` · `emerald_peaks` · `granite_cliffs`
-· `jungle_mountains` · `mountain_steppe` · `painted_mountains` · `rocky_mountains`
-· `scarlet_mountains` · `stony_spires` · `windswept_spires` · `yosemite_cliffs` · `yosemite_lowlands`
-
-**Cold / snowy:** `cold_shrubland` · `frozen_cliffs` · `glacial_chasm` · `ice_marsh` · `rocky_shrubland`
-· `shield` · `shield_clearing` · `siberian_grove` · `siberian_taiga` · `snowy_badlands`
-· `snowy_cliffs` · `snowy_maple_forest` · `snowy_shrubland` · `steppe` · `wintry_forest` · `wintry_lowlands`
-
-**Volcanic / unique:** `amethyst_canyon` · `amethyst_rainforest` · `basalt_cliffs` · `caldera`
-· `mirage_isles` · `volcanic_crater` · `volcanic_peaks` · `white_cliffs`
-
-**Coastal / aquatic:** `alpha_islands` · `alpha_islands_winter` · `gravel_beach` · `warm_river`
-
-**Cave biomes:** `andesite_caves` · `crystal_caves` · `deep_caves` · `desert_caves` · `diorite_caves`
-· `fractured_caves` · `frostfire_caves` · `granite_caves` · `ice_caves` · `infested_caves`
-· `mantle_caves` · `thermal_caves` · `tuff_caves` · `underground_jungle` (+ vanilla `lush_caves`, `dripstone_caves`, `deep_dark`)
+**Cave (`terralith:cave/…` — the `cave/` is part of the ID):** `cave/andesite_caves` · `cave/deep_caves`
+· `cave/diorite_caves` · `cave/frostfire_caves` · `cave/fungal_caves` · `cave/granite_caves`
+· `cave/infested_caves` · `cave/mantle_caves` · `cave/thermal_caves` · `cave/tuff_caves`
+· `cave/underground_jungle`  *(+ vanilla `lush_caves`, `dripstone_caves`, `deep_dark`)*
 
 ---
 
@@ -130,6 +144,6 @@ others 12+. Tune so a fresh player can find *some* iron within ~10 min, but real
 3. Playtest checklist: veins appear in the right biomes at the expected size/rarity; vanilla ore
    is scarce but a starter amount still exists; no `worldgen`/`biome_modifier` errors in the log.
 
-> **Open verification items (blocked until jar access / playtest):** exact modded ore block IDs
-> (zinc/uranium/silver); whether KubeJS loads `neoforge/biome_modifier` from its data folder
-> (expected yes); final Terralith biome IDs.
+> **Verified from jars:** modded ore IDs (zinc/thorium/silver) and the per-mod biome-modifier override
+> paths; the full 95-biome Terralith list; Terralith routes biomes into vanilla tags. **Still to confirm
+> in-game:** that KubeJS loads `neoforge/biome_modifier` overrides from `kubejs/data/`.
