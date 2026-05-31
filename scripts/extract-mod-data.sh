@@ -64,7 +64,10 @@ for jar in "${JARS}"/*.jar; do
     unzip -oq "${jar}" 'data/*/recipe/*.json' 'data/*/recipes/*.json' -d "${rtmp}" 2>/dev/null
     mkdir -p "${OUT}/recipes"
     find "${rtmp}" -type f -name '*.json' 2>/dev/null | sort | while IFS= read -r f; do
-      rid="$(printf '%s' "${f#${rtmp}/}" | sed -E 's#^data/([^/]+)/recipes?/(.+)\.json$#\1:\2#')"
+      rel="${f#${rtmp}/}"
+      # only real recipes: data/<ns>/recipe(s)/...  (skips data/<ns>/advancement/recipes/...)
+      printf '%s' "${rel}" | grep -qE '^data/[^/]+/recipes?/' || continue
+      rid="$(printf '%s' "${rel}" | sed -E 's#^data/([^/]+)/recipes?/(.+)\.json$#\1:\2#')"
       summary="$(jq -r 'try ("\(.type // "?") | " + ([.. | strings | select(test("^[a-z0-9_.-]+:[a-z0-9_./-]+$"))] | unique | join(" "))) catch empty' "${f}" 2>/dev/null)"
       [ -n "${summary}" ] && printf '%s | %s\n' "${rid}" "${summary}"
     done > "${OUT}/recipes/${name}.txt"
