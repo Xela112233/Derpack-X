@@ -57,31 +57,43 @@ You can also list several: `"biomes": ["terralith:alpine_highlands", "terralith:
 
 **Vanilla (overworld):** coal, iron, copper, gold, redstone, lapis, diamond, emerald.
 
-**Modded (overworld) — installed in this pack** *(block IDs VERIFIED from the jars):*
-- **Zinc** — Create — `create:zinc_ore`, `create:deepslate_zinc_ore`
-- **Thorium** — Create: New Age — `create_new_age:thorium_ore` (no deepslate variant). *New Age adds
-  **thorium, not uranium**; it also adds `create_new_age:magnetite_block` — vein it only if we want it.*
-- **Silver** — Occultism — `occultism:silver_ore`, `occultism:silver_ore_deepslate`
+**Modded (overworld) — VERIFIED from jars, all veined:**
+- **Zinc** — Create — `create:zinc_ore` (+`deepslate_zinc_ore`)
+- **Thorium** — Create: New Age — `create_new_age:thorium_ore` (stone-only, no deepslate)
+- **Magnetite** — Create: New Age — `create_new_age:magnetite_block` (stone-only)
+- **Silver** — Occultism — `occultism:silver_ore` (+`silver_ore_deepslate`)
+- **Uranium** — Create: Nuclear — `createnuclear:uranium_ore` (+`deepslate_uranium_ore`)
+- **Lead** — TFMG — `tfmg:lead_ore` (+deepslate). *Nuclear also adds `createnuclear:lead_ore`; we vein
+  only the TFMG one and disable both defaults — both register lead under the standard `c:ores/lead`/`c:ingots/lead` tags, so they're interchangeable.*
+- **Lithium** — TFMG — `tfmg:lithium_ore` (+deepslate)
+- **Nickel** — TFMG — `tfmg:nickel_ore` (+deepslate)
+
+*Left as-is (not metal ore): TFMG oil (`oil_deposit`/`oil_well` — a fluid), Create/Nuclear/TFMG
+"striated" stone (scoria/crimsite/tuff/andesite), Create: Metalwork (processing only).*
 
 **Nether / dimensional (optional, later pass):** `nether_gold_ore`, `nether_quartz_ore`,
-`ancient_debris`; Occultism `occultism:iesnium_ore` (nether).
+`ancient_debris`; Occultism `occultism:iesnium_ore` (nether); Deeper Darker (Otherside dimension).
 
 ### Disabling each mod's default ore gen (so our veins are the only source)
 
 Vanilla **and** every ore mod inject their ore into `#minecraft:is_overworld` at worldgen step
-`underground_ores`. To make an ore vein-based + biome-specific, **override the mod's biome modifier**
-(replace its `features` with `minecraft:empty`) and add our own vein. Verified override targets
-(create the same path under `kubejs/data/…` to shadow the mod's file):
+`underground_ores`. To make an ore vein-based + biome-specific, **shadow the mod's biome modifier**
+with a `{ "type": "neoforge:none" }` file at the same path under `kubejs/data/…`, then add our own
+vein. Override targets in use (all verified + already shipped):
 
-| Ore | File to override |
+| Ore | File(s) shadowed with `neoforge:none` |
 |---|---|
 | Zinc | `create/neoforge/biome_modifier/zinc_ore.json` |
 | Thorium | `create_new_age/neoforge/biome_modifier/thorium_ore.json` |
 | Magnetite | `create_new_age/neoforge/biome_modifier/magnetite_block.json` |
-| Silver | `occultism/neoforge/biome_modifier/add_ore_silver.json` + `…/add_ore_silver_deepslate.json` |
+| Silver | `occultism/neoforge/biome_modifier/add_ore_silver.json` + `add_ore_silver_deepslate.json` |
+| Uranium | `createnuclear/neoforge/biome_modifier/uranium_ore.json` |
+| Lead | `createnuclear/neoforge/biome_modifier/lead_ore.json` + `tfmg/neoforge/biome_modifier/lead_ore.json` |
+| Lithium | `tfmg/neoforge/biome_modifier/lithium_ore.json` |
+| Nickel | `tfmg/neoforge/biome_modifier/nickel_ore.json` |
 
-Leave the nether ones (`occultism` iesnium, Create `striated_ores_nether`) alone unless we do a nether pass.
-Create also has `striated_ores_overworld` (its stone-stripe ores) — decide later whether to keep.
+Left untouched: nether ores (`occultism` iesnium, `striated_ores_nether`), the decorative
+`striated_ores_overworld` (scoria/crimsite/stone), and TFMG `oil_deposit`/`oil_well` (fluid).
 
 ---
 
