@@ -1,0 +1,1 @@
+{ "type": "neoforge:add_features", "biomes": [ "#c:is_ocean", "#minecraft:is_beach" ], "features": "derpack:vein_salt", "step": "underground_ores" }

@@ -1,0 +1,1 @@
+{ "type": "neoforge:add_features", "biomes": [ "minecraft:desert", "terralith:desert_oasis", "terralith:white_mesa", "terralith:gravel_desert", "#minecraft:is_badlands" ], "features": "derpack:vein_lithium", "step": "underground_ores" }

@@ -1,0 +1,1 @@
+{ "type": "neoforge:add_features", "biomes": [ "#minecraft:is_hill", "minecraft:plains", "terralith:highlands", "terralith:steppe" ], "features": "derpack:vein_tin", "step": "underground_ores" }

@@ -1,0 +1,1 @@
+{ "type": "neoforge:add_features", "biomes": [ "#minecraft:is_badlands", "terralith:volcanic_peaks", "terralith:volcanic_crater", "terralith:caldera", "terralith:ashen_savanna" ], "features": "derpack:vein_thorium", "step": "underground_ores" }

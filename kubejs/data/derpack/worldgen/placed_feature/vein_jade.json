@@ -1,0 +1,1 @@
+{ "feature": "derpack:vein_jade", "placement": [ { "type": "minecraft:rarity_filter", "chance": 13 }, { "type": "minecraft:in_square" }, { "type": "minecraft:height_range", "height": { "type": "minecraft:trapezoid", "min_inclusive": { "absolute": -24 }, "max_inclusive": { "absolute": 48 } } }, { "type": "minecraft:biome" } ] }
