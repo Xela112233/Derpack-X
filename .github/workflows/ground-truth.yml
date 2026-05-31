@@ -1,0 +1,72 @@
+name: Ground-truth digest
+
+# Fetches every mod jar (CI has the network the dev sandbox doesn't), extracts a
+# licensing-SAFE facts digest (IDs / tags / biome-modifiers only — no recipes,
+# loot, lang, or assets), and commits it under tools/mod-data/ so contributors
+# and Claude have offline ground truth without per-session jar uploads.
+#
+# Only the facts digest is committed. Full configs / recipe dumps are the mod
+# authors' content (licensing-sensitive) and are intentionally NOT produced here.
+#
+# Manual trigger. (workflow_dispatch only surfaces in the Actions tab once this
+# file is on the default branch.)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Java (for packwiz-installer-bootstrap)
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Set up packwiz
+        uses: ./.github/actions/setup-packwiz
+
+      - name: Refresh index
+        run: packwiz refresh
+
+      - name: Fetch all jars (packwiz serve + bootstrap)
+        run: |
+          mkdir -p .tools scratch
+          curl -fsSL -o .tools/packwiz-installer-bootstrap.jar \
+            https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar
+          packwiz serve --port 8765 >/tmp/serve.log 2>&1 &
+          SERVE_PID=$!
+          trap 'kill ${SERVE_PID} 2>/dev/null || true' EXIT
+          for i in $(seq 1 30); do
+            curl -fs http://localhost:8765/pack.toml >/dev/null 2>&1 && break
+            sleep 0.5
+          done
+          ( cd scratch && java -jar "${GITHUB_WORKSPACE}/.tools/packwiz-installer-bootstrap.jar" \
+              -g -s client http://localhost:8765/pack.toml )
+          echo "jars fetched: $(find scratch/mods -name '*.jar' 2>/dev/null | wc -l)"
+
+      - name: Extract facts digest
+        run: bash scripts/extract-mod-data.sh scratch/mods tools/mod-data
+
+      - name: Commit digest
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          git add tools/mod-data
+          if git diff --cached --quiet; then
+            echo "Digest unchanged — nothing to commit."
+            exit 0
+          fi
+          git commit -m "ci: refresh mod-data facts digest (IDs/tags/biome-modifiers)"
+          git push
