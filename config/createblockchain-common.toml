@@ -1,0 +1,63 @@
+# Derpack X — Create: Blockchain "Currency Miner" is intentionally GATED HARD.
+# Design intent: minting coins from energy is a marginal, late-game sink — never a
+# money printer that undercuts the produce-and-sell economy. Levers vs default:
+#   * baseEnergyPerCoin  830000 -> 8300000  (~10x FE per coin)
+#   * difficultyInterval 110    -> 25        (global cost ramps up far sooner)
+#   * difficultyBonus    10000  -> 250000    (and far more steeply)
+#   * coinToGenerate     SPUR (unchanged)    (only mints the lowest, 1-value coin)
+# Everything else left at mod defaults.
+
+#The base amount of Forge Energy (FE) required to mine one coin. Default value is around 1 coin per min with two max speed alternators.
+# Default: 830000
+# Range: > 1
+baseEnergyPerCoin = 8300000
+#How much additional FE is added to the mining cost each time the difficulty increases.
+# Default: 10000
+# Range: > 1
+difficultyBonus = 250000
+#How many coins must be mined globally before the mining cost increases by the difficulty bonus.
+# Default: 110
+# Range: > 1
+difficultyInterval = 25
+#The maximum amount of FE the miner can consume per tick.
+# Default: 8092
+# Range: > 1
+maxEnergyConsumption = 8092
+#The total amount of FE the miner can store internally.
+# Default: 8000
+# Range: > 1
+energyCapacity = 8000
+#The type of coin to generate when mining. Can be SPUR, BEVEL, SPROCKET, COG, CROWN, or SUN.
+coinToGenerate = "SPUR"
+#The heat percentage at which the miner will shut down to cool off.
+# Default: 95
+# Range: 1 ~ 100
+overheatThreshold = 95
+#The amount of heat generated per FE consumed. A smaller value is better.
+# Default: 0.001
+# Range: 0.0 ~ 1.0
+heatPerFE = 0.001
+#The percentage of heat passively cooled each tick (e.g., 0.005 is 0.5%).
+# Default: 0.005
+# Range: 0.0 ~ 1.0
+passiveCoolingPercent = 0.005
+#The additional percentage of heat cooled by Water each tick.
+# Default: 0.01
+# Range: 0.0 ~ 1.0
+waterCoolingPercent = 0.01
+#The additional percentage of heat cooled by Cryotheum Coolant each tick.
+# Default: 0.025
+# Range: 0.0 ~ 1.0
+cryotheumCoolingPercent = 0.025
+#The maximum durability of a Mining Core.
+# Default: 1000
+# Range: > 1
+maxDurability = 1000
+#The amount of durability damage a core takes per coin mined when using Cryotheum Coolant.
+# Default: 1
+# Range: > 0
+durabilityDamageStandard = 1
+#The amount of durability damage a core takes per coin mined when using Water as a coolant.
+# Default: 2
+# Range: > 0
+durabilityDamageWater = 2
