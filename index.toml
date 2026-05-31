@@ -1,28 +1,336 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CLAUDE.md"
+hash = "0f6c3e2283a71bba6775bdbe84a2186125218547f456ee9a5e46751cc175b0e0"
+
+[[files]]
+file = "config/createblockchain-common.toml"
+hash = "eaf6c7ba97e4b253817c05e2a34bfef4c277aab1b3b28d8c14bf01e7304aad22"
+
+[[files]]
+file = "kubejs/data/create/neoforge/biome_modifier/zinc_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/create_ironworks/neoforge/biome_modifier/deepslate_tin_ore_biome_modifier.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/create_ironworks/neoforge/biome_modifier/raw_tin_block_biome_modifier.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/create_ironworks/neoforge/biome_modifier/tin_ore_biome_modifier.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/create_new_age/neoforge/biome_modifier/magnetite_block.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/create_new_age/neoforge/biome_modifier/thorium_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/createnuclear/neoforge/biome_modifier/lead_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/createnuclear/neoforge/biome_modifier/uranium_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_coal.json"
+hash = "05f7ee7036201c9f1bdfc95753a3b204be4de01a1d5cc1e17f9bc8d4e44b7b41"
+
+[[files]]
 file = "kubejs/data/derpack/neoforge/biome_modifier/vein_copper.json"
 hash = "c5147d3f5c679fd97238e625fcd6b806544a66dff28b1aae5b22f3a204adf31c"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_diamond.json"
+hash = "0559b216b823a9cd3d1690b6c8cbb9fa862da35b3eca36d2721f5a00d1f55ea2"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_emerald.json"
+hash = "3933e8f90f2e17ee42144af40ba59595f187c5286fe30a7473732a9d14253275"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_gold.json"
+hash = "54e9837aaeeb602e158242dd8c8f4e12c934cbe759ee006ccdf6c9ab44f20831"
 
 [[files]]
 file = "kubejs/data/derpack/neoforge/biome_modifier/vein_iron.json"
 hash = "528d46e2c08d904c2ce79f11f46a0b3cfaec89446759e2de704a3ae5371916d2"
 
 [[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_jade.json"
+hash = "17891983d08b5f625960f95168d3aafcf9f54127ec63cf54877c6736554cd07b"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_lapis.json"
+hash = "4a6aadf9cb82824b20d3d25de27ba88997453bcf3832a2a0ada864c3ee339f3e"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_lead.json"
+hash = "504883d0de200814ee83405ebead69bb3c7ea58859f1354e51e782c2bea5c950"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_lithium.json"
+hash = "c9433f5e1f6f9722372a9f8d0d9b8c00a645d269df014666cd6652396a21f6ef"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_magnetite.json"
+hash = "68ddd1d8e5770aeff6098ed4ca55ec222f4c260a59d2edb2cdb9e62ff6195138"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_mithril.json"
+hash = "0a5338c29d43095b8e7ed7adcbaf51a4587f8e68c7a366aeab28a32006f26a07"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_nickel.json"
+hash = "c296e1f232f36707ebd0924963a7f127c26d12ddc05713c3bc2348f9916c6a36"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_redstone.json"
+hash = "a6485cb55d3f0c6b9344a05090b25904137c8c4d91767cb851ccc8294e66edd1"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_salt.json"
+hash = "539eef00bd68d7c724c429ae6a9e17c877b55360afdc4cafb64bcf401ebe954e"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_silver.json"
+hash = "c2d49c36e8f9d5828ac420b3ba2b1721edd836bbf1430e64094939e2a5c5d84c"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_thorium.json"
+hash = "1cd1d7e981c4cb91355d2047061f863eeb31a16d3b76ea5c2dc31d3062b51b4e"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_tin.json"
+hash = "eefc5d4644aefe6b2ea3a9df4856ba89f5a40da0c724be75f1666f32a41ec820"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_uranium.json"
+hash = "c48a185e3dd6dc22ef1dd49a2304fe3ca2b530750030a7c6f934626b6560efce"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_zinc.json"
+hash = "ec8b35e195c6e47a03bd68bba5c8f4cf12cb04e6c024f6aa962af2f2f1d36efc"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_coal.json"
+hash = "14e85de919d78e5dd985925daf89c1bb67f9b424abd67e099451f2bbedfcd835"
+
+[[files]]
 file = "kubejs/data/derpack/worldgen/configured_feature/vein_copper.json"
 hash = "c9121f01f487c12865c3310369364d0f03d17219099b288ad583bcfd3f8a3406"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_diamond.json"
+hash = "847600ca932d092a4fd1b35caad95bec347a68c175d0067129d9a82de1369f99"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_emerald.json"
+hash = "f6ed46d5d07cfba36047bad86007ed979a035db52583acc66d00e440d0cdccfd"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_gold.json"
+hash = "18bfaadba38fc8e646bc2198b220375df5c08189e67ef1d11ff01f3242180792"
 
 [[files]]
 file = "kubejs/data/derpack/worldgen/configured_feature/vein_iron.json"
 hash = "3ad5324b6193ddbd4cb696155f095aeb6258517910dc8c327bbed8032d776e71"
 
 [[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_jade.json"
+hash = "bc32b9e0554779b6d6ab4cb05ad09f4fc00fc444af17e8b531e98d65e0dc6e7a"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_lapis.json"
+hash = "a40ff12013f6196ec56f060f13b21b0c4935568498503aa6401c6a13b74aefad"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_lead.json"
+hash = "60af58b3ead3604ca82e60bb1a348b0665e18a78d3a0b9ebe5d53b30beb4d44b"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_lithium.json"
+hash = "1362e190f841249540d4b97c55bc152ba5cfb18a0b854c55279580b9778a622c"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_magnetite.json"
+hash = "6d99a8aa415ab780929e2a723895f292b9b1f8f9fca1019dfbcb44b10a3ef383"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_mithril.json"
+hash = "8b5af8b90f14ac1b3b45654e718700e39b22e4f6892ada17fb1edf5b0779471d"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_nickel.json"
+hash = "88461637e34d2eb434368f881d9e26d15e17c15fa65c10ab55256d06e6184acb"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_redstone.json"
+hash = "4fce68c0572d440069916e7f1bfd3606dcb2d5702e3096374db578a87be8cdef"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_salt.json"
+hash = "02a647fae132669e7ff612c0112545f305d62fae778d5a4eff8790942036f09f"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_silver.json"
+hash = "d4e6f794692675cb3f311e90c6f2977d11bc7cab338164ca563e339d38aa26fe"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_thorium.json"
+hash = "cfd3e0bb15a10e07ae4db8dc3cf7e09da68c8ddb66370cbf19fdc08c28834299"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_tin.json"
+hash = "853fa7c87867a9f12f88fe425934a823c361abea2a3a1cadd9028b17eb2e077c"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_uranium.json"
+hash = "d828988e0b7c66a55cc93710199d9b60f103f21f8f316c19602ca322e5b587c4"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_zinc.json"
+hash = "b85a2ce5e5be257d7e4541d82936092e0488695718a715803f9cf5878d747659"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_coal.json"
+hash = "2488e83e772b45cfb88d73a548f5b89c38684ca341e8a2a609289582dafa14d5"
+
+[[files]]
 file = "kubejs/data/derpack/worldgen/placed_feature/vein_copper.json"
 hash = "bae59186841a71faff9474e411b41d4181337cc3497c8370ccaf428cf4d50119"
 
 [[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_diamond.json"
+hash = "8e9a81fb58996aec64c90386bc5070b1975ab0d6ccce7d9cb30d0d274a8d5d51"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_emerald.json"
+hash = "efba2d3ba2aff6429ad7ecbc82ecdd91fc2c775e120512fc9a9ce0c8e61f7678"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_gold.json"
+hash = "77271259c122993c849d9fc5a45472306e7a1d63e1ea5ece078a7d3011d9d217"
+
+[[files]]
 file = "kubejs/data/derpack/worldgen/placed_feature/vein_iron.json"
 hash = "f31e21109052bc8460c86b1daa93ae5fcaa75a3c8a095b1271ca9951ab2c319b"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_jade.json"
+hash = "7be446d35ad89bf92f0894623b7927a010743fb99acf3f4e83fd9cba1d1aee68"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_lapis.json"
+hash = "5db0aa097c3b34586731dbbe12b38d157d83b74b2ff691d13237d39683e0c2ae"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_lead.json"
+hash = "7344adeb98a743a98dc92c1076c7ea70d73bdd0ff2fa4408433c11037c0dd9ba"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_lithium.json"
+hash = "a956591df2d8c23fe65b4bc02942b01f56106f4f085e546a3cd8e1fa5b50c2f8"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_magnetite.json"
+hash = "47a90874e751a376e40f048c6ff042b81c5f32486d69820e7712a1e0ae847427"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_mithril.json"
+hash = "731a3c1e0d022408db97bb21f1797360bc66053364087db1bc676a0e051830bb"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_nickel.json"
+hash = "e5d2047d7c144cd2f3d94640613e2b78267ffcf68a4c2e53870011da38515860"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_redstone.json"
+hash = "129d2f43e6d450b0a15423eaedfe543b775906ca17a11668ce1bf90a0617d9d8"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_salt.json"
+hash = "677345303cc7b52ff86664ed4bad0b8f15b609cbafcb7337e68b09fdc65dcd22"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_silver.json"
+hash = "bb8c46de363abe3eedead005960fa8bc54da19f05ed346bb683bc1328da018fa"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_thorium.json"
+hash = "6393df69811a47feccfab7b0c46b26c63dad3b9aaab63769762989bcd88e6682"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_tin.json"
+hash = "70f06c762d78d7238df2b19e02157f6d897d8514ffa5b9f1bedc571df9b969d7"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_uranium.json"
+hash = "0c98bbc0c7516f93630566364c41a827017ce2771efa62cab33c18a0f5a0661e"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_zinc.json"
+hash = "00833611eb312f6ba5e98534c4753860b0dcf90fa26828f94132a9d459735c03"
+
+[[files]]
+file = "kubejs/data/expandeddelight/neoforge/biome_modifier/salt_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/irons_spellbooks/neoforge/biome_modifier/add_mithril_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_lower.json"
+hash = "1823738f25c3812daa81e171437709f13094277c3a0821475f7ce144dd759a2d"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_upper.json"
+hash = "04386bf4270e6bb4edadfc53c2dc832fdb85827c63c9cefaa65fe1caf21f1ab2"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_copper.json"
+hash = "44961206c5b08767d1fcd3a3570f4ee87e61eeb624ce6327b48d89b37ee29111"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_copper_large.json"
+hash = "892c47a648fec7b159317c3516526141108139b68009d5412d48820e25e226a0"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond.json"
+hash = "45994687f85879e5d68fd00b637ec74168a40693679c7caf5623c2868082f851"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
+hash = "cc90c1ae4315fcf01dedbac8d0a1297367b71742f47c1d01b9dda6afdb75b3ac"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
+hash = "744d4e15e712cd14d00306918dcb8f60fa601bb32982b06791269b17e378fa0a"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_medium.json"
+hash = "d412bd73dda6e1ebee5fab4e68ee0d28f73017358e74a463e8707be729829a96"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_emerald.json"
+hash = "618c95aea79f4127b57a29e7dd0903f50b25f4a1a1479418e190182066f530f7"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold.json"
+hash = "3fca4d4019b68d6e5214e8bad29982c8bc2965da498f2f7d8a0892bb2106b0b0"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_lower.json"
+hash = "c7454fa92b13ad887d25184d38e0a06b64afdd5b31e63f01829162939323e30d"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
@@ -35,6 +343,46 @@ hash = "73ef45602205c837c4df6e41de97ed149d78a5264dff34167527f4e4904a40d5"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
 hash = "b1cb66ea59955261817a97d3a816f6d2924b7d163c07027d1dd988511b2a289e"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis.json"
+hash = "84bd37e453e50e4641c0d85f6057dc99da54730857df75afcf15d65e386778b8"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis_buried.json"
+hash = "ab43d47a4283c10a2bb2f386e70134ce0bcf196e16febdd1571ac57349a07b17"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone.json"
+hash = "ee0206f5bd42738d7267fbe630d67ba53c8b9ecd73d6dfc2d6e12b9c5db8dcba"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
+hash = "354770dcbec1ba8964e8724de7da56e4195d8147c3ba4c3608272b8869307bd0"
+
+[[files]]
+file = "kubejs/data/occultism/neoforge/biome_modifier/add_ore_silver.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/occultism/neoforge/biome_modifier/add_ore_silver_deepslate.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/samurai_dynasty/neoforge/biome_modifier/add_jade_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/tfmg/neoforge/biome_modifier/lead_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/tfmg/neoforge/biome_modifier/lithium_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "kubejs/data/tfmg/neoforge/biome_modifier/nickel_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
