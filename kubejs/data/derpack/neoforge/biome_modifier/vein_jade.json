@@ -1,0 +1,1 @@
+{ "type": "neoforge:add_features", "biomes": [ "#minecraft:is_jungle", "minecraft:bamboo_jungle", "terralith:rocky_jungle", "terralith:cloud_forest" ], "features": "derpack:vein_jade", "step": "underground_ores" }

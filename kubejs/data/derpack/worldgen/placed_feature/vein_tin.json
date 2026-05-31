@@ -1,0 +1,1 @@
+{ "feature": "derpack:vein_tin", "placement": [ { "type": "minecraft:rarity_filter", "chance": 7 }, { "type": "minecraft:in_square" }, { "type": "minecraft:height_range", "height": { "type": "minecraft:trapezoid", "min_inclusive": { "absolute": 0 }, "max_inclusive": { "absolute": 96 } } }, { "type": "minecraft:biome" } ] }

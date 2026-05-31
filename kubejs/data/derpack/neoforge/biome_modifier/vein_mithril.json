@@ -1,0 +1,1 @@
+{ "type": "neoforge:add_features", "biomes": [ "terralith:amethyst_rainforest", "terralith:moonlight_grove", "terralith:mirage_isles", "terralith:lavender_forest" ], "features": "derpack:vein_mithril", "step": "underground_ores" }
