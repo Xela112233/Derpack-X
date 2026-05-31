@@ -12,6 +12,23 @@ Derpack X is a Minecraft 1.21.1 / NeoForge modpack distributed via [packwiz](htt
 
 ---
 
+## The design spine — breadth, with a Create economy running through it
+
+Derpack X is, on purpose, a **kitchen-sink survival pack**: a large, varied content set — Farmer's Delight and a dozen food addons, Yung's structures, MineColonies, the Ars / Iron's Spells / Occultism magic stack, ~16 mob mods, Macaw's decoration, Create Aeronautics vehicles, and more. Breadth is a feature, not an accident — the friend group wants a world with a lot to do.
+
+Breadth's failure mode is **incoherence**: a heap of mods that never talk to each other, each its own self-contained progression. We avoid that with a single **spine** running through everything — a **Create-driven scarcity economy**. Ores are scarce and regional (large veins in specific biomes; vanilla thinned to a trickle), and the core loop is **mine → process through Create → manufacture goods → sell for currency (Numismatics)**.
+
+The governing rule: **the spine should penetrate every branch as far as is feasible.** Wherever a mod offers progression, power, or resources, route it *through* Create and the economy rather than around them:
+
+- **Magic and adventure gear** is gated behind Create-made components, so those branches plug into the factory instead of sidestepping it.
+- **"Free resource" shortcuts** — kitchen-sink factory blocks, colonist auto-mining, cheap backpacks, auto-cooking — are gated or tuned so they don't quietly undo scarcity.
+- **Structure / dungeon loot** is pulled back from free end-game gear, and may seed currency instead.
+- **MineColonies** stays as a village/social layer, but its auto-production is gated so it *feeds* the Create loop rather than replacing it.
+
+So the lens for every content decision is one question: **does this plug into the Create spine, or bypass it?** We don't cut content to get focus — we integrate it. Bypasses are the thing to fix, not the mods themselves. The detailed, per-branch integration (recipe changes tracked in #17, loot changes in #18) happens phase by phase as we reach each cluster; this section is the *why* behind all of it.
+
+---
+
 ## 1. Why packwiz
 
 Why this isn't just a folder of jars. A naive modpack distribution model would zip the mod jars and host the zip somewhere. That model has several problems we wanted to avoid:
