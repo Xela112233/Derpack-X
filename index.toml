@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_copper.json"
+hash = "c5147d3f5c679fd97238e625fcd6b806544a66dff28b1aae5b22f3a204adf31c"
+
+[[files]]
+file = "kubejs/data/derpack/neoforge/biome_modifier/vein_iron.json"
+hash = "528d46e2c08d904c2ce79f11f46a0b3cfaec89446759e2de704a3ae5371916d2"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_copper.json"
+hash = "c9121f01f487c12865c3310369364d0f03d17219099b288ad583bcfd3f8a3406"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/configured_feature/vein_iron.json"
+hash = "3ad5324b6193ddbd4cb696155f095aeb6258517910dc8c327bbed8032d776e71"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_copper.json"
+hash = "bae59186841a71faff9474e411b41d4181337cc3497c8370ccaf428cf4d50119"
+
+[[files]]
+file = "kubejs/data/derpack/worldgen/placed_feature/vein_iron.json"
+hash = "f31e21109052bc8460c86b1daa93ae5fcaa75a3c8a095b1271ca9951ab2c319b"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
+hash = "4da4d32a5c7a3775e4cd25f34d0f971b4495279d62fab0690416a0dd56c29df2"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
+hash = "73ef45602205c837c4df6e41de97ed149d78a5264dff34167527f4e4904a40d5"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
+hash = "b1cb66ea59955261817a97d3a816f6d2924b7d163c07027d1dd988511b2a289e"
+
+[[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "cd82b7d39d0aabec0160decce26d25daa3a36a700e6215042d48b2f13bfa2555"
 

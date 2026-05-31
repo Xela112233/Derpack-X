@@ -291,24 +291,34 @@ button:disabled:hover {
   text-transform: uppercase;
 }
 
-.source-tag.mr { background: #1abc9c33; color: #4ddbb8; }
-.source-tag.cf { background: #f47b3b33; color: #ff9c5e; }
-
-/* When the source tag is a link (mod has a page URL), style it as a button:
-   inherit color, kill default underline, give a subtle hover. */
+/* Anchor variant — used when we know the project page URL.
+   text-decoration:none keeps the badge look; hover dims the arrow. */
 a.source-tag {
   text-decoration: none;
-  transition: filter 0.15s;
+  cursor: pointer;
+  transition: filter 0.1s ease;
 }
-
 a.source-tag:hover {
   filter: brightness(1.25);
 }
-
 .source-tag-arrow {
+  font-size: 9px;
   opacity: 0.6;
   margin-left: 1px;
-  font-size: 10px;
+}
+
+.source-tag.mr { background: #1abc9c33; color: #4ddbb8; }
+.source-tag.cf { background: #f47b3b33; color: #ff9c5e; }
+/* Self-hosted (no upstream source) — neutral grey to read as "off". */
+.source-tag.self { background: #888a8e33; color: #b8bcc4; }
+
+/* Generic utilities. Used by the Add Mod modal to toggle URL-only fields,
+   and to render the "(optional)" hints inside form labels. */
+.hidden { display: none; }
+.hint {
+  color: var(--text-dim);
+  font-weight: normal;
+  font-size: 12px;
 }
 
 .side-select {

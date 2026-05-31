@@ -41,7 +41,8 @@ type Download struct {
 }
 
 // Update holds source-specific update metadata. At most one of Modrinth or
-// CurseForge will be populated for a given mod.
+// CurseForge will be populated for a given mod. A mod with neither is a
+// self-hosted entry (packwiz skips it during `update --all`).
 type Update struct {
 	Modrinth   *ModrinthUpdate   `toml:"modrinth,omitempty"`
 	CurseForge *CurseForgeUpdate `toml:"curseforge,omitempty"`
@@ -57,7 +58,8 @@ type CurseForgeUpdate struct {
 	ProjectID int `toml:"project-id"`
 }
 
-// Source returns "mr", "cf", or "" depending on which update block is present.
+// Source returns "mr", "cf", or "" depending on which update block is
+// present. "" indicates a self-hosted mod with no upstream.
 func (m *Mod) Source() string {
 	if m.Update.Modrinth != nil {
 		return "mr"
@@ -70,12 +72,12 @@ func (m *Mod) Source() string {
 
 // PageURL returns the human-facing project page for the mod on its source
 // (Modrinth or CurseForge), or "" if the mod has no recognized update source
-// (e.g. URL-only manifests).
+// (e.g. self-hosted URL-only manifests).
 //
 // Modrinth: the manifest filename matches the project's canonical slug in
 // almost all cases. Modrinth keeps redirects for renamed projects, so this
-// stays valid even after a slug change. If a slug ever does 404, switching to
-// m.Update.Modrinth.ModID would be a one-line fix.
+// stays valid even after a slug change. If a slug ever does 404, switching
+// to m.Update.Modrinth.ModID would be a one-line fix.
 //
 // CurseForge: the manifest only stores the numeric project ID. CurseForge's
 // "/projects/<id>" URL redirects to the canonical slug page, so we let

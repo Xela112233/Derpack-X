@@ -16,7 +16,7 @@
       <span id="mod-count">0 mods</span>
     </div>
     <div class="topbar-actions">
-      <button id="refresh-btn" type="button" title="Reload mod list from disk">↻ Refresh</button>
+      <button id="refresh-btn" type="button" title="Reload mod list from disk">↻ Reload</button>
     </div>
   </header>
 
@@ -30,6 +30,7 @@
       <button id="add-mod-btn" type="button" class="primary">+ Add mod</button>
       <button id="wishlist-btn" type="button">📋 Wishlist (batch add)</button>
       <button id="update-all-btn" type="button">Update all (skip pinned)</button>
+      <button id="refresh-index-btn" type="button" title="Run packwiz refresh to rebuild index.toml">↻ Refresh index</button>
       <button id="build-launch-btn" type="button" class="success">▶ Build & Launch in Prism</button>
       <button id="settings-btn" type="button" title="Configure Prism instance path">⚙ Settings</button>
       <input type="search" id="search" placeholder="Filter mods..." />
@@ -63,12 +64,28 @@
         <select id="add-source">
           <option value="mr">Modrinth</option>
           <option value="cf">CurseForge</option>
+          <option value="url">Self-hosted URL</option>
         </select>
       </label>
-      <label>
-        Slug
+      <label id="add-slug-row">
+        <span id="add-slug-label">Slug</span>
         <input type="text" id="add-slug" placeholder="e.g. supplementaries" />
       </label>
+      <!-- Extra fields shown only when source = "url" (self-hosted). -->
+      <div id="add-url-fields" class="hidden">
+        <label>
+          Mod name
+          <input type="text" id="add-name" placeholder="e.g. My Custom Mod" />
+        </label>
+        <label>
+          Jar URL
+          <input type="url" id="add-url" placeholder="https://example.com/mod-1.0.jar" />
+        </label>
+        <label>
+          Filename <span class="hint">(optional, derived from URL if blank)</span>
+          <input type="text" id="add-filename" placeholder="mod-1.0.jar" />
+        </label>
+      </div>
       <label>
         Side
         <select id="add-side">

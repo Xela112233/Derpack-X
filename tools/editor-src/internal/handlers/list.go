@@ -36,8 +36,8 @@ type modResp struct {
 	Version string `json:"version"` // for Modrinth: version ID; for CF: file ID; for URL: filename
 	Side    string `json:"side"`
 	Pinned  bool   `json:"pinned"`
-	Source  string `json:"source"` // "mr", "cf", or ""
-	URL     string `json:"url"`
+	Source  string `json:"source"`   // "mr", "cf", or "" (self-hosted)
+	URL     string `json:"url"`      // download URL stored in the manifest
 	PageURL string `json:"page_url"` // Modrinth/CurseForge project page; "" if no source
 }
 

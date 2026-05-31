@@ -10,7 +10,7 @@ import (
 // The Binary field should be the absolute path to the packwiz executable
 // (typically extracted to .editor/packwiz-cache/ on first run).
 type Runner struct {
-	Binary string // absolute path to packwiz binary
+	Binary     string // absolute path to packwiz binary
 	WorkingDir string // repo root, where pack.toml lives
 }
 
@@ -37,18 +37,24 @@ func (r *Runner) Refresh() (string, error) {
 
 // AddModrinth adds a Modrinth mod by slug or project ID.
 // Side may be "both", "client", or "server" (or empty for default).
+//
+// Note: packwiz doesn't currently expose --side as a flag for `mr add`.
+// The side has to be set after the fact by editing the manifest if needed —
+// see handlers.applySide.
 func (r *Runner) AddModrinth(slug, side string) (string, error) {
-	args := []string{"mr", "add", slug, "--yes"}
-	// packwiz doesn't currently expose --side as a flag for `mr add`.
-	// The side has to be set after the fact by editing the manifest if needed.
 	_ = side
-	return r.Run(args...)
+	return r.Run("mr", "add", slug, "--yes")
 }
 
-// AddCurseForge adds a CurseForge mod by slug.
-func (r *Runner) AddCurseForge(slug string) (string, error) {
-	return r.Run("cf", "add", slug, "--yes")
-}
+// CurseForge mods are NOT added via packwiz CLI. The bare `packwiz cf add`
+// invocation has no path to pass our stored CF Core API key, and when
+// packwiz can't authenticate it falls back to writing manifests with empty
+// download URLs that crash packwiz-installer at launch time.
+//
+// CF adds go through handlers.addCurseForgeMod instead, which uses the
+// CF API directly with the user's key, detects project-level opt-outs
+// before writing anything, and enforces the "manifest only written if
+// fetch + hash succeed" contract.
 
 // Remove deletes a mod's manifest and re-indexes.
 func (r *Runner) Remove(slug string) (string, error) {
@@ -61,6 +67,8 @@ func (r *Runner) Update(slug string) (string, error) {
 }
 
 // UpdateAll bumps all mods to their latest versions, skipping pinned ones.
+// Self-hosted mods (no [update.*] block) are skipped by packwiz with a
+// "supported update system cannot be found" message.
 func (r *Runner) UpdateAll() (string, error) {
 	return r.Run("update", "--all", "--yes")
 }

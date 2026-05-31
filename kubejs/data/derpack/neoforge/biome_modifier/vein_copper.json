@@ -1,0 +1,1 @@
+{ "type": "neoforge:add_features", "biomes": "#minecraft:is_badlands", "features": "derpack:vein_copper", "step": "underground_ores" }
