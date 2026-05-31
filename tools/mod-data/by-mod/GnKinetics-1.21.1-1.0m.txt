@@ -1,0 +1,85 @@
+# GnKinetics-1.21.1-1.0m
+
+## mod metadata (id / version / deps)
+license = "All Rights Reserved"
+modId = "gnkinetics"
+version = "1.0m"
+displayName = "Gears n' Kinetics"
+modId = "neoforge"
+versionRange = "[21.1.200,)"
+modId = "minecraft"
+versionRange = "[1.21.1,1.22)"
+modId="create"
+versionRange="[6.0.8,)"
+
+## blocks
+gnkinetics:andesite_cogwheel
+gnkinetics:brass_gear
+gnkinetics:chainable_cogwheel
+gnkinetics:cog_crank
+gnkinetics:cogstone
+gnkinetics:creative_gear_motor
+gnkinetics:hollow_brass_gear
+gnkinetics:hollow_cogwheel
+gnkinetics:hollow_large_brass_gear
+gnkinetics:hollow_large_cogwheel
+gnkinetics:industrial_gear
+gnkinetics:large_brass_gear
+gnkinetics:large_cog_crank
+gnkinetics:large_industrial_gear
+gnkinetics:large_magnet_gear
+gnkinetics:magnet_gear
+gnkinetics:planetary_gear
+gnkinetics:planetary_gear_struct
+gnkinetics:ring_gear
+gnkinetics:ring_gear_struct
+gnkinetics:shaftless_andesite_cogwheel
+gnkinetics:shaftless_brass_gear
+gnkinetics:shaftless_cogstone
+gnkinetics:shaftless_cogwheel
+gnkinetics:shaftless_industrial_gear
+gnkinetics:shaftless_large_brass_gear
+gnkinetics:shaftless_large_cogwheel
+gnkinetics:shaftless_large_industrial_gear
+gnkinetics:shaftless_tiny_brass_gear
+gnkinetics:shaftless_tiny_cogwheel
+gnkinetics:tiny_brass_gear
+gnkinetics:tiny_cogwheel
+gnkinetics:worm_gear
+
+## items
+gnkinetics:andesite_cogwheel
+gnkinetics:brass_gear
+gnkinetics:chainable_cogwheel
+gnkinetics:cog_crank
+gnkinetics:cogstone
+gnkinetics:creative_gear_motor
+gnkinetics:hollow_brass_gear
+gnkinetics:hollow_cogwheel
+gnkinetics:hollow_large_brass_gear
+gnkinetics:hollow_large_cogwheel
+gnkinetics:industrial_gear
+gnkinetics:large_brass_gear
+gnkinetics:large_cog_crank
+gnkinetics:large_industrial_gear
+gnkinetics:large_magnet_gear
+gnkinetics:magnet_gear
+gnkinetics:planetary_gear
+gnkinetics:ring_gear
+gnkinetics:shaftless_andesite_cogwheel
+gnkinetics:shaftless_brass_gear
+gnkinetics:shaftless_cogstone
+gnkinetics:shaftless_cogwheel
+gnkinetics:shaftless_industrial_gear
+gnkinetics:shaftless_large_brass_gear
+gnkinetics:shaftless_large_cogwheel
+gnkinetics:shaftless_large_industrial_gear
+gnkinetics:shaftless_tiny_brass_gear
+gnkinetics:shaftless_tiny_cogwheel
+gnkinetics:tiny_brass_gear
+gnkinetics:tiny_cogwheel
+gnkinetics:worm_gear
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,34 @@
+just_blahaj:ace_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:ace_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:aroace_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:aroace_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:aromantic_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:aromantic_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:bi_pride_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:bi_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:black_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:black_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:blahaj_recipe | minecraft:crafting_shaped | just_blahaj:blahaj minecraft:crafting_shaped minecraft:light_blue_wool minecraft:light_gray_wool minecraft:pink_wool
+just_blahaj:blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:blue_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:blue_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:brown_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:brown_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:creeperhaj_recipe | minecraft:crafting_shaped | just_blahaj:creeperhaj just_blahaj:haj minecraft:crafting_shaped minecraft:tnt
+just_blahaj:cyan_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:cyan_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:enby_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:enby_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:gay_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:gay_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:gender_fluid_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:gender_fluid_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:glowhaj_recipe | minecraft:crafting_shapeless | just_blahaj:blahaj just_blahaj:glowhaj minecraft:crafting_shapeless minecraft:glow_ink_sac
+just_blahaj:glowhaj_recipe_2 | minecraft:crafting_shapeless | just_blahaj:blahaj just_blahaj:glowhaj minecraft:crafting_shapeless minecraft:glowstone_dust
+just_blahaj:gray_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:gray_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:green_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:green_blahaj just_blahaj:haj minecraft:stonecutting
+just_blahaj:intersex_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:haj just_blahaj:intersex_blahaj minecraft:stonecutting
+just_blahaj:lesbian_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:haj just_blahaj:lesbian_blahaj minecraft:stonecutting
+just_blahaj:light_gray_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:haj just_blahaj:light_gray_blahaj minecraft:stonecutting
+just_blahaj:lime_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:haj just_blahaj:lime_blahaj minecraft:stonecutting
+just_blahaj:magenta_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:haj just_blahaj:magenta_blahaj minecraft:stonecutting
+just_blahaj:orange_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:haj just_blahaj:orange_blahaj minecraft:stonecutting
+just_blahaj:palestine_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:haj just_blahaj:palestine_blahaj minecraft:stonecutting
+just_blahaj:pan_pride_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:haj just_blahaj:panhaj minecraft:stonecutting
+just_blahaj:pink_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:haj just_blahaj:pink_blahaj minecraft:stonecutting
+just_blahaj:pride_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:haj just_blahaj:pride_blahaj minecraft:stonecutting
+just_blahaj:purple_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:haj just_blahaj:purple_blahaj minecraft:stonecutting
+just_blahaj:red_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:haj just_blahaj:red_blahaj minecraft:stonecutting
+just_blahaj:trans_blahaj_recipe | minecraft:crafting_shapeless | just_blahaj:blahaj just_blahaj:trans_blahaj minecraft:crafting_shapeless minecraft:egg
+just_blahaj:trans_blahaj_stonecutter | minecraft:stonecutting | just_blahaj:haj just_blahaj:trans_blahaj minecraft:stonecutting
+just_blahaj:white_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:haj just_blahaj:white_blahaj minecraft:stonecutting
+just_blahaj:yellow_blahaj_stonecutter_recipe | minecraft:stonecutting | just_blahaj:haj just_blahaj:yellow_blahaj minecraft:stonecutting

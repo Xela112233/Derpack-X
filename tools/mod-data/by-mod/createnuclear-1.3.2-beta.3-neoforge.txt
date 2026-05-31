@@ -1,0 +1,219 @@
+# createnuclear-1.3.2-beta.3-neoforge
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="createnuclear"
+version="1.3.2-beta.3"
+displayName="Create Nuclear"
+modId="neoforge"
+versionRange="[21,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="create"
+versionRange="[6.0.8,)"
+
+## blocks
+createnuclear:autunite
+createnuclear:autunite_pillar
+createnuclear:cut_autunite
+createnuclear:cut_autunite_brick_slab
+createnuclear:cut_autunite_brick_stairs
+createnuclear:cut_autunite_brick_wall
+createnuclear:cut_autunite_bricks
+createnuclear:cut_autunite_slab
+createnuclear:cut_autunite_stairs
+createnuclear:cut_autunite_wall
+createnuclear:deepslate_lead_ore
+createnuclear:deepslate_uranium_ore
+createnuclear:enriched_soul_soil
+createnuclear:enriching_campfire
+createnuclear:enriching_fire
+createnuclear:layered_autunite
+createnuclear:lead_block
+createnuclear:lead_ore
+createnuclear:polished_cut_autunite
+createnuclear:polished_cut_autunite_slab
+createnuclear:polished_cut_autunite_stairs
+createnuclear:polished_cut_autunite_wall
+createnuclear:raw_lead_block
+createnuclear:raw_uranium_block
+createnuclear:reactor_casing
+createnuclear:reactor_controller
+createnuclear:reactor_cooler
+createnuclear:reactor_core
+createnuclear:reactor_frame
+createnuclear:reactor_input
+createnuclear:reactor_output
+createnuclear:reinforced_glass
+createnuclear:small_autunite_brick_slab
+createnuclear:small_autunite_brick_stairs
+createnuclear:small_autunite_brick_wall
+createnuclear:small_autunite_bricks
+createnuclear:steel_block
+createnuclear:uranium
+createnuclear:uranium_ore
+
+## items
+createnuclear:anti_radiation_boots
+createnuclear:autunite
+createnuclear:autunite_pillar
+createnuclear:black_anti_radiation_chestplate
+createnuclear:black_anti_radiation_helmet
+createnuclear:black_anti_radiation_leggings
+createnuclear:black_cloth
+createnuclear:blue_anti_radiation_chestplate
+createnuclear:blue_anti_radiation_helmet
+createnuclear:blue_anti_radiation_leggings
+createnuclear:blue_cloth
+createnuclear:brown_anti_radiation_chestplate
+createnuclear:brown_anti_radiation_helmet
+createnuclear:brown_anti_radiation_leggings
+createnuclear:brown_cloth
+createnuclear:cat_irradiated_spawn_egg
+createnuclear:chicken_irradiated_spawn_egg
+createnuclear:coal_dust
+createnuclear:cut_autunite
+createnuclear:cut_autunite_brick_slab
+createnuclear:cut_autunite_brick_stairs
+createnuclear:cut_autunite_brick_wall
+createnuclear:cut_autunite_bricks
+createnuclear:cut_autunite_slab
+createnuclear:cut_autunite_stairs
+createnuclear:cut_autunite_wall
+createnuclear:cyan_anti_radiation_chestplate
+createnuclear:cyan_anti_radiation_helmet
+createnuclear:cyan_anti_radiation_leggings
+createnuclear:cyan_cloth
+createnuclear:deepslate_lead_ore
+createnuclear:deepslate_uranium_ore
+createnuclear:enriched_soul_soil
+createnuclear:enriched_yellowcake
+createnuclear:enriching_campfire
+createnuclear:graphene
+createnuclear:graphite_rod
+createnuclear:gray_anti_radiation_chestplate
+createnuclear:gray_anti_radiation_helmet
+createnuclear:gray_anti_radiation_leggings
+createnuclear:gray_cloth
+createnuclear:green_anti_radiation_chestplate
+createnuclear:green_anti_radiation_helmet
+createnuclear:green_anti_radiation_leggings
+createnuclear:green_cloth
+createnuclear:layered_autunite
+createnuclear:lead_block
+createnuclear:lead_ingot
+createnuclear:lead_nugget
+createnuclear:lead_ore
+createnuclear:light_blue_anti_radiation_chestplate
+createnuclear:light_blue_anti_radiation_helmet
+createnuclear:light_blue_anti_radiation_leggings
+createnuclear:light_blue_cloth
+createnuclear:light_gray_anti_radiation_chestplate
+createnuclear:light_gray_anti_radiation_helmet
+createnuclear:light_gray_anti_radiation_leggings
+createnuclear:light_gray_cloth
+createnuclear:lime_anti_radiation_chestplate
+createnuclear:lime_anti_radiation_helmet
+createnuclear:lime_anti_radiation_leggings
+createnuclear:lime_cloth
+createnuclear:magenta_anti_radiation_chestplate
+createnuclear:magenta_anti_radiation_helmet
+createnuclear:magenta_anti_radiation_leggings
+createnuclear:magenta_cloth
+createnuclear:orange_anti_radiation_chestplate
+createnuclear:orange_anti_radiation_helmet
+createnuclear:orange_anti_radiation_leggings
+createnuclear:orange_cloth
+createnuclear:pink_anti_radiation_chestplate
+createnuclear:pink_anti_radiation_helmet
+createnuclear:pink_anti_radiation_leggings
+createnuclear:pink_cloth
+createnuclear:polished_cut_autunite
+createnuclear:polished_cut_autunite_slab
+createnuclear:polished_cut_autunite_stairs
+createnuclear:polished_cut_autunite_wall
+createnuclear:purple_anti_radiation_chestplate
+createnuclear:purple_anti_radiation_helmet
+createnuclear:purple_anti_radiation_leggings
+createnuclear:purple_cloth
+createnuclear:raw_lead
+createnuclear:raw_lead_block
+createnuclear:raw_uranium
+createnuclear:raw_uranium_block
+createnuclear:reactor_blueprint_item
+createnuclear:reactor_casing
+createnuclear:reactor_controller
+createnuclear:reactor_cooler
+createnuclear:reactor_core
+createnuclear:reactor_frame
+createnuclear:reactor_input
+createnuclear:reactor_output
+createnuclear:red_anti_radiation_chestplate
+createnuclear:red_anti_radiation_helmet
+createnuclear:red_anti_radiation_leggings
+createnuclear:red_cloth
+createnuclear:reinforced_glass
+createnuclear:small_autunite_brick_slab
+createnuclear:small_autunite_brick_stairs
+createnuclear:small_autunite_brick_wall
+createnuclear:small_autunite_bricks
+createnuclear:steel_block
+createnuclear:steel_ingot
+createnuclear:steel_nugget
+createnuclear:uranium_bucket
+createnuclear:uranium_ore
+createnuclear:uranium_powder
+createnuclear:uranium_rod
+createnuclear:white_anti_radiation_chestplate
+createnuclear:white_anti_radiation_helmet
+createnuclear:white_anti_radiation_leggings
+createnuclear:white_cloth
+createnuclear:wolf_irradiated_spawn_egg
+createnuclear:yellow_anti_radiation_chestplate
+createnuclear:yellow_anti_radiation_helmet
+createnuclear:yellow_anti_radiation_leggings
+createnuclear:yellow_cloth
+createnuclear:yellowcake
+
+## neoforge biome_modifiers
+lead_ore.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "createnuclear:lead_ore", "step": "underground_ores"}
+striated_ores_overworld.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "createnuclear:striated_ores_overworld", "step": "underground_ores"}
+uranium_ore.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "createnuclear:uranium_ore", "step": "underground_ores"}
+
+## c: common tag membership
+block/glass_blocks.json :: { "values": [ "createnuclear:reinforced_glass" ]}
+block/ores/lead.json :: { "values": [ "createnuclear:deepslate_lead_ore", "createnuclear:lead_ore" ]}
+block/ores/uranium.json :: { "values": [ "createnuclear:deepslate_uranium_ore", "createnuclear:uranium_ore" ]}
+block/ores.json :: { "values": [ "createnuclear:deepslate_lead_ore", "createnuclear:lead_ore", "createnuclear:deepslate_uranium_ore", "createnuclear:uranium_ore" ]}
+block/ores_in_ground/deepslate.json :: { "values": [ "createnuclear:deepslate_lead_ore", "createnuclear:deepslate_uranium_ore" ]}
+block/ores_in_ground/stone.json :: { "values": [ "createnuclear:lead_ore", "createnuclear:uranium_ore" ]}
+block/storage_blocks/lead.json :: { "values": [ "createnuclear:lead_block" ]}
+block/storage_blocks/raw_lead.json :: { "values": [ "createnuclear:raw_lead_block" ]}
+block/storage_blocks/raw_uranium.json :: { "values": [ "createnuclear:raw_uranium_block" ]}
+block/storage_blocks/steel.json :: { "values": [ "createnuclear:steel_block" ]}
+fluid/uranium.json :: { "values": [ "#createnuclear:uranium" ]}
+item/armors/boots.json :: { "values": [ "createnuclear:anti_radiation_boots" ]}
+item/armors/chestplates.json :: { "values": [ "createnuclear:white_anti_radiation_chestplate", "createnuclear:orange_anti_radiation_chestplate", "createnuclear:magenta_anti_radiation_chestplate", "createnuclear:light_blue_anti_radiation_chestplate", "createnuclear:yellow_anti_radiation_chestplate", "createnuclear:lime_anti_radiation_chestplate", "createnuclear:pink_anti_radiation_chestplate", "createnuclear:gray_anti_radiation_chestplate", "createnuclear:light_gray_anti_radiation_chestplate", "createnuclear:cyan_anti_radiation_chestplate", "createnuclear:purple_anti_radiation_chestplate", "createnuclear:blue_anti_radiation_chestplate", "createnuclear:brown_anti_radiation_chestplate", "createnuclear:green_anti_radiation_chestplate", "createnuclear:red_anti_radiation_chestplate", "createnuclear:black_anti_radiation_chestplate" ]}
+item/armors/helmets.json :: { "values": [ "createnuclear:white_anti_radiation_helmet", "createnuclear:orange_anti_radiation_helmet", "createnuclear:magenta_anti_radiation_helmet", "createnuclear:light_blue_anti_radiation_helmet", "createnuclear:yellow_anti_radiation_helmet", "createnuclear:lime_anti_radiation_helmet", "createnuclear:pink_anti_radiation_helmet", "createnuclear:gray_anti_radiation_helmet", "createnuclear:light_gray_anti_radiation_helmet", "createnuclear:cyan_anti_radiation_helmet", "createnuclear:purple_anti_radiation_helmet", "createnuclear:blue_anti_radiation_helmet", "createnuclear:brown_anti_radiation_helmet", "createnuclear:green_anti_radiation_helmet", "createnuclear:red_anti_radiation_helmet", "createnuclear:black_anti_radiation_helmet" ]}
+item/armors/leggings.json :: { "values": [ "createnuclear:white_anti_radiation_leggings", "createnuclear:orange_anti_radiation_leggings", "createnuclear:magenta_anti_radiation_leggings", "createnuclear:light_blue_anti_radiation_leggings", "createnuclear:yellow_anti_radiation_leggings", "createnuclear:lime_anti_radiation_leggings", "createnuclear:pink_anti_radiation_leggings", "createnuclear:gray_anti_radiation_leggings", "createnuclear:light_gray_anti_radiation_leggings", "createnuclear:cyan_anti_radiation_leggings", "createnuclear:purple_anti_radiation_leggings", "createnuclear:blue_anti_radiation_leggings", "createnuclear:brown_anti_radiation_leggings", "createnuclear:green_anti_radiation_leggings", "createnuclear:red_anti_radiation_leggings", "createnuclear:black_anti_radiation_leggings" ]}
+item/dusts/coal.json :: { "values": [ "createnuclear:coal_dust" ]}
+item/dusts/uranium.json :: { "values": [ "createnuclear:uranium_powder" ]}
+item/dusts.json :: { "values": [ "createnuclear:uranium_powder", "createnuclear:coal_dust" ]}
+item/glass_blocks.json :: { "values": [ "createnuclear:reinforced_glass" ]}
+item/ingots/lead.json :: { "values": [ "createnuclear:lead_ingot" ]}
+item/ingots/steel.json :: { "values": [ "createnuclear:steel_ingot" ]}
+item/ingots.json :: { "values": [ "createnuclear:steel_ingot", "createnuclear:lead_ingot" ]}
+item/nuggets/lead.json :: { "values": [ "createnuclear:lead_nugget" ]}
+item/nuggets/steel.json :: { "values": [ "createnuclear:steel_nugget" ]}
+item/nuggets.json :: { "values": [ "createnuclear:steel_nugget", "createnuclear:lead_nugget" ]}
+item/ores/lead.json :: { "values": [ "createnuclear:deepslate_lead_ore", "createnuclear:lead_ore" ]}
+item/ores/uranium.json :: { "values": [ "createnuclear:deepslate_uranium_ore", "createnuclear:uranium_ore" ]}
+item/raw_materials/lead.json :: { "values": [ "createnuclear:raw_lead" ]}
+item/raw_materials/uranium.json :: { "values": [ "createnuclear:raw_uranium" ]}
+item/raw_materials.json :: { "values": [ "createnuclear:raw_lead", "createnuclear:raw_uranium" ]}
+item/raw_ores.json :: { "values": [ "createnuclear:raw_lead", "createnuclear:raw_uranium" ]}
+item/rods.json :: { "values": [ "createnuclear:graphite_rod", "createnuclear:uranium_rod" ]}
+item/storage_blocks/lead.json :: { "values": [ "createnuclear:lead_block" ]}
+item/storage_blocks/raw_lead.json :: { "values": [ "createnuclear:raw_lead_block" ]}
+item/storage_blocks/raw_uranium.json :: { "values": [ "createnuclear:raw_uranium_block" ]}
+item/storage_blocks/steel.json :: { "values": [ "createnuclear:steel_block" ]}

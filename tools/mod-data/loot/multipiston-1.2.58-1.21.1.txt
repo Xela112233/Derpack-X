@@ -1,0 +1,1 @@
+multipiston:blocks/multipistonblock | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion multipiston:blocks/multipistonblock multipiston:multipistonblock

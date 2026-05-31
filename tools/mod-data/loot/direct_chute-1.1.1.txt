@@ -1,0 +1,1 @@
+direct_chute:blocks/direct_chute | minecraft:block | direct_chute:blocks/direct_chute direct_chute:direct_chute minecraft:block minecraft:item minecraft:survives_explosion

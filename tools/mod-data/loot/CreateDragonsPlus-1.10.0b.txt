@@ -1,0 +1,3 @@
+create_dragons_plus:blocks/fluid_hatch | minecraft:block | create_dragons_plus:blocks/fluid_hatch create_dragons_plus:fluid_hatch minecraft:block minecraft:item minecraft:survives_explosion
+create_dragons_plus:blocks/fragile_fluid_tank | minecraft:block | create_dragons_plus:blocks/fragile_fluid_tank create_dragons_plus:fragile_fluid_tank minecraft:block minecraft:item minecraft:survives_explosion
+create_dragons_plus:blocks/levitite_fragile_fluid_tank | minecraft:block | create_dragons_plus:blocks/levitite_fragile_fluid_tank create_dragons_plus:levitite_fragile_fluid_tank minecraft:block minecraft:item minecraft:survives_explosion

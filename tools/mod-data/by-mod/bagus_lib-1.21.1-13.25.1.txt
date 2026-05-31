@@ -1,0 +1,19 @@
+# bagus_lib-1.21.1-13.25.1
+
+## mod metadata (id / version / deps)
+license = "GNU Lesser General Public License v3.0"
+modId = "bagus_lib" #mandatory
+version = "1.21.1-13.25.1" #mandatory
+displayName = "Bagus Lib" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.1.60,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

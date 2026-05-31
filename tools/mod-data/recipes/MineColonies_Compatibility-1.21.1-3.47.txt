@@ -1,0 +1,35 @@
+minecolonies_compatibility:compat/botanypots/crop/bell_pepper | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:bell_pepper neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/butternut_squash | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:butternut_squash neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/cabbage | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:cabbage neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/chickpea | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:chickpea neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/corn | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:corn neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/durum | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:durum neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/eggplant | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:eggplant neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/garlic | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:garlic neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/mint | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:mint neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/nether_pepper | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:nether_pepper neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/onion | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:onion neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/peas | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:peas neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/rice | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:rice neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/soybean | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:soybean neoforge:mod_loaded
+minecolonies_compatibility:compat/botanypots/crop/tomato | botanypots:block_derived_crop | botanypots:block_derived_crop minecolonies:tomato neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/bell_pepper | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:bell_pepper minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/butternut_squash | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:butternut_squash minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/cabbage | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:cabbage minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/chickpea | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:chickpea minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/corn | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:corn minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/durum | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:durum minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/eggplant | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:eggplant minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/garlic | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:garlic minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/mint | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:mint minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/nether_pepper | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:nether_pepper minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/onion | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:onion minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/peas | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:peas minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/rice | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:rice minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/soybean | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:soybean minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/cloche/tomato | immersiveengineering:cloche | immersiveengineering:cloche immersiveengineering:crop minecolonies:tomato minecraft:dirt neoforge:mod_loaded
+minecolonies_compatibility:compat/immersiveengineering/fertilizer/compost | immersiveengineering:fertilizer | immersiveengineering:fertilizer minecolonies:compost neoforge:mod_loaded
+minecolonies_compatibility:crafting/citizen_grid | minecraft:crafting_shapeless | minecolonies:blockhutwarehouse minecolonies_compatibility:citizen_grid minecraft:crafting_shapeless neoforge:item_exists refinedstorage:advanced_processor refinedstorage:grids
+minecolonies_compatibility:crafting/citizen_stock_keeper | minecraft:crafting_shaped | c:ingots/gold create:stock_link minecolonies:blockhutwarehouse minecolonies_compatibility:citizen_stock_keeper minecraft:crafting_shaped neoforge:item_exists
+minecolonies_compatibility:crafting/citizen_terminal | minecraft:crafting_shapeless | ae2:engineering_processor ae2:terminal minecolonies:blockhutwarehouse minecolonies_compatibility:citizen_terminal minecraft:crafting_shapeless neoforge:item_exists
+minecolonies_compatibility:crafting/common_network_storage | minecraft:crafting_shapeless | c:chests c:gems/diamond minecolonies:blockhutwarehouse minecolonies_compatibility:common_network_storage minecraft:crafting_shapeless

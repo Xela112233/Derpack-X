@@ -1,0 +1,1 @@
+rechiseledcreate:mechanical_chisel | minecraft:crafting_shapeless | create:andesite_casing minecraft:crafting_shapeless rechiseled:chisel rechiseledcreate:mechanical_chisel

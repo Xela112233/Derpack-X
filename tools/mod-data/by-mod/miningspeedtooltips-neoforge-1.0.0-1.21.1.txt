@@ -1,0 +1,19 @@
+# miningspeedtooltips-neoforge-1.0.0-1.21.1
+
+## mod metadata (id / version / deps)
+license="Tonis MMC License"
+modId="miningspeedtooltips"
+version="1.0.0"
+displayName="Mining Speed Tooltips"
+modId="minecraft"
+versionRange="[1.21.1,)"
+modId="txnilib"
+versionRange="*"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,8 @@
+knightlib:empty_grail | minecraft:crafting_shaped | knightlib:empty_grail minecraft:copper_ingot minecraft:crafting_shaped
+knightlib:great_chalice | minecraft:crafting_shaped | knightlib:great_chalice minecraft:copper_ingot minecraft:crafting_shaped
+knightlib:great_essence_to_small_essence | minecraft:crafting_shapeless | knightlib:great_essence knightlib:small_essence minecraft:crafting_shapeless
+knightlib:heart_of_the_sea_to_great_essence | minecraft:crafting_shapeless | knightlib:great_essence minecraft:crafting_shapeless minecraft:heart_of_the_sea
+knightlib:homunculus | minecraft:crafting_shapeless | knightlib:filled_grail knightlib:homunculus minecraft:bone minecraft:crafting_shapeless minecraft:leather minecraft:rotten_flesh minecraft:soul_sand
+knightlib:nether_star_to_great_essence | minecraft:crafting_shapeless | knightlib:great_essence minecraft:crafting_shapeless minecraft:nether_star
+knightlib:small_essence_to_great_essence | minecraft:crafting_shaped | knightlib:great_essence knightlib:small_essence minecraft:crafting_shaped
+knightlib:totem_of_undying_to_great_essence | minecraft:crafting_shapeless | knightlib:great_essence minecraft:crafting_shapeless minecraft:totem_of_undying

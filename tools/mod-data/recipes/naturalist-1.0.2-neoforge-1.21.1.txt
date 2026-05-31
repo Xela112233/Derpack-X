@@ -1,0 +1,65 @@
+minecraft:cake | minecraft:crafting_shaped | minecraft:cake minecraft:crafting_shaped minecraft:egg minecraft:milk_bucket minecraft:sugar minecraft:wheat naturalist:cake
+minecraft:leather | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:leather minecraft:rabbit_hide naturalist:leather
+minecraft:pumpkin_pie | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:egg minecraft:pumpkin minecraft:pumpkin_pie minecraft:sugar naturalist:pumpkin_pie
+minecraft:spectral_arrow | minecraft:crafting_shaped | minecraft:arrow minecraft:crafting_shaped minecraft:glowstone_dust minecraft:spectral_arrow naturalist:spectral_arrow
+naturalist:azure_froglass_pane | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:azure_froglass naturalist:azure_froglass_pane
+naturalist:cake | minecraft:crafting_shaped | minecraft:cake minecraft:crafting_shaped minecraft:milk_bucket minecraft:sugar minecraft:wheat naturalist:cake naturalist:duck_egg
+naturalist:capture_net | minecraft:crafting_shaped | minecraft:bamboo minecraft:crafting_shaped minecraft:string naturalist:capture_net
+naturalist:catch_bee | naturalist:net | minecraft:bee minecraft:dirt naturalist:net
+naturalist:cooked_bass | minecraft:smelting | minecraft:smelting naturalist:bass naturalist:cooked_bass
+naturalist:cooked_bass_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking naturalist:bass naturalist:cooked_bass
+naturalist:cooked_bass_from_smoking | minecraft:smoking | minecraft:smoking naturalist:bass naturalist:cooked_bass
+naturalist:cooked_bushmeat | minecraft:smelting | minecraft:smelting naturalist:bushmeat naturalist:cooked_bushmeat
+naturalist:cooked_bushmeat_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking naturalist:bushmeat naturalist:cooked_bushmeat
+naturalist:cooked_bushmeat_from_smoking | minecraft:smoking | minecraft:smoking naturalist:bushmeat naturalist:cooked_bushmeat
+naturalist:cooked_catfish | minecraft:smelting | minecraft:smelting naturalist:catfish naturalist:cooked_catfish
+naturalist:cooked_catfish_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking naturalist:catfish naturalist:cooked_catfish
+naturalist:cooked_catfish_from_smoking | minecraft:smoking | minecraft:smoking naturalist:catfish naturalist:cooked_catfish
+naturalist:cooked_duck | minecraft:smelting | minecraft:smelting naturalist:cooked_duck naturalist:duck
+naturalist:cooked_duck_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking naturalist:cooked_duck naturalist:duck
+naturalist:cooked_duck_from_smoking | minecraft:smoking | minecraft:smoking naturalist:cooked_duck naturalist:duck
+naturalist:cooked_egg | minecraft:smelting | c:eggs minecraft:smelting naturalist:cooked_egg
+naturalist:cooked_egg_from_campfire_cooking | minecraft:campfire_cooking | c:eggs minecraft:campfire_cooking naturalist:cooked_egg
+naturalist:cooked_egg_from_smoking | minecraft:smoking | c:eggs minecraft:smoking naturalist:cooked_egg
+naturalist:cooked_lizard_tail | minecraft:smelting | minecraft:smelting naturalist:cooked_lizard_tail naturalist:lizard_tail
+naturalist:cooked_lizard_tail_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking naturalist:cooked_lizard_tail naturalist:lizard_tail
+naturalist:cooked_lizard_tail_from_smoking | minecraft:smoking | minecraft:smoking naturalist:cooked_lizard_tail naturalist:lizard_tail
+naturalist:cooked_venison | minecraft:smelting | minecraft:smelting naturalist:cooked_venison naturalist:venison
+naturalist:cooked_venison_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking naturalist:cooked_venison naturalist:venison
+naturalist:cooked_venison_from_smoking | minecraft:smoking | minecraft:smoking naturalist:cooked_venison naturalist:venison
+naturalist:crimson_froglass_pane | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:crimson_froglass naturalist:crimson_froglass_pane
+naturalist:cut_shellstone | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:cut_shellstone naturalist:shellstone_slab
+naturalist:cut_shellstone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:cut_shellstone naturalist:cut_shellstone_slab
+naturalist:cut_shellstone_slab_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:cut_shellstone naturalist:cut_shellstone_slab
+naturalist:cut_shellstone_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:cut_shellstone naturalist:cut_shellstone_stairs
+naturalist:cut_shellstone_stairs_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:cut_shellstone naturalist:cut_shellstone_stairs
+naturalist:cut_shellstone_wall | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:cut_shellstone naturalist:cut_shellstone_wall
+naturalist:cut_shellstone_wall_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:cut_shellstone naturalist:cut_shellstone_wall
+naturalist:glow_goop | minecraft:smelting | minecraft:glow_berries minecraft:smelting naturalist:glow_goop
+naturalist:glow_goop_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking minecraft:glow_berries naturalist:glow_goop
+naturalist:glow_goop_from_smoking | minecraft:smoking | minecraft:glow_berries minecraft:smoking naturalist:glow_goop
+naturalist:plush_bear | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:string minecraft:wool naturalist:plush_bear
+naturalist:pumpkin_pie | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:pumpkin minecraft:pumpkin_pie minecraft:sugar naturalist:duck_egg naturalist:pumpkin_pie
+naturalist:shellstone | minecraft:crafting_shaped | minecraft:calcite minecraft:crafting_shaped naturalist:shellstone naturalist:snail_shell
+naturalist:shellstone_brick_slab | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:shellstone_brick_slab naturalist:shellstone_bricks
+naturalist:shellstone_brick_slab_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:shellstone_brick_slab naturalist:shellstone_bricks
+naturalist:shellstone_brick_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:shellstone_brick_stairs naturalist:shellstone_bricks
+naturalist:shellstone_brick_stairs_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:shellstone_brick_stairs naturalist:shellstone_bricks
+naturalist:shellstone_brick_wall | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:shellstone_brick_wall naturalist:shellstone_bricks
+naturalist:shellstone_brick_wall_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:shellstone_brick_wall naturalist:shellstone_bricks
+naturalist:shellstone_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:shellstone naturalist:shellstone_bricks
+naturalist:shellstone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:shellstone naturalist:shellstone_slab
+naturalist:shellstone_slab_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:shellstone naturalist:shellstone_slab
+naturalist:shellstone_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:shellstone naturalist:shellstone_stairs
+naturalist:shellstone_stairs_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:shellstone naturalist:shellstone_stairs
+naturalist:shellstone_wall | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:shellstone naturalist:shellstone_wall
+naturalist:shellstone_wall_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:shellstone naturalist:shellstone_wall
+naturalist:smooth_shellstone | minecraft:smelting | minecraft:smelting naturalist:shellstone naturalist:smooth_shellstone
+naturalist:smooth_shellstone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:smooth_shellstone naturalist:smooth_shellstone_slab
+naturalist:smooth_shellstone_slab_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:smooth_shellstone naturalist:smooth_shellstone_slab
+naturalist:smooth_shellstone_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:smooth_shellstone naturalist:smooth_shellstone_stairs
+naturalist:smooth_shellstone_stairs_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:smooth_shellstone naturalist:smooth_shellstone_stairs
+naturalist:smooth_shellstone_wall | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:smooth_shellstone naturalist:smooth_shellstone_wall
+naturalist:smooth_shellstone_wall_from_stonecutting | minecraft:stonecutting | minecraft:stonecutting naturalist:smooth_shellstone naturalist:smooth_shellstone_wall
+naturalist:spectral_arrow_from_glow_goop | minecraft:crafting_shaped | minecraft:arrow minecraft:crafting_shaped minecraft:spectral_arrow naturalist:glow_goop naturalist:spectral_arrow
+naturalist:verdant_froglass_pane | minecraft:crafting_shaped | minecraft:crafting_shaped naturalist:verdant_froglass naturalist:verdant_froglass_pane

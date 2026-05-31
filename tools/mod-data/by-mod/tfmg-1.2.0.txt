@@ -1,0 +1,1171 @@
+# tfmg-1.2.0
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "tfmg" #mandatory
+version = "1.2.0" #mandatory
+displayName = "Create: The Factory Must Grow" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1,1.22)"
+modId = "create"
+versionRange = "[6.0.6,)"
+
+## blocks
+tfmg:accumulator
+tfmg:air_intake
+tfmg:aluminum_bars
+tfmg:aluminum_block
+tfmg:aluminum_cable_hub
+tfmg:aluminum_cogwheel
+tfmg:aluminum_door
+tfmg:aluminum_fluid_tank
+tfmg:aluminum_fluid_valve
+tfmg:aluminum_flywheel
+tfmg:aluminum_frame
+tfmg:aluminum_ladder
+tfmg:aluminum_lamp
+tfmg:aluminum_mechanical_pump
+tfmg:aluminum_pipe
+tfmg:aluminum_scaffolding
+tfmg:aluminum_smart_fluid_pipe
+tfmg:aluminum_truss
+tfmg:asphalt
+tfmg:asphalt_slab
+tfmg:asphalt_stairs
+tfmg:asphalt_wall
+tfmg:bauxite
+tfmg:bauxite_pillar
+tfmg:black_concrete
+tfmg:black_concrete_slab
+tfmg:black_concrete_stairs
+tfmg:black_concrete_wall
+tfmg:black_rebar_concrete
+tfmg:black_rebar_concrete_slab
+tfmg:black_rebar_concrete_stairs
+tfmg:black_rebar_concrete_wall
+tfmg:blast_furnace_hatch
+tfmg:blast_furnace_output
+tfmg:blast_furnace_reinforcement
+tfmg:blast_furnace_reinforcement_wall
+tfmg:blast_stove
+tfmg:blue_caution_block
+tfmg:blue_concrete
+tfmg:blue_concrete_slab
+tfmg:blue_concrete_stairs
+tfmg:blue_concrete_wall
+tfmg:blue_fire
+tfmg:blue_rebar_concrete
+tfmg:blue_rebar_concrete_slab
+tfmg:blue_rebar_concrete_stairs
+tfmg:blue_rebar_concrete_wall
+tfmg:brass_cable_hub
+tfmg:brass_fluid_valve
+tfmg:brass_frame
+tfmg:brass_mechanical_pump
+tfmg:brass_pipe
+tfmg:brass_smart_fluid_pipe
+tfmg:brass_truss
+tfmg:brick_smokestack
+tfmg:brown_caution_block
+tfmg:brown_concrete
+tfmg:brown_concrete_slab
+tfmg:brown_concrete_stairs
+tfmg:brown_concrete_wall
+tfmg:brown_rebar_concrete
+tfmg:brown_rebar_concrete_slab
+tfmg:brown_rebar_concrete_stairs
+tfmg:brown_rebar_concrete_wall
+tfmg:cable_connector
+tfmg:cable_tube
+tfmg:cast_iron_bars
+tfmg:cast_iron_block
+tfmg:cast_iron_chemical_vat
+tfmg:cast_iron_fluid_tank
+tfmg:cast_iron_fluid_valve
+tfmg:cast_iron_flywheel
+tfmg:cast_iron_frame
+tfmg:cast_iron_ladder
+tfmg:cast_iron_mechanical_pump
+tfmg:cast_iron_pipe
+tfmg:cast_iron_smart_fluid_pipe
+tfmg:cast_iron_truss
+tfmg:casting_basin
+tfmg:cement
+tfmg:cinder_block
+tfmg:cinderflour_block
+tfmg:circular_light
+tfmg:coal_coke_block
+tfmg:coke_oven
+tfmg:concrete
+tfmg:concrete_encased_cable_tube
+tfmg:concrete_encased_electric_post
+tfmg:concrete_encased_industrial_pipe
+tfmg:concrete_hose
+tfmg:concrete_slab
+tfmg:concrete_smokestack
+tfmg:concrete_stairs
+tfmg:concrete_wall
+tfmg:constantan_block
+tfmg:constantan_frame
+tfmg:constantan_ladder
+tfmg:constantan_truss
+tfmg:converter
+tfmg:cooling_fluid
+tfmg:copper_cable_hub
+tfmg:copper_frame
+tfmg:copper_truss
+tfmg:copycat_cable_base
+tfmg:copycat_cable_block
+tfmg:creative_generator
+tfmg:creosote
+tfmg:crude_oil
+tfmg:cut_bauxite
+tfmg:cut_bauxite_brick_slab
+tfmg:cut_bauxite_brick_stairs
+tfmg:cut_bauxite_brick_wall
+tfmg:cut_bauxite_bricks
+tfmg:cut_bauxite_slab
+tfmg:cut_bauxite_stairs
+tfmg:cut_bauxite_wall
+tfmg:cut_galena
+tfmg:cut_galena_brick_slab
+tfmg:cut_galena_brick_stairs
+tfmg:cut_galena_brick_wall
+tfmg:cut_galena_bricks
+tfmg:cut_galena_slab
+tfmg:cut_galena_stairs
+tfmg:cut_galena_wall
+tfmg:cyan_caution_block
+tfmg:cyan_concrete
+tfmg:cyan_concrete_slab
+tfmg:cyan_concrete_stairs
+tfmg:cyan_concrete_wall
+tfmg:cyan_rebar_concrete
+tfmg:cyan_rebar_concrete_slab
+tfmg:cyan_rebar_concrete_stairs
+tfmg:cyan_rebar_concrete_wall
+tfmg:deepslate_lead_ore
+tfmg:deepslate_lithium_ore
+tfmg:deepslate_nickel_ore
+tfmg:diagonal_cable_block
+tfmg:diesel
+tfmg:electric_diode
+tfmg:electric_motor
+tfmg:electric_post
+tfmg:electric_pump
+tfmg:electrical_switch
+tfmg:electrode_holder
+tfmg:encased_aluminum_pipe
+tfmg:encased_brass_pipe
+tfmg:encased_cast_iron_pipe
+tfmg:encased_diode
+tfmg:encased_plastic_pipe
+tfmg:encased_potentiometer
+tfmg:encased_steel_pipe
+tfmg:engine_controller
+tfmg:engine_gearbox
+tfmg:exhaust
+tfmg:factory_floor
+tfmg:firebox
+tfmg:fireclay
+tfmg:fireproof_brick_reinforcement
+tfmg:fireproof_bricks
+tfmg:fireproof_chemical_vat
+tfmg:flarestack
+tfmg:fossilstone
+tfmg:galena
+tfmg:galena_pillar
+tfmg:gas_lamp
+tfmg:gasoline
+tfmg:generator
+tfmg:glass_aluminum_pipe
+tfmg:glass_brass_pipe
+tfmg:glass_cable_insulator
+tfmg:glass_cast_iron_pipe
+tfmg:glass_plastic_pipe
+tfmg:glass_steel_pipe
+tfmg:gray_caution_block
+tfmg:gray_concrete
+tfmg:gray_concrete_slab
+tfmg:gray_concrete_stairs
+tfmg:gray_concrete_wall
+tfmg:gray_rebar_concrete
+tfmg:gray_rebar_concrete_slab
+tfmg:gray_rebar_concrete_stairs
+tfmg:gray_rebar_concrete_wall
+tfmg:green_caution_block
+tfmg:green_concrete
+tfmg:green_concrete_slab
+tfmg:green_concrete_stairs
+tfmg:green_concrete_wall
+tfmg:green_fire
+tfmg:green_rebar_concrete
+tfmg:green_rebar_concrete_slab
+tfmg:green_rebar_concrete_stairs
+tfmg:green_rebar_concrete_wall
+tfmg:hardened_planks
+tfmg:heavy_cable_hub
+tfmg:heavy_casing_door
+tfmg:heavy_casing_encased_aluminum_cogwheel
+tfmg:heavy_casing_encased_large_aluminum_cogwheel
+tfmg:heavy_casing_encased_large_steel_cogwheel
+tfmg:heavy_casing_encased_shaft
+tfmg:heavy_casing_encased_steel_cogwheel
+tfmg:heavy_machinery_casing
+tfmg:heavy_oil
+tfmg:heavy_plated_door
+tfmg:industrial_aluminum_casing
+tfmg:industrial_mixer
+tfmg:industrial_pipe
+tfmg:kerosene
+tfmg:laminated_magnetic_alloy_block
+tfmg:large_aluminum_cogwheel
+tfmg:large_coil
+tfmg:large_engine
+tfmg:large_pumpjack_hammer_connector
+tfmg:large_pumpjack_hammer_head
+tfmg:large_pumpjack_hammer_part
+tfmg:large_steel_cogwheel
+tfmg:large_switch
+tfmg:large_transformer
+tfmg:layered_bauxite
+tfmg:layered_galena
+tfmg:lead_bars
+tfmg:lead_block
+tfmg:lead_flywheel
+tfmg:lead_frame
+tfmg:lead_ladder
+tfmg:lead_ore
+tfmg:lead_truss
+tfmg:light_blue_caution_block
+tfmg:light_blue_concrete
+tfmg:light_blue_concrete_slab
+tfmg:light_blue_concrete_stairs
+tfmg:light_blue_concrete_wall
+tfmg:light_blue_rebar_concrete
+tfmg:light_blue_rebar_concrete_slab
+tfmg:light_blue_rebar_concrete_stairs
+tfmg:light_blue_rebar_concrete_wall
+tfmg:light_bulb
+tfmg:light_gray_caution_block
+tfmg:light_gray_concrete
+tfmg:light_gray_concrete_slab
+tfmg:light_gray_concrete_stairs
+tfmg:light_gray_concrete_wall
+tfmg:light_gray_rebar_concrete
+tfmg:light_gray_rebar_concrete_slab
+tfmg:light_gray_rebar_concrete_stairs
+tfmg:light_gray_rebar_concrete_wall
+tfmg:lignite
+tfmg:lime_caution_block
+tfmg:lime_concrete
+tfmg:lime_concrete_slab
+tfmg:lime_concrete_stairs
+tfmg:lime_concrete_wall
+tfmg:lime_rebar_concrete
+tfmg:lime_rebar_concrete_slab
+tfmg:lime_rebar_concrete_stairs
+tfmg:lime_rebar_concrete_wall
+tfmg:liquid_asphalt
+tfmg:liquid_concrete
+tfmg:liquid_silicon
+tfmg:lithium_block
+tfmg:lithium_fire
+tfmg:lithium_ore
+tfmg:lithium_torch
+tfmg:lubrication_oil
+tfmg:machine_input
+tfmg:magenta_caution_block
+tfmg:magenta_concrete
+tfmg:magenta_concrete_slab
+tfmg:magenta_concrete_stairs
+tfmg:magenta_concrete_wall
+tfmg:magenta_rebar_concrete
+tfmg:magenta_rebar_concrete_slab
+tfmg:magenta_rebar_concrete_stairs
+tfmg:magenta_rebar_concrete_wall
+tfmg:metal_smokestack
+tfmg:modern_light
+tfmg:molten_plastic
+tfmg:molten_slag
+tfmg:molten_steel
+tfmg:napalm
+tfmg:napalm_bomb
+tfmg:naphtha
+tfmg:neon_tube
+tfmg:nickel_bars
+tfmg:nickel_block
+tfmg:nickel_flywheel
+tfmg:nickel_frame
+tfmg:nickel_ladder
+tfmg:nickel_ore
+tfmg:nickel_truss
+tfmg:oil_deposit
+tfmg:orange_caution_block
+tfmg:orange_concrete
+tfmg:orange_concrete_slab
+tfmg:orange_concrete_stairs
+tfmg:orange_concrete_wall
+tfmg:orange_rebar_concrete
+tfmg:orange_rebar_concrete_slab
+tfmg:orange_rebar_concrete_stairs
+tfmg:orange_rebar_concrete_wall
+tfmg:pink_caution_block
+tfmg:pink_concrete
+tfmg:pink_concrete_slab
+tfmg:pink_concrete_stairs
+tfmg:pink_concrete_wall
+tfmg:pink_rebar_concrete
+tfmg:pink_rebar_concrete_slab
+tfmg:pink_rebar_concrete_stairs
+tfmg:pink_rebar_concrete_wall
+tfmg:plastic_block
+tfmg:plastic_fluid_valve
+tfmg:plastic_mechanical_pump
+tfmg:plastic_pipe
+tfmg:plastic_smart_fluid_pipe
+tfmg:polarizer
+tfmg:polished_cut_bauxite
+tfmg:polished_cut_bauxite_slab
+tfmg:polished_cut_bauxite_stairs
+tfmg:polished_cut_bauxite_wall
+tfmg:polished_cut_galena
+tfmg:polished_cut_galena_slab
+tfmg:polished_cut_galena_stairs
+tfmg:polished_cut_galena_wall
+tfmg:potentiometer
+tfmg:pumpjack_base
+tfmg:pumpjack_crank
+tfmg:pumpjack_hammer
+tfmg:pumpjack_hammer_connector
+tfmg:pumpjack_hammer_head
+tfmg:pumpjack_hammer_part
+tfmg:purple_caution_block
+tfmg:purple_concrete
+tfmg:purple_concrete_slab
+tfmg:purple_concrete_stairs
+tfmg:purple_concrete_wall
+tfmg:purple_rebar_concrete
+tfmg:purple_rebar_concrete_slab
+tfmg:purple_rebar_concrete_stairs
+tfmg:purple_rebar_concrete_wall
+tfmg:radial_engine
+tfmg:raw_lead_block
+tfmg:raw_lithium_block
+tfmg:raw_nickel_block
+tfmg:rebar_block
+tfmg:rebar_concrete
+tfmg:rebar_concrete_slab
+tfmg:rebar_concrete_stairs
+tfmg:rebar_concrete_wall
+tfmg:rebar_floor
+tfmg:rebar_pile
+tfmg:rebar_pillar
+tfmg:rebar_stairs
+tfmg:rebar_wall
+tfmg:red_caution_block
+tfmg:red_concrete
+tfmg:red_concrete_slab
+tfmg:red_concrete_stairs
+tfmg:red_concrete_wall
+tfmg:red_rebar_concrete
+tfmg:red_rebar_concrete_slab
+tfmg:red_rebar_concrete_stairs
+tfmg:red_rebar_concrete_wall
+tfmg:regular_engine
+tfmg:reinforced_fireproof_bricks
+tfmg:resistor
+tfmg:rotor
+tfmg:rusted_blast_furnace_reinforcement
+tfmg:rusted_blast_furnace_reinforcement_wall
+tfmg:segmented_display
+tfmg:simple_large_engine
+tfmg:slag_block
+tfmg:slag_bricks
+tfmg:small_bauxite_brick_slab
+tfmg:small_bauxite_brick_stairs
+tfmg:small_bauxite_brick_wall
+tfmg:small_bauxite_bricks
+tfmg:small_galena_brick_slab
+tfmg:small_galena_brick_stairs
+tfmg:small_galena_brick_wall
+tfmg:small_galena_bricks
+tfmg:stator
+tfmg:steel_bars
+tfmg:steel_block
+tfmg:steel_cable_hub
+tfmg:steel_casing
+tfmg:steel_casing_cable_hub
+tfmg:steel_chemical_vat
+tfmg:steel_cogwheel
+tfmg:steel_distillation_controller
+tfmg:steel_distillation_output
+tfmg:steel_door
+tfmg:steel_encased_aluminum_cogwheel
+tfmg:steel_encased_large_aluminum_cogwheel
+tfmg:steel_encased_large_steel_cogwheel
+tfmg:steel_encased_shaft
+tfmg:steel_encased_steel_cogwheel
+tfmg:steel_fluid_tank
+tfmg:steel_fluid_valve
+tfmg:steel_flywheel
+tfmg:steel_frame
+tfmg:steel_gearbox
+tfmg:steel_ladder
+tfmg:steel_mechanical_pump
+tfmg:steel_pipe
+tfmg:steel_scaffolding
+tfmg:steel_smart_fluid_pipe
+tfmg:steel_trapdoor
+tfmg:steel_truss
+tfmg:sulfur
+tfmg:sulfuric_acid
+tfmg:surface_scanner
+tfmg:traffic_light
+tfmg:transformer
+tfmg:turbine_engine
+tfmg:voltage_observer
+tfmg:voltmeter
+tfmg:white_caution_block
+tfmg:white_concrete
+tfmg:white_concrete_slab
+tfmg:white_concrete_stairs
+tfmg:white_concrete_wall
+tfmg:white_rebar_concrete
+tfmg:white_rebar_concrete_slab
+tfmg:white_rebar_concrete_stairs
+tfmg:white_rebar_concrete_wall
+tfmg:winding_machine
+tfmg:yellow_caution_block
+tfmg:yellow_concrete
+tfmg:yellow_concrete_slab
+tfmg:yellow_concrete_stairs
+tfmg:yellow_concrete_wall
+tfmg:yellow_rebar_concrete
+tfmg:yellow_rebar_concrete_slab
+tfmg:yellow_rebar_concrete_stairs
+tfmg:yellow_rebar_concrete_wall
+tfmg:zinc_frame
+tfmg:zinc_truss
+
+## items
+tfmg:accumulator
+tfmg:advanced_potato_cannon
+tfmg:advanced_potato_cannon/item
+tfmg:air_bucket
+tfmg:air_intake
+tfmg:aluminum_axe
+tfmg:aluminum_bars
+tfmg:aluminum_block
+tfmg:aluminum_cable_hub
+tfmg:aluminum_cogwheel
+tfmg:aluminum_door
+tfmg:aluminum_fluid_tank
+tfmg:aluminum_fluid_valve
+tfmg:aluminum_flywheel
+tfmg:aluminum_frame
+tfmg:aluminum_hoe
+tfmg:aluminum_ingot
+tfmg:aluminum_ladder
+tfmg:aluminum_lamp
+tfmg:aluminum_mechanical_pump
+tfmg:aluminum_nugget
+tfmg:aluminum_pickaxe
+tfmg:aluminum_pipe
+tfmg:aluminum_scaffolding
+tfmg:aluminum_sheet
+tfmg:aluminum_shovel
+tfmg:aluminum_smart_fluid_pipe
+tfmg:aluminum_spool
+tfmg:aluminum_sword
+tfmg:aluminum_truss
+tfmg:aluminum_wire
+tfmg:asphalt
+tfmg:asphalt_mixture
+tfmg:asphalt_slab
+tfmg:asphalt_stairs
+tfmg:asphalt_wall
+tfmg:bars
+tfmg:bauxite
+tfmg:bauxite_pillar
+tfmg:bauxite_powder
+tfmg:bitumen
+tfmg:black_concrete
+tfmg:black_concrete_slab
+tfmg:black_concrete_stairs
+tfmg:black_concrete_wall
+tfmg:black_multimeter
+tfmg:black_rebar_concrete
+tfmg:black_rebar_concrete_slab
+tfmg:black_rebar_concrete_stairs
+tfmg:black_rebar_concrete_wall
+tfmg:blast_furnace_hatch
+tfmg:blast_furnace_output
+tfmg:blast_furnace_reinforcement
+tfmg:blast_stove
+tfmg:blue_caution_block
+tfmg:blue_concrete
+tfmg:blue_concrete_slab
+tfmg:blue_concrete_stairs
+tfmg:blue_concrete_wall
+tfmg:blue_multimeter
+tfmg:blue_rebar_concrete
+tfmg:blue_rebar_concrete_slab
+tfmg:blue_rebar_concrete_stairs
+tfmg:blue_rebar_concrete_wall
+tfmg:brass_cable_hub
+tfmg:brass_fluid_valve
+tfmg:brass_frame
+tfmg:brass_mechanical_pump
+tfmg:brass_pipe
+tfmg:brass_smart_fluid_pipe
+tfmg:brass_truss
+tfmg:brick_smokestack
+tfmg:brown_caution_block
+tfmg:brown_concrete
+tfmg:brown_concrete_slab
+tfmg:brown_concrete_stairs
+tfmg:brown_concrete_wall
+tfmg:brown_multimeter
+tfmg:brown_rebar_concrete
+tfmg:brown_rebar_concrete_slab
+tfmg:brown_rebar_concrete_stairs
+tfmg:brown_rebar_concrete_wall
+tfmg:butane_bucket
+tfmg:cable_connector
+tfmg:cable_tube
+tfmg:capacitor_item
+tfmg:carbon_dioxide_bucket
+tfmg:cast_iron_bars
+tfmg:cast_iron_block
+tfmg:cast_iron_chemical_vat
+tfmg:cast_iron_fluid_tank
+tfmg:cast_iron_fluid_valve
+tfmg:cast_iron_flywheel
+tfmg:cast_iron_frame
+tfmg:cast_iron_ingot
+tfmg:cast_iron_ladder
+tfmg:cast_iron_mechanical_pump
+tfmg:cast_iron_nugget
+tfmg:cast_iron_pipe
+tfmg:cast_iron_sheet
+tfmg:cast_iron_smart_fluid_pipe
+tfmg:cast_iron_truss
+tfmg:casting_basin
+tfmg:cement
+tfmg:centrifuge
+tfmg:cinder_block
+tfmg:cinderblock
+tfmg:cinderflour_block
+tfmg:cinderflourblock
+tfmg:circuit_board
+tfmg:circular_light
+tfmg:coal_coke
+tfmg:coal_coke_block
+tfmg:coal_coke_dust
+tfmg:coated_circuit_board
+tfmg:coke_oven
+tfmg:concrete
+tfmg:concrete_hose
+tfmg:concrete_mixture
+tfmg:concrete_slab
+tfmg:concrete_smokestack
+tfmg:concrete_stairs
+tfmg:concrete_wall
+tfmg:constantan_block
+tfmg:constantan_frame
+tfmg:constantan_ingot
+tfmg:constantan_ladder
+tfmg:constantan_nugget
+tfmg:constantan_spool
+tfmg:constantan_truss
+tfmg:constantan_wire
+tfmg:converter
+tfmg:cooling_fluid_bottle
+tfmg:cooling_fluid_bucket
+tfmg:copper_cable_hub
+tfmg:copper_electrode
+tfmg:copper_electrode_model
+tfmg:copper_frame
+tfmg:copper_grenade
+tfmg:copper_spool
+tfmg:copper_sulfate
+tfmg:copper_truss
+tfmg:copper_wire
+tfmg:copycat_cable_block
+tfmg:crankshaft
+tfmg:crankshaft_model
+tfmg:creative_generator
+tfmg:creosote_bucket
+tfmg:crude_oil_bucket
+tfmg:crushed_raw_lithium
+tfmg:cut_bauxite
+tfmg:cut_bauxite_brick_slab
+tfmg:cut_bauxite_brick_stairs
+tfmg:cut_bauxite_brick_wall
+tfmg:cut_bauxite_bricks
+tfmg:cut_bauxite_slab
+tfmg:cut_bauxite_stairs
+tfmg:cut_bauxite_wall
+tfmg:cut_galena
+tfmg:cut_galena_brick_slab
+tfmg:cut_galena_brick_stairs
+tfmg:cut_galena_brick_wall
+tfmg:cut_galena_bricks
+tfmg:cut_galena_slab
+tfmg:cut_galena_stairs
+tfmg:cut_galena_wall
+tfmg:cyan_caution_block
+tfmg:cyan_concrete
+tfmg:cyan_concrete_slab
+tfmg:cyan_concrete_stairs
+tfmg:cyan_concrete_wall
+tfmg:cyan_multimeter
+tfmg:cyan_rebar_concrete
+tfmg:cyan_rebar_concrete_slab
+tfmg:cyan_rebar_concrete_stairs
+tfmg:cyan_rebar_concrete_wall
+tfmg:debug_cinderblock
+tfmg:deepslate_lead_ore
+tfmg:deepslate_lithium_ore
+tfmg:deepslate_nickel_ore
+tfmg:diagonal_cable_block
+tfmg:diesel_bucket
+tfmg:diesel_engine_cylinder
+tfmg:electric_diode
+tfmg:electric_motor
+tfmg:electric_post
+tfmg:electric_pump
+tfmg:electrical_switch
+tfmg:electricians_wrench
+tfmg:electrode_holder
+tfmg:electromagnetic_coil
+tfmg:empty_circuit_board
+tfmg:empty_spool
+tfmg:engine_controller
+tfmg:engine_cylinder
+tfmg:engine_gearbox
+tfmg:etched_circuit_board
+tfmg:ethylene_bucket
+tfmg:exhaust
+tfmg:factory_floor
+tfmg:fire_extinguisher
+tfmg:fire_extinguisher/item
+tfmg:firebox
+tfmg:fireclay
+tfmg:fireclay_ball
+tfmg:fireproof_brick
+tfmg:fireproof_brick_reinforcement
+tfmg:fireproof_bricks
+tfmg:fireproof_chemical_vat
+tfmg:flamethrower
+tfmg:flamethrower/item
+tfmg:flarestack
+tfmg:fossilstone
+tfmg:furnace_gas_bucket
+tfmg:galena
+tfmg:galena_pillar
+tfmg:gas_lamp
+tfmg:gasoline_bucket
+tfmg:generator
+tfmg:glass_cable_insulator
+tfmg:glass_insulator_segment
+tfmg:glass_insulator_segment_model
+tfmg:golden_turbo
+tfmg:graphite_electrode
+tfmg:graphite_electrode_model
+tfmg:gray_caution_block
+tfmg:gray_concrete
+tfmg:gray_concrete_slab
+tfmg:gray_concrete_stairs
+tfmg:gray_concrete_wall
+tfmg:gray_multimeter
+tfmg:gray_rebar_concrete
+tfmg:gray_rebar_concrete_slab
+tfmg:gray_rebar_concrete_stairs
+tfmg:gray_rebar_concrete_wall
+tfmg:green_caution_block
+tfmg:green_concrete
+tfmg:green_concrete_slab
+tfmg:green_concrete_stairs
+tfmg:green_concrete_wall
+tfmg:green_multimeter
+tfmg:green_rebar_concrete
+tfmg:green_rebar_concrete_slab
+tfmg:green_rebar_concrete_stairs
+tfmg:green_rebar_concrete_wall
+tfmg:hardened_planks
+tfmg:heavy_cable_hub
+tfmg:heavy_casing_door
+tfmg:heavy_casing_encased_aluminum_cogwheel
+tfmg:heavy_casing_encased_large_aluminum_cogwheel
+tfmg:heavy_casing_encased_large_steel_cogwheel
+tfmg:heavy_casing_encased_shaft
+tfmg:heavy_casing_encased_steel_cogwheel
+tfmg:heavy_machinery_casing
+tfmg:heavy_oil_bucket
+tfmg:heavy_plate
+tfmg:heavy_plated_door
+tfmg:hot_air_bucket
+tfmg:hydrogen_bucket
+tfmg:industrial_aluminum_casing
+tfmg:industrial_mixer
+tfmg:industrial_pipe
+tfmg:kerosene_bucket
+tfmg:laminated_magnetic_alloy_block
+tfmg:large_aluminum_cogwheel
+tfmg:large_coil
+tfmg:large_engine
+tfmg:large_pumpjack_hammer_connector
+tfmg:large_pumpjack_hammer_head
+tfmg:large_pumpjack_hammer_part
+tfmg:large_steel_cogwheel
+tfmg:large_switch
+tfmg:layered_bauxite
+tfmg:layered_galena
+tfmg:lead_axe
+tfmg:lead_bars
+tfmg:lead_block
+tfmg:lead_flywheel
+tfmg:lead_frame
+tfmg:lead_hoe
+tfmg:lead_ingot
+tfmg:lead_ladder
+tfmg:lead_nugget
+tfmg:lead_ore
+tfmg:lead_pickaxe
+tfmg:lead_sheet
+tfmg:lead_shovel
+tfmg:lead_sword
+tfmg:lead_truss
+tfmg:light_blue_caution_block
+tfmg:light_blue_concrete
+tfmg:light_blue_concrete_slab
+tfmg:light_blue_concrete_stairs
+tfmg:light_blue_concrete_wall
+tfmg:light_blue_multimeter
+tfmg:light_blue_rebar_concrete
+tfmg:light_blue_rebar_concrete_slab
+tfmg:light_blue_rebar_concrete_stairs
+tfmg:light_blue_rebar_concrete_wall
+tfmg:light_bulb
+tfmg:light_gray_caution_block
+tfmg:light_gray_concrete
+tfmg:light_gray_concrete_slab
+tfmg:light_gray_concrete_stairs
+tfmg:light_gray_concrete_wall
+tfmg:light_gray_multimeter
+tfmg:light_gray_rebar_concrete
+tfmg:light_gray_rebar_concrete_slab
+tfmg:light_gray_rebar_concrete_stairs
+tfmg:light_gray_rebar_concrete_wall
+tfmg:lignite
+tfmg:lime_caution_block
+tfmg:lime_concrete
+tfmg:lime_concrete_slab
+tfmg:lime_concrete_stairs
+tfmg:lime_concrete_wall
+tfmg:lime_multimeter
+tfmg:lime_rebar_concrete
+tfmg:lime_rebar_concrete_slab
+tfmg:lime_rebar_concrete_stairs
+tfmg:lime_rebar_concrete_wall
+tfmg:limesand
+tfmg:liquid_asphalt_bucket
+tfmg:liquid_concrete_bucket
+tfmg:liquid_silicon_bucket
+tfmg:lit_lithium_blade
+tfmg:lithium_blade
+tfmg:lithium_block
+tfmg:lithium_charge
+tfmg:lithium_ingot
+tfmg:lithium_nugget
+tfmg:lithium_ore
+tfmg:lithium_torch
+tfmg:lpg_bucket
+tfmg:lubrication_oil_bucket
+tfmg:machine_input
+tfmg:magenta_caution_block
+tfmg:magenta_concrete
+tfmg:magenta_concrete_slab
+tfmg:magenta_concrete_stairs
+tfmg:magenta_concrete_wall
+tfmg:magenta_multimeter
+tfmg:magenta_rebar_concrete
+tfmg:magenta_rebar_concrete_slab
+tfmg:magenta_rebar_concrete_stairs
+tfmg:magenta_rebar_concrete_wall
+tfmg:magnet
+tfmg:magnetic_alloy_ingot
+tfmg:magnetic_alloy_sheet
+tfmg:metal_smokestack
+tfmg:mixer_blade
+tfmg:modern_light
+tfmg:molten_plastic_bucket
+tfmg:molten_slag_bucket
+tfmg:molten_steel_bucket
+tfmg:multimeter
+tfmg:n_semiconductor
+tfmg:napalm_bomb
+tfmg:napalm_bucket
+tfmg:napalm_potato
+tfmg:naphtha_bucket
+tfmg:neon_bucket
+tfmg:neon_tube
+tfmg:nickel_bars
+tfmg:nickel_block
+tfmg:nickel_flywheel
+tfmg:nickel_frame
+tfmg:nickel_ingot
+tfmg:nickel_ladder
+tfmg:nickel_nugget
+tfmg:nickel_ore
+tfmg:nickel_sheet
+tfmg:nickel_truss
+tfmg:nitrate_dust
+tfmg:oil_can
+tfmg:oil_can_model
+tfmg:oil_deposit
+tfmg:oil_hammer
+tfmg:orange_caution_block
+tfmg:orange_concrete
+tfmg:orange_concrete_slab
+tfmg:orange_concrete_stairs
+tfmg:orange_concrete_wall
+tfmg:orange_multimeter
+tfmg:orange_rebar_concrete
+tfmg:orange_rebar_concrete_slab
+tfmg:orange_rebar_concrete_stairs
+tfmg:orange_rebar_concrete_wall
+tfmg:p_semiconductor
+tfmg:pink_caution_block
+tfmg:pink_concrete
+tfmg:pink_concrete_slab
+tfmg:pink_concrete_stairs
+tfmg:pink_concrete_wall
+tfmg:pink_multimeter
+tfmg:pink_rebar_concrete
+tfmg:pink_rebar_concrete_slab
+tfmg:pink_rebar_concrete_stairs
+tfmg:pink_rebar_concrete_wall
+tfmg:pipe_bomb
+tfmg:plastic_block
+tfmg:plastic_fluid_valve
+tfmg:plastic_mechanical_pump
+tfmg:plastic_pipe
+tfmg:plastic_sheet
+tfmg:plastic_smart_fluid_pipe
+tfmg:polarizer
+tfmg:polished_cut_bauxite
+tfmg:polished_cut_bauxite_slab
+tfmg:polished_cut_bauxite_stairs
+tfmg:polished_cut_bauxite_wall
+tfmg:polished_cut_galena
+tfmg:polished_cut_galena_slab
+tfmg:polished_cut_galena_stairs
+tfmg:polished_cut_galena_wall
+tfmg:potentiometer
+tfmg:propane_bucket
+tfmg:propylene_bucket
+tfmg:pumpjack_base
+tfmg:pumpjack_crank
+tfmg:pumpjack_hammer
+tfmg:pumpjack_hammer_connector
+tfmg:pumpjack_hammer_head
+tfmg:pumpjack_hammer_part
+tfmg:purple_caution_block
+tfmg:purple_concrete
+tfmg:purple_concrete_slab
+tfmg:purple_concrete_stairs
+tfmg:purple_concrete_wall
+tfmg:purple_multimeter
+tfmg:purple_rebar_concrete
+tfmg:purple_rebar_concrete_slab
+tfmg:purple_rebar_concrete_stairs
+tfmg:purple_rebar_concrete_wall
+tfmg:quad_potato_cannon
+tfmg:quad_potato_cannon/item
+tfmg:radial_engine
+tfmg:raw_lead
+tfmg:raw_lead_block
+tfmg:raw_lithium
+tfmg:raw_lithium_block
+tfmg:raw_nickel
+tfmg:raw_nickel_block
+tfmg:rebar
+tfmg:rebar_block
+tfmg:rebar_concrete
+tfmg:rebar_concrete_slab
+tfmg:rebar_concrete_stairs
+tfmg:rebar_concrete_wall
+tfmg:rebar_floor
+tfmg:rebar_pile
+tfmg:rebar_pillar
+tfmg:rebar_stairs
+tfmg:rebar_wall
+tfmg:red_caution_block
+tfmg:red_concrete
+tfmg:red_concrete_slab
+tfmg:red_concrete_stairs
+tfmg:red_concrete_wall
+tfmg:red_multimeter
+tfmg:red_rebar_concrete
+tfmg:red_rebar_concrete_slab
+tfmg:red_rebar_concrete_stairs
+tfmg:red_rebar_concrete_wall
+tfmg:regular_engine
+tfmg:resistor
+tfmg:rotor
+tfmg:rubber_sheet
+tfmg:rusted_blast_furnace_reinforcement
+tfmg:screw
+tfmg:screwdriver
+tfmg:segmented_display
+tfmg:silicon_ingot
+tfmg:simple_engine_cylinder
+tfmg:simple_large_engine
+tfmg:slag
+tfmg:slag_block
+tfmg:slag_bricks
+tfmg:small_bauxite_brick_slab
+tfmg:small_bauxite_brick_stairs
+tfmg:small_bauxite_brick_wall
+tfmg:small_bauxite_bricks
+tfmg:small_galena_brick_slab
+tfmg:small_galena_brick_stairs
+tfmg:small_galena_brick_wall
+tfmg:small_galena_bricks
+tfmg:spark_plug
+tfmg:stator
+tfmg:steel_axe
+tfmg:steel_bars
+tfmg:steel_block
+tfmg:steel_cable_hub
+tfmg:steel_casing
+tfmg:steel_casing_cable_hub
+tfmg:steel_chemical_vat
+tfmg:steel_cogwheel
+tfmg:steel_distillation_controller
+tfmg:steel_distillation_output
+tfmg:steel_door
+tfmg:steel_encased_aluminum_cogwheel
+tfmg:steel_encased_large_aluminum_cogwheel
+tfmg:steel_encased_large_steel_cogwheel
+tfmg:steel_encased_shaft
+tfmg:steel_encased_steel_cogwheel
+tfmg:steel_fluid_tank
+tfmg:steel_fluid_valve
+tfmg:steel_flywheel
+tfmg:steel_frame
+tfmg:steel_gearbox
+tfmg:steel_hoe
+tfmg:steel_ingot
+tfmg:steel_ladder
+tfmg:steel_mechanical_pump
+tfmg:steel_mechanism
+tfmg:steel_nugget
+tfmg:steel_pickaxe
+tfmg:steel_pipe
+tfmg:steel_scaffolding
+tfmg:steel_shovel
+tfmg:steel_smart_fluid_pipe
+tfmg:steel_sword
+tfmg:steel_trapdoor
+tfmg:steel_truss
+tfmg:steel_vertical_gearbox
+tfmg:sulfur
+tfmg:sulfur_dust
+tfmg:sulfuric_acid_bucket
+tfmg:surface_scanner
+tfmg:synthetic_leather
+tfmg:synthetic_string
+tfmg:thermite_grenade
+tfmg:thermite_powder
+tfmg:traffic_light
+tfmg:transformer
+tfmg:transistor_item
+tfmg:transmission
+tfmg:transmission_model
+tfmg:turbine_blade
+tfmg:turbine_engine
+tfmg:turbo
+tfmg:unfinished_capacitor
+tfmg:unfinished_circuit_board
+tfmg:unfinished_electric_motor
+tfmg:unfinished_electromagnetic_coil
+tfmg:unfinished_engine
+tfmg:unfinished_generator
+tfmg:unfinished_generator_model
+tfmg:unfinished_insulator
+tfmg:unfinished_insulator_model
+tfmg:unfinished_potentiometer
+tfmg:unfinished_resistor
+tfmg:unfinished_steel_mechanism
+tfmg:unfinished_transistor
+tfmg:unfired_insulator
+tfmg:unfired_insulator_model
+tfmg:unprocessed_heavy_plate
+tfmg:voltage_observer
+tfmg:voltmeter
+tfmg:white_caution_block
+tfmg:white_concrete
+tfmg:white_concrete_slab
+tfmg:white_concrete_stairs
+tfmg:white_concrete_wall
+tfmg:white_multimeter
+tfmg:white_rebar_concrete
+tfmg:white_rebar_concrete_slab
+tfmg:white_rebar_concrete_stairs
+tfmg:white_rebar_concrete_wall
+tfmg:winding_machine
+tfmg:yellow_caution_block
+tfmg:yellow_concrete
+tfmg:yellow_concrete_slab
+tfmg:yellow_concrete_stairs
+tfmg:yellow_concrete_wall
+tfmg:yellow_multimeter
+tfmg:yellow_rebar_concrete
+tfmg:yellow_rebar_concrete_slab
+tfmg:yellow_rebar_concrete_stairs
+tfmg:yellow_rebar_concrete_wall
+tfmg:zinc_electrode
+tfmg:zinc_electrode_model
+tfmg:zinc_frame
+tfmg:zinc_grenade
+tfmg:zinc_truss
+
+## neoforge biome_modifiers
+lead_ore.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "tfmg:lead_ore", "step": "underground_ores"}
+lithium_ore.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "tfmg:lithium_ore", "step": "underground_ores"}
+nickel_ore.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "tfmg:nickel_ore", "step": "underground_ores"}
+oil_deposit.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "tfmg:oil_deposit", "step": "underground_ores"}
+oil_well.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:has_structure/desert_pyramid", "features": "tfmg:oil_well", "step": "fluid_springs"}
+tfmg_striated_ores_nether.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_nether", "features": "tfmg:tfmg_striated_ores_nether", "step": "underground_ores"}
+tfmg_striated_ores_overworld.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "tfmg:tfmg_striated_ores_overworld", "step": "underground_ores"}
+
+## c: common tag membership
+block/concretes.json :: { "values": [ "tfmg:concrete", "tfmg:rebar_concrete" ]}
+block/ores/lead.json :: { "values": [ "tfmg:lead_ore", "tfmg:deepslate_lead_ore" ]}
+block/ores/lithium.json :: { "values": [ "tfmg:lithium_ore", "tfmg:deepslate_lithium_ore" ]}
+block/ores/nickel.json :: { "values": [ "tfmg:nickel_ore", "tfmg:deepslate_nickel_ore" ]}
+block/ores.json :: { "values": [ "tfmg:lead_ore", "tfmg:deepslate_lead_ore", "tfmg:nickel_ore", "tfmg:deepslate_nickel_ore", "tfmg:lithium_ore", "tfmg:deepslate_lithium_ore" ]}
+block/ores_in_ground/deepslate.json :: { "values": [ "tfmg:deepslate_lead_ore", "tfmg:deepslate_nickel_ore", "tfmg:deepslate_lithium_ore" ]}
+block/ores_in_ground/stone.json :: { "values": [ "tfmg:lead_ore", "tfmg:nickel_ore", "tfmg:lithium_ore" ]}
+block/storage_blocks/aluminum.json :: { "values": [ "tfmg:aluminum_block" ]}
+block/storage_blocks/cast_iron.json :: { "values": [ "tfmg:cast_iron_block" ]}
+block/storage_blocks/coal_coke.json :: { "values": [ "tfmg:coal_coke_block" ]}
+block/storage_blocks/constantan.json :: { "values": [ "tfmg:constantan_block" ]}
+block/storage_blocks/lead.json :: { "values": [ "tfmg:lead_block" ]}
+block/storage_blocks/lithium.json :: { "values": [ "tfmg:lithium_block" ]}
+block/storage_blocks/nickel.json :: { "values": [ "tfmg:nickel_block" ]}
+block/storage_blocks/plastic.json :: { "values": [ "tfmg:plastic_block" ]}
+block/storage_blocks/raw_lead.json :: { "values": [ "tfmg:raw_lead_block" ]}
+block/storage_blocks/raw_lithium.json :: { "values": [ "tfmg:raw_lithium_block" ]}
+block/storage_blocks/raw_nickel.json :: { "values": [ "tfmg:raw_nickel_block" ]}
+block/storage_blocks/steel.json :: { "values": [ "tfmg:steel_block" ]}
+block/storage_blocks.json :: { "values": [ "tfmg:raw_nickel_block", "tfmg:raw_lead_block", "tfmg:raw_lithium_block", "tfmg:steel_block", "tfmg:cast_iron_block", "tfmg:aluminum_block", "tfmg:plastic_block", "tfmg:lead_block", "tfmg:constantan_block", "tfmg:nickel_block", "tfmg:lithium_block", "tfmg:coal_coke_block" ]}
+fluid/air.json :: { "values": [ "tfmg:flowing_air", "tfmg:air" ]}
+fluid/cooling_fluid.json :: { "values": [ "tfmg:flowing_cooling_fluid", "tfmg:cooling_fluid" ]}
+fluid/creosote.json :: { "values": [ "tfmg:flowing_creosote", "tfmg:creosote" ]}
+fluid/crude_oil.json :: { "values": [ "tfmg:flowing_crude_oil", "tfmg:crude_oil" ]}
+fluid/diesel.json :: { "values": [ "tfmg:flowing_diesel", "tfmg:diesel" ]}
+fluid/fuel.json :: { "values": [ "tfmg:flowing_lpg", "tfmg:lpg", "tfmg:flowing_butane", "tfmg:butane", "tfmg:flowing_propane", "tfmg:propane", "tfmg:flowing_hydrogen", "tfmg:hydrogen", "tfmg:flowing_furnace_gas", "tfmg:furnace_gas", "tfmg:flowing_gasoline", "tfmg:gasoline", "tfmg:flowing_diesel", "tfmg:diesel", "tfmg:flowing_naphtha", "tfmg:naphtha", "tfmg:flowing_kerosene", "tfmg:kerosene", "tfmg:flowing_creosote", "tfmg:creosote" ]}
+fluid/furnace_gas.json :: { "values": [ "tfmg:flowing_furnace_gas", "tfmg:furnace_gas" ]}
+fluid/gasoline.json :: { "values": [ "tfmg:flowing_gasoline", "tfmg:gasoline" ]}
+fluid/heavy_oil.json :: { "values": [ "tfmg:flowing_heavy_oil", "tfmg:heavy_oil" ]}
+fluid/kerosene.json :: { "values": [ "tfmg:flowing_kerosene", "tfmg:kerosene" ]}
+fluid/lpg.json :: { "values": [ "tfmg:flowing_lpg", "tfmg:lpg" ]}
+fluid/lubrication_oil.json :: { "values": [ "tfmg:flowing_lubrication_oil", "tfmg:lubrication_oil" ]}
+fluid/molten_steel.json :: { "values": [ "tfmg:flowing_molten_steel", "tfmg:molten_steel" ]}
+fluid/naphtha.json :: { "values": [ "tfmg:flowing_naphtha", "tfmg:naphtha" ]}
+item/buckets/air.json :: { "values": [ "tfmg:air_bucket" ]}
+item/buckets/butane.json :: { "values": [ "tfmg:butane_bucket" ]}
+item/buckets/carbon_dioxide.json :: { "values": [ "tfmg:carbon_dioxide_bucket" ]}
+item/buckets/cooling_fluid.json :: { "values": [ "tfmg:cooling_fluid_bucket" ]}
+item/buckets/creosote.json :: { "values": [ "tfmg:creosote_bucket" ]}
+item/buckets/crude_oil.json :: { "values": [ "tfmg:crude_oil_bucket" ]}
+item/buckets/diesel.json :: { "values": [ "tfmg:diesel_bucket" ]}
+item/buckets/ethylene.json :: { "values": [ "tfmg:ethylene_bucket" ]}
+item/buckets/furnace_gas.json :: { "values": [ "tfmg:furnace_gas_bucket" ]}
+item/buckets/gasoline.json :: { "values": [ "tfmg:gasoline_bucket" ]}
+item/buckets/heavy_oil.json :: { "values": [ "tfmg:heavy_oil_bucket" ]}
+item/buckets/hot_air.json :: { "values": [ "tfmg:hot_air_bucket" ]}
+item/buckets/hydrogen.json :: { "values": [ "tfmg:hydrogen_bucket" ]}
+item/buckets/kerosene.json :: { "values": [ "tfmg:kerosene_bucket" ]}
+item/buckets/liquid_asphalt.json :: { "values": [ "tfmg:liquid_asphalt_bucket" ]}
+item/buckets/liquid_concrete.json :: { "values": [ "tfmg:liquid_concrete_bucket" ]}
+item/buckets/liquid_silicon.json :: { "values": [ "tfmg:liquid_silicon_bucket" ]}
+item/buckets/lpg.json :: { "values": [ "tfmg:lpg_bucket" ]}
+item/buckets/lubrication_oil.json :: { "values": [ "tfmg:lubrication_oil_bucket" ]}
+item/buckets/molten_plastic.json :: { "values": [ "tfmg:molten_plastic_bucket" ]}
+item/buckets/molten_slag.json :: { "values": [ "tfmg:molten_slag_bucket" ]}
+item/buckets/molten_steel.json :: { "values": [ "tfmg:molten_steel_bucket" ]}
+item/buckets/napalm.json :: { "values": [ "tfmg:napalm_bucket" ]}
+item/buckets/naphtha.json :: { "values": [ "tfmg:naphtha_bucket" ]}
+item/buckets/neon.json :: { "values": [ "tfmg:neon_bucket" ]}
+item/buckets/propane.json :: { "values": [ "tfmg:propane_bucket" ]}
+item/buckets/propylene.json :: { "values": [ "tfmg:propylene_bucket" ]}
+item/buckets/sulfuric_acid.json :: { "values": [ "tfmg:sulfuric_acid_bucket" ]}
+item/concretes.json :: { "values": [ "tfmg:concrete", "tfmg:rebar_concrete" ]}
+item/dusts/coal_coke.json :: { "values": [ "tfmg:coal_coke_dust" ]}
+item/dusts/saltpeter.json :: { "values": [ "tfmg:nitrate_dust" ]}
+item/dusts/sulfur.json :: { "values": [ "tfmg:sulfur_dust" ]}
+item/dusts.json :: { "values": [ "tfmg:sulfur_dust", "tfmg:nitrate_dust", "tfmg:coal_coke_dust" ]}
+item/ingots/aluminum.json :: { "values": [ "tfmg:aluminum_ingot" ]}
+item/ingots/cast_iron.json :: { "values": [ "tfmg:cast_iron_ingot" ]}
+item/ingots/constantan.json :: { "values": [ "tfmg:constantan_ingot" ]}
+item/ingots/lead.json :: { "values": [ "tfmg:lead_ingot" ]}
+item/ingots/lithium.json :: { "values": [ "tfmg:lithium_ingot" ]}
+item/ingots/nickel.json :: { "values": [ "tfmg:nickel_ingot" ]}
+item/ingots/plastic.json :: { "values": [ "tfmg:plastic_sheet" ]}
+item/ingots/rubber.json :: { "values": [ "tfmg:rubber_sheet" ]}
+item/ingots/silicon.json :: { "values": [ "tfmg:silicon_ingot" ]}
+item/ingots/steel.json :: { "values": [ "tfmg:steel_ingot" ]}
+item/ingots.json :: { "values": [ "tfmg:steel_ingot", "tfmg:cast_iron_ingot", "tfmg:aluminum_ingot", "tfmg:plastic_sheet", "tfmg:lead_ingot", "tfmg:nickel_ingot", "tfmg:constantan_ingot", "tfmg:lithium_ingot" ]}
+item/leathers.json :: { "values": [ "tfmg:synthetic_leather" ]}
+item/nuggets/aluminum.json :: { "values": [ "tfmg:aluminum_nugget" ]}
+item/nuggets/cast_iron.json :: { "values": [ "tfmg:cast_iron_nugget" ]}
+item/nuggets/constantan.json :: { "values": [ "tfmg:constantan_nugget" ]}
+item/nuggets/lead.json :: { "values": [ "tfmg:lead_nugget" ]}
+item/nuggets/lithium.json :: { "values": [ "tfmg:lithium_nugget" ]}
+item/nuggets/nickel.json :: { "values": [ "tfmg:nickel_nugget" ]}
+item/nuggets/steel.json :: { "values": [ "tfmg:steel_nugget" ]}
+item/nuggets.json :: { "values": [ "tfmg:aluminum_nugget", "tfmg:steel_nugget", "tfmg:cast_iron_nugget", "tfmg:constantan_nugget", "tfmg:lead_nugget", "tfmg:nickel_nugget", "tfmg:lithium_nugget" ]}
+item/ores/lead.json :: { "values": [ "tfmg:lead_ore", "tfmg:deepslate_lead_ore" ]}
+item/ores/lithium.json :: { "values": [ "tfmg:lithium_ore", "tfmg:deepslate_lithium_ore" ]}
+item/ores/nickel.json :: { "values": [ "tfmg:nickel_ore", "tfmg:deepslate_nickel_ore" ]}
+item/ores.json :: { "values": [ "tfmg:lead_ore", "tfmg:deepslate_lead_ore", "tfmg:nickel_ore", "tfmg:deepslate_nickel_ore", "tfmg:lithium_ore", "tfmg:deepslate_lithium_ore" ]}
+item/ores_in_ground/deepslate.json :: { "values": [ "tfmg:deepslate_lead_ore", "tfmg:deepslate_nickel_ore", "tfmg:deepslate_lithium_ore" ]}
+item/ores_in_ground/stone.json :: { "values": [ "tfmg:lead_ore", "tfmg:nickel_ore", "tfmg:lithium_ore" ]}
+item/plates/aluminum.json :: { "values": [ "tfmg:aluminum_sheet" ]}
+item/plates/cast_iron.json :: { "values": [ "tfmg:cast_iron_sheet" ]}
+item/plates/lead.json :: { "values": [ "tfmg:lead_sheet" ]}
+item/plates/nickel.json :: { "values": [ "tfmg:nickel_sheet" ]}
+item/plates/steel.json :: { "values": [ "tfmg:heavy_plate" ]}
+item/plates.json :: { "values": [ "tfmg:heavy_plate", "tfmg:aluminum_sheet", "tfmg:nickel_sheet", "tfmg:cast_iron_sheet", "tfmg:lead_sheet", "tfmg:rubber_sheet" ]}
+item/raw_materials/lead.json :: { "values": [ "tfmg:raw_lead" ]}
+item/raw_materials/lithium.json :: { "values": [ "tfmg:raw_lithium" ]}
+item/raw_materials/nickel.json :: { "values": [ "tfmg:raw_nickel" ]}
+item/raw_materials.json :: { "values": [ "tfmg:raw_lead", "tfmg:raw_nickel", "tfmg:raw_lithium" ]}
+item/rods/steel.json :: { "values": [ "tfmg:rebar" ]}
+item/rods.json :: { "values": [ "tfmg:rebar", "minecraft:stick" ]}
+item/storage_blocks/aluminum.json :: { "values": [ "tfmg:aluminum_block" ]}
+item/storage_blocks/cast_iron.json :: { "values": [ "tfmg:cast_iron_block" ]}
+item/storage_blocks/coal_coke.json :: { "values": [ "tfmg:coal_coke_block" ]}
+item/storage_blocks/constantan.json :: { "values": [ "tfmg:constantan_block" ]}
+item/storage_blocks/lead.json :: { "values": [ "tfmg:lead_block" ]}
+item/storage_blocks/lithium.json :: { "values": [ "tfmg:lithium_block" ]}
+item/storage_blocks/nickel.json :: { "values": [ "tfmg:nickel_block" ]}
+item/storage_blocks/plastic.json :: { "values": [ "tfmg:plastic_block" ]}
+item/storage_blocks/raw_lead.json :: { "values": [ "tfmg:raw_lead_block" ]}
+item/storage_blocks/raw_lithium.json :: { "values": [ "tfmg:raw_lithium_block" ]}
+item/storage_blocks/raw_nickel.json :: { "values": [ "tfmg:raw_nickel_block" ]}
+item/storage_blocks/steel.json :: { "values": [ "tfmg:steel_block" ]}
+item/storage_blocks.json :: { "values": [ "tfmg:raw_nickel_block", "tfmg:raw_lead_block", "tfmg:raw_lithium_block", "tfmg:steel_block", "tfmg:cast_iron_block", "tfmg:aluminum_block", "tfmg:plastic_block", "tfmg:lead_block", "tfmg:constantan_block", "tfmg:nickel_block", "tfmg:lithium_block", "tfmg:coal_coke_block" ]}
+item/strings.json :: { "values": [ "tfmg:synthetic_string" ]}
+item/wires/aluminum.json :: { "values": [ "tfmg:aluminum_wire" ]}
+item/wires/constantan.json :: { "values": [ "tfmg:constantan_wire" ]}
+item/wires/copper.json :: { "values": [ "tfmg:copper_wire" ]}
+item/wires.json :: { "values": [ "tfmg:copper_wire", "tfmg:aluminum_wire", "tfmg:constantan_wire" ]}

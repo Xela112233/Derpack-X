@@ -1,0 +1,21 @@
+# entity_model_features_1.21-neoforge-3.2.2
+
+## mod metadata (id / version / deps)
+license = "LGPL-3.0"
+modId = "entity_model_features"
+version = "3.2.2"
+displayName = "Entity Model Features"
+modId = "neoforge"
+versionRange = "[1,)"
+modId = "minecraft"
+versionRange = "[1,)"
+modId = "entity_texture_features"
+versionRange = "[7.0.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

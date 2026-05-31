@@ -1,0 +1,95 @@
+ecologics:azalea_boat | minecraft:crafting_shaped | ecologics:azalea_boat ecologics:azalea_planks minecraft:crafting_shaped
+ecologics:azalea_button | minecraft:crafting_shapeless | ecologics:azalea_button ecologics:azalea_planks minecraft:crafting_shapeless
+ecologics:azalea_chest_boat | minecraft:crafting_shapeless | ecologics:azalea_boat ecologics:azalea_chest_boat minecraft:chest minecraft:crafting_shapeless
+ecologics:azalea_door | minecraft:crafting_shaped | ecologics:azalea_door ecologics:azalea_planks minecraft:crafting_shaped
+ecologics:azalea_fence | minecraft:crafting_shaped | ecologics:azalea_fence ecologics:azalea_planks minecraft:crafting_shaped minecraft:stick
+ecologics:azalea_fence_gate | minecraft:crafting_shaped | ecologics:azalea_fence_gate ecologics:azalea_planks minecraft:crafting_shaped minecraft:stick
+ecologics:azalea_hanging_sign | minecraft:crafting_shaped | ecologics:azalea_hanging_sign ecologics:stripped_azalea_log minecraft:chain minecraft:crafting_shaped
+ecologics:azalea_planks | minecraft:crafting_shapeless | ecologics:azalea_logs ecologics:azalea_planks minecraft:crafting_shapeless
+ecologics:azalea_pressure_plate | minecraft:crafting_shaped | ecologics:azalea_planks ecologics:azalea_pressure_plate minecraft:crafting_shaped
+ecologics:azalea_sign | minecraft:crafting_shaped | ecologics:azalea_planks ecologics:azalea_sign minecraft:crafting_shaped minecraft:stick
+ecologics:azalea_slab | minecraft:crafting_shaped | ecologics:azalea_planks ecologics:azalea_slab minecraft:crafting_shaped
+ecologics:azalea_stairs | minecraft:crafting_shaped | ecologics:azalea_planks ecologics:azalea_stairs minecraft:crafting_shaped
+ecologics:azalea_trapdoor | minecraft:crafting_shaped | ecologics:azalea_planks ecologics:azalea_trapdoor minecraft:crafting_shaped
+ecologics:azalea_wood | minecraft:crafting_shaped | ecologics:azalea_log ecologics:azalea_wood minecraft:crafting_shaped
+ecologics:beetroot_soup_from_coconut_husk | minecraft:crafting_shapeless | ecologics:coconut_husk minecraft:beetroot minecraft:beetroot_soup minecraft:crafting_shapeless
+ecologics:coconut_boat | minecraft:crafting_shaped | ecologics:coconut_boat ecologics:coconut_planks minecraft:crafting_shaped
+ecologics:coconut_button | minecraft:crafting_shapeless | ecologics:coconut_button ecologics:coconut_planks minecraft:crafting_shapeless
+ecologics:coconut_chest_boat | minecraft:crafting_shapeless | ecologics:coconut_boat ecologics:coconut_chest_boat minecraft:chest minecraft:crafting_shapeless
+ecologics:coconut_door | minecraft:crafting_shaped | ecologics:coconut_door ecologics:coconut_planks minecraft:crafting_shaped
+ecologics:coconut_fence | minecraft:crafting_shaped | ecologics:coconut_fence ecologics:coconut_planks minecraft:crafting_shaped minecraft:stick
+ecologics:coconut_fence_gate | minecraft:crafting_shaped | ecologics:coconut_fence_gate ecologics:coconut_planks minecraft:crafting_shaped minecraft:stick
+ecologics:coconut_hanging_sign | minecraft:crafting_shaped | ecologics:coconut_hanging_sign ecologics:stripped_coconut_log minecraft:chain minecraft:crafting_shaped
+ecologics:coconut_planks | minecraft:crafting_shapeless | ecologics:coconut_logs ecologics:coconut_planks minecraft:crafting_shapeless
+ecologics:coconut_pressure_plate | minecraft:crafting_shaped | ecologics:coconut_planks ecologics:coconut_pressure_plate minecraft:crafting_shaped
+ecologics:coconut_sign | minecraft:crafting_shaped | ecologics:coconut_planks ecologics:coconut_sign minecraft:crafting_shaped minecraft:stick
+ecologics:coconut_slab | minecraft:crafting_shaped | ecologics:coconut_planks ecologics:coconut_slab minecraft:crafting_shaped
+ecologics:coconut_stairs | minecraft:crafting_shaped | ecologics:coconut_planks ecologics:coconut_stairs minecraft:crafting_shaped
+ecologics:coconut_trapdoor | minecraft:crafting_shaped | ecologics:coconut_planks ecologics:coconut_trapdoor minecraft:crafting_shaped
+ecologics:coconut_wood | minecraft:crafting_shaped | ecologics:coconut_log ecologics:coconut_wood minecraft:crafting_shaped
+ecologics:cooked_prickly_pear | minecraft:smelting | ecologics:cooked_prickly_pear ecologics:prickly_pear minecraft:smelting
+ecologics:cooked_prickly_pear_from_campfire_cooking | minecraft:campfire_cooking | ecologics:cooked_prickly_pear ecologics:prickly_pear minecraft:campfire_cooking
+ecologics:cooked_prickly_pear_from_smoking | minecraft:smoking | ecologics:cooked_prickly_pear ecologics:prickly_pear minecraft:smoking
+ecologics:crab_meat | minecraft:smelting | ecologics:crab_claw ecologics:crab_meat minecraft:smelting
+ecologics:crab_meat_from_campfire_cooking | minecraft:campfire_cooking | ecologics:crab_claw ecologics:crab_meat minecraft:campfire_cooking
+ecologics:crab_meat_from_smoking | minecraft:smoking | ecologics:crab_claw ecologics:crab_meat minecraft:smoking
+ecologics:flowering_azalea_boat | minecraft:crafting_shaped | ecologics:flowering_azalea_boat ecologics:flowering_azalea_planks minecraft:crafting_shaped
+ecologics:flowering_azalea_chest_boat | minecraft:crafting_shapeless | ecologics:flowering_azalea_boat ecologics:flowering_azalea_chest_boat minecraft:chest minecraft:crafting_shapeless
+ecologics:flowering_azalea_door | minecraft:crafting_shaped | ecologics:flowering_azalea_door ecologics:flowering_azalea_planks minecraft:crafting_shaped
+ecologics:flowering_azalea_fence | minecraft:crafting_shaped | ecologics:flowering_azalea_fence ecologics:flowering_azalea_planks minecraft:crafting_shaped minecraft:stick
+ecologics:flowering_azalea_fence_gate | minecraft:crafting_shaped | ecologics:flowering_azalea_fence_gate ecologics:flowering_azalea_planks minecraft:crafting_shaped minecraft:stick
+ecologics:flowering_azalea_hanging_sign | minecraft:crafting_shaped | ecologics:flowering_azalea_hanging_sign ecologics:flowering_azalea_log minecraft:chain minecraft:crafting_shaped
+ecologics:flowering_azalea_planks | minecraft:crafting_shapeless | ecologics:flowering_azalea_logs ecologics:flowering_azalea_planks minecraft:crafting_shapeless
+ecologics:flowering_azalea_sign | minecraft:crafting_shaped | ecologics:flowering_azalea_planks ecologics:flowering_azalea_sign minecraft:crafting_shaped minecraft:stick
+ecologics:flowering_azalea_slab | minecraft:crafting_shaped | ecologics:flowering_azalea_planks ecologics:flowering_azalea_slab minecraft:crafting_shaped
+ecologics:flowering_azalea_stairs | minecraft:crafting_shaped | ecologics:flowering_azalea_planks ecologics:flowering_azalea_stairs minecraft:crafting_shaped
+ecologics:flowering_azalea_trapdoor | minecraft:crafting_shaped | ecologics:flowering_azalea_planks ecologics:flowering_azalea_trapdoor minecraft:crafting_shaped
+ecologics:flowering_azalea_wood | minecraft:crafting_shaped | ecologics:flowering_azalea_log ecologics:flowering_azalea_wood minecraft:crafting_shaped
+ecologics:ice_brick_slab | minecraft:crafting_shaped | ecologics:ice_brick_slab ecologics:ice_bricks minecraft:crafting_shaped
+ecologics:ice_brick_slab_from_ice_bricks_stonecutting | minecraft:stonecutting | ecologics:ice_brick_slab ecologics:ice_bricks minecraft:stonecutting
+ecologics:ice_brick_stairs | minecraft:crafting_shaped | ecologics:ice_brick_stairs ecologics:ice_bricks minecraft:crafting_shaped
+ecologics:ice_brick_stairs_from_ice_bricks_stonecutting | minecraft:stonecutting | ecologics:ice_brick_stairs ecologics:ice_bricks minecraft:stonecutting
+ecologics:ice_brick_wall | minecraft:crafting_shaped | ecologics:ice_brick_wall ecologics:ice_bricks minecraft:crafting_shaped
+ecologics:ice_brick_wall_from_ice_bricks_stonecutting | minecraft:stonecutting | ecologics:ice_brick_wall ecologics:ice_bricks minecraft:stonecutting
+ecologics:ice_bricks | minecraft:crafting_shaped | ecologics:ice_bricks minecraft:crafting_shaped minecraft:ice
+ecologics:moss_block | minecraft:crafting_shaped | ecologics:surface_moss minecraft:crafting_shaped minecraft:moss_block
+ecologics:mushroom_stew_from_coconut_husk | minecraft:crafting_shapeless | ecologics:coconut_husk minecraft:brown_mushroom minecraft:crafting_shapeless minecraft:mushroom_stew minecraft:red_mushroom
+ecologics:pot | minecraft:crafting_shaped | ecologics:pot minecraft:crafting_shaped minecraft:terracotta
+ecologics:rabbit_stew_from_brown_mushroom_and_coconut_husk | minecraft:crafting_shapeless | ecologics:coconut_husk minecraft:baked_potato minecraft:brown_mushroom minecraft:carrot minecraft:cooked_rabbit minecraft:crafting_shapeless minecraft:rabbit_stew
+ecologics:rabbit_stew_from_red_mushroom_and_coconut_husk | minecraft:crafting_shapeless | ecologics:coconut_husk minecraft:baked_potato minecraft:carrot minecraft:cooked_rabbit minecraft:crafting_shapeless minecraft:rabbit_stew minecraft:red_mushroom
+ecologics:sandcastle | minecraft:crafting_shaped | ecologics:sandcastle ecologics:seashell minecraft:crafting_shaped minecraft:sand minecraft:stick
+ecologics:seashell | minecraft:crafting_shapeless | ecologics:seashell ecologics:seashell_block minecraft:crafting_shapeless
+ecologics:seashell_block | minecraft:crafting_shaped | ecologics:seashell ecologics:seashell_block minecraft:crafting_shaped
+ecologics:seashell_tile_slab | minecraft:crafting_shaped | ecologics:seashell_tile_slab ecologics:seashell_tiles minecraft:crafting_shaped
+ecologics:seashell_tile_slab_from_seashell_tiles_stonecutting | minecraft:stonecutting | ecologics:seashell_tile_slab ecologics:seashell_tiles minecraft:stonecutting
+ecologics:seashell_tile_stairs | minecraft:crafting_shaped | ecologics:seashell_tile_stairs ecologics:seashell_tiles minecraft:crafting_shaped
+ecologics:seashell_tile_stairs_from_seashell_tiles_stonecutting | minecraft:stonecutting | ecologics:seashell_tile_stairs ecologics:seashell_tiles minecraft:stonecutting
+ecologics:seashell_tile_wall | minecraft:crafting_shaped | ecologics:seashell_tile_wall ecologics:seashell_tiles minecraft:crafting_shaped
+ecologics:seashell_tile_wall_from_seashell_tiles_stonecutting | minecraft:stonecutting | ecologics:seashell_tile_wall ecologics:seashell_tiles minecraft:stonecutting
+ecologics:seashell_tiles | minecraft:crafting_shaped | ecologics:seashell ecologics:seashell_tiles minecraft:crafting_shaped
+ecologics:snow_brick_slab | minecraft:crafting_shaped | ecologics:snow_brick_slab ecologics:snow_bricks minecraft:crafting_shaped
+ecologics:snow_brick_slab_from_snow_bricks_stonecutting | minecraft:stonecutting | ecologics:snow_brick_slab ecologics:snow_bricks minecraft:stonecutting
+ecologics:snow_brick_stairs | minecraft:crafting_shaped | ecologics:snow_brick_stairs ecologics:snow_bricks minecraft:crafting_shaped
+ecologics:snow_brick_stairs_from_snow_bricks_stonecutting | minecraft:stonecutting | ecologics:snow_brick_stairs ecologics:snow_bricks minecraft:stonecutting
+ecologics:snow_brick_wall | minecraft:crafting_shaped | ecologics:snow_brick_wall ecologics:snow_bricks minecraft:crafting_shaped
+ecologics:snow_brick_wall_from_snow_bricks_stonecutting | minecraft:stonecutting | ecologics:snow_brick_wall ecologics:snow_bricks minecraft:stonecutting
+ecologics:snow_bricks | minecraft:crafting_shaped | ecologics:snow_bricks minecraft:crafting_shaped minecraft:snow_block
+ecologics:stripped_azalea_wood | minecraft:crafting_shaped | ecologics:stripped_azalea_log ecologics:stripped_azalea_wood minecraft:crafting_shaped
+ecologics:stripped_coconut_wood | minecraft:crafting_shaped | ecologics:stripped_coconut_log ecologics:stripped_coconut_wood minecraft:crafting_shaped
+ecologics:stripped_walnut_wood | minecraft:crafting_shaped | ecologics:stripped_walnut_log ecologics:stripped_walnut_wood minecraft:crafting_shaped
+ecologics:surface_moss | minecraft:crafting_shapeless | ecologics:surface_moss minecraft:crafting_shapeless minecraft:moss_block
+ecologics:tropical_stew | minecraft:crafting_shapeless | ecologics:coconut_slice ecologics:crab_meat ecologics:tropical_stew minecraft:crafting_shapeless
+ecologics:walnut_boat | minecraft:crafting_shaped | ecologics:walnut_boat ecologics:walnut_planks minecraft:crafting_shaped
+ecologics:walnut_button | minecraft:crafting_shapeless | ecologics:walnut_button ecologics:walnut_planks minecraft:crafting_shapeless
+ecologics:walnut_chest_boat | minecraft:crafting_shapeless | ecologics:walnut_boat ecologics:walnut_chest_boat minecraft:chest minecraft:crafting_shapeless
+ecologics:walnut_door | minecraft:crafting_shaped | ecologics:walnut_door ecologics:walnut_planks minecraft:crafting_shaped
+ecologics:walnut_fence | minecraft:crafting_shaped | ecologics:walnut_fence ecologics:walnut_planks minecraft:crafting_shaped minecraft:stick
+ecologics:walnut_fence_gate | minecraft:crafting_shaped | ecologics:walnut_fence_gate ecologics:walnut_planks minecraft:crafting_shaped minecraft:stick
+ecologics:walnut_hanging_sign | minecraft:crafting_shaped | ecologics:stripped_walnut_log ecologics:walnut_hanging_sign minecraft:chain minecraft:crafting_shaped
+ecologics:walnut_planks | minecraft:crafting_shapeless | ecologics:walnut_logs ecologics:walnut_planks minecraft:crafting_shapeless
+ecologics:walnut_pressure_plate | minecraft:crafting_shaped | ecologics:walnut_planks ecologics:walnut_pressure_plate minecraft:crafting_shaped
+ecologics:walnut_sign | minecraft:crafting_shaped | ecologics:walnut_planks ecologics:walnut_sign minecraft:crafting_shaped minecraft:stick
+ecologics:walnut_slab | minecraft:crafting_shaped | ecologics:walnut_planks ecologics:walnut_slab minecraft:crafting_shaped
+ecologics:walnut_stairs | minecraft:crafting_shaped | ecologics:walnut_planks ecologics:walnut_stairs minecraft:crafting_shaped
+ecologics:walnut_trapdoor | minecraft:crafting_shaped | ecologics:walnut_planks ecologics:walnut_trapdoor minecraft:crafting_shaped
+ecologics:walnut_wood | minecraft:crafting_shaped | ecologics:walnut_log ecologics:walnut_wood minecraft:crafting_shaped

@@ -1,0 +1,74 @@
+# trailandtales_delight-0.4
+
+## mod metadata (id / version / deps)
+license="MIT License"
+modId="trailandtales_delight"
+version="0.4.1"
+displayName="Trail&Tales Delight"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+modId = "farmersdelight"
+versionRange = "[0,)"
+
+## blocks
+trailandtales_delight:budding_lantern_fruit
+trailandtales_delight:cheese_wheel
+trailandtales_delight:cherry_cake
+trailandtales_delight:cherry_cheese_pie
+trailandtales_delight:cooked_sniffer_egg_block
+trailandtales_delight:curd_block
+trailandtales_delight:lantern_fruit_crate
+trailandtales_delight:lantern_fruits
+trailandtales_delight:mud_stove
+trailandtales_delight:pitcher_taro_crate
+trailandtales_delight:pottery_cooking_pot
+trailandtales_delight:sniffer_eggshell
+trailandtales_delight:stuffed_sniffer_egg_block
+
+## items
+trailandtales_delight:ancient_coffee
+trailandtales_delight:baked_pitcher_pod
+trailandtales_delight:baked_torchflower_seeds
+trailandtales_delight:cheese_slice
+trailandtales_delight:cheese_wheel
+trailandtales_delight:cherry_blossom
+trailandtales_delight:cherry_cake
+trailandtales_delight:cherry_cake_slice
+trailandtales_delight:cherry_cheese_pie
+trailandtales_delight:cherry_cheese_pie_slice
+trailandtales_delight:cherry_cheese_slice
+trailandtales_delight:cherry_iron_knife
+trailandtales_delight:cherry_petal
+trailandtales_delight:cherry_petal_tea
+trailandtales_delight:cooked_pitcher_taro
+trailandtales_delight:cooked_sniffer_egg_block
+trailandtales_delight:curd_block
+trailandtales_delight:dried_cherry_petal
+trailandtales_delight:fried_sniffer_egg
+trailandtales_delight:golden_lantern_fruit
+trailandtales_delight:lantern_fruit
+trailandtales_delight:lantern_fruit_crate
+trailandtales_delight:lantern_fruit_seeds
+trailandtales_delight:mud_stove
+trailandtales_delight:mud_stove_on
+trailandtales_delight:pitcher_plant
+trailandtales_delight:pitcher_plant_tea
+trailandtales_delight:pitcher_taro
+trailandtales_delight:pitcher_taro_crate
+trailandtales_delight:pottery_bowl
+trailandtales_delight:pottery_cooking_pot
+trailandtales_delight:sniffer_egg_soup
+trailandtales_delight:sniffer_egg_soup_block
+trailandtales_delight:sniffer_eggshell
+trailandtales_delight:sniffer_eggshell_knife
+trailandtales_delight:stuffed_sniffer_egg
+trailandtales_delight:stuffed_sniffer_egg_block
+trailandtales_delight:torchflower_tea
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+item/foods/berry.json :: { "values": [ "trailandtales_delight:lantern_fruit", "trailandtales_delight:golden_lantern_fruit" ]}
+item/tools/knife.json :: { "values": [ "trailandtales_delight:cherry_iron_knife", "trailandtales_delight:sniffer_eggshell_knife" ]}

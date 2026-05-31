@@ -1,0 +1,32 @@
+# Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5
+
+## mod metadata (id / version / deps)
+license = "Source code and binaries fall under LGPLv3 while textures and models are Copyright 2022-present chaottic. All Rights Reserved"
+modId = "enhancedcelestials"
+version = "6.0.2.5" #mandatory
+displayName = "Enhanced Celestials" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.0,)"
+modId = "corgilib"
+versionRange = "[5.0.0.5,)"
+modId = "dataanchor"
+versionRange = "[2.0.0.3,)"
+
+## blocks
+enhancedcelestials:meteor
+enhancedcelestials:space_moss_block
+enhancedcelestials:space_moss_carpet
+enhancedcelestials:space_moss_grass
+
+## items
+enhancedcelestials:meteor
+enhancedcelestials:space_moss_block
+enhancedcelestials:space_moss_bug_spawn_egg
+enhancedcelestials:space_moss_carpet
+enhancedcelestials:space_moss_grass
+
+## neoforge biome_modifiers
+
+## c: common tag membership

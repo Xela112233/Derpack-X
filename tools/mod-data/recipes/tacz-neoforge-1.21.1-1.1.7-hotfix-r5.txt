@@ -1,0 +1,11 @@
+tacz:ammo_workbench | minecraft:crafting_shaped | c:ingots/copper c:ingots/iron minecraft:crafting_shaped tacz:ammo_box tacz:workbench_a
+tacz:attachment_workbench | minecraft:crafting_shaped | c:glass_blocks c:ingots/iron minecraft:chest minecraft:crafting_shaped minecraft:redstone_torch tacz:workbench_c
+tacz:diamond_ammo_box | minecraft:crafting_shaped | c:gems/diamond minecraft:crafting_shaped minecraft:planks tacz:ammo_box
+tacz:gold_ammo_box | minecraft:crafting_shaped | c:ingots/gold minecraft:crafting_shaped minecraft:planks tacz:ammo_box
+tacz:gun_smith_table | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:iron_block minecraft:logs tacz:gun_smith_table
+tacz:gunpowder | minecraft:crafting_shapeless | minecraft:charcoal minecraft:crafting_shapeless minecraft:flint minecraft:gunpowder minecraft:sugar
+tacz:iron_ammo_box | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:planks tacz:ammo_box
+tacz:misc/blood_strike_1 | tacz:gun_smith_table_crafting | c:rods/wooden minecraft:painting minecraft:wool tacz:blood_strike_1 tacz:gun_smith_table_crafting tacz:misc
+tacz:statue | minecraft:crafting_shaped | minecraft:chiseled_quartz_block minecraft:crafting_shaped minecraft:quartz_slab minecraft:quartz_stairs tacz:statue
+tacz:target | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:planks minecraft:redstone tacz:target
+tacz:target_minecart | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:minecart tacz:target tacz:target_minecart

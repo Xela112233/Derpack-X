@@ -1,0 +1,152 @@
+create:crushing/ochrum | create:crushing | create:crushed_raw_gold create:crushing create:ochrum createaddition:electrum_nugget minecraft:gold_nugget
+create:crushing/tuff | create:crushing | create:copper_nugget create:crushing create:zinc_nugget createaddition:electrum_nugget minecraft:flint minecraft:gold_nugget minecraft:iron_nugget minecraft:tuff
+create:rolling/bamboo | createaddition:rolling | createaddition:rolling createaddition:straw minecraft:bamboo
+create:rolling/paper | createaddition:rolling | createaddition:rolling createaddition:straw minecraft:paper
+createaddition:charging/channeling | createaddition:charging | createaddition:charging minecraft:book minecraft:enchanted_book
+createaddition:charging/deoxidize_create_exposed_copper_shingle_slab | createaddition:charging | create:copper_shingle_slab create:exposed_copper_shingle_slab createaddition:charging
+createaddition:charging/deoxidize_create_exposed_copper_shingle_stairs | createaddition:charging | create:copper_shingle_stairs create:exposed_copper_shingle_stairs createaddition:charging
+createaddition:charging/deoxidize_create_exposed_copper_shingles | createaddition:charging | create:copper_shingles create:exposed_copper_shingles createaddition:charging
+createaddition:charging/deoxidize_create_exposed_copper_tile_slab | createaddition:charging | create:copper_tile_slab create:exposed_copper_tile_slab createaddition:charging
+createaddition:charging/deoxidize_create_exposed_copper_tile_stairs | createaddition:charging | create:copper_tile_stairs create:exposed_copper_tile_stairs createaddition:charging
+createaddition:charging/deoxidize_create_exposed_copper_tiles | createaddition:charging | create:copper_tiles create:exposed_copper_tiles createaddition:charging
+createaddition:charging/deoxidize_create_oxidized_copper_shingle_slab | createaddition:charging | create:oxidized_copper_shingle_slab create:weathered_copper_shingle_slab createaddition:charging
+createaddition:charging/deoxidize_create_oxidized_copper_shingle_stairs | createaddition:charging | create:oxidized_copper_shingle_stairs create:weathered_copper_shingle_stairs createaddition:charging
+createaddition:charging/deoxidize_create_oxidized_copper_shingles | createaddition:charging | create:oxidized_copper_shingles create:weathered_copper_shingles createaddition:charging
+createaddition:charging/deoxidize_create_oxidized_copper_tile_slab | createaddition:charging | create:oxidized_copper_tile_slab create:weathered_copper_tile_slab createaddition:charging
+createaddition:charging/deoxidize_create_oxidized_copper_tile_stairs | createaddition:charging | create:oxidized_copper_tile_stairs create:weathered_copper_tile_stairs createaddition:charging
+createaddition:charging/deoxidize_create_oxidized_copper_tiles | createaddition:charging | create:oxidized_copper_tiles create:weathered_copper_tiles createaddition:charging
+createaddition:charging/deoxidize_create_weathered_copper_shingle_slab | createaddition:charging | create:exposed_copper_shingle_slab create:weathered_copper_shingle_slab createaddition:charging
+createaddition:charging/deoxidize_create_weathered_copper_shingle_stairs | createaddition:charging | create:exposed_copper_shingle_stairs create:weathered_copper_shingle_stairs createaddition:charging
+createaddition:charging/deoxidize_create_weathered_copper_shingles | createaddition:charging | create:exposed_copper_shingles create:weathered_copper_shingles createaddition:charging
+createaddition:charging/deoxidize_create_weathered_copper_tile_slab | createaddition:charging | create:exposed_copper_tile_slab create:weathered_copper_tile_slab createaddition:charging
+createaddition:charging/deoxidize_create_weathered_copper_tile_stairs | createaddition:charging | create:exposed_copper_tile_stairs create:weathered_copper_tile_stairs createaddition:charging
+createaddition:charging/deoxidize_create_weathered_copper_tiles | createaddition:charging | create:exposed_copper_tiles create:weathered_copper_tiles createaddition:charging
+createaddition:charging/deoxidize_minecraft_exposed_chiseled_copper | createaddition:charging | createaddition:charging minecraft:chiseled_copper minecraft:exposed_chiseled_copper
+createaddition:charging/deoxidize_minecraft_exposed_copper | createaddition:charging | createaddition:charging minecraft:copper_block minecraft:exposed_copper
+createaddition:charging/deoxidize_minecraft_exposed_copper_bulb | createaddition:charging | createaddition:charging minecraft:copper_bulb minecraft:exposed_copper_bulb
+createaddition:charging/deoxidize_minecraft_exposed_copper_door | createaddition:charging | createaddition:charging minecraft:copper_door minecraft:exposed_copper_door
+createaddition:charging/deoxidize_minecraft_exposed_copper_grate | createaddition:charging | createaddition:charging minecraft:copper_grate minecraft:exposed_copper_grate
+createaddition:charging/deoxidize_minecraft_exposed_copper_trapdoor | createaddition:charging | createaddition:charging minecraft:copper_trapdoor minecraft:exposed_copper_trapdoor
+createaddition:charging/deoxidize_minecraft_exposed_cut_copper | createaddition:charging | createaddition:charging minecraft:cut_copper minecraft:exposed_cut_copper
+createaddition:charging/deoxidize_minecraft_exposed_cut_copper_slab | createaddition:charging | createaddition:charging minecraft:cut_copper_slab minecraft:exposed_cut_copper_slab
+createaddition:charging/deoxidize_minecraft_exposed_cut_copper_stairs | createaddition:charging | createaddition:charging minecraft:cut_copper_stairs minecraft:exposed_cut_copper_stairs
+createaddition:charging/deoxidize_minecraft_oxidized_chiseled_copper | createaddition:charging | createaddition:charging minecraft:oxidized_chiseled_copper minecraft:weathered_chiseled_copper
+createaddition:charging/deoxidize_minecraft_oxidized_copper | createaddition:charging | createaddition:charging minecraft:oxidized_copper minecraft:weathered_copper
+createaddition:charging/deoxidize_minecraft_oxidized_copper_bulb | createaddition:charging | createaddition:charging minecraft:oxidized_copper_bulb minecraft:weathered_copper_bulb
+createaddition:charging/deoxidize_minecraft_oxidized_copper_door | createaddition:charging | createaddition:charging minecraft:oxidized_copper_door minecraft:weathered_copper_door
+createaddition:charging/deoxidize_minecraft_oxidized_copper_grate | createaddition:charging | createaddition:charging minecraft:oxidized_copper_grate minecraft:weathered_copper_grate
+createaddition:charging/deoxidize_minecraft_oxidized_copper_trapdoor | createaddition:charging | createaddition:charging minecraft:oxidized_copper_trapdoor minecraft:weathered_copper_trapdoor
+createaddition:charging/deoxidize_minecraft_oxidized_cut_copper | createaddition:charging | createaddition:charging minecraft:oxidized_cut_copper minecraft:weathered_cut_copper
+createaddition:charging/deoxidize_minecraft_oxidized_cut_copper_slab | createaddition:charging | createaddition:charging minecraft:oxidized_cut_copper_slab minecraft:weathered_cut_copper_slab
+createaddition:charging/deoxidize_minecraft_oxidized_cut_copper_stairs | createaddition:charging | createaddition:charging minecraft:oxidized_cut_copper_stairs minecraft:weathered_cut_copper_stairs
+createaddition:charging/deoxidize_minecraft_weathered_chiseled_copper | createaddition:charging | createaddition:charging minecraft:exposed_chiseled_copper minecraft:weathered_chiseled_copper
+createaddition:charging/deoxidize_minecraft_weathered_copper | createaddition:charging | createaddition:charging minecraft:exposed_copper minecraft:weathered_copper
+createaddition:charging/deoxidize_minecraft_weathered_copper_bulb | createaddition:charging | createaddition:charging minecraft:exposed_copper_bulb minecraft:weathered_copper_bulb
+createaddition:charging/deoxidize_minecraft_weathered_copper_door | createaddition:charging | createaddition:charging minecraft:exposed_copper_door minecraft:weathered_copper_door
+createaddition:charging/deoxidize_minecraft_weathered_copper_grate | createaddition:charging | createaddition:charging minecraft:exposed_copper_grate minecraft:weathered_copper_grate
+createaddition:charging/deoxidize_minecraft_weathered_copper_trapdoor | createaddition:charging | createaddition:charging minecraft:exposed_copper_trapdoor minecraft:weathered_copper_trapdoor
+createaddition:charging/deoxidize_minecraft_weathered_cut_copper | createaddition:charging | createaddition:charging minecraft:exposed_cut_copper minecraft:weathered_cut_copper
+createaddition:charging/deoxidize_minecraft_weathered_cut_copper_slab | createaddition:charging | createaddition:charging minecraft:exposed_cut_copper_slab minecraft:weathered_cut_copper_slab
+createaddition:charging/deoxidize_minecraft_weathered_cut_copper_stairs | createaddition:charging | createaddition:charging minecraft:exposed_cut_copper_stairs minecraft:weathered_cut_copper_stairs
+createaddition:charging/electrify_gold_block | createaddition:charging | createaddition:charging createaddition:electrum_block minecraft:gold_block
+createaddition:charging/electrify_gold_ingot | createaddition:charging | createaddition:charging createaddition:electrum_ingot minecraft:gold_ingot
+createaddition:charging/electrify_gold_nugget | createaddition:charging | createaddition:charging createaddition:electrum_nugget minecraft:gold_nugget
+createaddition:charging/electrify_gold_rod | createaddition:charging | createaddition:charging createaddition:electrum_rod createaddition:gold_rod
+createaddition:charging/electrify_gold_sheet | createaddition:charging | create:golden_sheet createaddition:charging createaddition:electrum_sheet
+createaddition:charging/electrify_gold_wire | createaddition:charging | createaddition:charging createaddition:electrum_wire createaddition:gold_wire
+createaddition:compacting/biomass_pellet | create:compacting | create:compacting createaddition:biomass createaddition:biomass_pellet minecraft:water
+createaddition:compacting/cake_base | create:compacting | c:eggs create:compacting create:dough createaddition:cake_base minecraft:sugar
+createaddition:compacting/seed_oil | create:compacting | c:seeds create:compacting createaddition:seed_oil
+createaddition:compat/ae2/charged_certus_quartz | createaddition:charging | ae2:certus_quartz_crystal ae2:charged_certus_quartz_crystal createaddition:charging neoforge:mod_loaded
+createaddition:compat/immersiveengineering/constantan | create:mixing | c:ingots/copper c:ingots/nickel create:mixing immersiveengineering:ingot_constantan neoforge:mod_loaded
+createaddition:compat/immersiveengineering/crushing/steel_ingot | create:crushing | c:ingots/steel create:crushing immersiveengineering:dust_steel neoforge:mod_loaded
+createaddition:compat/immersiveengineering/fabric_sail | minecraft:crafting_shaped | c:fabric_hemp c:rods/wooden create:andesite_alloy create:white_sail minecraft:crafting_shaped neoforge:mod_loaded
+createaddition:compat/immersiveengineering/item_application/kiln_brick | create:item_application | c:sandstone/blocks create:item_application immersiveengineering:alloybrick minecraft:brick neoforge:mod_loaded
+createaddition:compat/immersiveengineering/item_application/leaded_concrete | create:item_application | c:plates/lead create:item_application immersiveengineering:concrete immersiveengineering:concrete_leaded neoforge:mod_loaded
+createaddition:compat/immersiveengineering/item_application/reinforced_blast_brick | create:item_application | c:plates/steel create:item_application immersiveengineering:blastbrick immersiveengineering:blastbrick_reinforced neoforge:mod_loaded
+createaddition:compat/immersiveengineering/rolling/aluminum_ingot | createaddition:rolling | c:ingots/aluminum createaddition:rolling immersiveengineering:stick_aluminum neoforge:mod_loaded
+createaddition:compat/immersiveengineering/rolling/aluminum_plate | createaddition:rolling | c:plates/aluminum createaddition:rolling immersiveengineering:wire_aluminum neoforge:mod_loaded
+createaddition:compat/immersiveengineering/rolling/lead_plate | createaddition:rolling | c:plates/lead createaddition:rolling immersiveengineering:wire_lead neoforge:mod_loaded
+createaddition:compat/immersiveengineering/rolling/steel_ingot | createaddition:rolling | c:ingots/steel createaddition:rolling immersiveengineering:stick_steel neoforge:mod_loaded
+createaddition:compat/immersiveengineering/rolling/steel_plate | createaddition:rolling | c:plates/steel createaddition:rolling immersiveengineering:wire_steel neoforge:mod_loaded
+createaddition:compat/immersiveengineering/sphalerite | immersiveengineering:mineral_mix | c:dusts/sulfur c:ores/iron c:ores/zinc immersiveengineering:mineral_mix minecraft:cobbled_deepslate minecraft:cobblestone minecraft:gravel minecraft:is_overworld neoforge:mod_loaded
+createaddition:compat/jeed/shocking | jeed:effect_provider | createaddition:shocking createaddition:tesla_coil jeed:effect_provider neoforge:mod_loaded
+createaddition:compat/mekanism/rose_quartz_enriching | mekanism:enriching | create:polished_rose_quartz create:rose_quartz mekanism:enriching neoforge:mod_loaded
+createaddition:compat/mekanism/rose_quartz_metallurgic_infusing | mekanism:metallurgic_infusing | c:gems/quartz create:rose_quartz mekanism:metallurgic_infusing mekanism:redstone neoforge:mod_loaded
+createaddition:compat/tconstruct/amethyst_bronze | create:mixing | c:ingots/copper create:mixing minecraft:amethyst_shard neoforge:mod_loaded tconstruct:amethyst_bronze_ingot
+createaddition:compat/tconstruct/blaze_blood | createaddition:liquid_burning | createaddition:liquid_burning neoforge:mod_loaded tconstruct:blazing_blood
+createaddition:compat/tconstruct/hepatizon | create:mixing | c:ingots/cobalt c:ingots/copper c:obsidians create:mixing neoforge:mod_loaded tconstruct:hepatizon_ingot
+createaddition:compat/tconstruct/manyullyn | create:mixing | c:ingots/cobalt c:ingots/netherite_scrap create:mixing neoforge:mod_loaded tconstruct:manyullyn_ingot
+createaddition:compat/tconstruct/queens_slime | create:mixing | c:ingots/cobalt c:ingots/gold create:mixing minecraft:magma_cream neoforge:mod_loaded tconstruct:queens_slime_ingot
+createaddition:compat/tconstruct/rose_gold | create:mixing | c:ingots/copper c:ingots/gold create:mixing neoforge:mod_loaded tconstruct:rose_gold_ingot
+createaddition:compat/tconstruct/slimesteel | create:mixing | c:ingots/iron c:slimeball/sky create:mixing neoforge:mod_loaded tconstruct:seared_blocks tconstruct:slimesteel_ingot
+createaddition:compat/tconstruct/tinkers_bronze | create:mixing | c:glass_blocks c:ingots/copper create:mixing neoforge:mod_loaded tconstruct:tinkers_bronze_ingot
+createaddition:compat/thermal/liquid_burning/heavy_oil | createaddition:liquid_burning | createaddition:liquid_burning neoforge:mod_loaded thermal:heavy_oil
+createaddition:compat/thermal/liquid_burning/light_oil | createaddition:liquid_burning | createaddition:liquid_burning neoforge:mod_loaded thermal:light_oil
+createaddition:compat/thermal/liquid_burning/refined_fuel | createaddition:liquid_burning | createaddition:liquid_burning neoforge:mod_loaded thermal:refined_fuel
+createaddition:compat/thermal/liquid_burning/tree_oil | createaddition:liquid_burning | createaddition:liquid_burning neoforge:mod_loaded thermal:tree_oil
+createaddition:crafting/barbed_wire | minecraft:crafting_shaped | c:wires/iron createaddition:barbed_wire minecraft:crafting_shaped
+createaddition:crafting/biomass_pallet_block | minecraft:crafting_shaped | createaddition:biomass_pellet createaddition:biomass_pellet_block minecraft:crafting_shaped
+createaddition:crafting/biomass_pellet_from_biomass_pallet_block | minecraft:crafting_shapeless | createaddition:biomass_pellet createaddition:biomass_pellet_block minecraft:crafting_shapeless
+createaddition:crafting/capacitor_1 | minecraft:crafting_shaped | c:plates/copper c:plates/zinc createaddition:capacitor minecraft:crafting_shaped minecraft:redstone_torch
+createaddition:crafting/capacitor_2 | minecraft:crafting_shaped | c:plates/copper c:plates/zinc createaddition:capacitor minecraft:crafting_shaped minecraft:redstone_torch
+createaddition:crafting/connector | minecraft:crafting_shapeless | c:rods/copper c:slime_balls create:andesite_alloy createaddition:connector minecraft:crafting_shapeless
+createaddition:crafting/copper_spool | minecraft:crafting_shaped | c:wires/copper createaddition:copper_spool createaddition:spool minecraft:crafting_shaped
+createaddition:crafting/diamond_grit_sandpaper | minecraft:crafting_shapeless | c:dusts/diamond createaddition:diamond_grit_sandpaper minecraft:crafting_shapeless minecraft:paper
+createaddition:crafting/digital_adapter | minecraft:crafting_shapeless | c:plates/brass computercraft:wired_modem createaddition:digital_adapter minecraft:crafting_shapeless minecraft:redstone_torch neoforge:mod_loaded
+createaddition:crafting/electrum_amulet | minecraft:crafting_shaped | c:gems/emerald c:ingots/electrum c:wires/electrum createaddition:electrum_amulet minecraft:crafting_shaped
+createaddition:crafting/electrum_block | minecraft:crafting_shaped | createaddition:electrum_block createaddition:electrum_ingot minecraft:crafting_shaped
+createaddition:crafting/electrum_ingot_from_electrum_block | minecraft:crafting_shapeless | createaddition:electrum_block createaddition:electrum_ingot minecraft:crafting_shapeless
+createaddition:crafting/electrum_ingot_from_nugget | minecraft:crafting_shaped | createaddition:electrum_ingot createaddition:electrum_nugget minecraft:crafting_shaped
+createaddition:crafting/electrum_nugget | minecraft:crafting_shapeless | createaddition:electrum_ingot createaddition:electrum_nugget minecraft:crafting_shapeless
+createaddition:crafting/electrum_spool | minecraft:crafting_shaped | c:wires/electrum createaddition:electrum_spool createaddition:spool minecraft:crafting_shaped
+createaddition:crafting/festive_spool | minecraft:crafting_shapeless | c:dusts/redstone createaddition:biomass createaddition:copper_spool createaddition:festive_spool minecraft:crafting_shapeless
+createaddition:crafting/gold_spool | minecraft:crafting_shaped | c:wires/gold createaddition:gold_spool createaddition:spool minecraft:crafting_shaped
+createaddition:crafting/large_connector | minecraft:crafting_shapeless | c:slime_balls create:andesite_alloy createaddition:large_connector createaddition:large_connector_usable_rods minecraft:crafting_shapeless
+createaddition:crafting/modular_accumulator | minecraft:crafting_shaped | c:rods/copper c:wires/electrum create:brass_casing createaddition:capacitor createaddition:modular_accumulator minecraft:crafting_shaped
+createaddition:crafting/portable_energy_interface | minecraft:crafting_shapeless | create:brass_casing create:chute createaddition:copper_spool createaddition:portable_energy_interface minecraft:crafting_shapeless
+createaddition:crafting/redstone_relay | minecraft:crafting_shaped | c:dusts/redstone c:stones create:electron_tube createaddition:connector createaddition:redstone_relay minecraft:crafting_shaped
+createaddition:crafting/rolling_mill | minecraft:crafting_shaped | c:plates/iron create:andesite_alloy create:andesite_casing create:shaft createaddition:rolling_mill minecraft:crafting_shaped
+createaddition:crafting/small_light_connector | minecraft:crafting_shapeless | c:glass_blocks c:wires/iron createaddition:connector createaddition:small_light_connector minecraft:crafting_shapeless
+createaddition:crafting/spool | minecraft:crafting_shaped | c:nuggets/iron c:plates/iron createaddition:spool minecraft:crafting_shaped
+createaddition:crushing/diamond | create:crushing | c:dusts/diamond create:crushing createaddition:diamond_grit minecraft:diamond neoforge:not neoforge:tag_empty
+createaddition:crushing/ochrum_recycling | create:crushing | create:crushed_raw_gold create:crushing create:stone_types/ochrum createaddition:electrum_nugget minecraft:gold_nugget
+createaddition:crushing/tuff_recycling | create:crushing | create:copper_nugget create:crushing create:stone_types/tuff create:zinc_nugget createaddition:electrum_nugget minecraft:flint minecraft:gold_nugget minecraft:iron_nugget
+createaddition:filling/cake | create:filling | c:milk create:filling createaddition:cake_base_baked minecraft:cake
+createaddition:filling/chocolate_cake | create:filling | create:chocolate create:filling createaddition:cake_base_baked createaddition:chocolate_cake
+createaddition:filling/honey_cake | create:filling | c:honey create:filling createaddition:cake_base_baked createaddition:honey_cake
+createaddition:liquid_burning/biodiesel | createaddition:liquid_burning | c:biodiesel createaddition:has_fluid_tag createaddition:liquid_burning
+createaddition:liquid_burning/biofuel | createaddition:liquid_burning | c:biofuel createaddition:liquid_burning
+createaddition:liquid_burning/creosote | createaddition:liquid_burning | c:creosote createaddition:has_fluid_tag createaddition:liquid_burning
+createaddition:liquid_burning/crude_oil | createaddition:liquid_burning | c:crude_oil createaddition:has_fluid_tag createaddition:liquid_burning
+createaddition:liquid_burning/diesel | createaddition:liquid_burning | c:diesel createaddition:has_fluid_tag createaddition:liquid_burning
+createaddition:liquid_burning/ethanol | createaddition:liquid_burning | c:ethanol createaddition:has_fluid_tag createaddition:liquid_burning
+createaddition:liquid_burning/gasoline | createaddition:liquid_burning | c:gasoline createaddition:has_fluid_tag createaddition:liquid_burning
+createaddition:liquid_burning/lava | createaddition:liquid_burning | createaddition:liquid_burning minecraft:lava
+createaddition:liquid_burning/plantoil | createaddition:liquid_burning | c:plantoil createaddition:liquid_burning
+createaddition:mechanical_crafting/alternator | create:mechanical_crafting | c:plates/iron c:rods/iron create:andesite_alloy create:mechanical_crafting createaddition:alternator createaddition:capacitor createaddition:copper_spool
+createaddition:mechanical_crafting/electric_motor | create:mechanical_crafting | c:plates/brass c:rods/iron create:andesite_alloy create:mechanical_crafting createaddition:capacitor createaddition:copper_spool createaddition:electric_motor
+createaddition:mechanical_crafting/tesla_coil | create:mechanical_crafting | c:plates/brass create:andesite_alloy create:brass_casing create:electron_tube create:mechanical_crafting createaddition:capacitor createaddition:copper_spool createaddition:tesla_coil
+createaddition:mixing/bioethanol | create:mixing | create:cinder_flour create:mixing createaddition:bioethanol createaddition:biomass minecraft:sugar
+createaddition:mixing/biomass_from_crops | create:mixing | c:crops c:plantoil create:mixing createaddition:biomass
+createaddition:mixing/biomass_from_flowers | create:mixing | c:plantoil create:mixing createaddition:biomass minecraft:flowers
+createaddition:mixing/biomass_from_honeycomb | create:mixing | c:plantoil create:mixing createaddition:biomass minecraft:honeycomb
+createaddition:mixing/biomass_from_leaves | create:mixing | c:plantoil create:mixing createaddition:biomass minecraft:leaves
+createaddition:mixing/biomass_from_plant_foods | create:mixing | c:plantoil create:mixing createaddition:biomass createaddition:plant_foods
+createaddition:mixing/biomass_from_plants | create:mixing | c:plantoil create:mixing createaddition:biomass createaddition:plants
+createaddition:mixing/biomass_from_saplings | create:mixing | c:plantoil create:mixing createaddition:biomass minecraft:saplings
+createaddition:mixing/biomass_from_stricks | create:mixing | c:plantoil create:mixing createaddition:biomass minecraft:stick
+createaddition:mixing/electrum | create:mixing | c:ingots/gold c:ingots/silver create:mixing createaddition:electrum_ingot neoforge:not neoforge:tag_empty
+createaddition:mixing/netherrack | create:mixing | c:cobblestones create:cinder_flour create:mixing minecraft:lava minecraft:netherrack
+createaddition:pressing/electrum_ingot | create:pressing | c:ingots/electrum create:pressing createaddition:electrum_sheet
+createaddition:pressing/zinc_ingot | create:pressing | c:ingots/zinc create:pressing createaddition:zinc_sheet
+createaddition:rolling/brass_rod | createaddition:rolling | c:ingots/brass createaddition:brass_rod createaddition:rolling
+createaddition:rolling/copper_ingot | createaddition:rolling | c:ingots/copper createaddition:copper_rod createaddition:rolling
+createaddition:rolling/copper_plate | createaddition:rolling | c:plates/copper createaddition:copper_wire createaddition:rolling
+createaddition:rolling/electrum_ingot | createaddition:rolling | c:ingots/electrum createaddition:electrum_rod createaddition:rolling
+createaddition:rolling/electrum_plate | createaddition:rolling | c:plates/electrum createaddition:electrum_wire createaddition:rolling
+createaddition:rolling/gold_ingot | createaddition:rolling | c:ingots/gold createaddition:gold_rod createaddition:rolling
+createaddition:rolling/gold_plate | createaddition:rolling | c:plates/gold createaddition:gold_wire createaddition:rolling
+createaddition:rolling/iron_ingot | createaddition:rolling | c:ingots/iron createaddition:iron_rod createaddition:rolling
+createaddition:rolling/iron_plate | createaddition:rolling | c:plates/iron createaddition:iron_wire createaddition:rolling
+createaddition:smoking/cake_base_baked | minecraft:smoking | createaddition:cake_base createaddition:cake_base_baked minecraft:smoking

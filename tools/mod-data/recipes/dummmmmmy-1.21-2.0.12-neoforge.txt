@@ -1,0 +1,1 @@
+dummmmmmy:dummy_crafting | minecraft:crafting_shaped | dummmmmmy:target_dummy minecraft:armor_stand minecraft:crafting_shaped minecraft:hay_block

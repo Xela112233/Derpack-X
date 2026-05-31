@@ -1,0 +1,19 @@
+# chefsdelight-1.0.5-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="chefsdelight" #mandatory
+version="1.0.5" #mandatory
+displayName="Chefs Delight" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.1.4,)" #mandatory
+modId="minecraft"
+versionRange="[1.21,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

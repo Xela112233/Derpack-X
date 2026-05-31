@@ -1,0 +1,607 @@
+mcwroofs:acacia_attic_roof | minecraft:crafting_shaped | mcwroofs:acacia_attic_roof minecraft:acacia_log minecraft:crafting_shaped minecraft:glass
+mcwroofs:acacia_lower_roof | minecraft:crafting_shaped | mcwroofs:acacia_lower_roof minecraft:acacia_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:acacia_planks_attic_roof | minecraft:crafting_shaped | mcwroofs:acacia_planks_attic_roof minecraft:acacia_planks minecraft:crafting_shaped minecraft:glass
+mcwroofs:acacia_planks_lower_roof | minecraft:crafting_shaped | mcwroofs:acacia_planks_lower_roof minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:acacia_planks_roof | minecraft:crafting_shaped | mcwroofs:acacia_planks_roof minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:acacia_planks_steep_roof | minecraft:crafting_shaped | mcwroofs:acacia_planks_steep_roof minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:acacia_planks_top_roof | minecraft:crafting_shaped | mcwroofs:acacia_planks_top_roof minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:acacia_planks_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:acacia_planks_upper_lower_roof minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:acacia_planks_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:acacia_planks_upper_steep_roof minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:acacia_roof | minecraft:crafting_shaped | mcwroofs:acacia_roof minecraft:acacia_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:acacia_steep_roof | minecraft:crafting_shaped | mcwroofs:acacia_steep_roof minecraft:acacia_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:acacia_top_roof | minecraft:crafting_shaped | mcwroofs:acacia_top_roof minecraft:acacia_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:acacia_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:acacia_upper_lower_roof minecraft:acacia_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:acacia_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:acacia_upper_steep_roof minecraft:acacia_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:andesite_attic_roof | minecraft:stonecutting | mcwroofs:andesite_attic_roof minecraft:andesite minecraft:stonecutting
+mcwroofs:andesite_lower_roof | minecraft:stonecutting | mcwroofs:andesite_lower_roof minecraft:andesite minecraft:stonecutting
+mcwroofs:andesite_roof | minecraft:stonecutting | mcwroofs:andesite_roof minecraft:andesite minecraft:stonecutting
+mcwroofs:andesite_steep_roof | minecraft:stonecutting | mcwroofs:andesite_steep_roof minecraft:andesite minecraft:stonecutting
+mcwroofs:andesite_top_roof | minecraft:stonecutting | mcwroofs:andesite_top_roof minecraft:andesite minecraft:stonecutting
+mcwroofs:andesite_upper_lower_roof | minecraft:stonecutting | mcwroofs:andesite_upper_lower_roof minecraft:andesite minecraft:stonecutting
+mcwroofs:andesite_upper_steep_roof | minecraft:stonecutting | mcwroofs:andesite_upper_steep_roof minecraft:andesite minecraft:stonecutting
+mcwroofs:bamboo_attic_roof | minecraft:crafting_shaped | mcwroofs:bamboo_attic_roof minecraft:bamboo_block minecraft:crafting_shaped minecraft:glass
+mcwroofs:bamboo_lower_roof | minecraft:crafting_shaped | mcwroofs:bamboo_lower_roof minecraft:bamboo_block minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_mosaic_attic_roof | minecraft:crafting_shaped | mcwroofs:bamboo_mosaic_attic_roof minecraft:bamboo_mosaic minecraft:crafting_shaped minecraft:glass
+mcwroofs:bamboo_mosaic_lower_roof | minecraft:crafting_shaped | mcwroofs:bamboo_mosaic_lower_roof minecraft:bamboo_mosaic minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_mosaic_roof | minecraft:crafting_shaped | mcwroofs:bamboo_mosaic_roof minecraft:bamboo_mosaic minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_mosaic_steep_roof | minecraft:crafting_shaped | mcwroofs:bamboo_mosaic_steep_roof minecraft:bamboo_mosaic minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_mosaic_top_roof | minecraft:crafting_shaped | mcwroofs:bamboo_mosaic_top_roof minecraft:bamboo_mosaic minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_mosaic_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:bamboo_mosaic_upper_lower_roof minecraft:bamboo_mosaic minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_mosaic_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:bamboo_mosaic_upper_steep_roof minecraft:bamboo_mosaic minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_planks_attic_roof | minecraft:crafting_shaped | mcwroofs:bamboo_planks_attic_roof minecraft:bamboo_planks minecraft:crafting_shaped minecraft:glass
+mcwroofs:bamboo_planks_lower_roof | minecraft:crafting_shaped | mcwroofs:bamboo_planks_lower_roof minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_planks_roof | minecraft:crafting_shaped | mcwroofs:bamboo_planks_roof minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_planks_steep_roof | minecraft:crafting_shaped | mcwroofs:bamboo_planks_steep_roof minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_planks_top_roof | minecraft:crafting_shaped | mcwroofs:bamboo_planks_top_roof minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_planks_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:bamboo_planks_upper_lower_roof minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_planks_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:bamboo_planks_upper_steep_roof minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_roof | minecraft:crafting_shaped | mcwroofs:bamboo_roof minecraft:bamboo_block minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_steep_roof | minecraft:crafting_shaped | mcwroofs:bamboo_steep_roof minecraft:bamboo_block minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_top_roof | minecraft:crafting_shaped | mcwroofs:bamboo_top_roof minecraft:bamboo_block minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:bamboo_upper_lower_roof minecraft:bamboo_block minecraft:crafting_shaped minecraft:stick
+mcwroofs:bamboo_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:bamboo_upper_steep_roof minecraft:bamboo_block minecraft:crafting_shaped minecraft:stick
+mcwroofs:base_attic_roof | minecraft:stonecutting | mcwroofs:base_attic_roof minecraft:stonecutting minecraft:terracotta
+mcwroofs:base_lower_roof | minecraft:stonecutting | mcwroofs:base_lower_roof minecraft:stonecutting minecraft:terracotta
+mcwroofs:base_roof | minecraft:stonecutting | mcwroofs:base_roof minecraft:stonecutting minecraft:terracotta
+mcwroofs:base_roof_block | minecraft:stonecutting | mcwroofs:base_roof_block minecraft:stonecutting minecraft:terracotta
+mcwroofs:base_roof_slab | minecraft:stonecutting | mcwroofs:base_roof_slab minecraft:stonecutting minecraft:terracotta
+mcwroofs:base_steep_roof | minecraft:stonecutting | mcwroofs:base_steep_roof minecraft:stonecutting minecraft:terracotta
+mcwroofs:base_top_roof | minecraft:stonecutting | mcwroofs:base_top_roof minecraft:stonecutting minecraft:terracotta
+mcwroofs:base_upper_lower_roof | minecraft:stonecutting | mcwroofs:base_upper_lower_roof minecraft:stonecutting minecraft:terracotta
+mcwroofs:base_upper_steep_roof | minecraft:stonecutting | mcwroofs:base_upper_steep_roof minecraft:stonecutting minecraft:terracotta
+mcwroofs:birch_attic_roof | minecraft:crafting_shaped | mcwroofs:birch_attic_roof minecraft:birch_log minecraft:crafting_shaped minecraft:glass
+mcwroofs:birch_lower_roof | minecraft:crafting_shaped | mcwroofs:birch_lower_roof minecraft:birch_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:birch_planks_attic_roof | minecraft:crafting_shaped | mcwroofs:birch_planks_attic_roof minecraft:birch_planks minecraft:crafting_shaped minecraft:glass
+mcwroofs:birch_planks_lower_roof | minecraft:crafting_shaped | mcwroofs:birch_planks_lower_roof minecraft:birch_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:birch_planks_roof | minecraft:crafting_shaped | mcwroofs:birch_planks_roof minecraft:birch_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:birch_planks_steep_roof | minecraft:crafting_shaped | mcwroofs:birch_planks_steep_roof minecraft:birch_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:birch_planks_top_roof | minecraft:crafting_shaped | mcwroofs:birch_planks_top_roof minecraft:birch_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:birch_planks_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:birch_planks_upper_lower_roof minecraft:birch_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:birch_planks_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:birch_planks_upper_steep_roof minecraft:birch_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:birch_roof | minecraft:crafting_shaped | mcwroofs:birch_roof minecraft:birch_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:birch_steep_roof | minecraft:crafting_shaped | mcwroofs:birch_steep_roof minecraft:birch_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:birch_top_roof | minecraft:crafting_shaped | mcwroofs:birch_top_roof minecraft:birch_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:birch_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:birch_upper_lower_roof minecraft:birch_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:birch_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:birch_upper_steep_roof minecraft:birch_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:black_attic_roof | minecraft:stonecutting | mcwroofs:black_attic_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_concrete_attic_roof | minecraft:stonecutting | mcwroofs:black_concrete_attic_roof minecraft:black_concrete minecraft:stonecutting
+mcwroofs:black_concrete_lower_roof | minecraft:stonecutting | mcwroofs:black_concrete_lower_roof minecraft:black_concrete minecraft:stonecutting
+mcwroofs:black_concrete_roof | minecraft:stonecutting | mcwroofs:black_concrete_roof minecraft:black_concrete minecraft:stonecutting
+mcwroofs:black_concrete_steep_roof | minecraft:stonecutting | mcwroofs:black_concrete_steep_roof minecraft:black_concrete minecraft:stonecutting
+mcwroofs:black_concrete_top_roof | minecraft:stonecutting | mcwroofs:black_concrete_top_roof minecraft:black_concrete minecraft:stonecutting
+mcwroofs:black_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:black_concrete_upper_lower_roof minecraft:black_concrete minecraft:stonecutting
+mcwroofs:black_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:black_concrete_upper_steep_roof minecraft:black_concrete minecraft:stonecutting
+mcwroofs:black_lower_roof | minecraft:stonecutting | mcwroofs:black_lower_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_roof | minecraft:stonecutting | mcwroofs:black_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_roof_block | minecraft:stonecutting | mcwroofs:black_roof_block minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_roof_slab | minecraft:stonecutting | mcwroofs:black_roof_slab minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_steep_roof | minecraft:stonecutting | mcwroofs:black_steep_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_striped_awning | minecraft:crafting_shaped | mcwroofs:black_striped_awning minecraft:black_carpet minecraft:crafting_shaped minecraft:white_carpet
+mcwroofs:black_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:black_terracotta_attic_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:black_terracotta_lower_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_terracotta_roof | minecraft:stonecutting | mcwroofs:black_terracotta_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:black_terracotta_steep_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_terracotta_top_roof | minecraft:stonecutting | mcwroofs:black_terracotta_top_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:black_terracotta_upper_lower_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:black_terracotta_upper_steep_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_top_roof | minecraft:stonecutting | mcwroofs:black_top_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_upper_lower_roof | minecraft:stonecutting | mcwroofs:black_upper_lower_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:black_upper_steep_roof | minecraft:stonecutting | mcwroofs:black_upper_steep_roof minecraft:black_terracotta minecraft:stonecutting
+mcwroofs:blackstone_attic_roof | minecraft:stonecutting | mcwroofs:blackstone_attic_roof minecraft:blackstone minecraft:stonecutting
+mcwroofs:blackstone_lower_roof | minecraft:stonecutting | mcwroofs:blackstone_lower_roof minecraft:blackstone minecraft:stonecutting
+mcwroofs:blackstone_roof | minecraft:stonecutting | mcwroofs:blackstone_roof minecraft:blackstone minecraft:stonecutting
+mcwroofs:blackstone_steep_roof | minecraft:stonecutting | mcwroofs:blackstone_steep_roof minecraft:blackstone minecraft:stonecutting
+mcwroofs:blackstone_top_roof | minecraft:stonecutting | mcwroofs:blackstone_top_roof minecraft:blackstone minecraft:stonecutting
+mcwroofs:blackstone_upper_lower_roof | minecraft:stonecutting | mcwroofs:blackstone_upper_lower_roof minecraft:blackstone minecraft:stonecutting
+mcwroofs:blackstone_upper_steep_roof | minecraft:stonecutting | mcwroofs:blackstone_upper_steep_roof minecraft:blackstone minecraft:stonecutting
+mcwroofs:blue_concrete_attic_roof | minecraft:stonecutting | mcwroofs:blue_concrete_attic_roof minecraft:blue_concrete minecraft:stonecutting
+mcwroofs:blue_concrete_lower_roof | minecraft:stonecutting | mcwroofs:blue_concrete_lower_roof minecraft:blue_concrete minecraft:stonecutting
+mcwroofs:blue_concrete_roof | minecraft:stonecutting | mcwroofs:blue_concrete_roof minecraft:blue_concrete minecraft:stonecutting
+mcwroofs:blue_concrete_steep_roof | minecraft:stonecutting | mcwroofs:blue_concrete_steep_roof minecraft:blue_concrete minecraft:stonecutting
+mcwroofs:blue_concrete_top_roof | minecraft:stonecutting | mcwroofs:blue_concrete_top_roof minecraft:blue_concrete minecraft:stonecutting
+mcwroofs:blue_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:blue_concrete_upper_lower_roof minecraft:blue_concrete minecraft:stonecutting
+mcwroofs:blue_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:blue_concrete_upper_steep_roof minecraft:blue_concrete minecraft:stonecutting
+mcwroofs:blue_striped_awning | minecraft:crafting_shaped | mcwroofs:blue_striped_awning minecraft:blue_carpet minecraft:crafting_shaped minecraft:white_carpet
+mcwroofs:blue_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:blue_terracotta_attic_roof minecraft:blue_terracotta minecraft:stonecutting
+mcwroofs:blue_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:blue_terracotta_lower_roof minecraft:blue_terracotta minecraft:stonecutting
+mcwroofs:blue_terracotta_roof | minecraft:stonecutting | mcwroofs:blue_terracotta_roof minecraft:blue_terracotta minecraft:stonecutting
+mcwroofs:blue_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:blue_terracotta_steep_roof minecraft:blue_terracotta minecraft:stonecutting
+mcwroofs:blue_terracotta_top_roof | minecraft:stonecutting | mcwroofs:blue_terracotta_top_roof minecraft:blue_terracotta minecraft:stonecutting
+mcwroofs:blue_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:blue_terracotta_upper_lower_roof minecraft:blue_terracotta minecraft:stonecutting
+mcwroofs:blue_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:blue_terracotta_upper_steep_roof minecraft:blue_terracotta minecraft:stonecutting
+mcwroofs:bricks_attic_roof | minecraft:stonecutting | mcwroofs:bricks_attic_roof minecraft:bricks minecraft:stonecutting
+mcwroofs:bricks_lower_roof | minecraft:stonecutting | mcwroofs:bricks_lower_roof minecraft:bricks minecraft:stonecutting
+mcwroofs:bricks_roof | minecraft:stonecutting | mcwroofs:bricks_roof minecraft:bricks minecraft:stonecutting
+mcwroofs:bricks_steep_roof | minecraft:stonecutting | mcwroofs:bricks_steep_roof minecraft:bricks minecraft:stonecutting
+mcwroofs:bricks_top_roof | minecraft:stonecutting | mcwroofs:bricks_top_roof minecraft:bricks minecraft:stonecutting
+mcwroofs:bricks_upper_lower_roof | minecraft:stonecutting | mcwroofs:bricks_upper_lower_roof minecraft:bricks minecraft:stonecutting
+mcwroofs:bricks_upper_steep_roof | minecraft:stonecutting | mcwroofs:bricks_upper_steep_roof minecraft:bricks minecraft:stonecutting
+mcwroofs:brown_concrete_attic_roof | minecraft:stonecutting | mcwroofs:brown_concrete_attic_roof minecraft:brown_concrete minecraft:stonecutting
+mcwroofs:brown_concrete_lower_roof | minecraft:stonecutting | mcwroofs:brown_concrete_lower_roof minecraft:brown_concrete minecraft:stonecutting
+mcwroofs:brown_concrete_roof | minecraft:stonecutting | mcwroofs:brown_concrete_roof minecraft:brown_concrete minecraft:stonecutting
+mcwroofs:brown_concrete_steep_roof | minecraft:stonecutting | mcwroofs:brown_concrete_steep_roof minecraft:brown_concrete minecraft:stonecutting
+mcwroofs:brown_concrete_top_roof | minecraft:stonecutting | mcwroofs:brown_concrete_top_roof minecraft:brown_concrete minecraft:stonecutting
+mcwroofs:brown_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:brown_concrete_upper_lower_roof minecraft:brown_concrete minecraft:stonecutting
+mcwroofs:brown_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:brown_concrete_upper_steep_roof minecraft:brown_concrete minecraft:stonecutting
+mcwroofs:brown_striped_awning | minecraft:crafting_shaped | mcwroofs:brown_striped_awning minecraft:brown_carpet minecraft:crafting_shaped minecraft:white_carpet
+mcwroofs:brown_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:brown_terracotta_attic_roof minecraft:brown_terracotta minecraft:stonecutting
+mcwroofs:brown_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:brown_terracotta_lower_roof minecraft:brown_terracotta minecraft:stonecutting
+mcwroofs:brown_terracotta_roof | minecraft:stonecutting | mcwroofs:brown_terracotta_roof minecraft:brown_terracotta minecraft:stonecutting
+mcwroofs:brown_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:brown_terracotta_steep_roof minecraft:brown_terracotta minecraft:stonecutting
+mcwroofs:brown_terracotta_top_roof | minecraft:stonecutting | mcwroofs:brown_terracotta_top_roof minecraft:brown_terracotta minecraft:stonecutting
+mcwroofs:brown_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:brown_terracotta_upper_lower_roof minecraft:brown_terracotta minecraft:stonecutting
+mcwroofs:brown_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:brown_terracotta_upper_steep_roof minecraft:brown_terracotta minecraft:stonecutting
+mcwroofs:cherry_attic_roof | minecraft:crafting_shaped | mcwroofs:cherry_attic_roof minecraft:cherry_log minecraft:crafting_shaped minecraft:glass
+mcwroofs:cherry_lower_roof | minecraft:crafting_shaped | mcwroofs:cherry_lower_roof minecraft:cherry_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:cherry_planks_attic_roof | minecraft:crafting_shaped | mcwroofs:cherry_planks_attic_roof minecraft:cherry_planks minecraft:crafting_shaped minecraft:glass
+mcwroofs:cherry_planks_lower_roof | minecraft:crafting_shaped | mcwroofs:cherry_planks_lower_roof minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:cherry_planks_roof | minecraft:crafting_shaped | mcwroofs:cherry_planks_roof minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:cherry_planks_steep_roof | minecraft:crafting_shaped | mcwroofs:cherry_planks_steep_roof minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:cherry_planks_top_roof | minecraft:crafting_shaped | mcwroofs:cherry_planks_top_roof minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:cherry_planks_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:cherry_planks_upper_lower_roof minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:cherry_planks_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:cherry_planks_upper_steep_roof minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick
+mcwroofs:cherry_roof | minecraft:crafting_shaped | mcwroofs:cherry_roof minecraft:cherry_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:cherry_steep_roof | minecraft:crafting_shaped | mcwroofs:cherry_steep_roof minecraft:cherry_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:cherry_top_roof | minecraft:crafting_shaped | mcwroofs:cherry_top_roof minecraft:cherry_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:cherry_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:cherry_upper_lower_roof minecraft:cherry_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:cherry_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:cherry_upper_steep_roof minecraft:cherry_log minecraft:crafting_shaped minecraft:stick
+mcwroofs:cobblestone_attic_roof | minecraft:stonecutting | mcwroofs:cobblestone_attic_roof minecraft:cobblestone minecraft:stonecutting
+mcwroofs:cobblestone_lower_roof | minecraft:stonecutting | mcwroofs:cobblestone_lower_roof minecraft:cobblestone minecraft:stonecutting
+mcwroofs:cobblestone_roof | minecraft:stonecutting | mcwroofs:cobblestone_roof minecraft:cobblestone minecraft:stonecutting
+mcwroofs:cobblestone_steep_roof | minecraft:stonecutting | mcwroofs:cobblestone_steep_roof minecraft:cobblestone minecraft:stonecutting
+mcwroofs:cobblestone_top_roof | minecraft:stonecutting | mcwroofs:cobblestone_top_roof minecraft:cobblestone minecraft:stonecutting
+mcwroofs:cobblestone_upper_lower_roof | minecraft:stonecutting | mcwroofs:cobblestone_upper_lower_roof minecraft:cobblestone minecraft:stonecutting
+mcwroofs:cobblestone_upper_steep_roof | minecraft:stonecutting | mcwroofs:cobblestone_upper_steep_roof minecraft:cobblestone minecraft:stonecutting
+mcwroofs:crimson_attic_roof | minecraft:crafting_shaped | mcwroofs:crimson_attic_roof minecraft:crafting_shaped minecraft:crimson_stem minecraft:glass
+mcwroofs:crimson_lower_roof | minecraft:crafting_shaped | mcwroofs:crimson_lower_roof minecraft:crafting_shaped minecraft:crimson_stem minecraft:stick
+mcwroofs:crimson_planks_attic_roof | minecraft:crafting_shaped | mcwroofs:crimson_planks_attic_roof minecraft:crafting_shaped minecraft:crimson_planks minecraft:glass
+mcwroofs:crimson_planks_lower_roof | minecraft:crafting_shaped | mcwroofs:crimson_planks_lower_roof minecraft:crafting_shaped minecraft:crimson_planks minecraft:stick
+mcwroofs:crimson_planks_roof | minecraft:crafting_shaped | mcwroofs:crimson_planks_roof minecraft:crafting_shaped minecraft:crimson_planks minecraft:stick
+mcwroofs:crimson_planks_steep_roof | minecraft:crafting_shaped | mcwroofs:crimson_planks_steep_roof minecraft:crafting_shaped minecraft:crimson_planks minecraft:stick
+mcwroofs:crimson_planks_top_roof | minecraft:crafting_shaped | mcwroofs:crimson_planks_top_roof minecraft:crafting_shaped minecraft:crimson_planks minecraft:stick
+mcwroofs:crimson_planks_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:crimson_planks_upper_lower_roof minecraft:crafting_shaped minecraft:crimson_planks minecraft:stick
+mcwroofs:crimson_planks_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:crimson_planks_upper_steep_roof minecraft:crafting_shaped minecraft:crimson_planks minecraft:stick
+mcwroofs:crimson_roof | minecraft:crafting_shaped | mcwroofs:crimson_roof minecraft:crafting_shaped minecraft:crimson_stem minecraft:stick
+mcwroofs:crimson_steep_roof | minecraft:crafting_shaped | mcwroofs:crimson_steep_roof minecraft:crafting_shaped minecraft:crimson_stem minecraft:stick
+mcwroofs:crimson_top_roof | minecraft:crafting_shaped | mcwroofs:crimson_top_roof minecraft:crafting_shaped minecraft:crimson_stem minecraft:stick
+mcwroofs:crimson_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:crimson_upper_lower_roof minecraft:crafting_shaped minecraft:crimson_stem minecraft:stick
+mcwroofs:crimson_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:crimson_upper_steep_roof minecraft:crafting_shaped minecraft:crimson_stem minecraft:stick
+mcwroofs:cyan_concrete_attic_roof | minecraft:stonecutting | mcwroofs:cyan_concrete_attic_roof minecraft:cyan_concrete minecraft:stonecutting
+mcwroofs:cyan_concrete_lower_roof | minecraft:stonecutting | mcwroofs:cyan_concrete_lower_roof minecraft:cyan_concrete minecraft:stonecutting
+mcwroofs:cyan_concrete_roof | minecraft:stonecutting | mcwroofs:cyan_concrete_roof minecraft:cyan_concrete minecraft:stonecutting
+mcwroofs:cyan_concrete_steep_roof | minecraft:stonecutting | mcwroofs:cyan_concrete_steep_roof minecraft:cyan_concrete minecraft:stonecutting
+mcwroofs:cyan_concrete_top_roof | minecraft:stonecutting | mcwroofs:cyan_concrete_top_roof minecraft:cyan_concrete minecraft:stonecutting
+mcwroofs:cyan_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:cyan_concrete_upper_lower_roof minecraft:cyan_concrete minecraft:stonecutting
+mcwroofs:cyan_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:cyan_concrete_upper_steep_roof minecraft:cyan_concrete minecraft:stonecutting
+mcwroofs:cyan_striped_awning | minecraft:crafting_shaped | mcwroofs:cyan_striped_awning minecraft:crafting_shaped minecraft:cyan_carpet minecraft:white_carpet
+mcwroofs:cyan_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:cyan_terracotta_attic_roof minecraft:cyan_terracotta minecraft:stonecutting
+mcwroofs:cyan_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:cyan_terracotta_lower_roof minecraft:cyan_terracotta minecraft:stonecutting
+mcwroofs:cyan_terracotta_roof | minecraft:stonecutting | mcwroofs:cyan_terracotta_roof minecraft:cyan_terracotta minecraft:stonecutting
+mcwroofs:cyan_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:cyan_terracotta_steep_roof minecraft:cyan_terracotta minecraft:stonecutting
+mcwroofs:cyan_terracotta_top_roof | minecraft:stonecutting | mcwroofs:cyan_terracotta_top_roof minecraft:cyan_terracotta minecraft:stonecutting
+mcwroofs:cyan_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:cyan_terracotta_upper_lower_roof minecraft:cyan_terracotta minecraft:stonecutting
+mcwroofs:cyan_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:cyan_terracotta_upper_steep_roof minecraft:cyan_terracotta minecraft:stonecutting
+mcwroofs:dark_oak_attic_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_attic_roof minecraft:crafting_shaped minecraft:dark_oak_log minecraft:glass
+mcwroofs:dark_oak_lower_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_lower_roof minecraft:crafting_shaped minecraft:dark_oak_log minecraft:stick
+mcwroofs:dark_oak_planks_attic_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_planks_attic_roof minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:glass
+mcwroofs:dark_oak_planks_lower_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_planks_lower_roof minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:stick
+mcwroofs:dark_oak_planks_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_planks_roof minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:stick
+mcwroofs:dark_oak_planks_steep_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_planks_steep_roof minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:stick
+mcwroofs:dark_oak_planks_top_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_planks_top_roof minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:stick
+mcwroofs:dark_oak_planks_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_planks_upper_lower_roof minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:stick
+mcwroofs:dark_oak_planks_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_planks_upper_steep_roof minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:stick
+mcwroofs:dark_oak_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_roof minecraft:crafting_shaped minecraft:dark_oak_log minecraft:stick
+mcwroofs:dark_oak_steep_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_steep_roof minecraft:crafting_shaped minecraft:dark_oak_log minecraft:stick
+mcwroofs:dark_oak_top_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_top_roof minecraft:crafting_shaped minecraft:dark_oak_log minecraft:stick
+mcwroofs:dark_oak_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_upper_lower_roof minecraft:crafting_shaped minecraft:dark_oak_log minecraft:stick
+mcwroofs:dark_oak_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:dark_oak_upper_steep_roof minecraft:crafting_shaped minecraft:dark_oak_log minecraft:stick
+mcwroofs:dark_prismarine_attic_roof | minecraft:stonecutting | mcwroofs:dark_prismarine_attic_roof minecraft:dark_prismarine minecraft:stonecutting
+mcwroofs:dark_prismarine_lower_roof | minecraft:stonecutting | mcwroofs:dark_prismarine_lower_roof minecraft:dark_prismarine minecraft:stonecutting
+mcwroofs:dark_prismarine_roof | minecraft:stonecutting | mcwroofs:dark_prismarine_roof minecraft:dark_prismarine minecraft:stonecutting
+mcwroofs:dark_prismarine_steep_roof | minecraft:stonecutting | mcwroofs:dark_prismarine_steep_roof minecraft:dark_prismarine minecraft:stonecutting
+mcwroofs:dark_prismarine_top_roof | minecraft:stonecutting | mcwroofs:dark_prismarine_top_roof minecraft:dark_prismarine minecraft:stonecutting
+mcwroofs:dark_prismarine_upper_lower_roof | minecraft:stonecutting | mcwroofs:dark_prismarine_upper_lower_roof minecraft:dark_prismarine minecraft:stonecutting
+mcwroofs:dark_prismarine_upper_steep_roof | minecraft:stonecutting | mcwroofs:dark_prismarine_upper_steep_roof minecraft:dark_prismarine minecraft:stonecutting
+mcwroofs:deepslate_attic_roof | minecraft:stonecutting | mcwroofs:deepslate_attic_roof minecraft:deepslate minecraft:stonecutting
+mcwroofs:deepslate_lower_roof | minecraft:stonecutting | mcwroofs:deepslate_lower_roof minecraft:deepslate minecraft:stonecutting
+mcwroofs:deepslate_roof | minecraft:stonecutting | mcwroofs:deepslate_roof minecraft:deepslate minecraft:stonecutting
+mcwroofs:deepslate_steep_roof | minecraft:stonecutting | mcwroofs:deepslate_steep_roof minecraft:deepslate minecraft:stonecutting
+mcwroofs:deepslate_top_roof | minecraft:stonecutting | mcwroofs:deepslate_top_roof minecraft:deepslate minecraft:stonecutting
+mcwroofs:deepslate_upper_lower_roof | minecraft:stonecutting | mcwroofs:deepslate_upper_lower_roof minecraft:deepslate minecraft:stonecutting
+mcwroofs:deepslate_upper_steep_roof | minecraft:stonecutting | mcwroofs:deepslate_upper_steep_roof minecraft:deepslate minecraft:stonecutting
+mcwroofs:diorite_attic_roof | minecraft:stonecutting | mcwroofs:diorite_attic_roof minecraft:diorite minecraft:stonecutting
+mcwroofs:diorite_lower_roof | minecraft:stonecutting | mcwroofs:diorite_lower_roof minecraft:diorite minecraft:stonecutting
+mcwroofs:diorite_roof | minecraft:stonecutting | mcwroofs:diorite_roof minecraft:diorite minecraft:stonecutting
+mcwroofs:diorite_steep_roof | minecraft:stonecutting | mcwroofs:diorite_steep_roof minecraft:diorite minecraft:stonecutting
+mcwroofs:diorite_top_roof | minecraft:stonecutting | mcwroofs:diorite_top_roof minecraft:diorite minecraft:stonecutting
+mcwroofs:diorite_upper_lower_roof | minecraft:stonecutting | mcwroofs:diorite_upper_lower_roof minecraft:diorite minecraft:stonecutting
+mcwroofs:diorite_upper_steep_roof | minecraft:stonecutting | mcwroofs:diorite_upper_steep_roof minecraft:diorite minecraft:stonecutting
+mcwroofs:granite_attic_roof | minecraft:stonecutting | mcwroofs:granite_attic_roof minecraft:granite minecraft:stonecutting
+mcwroofs:granite_lower_roof | minecraft:stonecutting | mcwroofs:granite_lower_roof minecraft:granite minecraft:stonecutting
+mcwroofs:granite_roof | minecraft:stonecutting | mcwroofs:granite_roof minecraft:granite minecraft:stonecutting
+mcwroofs:granite_steep_roof | minecraft:stonecutting | mcwroofs:granite_steep_roof minecraft:granite minecraft:stonecutting
+mcwroofs:granite_top_roof | minecraft:stonecutting | mcwroofs:granite_top_roof minecraft:granite minecraft:stonecutting
+mcwroofs:granite_upper_lower_roof | minecraft:stonecutting | mcwroofs:granite_upper_lower_roof minecraft:granite minecraft:stonecutting
+mcwroofs:granite_upper_steep_roof | minecraft:stonecutting | mcwroofs:granite_upper_steep_roof minecraft:granite minecraft:stonecutting
+mcwroofs:grass_attic_roof | minecraft:stonecutting | mcwroofs:grass_attic_roof minecraft:grass_block minecraft:stonecutting
+mcwroofs:grass_lower_roof | minecraft:stonecutting | mcwroofs:grass_lower_roof minecraft:grass_block minecraft:stonecutting
+mcwroofs:grass_roof | minecraft:stonecutting | mcwroofs:grass_roof minecraft:grass_block minecraft:stonecutting
+mcwroofs:grass_steep_roof | minecraft:stonecutting | mcwroofs:grass_steep_roof minecraft:grass_block minecraft:stonecutting
+mcwroofs:grass_top_roof | minecraft:stonecutting | mcwroofs:grass_top_roof minecraft:grass_block minecraft:stonecutting
+mcwroofs:grass_upper_lower_roof | minecraft:stonecutting | mcwroofs:grass_upper_lower_roof minecraft:grass_block minecraft:stonecutting
+mcwroofs:grass_upper_steep_roof | minecraft:stonecutting | mcwroofs:grass_upper_steep_roof minecraft:grass_block minecraft:stonecutting
+mcwroofs:gray_attic_roof | minecraft:stonecutting | mcwroofs:gray_attic_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_concrete_attic_roof | minecraft:stonecutting | mcwroofs:gray_concrete_attic_roof minecraft:gray_concrete minecraft:stonecutting
+mcwroofs:gray_concrete_lower_roof | minecraft:stonecutting | mcwroofs:gray_concrete_lower_roof minecraft:gray_concrete minecraft:stonecutting
+mcwroofs:gray_concrete_roof | minecraft:stonecutting | mcwroofs:gray_concrete_roof minecraft:gray_concrete minecraft:stonecutting
+mcwroofs:gray_concrete_steep_roof | minecraft:stonecutting | mcwroofs:gray_concrete_steep_roof minecraft:gray_concrete minecraft:stonecutting
+mcwroofs:gray_concrete_top_roof | minecraft:stonecutting | mcwroofs:gray_concrete_top_roof minecraft:gray_concrete minecraft:stonecutting
+mcwroofs:gray_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:gray_concrete_upper_lower_roof minecraft:gray_concrete minecraft:stonecutting
+mcwroofs:gray_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:gray_concrete_upper_steep_roof minecraft:gray_concrete minecraft:stonecutting
+mcwroofs:gray_lower_roof | minecraft:stonecutting | mcwroofs:gray_lower_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_roof | minecraft:stonecutting | mcwroofs:gray_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_roof_block | minecraft:stonecutting | mcwroofs:gray_roof_block minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_roof_slab | minecraft:stonecutting | mcwroofs:gray_roof_slab minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_steep_roof | minecraft:stonecutting | mcwroofs:gray_steep_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_striped_awning | minecraft:crafting_shaped | mcwroofs:gray_striped_awning minecraft:crafting_shaped minecraft:gray_carpet minecraft:white_carpet
+mcwroofs:gray_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:gray_terracotta_attic_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:gray_terracotta_lower_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_terracotta_roof | minecraft:stonecutting | mcwroofs:gray_terracotta_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:gray_terracotta_steep_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_terracotta_top_roof | minecraft:stonecutting | mcwroofs:gray_terracotta_top_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:gray_terracotta_upper_lower_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:gray_terracotta_upper_steep_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_top_roof | minecraft:stonecutting | mcwroofs:gray_top_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_upper_lower_roof | minecraft:stonecutting | mcwroofs:gray_upper_lower_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:gray_upper_steep_roof | minecraft:stonecutting | mcwroofs:gray_upper_steep_roof minecraft:gray_terracotta minecraft:stonecutting
+mcwroofs:green_concrete_attic_roof | minecraft:stonecutting | mcwroofs:green_concrete_attic_roof minecraft:green_concrete minecraft:stonecutting
+mcwroofs:green_concrete_lower_roof | minecraft:stonecutting | mcwroofs:green_concrete_lower_roof minecraft:green_concrete minecraft:stonecutting
+mcwroofs:green_concrete_roof | minecraft:stonecutting | mcwroofs:green_concrete_roof minecraft:green_concrete minecraft:stonecutting
+mcwroofs:green_concrete_steep_roof | minecraft:stonecutting | mcwroofs:green_concrete_steep_roof minecraft:green_concrete minecraft:stonecutting
+mcwroofs:green_concrete_top_roof | minecraft:stonecutting | mcwroofs:green_concrete_top_roof minecraft:green_concrete minecraft:stonecutting
+mcwroofs:green_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:green_concrete_upper_lower_roof minecraft:green_concrete minecraft:stonecutting
+mcwroofs:green_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:green_concrete_upper_steep_roof minecraft:green_concrete minecraft:stonecutting
+mcwroofs:green_striped_awning | minecraft:crafting_shaped | mcwroofs:green_striped_awning minecraft:crafting_shaped minecraft:green_carpet minecraft:white_carpet
+mcwroofs:green_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:green_terracotta_attic_roof minecraft:green_terracotta minecraft:stonecutting
+mcwroofs:green_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:green_terracotta_lower_roof minecraft:green_terracotta minecraft:stonecutting
+mcwroofs:green_terracotta_roof | minecraft:stonecutting | mcwroofs:green_terracotta_roof minecraft:green_terracotta minecraft:stonecutting
+mcwroofs:green_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:green_terracotta_steep_roof minecraft:green_terracotta minecraft:stonecutting
+mcwroofs:green_terracotta_top_roof | minecraft:stonecutting | mcwroofs:green_terracotta_top_roof minecraft:green_terracotta minecraft:stonecutting
+mcwroofs:green_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:green_terracotta_upper_lower_roof minecraft:green_terracotta minecraft:stonecutting
+mcwroofs:green_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:green_terracotta_upper_steep_roof minecraft:green_terracotta minecraft:stonecutting
+mcwroofs:gutter | minecraft:crafting_shaped | mcwroofs:rain_gutter minecraft:crafting_shaped minecraft:iron_nugget
+mcwroofs:gutter_base | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:rain_gutter minecraft:crafting_shaped
+mcwroofs:gutter_base_black | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_black minecraft:black_dye minecraft:crafting_shaped
+mcwroofs:gutter_base_blue | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_blue minecraft:blue_dye minecraft:crafting_shaped
+mcwroofs:gutter_base_brown | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_brown minecraft:brown_dye minecraft:crafting_shaped
+mcwroofs:gutter_base_cyan | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_cyan minecraft:crafting_shaped minecraft:cyan_dye
+mcwroofs:gutter_base_gray | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_gray minecraft:crafting_shaped minecraft:gray_dye
+mcwroofs:gutter_base_green | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_green minecraft:crafting_shaped minecraft:green_dye
+mcwroofs:gutter_base_light_blue | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_light_blue minecraft:crafting_shaped minecraft:light_blue_dye
+mcwroofs:gutter_base_light_gray | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_light_gray minecraft:crafting_shaped minecraft:light_gray_dye
+mcwroofs:gutter_base_lime | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_lime minecraft:crafting_shaped minecraft:lime_dye
+mcwroofs:gutter_base_magenta | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_magenta minecraft:crafting_shaped minecraft:magenta_dye
+mcwroofs:gutter_base_orange | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_orange minecraft:crafting_shaped minecraft:orange_dye
+mcwroofs:gutter_base_pink | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_pink minecraft:crafting_shaped minecraft:pink_dye
+mcwroofs:gutter_base_purple | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_purple minecraft:crafting_shaped minecraft:purple_dye
+mcwroofs:gutter_base_red | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_red minecraft:crafting_shaped minecraft:red_dye
+mcwroofs:gutter_base_white | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_white minecraft:crafting_shaped minecraft:white_dye
+mcwroofs:gutter_base_yellow | minecraft:crafting_shaped | mcwroofs:gutter_base mcwroofs:gutter_base_yellow minecraft:crafting_shaped minecraft:yellow_dye
+mcwroofs:gutter_middle | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:rain_gutter minecraft:crafting_shaped
+mcwroofs:gutter_middle_black | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_black minecraft:black_dye minecraft:crafting_shaped
+mcwroofs:gutter_middle_blue | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_blue minecraft:blue_dye minecraft:crafting_shaped
+mcwroofs:gutter_middle_brown | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_brown minecraft:brown_dye minecraft:crafting_shaped
+mcwroofs:gutter_middle_cyan | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_cyan minecraft:crafting_shaped minecraft:cyan_dye
+mcwroofs:gutter_middle_gray | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_gray minecraft:crafting_shaped minecraft:gray_dye
+mcwroofs:gutter_middle_green | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_green minecraft:crafting_shaped minecraft:green_dye
+mcwroofs:gutter_middle_light_blue | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_light_blue minecraft:crafting_shaped minecraft:light_blue_dye
+mcwroofs:gutter_middle_light_gray | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_light_gray minecraft:crafting_shaped minecraft:light_gray_dye
+mcwroofs:gutter_middle_lime | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_lime minecraft:crafting_shaped minecraft:lime_dye
+mcwroofs:gutter_middle_magenta | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_magenta minecraft:crafting_shaped minecraft:magenta_dye
+mcwroofs:gutter_middle_orange | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_orange minecraft:crafting_shaped minecraft:orange_dye
+mcwroofs:gutter_middle_pink | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_pink minecraft:crafting_shaped minecraft:pink_dye
+mcwroofs:gutter_middle_purple | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_purple minecraft:crafting_shaped minecraft:purple_dye
+mcwroofs:gutter_middle_red | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_red minecraft:crafting_shaped minecraft:red_dye
+mcwroofs:gutter_middle_white | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_white minecraft:crafting_shaped minecraft:white_dye
+mcwroofs:gutter_middle_yellow | minecraft:crafting_shaped | mcwroofs:gutter_middle mcwroofs:gutter_middle_yellow minecraft:crafting_shaped minecraft:yellow_dye
+mcwroofs:jungle_attic_roof | minecraft:crafting_shaped | mcwroofs:jungle_attic_roof minecraft:crafting_shaped minecraft:glass minecraft:jungle_log
+mcwroofs:jungle_lower_roof | minecraft:crafting_shaped | mcwroofs:jungle_lower_roof minecraft:crafting_shaped minecraft:jungle_log minecraft:stick
+mcwroofs:jungle_planks_attic_roof | minecraft:crafting_shaped | mcwroofs:jungle_planks_attic_roof minecraft:crafting_shaped minecraft:glass minecraft:jungle_planks
+mcwroofs:jungle_planks_lower_roof | minecraft:crafting_shaped | mcwroofs:jungle_planks_lower_roof minecraft:crafting_shaped minecraft:jungle_planks minecraft:stick
+mcwroofs:jungle_planks_roof | minecraft:crafting_shaped | mcwroofs:jungle_planks_roof minecraft:crafting_shaped minecraft:jungle_planks minecraft:stick
+mcwroofs:jungle_planks_steep_roof | minecraft:crafting_shaped | mcwroofs:jungle_planks_steep_roof minecraft:crafting_shaped minecraft:jungle_planks minecraft:stick
+mcwroofs:jungle_planks_top_roof | minecraft:crafting_shaped | mcwroofs:jungle_planks_top_roof minecraft:crafting_shaped minecraft:jungle_planks minecraft:stick
+mcwroofs:jungle_planks_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:jungle_planks_upper_lower_roof minecraft:crafting_shaped minecraft:jungle_planks minecraft:stick
+mcwroofs:jungle_planks_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:jungle_planks_upper_steep_roof minecraft:crafting_shaped minecraft:jungle_planks minecraft:stick
+mcwroofs:jungle_roof | minecraft:crafting_shaped | mcwroofs:jungle_roof minecraft:crafting_shaped minecraft:jungle_log minecraft:stick
+mcwroofs:jungle_steep_roof | minecraft:crafting_shaped | mcwroofs:jungle_steep_roof minecraft:crafting_shaped minecraft:jungle_log minecraft:stick
+mcwroofs:jungle_top_roof | minecraft:crafting_shaped | mcwroofs:jungle_top_roof minecraft:crafting_shaped minecraft:jungle_log minecraft:stick
+mcwroofs:jungle_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:jungle_upper_lower_roof minecraft:crafting_shaped minecraft:jungle_log minecraft:stick
+mcwroofs:jungle_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:jungle_upper_steep_roof minecraft:crafting_shaped minecraft:jungle_log minecraft:stick
+mcwroofs:light_blue_concrete_attic_roof | minecraft:stonecutting | mcwroofs:light_blue_concrete_attic_roof minecraft:light_blue_concrete minecraft:stonecutting
+mcwroofs:light_blue_concrete_lower_roof | minecraft:stonecutting | mcwroofs:light_blue_concrete_lower_roof minecraft:light_blue_concrete minecraft:stonecutting
+mcwroofs:light_blue_concrete_roof | minecraft:stonecutting | mcwroofs:light_blue_concrete_roof minecraft:light_blue_concrete minecraft:stonecutting
+mcwroofs:light_blue_concrete_steep_roof | minecraft:stonecutting | mcwroofs:light_blue_concrete_steep_roof minecraft:light_blue_concrete minecraft:stonecutting
+mcwroofs:light_blue_concrete_top_roof | minecraft:stonecutting | mcwroofs:light_blue_concrete_top_roof minecraft:light_blue_concrete minecraft:stonecutting
+mcwroofs:light_blue_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:light_blue_concrete_upper_lower_roof minecraft:light_blue_concrete minecraft:stonecutting
+mcwroofs:light_blue_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:light_blue_concrete_upper_steep_roof minecraft:light_blue_concrete minecraft:stonecutting
+mcwroofs:light_blue_striped_awning | minecraft:crafting_shaped | mcwroofs:light_blue_striped_awning minecraft:crafting_shaped minecraft:light_blue_carpet minecraft:white_carpet
+mcwroofs:light_blue_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:light_blue_terracotta_attic_roof minecraft:light_blue_terracotta minecraft:stonecutting
+mcwroofs:light_blue_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:light_blue_terracotta_lower_roof minecraft:light_blue_terracotta minecraft:stonecutting
+mcwroofs:light_blue_terracotta_roof | minecraft:stonecutting | mcwroofs:light_blue_terracotta_roof minecraft:light_blue_terracotta minecraft:stonecutting
+mcwroofs:light_blue_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:light_blue_terracotta_steep_roof minecraft:light_blue_terracotta minecraft:stonecutting
+mcwroofs:light_blue_terracotta_top_roof | minecraft:stonecutting | mcwroofs:light_blue_terracotta_top_roof minecraft:light_blue_terracotta minecraft:stonecutting
+mcwroofs:light_blue_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:light_blue_terracotta_upper_lower_roof minecraft:light_blue_terracotta minecraft:stonecutting
+mcwroofs:light_blue_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:light_blue_terracotta_upper_steep_roof minecraft:light_blue_terracotta minecraft:stonecutting
+mcwroofs:light_gray_attic_roof | minecraft:stonecutting | mcwroofs:light_gray_attic_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_concrete_attic_roof | minecraft:stonecutting | mcwroofs:light_gray_concrete_attic_roof minecraft:light_gray_concrete minecraft:stonecutting
+mcwroofs:light_gray_concrete_lower_roof | minecraft:stonecutting | mcwroofs:light_gray_concrete_lower_roof minecraft:light_gray_concrete minecraft:stonecutting
+mcwroofs:light_gray_concrete_roof | minecraft:stonecutting | mcwroofs:light_gray_concrete_roof minecraft:light_gray_concrete minecraft:stonecutting
+mcwroofs:light_gray_concrete_steep_roof | minecraft:stonecutting | mcwroofs:light_gray_concrete_steep_roof minecraft:light_gray_concrete minecraft:stonecutting
+mcwroofs:light_gray_concrete_top_roof | minecraft:stonecutting | mcwroofs:light_gray_concrete_top_roof minecraft:light_gray_concrete minecraft:stonecutting
+mcwroofs:light_gray_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:light_gray_concrete_upper_lower_roof minecraft:light_gray_concrete minecraft:stonecutting
+mcwroofs:light_gray_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:light_gray_concrete_upper_steep_roof minecraft:light_gray_concrete minecraft:stonecutting
+mcwroofs:light_gray_lower_roof | minecraft:stonecutting | mcwroofs:light_gray_lower_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_roof | minecraft:stonecutting | mcwroofs:light_gray_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_roof_block | minecraft:stonecutting | mcwroofs:light_gray_roof_block minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_roof_slab | minecraft:stonecutting | mcwroofs:light_gray_roof_slab minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_steep_roof | minecraft:stonecutting | mcwroofs:light_gray_steep_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_striped_awning | minecraft:crafting_shaped | mcwroofs:light_gray_striped_awning minecraft:crafting_shaped minecraft:light_gray_carpet minecraft:white_carpet
+mcwroofs:light_gray_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:light_gray_terracotta_attic_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:light_gray_terracotta_lower_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_terracotta_roof | minecraft:stonecutting | mcwroofs:light_gray_terracotta_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:light_gray_terracotta_steep_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_terracotta_top_roof | minecraft:stonecutting | mcwroofs:light_gray_terracotta_top_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:light_gray_terracotta_upper_lower_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:light_gray_terracotta_upper_steep_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_top_roof | minecraft:stonecutting | mcwroofs:light_gray_top_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_upper_lower_roof | minecraft:stonecutting | mcwroofs:light_gray_upper_lower_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:light_gray_upper_steep_roof | minecraft:stonecutting | mcwroofs:light_gray_upper_steep_roof minecraft:light_gray_terracotta minecraft:stonecutting
+mcwroofs:lime_concrete_attic_roof | minecraft:stonecutting | mcwroofs:lime_concrete_attic_roof minecraft:lime_concrete minecraft:stonecutting
+mcwroofs:lime_concrete_lower_roof | minecraft:stonecutting | mcwroofs:lime_concrete_lower_roof minecraft:lime_concrete minecraft:stonecutting
+mcwroofs:lime_concrete_roof | minecraft:stonecutting | mcwroofs:lime_concrete_roof minecraft:lime_concrete minecraft:stonecutting
+mcwroofs:lime_concrete_steep_roof | minecraft:stonecutting | mcwroofs:lime_concrete_steep_roof minecraft:lime_concrete minecraft:stonecutting
+mcwroofs:lime_concrete_top_roof | minecraft:stonecutting | mcwroofs:lime_concrete_top_roof minecraft:lime_concrete minecraft:stonecutting
+mcwroofs:lime_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:lime_concrete_upper_lower_roof minecraft:lime_concrete minecraft:stonecutting
+mcwroofs:lime_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:lime_concrete_upper_steep_roof minecraft:lime_concrete minecraft:stonecutting
+mcwroofs:lime_striped_awning | minecraft:crafting_shaped | mcwroofs:lime_striped_awning minecraft:crafting_shaped minecraft:lime_carpet minecraft:white_carpet
+mcwroofs:lime_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:lime_terracotta_attic_roof minecraft:lime_terracotta minecraft:stonecutting
+mcwroofs:lime_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:lime_terracotta_lower_roof minecraft:lime_terracotta minecraft:stonecutting
+mcwroofs:lime_terracotta_roof | minecraft:stonecutting | mcwroofs:lime_terracotta_roof minecraft:lime_terracotta minecraft:stonecutting
+mcwroofs:lime_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:lime_terracotta_steep_roof minecraft:lime_terracotta minecraft:stonecutting
+mcwroofs:lime_terracotta_top_roof | minecraft:stonecutting | mcwroofs:lime_terracotta_top_roof minecraft:lime_terracotta minecraft:stonecutting
+mcwroofs:lime_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:lime_terracotta_upper_lower_roof minecraft:lime_terracotta minecraft:stonecutting
+mcwroofs:lime_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:lime_terracotta_upper_steep_roof minecraft:lime_terracotta minecraft:stonecutting
+mcwroofs:magenta_concrete_attic_roof | minecraft:stonecutting | mcwroofs:magenta_concrete_attic_roof minecraft:magenta_concrete minecraft:stonecutting
+mcwroofs:magenta_concrete_lower_roof | minecraft:stonecutting | mcwroofs:magenta_concrete_lower_roof minecraft:magenta_concrete minecraft:stonecutting
+mcwroofs:magenta_concrete_roof | minecraft:stonecutting | mcwroofs:magenta_concrete_roof minecraft:magenta_concrete minecraft:stonecutting
+mcwroofs:magenta_concrete_steep_roof | minecraft:stonecutting | mcwroofs:magenta_concrete_steep_roof minecraft:magenta_concrete minecraft:stonecutting
+mcwroofs:magenta_concrete_top_roof | minecraft:stonecutting | mcwroofs:magenta_concrete_top_roof minecraft:magenta_concrete minecraft:stonecutting
+mcwroofs:magenta_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:magenta_concrete_upper_lower_roof minecraft:magenta_concrete minecraft:stonecutting
+mcwroofs:magenta_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:magenta_concrete_upper_steep_roof minecraft:magenta_concrete minecraft:stonecutting
+mcwroofs:magenta_striped_awning | minecraft:crafting_shaped | mcwroofs:magenta_striped_awning minecraft:crafting_shaped minecraft:magenta_carpet minecraft:white_carpet
+mcwroofs:magenta_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:magenta_terracotta_attic_roof minecraft:magenta_terracotta minecraft:stonecutting
+mcwroofs:magenta_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:magenta_terracotta_lower_roof minecraft:magenta_terracotta minecraft:stonecutting
+mcwroofs:magenta_terracotta_roof | minecraft:stonecutting | mcwroofs:magenta_terracotta_roof minecraft:magenta_terracotta minecraft:stonecutting
+mcwroofs:magenta_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:magenta_terracotta_steep_roof minecraft:magenta_terracotta minecraft:stonecutting
+mcwroofs:magenta_terracotta_top_roof | minecraft:stonecutting | mcwroofs:magenta_terracotta_top_roof minecraft:magenta_terracotta minecraft:stonecutting
+mcwroofs:magenta_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:magenta_terracotta_upper_lower_roof minecraft:magenta_terracotta minecraft:stonecutting
+mcwroofs:magenta_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:magenta_terracotta_upper_steep_roof minecraft:magenta_terracotta minecraft:stonecutting
+mcwroofs:mangrove_attic_roof | minecraft:crafting_shaped | mcwroofs:mangrove_attic_roof minecraft:crafting_shaped minecraft:glass minecraft:mangrove_log
+mcwroofs:mangrove_lower_roof | minecraft:crafting_shaped | mcwroofs:mangrove_lower_roof minecraft:crafting_shaped minecraft:mangrove_log minecraft:stick
+mcwroofs:mangrove_planks_attic_roof | minecraft:crafting_shaped | mcwroofs:mangrove_planks_attic_roof minecraft:crafting_shaped minecraft:glass minecraft:mangrove_planks
+mcwroofs:mangrove_planks_lower_roof | minecraft:crafting_shaped | mcwroofs:mangrove_planks_lower_roof minecraft:crafting_shaped minecraft:mangrove_planks minecraft:stick
+mcwroofs:mangrove_planks_roof | minecraft:crafting_shaped | mcwroofs:mangrove_planks_roof minecraft:crafting_shaped minecraft:mangrove_planks minecraft:stick
+mcwroofs:mangrove_planks_steep_roof | minecraft:crafting_shaped | mcwroofs:mangrove_planks_steep_roof minecraft:crafting_shaped minecraft:mangrove_planks minecraft:stick
+mcwroofs:mangrove_planks_top_roof | minecraft:crafting_shaped | mcwroofs:mangrove_planks_top_roof minecraft:crafting_shaped minecraft:mangrove_planks minecraft:stick
+mcwroofs:mangrove_planks_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:mangrove_planks_upper_lower_roof minecraft:crafting_shaped minecraft:mangrove_planks minecraft:stick
+mcwroofs:mangrove_planks_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:mangrove_planks_upper_steep_roof minecraft:crafting_shaped minecraft:mangrove_planks minecraft:stick
+mcwroofs:mangrove_roof | minecraft:crafting_shaped | mcwroofs:mangrove_roof minecraft:crafting_shaped minecraft:mangrove_log minecraft:stick
+mcwroofs:mangrove_steep_roof | minecraft:crafting_shaped | mcwroofs:mangrove_steep_roof minecraft:crafting_shaped minecraft:mangrove_log minecraft:stick
+mcwroofs:mangrove_top_roof | minecraft:crafting_shaped | mcwroofs:mangrove_top_roof minecraft:crafting_shaped minecraft:mangrove_log minecraft:stick
+mcwroofs:mangrove_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:mangrove_upper_lower_roof minecraft:crafting_shaped minecraft:mangrove_log minecraft:stick
+mcwroofs:mangrove_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:mangrove_upper_steep_roof minecraft:crafting_shaped minecraft:mangrove_log minecraft:stick
+mcwroofs:mud_brick_attic_roof | minecraft:stonecutting | mcwroofs:mud_brick_attic_roof minecraft:mud_bricks minecraft:stonecutting
+mcwroofs:mud_brick_lower_roof | minecraft:stonecutting | mcwroofs:mud_brick_lower_roof minecraft:mud_bricks minecraft:stonecutting
+mcwroofs:mud_brick_roof | minecraft:stonecutting | mcwroofs:mud_brick_roof minecraft:mud_bricks minecraft:stonecutting
+mcwroofs:mud_brick_steep_roof | minecraft:stonecutting | mcwroofs:mud_brick_steep_roof minecraft:mud_bricks minecraft:stonecutting
+mcwroofs:mud_brick_top_roof | minecraft:stonecutting | mcwroofs:mud_brick_top_roof minecraft:mud_bricks minecraft:stonecutting
+mcwroofs:mud_brick_upper_lower_roof | minecraft:stonecutting | mcwroofs:mud_brick_upper_lower_roof minecraft:mud_bricks minecraft:stonecutting
+mcwroofs:mud_brick_upper_steep_roof | minecraft:stonecutting | mcwroofs:mud_brick_upper_steep_roof minecraft:mud_bricks minecraft:stonecutting
+mcwroofs:nether_bricks_attic_roof | minecraft:stonecutting | mcwroofs:nether_bricks_attic_roof minecraft:nether_bricks minecraft:stonecutting
+mcwroofs:nether_bricks_lower_roof | minecraft:stonecutting | mcwroofs:nether_bricks_lower_roof minecraft:nether_bricks minecraft:stonecutting
+mcwroofs:nether_bricks_roof | minecraft:stonecutting | mcwroofs:nether_bricks_roof minecraft:nether_bricks minecraft:stonecutting
+mcwroofs:nether_bricks_steep_roof | minecraft:stonecutting | mcwroofs:nether_bricks_steep_roof minecraft:nether_bricks minecraft:stonecutting
+mcwroofs:nether_bricks_top_roof | minecraft:stonecutting | mcwroofs:nether_bricks_top_roof minecraft:nether_bricks minecraft:stonecutting
+mcwroofs:nether_bricks_upper_lower_roof | minecraft:stonecutting | mcwroofs:nether_bricks_upper_lower_roof minecraft:nether_bricks minecraft:stonecutting
+mcwroofs:nether_bricks_upper_steep_roof | minecraft:stonecutting | mcwroofs:nether_bricks_upper_steep_roof minecraft:nether_bricks minecraft:stonecutting
+mcwroofs:oak_attic_roof | minecraft:crafting_shaped | mcwroofs:oak_attic_roof minecraft:crafting_shaped minecraft:glass minecraft:oak_log
+mcwroofs:oak_lower_roof | minecraft:crafting_shaped | mcwroofs:oak_lower_roof minecraft:crafting_shaped minecraft:oak_log minecraft:stick
+mcwroofs:oak_planks_attic_roof | minecraft:crafting_shaped | mcwroofs:oak_planks_attic_roof minecraft:crafting_shaped minecraft:glass minecraft:oak_planks
+mcwroofs:oak_planks_lower_roof | minecraft:crafting_shaped | mcwroofs:oak_planks_lower_roof minecraft:crafting_shaped minecraft:oak_planks minecraft:stick
+mcwroofs:oak_planks_roof | minecraft:crafting_shaped | mcwroofs:oak_planks_roof minecraft:crafting_shaped minecraft:oak_planks minecraft:stick
+mcwroofs:oak_planks_steep_roof | minecraft:crafting_shaped | mcwroofs:oak_planks_steep_roof minecraft:crafting_shaped minecraft:oak_planks minecraft:stick
+mcwroofs:oak_planks_top_roof | minecraft:crafting_shaped | mcwroofs:oak_planks_top_roof minecraft:crafting_shaped minecraft:oak_planks minecraft:stick
+mcwroofs:oak_planks_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:oak_planks_upper_lower_roof minecraft:crafting_shaped minecraft:oak_planks minecraft:stick
+mcwroofs:oak_planks_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:oak_planks_upper_steep_roof minecraft:crafting_shaped minecraft:oak_planks minecraft:stick
+mcwroofs:oak_roof | minecraft:crafting_shaped | mcwroofs:oak_roof minecraft:crafting_shaped minecraft:oak_log minecraft:stick
+mcwroofs:oak_steep_roof | minecraft:crafting_shaped | mcwroofs:oak_steep_roof minecraft:crafting_shaped minecraft:oak_log minecraft:stick
+mcwroofs:oak_top_roof | minecraft:crafting_shaped | mcwroofs:oak_top_roof minecraft:crafting_shaped minecraft:oak_log minecraft:stick
+mcwroofs:oak_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:oak_upper_lower_roof minecraft:crafting_shaped minecraft:oak_log minecraft:stick
+mcwroofs:oak_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:oak_upper_steep_roof minecraft:crafting_shaped minecraft:oak_log minecraft:stick
+mcwroofs:orange_concrete_attic_roof | minecraft:stonecutting | mcwroofs:orange_concrete_attic_roof minecraft:orange_concrete minecraft:stonecutting
+mcwroofs:orange_concrete_lower_roof | minecraft:stonecutting | mcwroofs:orange_concrete_lower_roof minecraft:orange_concrete minecraft:stonecutting
+mcwroofs:orange_concrete_roof | minecraft:stonecutting | mcwroofs:orange_concrete_roof minecraft:orange_concrete minecraft:stonecutting
+mcwroofs:orange_concrete_steep_roof | minecraft:stonecutting | mcwroofs:orange_concrete_steep_roof minecraft:orange_concrete minecraft:stonecutting
+mcwroofs:orange_concrete_top_roof | minecraft:stonecutting | mcwroofs:orange_concrete_top_roof minecraft:orange_concrete minecraft:stonecutting
+mcwroofs:orange_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:orange_concrete_upper_lower_roof minecraft:orange_concrete minecraft:stonecutting
+mcwroofs:orange_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:orange_concrete_upper_steep_roof minecraft:orange_concrete minecraft:stonecutting
+mcwroofs:orange_striped_awning | minecraft:crafting_shaped | mcwroofs:orange_striped_awning minecraft:crafting_shaped minecraft:orange_carpet minecraft:white_carpet
+mcwroofs:orange_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:orange_terracotta_attic_roof minecraft:orange_terracotta minecraft:stonecutting
+mcwroofs:orange_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:orange_terracotta_lower_roof minecraft:orange_terracotta minecraft:stonecutting
+mcwroofs:orange_terracotta_roof | minecraft:stonecutting | mcwroofs:orange_terracotta_roof minecraft:orange_terracotta minecraft:stonecutting
+mcwroofs:orange_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:orange_terracotta_steep_roof minecraft:orange_terracotta minecraft:stonecutting
+mcwroofs:orange_terracotta_top_roof | minecraft:stonecutting | mcwroofs:orange_terracotta_top_roof minecraft:orange_terracotta minecraft:stonecutting
+mcwroofs:orange_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:orange_terracotta_upper_lower_roof minecraft:orange_terracotta minecraft:stonecutting
+mcwroofs:orange_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:orange_terracotta_upper_steep_roof minecraft:orange_terracotta minecraft:stonecutting
+mcwroofs:pink_concrete_attic_roof | minecraft:stonecutting | mcwroofs:pink_concrete_attic_roof minecraft:pink_concrete minecraft:stonecutting
+mcwroofs:pink_concrete_lower_roof | minecraft:stonecutting | mcwroofs:pink_concrete_lower_roof minecraft:pink_concrete minecraft:stonecutting
+mcwroofs:pink_concrete_roof | minecraft:stonecutting | mcwroofs:pink_concrete_roof minecraft:pink_concrete minecraft:stonecutting
+mcwroofs:pink_concrete_steep_roof | minecraft:stonecutting | mcwroofs:pink_concrete_steep_roof minecraft:pink_concrete minecraft:stonecutting
+mcwroofs:pink_concrete_top_roof | minecraft:stonecutting | mcwroofs:pink_concrete_top_roof minecraft:pink_concrete minecraft:stonecutting
+mcwroofs:pink_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:pink_concrete_upper_lower_roof minecraft:pink_concrete minecraft:stonecutting
+mcwroofs:pink_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:pink_concrete_upper_steep_roof minecraft:pink_concrete minecraft:stonecutting
+mcwroofs:pink_striped_awning | minecraft:crafting_shaped | mcwroofs:pink_striped_awning minecraft:crafting_shaped minecraft:pink_carpet minecraft:white_carpet
+mcwroofs:pink_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:pink_terracotta_attic_roof minecraft:pink_terracotta minecraft:stonecutting
+mcwroofs:pink_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:pink_terracotta_lower_roof minecraft:pink_terracotta minecraft:stonecutting
+mcwroofs:pink_terracotta_roof | minecraft:stonecutting | mcwroofs:pink_terracotta_roof minecraft:pink_terracotta minecraft:stonecutting
+mcwroofs:pink_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:pink_terracotta_steep_roof minecraft:pink_terracotta minecraft:stonecutting
+mcwroofs:pink_terracotta_top_roof | minecraft:stonecutting | mcwroofs:pink_terracotta_top_roof minecraft:pink_terracotta minecraft:stonecutting
+mcwroofs:pink_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:pink_terracotta_upper_lower_roof minecraft:pink_terracotta minecraft:stonecutting
+mcwroofs:pink_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:pink_terracotta_upper_steep_roof minecraft:pink_terracotta minecraft:stonecutting
+mcwroofs:prismarine_brick_attic_roof | minecraft:stonecutting | mcwroofs:prismarine_brick_attic_roof minecraft:prismarine_bricks minecraft:stonecutting
+mcwroofs:prismarine_brick_lower_roof | minecraft:stonecutting | mcwroofs:prismarine_brick_lower_roof minecraft:prismarine_bricks minecraft:stonecutting
+mcwroofs:prismarine_brick_roof | minecraft:stonecutting | mcwroofs:prismarine_brick_roof minecraft:prismarine_bricks minecraft:stonecutting
+mcwroofs:prismarine_brick_steep_roof | minecraft:stonecutting | mcwroofs:prismarine_brick_steep_roof minecraft:prismarine_bricks minecraft:stonecutting
+mcwroofs:prismarine_brick_top_roof | minecraft:stonecutting | mcwroofs:prismarine_brick_top_roof minecraft:prismarine_bricks minecraft:stonecutting
+mcwroofs:prismarine_brick_upper_lower_roof | minecraft:stonecutting | mcwroofs:prismarine_brick_upper_lower_roof minecraft:prismarine_bricks minecraft:stonecutting
+mcwroofs:prismarine_brick_upper_steep_roof | minecraft:stonecutting | mcwroofs:prismarine_brick_upper_steep_roof minecraft:prismarine_bricks minecraft:stonecutting
+mcwroofs:purple_concrete_attic_roof | minecraft:stonecutting | mcwroofs:purple_concrete_attic_roof minecraft:purple_concrete minecraft:stonecutting
+mcwroofs:purple_concrete_lower_roof | minecraft:stonecutting | mcwroofs:purple_concrete_lower_roof minecraft:purple_concrete minecraft:stonecutting
+mcwroofs:purple_concrete_roof | minecraft:stonecutting | mcwroofs:purple_concrete_roof minecraft:purple_concrete minecraft:stonecutting
+mcwroofs:purple_concrete_steep_roof | minecraft:stonecutting | mcwroofs:purple_concrete_steep_roof minecraft:purple_concrete minecraft:stonecutting
+mcwroofs:purple_concrete_top_roof | minecraft:stonecutting | mcwroofs:purple_concrete_top_roof minecraft:purple_concrete minecraft:stonecutting
+mcwroofs:purple_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:purple_concrete_upper_lower_roof minecraft:purple_concrete minecraft:stonecutting
+mcwroofs:purple_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:purple_concrete_upper_steep_roof minecraft:purple_concrete minecraft:stonecutting
+mcwroofs:purple_striped_awning | minecraft:crafting_shaped | mcwroofs:purple_striped_awning minecraft:crafting_shaped minecraft:purple_carpet minecraft:white_carpet
+mcwroofs:purple_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:purple_terracotta_attic_roof minecraft:purple_terracotta minecraft:stonecutting
+mcwroofs:purple_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:purple_terracotta_lower_roof minecraft:purple_terracotta minecraft:stonecutting
+mcwroofs:purple_terracotta_roof | minecraft:stonecutting | mcwroofs:purple_terracotta_roof minecraft:purple_terracotta minecraft:stonecutting
+mcwroofs:purple_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:purple_terracotta_steep_roof minecraft:purple_terracotta minecraft:stonecutting
+mcwroofs:purple_terracotta_top_roof | minecraft:stonecutting | mcwroofs:purple_terracotta_top_roof minecraft:purple_terracotta minecraft:stonecutting
+mcwroofs:purple_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:purple_terracotta_upper_lower_roof minecraft:purple_terracotta minecraft:stonecutting
+mcwroofs:purple_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:purple_terracotta_upper_steep_roof minecraft:purple_terracotta minecraft:stonecutting
+mcwroofs:red_concrete_attic_roof | minecraft:stonecutting | mcwroofs:red_concrete_attic_roof minecraft:red_concrete minecraft:stonecutting
+mcwroofs:red_concrete_lower_roof | minecraft:stonecutting | mcwroofs:red_concrete_lower_roof minecraft:red_concrete minecraft:stonecutting
+mcwroofs:red_concrete_roof | minecraft:stonecutting | mcwroofs:red_concrete_roof minecraft:red_concrete minecraft:stonecutting
+mcwroofs:red_concrete_steep_roof | minecraft:stonecutting | mcwroofs:red_concrete_steep_roof minecraft:red_concrete minecraft:stonecutting
+mcwroofs:red_concrete_top_roof | minecraft:stonecutting | mcwroofs:red_concrete_top_roof minecraft:red_concrete minecraft:stonecutting
+mcwroofs:red_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:red_concrete_upper_lower_roof minecraft:red_concrete minecraft:stonecutting
+mcwroofs:red_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:red_concrete_upper_steep_roof minecraft:red_concrete minecraft:stonecutting
+mcwroofs:red_nether_bricks_attic_roof | minecraft:stonecutting | mcwroofs:red_nether_bricks_attic_roof minecraft:red_nether_bricks minecraft:stonecutting
+mcwroofs:red_nether_bricks_lower_roof | minecraft:stonecutting | mcwroofs:red_nether_bricks_lower_roof minecraft:red_nether_bricks minecraft:stonecutting
+mcwroofs:red_nether_bricks_roof | minecraft:stonecutting | mcwroofs:red_nether_bricks_roof minecraft:red_nether_bricks minecraft:stonecutting
+mcwroofs:red_nether_bricks_steep_roof | minecraft:stonecutting | mcwroofs:red_nether_bricks_steep_roof minecraft:red_nether_bricks minecraft:stonecutting
+mcwroofs:red_nether_bricks_top_roof | minecraft:stonecutting | mcwroofs:red_nether_bricks_top_roof minecraft:red_nether_bricks minecraft:stonecutting
+mcwroofs:red_nether_bricks_upper_lower_roof | minecraft:stonecutting | mcwroofs:red_nether_bricks_upper_lower_roof minecraft:red_nether_bricks minecraft:stonecutting
+mcwroofs:red_nether_bricks_upper_steep_roof | minecraft:stonecutting | mcwroofs:red_nether_bricks_upper_steep_roof minecraft:red_nether_bricks minecraft:stonecutting
+mcwroofs:red_sandstone_attic_roof | minecraft:stonecutting | mcwroofs:red_sandstone_attic_roof minecraft:red_sandstone minecraft:stonecutting
+mcwroofs:red_sandstone_lower_roof | minecraft:stonecutting | mcwroofs:red_sandstone_lower_roof minecraft:red_sandstone minecraft:stonecutting
+mcwroofs:red_sandstone_roof | minecraft:stonecutting | mcwroofs:red_sandstone_roof minecraft:red_sandstone minecraft:stonecutting
+mcwroofs:red_sandstone_steep_roof | minecraft:stonecutting | mcwroofs:red_sandstone_steep_roof minecraft:red_sandstone minecraft:stonecutting
+mcwroofs:red_sandstone_top_roof | minecraft:stonecutting | mcwroofs:red_sandstone_top_roof minecraft:red_sandstone minecraft:stonecutting
+mcwroofs:red_sandstone_upper_lower_roof | minecraft:stonecutting | mcwroofs:red_sandstone_upper_lower_roof minecraft:red_sandstone minecraft:stonecutting
+mcwroofs:red_sandstone_upper_steep_roof | minecraft:stonecutting | mcwroofs:red_sandstone_upper_steep_roof minecraft:red_sandstone minecraft:stonecutting
+mcwroofs:red_striped_awning | minecraft:crafting_shaped | mcwroofs:red_striped_awning minecraft:crafting_shaped minecraft:red_carpet minecraft:white_carpet
+mcwroofs:red_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:red_terracotta_attic_roof minecraft:red_terracotta minecraft:stonecutting
+mcwroofs:red_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:red_terracotta_lower_roof minecraft:red_terracotta minecraft:stonecutting
+mcwroofs:red_terracotta_roof | minecraft:stonecutting | mcwroofs:red_terracotta_roof minecraft:red_terracotta minecraft:stonecutting
+mcwroofs:red_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:red_terracotta_steep_roof minecraft:red_terracotta minecraft:stonecutting
+mcwroofs:red_terracotta_top_roof | minecraft:stonecutting | mcwroofs:red_terracotta_top_roof minecraft:red_terracotta minecraft:stonecutting
+mcwroofs:red_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:red_terracotta_upper_lower_roof minecraft:red_terracotta minecraft:stonecutting
+mcwroofs:red_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:red_terracotta_upper_steep_roof minecraft:red_terracotta minecraft:stonecutting
+mcwroofs:roofing_hammer | minecraft:crafting_shaped | mcwroofs:roofing_hammer minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_nugget minecraft:stick
+mcwroofs:sandstone_attic_roof | minecraft:stonecutting | mcwroofs:sandstone_attic_roof minecraft:sandstone minecraft:stonecutting
+mcwroofs:sandstone_lower_roof | minecraft:stonecutting | mcwroofs:sandstone_lower_roof minecraft:sandstone minecraft:stonecutting
+mcwroofs:sandstone_roof | minecraft:stonecutting | mcwroofs:sandstone_roof minecraft:sandstone minecraft:stonecutting
+mcwroofs:sandstone_steep_roof | minecraft:stonecutting | mcwroofs:sandstone_steep_roof minecraft:sandstone minecraft:stonecutting
+mcwroofs:sandstone_top_roof | minecraft:stonecutting | mcwroofs:sandstone_top_roof minecraft:sandstone minecraft:stonecutting
+mcwroofs:sandstone_upper_lower_roof | minecraft:stonecutting | mcwroofs:sandstone_upper_lower_roof minecraft:sandstone minecraft:stonecutting
+mcwroofs:sandstone_upper_steep_roof | minecraft:stonecutting | mcwroofs:sandstone_upper_steep_roof minecraft:sandstone minecraft:stonecutting
+mcwroofs:spruce_attic_roof | minecraft:crafting_shaped | mcwroofs:spruce_attic_roof minecraft:crafting_shaped minecraft:glass minecraft:spruce_log
+mcwroofs:spruce_lower_roof | minecraft:crafting_shaped | mcwroofs:spruce_lower_roof minecraft:crafting_shaped minecraft:spruce_log minecraft:stick
+mcwroofs:spruce_planks_attic_roof | minecraft:crafting_shaped | mcwroofs:spruce_planks_attic_roof minecraft:crafting_shaped minecraft:glass minecraft:spruce_planks
+mcwroofs:spruce_planks_lower_roof | minecraft:crafting_shaped | mcwroofs:spruce_planks_lower_roof minecraft:crafting_shaped minecraft:spruce_planks minecraft:stick
+mcwroofs:spruce_planks_roof | minecraft:crafting_shaped | mcwroofs:spruce_planks_roof minecraft:crafting_shaped minecraft:spruce_planks minecraft:stick
+mcwroofs:spruce_planks_steep_roof | minecraft:crafting_shaped | mcwroofs:spruce_planks_steep_roof minecraft:crafting_shaped minecraft:spruce_planks minecraft:stick
+mcwroofs:spruce_planks_top_roof | minecraft:crafting_shaped | mcwroofs:spruce_planks_top_roof minecraft:crafting_shaped minecraft:spruce_planks minecraft:stick
+mcwroofs:spruce_planks_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:spruce_planks_upper_lower_roof minecraft:crafting_shaped minecraft:spruce_planks minecraft:stick
+mcwroofs:spruce_planks_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:spruce_planks_upper_steep_roof minecraft:crafting_shaped minecraft:spruce_planks minecraft:stick
+mcwroofs:spruce_roof | minecraft:crafting_shaped | mcwroofs:spruce_roof minecraft:crafting_shaped minecraft:spruce_log minecraft:stick
+mcwroofs:spruce_steep_roof | minecraft:crafting_shaped | mcwroofs:spruce_steep_roof minecraft:crafting_shaped minecraft:spruce_log minecraft:stick
+mcwroofs:spruce_top_roof | minecraft:crafting_shaped | mcwroofs:spruce_top_roof minecraft:crafting_shaped minecraft:spruce_log minecraft:stick
+mcwroofs:spruce_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:spruce_upper_lower_roof minecraft:crafting_shaped minecraft:spruce_log minecraft:stick
+mcwroofs:spruce_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:spruce_upper_steep_roof minecraft:crafting_shaped minecraft:spruce_log minecraft:stick
+mcwroofs:stone_attic_roof | minecraft:stonecutting | mcwroofs:stone_attic_roof minecraft:stone minecraft:stonecutting
+mcwroofs:stone_bricks_attic_roof | minecraft:stonecutting | mcwroofs:stone_bricks_attic_roof minecraft:stone_bricks minecraft:stonecutting
+mcwroofs:stone_bricks_lower_roof | minecraft:stonecutting | mcwroofs:stone_bricks_lower_roof minecraft:stone_bricks minecraft:stonecutting
+mcwroofs:stone_bricks_roof | minecraft:stonecutting | mcwroofs:stone_bricks_roof minecraft:stone_bricks minecraft:stonecutting
+mcwroofs:stone_bricks_steep_roof | minecraft:stonecutting | mcwroofs:stone_bricks_steep_roof minecraft:stone_bricks minecraft:stonecutting
+mcwroofs:stone_bricks_top_roof | minecraft:stonecutting | mcwroofs:stone_bricks_top_roof minecraft:stone_bricks minecraft:stonecutting
+mcwroofs:stone_bricks_upper_lower_roof | minecraft:stonecutting | mcwroofs:stone_bricks_upper_lower_roof minecraft:stone_bricks minecraft:stonecutting
+mcwroofs:stone_bricks_upper_steep_roof | minecraft:stonecutting | mcwroofs:stone_bricks_upper_steep_roof minecraft:stone_bricks minecraft:stonecutting
+mcwroofs:stone_lower_roof | minecraft:stonecutting | mcwroofs:stone_lower_roof minecraft:stone minecraft:stonecutting
+mcwroofs:stone_roof | minecraft:stonecutting | mcwroofs:stone_roof minecraft:stone minecraft:stonecutting
+mcwroofs:stone_steep_roof | minecraft:stonecutting | mcwroofs:stone_steep_roof minecraft:stone minecraft:stonecutting
+mcwroofs:stone_top_roof | minecraft:stonecutting | mcwroofs:stone_top_roof minecraft:stone minecraft:stonecutting
+mcwroofs:stone_upper_lower_roof | minecraft:stonecutting | mcwroofs:stone_upper_lower_roof minecraft:stone minecraft:stonecutting
+mcwroofs:stone_upper_steep_roof | minecraft:stonecutting | mcwroofs:stone_upper_steep_roof minecraft:stone minecraft:stonecutting
+mcwroofs:thatch_attic_roof | minecraft:crafting_shaped | mcwroofs:thatch_attic_roof minecraft:crafting_shaped minecraft:glass minecraft:hay_block
+mcwroofs:thatch_lower_roof | minecraft:crafting_shaped | mcwroofs:thatch_lower_roof minecraft:crafting_shaped minecraft:hay_block minecraft:stick
+mcwroofs:thatch_roof | minecraft:crafting_shaped | mcwroofs:thatch_roof minecraft:crafting_shaped minecraft:hay_block minecraft:stick
+mcwroofs:thatch_steep_roof | minecraft:crafting_shaped | mcwroofs:thatch_steep_roof minecraft:crafting_shaped minecraft:hay_block minecraft:stick
+mcwroofs:thatch_top_roof | minecraft:crafting_shaped | mcwroofs:thatch_top_roof minecraft:crafting_shaped minecraft:hay_block minecraft:stick
+mcwroofs:thatch_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:thatch_upper_lower_roof minecraft:crafting_shaped minecraft:hay_block minecraft:stick
+mcwroofs:thatch_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:thatch_upper_steep_roof minecraft:crafting_shaped minecraft:hay_block minecraft:stick
+mcwroofs:warped_attic_roof | minecraft:crafting_shaped | mcwroofs:warped_attic_roof minecraft:crafting_shaped minecraft:glass minecraft:warped_stem
+mcwroofs:warped_lower_roof | minecraft:crafting_shaped | mcwroofs:warped_lower_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_stem
+mcwroofs:warped_planks_attic_roof | minecraft:crafting_shaped | mcwroofs:warped_planks_attic_roof minecraft:crafting_shaped minecraft:glass minecraft:warped_planks
+mcwroofs:warped_planks_lower_roof | minecraft:crafting_shaped | mcwroofs:warped_planks_lower_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_planks
+mcwroofs:warped_planks_roof | minecraft:crafting_shaped | mcwroofs:warped_planks_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_planks
+mcwroofs:warped_planks_steep_roof | minecraft:crafting_shaped | mcwroofs:warped_planks_steep_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_planks
+mcwroofs:warped_planks_top_roof | minecraft:crafting_shaped | mcwroofs:warped_planks_top_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_planks
+mcwroofs:warped_planks_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:warped_planks_upper_lower_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_planks
+mcwroofs:warped_planks_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:warped_planks_upper_steep_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_planks
+mcwroofs:warped_roof | minecraft:crafting_shaped | mcwroofs:warped_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_stem
+mcwroofs:warped_steep_roof | minecraft:crafting_shaped | mcwroofs:warped_steep_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_stem
+mcwroofs:warped_top_roof | minecraft:crafting_shaped | mcwroofs:warped_top_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_stem
+mcwroofs:warped_upper_lower_roof | minecraft:crafting_shaped | mcwroofs:warped_upper_lower_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_stem
+mcwroofs:warped_upper_steep_roof | minecraft:crafting_shaped | mcwroofs:warped_upper_steep_roof minecraft:crafting_shaped minecraft:stick minecraft:warped_stem
+mcwroofs:white_attic_roof | minecraft:stonecutting | mcwroofs:white_attic_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_concrete_attic_roof | minecraft:stonecutting | mcwroofs:white_concrete_attic_roof minecraft:stonecutting minecraft:white_concrete
+mcwroofs:white_concrete_lower_roof | minecraft:stonecutting | mcwroofs:white_concrete_lower_roof minecraft:stonecutting minecraft:white_concrete
+mcwroofs:white_concrete_roof | minecraft:stonecutting | mcwroofs:white_concrete_roof minecraft:stonecutting minecraft:white_concrete
+mcwroofs:white_concrete_steep_roof | minecraft:stonecutting | mcwroofs:white_concrete_steep_roof minecraft:stonecutting minecraft:white_concrete
+mcwroofs:white_concrete_top_roof | minecraft:stonecutting | mcwroofs:white_concrete_top_roof minecraft:stonecutting minecraft:white_concrete
+mcwroofs:white_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:white_concrete_upper_lower_roof minecraft:stonecutting minecraft:white_concrete
+mcwroofs:white_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:white_concrete_upper_steep_roof minecraft:stonecutting minecraft:white_concrete
+mcwroofs:white_lower_roof | minecraft:stonecutting | mcwroofs:white_lower_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_roof | minecraft:stonecutting | mcwroofs:white_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_roof_block | minecraft:stonecutting | mcwroofs:white_roof_block minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_roof_slab | minecraft:stonecutting | mcwroofs:white_roof_slab minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_steep_roof | minecraft:stonecutting | mcwroofs:white_steep_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:white_terracotta_attic_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:white_terracotta_lower_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_terracotta_roof | minecraft:stonecutting | mcwroofs:white_terracotta_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:white_terracotta_steep_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_terracotta_top_roof | minecraft:stonecutting | mcwroofs:white_terracotta_top_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:white_terracotta_upper_lower_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:white_terracotta_upper_steep_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_top_roof | minecraft:stonecutting | mcwroofs:white_top_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_upper_lower_roof | minecraft:stonecutting | mcwroofs:white_upper_lower_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:white_upper_steep_roof | minecraft:stonecutting | mcwroofs:white_upper_steep_roof minecraft:stonecutting minecraft:white_terracotta
+mcwroofs:yellow_concrete_attic_roof | minecraft:stonecutting | mcwroofs:yellow_concrete_attic_roof minecraft:stonecutting minecraft:yellow_concrete
+mcwroofs:yellow_concrete_lower_roof | minecraft:stonecutting | mcwroofs:yellow_concrete_lower_roof minecraft:stonecutting minecraft:yellow_concrete
+mcwroofs:yellow_concrete_roof | minecraft:stonecutting | mcwroofs:yellow_concrete_roof minecraft:stonecutting minecraft:yellow_concrete
+mcwroofs:yellow_concrete_steep_roof | minecraft:stonecutting | mcwroofs:yellow_concrete_steep_roof minecraft:stonecutting minecraft:yellow_concrete
+mcwroofs:yellow_concrete_top_roof | minecraft:stonecutting | mcwroofs:yellow_concrete_top_roof minecraft:stonecutting minecraft:yellow_concrete
+mcwroofs:yellow_concrete_upper_lower_roof | minecraft:stonecutting | mcwroofs:yellow_concrete_upper_lower_roof minecraft:stonecutting minecraft:yellow_concrete
+mcwroofs:yellow_concrete_upper_steep_roof | minecraft:stonecutting | mcwroofs:yellow_concrete_upper_steep_roof minecraft:stonecutting minecraft:yellow_concrete
+mcwroofs:yellow_striped_awning | minecraft:crafting_shaped | mcwroofs:yellow_striped_awning minecraft:crafting_shaped minecraft:white_carpet minecraft:yellow_carpet
+mcwroofs:yellow_terracotta_attic_roof | minecraft:stonecutting | mcwroofs:yellow_terracotta_attic_roof minecraft:stonecutting minecraft:yellow_terracotta
+mcwroofs:yellow_terracotta_lower_roof | minecraft:stonecutting | mcwroofs:yellow_terracotta_lower_roof minecraft:stonecutting minecraft:yellow_terracotta
+mcwroofs:yellow_terracotta_roof | minecraft:stonecutting | mcwroofs:yellow_terracotta_roof minecraft:stonecutting minecraft:yellow_terracotta
+mcwroofs:yellow_terracotta_steep_roof | minecraft:stonecutting | mcwroofs:yellow_terracotta_steep_roof minecraft:stonecutting minecraft:yellow_terracotta
+mcwroofs:yellow_terracotta_top_roof | minecraft:stonecutting | mcwroofs:yellow_terracotta_top_roof minecraft:stonecutting minecraft:yellow_terracotta
+mcwroofs:yellow_terracotta_upper_lower_roof | minecraft:stonecutting | mcwroofs:yellow_terracotta_upper_lower_roof minecraft:stonecutting minecraft:yellow_terracotta
+mcwroofs:yellow_terracotta_upper_steep_roof | minecraft:stonecutting | mcwroofs:yellow_terracotta_upper_steep_roof minecraft:stonecutting minecraft:yellow_terracotta

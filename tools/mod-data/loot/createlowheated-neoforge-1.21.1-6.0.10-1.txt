@@ -1,0 +1,1 @@
+createlowheated:blocks/basic_burner | minecraft:block | createlowheated:basic_burner createlowheated:blocks/basic_burner minecraft:block minecraft:item minecraft:survives_explosion

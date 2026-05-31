@@ -1,0 +1,1 @@
+sereneseasons:block/season_sensor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion sereneseasons:season_sensor

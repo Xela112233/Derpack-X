@@ -1,0 +1,15 @@
+# rhino-2101.2.7-build.81
+
+## mod metadata (id / version / deps)
+license = "MPL-2.0"
+modId = "rhino"
+version = "2101.2.7-build.81"
+displayName = "Rhino"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

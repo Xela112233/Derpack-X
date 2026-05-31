@@ -1,0 +1,17 @@
+# txnilib-neoforge-1.0.24-1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="txnilib"
+displayName="TxniLib"
+version="1.0.24"
+modId="minecraft"
+versionRange="[1.21.1,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

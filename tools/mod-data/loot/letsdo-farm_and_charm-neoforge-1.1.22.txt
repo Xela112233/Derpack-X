@@ -1,0 +1,67 @@
+farm_and_charm:advancements/completionist | minecraft:block | farm_and_charm:scarecrow minecraft:block minecraft:item minecraft:set_count
+farm_and_charm:blocks/barley_ball | minecraft:block | farm_and_charm:barley_ball minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/barley_crop | minecraft:block | farm_and_charm:barley farm_and_charm:barley_crop farm_and_charm:barley_seeds minecraft:alternatives minecraft:apply_bonus minecraft:binomial_with_bonus_count minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item
+farm_and_charm:blocks/beetroot_bag | minecraft:block | farm_and_charm:beetroot_bag minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/carrot_bag | minecraft:block | farm_and_charm:carrot_bag minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/cat_food_bag | minecraft:block | farm_and_charm:cat_food_bag minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count minecraft:survives_explosion
+farm_and_charm:blocks/cattlegrid | minecraft:block | farm_and_charm:cattlegrid minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/chicken_fence | minecraft:block | farm_and_charm:chicken_fence minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/chicken_nest | minecraft:block | farm_and_charm:chicken_nest minecraft:block minecraft:feather minecraft:inverted minecraft:item minecraft:match_tool minecraft:random_chance minecraft:set_count minecraft:silk_touch minecraft:survives_explosion minecraft:uniform minecraft:wheat
+farm_and_charm:blocks/cooking_pot | minecraft:block | farm_and_charm:cooking_pot minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/corn_bag | minecraft:block | farm_and_charm:corn_bag minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/corn_crop | minecraft:block | farm_and_charm:corn farm_and_charm:corn_crop farm_and_charm:kernels minecraft:alternatives minecraft:apply_bonus minecraft:binomial_with_bonus_count minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item
+farm_and_charm:blocks/crafting_bowl | minecraft:block | farm_and_charm:crafting_bowl minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/dog_food_bag | minecraft:block | farm_and_charm:dog_food_bag minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count minecraft:survives_explosion
+farm_and_charm:blocks/feather_pile | minecraft:block | farm_and_charm:feather_pile minecraft:alternatives minecraft:block minecraft:block_state_property minecraft:feather minecraft:item minecraft:set_count
+farm_and_charm:blocks/feeding_trough | minecraft:block | farm_and_charm:feeding_trough minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/fertilized_farmland | minecraft:block | farm_and_charm:fertilized_soil minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/fertilized_soil | minecraft:block | farm_and_charm:fertilized_soil minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/flour_bag | minecraft:block | farm_and_charm:flour_bag minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/iron_divider | minecraft:block | farm_and_charm:iron_divider minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/lettuce_bag | minecraft:block | farm_and_charm:lettuce_bag minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/lettuce_crop | minecraft:block | farm_and_charm:lettuce farm_and_charm:lettuce_crop minecraft:apply_bonus minecraft:binomial_with_bonus_count minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:set_count minecraft:uniform
+farm_and_charm:blocks/mincer | minecraft:block | farm_and_charm:mincer minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/nettle_tea | minecraft:block | minecraft:block minecraft:glass_bottle minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/oat_ball | minecraft:block | farm_and_charm:oat_ball minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/oat_crop | minecraft:block | farm_and_charm:oat farm_and_charm:oat_crop farm_and_charm:oat_seeds minecraft:alternatives minecraft:apply_bonus minecraft:binomial_with_bonus_count minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item
+farm_and_charm:blocks/onion_bag | minecraft:block | farm_and_charm:onion_bag minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/onion_crop | minecraft:block | farm_and_charm:onion farm_and_charm:onion_crop minecraft:apply_bonus minecraft:binomial_with_bonus_count minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:set_count minecraft:uniform
+farm_and_charm:blocks/packed_dirt | minecraft:block | farm_and_charm:packed_dirt minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/pet_bowl | minecraft:block | farm_and_charm:pet_bowl minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/potato_bag | minecraft:block | farm_and_charm:potato_bag minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/ribwort_tea | minecraft:block | minecraft:block minecraft:glass_bottle minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/roaster | minecraft:block | farm_and_charm:roaster minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/rope | minecraft:block | farm_and_charm:rope minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/rope_knot | minecraft:block | farm_and_charm:rope minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/scarecrow | minecraft:block | farm_and_charm:scarecrow minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/silo_copper | minecraft:block | farm_and_charm:silo_copper minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/silo_wood | minecraft:block | farm_and_charm:silo_wood minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/stable_floor | minecraft:block | farm_and_charm:stable_floor minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/stove | minecraft:block | farm_and_charm:stove minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/straw_stable_floor | minecraft:block | farm_and_charm:stable_floor minecraft:block minecraft:item minecraft:survives_explosion minecraft:wheat
+farm_and_charm:blocks/strawberry_bag | minecraft:block | farm_and_charm:strawberry_bag minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/strawberry_crop | minecraft:block | farm_and_charm:strawberry farm_and_charm:strawberry_crop farm_and_charm:strawberry_seeds minecraft:alternatives minecraft:apply_bonus minecraft:binomial_with_bonus_count minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item
+farm_and_charm:blocks/strawberry_tea | minecraft:block | minecraft:block minecraft:glass_bottle minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/sturdy_ladder | minecraft:block | farm_and_charm:sturdy_ladder minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/tomato_bag | minecraft:block | farm_and_charm:tomato_bag minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/tomato_crop | minecraft:block | farm_and_charm:rope farm_and_charm:tomato farm_and_charm:tomato_crop farm_and_charm:tomato_seeds minecraft:alternatives minecraft:apply_bonus minecraft:binomial_with_bonus_count minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item
+farm_and_charm:blocks/tool_rack | minecraft:block | farm_and_charm:tool_rack minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/trampled_packed_dirt | minecraft:block | farm_and_charm:packed_dirt minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/trampled_stable_floor | minecraft:block | farm_and_charm:stable_floor minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/water_sprinkler | minecraft:block | farm_and_charm:water_sprinkler minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/water_trough | minecraft:block | farm_and_charm:water_trough minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/wheat_pile | minecraft:block | farm_and_charm:wheat_pile minecraft:alternatives minecraft:block minecraft:block_state_property minecraft:item minecraft:set_count minecraft:wheat
+farm_and_charm:blocks/wild_barley | minecraft:block | farm_and_charm:barley farm_and_charm:barley_seeds farm_and_charm:wild_barley minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:random_chance minecraft:set_count minecraft:shears minecraft:uniform_bonus_count
+farm_and_charm:blocks/wild_beetroots | minecraft:block | farm_and_charm:wild_beetroots minecraft:alternatives minecraft:apply_bonus minecraft:beetroot minecraft:beetroot_seeds minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:random_chance minecraft:set_count minecraft:shears minecraft:uniform_bonus_count
+farm_and_charm:blocks/wild_carrots | minecraft:block | farm_and_charm:wild_carrots minecraft:alternatives minecraft:block minecraft:carrot minecraft:item minecraft:match_tool minecraft:random_chance minecraft:set_count minecraft:shears
+farm_and_charm:blocks/wild_corn | minecraft:block | farm_and_charm:corn farm_and_charm:kernels farm_and_charm:wild_corn minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:block_state_property minecraft:fortune minecraft:item minecraft:location_check minecraft:match_tool minecraft:random_chance minecraft:set_count minecraft:shears minecraft:survives_explosion minecraft:uniform_bonus_count
+farm_and_charm:blocks/wild_emmer | minecraft:block | farm_and_charm:wild_emmer minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:random_chance minecraft:set_count minecraft:shears minecraft:uniform_bonus_count minecraft:wheat minecraft:wheat_seeds
+farm_and_charm:blocks/wild_lettuce | minecraft:block | farm_and_charm:lettuce farm_and_charm:lettuce_seeds farm_and_charm:wild_lettuce minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:random_chance minecraft:set_count minecraft:shears minecraft:uniform_bonus_count
+farm_and_charm:blocks/wild_nettle | minecraft:block | farm_and_charm:wild_nettle minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/wild_oat | minecraft:block | farm_and_charm:oat farm_and_charm:oat_seeds farm_and_charm:wild_oat minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:random_chance minecraft:set_count minecraft:shears minecraft:uniform_bonus_count
+farm_and_charm:blocks/wild_onions | minecraft:block | farm_and_charm:onion farm_and_charm:wild_onions minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:random_chance minecraft:set_count minecraft:shears minecraft:uniform_bonus_count
+farm_and_charm:blocks/wild_potatoes | minecraft:block | farm_and_charm:wild_potatoes minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:poisonous_potato minecraft:potato minecraft:random_chance minecraft:set_count minecraft:shears minecraft:uniform_bonus_count
+farm_and_charm:blocks/wild_ribwort | minecraft:block | farm_and_charm:wild_ribwort minecraft:block minecraft:item minecraft:survives_explosion
+farm_and_charm:blocks/wild_strawberries | minecraft:block | farm_and_charm:strawberry farm_and_charm:strawberry_seeds farm_and_charm:wild_strawberries minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:random_chance minecraft:set_count minecraft:shears minecraft:uniform_bonus_count
+farm_and_charm:blocks/wild_tomatoes | minecraft:block | farm_and_charm:tomato farm_and_charm:tomato_seeds farm_and_charm:wild_tomatoes minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:random_chance minecraft:set_count minecraft:shears minecraft:uniform_bonus_count
+farm_and_charm:blocks/window_sill | minecraft:block | farm_and_charm:window_sill minecraft:block minecraft:item minecraft:survives_explosion

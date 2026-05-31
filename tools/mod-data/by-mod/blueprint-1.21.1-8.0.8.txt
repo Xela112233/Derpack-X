@@ -1,0 +1,33 @@
+# blueprint-1.21.1-8.0.8
+
+## mod metadata (id / version / deps)
+license = "https://github.com/team-abnormals/blueprint/blob/main/LICENSE.txt"
+modId = "blueprint"
+version = "8.0.8"
+displayName = "Blueprint"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "neoforge"
+versionRange = "[21.1.160,)"
+
+## blocks
+
+## items
+blueprint:template_chest
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+block/bookshelves.json :: { "values": [ "#blueprint:wooden_bookshelves" ]}
+block/chests/trapped.json :: { "values": [ "#blueprint:wooden_trapped_chests" ]}
+block/chests/wooden.json :: { "values": [ "#blueprint:wooden_chests", "#blueprint:wooden_trapped_chests" ]}
+block/ladders.json :: { "values": [ "#blueprint:wooden_ladders" ]}
+entity_type/fishes.json :: { "values": [ "minecraft:cod", "minecraft:salmon", "minecraft:pufferfish", "minecraft:tropical_fish" ]}
+entity_type/milkable.json :: { "values": [ "minecraft:cow", "minecraft:mooshroom", "minecraft:goat" ]}
+item/bookshelves.json :: { "values": [ "#blueprint:wooden_bookshelves" ]}
+item/chests/trapped.json :: { "values": [ "#blueprint:wooden_trapped_chests" ]}
+item/chests/wooden.json :: { "values": [ "#blueprint:wooden_chests", "#blueprint:wooden_trapped_chests" ]}
+item/horse_armor.json :: { "values": [ "minecraft:leather_horse_armor", "minecraft:iron_horse_armor", "minecraft:golden_horse_armor", "minecraft:diamond_horse_armor" ]}
+item/ladders.json :: { "values": [ "#blueprint:wooden_ladders" ]}
+item/milk.json :: { "values": [ "#c:drinks/milk" ]}
+item/pumpkins.json :: { "values": [ "#c:pumpkins/normal" ]}

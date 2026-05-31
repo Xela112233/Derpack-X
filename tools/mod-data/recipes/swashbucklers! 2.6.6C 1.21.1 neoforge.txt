@@ -1,0 +1,15 @@
+hpm:cannonballrecipe_4 | minecraft:crafting_shaped | hpm:cannonball minecraft:crafting_shaped minecraft:smooth_stone minecraft:tnt
+hpm:cuttermilitary | minecraft:crafting_shaped | hpm:cutteritem hpm:cuttermilitariseditem hpm:hand_cannon hpm:hand_mortar hpm:largehull hpm:largemast hpm:small_mast minecraft:crafting_shaped minecraft:iron_ingot
+hpm:cutterrecipe_4 | minecraft:crafting_shaped | hpm:cutteritem hpm:largehull hpm:largemast minecraft:barrel minecraft:crafting_shaped minecraft:logs
+hpm:hand_mortar_recipe | minecraft:crafting_shaped | hpm:hand_mortar hpm:mortar_ball minecraft:cobbled_deepslate_slab minecraft:crafting_shaped minecraft:gunpowder
+hpm:handcannonrecipe | minecraft:crafting_shaped | hpm:cannonball hpm:hand_cannon minecraft:cobbled_deepslate_slab minecraft:crafting_shaped minecraft:gunpowder
+hpm:largehullrecipe | minecraft:crafting_shaped | hpm:largehull hpm:smallhull minecraft:crafting_shaped minecraft:iron_block minecraft:logs
+hpm:largemastrecipe | minecraft:crafting_shapeless | hpm:largemast hpm:small_mast minecraft:crafting_shapeless
+hpm:mastrecipe | minecraft:crafting_shaped | hpm:small_mast minecraft:crafting_shaped minecraft:logs minecraft:wool
+hpm:mortar_ball_recipe | minecraft:crafting_shaped | hpm:cannonball hpm:mortar_ball minecraft:crafting_shaped minecraft:smooth_stone minecraft:tnt
+hpm:pirate_cutter_recipe | minecraft:crafting_shaped | hpm:cuttermilitariseditem hpm:pirate_cutter_item minecraft:black_dye minecraft:crafting_shaped minecraft:white_dye
+hpm:raftrecipe | minecraft:crafting_shaped | hpm:raftitem hpm:small_mast minecraft:barrel minecraft:crafting_shaped minecraft:logs
+hpm:smallhullrecipe | minecraft:crafting_shaped | hpm:smallhull minecraft:crafting_shaped minecraft:logs minecraft:planks
+hpm:spanner_recipe | minecraft:crafting_shaped | hpm:smallhull hpm:spanner minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_nugget
+hpm:swashbucklerrecipe | minecraft:crafting_shapeless | hpm:small_mast hpm:smallhull hpm:swashbuckleritem minecraft:crafting_shapeless
+hpm:swashbucklerupgradedrecipe | minecraft:crafting_shapeless | hpm:hand_cannon hpm:swashbuckleritem hpm:swashbucklerupgrade minecraft:chest minecraft:crafting_shapeless

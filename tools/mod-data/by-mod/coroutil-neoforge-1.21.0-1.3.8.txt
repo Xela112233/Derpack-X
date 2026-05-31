@@ -1,0 +1,19 @@
+# coroutil-neoforge-1.21.0-1.3.8
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="coroutil" #mandatory
+version="1.21.0-1.3.8" #mandatory
+displayName="CoroUtil" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.0-beta,)" #mandatory
+modId="minecraft"
+versionRange="[1.21,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

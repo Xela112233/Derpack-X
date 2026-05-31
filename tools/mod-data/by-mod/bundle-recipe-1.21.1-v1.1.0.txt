@@ -1,0 +1,17 @@
+# bundle-recipe-1.21.1-v1.1.0
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "bundle_recipe"
+version = "1.21.1-v1.1.0"
+displayName = "Bundle Recipe"
+modId = "neoforge"
+modId = "minecraft"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

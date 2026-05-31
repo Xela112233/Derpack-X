@@ -1,0 +1,9 @@
+lootr:blocks/lootr_barrel | minecraft:block | lootr:blocks/lootr_barrel minecraft:barrel minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+lootr:blocks/lootr_chest | minecraft:block | lootr:blocks/lootr_chest minecraft:block minecraft:chest minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+lootr:blocks/lootr_inventory | minecraft:block | lootr:blocks/lootr_inventory minecraft:block minecraft:chest minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+lootr:blocks/lootr_shulker | minecraft:block | lootr:blocks/lootr_shulker minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:shulker_box minecraft:survives_explosion
+lootr:blocks/lootr_trapped_chest | minecraft:block | lootr:blocks/lootr_trapped_chest minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion minecraft:trapped_chest
+lootr:blocks/trophy | minecraft:block | lootr:blocks/trophy lootr:trophy minecraft:block minecraft:item minecraft:survives_explosion
+lootr:chests/elytra | minecraft:chest | lootr:chests/elytra minecraft:chest minecraft:elytra minecraft:item minecraft:set_count
+lootr:entity/item_frame_empty | minecraft:chest | lootr:entity/item_frame_empty minecraft:chest
+lootr:reward/trophy | minecraft:chest | lootr:reward/trophy lootr:trophy minecraft:chest minecraft:item minecraft:set_count

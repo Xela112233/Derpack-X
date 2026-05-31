@@ -1,0 +1,20 @@
+ribbits:blocks/brown_toadstool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:brown_toadstool
+ribbits:blocks/giant_lilypad | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:giant_lilypad
+ribbits:blocks/mossy_oak_door | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion ribbits:blocks/mossy_oak_door ribbits:mossy_oak_door
+ribbits:blocks/mossy_oak_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:mossy_oak_planks
+ribbits:blocks/mossy_oak_planks_fence | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:mossy_oak_planks_fence
+ribbits:blocks/mossy_oak_planks_fence_gate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:mossy_oak_planks_fence_gate
+ribbits:blocks/mossy_oak_planks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count ribbits:mossy_oak_planks_slab
+ribbits:blocks/mossy_oak_planks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:mossy_oak_planks_stairs
+ribbits:blocks/red_toadstool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:red_toadstool
+ribbits:blocks/swamp_daisy | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:swamp_daisy
+ribbits:blocks/swamp_lantern | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:swamp_lantern
+ribbits:blocks/toadstool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:toadstool
+ribbits:blocks/toadstool_stem | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:toadstool_stem
+ribbits:blocks/umbrella_leaf | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion ribbits:umbrella_leaf
+ribbits:chests/fisherman_main | minecraft:chest | minecraft:air minecraft:chest minecraft:cod minecraft:enchant_with_levels minecraft:fishing_rod minecraft:item minecraft:kelp minecraft:salmon minecraft:set_count minecraft:uniform ribbits:giant_lilypad
+ribbits:chests/fisherman_storage | minecraft:chest | minecraft:amethyst_shard minecraft:chest minecraft:cod minecraft:dried_kelp minecraft:item minecraft:kelp minecraft:nautilus_shell minecraft:salmon minecraft:set_count minecraft:tropical_fish minecraft:uniform ribbits:giant_lilypad
+ribbits:chests/gardener | minecraft:chest | minecraft:amethyst_shard minecraft:brown_mushroom minecraft:chest minecraft:item minecraft:red_mushroom minecraft:set_count minecraft:uniform ribbits:giant_lilypad
+ribbits:chests/merchant | minecraft:chest | minecraft:amethyst_block minecraft:amethyst_shard minecraft:chest minecraft:item minecraft:set_count minecraft:uniform
+ribbits:chests/nitwit | minecraft:chest | minecraft:amethyst_shard minecraft:brown_mushroom minecraft:chest minecraft:item minecraft:red_mushroom minecraft:set_count minecraft:uniform ribbits:giant_lilypad
+ribbits:chests/sorcerer | minecraft:chest | minecraft:air minecraft:amethyst_shard minecraft:candle minecraft:chest minecraft:cobweb minecraft:fermented_spider_eye minecraft:glass_bottle minecraft:item minecraft:potion minecraft:set_components minecraft:set_count minecraft:slime_ball minecraft:strong_leaping minecraft:uniform

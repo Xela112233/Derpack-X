@@ -1,0 +1,124 @@
+# charta-neoforge-1.21.1-1.2.5
+
+## mod metadata (id / version / deps)
+license = "MPL-2.0" # Review your options at https://choosealicense.com/.
+modId = "charta" #mandatory
+version = "1.2.5" #mandatory
+displayName = "Charta" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.1.212,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21, 1.21.2)"
+
+## blocks
+charta:acacia_bar_shelf
+charta:acacia_bar_stool
+charta:acacia_card_table
+charta:acacia_game_chair
+charta:bamboo_bar_shelf
+charta:bamboo_bar_stool
+charta:bamboo_card_table
+charta:bamboo_game_chair
+charta:berry_wine_glass
+charta:birch_bar_shelf
+charta:birch_bar_stool
+charta:birch_card_table
+charta:birch_game_chair
+charta:cactus_wine_glass
+charta:cherry_bar_shelf
+charta:cherry_bar_stool
+charta:cherry_card_table
+charta:cherry_game_chair
+charta:crimson_bar_shelf
+charta:crimson_bar_stool
+charta:crimson_card_table
+charta:crimson_game_chair
+charta:dark_oak_bar_shelf
+charta:dark_oak_bar_stool
+charta:dark_oak_card_table
+charta:dark_oak_game_chair
+charta:dealer_table
+charta:empty_beer_glass
+charta:empty_wine_glass
+charta:jungle_bar_shelf
+charta:jungle_bar_stool
+charta:jungle_card_table
+charta:jungle_game_chair
+charta:mangrove_bar_shelf
+charta:mangrove_bar_stool
+charta:mangrove_card_table
+charta:mangrove_game_chair
+charta:oak_bar_shelf
+charta:oak_bar_stool
+charta:oak_card_table
+charta:oak_game_chair
+charta:sorghum_beer_glass
+charta:spruce_bar_shelf
+charta:spruce_bar_stool
+charta:spruce_card_table
+charta:spruce_game_chair
+charta:warped_bar_shelf
+charta:warped_bar_stool
+charta:warped_card_table
+charta:warped_game_chair
+charta:wheat_beer_glass
+
+## items
+charta:acacia_bar_shelf
+charta:acacia_bar_stool
+charta:acacia_card_table
+charta:acacia_game_chair
+charta:bamboo_bar_shelf
+charta:bamboo_bar_stool
+charta:bamboo_card_table
+charta:bamboo_game_chair
+charta:berry_wine_glass
+charta:birch_bar_shelf
+charta:birch_bar_stool
+charta:birch_card_table
+charta:birch_game_chair
+charta:cactus_wine_glass
+charta:card_table
+charta:cherry_bar_shelf
+charta:cherry_bar_stool
+charta:cherry_card_table
+charta:cherry_game_chair
+charta:crimson_bar_shelf
+charta:crimson_bar_stool
+charta:crimson_card_table
+charta:crimson_game_chair
+charta:dark_oak_bar_shelf
+charta:dark_oak_bar_stool
+charta:dark_oak_card_table
+charta:dark_oak_game_chair
+charta:dealer_table
+charta:deck
+charta:empty_beer_glass
+charta:empty_wine_glass
+charta:iron_lead
+charta:jungle_bar_shelf
+charta:jungle_bar_stool
+charta:jungle_card_table
+charta:jungle_game_chair
+charta:mangrove_bar_shelf
+charta:mangrove_bar_stool
+charta:mangrove_card_table
+charta:mangrove_game_chair
+charta:oak_bar_shelf
+charta:oak_bar_stool
+charta:oak_card_table
+charta:oak_game_chair
+charta:sorghum_beer_glass
+charta:spruce_bar_shelf
+charta:spruce_bar_stool
+charta:spruce_card_table
+charta:spruce_game_chair
+charta:warped_bar_shelf
+charta:warped_bar_stool
+charta:warped_card_table
+charta:warped_game_chair
+charta:wheat_beer_glass
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,17 @@
+# lithium-neoforge-0.15.3+mc1.21.1
+
+## mod metadata (id / version / deps)
+license = "LGPL-3.0-only"
+modId = "lithium"
+version = "0.15.3+mc1.21.1"
+displayName = "Lithium"
+modId = "minecraft"
+versionRange = "[1.21, 1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

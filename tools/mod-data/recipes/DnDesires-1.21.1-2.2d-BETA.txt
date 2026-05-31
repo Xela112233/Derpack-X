@@ -1,0 +1,212 @@
+dndesires:breccia_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:breccia dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:breccia_pillar_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:breccia_pillar dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:burner_blasting | minecraft:blasting | dndesires:burner minecraft:blasting
+dndesires:burner_smelting | minecraft:smelting | dndesires:burner minecraft:smelting
+dndesires:burner_smoking | minecraft:smoking | dndesires:burner minecraft:smoking
+dndesires:crafting/black_asphalt | minecraft:crafting_shaped | c:dyes/black dndesires:asphalts dndesires:black_asphalt minecraft:crafting_shaped
+dndesires:crafting/black_bore_block | minecraft:crafting_shaped | c:dyes/black dndesires:black_bore_block dndesires:bore_blocks minecraft:crafting_shaped
+dndesires:crafting/blue_asphalt | minecraft:crafting_shaped | c:dyes/blue dndesires:asphalts dndesires:blue_asphalt minecraft:crafting_shaped
+dndesires:crafting/blue_bore_block | minecraft:crafting_shaped | c:dyes/blue dndesires:blue_bore_block dndesires:bore_blocks minecraft:crafting_shaped
+dndesires:crafting/bore_block | minecraft:crafting_shaped | create:andesite_alloy create:andesite_alloy_block dndesires:bore_block minecraft:crafting_shaped minecraft:iron_ingot
+dndesires:crafting/brown_asphalt | minecraft:crafting_shaped | c:dyes/brown dndesires:asphalts dndesires:brown_asphalt minecraft:crafting_shaped
+dndesires:crafting/brown_bore_block | minecraft:crafting_shaped | c:dyes/brown dndesires:bore_blocks dndesires:brown_bore_block minecraft:crafting_shaped
+dndesires:crafting/burner | minecraft:crafting_shaped | c:ingots/zinc dndesires:burner minecraft:crafting_shaped minecraft:netherite_scrap
+dndesires:crafting/coal_from_coal_piece | minecraft:crafting_shapeless | dndesires:coal_piece minecraft:coal minecraft:crafting_shapeless
+dndesires:crafting/coal_piece_from_coal | minecraft:crafting_shapeless | dndesires:coal_piece minecraft:coal minecraft:crafting_shapeless
+dndesires:crafting/cog_crank | minecraft:crafting_shapeless | create:cogwheel create:hand_crank dndesires:cog_crank minecraft:crafting_shapeless
+dndesires:crafting/cog_crank_to_large | minecraft:crafting_shapeless | dndesires:cog_crank dndesires:large_cog_crank minecraft:crafting_shapeless minecraft:planks
+dndesires:crafting/cyan_asphalt | minecraft:crafting_shaped | c:dyes/cyan dndesires:asphalts dndesires:cyan_asphalt minecraft:crafting_shaped
+dndesires:crafting/cyan_bore_block | minecraft:crafting_shaped | c:dyes/cyan dndesires:bore_blocks dndesires:cyan_bore_block minecraft:crafting_shaped
+dndesires:crafting/diamond_from_diamond_shard | minecraft:crafting_shaped | dndesires:diamond_shard minecraft:crafting_shaped minecraft:diamond
+dndesires:crafting/diamond_shard_from_diamond | minecraft:crafting_shapeless | dndesires:diamond_shard minecraft:crafting_shapeless minecraft:diamond
+dndesires:crafting/fan_catalyst/blasting_sail | minecraft:crafting_shaped | c:storage_blocks/cardboard create:sail_frame dndesires:blasting_sail minecraft:crafting_shaped minecraft:lava_bucket
+dndesires:crafting/fan_catalyst/dragon_breathing_sail | minecraft:crafting_shaped | c:storage_blocks/cardboard create:sail_frame dndesires:dragon_breathing_sail minecraft:crafting_shaped minecraft:dragon_head
+dndesires:crafting/fan_catalyst/freezing_sail | minecraft:crafting_shaped | c:storage_blocks/cardboard create:sail_frame dndesires:freezing_sail minecraft:crafting_shaped minecraft:powder_snow_bucket
+dndesires:crafting/fan_catalyst/haunting_sail | minecraft:crafting_shaped | c:storage_blocks/cardboard create:sail_frame dndesires:haunting_sail minecraft:crafting_shaped minecraft:soul_campfire
+dndesires:crafting/fan_catalyst/sanding_sail | minecraft:crafting_shaped | c:storage_blocks/cardboard create:sail_frame dndesires:sanding_sail minecraft:crafting_shaped minecraft:sand
+dndesires:crafting/fan_catalyst/seething_sail | minecraft:crafting_shaped | create:blaze_cake dndesires:blasting_sail dndesires:burner dndesires:seething_sail minecraft:crafting_shaped
+dndesires:crafting/fan_catalyst/smoking_sail | minecraft:crafting_shaped | c:storage_blocks/cardboard create:sail_frame dndesires:smoking_sail minecraft:campfire minecraft:crafting_shaped
+dndesires:crafting/fan_catalyst/splashing_sail | minecraft:crafting_shaped | c:storage_blocks/cardboard create:sail_frame dndesires:splashing_sail minecraft:crafting_shaped minecraft:water_bucket
+dndesires:crafting/fluid_gauge | minecraft:crafting_shapeless | dndesires:fluid_gauge minecraft:compass minecraft:copper_ingot minecraft:crafting_shapeless
+dndesires:crafting/fluid_hatch | minecraft:crafting_shapeless | create:andesite_alloy dndesires:fluid_hatch minecraft:copper_trapdoor minecraft:crafting_shapeless
+dndesires:crafting/frogport | minecraft:crafting_shaped | create:andesite_alloy create:package_frogport dndesires:overburden_casing minecraft:crafting_shaped minecraft:slime_ball
+dndesires:crafting/gold_mixer | minecraft:crafting_shaped | create:brass_casing create:precision_mechanism dndesires:gold_mixer dndesires:gold_whisk minecraft:crafting_shaped
+dndesires:crafting/gold_whisk | minecraft:crafting_shaped | c:plates/gold create:andesite_alloy dndesires:gold_whisk minecraft:crafting_shaped
+dndesires:crafting/gray_asphalt | minecraft:crafting_shaped | c:dyes/gray dndesires:asphalts dndesires:gray_asphalt minecraft:crafting_shaped
+dndesires:crafting/gray_bore_block | minecraft:crafting_shaped | c:dyes/gray dndesires:bore_blocks dndesires:gray_bore_block minecraft:crafting_shaped
+dndesires:crafting/green_asphalt | minecraft:crafting_shaped | c:dyes/green dndesires:asphalts dndesires:green_asphalt minecraft:crafting_shaped
+dndesires:crafting/green_bore_block | minecraft:crafting_shaped | c:dyes/green dndesires:bore_blocks dndesires:green_bore_block minecraft:crafting_shaped
+dndesires:crafting/handheld_drill | minecraft:crafting_shaped | c:ingots/brass create:andesite_alloy create:brass_casing create:cogwheel dndesires:handheld_drill minecraft:crafting_shaped
+dndesires:crafting/handheld_saw | minecraft:crafting_shaped | c:plates/iron create:andesite_alloy create:andesite_casing create:cogwheel dndesires:handheld_saw minecraft:crafting_shaped
+dndesires:crafting/hydraulic_press | minecraft:crafting_shaped | create:fluid_tank create:mechanical_press dndesires:hydraulic_press minecraft:copper_block minecraft:crafting_shaped
+dndesires:crafting/industrial_fan | minecraft:crafting_shaped | create:cogwheel create:propeller dndesires:industrial_casing dndesires:industrial_fan minecraft:crafting_shaped
+dndesires:crafting/inverse_gearshift | minecraft:crafting_shapeless | create:andesite_casing create:cogwheel dndesires:inverse_gearshift minecraft:crafting_shapeless
+dndesires:crafting/lapis_lazuli_from_lapis_lazuli_shard | minecraft:crafting_shaped | dndesires:lapis_lazuli_shard minecraft:crafting_shaped minecraft:lapis_lazuli
+dndesires:crafting/lapis_lazuli_shard_from_lapis_lazuli | minecraft:crafting_shapeless | dndesires:lapis_lazuli_shard minecraft:crafting_shapeless minecraft:lapis_lazuli
+dndesires:crafting/large_cog_crank | minecraft:crafting_shapeless | create:hand_crank create:large_cogwheel dndesires:large_cog_crank minecraft:crafting_shapeless
+dndesires:crafting/light_blue_asphalt | minecraft:crafting_shaped | c:dyes/light_blue dndesires:asphalts dndesires:light_blue_asphalt minecraft:crafting_shaped
+dndesires:crafting/light_blue_bore_block | minecraft:crafting_shaped | c:dyes/light_blue dndesires:bore_blocks dndesires:light_blue_bore_block minecraft:crafting_shaped
+dndesires:crafting/light_gray_asphalt | minecraft:crafting_shaped | c:dyes/light_gray dndesires:asphalts dndesires:light_gray_asphalt minecraft:crafting_shaped
+dndesires:crafting/light_gray_bore_block | minecraft:crafting_shaped | c:dyes/light_gray dndesires:bore_blocks dndesires:light_gray_bore_block minecraft:crafting_shaped
+dndesires:crafting/lime_asphalt | minecraft:crafting_shaped | c:dyes/lime dndesires:asphalts dndesires:lime_asphalt minecraft:crafting_shaped
+dndesires:crafting/lime_bore_block | minecraft:crafting_shaped | c:dyes/lime dndesires:bore_blocks dndesires:lime_bore_block minecraft:crafting_shaped
+dndesires:crafting/magenta_asphalt | minecraft:crafting_shaped | c:dyes/magenta dndesires:asphalts dndesires:magenta_asphalt minecraft:crafting_shaped
+dndesires:crafting/magenta_bore_block | minecraft:crafting_shaped | c:dyes/magenta dndesires:bore_blocks dndesires:magenta_bore_block minecraft:crafting_shaped
+dndesires:crafting/multimeter | minecraft:crafting_shapeless | create:speedometer create:stressometer dndesires:multimeter minecraft:crafting_shapeless
+dndesires:crafting/multimeter_speed | minecraft:crafting_shapeless | create:speedometer dndesires:multimeter minecraft:crafting_shapeless
+dndesires:crafting/multimeter_stress | minecraft:crafting_shapeless | create:stressometer dndesires:multimeter minecraft:crafting_shapeless
+dndesires:crafting/omni_gearbox | minecraft:crafting_shaped | create:brass_casing create:gearbox create:vertical_gearbox dndesires:omni_gearbox minecraft:crafting_shaped
+dndesires:crafting/omni_speed_controller | minecraft:crafting_shaped | create:large_cogwheel create:rotation_speed_controller dndesires:omni_speed_controller minecraft:crafting_shaped
+dndesires:crafting/orange_asphalt | minecraft:crafting_shaped | c:dyes/orange dndesires:asphalts dndesires:orange_asphalt minecraft:crafting_shaped
+dndesires:crafting/orange_bore_block | minecraft:crafting_shaped | c:dyes/orange dndesires:bore_blocks dndesires:orange_bore_block minecraft:crafting_shaped
+dndesires:crafting/pink_asphalt | minecraft:crafting_shaped | c:dyes/pink dndesires:asphalts dndesires:pink_asphalt minecraft:crafting_shaped
+dndesires:crafting/pink_bore_block | minecraft:crafting_shaped | c:dyes/pink dndesires:bore_blocks dndesires:pink_bore_block minecraft:crafting_shaped
+dndesires:crafting/purple_asphalt | minecraft:crafting_shaped | c:dyes/purple dndesires:asphalts dndesires:purple_asphalt minecraft:crafting_shaped
+dndesires:crafting/purple_bore_block | minecraft:crafting_shaped | c:dyes/purple dndesires:bore_blocks dndesires:purple_bore_block minecraft:crafting_shaped
+dndesires:crafting/red_asphalt | minecraft:crafting_shaped | c:dyes/red dndesires:asphalts dndesires:red_asphalt minecraft:crafting_shaped
+dndesires:crafting/red_bore_block | minecraft:crafting_shaped | c:dyes/red dndesires:bore_blocks dndesires:red_bore_block minecraft:crafting_shaped
+dndesires:crafting/roll_table | minecraft:crafting_shaped | c:plates/iron create:depot dndesires:roll_table minecraft:crafting_shaped
+dndesires:crafting/smart_hopper | minecraft:crafting_shaped | c:plates/brass create:electron_tube dndesires:smart_hopper minecraft:crafting_shaped minecraft:hopper
+dndesires:crafting/stirling_engine | minecraft:crafting_shaped | c:plates/brass c:storage_blocks/zinc create:andesite_alloy dndesires:stirling_engine minecraft:crafting_shaped
+dndesires:crafting/transmitter | minecraft:crafting_shaped | create:stock_link create:transmitter dndesires:overburden_casing minecraft:crafting_shaped
+dndesires:crafting/white_asphalt | minecraft:crafting_shaped | c:dyes/white dndesires:asphalts dndesires:white_asphalt minecraft:crafting_shaped
+dndesires:crafting/white_bore_block | minecraft:crafting_shaped | c:dyes/white dndesires:bore_blocks dndesires:white_bore_block minecraft:crafting_shaped
+dndesires:crafting/yellow_asphalt | minecraft:crafting_shaped | c:dyes/yellow dndesires:asphalts dndesires:yellow_asphalt minecraft:crafting_shaped
+dndesires:crafting/yellow_bore_block | minecraft:crafting_shaped | c:dyes/yellow dndesires:bore_blocks dndesires:yellow_bore_block minecraft:crafting_shaped
+dndesires:cut_breccia_brick_slab | minecraft:crafting_shaped | dndesires:cut_breccia_brick_slab dndesires:cut_breccia_bricks minecraft:crafting_shaped
+dndesires:cut_breccia_brick_slab_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:cut_breccia_brick_slab dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:cut_breccia_brick_slab_recycling | minecraft:crafting_shapeless | dndesires:cut_breccia_brick_slab dndesires:cut_breccia_bricks minecraft:crafting_shapeless
+dndesires:cut_breccia_brick_stairs | minecraft:crafting_shaped | dndesires:cut_breccia_brick_stairs dndesires:cut_breccia_bricks minecraft:crafting_shaped
+dndesires:cut_breccia_brick_stairs_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:cut_breccia_brick_stairs dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:cut_breccia_brick_wall | minecraft:crafting_shaped | dndesires:cut_breccia_brick_wall dndesires:cut_breccia_bricks minecraft:crafting_shaped
+dndesires:cut_breccia_brick_wall_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:cut_breccia_brick_wall dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:cut_breccia_bricks_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:cut_breccia_bricks dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:cut_breccia_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:cut_breccia dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:cut_breccia_slab | minecraft:crafting_shaped | dndesires:cut_breccia dndesires:cut_breccia_slab minecraft:crafting_shaped
+dndesires:cut_breccia_slab_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:cut_breccia_slab dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:cut_breccia_slab_recycling | minecraft:crafting_shapeless | dndesires:cut_breccia dndesires:cut_breccia_slab minecraft:crafting_shapeless
+dndesires:cut_breccia_stairs | minecraft:crafting_shaped | dndesires:cut_breccia dndesires:cut_breccia_stairs minecraft:crafting_shaped
+dndesires:cut_breccia_stairs_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:cut_breccia_stairs dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:cut_breccia_wall | minecraft:crafting_shaped | dndesires:cut_breccia dndesires:cut_breccia_wall minecraft:crafting_shaped
+dndesires:cut_breccia_wall_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:cut_breccia_wall dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:dragon_breathing/chorus_fruit_from_apple | dndesires:dragon_breathing | dndesires:dragon_breathing minecraft:apple minecraft:chorus_fruit
+dndesires:dragon_breathing/crying_obsidian | dndesires:dragon_breathing | dndesires:dragon_breathing minecraft:crying_obsidian minecraft:obsidian
+dndesires:dragon_breathing/dragon_breath | dndesires:dragon_breathing | dndesires:dragon_breathing minecraft:dragon_breath minecraft:glass_bottle
+dndesires:dragon_breathing/end_stone | dndesires:dragon_breathing | dndesires:dragon_breathing minecraft:deepslate minecraft:end_stone
+dndesires:dragon_breathing/ender_pearl_from_magma_cream | dndesires:dragon_breathing | dndesires:dragon_breathing minecraft:ender_pearl minecraft:magma_cream
+dndesires:emptying/chocolate | create:emptying | create:emptying dndesires:chocolate_milkshake minecraft:glass_bottle
+dndesires:emptying/glowberry | create:emptying | create:emptying dndesires:glowberry_milkshake minecraft:glass_bottle
+dndesires:emptying/pumpkin | create:emptying | create:emptying dndesires:pumpkin_milkshake minecraft:glass_bottle
+dndesires:emptying/strawberry | create:emptying | create:emptying dndesires:strawberry_milkshake minecraft:glass_bottle
+dndesires:emptying/vanilla | create:emptying | create:emptying dndesires:vanilla_milkshake minecraft:glass_bottle
+dndesires:filling/chocolate | create:filling | create:filling dndesires:chocolate_milkshake minecraft:glass_bottle
+dndesires:filling/glowberry | create:filling | create:filling dndesires:glowberry_milkshake minecraft:glass_bottle
+dndesires:filling/pumpkin | create:filling | create:filling dndesires:pumpkin_milkshake minecraft:glass_bottle
+dndesires:filling/strawberry | create:filling | create:filling dndesires:strawberry_milkshake minecraft:glass_bottle
+dndesires:filling/vanilla | create:filling | create:filling dndesires:vanilla_milkshake minecraft:glass_bottle
+dndesires:freezing/blue_ice_from_packed_ice | dndesires:freezing | dndesires:freezing minecraft:blue_ice minecraft:packed_ice
+dndesires:freezing/obsidian_from_crying_obsidian | dndesires:freezing | dndesires:freezing minecraft:crying_obsidian minecraft:obsidian
+dndesires:freezing/packed_ice_from_ice | dndesires:freezing | dndesires:freezing minecraft:ice minecraft:packed_ice
+dndesires:freezing/powder_snow_bucket_from_water_bucket | dndesires:freezing | dndesires:freezing minecraft:powder_snow_bucket minecraft:water_bucket
+dndesires:freezing/slime_ball_from_magma_cream | dndesires:freezing | dndesires:freezing minecraft:magma_cream minecraft:slime_ball
+dndesires:freezing/snow_block_from_snowball | dndesires:freezing | dndesires:freezing minecraft:snow_block minecraft:snowball
+dndesires:hydraulic_compacting/asurine_gen | dndesires:hydraulic_compacting | c:lava create:asurine dndesires:hydraulic_compacting dndesires:vanilla_milkshake minecraft:sandstone
+dndesires:hydraulic_compacting/basalt_gen | dndesires:hydraulic_compacting | c:lava dndesires:hydraulic_compacting minecraft:basalt minecraft:blue_ice minecraft:soul_soil
+dndesires:hydraulic_compacting/breccia_gen | dndesires:hydraulic_compacting | c:lava create:scorchia dndesires:breccia dndesires:hydraulic_compacting dndesires:pumpkin_milkshake
+dndesires:hydraulic_compacting/calcite | dndesires:hydraulic_compacting | dndesires:hydraulic_compacting minecraft:bone_block minecraft:calcite minecraft:diorite
+dndesires:hydraulic_compacting/cobblestone_gen | dndesires:hydraulic_compacting | c:lava c:water dndesires:hydraulic_compacting minecraft:cobblestone
+dndesires:hydraulic_compacting/crimsite_gen | dndesires:hydraulic_compacting | c:lava create:crimsite dndesires:hydraulic_compacting dndesires:strawberry_milkshake minecraft:cobbled_deepslate
+dndesires:hydraulic_compacting/netherrack | dndesires:hydraulic_compacting | create:cinder_flour dndesires:breccia dndesires:hydraulic_compacting minecraft:netherrack
+dndesires:hydraulic_compacting/ochrum_gen | dndesires:hydraulic_compacting | c:lava create:ochrum dndesires:glowberry_milkshake dndesires:hydraulic_compacting minecraft:terracotta
+dndesires:hydraulic_compacting/stone_gen | dndesires:hydraulic_compacting | c:lava c:water dndesires:hydraulic_compacting minecraft:stone
+dndesires:hydraulic_compacting/tuff | dndesires:hydraulic_compacting | c:lava dndesires:hydraulic_compacting minecraft:andesite minecraft:deepslate minecraft:gravel minecraft:tuff
+dndesires:hydraulic_compacting/veridium_gen | dndesires:hydraulic_compacting | c:lava create:veridium dndesires:chocolate_milkshake dndesires:hydraulic_compacting minecraft:granite
+dndesires:item_application/industrial_casing | create:item_application | c:ingots/zinc create:copper_casing create:item_application dndesires:industrial_casing
+dndesires:item_application/overburden_casing | create:item_application | c:plates/iron create:andesite_casing create:item_application dndesires:overburden_casing
+dndesires:layered_breccia_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:layered_breccia dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:mechanical_crafting/gatling_breaker | create:mechanical_crafting | c:gems/diamond c:gems/prismarine c:ingots/netherite c:obsidians c:plates/iron create:andesite_alloy create:mechanical_crafting create:precision_mechanism dndesires:gatling_breaker
+dndesires:mixing/asphalt | create:mixing | create:mixing create:scorchia create:tea dndesires:asphalt minecraft:blackstone minecraft:slime_ball
+dndesires:mixing/chocolate | create:mixing | create:bar_of_chocolate create:chocolate create:mixing dndesires:chocolate_milkshake minecraft:snowball minecraft:sugar
+dndesires:mixing/glowberry | create:mixing | c:milk create:mixing dndesires:glowberry_milkshake minecraft:glow_berries minecraft:snowball minecraft:sugar
+dndesires:mixing/pumpkin | create:mixing | c:milk create:mixing dndesires:pumpkin_milkshake minecraft:pumpkin minecraft:snowball minecraft:sugar
+dndesires:mixing/strawberry | create:mixing | c:milk create:mixing dndesires:strawberry_milkshake minecraft:snowball minecraft:sugar minecraft:sweet_berries
+dndesires:mixing/vanilla | create:mixing | c:milk create:mixing dndesires:vanilla_milkshake minecraft:blue_orchid minecraft:dandelion minecraft:snowball minecraft:sugar
+dndesires:polished_cut_breccia_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:polished_cut_breccia dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:polished_cut_breccia_slab | minecraft:crafting_shaped | dndesires:polished_cut_breccia dndesires:polished_cut_breccia_slab minecraft:crafting_shaped
+dndesires:polished_cut_breccia_slab_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:polished_cut_breccia_slab dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:polished_cut_breccia_slab_recycling | minecraft:crafting_shapeless | dndesires:polished_cut_breccia dndesires:polished_cut_breccia_slab minecraft:crafting_shapeless
+dndesires:polished_cut_breccia_stairs | minecraft:crafting_shaped | dndesires:polished_cut_breccia dndesires:polished_cut_breccia_stairs minecraft:crafting_shaped
+dndesires:polished_cut_breccia_stairs_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:polished_cut_breccia_stairs dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:polished_cut_breccia_wall | minecraft:crafting_shaped | dndesires:polished_cut_breccia dndesires:polished_cut_breccia_wall minecraft:crafting_shaped
+dndesires:polished_cut_breccia_wall_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:polished_cut_breccia_wall dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:sanding/andesite_from_polished_andesite | dndesires:sanding | dndesires:sanding minecraft:andesite minecraft:polished_andesite
+dndesires:sanding/andesite_slab_from_polished_andesite_slab | dndesires:sanding | dndesires:sanding minecraft:andesite_slab minecraft:polished_andesite_slab
+dndesires:sanding/andesite_stairs_from_polished_andesite_stairs | dndesires:sanding | dndesires:sanding minecraft:andesite_stairs minecraft:polished_andesite_stairs
+dndesires:sanding/basalt_from_polished_basalt | dndesires:sanding | dndesires:sanding minecraft:basalt minecraft:polished_basalt
+dndesires:sanding/cobbled_deepslate_from_polished_deepslate | dndesires:sanding | dndesires:sanding minecraft:cobbled_deepslate minecraft:polished_deepslate
+dndesires:sanding/cobbled_deepslate_slab_from_polished_deepslate_slab | dndesires:sanding | dndesires:sanding minecraft:cobbled_deepslate_slab minecraft:polished_deepslate_slab
+dndesires:sanding/cobbled_deepslate_stairs_from_polished_deepslate_stairs | dndesires:sanding | dndesires:sanding minecraft:cobbled_deepslate_stairs minecraft:polished_deepslate_stairs
+dndesires:sanding/cobbled_deepslate_wall_from_polished_deepslate_wall | dndesires:sanding | dndesires:sanding minecraft:cobbled_deepslate_wall minecraft:polished_deepslate_wall
+dndesires:sanding/copper_block_from_exposed_copper | dndesires:sanding | dndesires:sanding minecraft:copper_block minecraft:exposed_copper
+dndesires:sanding/cut_copper_from_exposed_cut_copper | dndesires:sanding | dndesires:sanding minecraft:cut_copper minecraft:exposed_cut_copper
+dndesires:sanding/cut_copper_slab_from_exposed_cut_copper_slab | dndesires:sanding | dndesires:sanding minecraft:cut_copper_slab minecraft:exposed_cut_copper_slab
+dndesires:sanding/cut_copper_stairs_from_exposed_cut_copper_stairs | dndesires:sanding | dndesires:sanding minecraft:cut_copper_stairs minecraft:exposed_cut_copper_stairs
+dndesires:sanding/diorite_from_polished_diorite | dndesires:sanding | dndesires:sanding minecraft:diorite minecraft:polished_diorite
+dndesires:sanding/diorite_slab_from_polished_diorite_slab | dndesires:sanding | dndesires:sanding minecraft:diorite_slab minecraft:polished_diorite_slab
+dndesires:sanding/diorite_stairs_from_polished_diorite_stairs | dndesires:sanding | dndesires:sanding minecraft:diorite_stairs minecraft:polished_diorite_stairs
+dndesires:sanding/exposed_copper_from_weathered_copper | dndesires:sanding | dndesires:sanding minecraft:exposed_copper minecraft:weathered_copper
+dndesires:sanding/exposed_cut_copper_from_weathered_cut_copper | dndesires:sanding | dndesires:sanding minecraft:exposed_cut_copper minecraft:weathered_cut_copper
+dndesires:sanding/exposed_cut_copper_slab_from_weathered_cut_copper_slab | dndesires:sanding | dndesires:sanding minecraft:exposed_cut_copper_slab minecraft:weathered_cut_copper_slab
+dndesires:sanding/exposed_cut_copper_stairs_from_weathered_cut_copper_stairs | dndesires:sanding | dndesires:sanding minecraft:exposed_cut_copper_stairs minecraft:weathered_cut_copper_stairs
+dndesires:sanding/granite_from_polished_granite | dndesires:sanding | dndesires:sanding minecraft:granite minecraft:polished_granite
+dndesires:sanding/granite_slab_from_polished_granite_slab | dndesires:sanding | dndesires:sanding minecraft:granite_slab minecraft:polished_granite_slab
+dndesires:sanding/granite_stairs_from_polished_granite_stairs | dndesires:sanding | dndesires:sanding minecraft:granite_stairs minecraft:polished_granite_stairs
+dndesires:sanding/netherrack_from_crimson_nylium | dndesires:sanding | dndesires:sanding minecraft:crimson_nylium minecraft:netherrack
+dndesires:sanding/netherrack_from_magma_block | dndesires:sanding | dndesires:sanding minecraft:magma_block minecraft:netherrack
+dndesires:sanding/netherrack_from_warped_nylium | dndesires:sanding | dndesires:sanding minecraft:netherrack minecraft:warped_nylium
+dndesires:sanding/packed_mud_from_mud | dndesires:sanding | dndesires:sanding minecraft:mud minecraft:packed_mud
+dndesires:sanding/polished_rose_quartz_from_rose_quartz | dndesires:sanding | create:polished_rose_quartz create:rose_quartz dndesires:sanding
+dndesires:sanding/weathered_copper_from_oxidized_copper | dndesires:sanding | dndesires:sanding minecraft:oxidized_copper minecraft:weathered_copper
+dndesires:sanding/weathered_cut_copper_from_oxidized_cut_copper | dndesires:sanding | dndesires:sanding minecraft:oxidized_cut_copper minecraft:weathered_cut_copper
+dndesires:sanding/weathered_cut_copper_slab_from_oxidized_cut_copper_slab | dndesires:sanding | dndesires:sanding minecraft:oxidized_cut_copper_slab minecraft:weathered_cut_copper_slab
+dndesires:sanding/weathered_cut_copper_stairs_from_oxidized_cut_copper_stairs | dndesires:sanding | dndesires:sanding minecraft:oxidized_cut_copper_stairs minecraft:weathered_cut_copper_stairs
+dndesires:seething/crushed_raw_copper | dndesires:seething | create:crushed_raw_copper dndesires:seething minecraft:copper_ingot
+dndesires:seething/crushed_raw_gold | dndesires:seething | create:crushed_raw_gold dndesires:seething minecraft:gold_ingot
+dndesires:seething/crushed_raw_iron | dndesires:seething | create:crushed_raw_iron dndesires:seething minecraft:iron_ingot
+dndesires:seething/crushed_raw_zinc | dndesires:seething | create:crushed_raw_zinc create:zinc_ingot dndesires:seething
+dndesires:seething/diamond_shard_from_coal_block | dndesires:seething | dndesires:diamond_shard dndesires:seething minecraft:coal_block
+dndesires:seething/diamond_shard_from_deepslate_coal_ore | dndesires:seething | dndesires:diamond_shard dndesires:seething minecraft:deepslate_coal_ore
+dndesires:seething/ender_eye_from_ender_pearl | dndesires:seething | dndesires:seething minecraft:ender_eye minecraft:ender_pearl
+dndesires:seething/galosphere/crushed_raw_silver | dndesires:seething | create:crushed_raw_silver dndesires:seething galosphere:silver_ingot neoforge:mod_loaded
+dndesires:seething/ic2/crushed_raw_aluminum | dndesires:seething | create:crushed_raw_aluminum dndesires:seething ic2:ingot_aluminium neoforge:mod_loaded
+dndesires:seething/ic2/crushed_raw_silver | dndesires:seething | create:crushed_raw_silver dndesires:seething ic2:ingot_silver neoforge:mod_loaded
+dndesires:seething/ic2/crushed_raw_tin | dndesires:seething | create:crushed_raw_tin dndesires:seething ic2:ingot_tin neoforge:mod_loaded
+dndesires:seething/ic2/crushed_raw_uranium | dndesires:seething | create:crushed_raw_uranium dndesires:seething ic2:ingot_uranium neoforge:mod_loaded
+dndesires:seething/iceandfire/crushed_raw_silver | dndesires:seething | create:crushed_raw_silver dndesires:seething iceandfire:silver_ingot neoforge:mod_loaded
+dndesires:seething/immersiveengineering/crushed_raw_aluminum | dndesires:seething | create:crushed_raw_aluminum dndesires:seething immersiveengineering:ingot_aluminum neoforge:mod_loaded
+dndesires:seething/immersiveengineering/crushed_raw_lead | dndesires:seething | create:crushed_raw_lead dndesires:seething immersiveengineering:ingot_lead neoforge:mod_loaded
+dndesires:seething/immersiveengineering/crushed_raw_nickel | dndesires:seething | create:crushed_raw_nickel dndesires:seething immersiveengineering:ingot_nickel neoforge:mod_loaded
+dndesires:seething/immersiveengineering/crushed_raw_silver | dndesires:seething | create:crushed_raw_silver dndesires:seething immersiveengineering:ingot_silver neoforge:mod_loaded
+dndesires:seething/immersiveengineering/crushed_raw_uranium | dndesires:seething | create:crushed_raw_uranium dndesires:seething immersiveengineering:ingot_uranium neoforge:mod_loaded
+dndesires:seething/lapis_lazuli_shard_from_calcite | dndesires:seething | dndesires:lapis_lazuli_shard dndesires:seething minecraft:calcite
+dndesires:seething/magma_block_from_netherrack | dndesires:seething | dndesires:seething minecraft:magma_block minecraft:netherrack
+dndesires:seething/magma_cream_from_slime_ball | dndesires:seething | dndesires:seething minecraft:magma_cream minecraft:slime_ball
+dndesires:seething/mekanism/crushed_raw_lead | dndesires:seething | create:crushed_raw_lead dndesires:seething mekanism:ingot_lead neoforge:mod_loaded
+dndesires:seething/mekanism/crushed_raw_osmium | dndesires:seething | create:crushed_raw_osmium dndesires:seething mekanism:ingot_osmium neoforge:mod_loaded
+dndesires:seething/mekanism/crushed_raw_tin | dndesires:seething | create:crushed_raw_tin dndesires:seething mekanism:ingot_tin neoforge:mod_loaded
+dndesires:seething/mekanism/crushed_raw_uranium | dndesires:seething | create:crushed_raw_uranium dndesires:seething mekanism:ingot_uranium neoforge:mod_loaded
+dndesires:seething/netherite_scrap_netherite_scrap | dndesires:seething | dndesires:seething minecraft:ancient_debris minecraft:netherite_scrap
+dndesires:seething/oreganized/crushed_raw_lead | dndesires:seething | create:crushed_raw_lead dndesires:seething neoforge:mod_loaded oreganized:lead_ingot
+dndesires:seething/oreganized/crushed_raw_silver | dndesires:seething | create:crushed_raw_silver dndesires:seething neoforge:mod_loaded oreganized:silver_ingot
+dndesires:seething/thermal/crushed_raw_lead | dndesires:seething | create:crushed_raw_lead dndesires:seething neoforge:mod_loaded thermal:lead_ingot
+dndesires:seething/thermal/crushed_raw_nickel | dndesires:seething | create:crushed_raw_nickel dndesires:seething neoforge:mod_loaded thermal:nickel_ingot
+dndesires:seething/thermal/crushed_raw_silver | dndesires:seething | create:crushed_raw_silver dndesires:seething neoforge:mod_loaded thermal:silver_ingot
+dndesires:seething/thermal/crushed_raw_tin | dndesires:seething | create:crushed_raw_tin dndesires:seething neoforge:mod_loaded thermal:tin_ingot
+dndesires:small_breccia_brick_slab | minecraft:crafting_shaped | dndesires:small_breccia_brick_slab dndesires:small_breccia_bricks minecraft:crafting_shaped
+dndesires:small_breccia_brick_slab_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:small_breccia_brick_slab dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:small_breccia_brick_slab_recycling | minecraft:crafting_shapeless | dndesires:small_breccia_brick_slab dndesires:small_breccia_bricks minecraft:crafting_shapeless
+dndesires:small_breccia_brick_stairs | minecraft:crafting_shaped | dndesires:small_breccia_brick_stairs dndesires:small_breccia_bricks minecraft:crafting_shaped
+dndesires:small_breccia_brick_stairs_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:small_breccia_brick_stairs dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:small_breccia_brick_wall | minecraft:crafting_shaped | dndesires:small_breccia_brick_wall dndesires:small_breccia_bricks minecraft:crafting_shaped
+dndesires:small_breccia_brick_wall_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:small_breccia_brick_wall dndesires:stone_types/breccia minecraft:stonecutting
+dndesires:small_breccia_bricks_from_stone_types_breccia_stonecutting | minecraft:stonecutting | dndesires:small_breccia_bricks dndesires:stone_types/breccia minecraft:stonecutting

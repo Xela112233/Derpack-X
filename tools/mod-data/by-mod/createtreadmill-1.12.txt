@@ -1,0 +1,25 @@
+# createtreadmill-1.12
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "createtreadmill" #mandatory
+version = "1.12" #mandatory
+displayName = "CreateTreadmill" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1,1.21.2)"
+modId = "create"
+versionRange = "[6.0,)"
+
+## blocks
+createtreadmill:maid_motor
+createtreadmill:treadmill
+
+## items
+createtreadmill:maid_motor
+createtreadmill:treadmill
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,8 @@
+create_ironworks:blocks/bronze_block | minecraft:block | create_ironworks:blocks/bronze_block create_ironworks:bronze_block minecraft:block minecraft:item minecraft:survives_explosion
+create_ironworks:blocks/deepslate_tin_ore | minecraft:block | create_ironworks:blocks/deepslate_tin_ore create_ironworks:deepslate_tin_ore create_ironworks:raw_tin minecraft:apply_bonus minecraft:block minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:set_count minecraft:silk_touch
+create_ironworks:blocks/raw_tin_block | minecraft:block | create_ironworks:blocks/raw_tin_block create_ironworks:raw_tin_block minecraft:block minecraft:item minecraft:survives_explosion
+create_ironworks:blocks/rose_quartz_block | minecraft:block | create_ironworks:blocks/rose_quartz_block create_ironworks:rose_quartz_block minecraft:block minecraft:item minecraft:survives_explosion
+create_ironworks:blocks/steel_block | minecraft:block | create_ironworks:blocks/steel_block create_ironworks:steel_block minecraft:block minecraft:item minecraft:survives_explosion
+create_ironworks:blocks/sturdy_sheet_block | minecraft:block | create_ironworks:blocks/sturdy_sheet_block create_ironworks:sturdy_sheet_block minecraft:block minecraft:item minecraft:survives_explosion
+create_ironworks:blocks/tin_block | minecraft:block | create_ironworks:blocks/tin_block create_ironworks:tin_block minecraft:block minecraft:item minecraft:survives_explosion
+create_ironworks:blocks/tin_ore | minecraft:block | create_ironworks:blocks/tin_ore create_ironworks:raw_tin create_ironworks:tin_ore minecraft:apply_bonus minecraft:block minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:set_count minecraft:silk_touch

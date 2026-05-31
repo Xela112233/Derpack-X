@@ -1,0 +1,23 @@
+# sound-physics-remastered-neoforge-1.21.1-1.5.1
+
+## mod metadata (id / version / deps)
+license = "GPL"
+modId = "sound_physics_remastered"
+version = "1.21.1-1.5.1"
+displayName = "Sound Physics Remastered"
+modId = "neoforge"
+versionRange = "[21.0.0-beta,)"
+modId = "minecraft"
+versionRange = "[1.21,1.21.1]"
+modId = "cloth_config"
+versionRange = "[15.0.127,)"
+modId = "voicechat"
+versionRange = "[1.21-2.3.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

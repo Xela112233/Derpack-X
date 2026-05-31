@@ -1,0 +1,19 @@
+# justenoughbreeding-neoforge-1.21-1.21.1-1.6.2
+
+## mod metadata (id / version / deps)
+license="The MIT License (MIT)"
+modId="justenoughbreeding"
+version="1.6.2"
+displayName="Just Enough Breeding"
+modId="neoforge"
+versionRange="[4,)"
+modId="minecraft"
+versionRange="[1.21,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

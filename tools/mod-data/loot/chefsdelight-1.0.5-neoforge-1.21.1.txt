@@ -1,0 +1,1 @@
+chefsdelight:chests/cooker | minecraft:chest | farmersdelight:cabbage_leaf farmersdelight:cabbage_seeds farmersdelight:onion farmersdelight:tomato_seeds minecraft:beef minecraft:bone_meal minecraft:bowl minecraft:chest minecraft:chicken minecraft:egg minecraft:item minecraft:mutton minecraft:porkchop minecraft:salmon

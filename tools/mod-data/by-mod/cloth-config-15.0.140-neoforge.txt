@@ -1,0 +1,17 @@
+# cloth-config-15.0.140-neoforge
+
+## mod metadata (id / version / deps)
+license = "GNU LGPLv3"
+modId = "cloth_config"
+version = "15.0.140"
+displayName = "Cloth Config v15 API"
+modId = "neoforge"
+versionRange = "[21.0.110-beta,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

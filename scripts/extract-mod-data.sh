@@ -1,124 +1,117 @@
 #!/usr/bin/env bash
 # Extract licensing-SAFE facts from mod jars into a text digest for offline reference.
 #
-# Captures only functional IDENTIFIERS and tiny structural metadata:
-#   - mod id / version / dependency ranges (META-INF/neoforge.mods.toml headers)
-#   - block ids   (assets/<ns>/blockstates/*)
-#   - item ids    (assets/<ns>/models/item/*)
-#   - neoforge biome_modifier contents (ore/spawn/feature injection — small structural json)
-#   - c: common tag membership (data/c/tags/** — lists of ids)
-#   - recipe INDEX: per recipe, "id | type | referenced ids" (a DERIVED navigation index,
-#     NOT the verbatim recipe json — no quantities, patterns, NBT, or conditions)
-#   - loot-table INDEX: per table, "id | type | referenced ids" (same derived index)
+# Captures ONLY functional identifiers + tiny structural metadata + DERIVED indexes:
+#   - mod id/version/deps (META-INF/neoforge.mods.toml headers)
+#   - block ids, item ids
+#   - neoforge biome_modifier contents (small structural json)
+#   - c: common tag membership
+#   - recipe INDEX  : per recipe,     "id | type | referenced ids"  (derived, NOT verbatim)
+#   - loot INDEX    : per loot table,  "id | type | referenced ids"  (derived, NOT verbatim)
+# Never copies verbatim recipes/loot/lang/models/textures -> safe to commit.
 #
-# Deliberately does NOT copy the mods' creative content verbatim: no verbatim recipe or loot
-# files, lang strings, models, or textures. Output is IDs/tags/derived-index -> safe to commit.
-#
+# Single Python pass (one zip open per jar, in-process) — fast enough for the full pack.
 # Usage: scripts/extract-mod-data.sh <jars-dir> [out-dir]
-set -uo pipefail
+set -euo pipefail
+python3 - "$@" <<'PY'
+import sys, os, re, json, zipfile, glob
 
-JARS="${1:?usage: extract-mod-data.sh <jars-dir> [out-dir]}"
-OUT="${2:-tools/mod-data}"
-BYMOD="${OUT}/by-mod"
-rm -rf "${BYMOD}"; mkdir -p "${BYMOD}"
-ORES="${OUT}/INDEX-ores.txt"
-BMODS="${OUT}/INDEX-biome-modifiers.txt"
-: > "${ORES}"; : > "${BMODS}"
+jars_dir = sys.argv[1]
+out = sys.argv[2] if len(sys.argv) > 2 else "tools/mod-data"
+bymod, recdir, lootdir = (os.path.join(out, d) for d in ("by-mod", "recipes", "loot"))
+for d in (bymod, recdir, lootdir):
+    os.makedirs(d, exist_ok=True)
 
-shopt -s nullglob
-count=0
-for jar in "${JARS}"/*.jar; do
-  name="$(basename "${jar}" .jar)"
-  {
-    echo "# ${name}"
-    echo
-    echo "## mod metadata (id / version / deps)"
-    unzip -p "${jar}" META-INF/neoforge.mods.toml 2>/dev/null \
-      | grep -iE '^\s*(modId|version|displayName|license|versionRange)\s*=' | sed 's/^[[:space:]]*//'
-    echo
-    echo "## blocks"
-    unzip -Z1 "${jar}" 2>/dev/null | sed -nE 's#^assets/([^/]+)/blockstates/(.+)\.json$#\1:\2#p' | sort -u
-    echo
-    echo "## items"
-    unzip -Z1 "${jar}" 2>/dev/null | sed -nE 's#^assets/([^/]+)/models/item/(.+)\.json$#\1:\2#p' | sort -u
-    echo
-    echo "## neoforge biome_modifiers"
-    while IFS= read -r p; do
-      [ -n "${p}" ] || continue
-      printf '%s :: ' "${p##*/biome_modifier/}"
-      unzip -p "${jar}" "${p}" 2>/dev/null | tr -d '\n' | tr -s ' '
-      echo
-    done < <(unzip -Z1 "${jar}" 2>/dev/null | grep -E '/neoforge/biome_modifier/.+\.json$')
-    echo
-    echo "## c: common tag membership"
-    while IFS= read -r p; do
-      [ -n "${p}" ] || continue
-      printf '%s :: ' "${p#data/c/tags/}"
-      unzip -p "${jar}" "${p}" 2>/dev/null | tr -d '\n' | tr -s ' '
-      echo
-    done < <(unzip -Z1 "${jar}" 2>/dev/null | grep -E '^data/c/tags/.+\.json$')
-  } > "${BYMOD}/${name}.txt" 2>/dev/null
+RL        = re.compile(r'^[a-z0-9_.-]+:[a-z0-9_./-]+$')
+BLOCK     = re.compile(r'^assets/([^/]+)/blockstates/(.+)\.json$')
+ITEM      = re.compile(r'^assets/([^/]+)/models/item/(.+)\.json$')
+CTAG      = re.compile(r'^data/c/tags/(.+)\.json$')
+RECIPE    = re.compile(r'^data/([^/]+)/recipes?/(.+)\.json$')
+LOOT      = re.compile(r'^data/([^/]+)/loot_tables?/(.+)\.json$')
+TOMLKEY   = re.compile(r'^\s*(modId|version|displayName|license|versionRange)\s*=', re.I)
 
-  # recipe INDEX (derived: "id | type | referenced ids") — NOT verbatim recipe json
-  if command -v jq >/dev/null 2>&1; then
-    rtmp="$(mktemp -d)"
-    unzip -oq "${jar}" 'data/*/recipe/*.json' 'data/*/recipes/*.json' -d "${rtmp}" 2>/dev/null
-    mkdir -p "${OUT}/recipes"
-    find "${rtmp}" -type f -name '*.json' 2>/dev/null | sort | while IFS= read -r f; do
-      rel="${f#${rtmp}/}"
-      # only real recipes: data/<ns>/recipe(s)/...  (skips data/<ns>/advancement/recipes/...)
-      printf '%s' "${rel}" | grep -qE '^data/[^/]+/recipes?/' || continue
-      rid="$(printf '%s' "${rel}" | sed -E 's#^data/([^/]+)/recipes?/(.+)\.json$#\1:\2#')"
-      summary="$(jq -r 'try ("\(.type // "?") | " + ([.. | strings | select(test("^[a-z0-9_.-]+:[a-z0-9_./-]+$"))] | unique | join(" "))) catch empty' "${f}" 2>/dev/null)"
-      [ -n "${summary}" ] && printf '%s | %s\n' "${rid}" "${summary}"
-    done > "${OUT}/recipes/${name}.txt"
-    [ -s "${OUT}/recipes/${name}.txt" ] || rm -f "${OUT}/recipes/${name}.txt"
-    rm -rf "${rtmp}"
-  fi
+def refs(obj):
+    found = set()
+    def walk(x):
+        if isinstance(x, str):
+            if RL.match(x): found.add(x)
+        elif isinstance(x, dict):
+            for v in x.values(): walk(v)
+        elif isinstance(x, list):
+            for v in x: walk(v)
+    walk(obj)
+    return " ".join(sorted(found))
 
-  # loot-table INDEX (derived: "table-id | type | referenced ids") — NOT verbatim loot json
-  if command -v jq >/dev/null 2>&1; then
-    ltmp="$(mktemp -d)"
-    unzip -oq "${jar}" 'data/*/loot_table/*.json' 'data/*/loot_tables/*.json' -d "${ltmp}" 2>/dev/null
-    mkdir -p "${OUT}/loot"
-    find "${ltmp}" -type f -name '*.json' 2>/dev/null | sort | while IFS= read -r f; do
-      rel="${f#${ltmp}/}"
-      printf '%s' "${rel}" | grep -qE '^data/[^/]+/loot_tables?/' || continue
-      lid="$(printf '%s' "${rel}" | sed -E 's#^data/([^/]+)/loot_tables?/(.+)\.json$#\1:\2#')"
-      summary="$(jq -r 'try ("\(.type // "?") | " + ([.. | strings | select(test("^[a-z0-9_.-]+:[a-z0-9_./-]+$"))] | unique | join(" "))) catch empty' "${f}" 2>/dev/null)"
-      [ -n "${summary}" ] && printf '%s | %s\n' "${lid}" "${summary}"
-    done > "${OUT}/loot/${name}.txt"
-    [ -s "${OUT}/loot/${name}.txt" ] || rm -f "${OUT}/loot/${name}.txt"
-    rm -rf "${ltmp}"
-  fi
+ores_idx = open(os.path.join(out, "INDEX-ores.txt"), "w", encoding="utf-8")
+bmod_idx = open(os.path.join(out, "INDEX-biome-modifiers.txt"), "w", encoding="utf-8")
+count = 0
 
-  # cross-mod ore census
-  unzip -Z1 "${jar}" 2>/dev/null \
-    | sed -nE 's#^assets/[^/]+/blockstates/(.*_ore.*)\.json$#'"${name}"': \1#p' >> "${ORES}"
-  # cross-mod biome-modifier census (one line each)
-  while IFS= read -r p; do
-    [ -n "${p}" ] || continue
-    printf '%s\t%s\t' "${name}" "${p##*/biome_modifier/}"
-    unzip -p "${jar}" "${p}" 2>/dev/null | tr -d '\n' | tr -s ' '
-    echo
-  done < <(unzip -Z1 "${jar}" 2>/dev/null | grep -E '/neoforge/biome_modifier/.+\.json$') >> "${BMODS}"
+for jar in sorted(glob.glob(os.path.join(jars_dir, "*.jar"))):
+    name = os.path.basename(jar)[:-4]
+    try:
+        zf = zipfile.ZipFile(jar)
+    except Exception:
+        continue
+    blocks, items, bmods, ctags, rec_lines, loot_lines, toml = [], [], [], [], [], [], []
+    try:
+        toml = [l.strip() for l in zf.read("META-INF/neoforge.mods.toml").decode("utf-8", "replace").splitlines() if TOMLKEY.match(l)]
+    except Exception:
+        pass
+    for n in zf.namelist():
+        m = BLOCK.match(n)
+        if m: blocks.append(f"{m.group(1)}:{m.group(2)}"); continue
+        m = ITEM.match(n)
+        if m: items.append(f"{m.group(1)}:{m.group(2)}"); continue
+        if "/neoforge/biome_modifier/" in n and n.endswith(".json"):
+            try: bmods.append((n.split("/biome_modifier/")[-1], json.dumps(json.loads(zf.read(n)))))
+            except Exception: pass
+            continue
+        m = CTAG.match(n)
+        if m:
+            try: ctags.append((m.group(1), json.dumps(json.loads(zf.read(n)))))
+            except Exception: pass
+            continue
+        m = RECIPE.match(n)
+        if m:
+            try: obj = json.loads(zf.read(n))
+            except Exception: continue
+            t = obj.get("type", "?") if isinstance(obj, dict) else "?"
+            rec_lines.append(f"{m.group(1)}:{m.group(2)} | {t} | {refs(obj)}")
+            continue
+        m = LOOT.match(n)
+        if m:
+            try: obj = json.loads(zf.read(n))
+            except Exception: continue
+            t = obj.get("type", "?") if isinstance(obj, dict) else "?"
+            loot_lines.append(f"{m.group(1)}:{m.group(2)} | {t} | {refs(obj)}")
+    zf.close()
+    with open(os.path.join(bymod, name + ".txt"), "w", encoding="utf-8") as f:
+        f.write(f"# {name}\n\n## mod metadata (id / version / deps)\n" + "\n".join(toml))
+        f.write("\n\n## blocks\n" + "\n".join(sorted(set(blocks))))
+        f.write("\n\n## items\n" + "\n".join(sorted(set(items))))
+        f.write("\n\n## neoforge biome_modifiers\n" + "\n".join(f"{a} :: {b}" for a, b in sorted(bmods)))
+        f.write("\n\n## c: common tag membership\n" + "\n".join(f"{a} :: {b}" for a, b in sorted(ctags)) + "\n")
+    if rec_lines:
+        open(os.path.join(recdir, name + ".txt"), "w", encoding="utf-8").write("\n".join(sorted(rec_lines)) + "\n")
+    if loot_lines:
+        open(os.path.join(lootdir, name + ".txt"), "w", encoding="utf-8").write("\n".join(sorted(loot_lines)) + "\n")
+    for b in sorted(set(blocks)):
+        if "_ore" in b: ores_idx.write(f"{name}: {b}\n")
+    for a, b in sorted(bmods):
+        bmod_idx.write(f"{name}\t{a}\t{b}\n")
+    count += 1
 
-  count=$((count + 1))
-done
-
-sort -o "${ORES}" "${ORES}"
-{
-  echo "Mod-data digest — IDs / tags / biome-modifiers only (no recipes/loot/lang/assets)."
-  echo "Generated by scripts/extract-mod-data.sh over ${count} jars."
-  echo
-  echo "  by-mod/<jar>.txt            per-mod blocks, items, biome_modifiers, c: tags, deps"
-  echo "  recipes/<jar>.txt           per-recipe 'id | type | referenced ids' (derived index, not verbatim)"
-  echo "  loot/<jar>.txt              per-loot-table 'id | type | referenced ids' (derived index, not verbatim)"
-  echo "  INDEX-ores.txt              every *_ore blockstate across all mods (data-driven census)"
-  echo "  INDEX-biome-modifiers.txt   every neoforge biome_modifier across all mods"
-  echo
-  echo "Note: catches DATA-DRIVEN worldgen only; pair with the in-game EMI ore plugin for"
-  echo "ores a mod injects in code (no biome_modifier json)."
-} > "${OUT}/README.txt"
-
-echo "Extracted ${count} mods -> ${OUT}"
+ores_idx.close(); bmod_idx.close()
+p = os.path.join(out, "INDEX-ores.txt")
+open(p, "w", encoding="utf-8").write("\n".join(sorted(open(p, encoding="utf-8").read().splitlines())) + "\n")
+open(os.path.join(out, "README.txt"), "w", encoding="utf-8").write(
+    "Mod-data digest — IDs / tags / biome-modifiers + recipe & loot INDEXES (derived, not verbatim).\n"
+    f"Generated by scripts/extract-mod-data.sh over {count} jars.\n\n"
+    "  by-mod/<jar>.txt            blocks, items, biome_modifiers, c: tags, deps\n"
+    "  recipes/<jar>.txt           per-recipe 'id | type | referenced ids'\n"
+    "  loot/<jar>.txt              per-loot-table 'id | type | referenced ids'\n"
+    "  INDEX-ores.txt              every *_ore blockstate across all mods\n"
+    "  INDEX-biome-modifiers.txt   every neoforge biome_modifier across all mods\n\n"
+    "Derived indexes only (no verbatim recipe/loot/lang/assets). Pair with in-game EMI for code-injected ores.\n")
+print(f"Extracted {count} mods -> {out}")
+PY

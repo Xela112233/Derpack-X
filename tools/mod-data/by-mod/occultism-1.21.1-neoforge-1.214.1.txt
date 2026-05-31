@@ -1,0 +1,965 @@
+# occultism-1.21.1-neoforge-1.214.1
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId="occultism" #mandatory
+version="1.214.1" #mandatory
+displayName="Occultism" #mandatory
+modId = "neoforge"
+versionRange = "[21.0.110-beta,)"
+modId = "modonomicon"
+versionRange = "[1.117.2,)"
+modId = "theurgy"
+versionRange = "[1.58.5,)"
+modId = "curios"
+versionRange = "[9.5.1,)"
+modId = "geckolib"
+versionRange = "[4.5.5,)"
+modId = "smartbrainlib"
+versionRange = "[1.14.5,)"
+modId = "almostunified"
+versionRange = "[0.5.0,)"
+modId = "per_viam_invenire"
+versionRange = "[0.1.57,)"
+modId = "jei"
+versionRange = "[19.8.2.0,)"
+modId = "emi"
+versionRange = "[1.1.7+1.21,)"
+modId = "apothic_enchanting"
+versionRange = "[1.2.5,)"
+modId = "create"
+versionRange = "[6.0.0,)"
+modId = "immersiveengineering"
+versionRange = "[12.1.0-185,)"
+
+## blocks
+occultism:celestial_chalice
+occultism:chalk_glyph_black
+occultism:chalk_glyph_blue
+occultism:chalk_glyph_brown
+occultism:chalk_glyph_cyan
+occultism:chalk_glyph_gold
+occultism:chalk_glyph_gray
+occultism:chalk_glyph_green
+occultism:chalk_glyph_light_blue
+occultism:chalk_glyph_light_gray
+occultism:chalk_glyph_lime
+occultism:chalk_glyph_magenta
+occultism:chalk_glyph_orange
+occultism:chalk_glyph_pink
+occultism:chalk_glyph_purple
+occultism:chalk_glyph_rainbow
+occultism:chalk_glyph_red
+occultism:chalk_glyph_void
+occultism:chalk_glyph_white
+occultism:chiseled_otherrock_bricks
+occultism:chiseled_otherstone_bricks
+occultism:copper_sacrificial_bowl
+occultism:cracked_otherrock_bricks
+occultism:cracked_otherstone_bricks
+occultism:dark_copper_sacrificial_bowl
+occultism:dark_golden_sacrificial_bowl
+occultism:dark_iesnium_sacrificial_bowl
+occultism:dark_sacrificial_bowl
+occultism:dark_silver_sacrificial_bowl
+occultism:datura
+occultism:dimensional_battlefield
+occultism:dimensional_extractor
+occultism:dimensional_mineshaft
+occultism:eldritch_chalice
+occultism:entity_wormhole
+occultism:entity_wormhole_dark
+occultism:golden_sacrificial_bowl
+occultism:iesnium_anvil
+occultism:iesnium_block
+occultism:iesnium_ore
+occultism:iesnium_ore_natural
+occultism:iesnium_sacrificial_bowl
+occultism:large_candle
+occultism:large_candle_black
+occultism:large_candle_blue
+occultism:large_candle_brown
+occultism:large_candle_cyan
+occultism:large_candle_gray
+occultism:large_candle_green
+occultism:large_candle_light_blue
+occultism:large_candle_light_gray
+occultism:large_candle_lime
+occultism:large_candle_magenta
+occultism:large_candle_orange
+occultism:large_candle_pink
+occultism:large_candle_purple
+occultism:large_candle_red
+occultism:large_candle_white
+occultism:large_candle_yellow
+occultism:lighted_air
+occultism:othercobblerock
+occultism:othercobblerock_slab
+occultism:othercobblerock_stairs
+occultism:othercobblerock_wall
+occultism:othercobblestone
+occultism:othercobblestone_slab
+occultism:othercobblestone_stairs
+occultism:othercobblestone_wall
+occultism:otherflower
+occultism:otherflower_natural
+occultism:otherglass_natural
+occultism:otherplanks
+occultism:otherplanks_button
+occultism:otherplanks_door
+occultism:otherplanks_fence
+occultism:otherplanks_fence_gate
+occultism:otherplanks_hanging_sign
+occultism:otherplanks_pressure_plate
+occultism:otherplanks_sign
+occultism:otherplanks_slab
+occultism:otherplanks_stairs
+occultism:otherplanks_trapdoor
+occultism:otherplanks_wall_hanging_sign
+occultism:otherplanks_wall_sign
+occultism:otherrock
+occultism:otherrock_bricks
+occultism:otherrock_bricks_slab
+occultism:otherrock_bricks_stairs
+occultism:otherrock_bricks_wall
+occultism:otherrock_button
+occultism:otherrock_natural
+occultism:otherrock_pressure_plate
+occultism:otherrock_slab
+occultism:otherrock_stairs
+occultism:otherrock_wall
+occultism:otherstone
+occultism:otherstone_bricks
+occultism:otherstone_bricks_slab
+occultism:otherstone_bricks_stairs
+occultism:otherstone_bricks_wall
+occultism:otherstone_button
+occultism:otherstone_natural
+occultism:otherstone_pedestal
+occultism:otherstone_pedestal_silver
+occultism:otherstone_pressure_plate
+occultism:otherstone_slab
+occultism:otherstone_stairs
+occultism:otherstone_wall
+occultism:otherworld_leaves
+occultism:otherworld_leaves_natural
+occultism:otherworld_log
+occultism:otherworld_log_natural
+occultism:otherworld_sapling
+occultism:otherworld_sapling_natural
+occultism:otherworld_wood
+occultism:polished_otherrock
+occultism:polished_otherrock_slab
+occultism:polished_otherrock_stairs
+occultism:polished_otherrock_wall
+occultism:polished_otherstone
+occultism:polished_otherstone_slab
+occultism:polished_otherstone_stairs
+occultism:polished_otherstone_wall
+occultism:potted_otherflower
+occultism:raw_iesnium_block
+occultism:raw_silver_block
+occultism:sacrificial_bowl
+occultism:silver_block
+occultism:silver_ore
+occultism:silver_ore_deepslate
+occultism:silver_sacrificial_bowl
+occultism:skeleton_skull_dummy
+occultism:spirit_attuned_crystal
+occultism:spirit_campfire
+occultism:spirit_fire
+occultism:spirit_grindstone
+occultism:spirit_lantern
+occultism:spirit_torch
+occultism:spirit_wall_torch
+occultism:stable_wormhole
+occultism:stable_wormhole_dark
+occultism:storage_controller
+occultism:storage_controller_base
+occultism:storage_controller_base_dark
+occultism:storage_controller_dark
+occultism:storage_controller_stabilized
+occultism:storage_controller_stabilized_dark
+occultism:storage_stabilizer_tier0
+occultism:storage_stabilizer_tier0_dark
+occultism:storage_stabilizer_tier1
+occultism:storage_stabilizer_tier1_dark
+occultism:storage_stabilizer_tier2
+occultism:storage_stabilizer_tier2_dark
+occultism:storage_stabilizer_tier3
+occultism:storage_stabilizer_tier3_dark
+occultism:storage_stabilizer_tier4
+occultism:storage_stabilizer_tier4_dark
+occultism:storage_stabilizer_tier5
+occultism:storage_stabilizer_tier5_dark
+occultism:stripped_otherworld_log
+occultism:stripped_otherworld_log_natural
+occultism:stripped_otherworld_wood
+occultism:tallow_block
+occultism:wither_skeleton_skull_dummy
+
+## items
+occultism:advancement/bat_icon
+occultism:advancement/beaver_icon
+occultism:advancement/beholder_icon
+occultism:advancement/blacksmith_icon
+occultism:advancement/chimera_icon
+occultism:advancement/cthulhu_icon
+occultism:advancement/deer_icon
+occultism:advancement/devil_icon
+occultism:advancement/dragon_icon
+occultism:advancement/fairy_icon
+occultism:advancement/greedy_icon
+occultism:advancement/guardian_icon
+occultism:advancement/hat_icon
+occultism:advancement/headless_icon
+occultism:advancement/mummy_icon
+occultism:advancement/shub_niggurath_icon
+occultism:advancement/shub_niggurath_spawn_icon
+occultism:advancement_icon
+occultism:afrit_essence
+occultism:amethyst_dust
+occultism:awakened_feather
+occultism:beaver_nugget
+occultism:book_of_binding_afrit
+occultism:book_of_binding_bound_afrit
+occultism:book_of_binding_bound_djinni
+occultism:book_of_binding_bound_foliot
+occultism:book_of_binding_bound_marid
+occultism:book_of_binding_djinni
+occultism:book_of_binding_empty
+occultism:book_of_binding_foliot
+occultism:book_of_binding_marid
+occultism:book_of_calling_djinni_manage_machine
+occultism:book_of_calling_foliot_cleaner
+occultism:book_of_calling_foliot_farmer
+occultism:book_of_calling_foliot_lumberjack
+occultism:book_of_calling_foliot_transport_items
+occultism:brush
+occultism:burnt_otherrock
+occultism:burnt_otherstone
+occultism:butcher_knife
+occultism:celestial_chalice
+occultism:chalk_black
+occultism:chalk_black_impure
+occultism:chalk_blue
+occultism:chalk_blue_impure
+occultism:chalk_brown
+occultism:chalk_brown_impure
+occultism:chalk_cyan
+occultism:chalk_cyan_impure
+occultism:chalk_gold
+occultism:chalk_gray
+occultism:chalk_gray_impure
+occultism:chalk_green
+occultism:chalk_green_impure
+occultism:chalk_light_blue
+occultism:chalk_light_blue_impure
+occultism:chalk_light_gray
+occultism:chalk_light_gray_impure
+occultism:chalk_lime
+occultism:chalk_lime_impure
+occultism:chalk_magenta
+occultism:chalk_magenta_impure
+occultism:chalk_orange
+occultism:chalk_orange_impure
+occultism:chalk_pink
+occultism:chalk_pink_impure
+occultism:chalk_purple
+occultism:chalk_purple_impure
+occultism:chalk_rainbow
+occultism:chalk_red
+occultism:chalk_red_impure
+occultism:chalk_void
+occultism:chalk_white
+occultism:chalk_white_impure
+occultism:chalk_yellow_impure
+occultism:chiseled_otherrock_bricks
+occultism:chiseled_otherstone_bricks
+occultism:copper_dust
+occultism:copper_sacrificial_bowl
+occultism:cracked_otherrock_bricks
+occultism:cracked_otherstone_bricks
+occultism:cruelty_essence
+occultism:crushed_blackstone
+occultism:crushed_blue_ice
+occultism:crushed_calcite
+occultism:crushed_end_stone
+occultism:crushed_ice
+occultism:crushed_packed_ice
+occultism:cursed_honey
+occultism:dark_copper_sacrificial_bowl
+occultism:dark_golden_sacrificial_bowl
+occultism:dark_iesnium_sacrificial_bowl
+occultism:dark_sacrificial_bowl
+occultism:dark_silver_sacrificial_bowl
+occultism:datura
+occultism:datura_seeds
+occultism:debug_djinni_manage_machine
+occultism:debug_djinni_test
+occultism:debug_foliot_cleaner
+occultism:debug_foliot_farmer
+occultism:debug_foliot_lumberjack
+occultism:debug_foliot_trader
+occultism:debug_foliot_transport_items
+occultism:debug_wand
+occultism:demonic_meat
+occultism:demons_dream_essence
+occultism:dictionary_of_spirits
+occultism:dictionary_of_spirits_icon
+occultism:dimensional_battlefield
+occultism:dimensional_extractor
+occultism:dimensional_matrix
+occultism:dimensional_mineshaft
+occultism:divination_rod
+occultism:divination_rod_0
+occultism:divination_rod_1
+occultism:divination_rod_2
+occultism:divination_rod_3
+occultism:divination_rod_4
+occultism:divination_rod_5
+occultism:divination_rod_6
+occultism:divination_rod_7
+occultism:divination_rod_base
+occultism:divination_rod_searching
+occultism:dragonyst_dust
+occultism:echo_dust
+occultism:eldritch_chalice
+occultism:emerald_dust
+occultism:ender_satchel
+occultism:entity_wormhole
+occultism:entity_wormhole_dark
+occultism:entity_wormhole_portal
+occultism:familiar_ring
+occultism:flame_of_automation
+occultism:fragile_soul_gem
+occultism:fragile_soul_gem_empty
+occultism:fragile_soul_gem_filled
+occultism:gold_dust
+occultism:golden_sacrificial_bowl
+occultism:gray_paste
+occultism:iesnium_anvil
+occultism:iesnium_block
+occultism:iesnium_butcher_knife
+occultism:iesnium_dust
+occultism:iesnium_ingot
+occultism:iesnium_nugget
+occultism:iesnium_ore
+occultism:iesnium_ore_natural
+occultism:iesnium_pickaxe
+occultism:iesnium_sacrificial_bowl
+occultism:infused_lenses
+occultism:infused_pickaxe
+occultism:iron_dust
+occultism:jei_dummy/none
+occultism:jei_dummy/require_item_use
+occultism:jei_dummy/require_sacrifice
+occultism:knowledge_tablet
+occultism:lapis_dust
+occultism:large_candle
+occultism:large_candle_black
+occultism:large_candle_blue
+occultism:large_candle_brown
+occultism:large_candle_cyan
+occultism:large_candle_gray
+occultism:large_candle_green
+occultism:large_candle_light_blue
+occultism:large_candle_light_gray
+occultism:large_candle_lime
+occultism:large_candle_magenta
+occultism:large_candle_orange
+occultism:large_candle_pink
+occultism:large_candle_purple
+occultism:large_candle_red
+occultism:large_candle_white
+occultism:large_candle_yellow
+occultism:lens_frame
+occultism:lenses
+occultism:magic_lamp_empty
+occultism:marid_essence
+occultism:miner_afrit_deeps
+occultism:miner_ancient_eldritch
+occultism:miner_debug_unspecialized
+occultism:miner_djinni_ores
+occultism:miner_foliot_unspecialized
+occultism:miner_marid_master
+occultism:mining_dim_core
+occultism:mysterious_egg_icon
+occultism:nature_paste
+occultism:netherite_dust
+occultism:netherite_scrap_dust
+occultism:obsidian_dust
+occultism:othercobblerock
+occultism:othercobblerock_slab
+occultism:othercobblerock_stairs
+occultism:othercobblerock_wall
+occultism:othercobblestone
+occultism:othercobblestone_slab
+occultism:othercobblestone_stairs
+occultism:othercobblestone_wall
+occultism:otherflower
+occultism:otherflower_natural
+occultism:otherglass
+occultism:otherglass_natural
+occultism:otherplanks
+occultism:otherplanks_button
+occultism:otherplanks_door
+occultism:otherplanks_fence
+occultism:otherplanks_fence_gate
+occultism:otherplanks_hanging_sign
+occultism:otherplanks_pressure_plate
+occultism:otherplanks_sign
+occultism:otherplanks_slab
+occultism:otherplanks_stairs
+occultism:otherplanks_trapdoor
+occultism:otherrock
+occultism:otherrock_bricks
+occultism:otherrock_bricks_slab
+occultism:otherrock_bricks_stairs
+occultism:otherrock_bricks_wall
+occultism:otherrock_button
+occultism:otherrock_frame
+occultism:otherrock_natural
+occultism:otherrock_pressure_plate
+occultism:otherrock_slab
+occultism:otherrock_stairs
+occultism:otherrock_wall
+occultism:otherstone
+occultism:otherstone_bricks
+occultism:otherstone_bricks_slab
+occultism:otherstone_bricks_stairs
+occultism:otherstone_bricks_wall
+occultism:otherstone_button
+occultism:otherstone_frame
+occultism:otherstone_natural
+occultism:otherstone_pedestal
+occultism:otherstone_pedestal_silver
+occultism:otherstone_pressure_plate
+occultism:otherstone_slab
+occultism:otherstone_stairs
+occultism:otherstone_tablet
+occultism:otherstone_wall
+occultism:otherworld_ashes
+occultism:otherworld_essence
+occultism:otherworld_goggles
+occultism:otherworld_leaves
+occultism:otherworld_leaves_natural
+occultism:otherworld_log
+occultism:otherworld_log_natural
+occultism:otherworld_sapling
+occultism:otherworld_sapling_natural
+occultism:otherworld_sapling_natural_inventory
+occultism:otherworld_sapling_natural_simulated
+occultism:otherworld_wood
+occultism:pentacle_craft
+occultism:pentacle_misc
+occultism:pentacle_possess
+occultism:pentacle_summon
+occultism:polished_otherrock
+occultism:polished_otherrock_slab
+occultism:polished_otherrock_stairs
+occultism:polished_otherrock_wall
+occultism:polished_otherstone
+occultism:polished_otherstone_slab
+occultism:polished_otherstone_stairs
+occultism:polished_otherstone_wall
+occultism:purified_ink
+occultism:raw_iesnium
+occultism:raw_iesnium_block
+occultism:raw_silver
+occultism:raw_silver_block
+occultism:repair_icon
+occultism:research_fragment_dust
+occultism:resurrect_icon
+occultism:ritual_dummy
+occultism:ritual_dummy/craft_dark_iesnium_sacrificial_bowl
+occultism:ritual_dummy/craft_dimensional_battlefield
+occultism:ritual_dummy/craft_dimensional_extractor
+occultism:ritual_dummy/craft_dimensional_matrix
+occultism:ritual_dummy/craft_dimensional_mineshaft
+occultism:ritual_dummy/craft_dragonyst_dust
+occultism:ritual_dummy/craft_ender_satchel
+occultism:ritual_dummy/craft_entity_wormhole
+occultism:ritual_dummy/craft_entity_wormhole_dark
+occultism:ritual_dummy/craft_familiar_ring
+occultism:ritual_dummy/craft_fragile_soul_gem
+occultism:ritual_dummy/craft_gray_paste
+occultism:ritual_dummy/craft_iesnium_anvil
+occultism:ritual_dummy/craft_iesnium_butcher_knife
+occultism:ritual_dummy/craft_iesnium_sacrificial_bowl
+occultism:ritual_dummy/craft_infused_lenses
+occultism:ritual_dummy/craft_infused_pickaxe
+occultism:ritual_dummy/craft_knowledge_tablet
+occultism:ritual_dummy/craft_miner_afrit_deeps
+occultism:ritual_dummy/craft_miner_djinni_ores
+occultism:ritual_dummy/craft_miner_foliot_unspecialized
+occultism:ritual_dummy/craft_miner_marid_master
+occultism:ritual_dummy/craft_nature_paste
+occultism:ritual_dummy/craft_research_fragment_dust
+occultism:ritual_dummy/craft_ritual_satchel_t1
+occultism:ritual_dummy/craft_ritual_satchel_t2
+occultism:ritual_dummy/craft_satchel
+occultism:ritual_dummy/craft_soul_gem
+occultism:ritual_dummy/craft_spirit_grindstone
+occultism:ritual_dummy/craft_stabilizer_tier1
+occultism:ritual_dummy/craft_stabilizer_tier1_dark
+occultism:ritual_dummy/craft_stabilizer_tier2
+occultism:ritual_dummy/craft_stabilizer_tier2_dark
+occultism:ritual_dummy/craft_stabilizer_tier3
+occultism:ritual_dummy/craft_stabilizer_tier3_dark
+occultism:ritual_dummy/craft_stabilizer_tier4
+occultism:ritual_dummy/craft_stabilizer_tier4_dark
+occultism:ritual_dummy/craft_stable_wormhole
+occultism:ritual_dummy/craft_stable_wormhole_dark
+occultism:ritual_dummy/craft_storage_controller_base
+occultism:ritual_dummy/craft_storage_controller_base_dark
+occultism:ritual_dummy/craft_storage_remote
+occultism:ritual_dummy/craft_true_sight_staff
+occultism:ritual_dummy/craft_upgrade_ritual_satchel
+occultism:ritual_dummy/craft_vitality_compass
+occultism:ritual_dummy/craft_witherite_dust
+occultism:ritual_dummy/custom_ritual_craft
+occultism:ritual_dummy/custom_ritual_misc
+occultism:ritual_dummy/custom_ritual_possess
+occultism:ritual_dummy/custom_ritual_summon
+occultism:ritual_dummy/familiar_bat
+occultism:ritual_dummy/familiar_beaver
+occultism:ritual_dummy/familiar_beholder
+occultism:ritual_dummy/familiar_blacksmith
+occultism:ritual_dummy/familiar_chimera
+occultism:ritual_dummy/familiar_cthulhu
+occultism:ritual_dummy/familiar_deer
+occultism:ritual_dummy/familiar_devil
+occultism:ritual_dummy/familiar_dragon
+occultism:ritual_dummy/familiar_fairy
+occultism:ritual_dummy/familiar_greedy
+occultism:ritual_dummy/familiar_guardian
+occultism:ritual_dummy/familiar_headless
+occultism:ritual_dummy/familiar_mummy
+occultism:ritual_dummy/familiar_otherworld_bird
+occultism:ritual_dummy/familiar_parrot
+occultism:ritual_dummy/misc_bee_nest
+occultism:ritual_dummy/misc_bell
+occultism:ritual_dummy/misc_budding_amethyst
+occultism:ritual_dummy/misc_celestial_chalice
+occultism:ritual_dummy/misc_chalk_rainbow
+occultism:ritual_dummy/misc_chalk_void
+occultism:ritual_dummy/misc_diamond_horse_armor
+occultism:ritual_dummy/misc_eldritch_chalice
+occultism:ritual_dummy/misc_golden_horse_armor
+occultism:ritual_dummy/misc_iron_horse_armor
+occultism:ritual_dummy/misc_miner_ancient_eldritch
+occultism:ritual_dummy/misc_reinforced_deepslate
+occultism:ritual_dummy/misc_stabilized_storage
+occultism:ritual_dummy/misc_stabilized_storage_dark
+occultism:ritual_dummy/misc_stabilizer_tier5
+occultism:ritual_dummy/misc_stabilizer_tier5_dark
+occultism:ritual_dummy/misc_trinity_gem
+occultism:ritual_dummy/misc_wild_trim
+occultism:ritual_dummy/possess_bee
+occultism:ritual_dummy/possess_blaze
+occultism:ritual_dummy/possess_elder_guardian
+occultism:ritual_dummy/possess_enderman
+occultism:ritual_dummy/possess_endermite
+occultism:ritual_dummy/possess_ghast
+occultism:ritual_dummy/possess_goat
+occultism:ritual_dummy/possess_guardian
+occultism:ritual_dummy/possess_hoglin
+occultism:ritual_dummy/possess_iesnium_golem
+occultism:ritual_dummy/possess_phantom
+occultism:ritual_dummy/possess_random_animal_common
+occultism:ritual_dummy/possess_random_animal_rideable
+occultism:ritual_dummy/possess_random_animal_small
+occultism:ritual_dummy/possess_random_animal_special
+occultism:ritual_dummy/possess_random_animal_water
+occultism:ritual_dummy/possess_shulker
+occultism:ritual_dummy/possess_skeleton
+occultism:ritual_dummy/possess_unbound_otherworld_bird
+occultism:ritual_dummy/possess_unbound_parrot
+occultism:ritual_dummy/possess_villager
+occultism:ritual_dummy/possess_warden
+occultism:ritual_dummy/possess_weak_shulker
+occultism:ritual_dummy/possess_witch
+occultism:ritual_dummy/possess_zombie_piglin
+occultism:ritual_dummy/repair_armors
+occultism:ritual_dummy/repair_chalks
+occultism:ritual_dummy/repair_miners
+occultism:ritual_dummy/repair_tools
+occultism:ritual_dummy/resurrect_allay
+occultism:ritual_dummy/resurrect_familiar
+occultism:ritual_dummy/resurrect_mob
+occultism:ritual_dummy/summon_afrit_crusher
+occultism:ritual_dummy/summon_afrit_crystallizer
+occultism:ritual_dummy/summon_afrit_rain_weather
+occultism:ritual_dummy/summon_afrit_smelter
+occultism:ritual_dummy/summon_afrit_thunder_weather
+occultism:ritual_dummy/summon_demonic_husband
+occultism:ritual_dummy/summon_demonic_wife
+occultism:ritual_dummy/summon_djinni_clear_weather
+occultism:ritual_dummy/summon_djinni_crusher
+occultism:ritual_dummy/summon_djinni_crystallizer
+occultism:ritual_dummy/summon_djinni_day_time
+occultism:ritual_dummy/summon_djinni_gambler
+occultism:ritual_dummy/summon_djinni_manage_machine
+occultism:ritual_dummy/summon_djinni_night_time
+occultism:ritual_dummy/summon_djinni_smelter
+occultism:ritual_dummy/summon_foliot_cleaner
+occultism:ritual_dummy/summon_foliot_crusher
+occultism:ritual_dummy/summon_foliot_crystallizer
+occultism:ritual_dummy/summon_foliot_farmer
+occultism:ritual_dummy/summon_foliot_lumberjack
+occultism:ritual_dummy/summon_foliot_otherrock_trader
+occultism:ritual_dummy/summon_foliot_otherstone_trader
+occultism:ritual_dummy/summon_foliot_sapling_trader
+occultism:ritual_dummy/summon_foliot_smelter
+occultism:ritual_dummy/summon_foliot_transport_items
+occultism:ritual_dummy/summon_marid_crusher
+occultism:ritual_dummy/summon_marid_crystallizer
+occultism:ritual_dummy/summon_marid_smelter
+occultism:ritual_dummy/summon_unbound_afrit
+occultism:ritual_dummy/summon_unbound_marid
+occultism:ritual_dummy/summon_wondering_trader
+occultism:ritual_dummy/wild_breeze
+occultism:ritual_dummy/wild_creeper
+occultism:ritual_dummy/wild_drowned
+occultism:ritual_dummy/wild_horde_illager
+occultism:ritual_dummy/wild_hunt
+occultism:ritual_dummy/wild_husk
+occultism:ritual_dummy/wild_random_animal_common
+occultism:ritual_dummy/wild_random_animal_rideable
+occultism:ritual_dummy/wild_random_animal_small
+occultism:ritual_dummy/wild_random_animal_special
+occultism:ritual_dummy/wild_random_animal_water
+occultism:ritual_dummy/wild_silverfish
+occultism:ritual_dummy/wild_strong_breeze
+occultism:ritual_dummy/wild_villager
+occultism:ritual_dummy/wild_weak_breeze
+occultism:ritual_satchel_t1
+occultism:ritual_satchel_t2
+occultism:sacrificial_bowl
+occultism:satchel
+occultism:silver_block
+occultism:silver_dust
+occultism:silver_ingot
+occultism:silver_nugget
+occultism:silver_ore
+occultism:silver_ore_deepslate
+occultism:silver_sacrificial_bowl
+occultism:soul_gem
+occultism:soul_gem_empty
+occultism:soul_gem_filled
+occultism:soul_shard
+occultism:soul_shattered
+occultism:spawn_egg/afrit
+occultism:spawn_egg/afrit_unbound
+occultism:spawn_egg/demonic_husband
+occultism:spawn_egg/demonic_wife
+occultism:spawn_egg/djinni
+occultism:spawn_egg/familiar_bat
+occultism:spawn_egg/familiar_beaver
+occultism:spawn_egg/familiar_beholder
+occultism:spawn_egg/familiar_blacksmith
+occultism:spawn_egg/familiar_chimera
+occultism:spawn_egg/familiar_cthulhu
+occultism:spawn_egg/familiar_deer
+occultism:spawn_egg/familiar_devil
+occultism:spawn_egg/familiar_dragon
+occultism:spawn_egg/familiar_fairy
+occultism:spawn_egg/familiar_goat
+occultism:spawn_egg/familiar_greedy
+occultism:spawn_egg/familiar_guardian
+occultism:spawn_egg/familiar_headless
+occultism:spawn_egg/familiar_mummy
+occultism:spawn_egg/familiar_shub_niggurath
+occultism:spawn_egg/foliot
+occultism:spawn_egg/iesnium_golem
+occultism:spawn_egg/marid
+occultism:spawn_egg/marid_unbound
+occultism:spawn_egg/otherworld_bird
+occultism:spawn_egg/possessed_bee
+occultism:spawn_egg/possessed_blaze
+occultism:spawn_egg/possessed_elder_guardian
+occultism:spawn_egg/possessed_enderman
+occultism:spawn_egg/possessed_endermite
+occultism:spawn_egg/possessed_ghast
+occultism:spawn_egg/possessed_goat
+occultism:spawn_egg/possessed_guardian
+occultism:spawn_egg/possessed_hoglin
+occultism:spawn_egg/possessed_phantom
+occultism:spawn_egg/possessed_shulker
+occultism:spawn_egg/possessed_skeleton
+occultism:spawn_egg/possessed_warden
+occultism:spawn_egg/possessed_weak_shulker
+occultism:spawn_egg/possessed_witch
+occultism:spawn_egg/possessed_zombie_piglin
+occultism:spawn_egg/wild_breeze
+occultism:spawn_egg/wild_evoker
+occultism:spawn_egg/wild_horde_creeper
+occultism:spawn_egg/wild_horde_drowned
+occultism:spawn_egg/wild_horde_husk
+occultism:spawn_egg/wild_horde_silverfish
+occultism:spawn_egg/wild_hunt_skeleton
+occultism:spawn_egg/wild_hunt_wither_skeleton
+occultism:spawn_egg/wild_strong_breeze
+occultism:spawn_egg/wild_weak_breeze
+occultism:spawn_egg/wondering_trader
+occultism:spirit_attuned_crystal
+occultism:spirit_attuned_gem
+occultism:spirit_attuned_pickaxe_head
+occultism:spirit_campfire
+occultism:spirit_fire
+occultism:spirit_grindstone
+occultism:spirit_lantern
+occultism:spirit_torch
+occultism:stable_wormhole
+occultism:stable_wormhole_dark
+occultism:stable_wormhole_dark_linked
+occultism:stable_wormhole_dark_unlinked
+occultism:stable_wormhole_linked
+occultism:stable_wormhole_unlinked
+occultism:storage_controller
+occultism:storage_controller_base
+occultism:storage_controller_base_dark
+occultism:storage_controller_dark
+occultism:storage_controller_item
+occultism:storage_controller_stabilized
+occultism:storage_controller_stabilized_dark
+occultism:storage_remote
+occultism:storage_remote_inert
+occultism:storage_remote_linked
+occultism:storage_remote_unlinked
+occultism:storage_stabilizer_tier0
+occultism:storage_stabilizer_tier0_dark
+occultism:storage_stabilizer_tier1
+occultism:storage_stabilizer_tier1_dark
+occultism:storage_stabilizer_tier2
+occultism:storage_stabilizer_tier2_dark
+occultism:storage_stabilizer_tier3
+occultism:storage_stabilizer_tier3_dark
+occultism:storage_stabilizer_tier4
+occultism:storage_stabilizer_tier4_dark
+occultism:storage_stabilizer_tier5
+occultism:storage_stabilizer_tier5_dark
+occultism:stripped_otherworld_log
+occultism:stripped_otherworld_log_natural
+occultism:stripped_otherworld_wood
+occultism:sweet_honey_heart
+occultism:taboo_book
+occultism:tallow
+occultism:tallow_block
+occultism:trinity_gem
+occultism:trinity_gem_empty
+occultism:trinity_gem_filled
+occultism:true_sight_staff
+occultism:true_sight_staff_0
+occultism:true_sight_staff_1
+occultism:true_sight_staff_2
+occultism:true_sight_staff_3
+occultism:true_sight_staff_4
+occultism:true_sight_staff_5
+occultism:true_sight_staff_6
+occultism:true_sight_staff_7
+occultism:true_sight_staff_searching
+occultism:vitality_compass
+occultism:vitality_compass/compass_00
+occultism:vitality_compass/compass_01
+occultism:vitality_compass/compass_02
+occultism:vitality_compass/compass_03
+occultism:vitality_compass/compass_04
+occultism:vitality_compass/compass_05
+occultism:vitality_compass/compass_06
+occultism:vitality_compass/compass_07
+occultism:vitality_compass/compass_08
+occultism:vitality_compass/compass_09
+occultism:vitality_compass/compass_10
+occultism:vitality_compass/compass_11
+occultism:vitality_compass/compass_12
+occultism:vitality_compass/compass_13
+occultism:vitality_compass/compass_14
+occultism:vitality_compass/compass_15
+occultism:vitality_compass/compass_16
+occultism:vitality_compass/compass_17
+occultism:vitality_compass/compass_18
+occultism:vitality_compass/compass_19
+occultism:vitality_compass/compass_20
+occultism:vitality_compass/compass_21
+occultism:vitality_compass/compass_22
+occultism:vitality_compass/compass_23
+occultism:vitality_compass/compass_24
+occultism:vitality_compass/compass_25
+occultism:vitality_compass/compass_26
+occultism:vitality_compass/compass_27
+occultism:vitality_compass/compass_28
+occultism:vitality_compass/compass_29
+occultism:vitality_compass/compass_30
+occultism:vitality_compass/compass_31
+occultism:witherite_dust
+occultism:wormhole_frame
+
+## neoforge biome_modifiers
+add_ore_silver.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "occultism:ore_silver", "step": "underground_ores"}
+add_ore_iesnium.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_nether", "features": "occultism:ore_iesnium", "step": "underground_ores"}
+add_tree_otherworld_natural.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:stronghold_biased_to", "features": "occultism:tree_otherworld_natural", "step": "vegetal_decoration"}
+add_grove_underground.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "occultism:grove_underground", "step": "underground_structures"}
+add_tree_otherworld.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:stronghold_biased_to", "features": "occultism:tree_otherworld", "step": "vegetal_decoration"}
+add_ore_silver_deepslate.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "occultism:ore_silver_deepslate", "step": "underground_ores"}
+
+## c: common tag membership
+item/books.json :: { "values": [ "occultism:dictionary_of_spirits", "minecraft:book" ]}
+item/magma.json :: { "values": [ "minecraft:magma_block" ]}
+item/ingots/iesnium.json :: { "values": [ "occultism:iesnium_ingot" ]}
+item/ingots/silver.json :: { "values": [ "occultism:silver_ingot" ]}
+item/tallow.json :: { "values": [ "occultism:tallow" ]}
+item/tube_corals.json :: { "values": [ "minecraft:tube_coral", "minecraft:tube_coral_fan" ]}
+item/fruits.json :: { "values": [ "minecraft:apple" ]}
+item/tools/knife.json :: { "values": [ "occultism:butcher_knife", "occultism:iesnium_butcher_knife" ]}
+item/tools/metal/axes.json :: { "values": [ "minecraft:iron_axe", "minecraft:golden_axe", "minecraft:diamond_axe", "minecraft:netherite_axe" ]}
+item/tools/mining_tool.json :: { "values": [ "occultism:infused_pickaxe", "occultism:iesnium_pickaxe" ]}
+item/foods.json :: { "values": [ "occultism:datura", "occultism:demons_dream_essence", "occultism:otherworld_essence", "occultism:beaver_nugget", "occultism:cursed_honey", "occultism:sweet_honey_heart", "occultism:demonic_meat" ]}
+item/ores/runium.json :: { "values": [ { "id": "aoa3:runium_ore", "required": false } ]}
+item/ores/emberstone.json :: { "values": [ { "id": "aoa3:emberstone_ore", "required": false } ]}
+item/ores/crystallite.json :: { "values": [ { "id": "aoa3:crystallite_ore", "required": false } ]}
+item/ores/mystite.json :: { "values": [ { "id": "aoa3:mystite_ore", "required": false } ]}
+item/ores/varsium.json :: { "values": [ { "id": "aoa3:varsium_ore", "required": false } ]}
+item/ores/iesnium.json :: { "values": [ "occultism:iesnium_ore" ]}
+item/ores/blue_gemstone.json :: { "values": [ { "id": "aoa3:blue_gemstone_ore", "required": false } ]}
+item/ores/silver.json :: { "values": [ "occultism:silver_ore", "occultism:silver_ore_deepslate" ]}
+item/ores/purple_gemstone.json :: { "values": [ { "id": "aoa3:purple_gemstone_ore", "required": false } ]}
+item/ores/black_quartz.json :: { "values": [ { "id": "actuallyadditions:black_quartz_ore", "required": false } ]}
+item/ores/bone_fragments.json :: { "values": [ { "id": "aoa3:bone_fragments_ore", "required": false } ]}
+item/ores/gemenyte.json :: { "values": [ { "id": "aoa3:gemenyte_ore", "required": false } ]}
+item/ores/ghastly.json :: { "values": [ { "id": "aoa3:ghastly_ore", "required": false } ]}
+item/ores/charged_runium.json :: { "values": [ { "id": "aoa3:charged_runium_ore", "required": false } ]}
+item/ores/dark_gem.json :: { "values": [ { "id": "evilcraft:dark_ores", "required": false }, { "id": "#evilcraft:ores/dark_gem", "required": false } ]}
+item/ores/red_gemstone.json :: { "values": [ { "id": "aoa3:red_gemstone_ore", "required": false } ]}
+item/ores/jewelyte.json :: { "values": [ { "id": "aoa3:jewelyte_ore", "required": false } ]}
+item/ores/elecanium.json :: { "values": [ { "id": "aoa3:elecanium_ore", "required": false } ]}
+item/ores/lyon.json :: { "values": [ { "id": "aoa3:lyon_ore", "required": false } ]}
+item/ores/ornamyte.json :: { "values": [ { "id": "aoa3:ornamyte_ore", "required": false } ]}
+item/ores/limonite.json :: { "values": [ { "id": "aoa3:limonite_ore", "required": false } ]}
+item/ores/yellow_gemstone.json :: { "values": [ { "id": "aoa3:yellow_gemstone_ore", "required": false } ]}
+item/ores/jade.json :: { "values": [ { "id": "aoa3:jade_ore", "required": false } ]}
+item/ores/bloodstone.json :: { "values": [ { "id": "aoa3:bloodstone_ore", "required": false } ]}
+item/ores/blazium.json :: { "values": [ { "id": "aoa3:blazium_ore", "required": false } ]}
+item/ores/shyrestone.json :: { "values": [ { "id": "aoa3:shyrestone_ore", "required": false } ]}
+item/ores/ghoulish.json :: { "values": [ { "id": "aoa3:ghoulish_ore", "required": false } ]}
+item/ores/green_gemstone.json :: { "values": [ { "id": "aoa3:green_gemstone_ore", "required": false } ]}
+item/ores/shyregem.json :: { "values": [ { "id": "aoa3:shyregem_ore", "required": false } ]}
+item/ores/white_gemstone.json :: { "values": [ { "id": "aoa3:white_gemstone_ore", "required": false } ]}
+item/ores/baronyte.json :: { "values": [ { "id": "aoa3:baronyte_ore", "required": false } ]}
+item/nuggets.json :: { "values": [ "#c:nuggets/iesnium", "#c:nuggets/silver" ]}
+item/mushroom_blocks.json :: { "values": [ "minecraft:mushroom_stem", "minecraft:red_mushroom_block", "minecraft:brown_mushroom_block" ]}
+item/seeds.json :: { "values": [ "#c:seeds/datura" ]}
+item/enchanting_tables.json :: { "values": [ "minecraft:enchanting_table" ]}
+item/ores.json :: { "values": [ "#c:ores/iesnium", "#c:ores/silver" ]}
+item/skulls.json :: { "values": [ "minecraft:skeleton_skull", "minecraft:wither_skeleton_skull" ]}
+item/nuggets/iesnium.json :: { "values": [ "occultism:iesnium_nugget" ]}
+item/nuggets/silver.json :: { "values": [ "occultism:silver_nugget" ]}
+item/storage_blocks/iesnium.json :: { "values": [ "occultism:iesnium_block" ]}
+item/storage_blocks/silver.json :: { "values": [ "occultism:silver_block" ]}
+item/storage_blocks/rune.json :: { "values": [ { "id": "forbidden_arcanus:rune_block", "required": false } ]}
+item/storage_blocks/raw_iesnium.json :: { "values": [ "occultism:raw_iesnium_block" ]}
+item/storage_blocks/dark_gem.json :: { "values": [ { "id": "evilcraft:dark_block", "required": false } ]}
+item/storage_blocks/raw_silver.json :: { "values": [ "occultism:raw_silver_block" ]}
+item/crops.json :: { "values": [ "#c:crops/datura" ]}
+item/dusts.json :: { "values": [ "#c:dusts/copper", "#c:dusts/end_stone", "#c:dusts/gold", "#c:dusts/iron", "#c:dusts/iesnium", "#c:dusts/silver", "#c:dusts/obsidian", "#c:dusts/amethyst", "#c:dusts/blackstone", "#c:dusts/blue_ice", "#c:dusts/calcite", "#c:dusts/ice", "#c:dusts/packed_ice", "#c:dusts/dragonyst", "#c:dusts/echo", "#c:dusts/emerald", "#c:dusts/lapis", "#c:dusts/netherite", "#c:dusts/netherite_scrap", "#c:dusts/research", "#c:dusts/witherite", "#c:dusts/otherstone", "#c:dusts/otherrock", "#c:dusts/otherworld_wood" ]}
+item/sky_stones.json :: { "values": [ { "id": "ae2:sky_stone_block", "required": false }, { "id": "ae2:smooth_sky_stone_block", "required": false }, { "id": "ae2:sky_stone_brick", "required": false }, { "id": "ae2:sky_stone_small_brick", "required": false } ]}
+item/lightning_rods.json :: { "values": [ "minecraft:lightning_rod", { "id": "#friendsandfoes:lightning_rods", "required": false } ]}
+item/coal_coke.json :: { "values": [ { "id": "modern_industrialization:coke", "required": false } ]}
+item/storage_blocks.json :: { "values": [ "#c:storage_blocks/iesnium", "#c:storage_blocks/silver", "#c:storage_blocks/raw_iesnium", "#c:storage_blocks/raw_silver" ]}
+item/ingots.json :: { "values": [ "#c:ingots/iesnium", "#c:ingots/silver" ]}
+item/seeds/datura.json :: { "values": [ "occultism:datura_seeds" ]}
+item/crops/datura.json :: { "values": [ "occultism:datura" ]}
+item/ores_in_ground/deepslate.json :: { "values": [ "occultism:silver_ore_deepslate" ]}
+item/ores_in_ground/netherrack.json :: { "values": [ "occultism:iesnium_ore" ]}
+item/ores_in_ground/stone.json :: { "values": [ "occultism:silver_ore" ]}
+item/raw_materials.json :: { "values": [ "#c:raw_materials/iesnium", "#c:raw_materials/silver" ]}
+item/raw_materials/iesnium.json :: { "values": [ "occultism:raw_iesnium" ]}
+item/raw_materials/silver.json :: { "values": [ "occultism:raw_silver" ]}
+item/gems.json :: { "values": [ "occultism:spirit_attuned_gem" ]}
+item/clay.json :: { "values": [ "minecraft:clay_ball" ]}
+item/dusts/blaze.json :: { "values": [ "minecraft:blaze_powder" ]}
+item/dusts/blue_ice.json :: { "values": [ "occultism:crushed_blue_ice" ]}
+item/dusts/research.json :: { "values": [ "occultism:research_fragment_dust" ]}
+item/dusts/blackstone.json :: { "values": [ "occultism:crushed_blackstone" ]}
+item/dusts/iron.json :: { "values": [ "occultism:iron_dust" ]}
+item/dusts/obsidian.json :: { "values": [ "occultism:obsidian_dust" ]}
+item/dusts/iesnium.json :: { "values": [ "occultism:iesnium_dust" ]}
+item/dusts/calcite.json :: { "values": [ "occultism:crushed_calcite" ]}
+item/dusts/silver.json :: { "values": [ "occultism:silver_dust" ]}
+item/dusts/emerald.json :: { "values": [ "occultism:emerald_dust" ]}
+item/dusts/copper.json :: { "values": [ "occultism:copper_dust" ]}
+item/dusts/coal_coke.json :: { "values": [ { "id": "#c:dusts/coke", "required": false } ]}
+item/dusts/lapis.json :: { "values": [ "occultism:lapis_dust" ]}
+item/dusts/dark_gem.json :: { "values": [ { "id": "evilcraft:dark_gem_crushed", "required": false } ]}
+item/dusts/fluix.json :: { "values": [ { "id": "ae2:fluix_dust", "required": false } ]}
+item/dusts/amethyst.json :: { "values": [ "occultism:amethyst_dust" ]}
+item/dusts/witherite.json :: { "values": [ "occultism:witherite_dust" ]}
+item/dusts/dragonyst.json :: { "values": [ "occultism:dragonyst_dust" ]}
+item/dusts/ice.json :: { "values": [ "occultism:crushed_ice" ]}
+item/dusts/end_stone.json :: { "values": [ "occultism:crushed_end_stone" ]}
+item/dusts/certus_quartz.json :: { "values": [ { "id": "ae2:certus_quartz_dust", "required": false } ]}
+item/dusts/gold.json :: { "values": [ "occultism:gold_dust" ]}
+item/dusts/netherite.json :: { "values": [ "occultism:netherite_dust" ]}
+item/dusts/netherite_scrap.json :: { "values": [ "occultism:netherite_scrap_dust" ]}
+item/dusts/echo.json :: { "values": [ "occultism:echo_dust" ]}
+item/dusts/packed_ice.json :: { "values": [ "occultism:crushed_packed_ice" ]}
+item/dusts/otherworld_wood.json :: { "values": [ "occultism:otherworld_ashes" ]}
+item/dusts/otherstone.json :: { "values": [ "occultism:burnt_otherstone" ]}
+item/dusts/sky_stone.json :: { "values": [ { "id": "ae2:sky_dust", "required": false } ]}
+item/dusts/otherrock.json :: { "values": [ "occultism:burnt_otherrock" ]}
+item/tools.json :: { "values": [ { "id": "#occultism:tools/knife", "required": false } ]}
+item/gems/black_quartz.json :: { "values": [ { "id": "actuallyadditions:black_quartz", "required": false } ]}
+item/gems/dark_gem.json :: { "values": [ { "id": "evilcraft:dark_gem", "required": false } ]}
+item/iron_bars.json :: { "values": [ "minecraft:iron_bars" ]}
+item/manuals.json :: { "values": [ "occultism:dictionary_of_spirits" ]}
+block/fence_gates/wooden.json :: { "values": [ "occultism:otherplanks_fence_gate" ]}
+block/ores/iesnium.json :: { "values": [ "occultism:iesnium_ore" ]}
+block/ores/silver.json :: { "values": [ "occultism:silver_ore", "occultism:silver_ore_deepslate" ]}
+block/mushroom_blocks.json :: { "values": [ "minecraft:mushroom_stem", "minecraft:red_mushroom_block", "minecraft:brown_mushroom_block" ]}
+block/enchanting_tables.json :: { "values": [ "minecraft:enchanting_table" ]}
+block/ores.json :: { "values": [ "#c:ores/iesnium", "#c:ores/silver" ]}
+block/storage_blocks/iesnium.json :: { "values": [ "occultism:iesnium_block" ]}
+block/storage_blocks/silver.json :: { "values": [ "occultism:silver_block" ]}
+block/storage_blocks/raw_iesnium.json :: { "values": [ "occultism:raw_iesnium_block" ]}
+block/storage_blocks/raw_silver.json :: { "values": [ "occultism:raw_silver_block" ]}
+block/lightning_rods.json :: { "values": [ "minecraft:lightning_rod", { "id": "#friendsandfoes:lightning_rods", "required": false } ]}
+block/storage_blocks.json :: { "values": [ "#c:storage_blocks/iesnium", "#c:storage_blocks/silver", "#c:storage_blocks/raw_iesnium", "#c:storage_blocks/raw_silver" ]}
+block/ores_in_ground/deepslate.json :: { "values": [ "occultism:silver_ore_deepslate" ]}
+block/ores_in_ground/netherrack.json :: { "values": [ "occultism:iesnium_ore" ]}
+block/ores_in_ground/stone.json :: { "values": [ "occultism:silver_ore" ]}
+block/iron_bars.json :: { "values": [ "minecraft:iron_bars" ]}
+entity_type/squids.json :: { "values": [ "minecraft:squid", "minecraft:glow_squid" ]}
+entity_type/spiders.json :: { "values": [ "minecraft:spider", "minecraft:cave_spider" ]}
+entity_type/pigs.json :: { "values": [ "minecraft:pig" ]}
+entity_type/axolotls.json :: { "values": [ "minecraft:axolotl" ]}
+entity_type/pandas.json :: { "values": [ "minecraft:panda" ]}
+entity_type/wardens.json :: { "values": [ "minecraft:warden", "occultism:possessed_warden" ]}
+entity_type/vex.json :: { "values": [ "minecraft:vex" ]}
+entity_type/llamas.json :: { "values": [ "minecraft:llama", "minecraft:trader_llama" ]}
+entity_type/donkeys.json :: { "values": [ "minecraft:donkey" ]}
+entity_type/golems/iron.json :: { "values": [ "minecraft:iron_golem" ]}
+entity_type/golems/snow.json :: { "values": [ "minecraft:snow_golem" ]}
+entity_type/sheep.json :: { "values": [ "minecraft:sheep" ]}
+entity_type/hoglins.json :: { "values": [ "minecraft:hoglin", "occultism:possessed_hoglin" ]}
+entity_type/shulkers.json :: { "values": [ "minecraft:shulker", "occultism:possessed_weak_shulker", "occultism:possessed_shulker" ]}
+entity_type/camels.json :: { "values": [ "minecraft:camel" ]}
+entity_type/cats.json :: { "values": [ "minecraft:cat", "minecraft:ocelot" ]}
+entity_type/ocelots.json :: { "values": [ "minecraft:ocelot" ]}
+entity_type/armadillos.json :: { "values": [ "minecraft:armadillo" ]}
+entity_type/tadpoles.json :: { "values": [ "minecraft:tadpole" ]}
+entity_type/bees.json :: { "values": [ "minecraft:bee", "occultism:possessed_bee" ]}
+entity_type/dolphins.json :: { "values": [ "minecraft:dolphin" ]}
+entity_type/horses.json :: { "values": [ "minecraft:horse" ]}
+entity_type/chickens.json :: { "values": [ "minecraft:chicken" ]}
+entity_type/parrots.json :: { "values": [ "minecraft:parrot" ]}
+entity_type/wolfs.json :: { "values": [ "minecraft:wolf" ]}
+entity_type/bats.json :: { "values": [ "minecraft:bat", "occultism:bat_familiar" ]}
+entity_type/endermen.json :: { "values": [ "minecraft:enderman", "occultism:possessed_enderman" ]}
+entity_type/cows.json :: { "values": [ "minecraft:cow", "minecraft:mooshroom" ]}
+entity_type/goats.json :: { "values": [ "minecraft:goat", "occultism:mercy_goat", "occultism:goat_familiar" ]}
+entity_type/villagers.json :: { "values": [ "minecraft:villager", "minecraft:wandering_trader", "occultism:wondering_trader" ]}
+entity_type/allay.json :: { "values": [ "minecraft:allay" ]}
+entity_type/fish.json :: { "values": [ "minecraft:cod", "minecraft:salmon", "minecraft:tropical_fish", "minecraft:pufferfish" ]}
+entity_type/mules.json :: { "values": [ "minecraft:mule" ]}
+entity_type/ravagers.json :: { "values": [ "minecraft:ravager" ]}

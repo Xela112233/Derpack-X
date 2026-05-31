@@ -1,0 +1,31 @@
+oceansdelight:baked_tentacle_on_a_stick | minecraft:smelting | minecraft:smelting oceansdelight:baked_tentacle_on_a_stick oceansdelight:tentacle_on_a_stick
+oceansdelight:baked_tentacle_on_a_stick_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking oceansdelight:baked_tentacle_on_a_stick oceansdelight:tentacle_on_a_stick
+oceansdelight:baked_tentacle_on_a_stick_from_smoking | minecraft:smoking | minecraft:smoking oceansdelight:baked_tentacle_on_a_stick oceansdelight:tentacle_on_a_stick
+oceansdelight:cabbage_wrapped_elder_guardian | minecraft:crafting_shapeless | c:crops/onion c:crops/tomato c:foods/cabbage minecraft:crafting_shapeless oceansdelight:cabbage_wrapped_elder_guardian oceansdelight:cooked_elder_guardian_slice
+oceansdelight:cooked_elder_guardian_slice | minecraft:smelting | minecraft:smelting oceansdelight:cooked_elder_guardian_slice oceansdelight:elder_guardian_slice
+oceansdelight:cooked_elder_guardian_slice_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking oceansdelight:cooked_elder_guardian_slice oceansdelight:elder_guardian_slice
+oceansdelight:cooked_elder_guardian_slice_from_smoking | minecraft:smoking | minecraft:smoking oceansdelight:cooked_elder_guardian_slice oceansdelight:elder_guardian_slice
+oceansdelight:cooked_guardian_tail | minecraft:smelting | minecraft:smelting oceansdelight:cooked_guardian_tail oceansdelight:guardian_tail
+oceansdelight:cooked_guardian_tail_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking oceansdelight:cooked_guardian_tail oceansdelight:guardian_tail
+oceansdelight:cooked_guardian_tail_from_smoking | minecraft:smoking | minecraft:smoking oceansdelight:cooked_guardian_tail oceansdelight:guardian_tail
+oceansdelight:cooked_stuffed_cod | minecraft:smelting | minecraft:smelting oceansdelight:cooked_stuffed_cod oceansdelight:stuffed_cod
+oceansdelight:cooked_stuffed_cod_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking oceansdelight:cooked_stuffed_cod oceansdelight:stuffed_cod
+oceansdelight:cooked_stuffed_cod_from_smoking | minecraft:smoking | minecraft:smoking oceansdelight:cooked_stuffed_cod oceansdelight:stuffed_cod
+oceansdelight:cooked_stuffed_squid | minecraft:smelting | minecraft:smelting oceansdelight:cooked_stuffed_squid oceansdelight:stuffed_squid
+oceansdelight:cooked_stuffed_squid_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking oceansdelight:cooked_stuffed_squid oceansdelight:stuffed_squid
+oceansdelight:cooked_stuffed_squid_from_smoking | minecraft:smoking | minecraft:smoking oceansdelight:cooked_stuffed_squid oceansdelight:stuffed_squid
+oceansdelight:cooking/cooking/braised_sea_pickle | farmersdelight:cooking | farmersdelight:cooking minecraft:bowl minecraft:brown_mushroom minecraft:sea_pickle oceansdelight:braised_sea_pickle
+oceansdelight:cooking/cooking/guardian_soup | farmersdelight:cooking | c:crops/onion c:crops/tomato c:eggs farmersdelight:cooking minecraft:bowl oceansdelight:guardian oceansdelight:guardian_soup
+oceansdelight:cooking/cooking/honey_fried_kelp | farmersdelight:cooking | farmersdelight:cooking minecraft:dried_kelp minecraft:honey_bottle oceansdelight:honey_fried_kelp
+oceansdelight:cooking/cooking/kelp_encrusted_cod | farmersdelight:cooking | c:eggs farmersdelight:cod_slice farmersdelight:cooking minecraft:kelp oceansdelight:kelp_encrusted_cod
+oceansdelight:cooking/cooking/squid_rings | farmersdelight:cooking | c:foods/dough farmersdelight:cooking minecraft:bowl oceansdelight:cut_tentacles oceansdelight:squid_rings
+oceansdelight:cutting/cutting/elder_guardian_slab | farmersdelight:cutting | c:tools/knife farmersdelight:cutting minecraft:bone_meal oceansdelight:elder_guardian_slab oceansdelight:elder_guardian_slice
+oceansdelight:cutting/cutting/guardian | farmersdelight:cutting | c:tools/knife farmersdelight:cutting minecraft:bone_meal oceansdelight:guardian oceansdelight:guardian_tail
+oceansdelight:cutting/cutting/pufferfish | farmersdelight:cutting | c:tools/knife farmersdelight:cutting minecraft:bone_meal minecraft:pufferfish oceansdelight:fugu_slice
+oceansdelight:cutting/cutting/tentacles | farmersdelight:cutting | c:tools/knife farmersdelight:cutting oceansdelight:cut_tentacles oceansdelight:tentacles
+oceansdelight:food/elder_guardian_roll | minecraft:crafting_shapeless | farmersdelight:cooked_rice minecraft:crafting_shapeless oceansdelight:elder_guardian_roll oceansdelight:elder_guardian_slice
+oceansdelight:food/fugu_roll | minecraft:crafting_shapeless | farmersdelight:cooked_rice minecraft:crafting_shapeless oceansdelight:fugu_roll oceansdelight:fugu_slice
+oceansdelight:seagrass_salad | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:seagrass oceansdelight:seagrass_salad
+oceansdelight:stuffed_cod | minecraft:crafting_shapeless | c:crops/onion c:crops/tomato farmersdelight:rope minecraft:brown_mushroom minecraft:cod minecraft:crafting_shapeless minecraft:kelp oceansdelight:stuffed_cod
+oceansdelight:stuffed_squid | minecraft:crafting_shapeless | farmersdelight:rice minecraft:crafting_shapeless minecraft:kelp oceansdelight:stuffed_squid oceansdelight:tentacles
+oceansdelight:tentacle_on_a_stick | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:stick oceansdelight:tentacle_on_a_stick oceansdelight:tentacles

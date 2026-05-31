@@ -1,0 +1,19 @@
+# BetterModsButton-v21.1.0-1.21.1-NeoForge
+
+## mod metadata (id / version / deps)
+license = "MPL-2.0"
+modId = "bettermodsbutton"
+displayName = "Better Mods Button"
+version = "21.1.0"
+modId = "neoforge"
+versionRange = "[21.1.0,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

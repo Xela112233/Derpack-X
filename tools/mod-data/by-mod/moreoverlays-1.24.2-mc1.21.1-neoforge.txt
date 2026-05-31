@@ -1,0 +1,19 @@
+# moreoverlays-1.24.2-mc1.21.1-neoforge
+
+## mod metadata (id / version / deps)
+license="The MIT License (MIT)"
+modId="moreoverlays" #mandatory
+version="1.24.2" #mandatory
+displayName="More Overlays Updated" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.0-beta,)" #mandatory
+modId="jei"
+versionRange="[6.0.0.25,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

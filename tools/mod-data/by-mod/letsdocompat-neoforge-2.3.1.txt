@@ -1,0 +1,26 @@
+# letsdocompat-neoforge-2.3.1
+
+## mod metadata (id / version / deps)
+license = "GPLv3"
+modId = "letsdocompat"
+version = "2.3.1"
+displayName = "[Let's Do Addon] Compat"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+modId = "architectury"
+versionRange = "[9.2.14,)"
+modId = "farm_and_charm"
+versionRange = "[1.1.6,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+items/foods/leafy_green.json :: { "replace": false, "values": [ "farm_and_charm:lettuce" ]}
+items/salad_ingredients.json :: { "replace": false, "values": [ { "required": false, "id": "farm_and_charm:lettuce" } ]}
+items/salad_ingredients/cabbage.json :: { "replace": false, "values": [ { "required": false, "id": "#farm_and_charm:cabbage" } ]}

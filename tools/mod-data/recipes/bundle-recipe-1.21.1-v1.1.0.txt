@@ -1,0 +1,1 @@
+minecraft:bundle | minecraft:crafting_shaped | minecraft:bundle minecraft:crafting_shaped minecraft:leather minecraft:string

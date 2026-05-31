@@ -1,0 +1,23 @@
+# emi_loot-0.7.9+1.21+neoforge
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "emi_loot"
+version = "0.7.9+1.21+neoforge"
+displayName = "EMI Loot"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21,1.22)"
+modId = "emi"
+versionRange = "[1.0.0,)"
+modId = "fzzy_config"
+versionRange = "[0.4.1,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

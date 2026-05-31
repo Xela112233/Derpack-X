@@ -1,0 +1,539 @@
+# born_in_chaos_[Neoforge]_1.21.1_1.7.5
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="born_in_chaos_v1"
+version="1.7.5"
+displayName="Born in Chaos "
+modId="neoforge"
+versionRange="[21.1.65,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="geckolib"
+versionRange="[0,)"
+modId="jei"
+versionRange="[0,)"
+
+## blocks
+born_in_chaos_v1:argillite_lamp
+born_in_chaos_v1:black_argillite
+born_in_chaos_v1:black_argillite_brick
+born_in_chaos_v1:black_argillite_brick_n
+born_in_chaos_v1:black_argillite_brick_slab
+born_in_chaos_v1:black_argillite_brick_slab_n
+born_in_chaos_v1:black_argillite_brick_stairs
+born_in_chaos_v1:black_argillite_brick_stairs_n
+born_in_chaos_v1:black_argillite_brick_wall
+born_in_chaos_v1:black_argillite_brick_wall_n
+born_in_chaos_v1:black_argillite_button
+born_in_chaos_v1:black_argillite_column
+born_in_chaos_v1:black_argillite_column_n
+born_in_chaos_v1:black_argillite_column_slab
+born_in_chaos_v1:black_argillite_column_slab_n
+born_in_chaos_v1:black_argillite_n
+born_in_chaos_v1:black_argillite_slab
+born_in_chaos_v1:black_argillite_slab_n
+born_in_chaos_v1:black_argillite_stairs
+born_in_chaos_v1:black_argillite_stairs_n
+born_in_chaos_v1:black_argillite_wall
+born_in_chaos_v1:black_argillite_wall_n
+born_in_chaos_v1:black_argillitepressureplate
+born_in_chaos_v1:bundle_of_bones
+born_in_chaos_v1:c_black_argillite_brick_n
+born_in_chaos_v1:carved_black_argillite
+born_in_chaos_v1:carved_black_argillite_n
+born_in_chaos_v1:chipped_black_argillite_brick
+born_in_chaos_v1:closed_hound_trap
+born_in_chaos_v1:cobweb_cover
+born_in_chaos_v1:creepy_nutcracker
+born_in_chaos_v1:cultivated_pumpkin
+born_in_chaos_v1:cursed_scarlet_ornate_glass_pane
+born_in_chaos_v1:dark_grid
+born_in_chaos_v1:dark_ice
+born_in_chaos_v1:dark_metal_block
+born_in_chaos_v1:dark_metal_deposit
+born_in_chaos_v1:dark_stained_glass
+born_in_chaos_v1:dark_stained_glass_panel
+born_in_chaos_v1:evil_carved_pumpkin
+born_in_chaos_v1:fel_soil
+born_in_chaos_v1:fel_soil_destructible
+born_in_chaos_v1:fired_black_argillite
+born_in_chaos_v1:fired_black_argillite_n
+born_in_chaos_v1:flaming_evil_pumpkin
+born_in_chaos_v1:fragile_scorched_boards
+born_in_chaos_v1:gnawed_bones
+born_in_chaos_v1:green_stained_glass
+born_in_chaos_v1:green_stained_glass_panel
+born_in_chaos_v1:hound_trap
+born_in_chaos_v1:infected_deepslate_diamond_ore
+born_in_chaos_v1:infected_diamond_ore
+born_in_chaos_v1:infernal_evil_pumpkin
+born_in_chaos_v1:infernal_evil_pumpkin_s
+born_in_chaos_v1:lifestealer_skull
+born_in_chaos_v1:marigolds
+born_in_chaos_v1:mesh_door
+born_in_chaos_v1:mossy_black_argillite_brick
+born_in_chaos_v1:mossy_black_argillite_brick_n
+born_in_chaos_v1:nightmare_stalker_skull
+born_in_chaos_v1:orange_stained_glass
+born_in_chaos_v1:orange_stained_glass_panel
+born_in_chaos_v1:pile_of_skulls
+born_in_chaos_v1:puddleof_stimulation
+born_in_chaos_v1:puddleofintoxication
+born_in_chaos_v1:purple_stained_glass
+born_in_chaos_v1:purple_stained_glass_panel
+born_in_chaos_v1:river_mint
+born_in_chaos_v1:rotten_infernal_pumpkin
+born_in_chaos_v1:rotten_soil
+born_in_chaos_v1:scarlet_stained_glass
+born_in_chaos_v1:scarlet_stained_glass_panel
+born_in_chaos_v1:scorched_log
+born_in_chaos_v1:scorched_planks
+born_in_chaos_v1:scorched_planks_button
+born_in_chaos_v1:scorched_planks_door
+born_in_chaos_v1:scorched_planks_fence
+born_in_chaos_v1:scorched_planks_fence_gate
+born_in_chaos_v1:scorched_planks_pressure_plates
+born_in_chaos_v1:scorched_planks_slab
+born_in_chaos_v1:scorched_planks_stairs
+born_in_chaos_v1:scorched_planks_trapdoor
+born_in_chaos_v1:scorched_wood
+born_in_chaos_v1:smoldering_scorched_log
+born_in_chaos_v1:smoldering_scorched_wood
+born_in_chaos_v1:spiny_shell_trap
+born_in_chaos_v1:spooky_snowman_head
+born_in_chaos_v1:stained_black_argillite_brick
+born_in_chaos_v1:stained_black_argillite_brick_n
+born_in_chaos_v1:stripped_scorched_log
+born_in_chaos_v1:stripped_scorched_wood
+born_in_chaos_v1:tombstone_2003wise
+born_in_chaos_v1:tombstone_2_dling
+born_in_chaos_v1:tombstone_carrion
+born_in_chaos_v1:tombstone_d_4rkdevilx
+born_in_chaos_v1:tombstone_dark_titan_066
+born_in_chaos_v1:tombstone_derivas
+born_in_chaos_v1:tombstone_euthymia
+born_in_chaos_v1:tombstone_feral
+born_in_chaos_v1:tombstone_fubuki_banzai
+born_in_chaos_v1:tombstone_memesus
+born_in_chaos_v1:tombstone_mike_rory
+born_in_chaos_v1:tombstone_nino_4416
+born_in_chaos_v1:tombstone_orion
+born_in_chaos_v1:tombstone_petasi
+born_in_chaos_v1:tombstone_plug
+born_in_chaos_v1:tombstone_rotborne
+born_in_chaos_v1:tombstone_somfunambulist
+born_in_chaos_v1:tombstone_tem_187
+born_in_chaos_v1:tombstone_the_gentleman_frog
+born_in_chaos_v1:webbed_cobblestone
+
+## items
+born_in_chaos_v1:ai
+born_in_chaos_v1:all_charm
+born_in_chaos_v1:anluka_doors
+born_in_chaos_v1:argillite_lamp
+born_in_chaos_v1:armor_plate_from_dark_metal
+born_in_chaos_v1:baby_skeleton_minion_spawn_egg
+born_in_chaos_v1:baby_skeleton_spawn_egg
+born_in_chaos_v1:baby_spider_controlled_spawn_egg
+born_in_chaos_v1:baby_spider_spawn_egg
+born_in_chaos_v1:bagof_candy
+born_in_chaos_v1:barrel_zombie_spawn_egg
+born_in_chaos_v1:birch_branches
+born_in_chaos_v1:black_argillite
+born_in_chaos_v1:black_argillite_brick
+born_in_chaos_v1:black_argillite_brick_n
+born_in_chaos_v1:black_argillite_brick_slab
+born_in_chaos_v1:black_argillite_brick_slab_n
+born_in_chaos_v1:black_argillite_brick_stairs
+born_in_chaos_v1:black_argillite_brick_stairs_n
+born_in_chaos_v1:black_argillite_brick_wall
+born_in_chaos_v1:black_argillite_brick_wall_n
+born_in_chaos_v1:black_argillite_button
+born_in_chaos_v1:black_argillite_column
+born_in_chaos_v1:black_argillite_column_n
+born_in_chaos_v1:black_argillite_column_slab
+born_in_chaos_v1:black_argillite_column_slab_n
+born_in_chaos_v1:black_argillite_n
+born_in_chaos_v1:black_argillite_slab
+born_in_chaos_v1:black_argillite_slab_n
+born_in_chaos_v1:black_argillite_stairs
+born_in_chaos_v1:black_argillite_stairs_n
+born_in_chaos_v1:black_argillite_wall
+born_in_chaos_v1:black_argillite_wall_n
+born_in_chaos_v1:black_argillitepressureplate
+born_in_chaos_v1:bloody_gadfly_eye
+born_in_chaos_v1:bloody_gadfly_spawn_egg
+born_in_chaos_v1:bone_handle
+born_in_chaos_v1:bone_heart
+born_in_chaos_v1:bone_imp_minion_spawn_egg
+born_in_chaos_v1:bone_imp_spawn_egg
+born_in_chaos_v1:bonescaller_not_despawn_spawn_egg
+born_in_chaos_v1:bonescaller_spawn_egg
+born_in_chaos_v1:bonescaller_staff
+born_in_chaos_v1:bottle_of_magical_energy
+born_in_chaos_v1:bundle_of_bones
+born_in_chaos_v1:burythemall_icon
+born_in_chaos_v1:c_black_argillite_brick_n
+born_in_chaos_v1:caramel_pepper
+born_in_chaos_v1:carrot_sword
+born_in_chaos_v1:carved_black_argillite
+born_in_chaos_v1:carved_black_argillite_n
+born_in_chaos_v1:chaos_component
+born_in_chaos_v1:chaos_icon
+born_in_chaos_v1:charmof_endurance
+born_in_chaos_v1:charmof_fury
+born_in_chaos_v1:charmof_power
+born_in_chaos_v1:charmof_resistance
+born_in_chaos_v1:charmof_stealth
+born_in_chaos_v1:chipped_black_argillite_brick
+born_in_chaos_v1:chocolate_heart
+born_in_chaos_v1:closed_hound_trap
+born_in_chaos_v1:cobweb_cover
+born_in_chaos_v1:coffee_candy
+born_in_chaos_v1:controlled_baby_skeleton_spawn_egg
+born_in_chaos_v1:controlled_spiritual_assistant_spawn_egg
+born_in_chaos_v1:corpse_fish_spawn_egg
+born_in_chaos_v1:corpse_fly_spawn_egg
+born_in_chaos_v1:corpse_maggot
+born_in_chaos_v1:creepy_cookies_with_milk
+born_in_chaos_v1:creepy_gift
+born_in_chaos_v1:creepy_nutcracker
+born_in_chaos_v1:cultivated_pumpkin
+born_in_chaos_v1:cursed_scarlet_ornate_glass_pane
+born_in_chaos_v1:damned_demomans_hat_helmet
+born_in_chaos_v1:dark_atrium
+born_in_chaos_v1:dark_charge
+born_in_chaos_v1:dark_grid
+born_in_chaos_v1:dark_ice
+born_in_chaos_v1:dark_metal_armor_boots
+born_in_chaos_v1:dark_metal_armor_chestplate
+born_in_chaos_v1:dark_metal_armor_helmet
+born_in_chaos_v1:dark_metal_armor_leggings
+born_in_chaos_v1:dark_metal_block
+born_in_chaos_v1:dark_metal_deposit
+born_in_chaos_v1:dark_metal_ingot
+born_in_chaos_v1:dark_metal_nugget
+born_in_chaos_v1:dark_ritual_dagger
+born_in_chaos_v1:dark_rod
+born_in_chaos_v1:dark_stained_glass
+born_in_chaos_v1:dark_stained_glass_panel
+born_in_chaos_v1:dark_upgrade
+born_in_chaos_v1:dark_vortex_spawn_egg
+born_in_chaos_v1:darkwarblade
+born_in_chaos_v1:death_totem
+born_in_chaos_v1:decaying_zombie_not_despawn_spawn_egg
+born_in_chaos_v1:decaying_zombie_spawn_egg
+born_in_chaos_v1:deceived_hopes_icon
+born_in_chaos_v1:decrepit_skeleton_spawn_egg
+born_in_chaos_v1:diamond_termite_shard
+born_in_chaos_v1:diamond_termite_spawn_egg
+born_in_chaos_v1:dire_hound_leader_spawn_egg
+born_in_chaos_v1:door_knight_not_despawn_spawn_egg
+born_in_chaos_v1:door_knight_spawn_egg
+born_in_chaos_v1:double_troubleicon
+born_in_chaos_v1:dread_hound_not_despawn_spawn_egg
+born_in_chaos_v1:dread_hound_spawn_egg
+born_in_chaos_v1:elixir_of_vampirism
+born_in_chaos_v1:elixirof_ice_barrier
+born_in_chaos_v1:elixirof_insect_protection
+born_in_chaos_v1:elixirof_wither_resistance
+born_in_chaos_v1:empty_fel_lamp
+born_in_chaos_v1:eternal_candy
+born_in_chaos_v1:ethereal_spirit
+born_in_chaos_v1:evil_carved_pumpkin
+born_in_chaos_v1:evilometer
+born_in_chaos_v1:evilometer_0
+born_in_chaos_v1:evilometer_1
+born_in_chaos_v1:evilometer_2
+born_in_chaos_v1:evilometer_3
+born_in_chaos_v1:excessflyswattericon
+born_in_chaos_v1:exorcism_icon
+born_in_chaos_v1:fallen_chaos_knight_spawn_egg
+born_in_chaos_v1:fangofthe_hound_leader
+born_in_chaos_v1:fel_lamp
+born_in_chaos_v1:fel_soil
+born_in_chaos_v1:fel_soil_destructible
+born_in_chaos_v1:felsteed_spawn_egg
+born_in_chaos_v1:fire_dust
+born_in_chaos_v1:fired_black_argillite
+born_in_chaos_v1:fired_black_argillite_n
+born_in_chaos_v1:firelight_not_despawn_spawn_egg
+born_in_chaos_v1:firelight_spawn_egg
+born_in_chaos_v1:flaming_evil_pumpkin
+born_in_chaos_v1:fragile_scorched_boards
+born_in_chaos_v1:fried_maggot
+born_in_chaos_v1:frostbitten_blade
+born_in_chaos_v1:fused_bone
+born_in_chaos_v1:glutton_fish_spawn_egg
+born_in_chaos_v1:gnawed_bones
+born_in_chaos_v1:good_demoman_icon
+born_in_chaos_v1:gravestone_icon
+born_in_chaos_v1:great_reaper_axe
+born_in_chaos_v1:green_stained_glass
+born_in_chaos_v1:green_stained_glass_panel
+born_in_chaos_v1:gummy_vampire_teeth
+born_in_chaos_v1:hats
+born_in_chaos_v1:holiday_candy
+born_in_chaos_v1:hound_trap
+born_in_chaos_v1:icy_sweetness
+born_in_chaos_v1:infected_deepslate_diamond_ore
+born_in_chaos_v1:infected_diamond_ore
+born_in_chaos_v1:infernal_evil_pumpkin
+born_in_chaos_v1:infernal_evil_pumpkin_s
+born_in_chaos_v1:infernal_medicine_icon
+born_in_chaos_v1:infernal_spirit_spawn_egg
+born_in_chaos_v1:intoxicatind_bomb
+born_in_chaos_v1:intoxicating_dagger
+born_in_chaos_v1:intoxicating_decoction
+born_in_chaos_v1:killer_rabbit_ears_helmet
+born_in_chaos_v1:krampus_henchman_spawn_egg
+born_in_chaos_v1:krampus_horn
+born_in_chaos_v1:krampus_spawn_egg
+born_in_chaos_v1:krampuss_bag
+born_in_chaos_v1:lifestealer_bone
+born_in_chaos_v1:lifestealer_skull
+born_in_chaos_v1:lifestealer_spawn_egg
+born_in_chaos_v1:lifestealer_true_form_spawn_egg
+born_in_chaos_v1:lifeturnedouttobeacomedyicon
+born_in_chaos_v1:lord_pumpkinhead_head_spawn_egg
+born_in_chaos_v1:lord_pumpkinhead_icon
+born_in_chaos_v1:lord_pumpkinhead_spawn_egg
+born_in_chaos_v1:lord_pumpkinhead_withouta_horse_spawn_egg
+born_in_chaos_v1:lord_pumpkinheads_empty_lamp
+born_in_chaos_v1:lord_pumpkinheads_hat_helmet
+born_in_chaos_v1:lord_pumpkinheads_lamp
+born_in_chaos_v1:lord_the_headless_spawn_egg
+born_in_chaos_v1:lords_felsteed_spawn_egg
+born_in_chaos_v1:maggot_spawn_egg
+born_in_chaos_v1:magical_holiday_candy
+born_in_chaos_v1:magicskull
+born_in_chaos_v1:marigolds
+born_in_chaos_v1:mesh_door
+born_in_chaos_v1:mint_candy
+born_in_chaos_v1:mint_ice_cream
+born_in_chaos_v1:missionary_hat_helmet
+born_in_chaos_v1:missionary_raider_spawn_egg
+born_in_chaos_v1:missionaryicon
+born_in_chaos_v1:missioner_spawn_egg
+born_in_chaos_v1:monster_flesh
+born_in_chaos_v1:monster_skin
+born_in_chaos_v1:monstrous_easter_egg
+born_in_chaos_v1:mossy_black_argillite_brick
+born_in_chaos_v1:mossy_black_argillite_brick_n
+born_in_chaos_v1:mother_spider_spawn_egg
+born_in_chaos_v1:mr_pumpkin_controlled_spawn_egg
+born_in_chaos_v1:mr_pumpkin_spawn_egg
+born_in_chaos_v1:mrs_pumpkin_spawn_egg
+born_in_chaos_v1:nightmare_claw
+born_in_chaos_v1:nightmare_mantleofthe_night_boots
+born_in_chaos_v1:nightmare_mantleofthe_night_chestplate
+born_in_chaos_v1:nightmare_mantleofthe_night_helmet
+born_in_chaos_v1:nightmare_mantleofthe_night_leggings
+born_in_chaos_v1:nightmare_scythe
+born_in_chaos_v1:nightmare_stalker_skull
+born_in_chaos_v1:nightmare_stalker_spawn_egg
+born_in_chaos_v1:nut_hammer
+born_in_chaos_v1:orange_stained_glass
+born_in_chaos_v1:orange_stained_glass_panel
+born_in_chaos_v1:orbofthe_summoner
+born_in_chaos_v1:permafrost_shard
+born_in_chaos_v1:phantom_bomb
+born_in_chaos_v1:phantom_creeper_copy_spawn_egg
+born_in_chaos_v1:phantom_creeper_spawn_egg
+born_in_chaos_v1:phantom_powder
+born_in_chaos_v1:pieceofdarkmetal
+born_in_chaos_v1:pile_of_skulls
+born_in_chaos_v1:pileof_dark_metal
+born_in_chaos_v1:potion_of_rampage
+born_in_chaos_v1:puddleof_stimulation
+born_in_chaos_v1:puddleofintoxication
+born_in_chaos_v1:pumpkin_bomb_spawn_egg
+born_in_chaos_v1:pumpkin_bruiser_spawn_egg
+born_in_chaos_v1:pumpkin_bullet
+born_in_chaos_v1:pumpkin_dunce_spawn_egg
+born_in_chaos_v1:pumpkin_spirit_icon
+born_in_chaos_v1:pumpkin_spirit_spawn_egg
+born_in_chaos_v1:pumpkinhandgun
+born_in_chaos_v1:pumpkinhead_icon
+born_in_chaos_v1:pumpkinhead_spawn_egg
+born_in_chaos_v1:pumpkinstaffa
+born_in_chaos_v1:purple_stained_glass
+born_in_chaos_v1:purple_stained_glass_panel
+born_in_chaos_v1:restless_spirit_spawn_egg
+born_in_chaos_v1:riding_felsteed_spawn_egg
+born_in_chaos_v1:riding_lords_felsteed_spawn_egg
+born_in_chaos_v1:river_mint
+born_in_chaos_v1:rotten_easter_egg
+born_in_chaos_v1:rotten_fish
+born_in_chaos_v1:rotten_infernal_pumpkin
+born_in_chaos_v1:rotten_soil
+born_in_chaos_v1:scarlet_persecutor_spawn_egg
+born_in_chaos_v1:scarlet_stained_glass
+born_in_chaos_v1:scarlet_stained_glass_panel
+born_in_chaos_v1:scorched_log
+born_in_chaos_v1:scorched_planks
+born_in_chaos_v1:scorched_planks_button
+born_in_chaos_v1:scorched_planks_door
+born_in_chaos_v1:scorched_planks_fence
+born_in_chaos_v1:scorched_planks_fence_gate
+born_in_chaos_v1:scorched_planks_pressure_plates
+born_in_chaos_v1:scorched_planks_slab
+born_in_chaos_v1:scorched_planks_stairs
+born_in_chaos_v1:scorched_planks_trapdoor
+born_in_chaos_v1:scorched_wood
+born_in_chaos_v1:sea_terror_eye
+born_in_chaos_v1:sea_terror_stomach
+born_in_chaos_v1:seared_spirit_not_despawn_spawn_egg
+born_in_chaos_v1:seared_spirit_spawn_egg
+born_in_chaos_v1:seedof_chaos
+born_in_chaos_v1:senor_pumpkin_spawn_egg
+born_in_chaos_v1:serpumpkinhead_m
+born_in_chaos_v1:shakeand_mixicon
+born_in_chaos_v1:sharpened_dark_metal_sword
+born_in_chaos_v1:shattered_skull
+born_in_chaos_v1:shell_mace
+born_in_chaos_v1:siamese_skeletons_spawn_egg
+born_in_chaos_v1:siamese_skeletonsleft_spawn_egg
+born_in_chaos_v1:siamese_skeletonsright_spawn_egg
+born_in_chaos_v1:sir_pumpkinhead_spawn_egg
+born_in_chaos_v1:sir_pumpkinhead_without_horse_spawn_egg
+born_in_chaos_v1:sir_the_headless_spawn_egg
+born_in_chaos_v1:skeleton_demoman_spawn_egg
+born_in_chaos_v1:skeleton_thrasher_not_despawn_spawn_egg
+born_in_chaos_v1:skeleton_thrasher_spawn_egg
+born_in_chaos_v1:skullbreaker_hammer
+born_in_chaos_v1:smoked_fish
+born_in_chaos_v1:smoked_flesh
+born_in_chaos_v1:smoked_monster_flesh
+born_in_chaos_v1:smoldering_infernal_ember
+born_in_chaos_v1:smoldering_scorched_log
+born_in_chaos_v1:smoldering_scorched_wood
+born_in_chaos_v1:soul_cutlass
+born_in_chaos_v1:soulbane
+born_in_chaos_v1:spawn_structure_mound_hounds
+born_in_chaos_v1:spawn_structures_clown_cart
+born_in_chaos_v1:spawn_structures_dark_tower
+born_in_chaos_v1:spawn_structures_farm
+born_in_chaos_v1:spawn_structures_firewell
+born_in_chaos_v1:spawn_structures_lookout_tower
+born_in_chaos_v1:spider_bite_sword
+born_in_chaos_v1:spider_mandible
+born_in_chaos_v1:spiny_shell
+born_in_chaos_v1:spiny_shell_armor_chestplate
+born_in_chaos_v1:spiny_shell_armor_helmet
+born_in_chaos_v1:spiny_shell_trap
+born_in_chaos_v1:spirit_guide_assistant_spawn_egg
+born_in_chaos_v1:spirit_guide_spawn_egg
+born_in_chaos_v1:spirit_guideicon
+born_in_chaos_v1:spiritof_chaos_spawn_egg
+born_in_chaos_v1:spiritual_dust
+born_in_chaos_v1:spiritual_easter_egg
+born_in_chaos_v1:spiritual_gingerbread
+born_in_chaos_v1:spiritual_guide_sombrero_helmet
+born_in_chaos_v1:spiritual_sword
+born_in_chaos_v1:spooky_snowman_head
+born_in_chaos_v1:spruce_cowboy_in_the_moonlighticon
+born_in_chaos_v1:squireofthedarklordicon
+born_in_chaos_v1:staff_of_magic_arrows
+born_in_chaos_v1:staffof_blindness
+born_in_chaos_v1:stained_black_argillite_brick
+born_in_chaos_v1:stained_black_argillite_brick_n
+born_in_chaos_v1:stimulating_bomb
+born_in_chaos_v1:stimulating_decoction
+born_in_chaos_v1:stop_hammer
+born_in_chaos_v1:stormcallers_horn
+born_in_chaos_v1:stripped_scorched_log
+born_in_chaos_v1:stripped_scorched_wood
+born_in_chaos_v1:supreme_bonescaller_not_despawn_spawn_egg
+born_in_chaos_v1:supreme_bonescaller_spawn_egg
+born_in_chaos_v1:supreme_bonescaller_stage_2_spawn_egg
+born_in_chaos_v1:supreme_measure
+born_in_chaos_v1:swarmer_spawn_egg
+born_in_chaos_v1:sweet_axe
+born_in_chaos_v1:sweet_sword
+born_in_chaos_v1:thornshell_crab_spawn_egg
+born_in_chaos_v1:tombstone_2003wise
+born_in_chaos_v1:tombstone_2_dling
+born_in_chaos_v1:tombstone_carrion
+born_in_chaos_v1:tombstone_d_4rkdevilx
+born_in_chaos_v1:tombstone_dark_titan_066
+born_in_chaos_v1:tombstone_derivas
+born_in_chaos_v1:tombstone_euthymia
+born_in_chaos_v1:tombstone_feral
+born_in_chaos_v1:tombstone_fubuki_banzai
+born_in_chaos_v1:tombstone_memesus
+born_in_chaos_v1:tombstone_mike_rory
+born_in_chaos_v1:tombstone_nino_4416
+born_in_chaos_v1:tombstone_orion
+born_in_chaos_v1:tombstone_petasi
+born_in_chaos_v1:tombstone_plug
+born_in_chaos_v1:tombstone_rotborne
+born_in_chaos_v1:tombstone_somfunambulist
+born_in_chaos_v1:tombstone_tem_187
+born_in_chaos_v1:tombstone_the_gentleman_frog
+born_in_chaos_v1:transformative_flower
+born_in_chaos_v1:transforming_easter_cake
+born_in_chaos_v1:transmuting_elixir
+born_in_chaos_v1:trident_hayfork
+born_in_chaos_v1:webbed_cobblestone
+born_in_chaos_v1:wood_splitter_axe
+born_in_chaos_v1:zombie_bruiser_spawn_egg
+born_in_chaos_v1:zombie_clown_not_despawn_spawn_egg
+born_in_chaos_v1:zombie_clown_spawn_egg
+born_in_chaos_v1:zombie_fisherman_spawn_egg
+born_in_chaos_v1:zombie_lumberjack_spawn_egg
+
+## neoforge biome_modifiers
+baby_skeleton_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:baby_skeleton", "weight": 25, "minCount": 1, "maxCount": 2 }}
+baby_spider_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:baby_spider", "weight": 16, "minCount": 3, "maxCount": 5 }}
+barrel_zombie_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:barrel_zombie", "weight": 25, "minCount": 1, "maxCount": 1 }}
+black_argillite_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "#is_overworld", "features": "born_in_chaos_v1:black_argillite", "step": "underground_ores"}
+bloody_gadfly_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:bloody_gadfly", "weight": 15, "minCount": 1, "maxCount": 1 }}
+bonescaller_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:bonescaller", "weight": 11, "minCount": 1, "maxCount": 1 }}
+bone_imp_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "basalt_deltas", "nether_wastes" ], "spawners": { "type": "born_in_chaos_v1:bone_imp", "weight": 25, "minCount": 1, "maxCount": 2 }}
+corpse_fish_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:corpse_fish", "weight": 7, "minCount": 3, "maxCount": 5 }}
+corpse_fly_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:corpse_fly", "weight": 12, "minCount": 1, "maxCount": 3 }}
+dark_vortex_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:dark_vortex", "weight": 14, "minCount": 1, "maxCount": 1 }}
+decaying_zombie_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:decaying_zombie", "weight": 30, "minCount": 1, "maxCount": 1 }}
+decrepit_skeleton_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:decrepit_skeleton", "weight": 20, "minCount": 1, "maxCount": 1 }}
+dire_hound_leader_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:dire_hound_leader", "weight": 4, "minCount": 1, "maxCount": 1 }}
+door_knight_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:door_knight", "weight": 13, "minCount": 1, "maxCount": 1 }}
+dread_hound_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:dread_hound", "weight": 15, "minCount": 3, "maxCount": 5 }}
+fallen_chaos_knight_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:fallen_chaos_knight", "weight": 5, "minCount": 1, "maxCount": 1 }}
+firelight_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "crimson_forest", "nether_wastes" ], "spawners": { "type": "born_in_chaos_v1:firelight", "weight": 15, "minCount": 1, "maxCount": 3 }}
+glutton_fish_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:glutton_fish", "weight": 2, "minCount": 1, "maxCount": 1 }}
+infected_deepslate_diamond_ore_feature_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "#is_overworld", "features": "born_in_chaos_v1:infected_deepslate_diamond_ore_feature", "step": "underground_ores"}
+infected_diamond_ore_feature_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "#is_overworld", "features": "born_in_chaos_v1:infected_diamond_ore_feature", "step": "underground_ores"}
+krampus_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:krampus", "weight": 2, "minCount": 1, "maxCount": 1 }}
+krampus_henchman_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:krampus_henchman", "weight": 9, "minCount": 2, "maxCount": 3 }}
+lifestealer_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:lifestealer", "weight": 3, "minCount": 1, "maxCount": 1 }}
+marigolds_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "badlands", "birch_forest", "dark_forest", "flower_forest", "forest", "jungle", "meadow", "plains" ], "features": "born_in_chaos_v1:marigolds", "step": "vegetal_decoration"}
+missioner_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:missioner", "weight": 4, "minCount": 1, "maxCount": 1 }}
+mother_spider_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:mother_spider", "weight": 13, "minCount": 1, "maxCount": 1 }}
+mrs_pumpkin_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:mrs_pumpkin", "weight": 13, "minCount": 1, "maxCount": 1 }}
+mr_pumpkin_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:mr_pumpkin", "weight": 15, "minCount": 1, "maxCount": 3 }}
+nightmare_stalker_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:nightmare_stalker", "weight": 4, "minCount": 1, "maxCount": 1 }}
+phantom_creeper_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:phantom_creeper", "weight": 8, "minCount": 1, "maxCount": 1 }}
+pumpkin_bruiser_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:pumpkin_bruiser", "weight": 10, "minCount": 1, "maxCount": 1 }}
+pumpkin_dunce_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:pumpkin_dunce", "weight": 16, "minCount": 3, "maxCount": 3 }}
+restless_spirit_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:restless_spirit", "weight": 20, "minCount": 1, "maxCount": 1 }}
+river_mint_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "beach", "river", "stony_shore" ], "features": "born_in_chaos_v1:river_mint", "step": "vegetal_decoration"}
+seared_spirit_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "plains", "sunflower_plains" ], "spawners": { "type": "born_in_chaos_v1:seared_spirit", "weight": 5, "minCount": 1, "maxCount": 1 }}
+senor_pumpkin_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:senor_pumpkin", "weight": 10, "minCount": 1, "maxCount": 2 }}
+siamese_skeletons_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:siamese_skeletons", "weight": 16, "minCount": 1, "maxCount": 1 }}
+sir_pumpkinhead_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:sir_pumpkinhead", "weight": 4, "minCount": 1, "maxCount": 1 }}
+skeleton_demoman_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:skeleton_demoman", "weight": 12, "minCount": 1, "maxCount": 1 }}
+skeleton_thrasher_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:skeleton_thrasher", "weight": 8, "minCount": 1, "maxCount": 1 }}
+spiritof_chaos_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:spiritof_chaos", "weight": 8, "minCount": 1, "maxCount": 1 }}
+spirit_guide_assistant_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:spirit_guide_assistant", "weight": 9, "minCount": 2, "maxCount": 2 }}
+spirit_guide_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:spirit_guide", "weight": 16, "minCount": 1, "maxCount": 1 }}
+supreme_bonescaller_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:supreme_bonescaller", "weight": 1, "minCount": 1, "maxCount": 1 }}
+swarmer_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:swarmer", "weight": 11, "minCount": 1, "maxCount": 1 }}
+thornshell_crab_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:thornshell_crab", "weight": 8, "minCount": 1, "maxCount": 1 }}
+zombie_bruiser_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:zombie_bruiser", "weight": 16, "minCount": 1, "maxCount": 1 }}
+zombie_clown_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:zombie_clown", "weight": 8, "minCount": 1, "maxCount": 1 }}
+zombie_fisherman_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:zombie_fisherman", "weight": 30, "minCount": 1, "maxCount": 1 }}
+zombie_lumberjack_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "born_in_chaos_v1:zombie_lumberjack", "weight": 25, "minCount": 1, "maxCount": 1 }}
+
+## c: common tag membership

@@ -1,0 +1,3 @@
+minecraft:cake | minecraft:crafting_shaped | c:drinks/milk c:eggs minecraft:cake minecraft:crafting_shaped minecraft:sugar minecraft:wheat
+minecraft:pumpkin_pie | minecraft:crafting_shapeless | c:eggs c:pumpkins/normal minecraft:crafting_shapeless minecraft:pumpkin_pie minecraft:sugar
+minecraft:pumpkin_seeds | minecraft:crafting_shapeless | c:pumpkins/normal minecraft:crafting_shapeless minecraft:pumpkin_seeds

@@ -1,0 +1,19 @@
+# startuptime-1.0.0
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="startuptime" #mandatory
+version="1.0.0" #mandatory
+displayName="Startup Time" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.1.0,)" #mandatory
+modId="minecraft"
+versionRange="[1.21, 1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

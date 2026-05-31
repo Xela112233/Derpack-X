@@ -1,0 +1,81 @@
+# just_blahaj-3.1.0-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license="Academic Free License v3.0"
+modId="just_blahaj"
+version="3.1.0"
+displayName="Just Blahaj"
+modId="neoforge"
+versionRange="[21.1.190,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+
+## blocks
+just_blahaj:ace_blahaj
+just_blahaj:aroace_blahaj
+just_blahaj:aromantic_blahaj
+just_blahaj:bi_blahaj
+just_blahaj:black_blahaj
+just_blahaj:blahaj
+just_blahaj:blue_blahaj
+just_blahaj:brown_blahaj
+just_blahaj:creeperhaj
+just_blahaj:cyan_blahaj
+just_blahaj:enby_blahaj
+just_blahaj:gay_blahaj
+just_blahaj:gender_fluid_blahaj
+just_blahaj:glowhaj
+just_blahaj:gray_blahaj
+just_blahaj:green_blahaj
+just_blahaj:intersex_blahaj
+just_blahaj:lesbian_blahaj
+just_blahaj:light_gray_blahaj
+just_blahaj:lime_blahaj
+just_blahaj:magenta_blahaj
+just_blahaj:orange_blahaj
+just_blahaj:palestine_blahaj
+just_blahaj:panhaj
+just_blahaj:pink_blahaj
+just_blahaj:pride_blahaj
+just_blahaj:purple_blahaj
+just_blahaj:red_blahaj
+just_blahaj:trans_blahaj
+just_blahaj:white_blahaj
+just_blahaj:yellow_blahaj
+
+## items
+just_blahaj:ace_blahaj
+just_blahaj:aroace_blahaj
+just_blahaj:aromantic_blahaj
+just_blahaj:bi_blahaj
+just_blahaj:black_blahaj
+just_blahaj:blahaj
+just_blahaj:blue_blahaj
+just_blahaj:brown_blahaj
+just_blahaj:creeperhaj
+just_blahaj:cyan_blahaj
+just_blahaj:enby_blahaj
+just_blahaj:gay_blahaj
+just_blahaj:gender_fluid_blahaj
+just_blahaj:glowhaj
+just_blahaj:gray_blahaj
+just_blahaj:green_blahaj
+just_blahaj:intersex_blahaj
+just_blahaj:lesbian_blahaj
+just_blahaj:light_gray_blahaj
+just_blahaj:lime_blahaj
+just_blahaj:magenta_blahaj
+just_blahaj:orange_blahaj
+just_blahaj:palestine_blahaj
+just_blahaj:panhaj
+just_blahaj:pink_blahaj
+just_blahaj:pride_blahaj
+just_blahaj:purple_blahaj
+just_blahaj:red_blahaj
+just_blahaj:trans_blahaj
+just_blahaj:white_blahaj
+just_blahaj:yellow_blahaj
+
+## neoforge biome_modifiers
+
+## c: common tag membership

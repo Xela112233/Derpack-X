@@ -1,0 +1,10 @@
+createfisheryindustry:blocks/bait_trap | minecraft:block | createfisheryindustry:bait_trap createfisheryindustry:blocks/bait_trap minecraft:block minecraft:item minecraft:survives_explosion
+createfisheryindustry:blocks/frame_trap | minecraft:block | createfisheryindustry:blocks/frame_trap createfisheryindustry:frame_trap minecraft:block minecraft:item minecraft:survives_explosion
+createfisheryindustry:blocks/mechanical_peeler | minecraft:block | createfisheryindustry:blocks/mechanical_peeler createfisheryindustry:mechanical_peeler minecraft:block minecraft:item minecraft:survives_explosion
+createfisheryindustry:blocks/mesh_trap | minecraft:block | createfisheryindustry:blocks/mesh_trap createfisheryindustry:mesh_trap minecraft:block minecraft:item minecraft:survives_explosion
+createfisheryindustry:blocks/smart_mesh | minecraft:block | createfisheryindustry:blocks/smart_mesh createfisheryindustry:smart_mesh minecraft:block minecraft:item minecraft:survives_explosion
+createfisheryindustry:blocks/smart_nozzle | minecraft:block | createfisheryindustry:blocks/smart_nozzle createfisheryindustry:smart_nozzle minecraft:block minecraft:item minecraft:survives_explosion
+createfisheryindustry:blocks/trap_bearing | minecraft:block | createfisheryindustry:blocks/trap_bearing createfisheryindustry:trap_bearing minecraft:block minecraft:item minecraft:survives_explosion
+createfisheryindustry:blocks/trap_nozzle | minecraft:block | createfisheryindustry:blocks/trap_nozzle createfisheryindustry:trap_nozzle minecraft:block minecraft:item minecraft:survives_explosion
+createfisheryindustry:entities/peeler/armadillo | minecraft:entity | minecraft:armadillo_scute minecraft:entity minecraft:item minecraft:set_count
+createfisheryindustry:entities/peeler/turtle | minecraft:entity | minecraft:entity minecraft:item minecraft:set_count minecraft:turtle_scute

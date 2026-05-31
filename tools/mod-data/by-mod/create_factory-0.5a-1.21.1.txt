@@ -1,0 +1,47 @@
+# create_factory-0.5a-1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT License"
+modId="create_factory" #mandatory
+version="0.5a-1.21.1" #mandatory
+displayName="Create: Factory" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.1.217,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="create"
+versionRange="[6.0.8,6.1.0)"
+
+## blocks
+create_factory:sweet_berries_jam
+
+## items
+create_factory:cake_paste
+create_factory:caramel_apple
+create_factory:caramel_roll
+create_factory:caramel_waffle
+create_factory:chocolate_apple
+create_factory:chocolate_roll
+create_factory:chocolate_waffle
+create_factory:cream_bucket
+create_factory:dark_chocolate_apple
+create_factory:dark_chocolate_roll
+create_factory:dark_chocolate_waffle
+create_factory:honey_glazed_berries
+create_factory:honey_roll
+create_factory:honey_waffle
+create_factory:ruby_chocolate_apple
+create_factory:ruby_chocolate_roll
+create_factory:ruby_chocolate_waffle
+create_factory:sweet_berries_jam_bucket
+create_factory:sweet_berries_jam_roll
+create_factory:sweet_berries_jam_waffle
+create_factory:uncooked_waffle
+create_factory:waffle
+create_factory:white_chocolate_apple
+create_factory:white_chocolate_roll
+create_factory:white_chocolate_waffle
+
+## neoforge biome_modifiers
+
+## c: common tag membership

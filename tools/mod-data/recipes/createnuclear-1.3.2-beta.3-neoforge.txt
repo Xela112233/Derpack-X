@@ -1,0 +1,153 @@
+create:crushing/granite | create:crushing | create:crushing createnuclear:uranium_powder minecraft:granite minecraft:red_sand
+create:crushing/raw_copper | create:crushing | create:crushed_raw_copper create:crushing create:experience_nugget createnuclear:lead_nugget minecraft:raw_copper
+create:crushing/raw_uranium_block | create:crushing | create:crushing createnuclear:raw_uranium_block createnuclear:uranium_powder
+create:crushing/raw_zinc | create:crushing | create:crushed_raw_zinc create:crushing create:experience_nugget create:raw_zinc createnuclear:lead_nugget
+create:splashing/crushed_raw_lead | create:splashing | create:crushed_raw_lead create:experience_nugget create:splashing createnuclear:lead_nugget
+createnuclear:autunite_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:autunite createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:autunite_pillar_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:autunite_pillar createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:blasting/lead_ingot_for_lead | minecraft:blasting | create:crushed_raw_lead createnuclear:lead_ingot minecraft:blasting
+createnuclear:blasting/lead_ingot_for_lead_ore | minecraft:blasting | createnuclear:lead_ingot createnuclear:lead_ores minecraft:blasting
+createnuclear:blasting/lead_ingot_for_raw_lead | minecraft:blasting | c:raw_materials/lead createnuclear:lead_ingot minecraft:blasting
+createnuclear:blasting/raw_uranium_for_uranium_ore | minecraft:blasting | createnuclear:raw_uranium createnuclear:uranium_ores minecraft:blasting
+createnuclear:compacting/uranium_fluid_to_yellowcake | create:compacting | create:compacting createnuclear:uranium createnuclear:yellowcake neoforge:single
+createnuclear:crafting/crafting/lead_block_from_compacting | minecraft:crafting_shaped | c:ingots/lead createnuclear:lead_block minecraft:crafting_shaped
+createnuclear:crafting/crafting/lead_ingot_from_compacting | minecraft:crafting_shaped | c:nuggets/lead createnuclear:lead_ingot minecraft:crafting_shaped
+createnuclear:crafting/crafting/lead_ingot_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/lead createnuclear:lead_ingot minecraft:crafting_shapeless
+createnuclear:crafting/crafting/lead_nugget_from_decompacting | minecraft:crafting_shapeless | c:ingots/lead createnuclear:lead_nugget minecraft:crafting_shapeless
+createnuclear:crafting/crafting/steel_block_from_compacting | minecraft:crafting_shaped | c:ingots/steel createnuclear:steel_block minecraft:crafting_shaped
+createnuclear:crafting/crafting/steel_ingot_from_compacting | minecraft:crafting_shaped | c:nuggets/steel createnuclear:steel_ingot minecraft:crafting_shaped
+createnuclear:crafting/crafting/steel_ingot_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/steel createnuclear:steel_ingot minecraft:crafting_shapeless
+createnuclear:crafting/crafting/steel_nugget_from_decompacting | minecraft:crafting_shapeless | c:ingots/steel createnuclear:steel_nugget minecraft:crafting_shapeless
+createnuclear:crafting/crafting/white_cloth | minecraft:crafting_shaped | createnuclear:white_cloth minecraft:crafting_shaped minecraft:string
+createnuclear:crafting/crafting/white_cloth_wool | minecraft:crafting_shaped | createnuclear:white_cloth minecraft:crafting_shaped minecraft:white_wool
+createnuclear:crafting/enriched_soul_soil | minecraft:crafting_shaped | createnuclear:enriched_soul_soil minecraft:crafting_shaped minecraft:nether_star minecraft:obsidian minecraft:soul_soil
+createnuclear:crafting/enriching_campfire | minecraft:crafting_shaped | c:rods/wooden createnuclear:enriched_soul_soil createnuclear:enriching_campfire minecraft:crafting_shaped minecraft:logs
+createnuclear:crafting/items/armors/anti_radiation_boots | minecraft:crafting_shaped | c:ingots/lead createnuclear:anti_radiation_boots createnuclear:white_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/black_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:black_anti_radiation_chestplate createnuclear:black_cloth createnuclear:graphite_rod minecraft:crafting_shaped
+createnuclear:crafting/items/armors/black_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:black_anti_radiation_helmet createnuclear:black_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/black_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:black_anti_radiation_leggings createnuclear:black_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/blue_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:blue_anti_radiation_chestplate createnuclear:blue_cloth createnuclear:graphite_rod minecraft:crafting_shaped
+createnuclear:crafting/items/armors/blue_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:blue_anti_radiation_helmet createnuclear:blue_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/blue_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:blue_anti_radiation_leggings createnuclear:blue_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/brown_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:brown_anti_radiation_chestplate createnuclear:brown_cloth createnuclear:graphite_rod minecraft:crafting_shaped
+createnuclear:crafting/items/armors/brown_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:brown_anti_radiation_helmet createnuclear:brown_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/brown_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:brown_anti_radiation_leggings createnuclear:brown_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/cyan_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:cyan_anti_radiation_chestplate createnuclear:cyan_cloth createnuclear:graphite_rod minecraft:crafting_shaped
+createnuclear:crafting/items/armors/cyan_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:cyan_anti_radiation_helmet createnuclear:cyan_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/cyan_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:cyan_anti_radiation_leggings createnuclear:cyan_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/gray_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:gray_anti_radiation_chestplate createnuclear:gray_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/gray_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:gray_anti_radiation_helmet createnuclear:gray_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/gray_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:gray_anti_radiation_leggings createnuclear:gray_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/green_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:green_anti_radiation_chestplate createnuclear:green_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/green_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:green_anti_radiation_helmet createnuclear:green_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/green_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:green_anti_radiation_leggings createnuclear:green_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/light_blue_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:light_blue_anti_radiation_chestplate createnuclear:light_blue_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/light_blue_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:light_blue_anti_radiation_helmet createnuclear:light_blue_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/light_blue_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:light_blue_anti_radiation_leggings createnuclear:light_blue_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/light_gray_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:light_gray_anti_radiation_chestplate createnuclear:light_gray_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/light_gray_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:light_gray_anti_radiation_helmet createnuclear:light_gray_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/light_gray_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:light_gray_anti_radiation_leggings createnuclear:light_gray_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/lime_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:lime_anti_radiation_chestplate createnuclear:lime_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/lime_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:lime_anti_radiation_helmet createnuclear:lime_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/lime_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:lime_anti_radiation_leggings createnuclear:lime_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/magenta_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:magenta_anti_radiation_chestplate createnuclear:magenta_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/magenta_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:magenta_anti_radiation_helmet createnuclear:magenta_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/magenta_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:magenta_anti_radiation_leggings createnuclear:magenta_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/orange_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:orange_anti_radiation_chestplate createnuclear:orange_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/orange_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:orange_anti_radiation_helmet createnuclear:orange_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/orange_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:orange_anti_radiation_leggings createnuclear:orange_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/pink_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:pink_anti_radiation_chestplate createnuclear:pink_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/pink_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:pink_anti_radiation_helmet createnuclear:pink_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/pink_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:pink_anti_radiation_leggings createnuclear:pink_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/purple_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:purple_anti_radiation_chestplate createnuclear:purple_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/purple_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:purple_anti_radiation_helmet createnuclear:purple_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/purple_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:purple_anti_radiation_leggings createnuclear:purple_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/red_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:red_anti_radiation_chestplate createnuclear:red_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/red_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:red_anti_radiation_helmet createnuclear:red_cloth createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/items/armors/red_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:red_anti_radiation_leggings createnuclear:red_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/white_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:white_anti_radiation_chestplate createnuclear:white_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/white_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:reinforced_glass createnuclear:white_anti_radiation_helmet createnuclear:white_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/white_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:white_anti_radiation_leggings createnuclear:white_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/yellow_anti_radiation_chestplate | minecraft:crafting_shaped | c:ingots/lead createnuclear:graphite_rod createnuclear:yellow_anti_radiation_chestplate createnuclear:yellow_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/yellow_anti_radiation_helmet | minecraft:crafting_shaped | c:ingots/lead createnuclear:reinforced_glass createnuclear:yellow_anti_radiation_helmet createnuclear:yellow_cloth minecraft:crafting_shaped
+createnuclear:crafting/items/armors/yellow_anti_radiation_leggings | minecraft:crafting_shaped | c:ingots/lead createnuclear:yellow_anti_radiation_leggings createnuclear:yellow_cloth minecraft:crafting_shaped
+createnuclear:crafting/lead_ingot_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/lead createnuclear:lead_ingot minecraft:crafting_shapeless
+createnuclear:crafting/lead_nugget_from_decompacting | minecraft:crafting_shapeless | c:ingots/lead createnuclear:lead_nugget minecraft:crafting_shapeless
+createnuclear:crafting/raw_lead_block | minecraft:crafting_shaped | c:raw_materials/lead createnuclear:raw_lead_block minecraft:crafting_shaped
+createnuclear:crafting/raw_lead_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/raw_lead createnuclear:raw_lead minecraft:crafting_shapeless
+createnuclear:crafting/raw_uranium_block | minecraft:crafting_shaped | c:raw_materials/uranium createnuclear:raw_uranium_block minecraft:crafting_shaped
+createnuclear:crafting/raw_uranium_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/raw_uranium createnuclear:raw_uranium minecraft:crafting_shapeless
+createnuclear:crafting/reactor/reinforced_glass | minecraft:crafting_shaped | c:glass_blocks c:ingots/lead createnuclear:reinforced_glass minecraft:crafting_shaped
+createnuclear:crafting/reactor_blueprint_item | minecraft:crafting_shaped | c:ingots/steel create:display_board create:empty_schematic create:precision_mechanism createnuclear:reactor_blueprint_item minecraft:crafting_shaped
+createnuclear:crafting/steel_ingot_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/steel createnuclear:steel_ingot minecraft:crafting_shapeless
+createnuclear:crafting/steel_nugget_from_decompacting | minecraft:crafting_shapeless | c:ingots/steel createnuclear:steel_nugget minecraft:crafting_shapeless
+createnuclear:crushing/coal | create:crushing | create:crushing createnuclear:coal_dust minecraft:coals
+createnuclear:crushing/crushed_raw_uranium | create:crushing | create:crushed_raw_uranium create:crushing createnuclear:uranium_powder
+createnuclear:cut_autunite_brick_slab | minecraft:crafting_shaped | createnuclear:cut_autunite_brick_slab createnuclear:cut_autunite_bricks minecraft:crafting_shaped
+createnuclear:cut_autunite_brick_slab_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:cut_autunite_brick_slab createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:cut_autunite_brick_slab_recycling | minecraft:crafting_shapeless | createnuclear:cut_autunite_brick_slab createnuclear:cut_autunite_bricks minecraft:crafting_shapeless
+createnuclear:cut_autunite_brick_stairs | minecraft:crafting_shaped | createnuclear:cut_autunite_brick_stairs createnuclear:cut_autunite_bricks minecraft:crafting_shaped
+createnuclear:cut_autunite_brick_stairs_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:cut_autunite_brick_stairs createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:cut_autunite_brick_wall | minecraft:crafting_shaped | createnuclear:cut_autunite_brick_wall createnuclear:cut_autunite_bricks minecraft:crafting_shaped
+createnuclear:cut_autunite_brick_wall_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:cut_autunite_brick_wall createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:cut_autunite_bricks_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:cut_autunite_bricks createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:cut_autunite_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:cut_autunite createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:cut_autunite_slab | minecraft:crafting_shaped | createnuclear:cut_autunite createnuclear:cut_autunite_slab minecraft:crafting_shaped
+createnuclear:cut_autunite_slab_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:cut_autunite_slab createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:cut_autunite_slab_recycling | minecraft:crafting_shapeless | createnuclear:cut_autunite createnuclear:cut_autunite_slab minecraft:crafting_shapeless
+createnuclear:cut_autunite_stairs | minecraft:crafting_shaped | createnuclear:cut_autunite createnuclear:cut_autunite_stairs minecraft:crafting_shaped
+createnuclear:cut_autunite_stairs_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:cut_autunite_stairs createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:cut_autunite_wall | minecraft:crafting_shaped | createnuclear:cut_autunite createnuclear:cut_autunite_wall minecraft:crafting_shaped
+createnuclear:cut_autunite_wall_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:cut_autunite_wall createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:enriched/enriched_yellowcake | createnuclear:enriched | createnuclear:enriched createnuclear:enriched_yellowcake createnuclear:yellowcake
+createnuclear:enriched/enriching_campfire | createnuclear:enriched | createnuclear:enriched createnuclear:enriching_campfire minecraft:campfire
+createnuclear:item_application/reactor_casing_from_steel_and_brass_casing | create:item_application | c:ingots/steel create:brass_casing create:item_application createnuclear:reactor_casing
+createnuclear:item_application/reactor_input_from_hopper_and_reactor_casing | create:item_application | create:item_application createnuclear:reactor_casing createnuclear:reactor_input minecraft:hopper
+createnuclear:item_application/reactor_output_from_shaft_and_reactor_casing | create:item_application | create:item_application create:shaft createnuclear:reactor_casing createnuclear:reactor_output
+createnuclear:layered_autunite_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:layered_autunite createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:mechanical_crafting/graphite_rod | create:mechanical_crafting | c:ingots/steel create:mechanical_crafting createnuclear:graphene createnuclear:graphite_rod
+createnuclear:mechanical_crafting/reactor_controller | create:mechanical_crafting | create:content_observer create:electron_tube create:item_vault create:mechanical_crafting createnuclear:reactor_casing createnuclear:reactor_controller minecraft:nether_star minecraft:netherite_ingot
+createnuclear:mechanical_crafting/reactor_cooler | create:mechanical_crafting | c:ingots/steel create:mechanical_crafting createnuclear:reactor_casing createnuclear:reactor_cooler createnuclear:reinforced_glass minecraft:blue_ice
+createnuclear:mechanical_crafting/reactor_core | create:mechanical_crafting | c:ingots/steel create:mechanical_crafting create:precision_mechanism createnuclear:reactor_casing createnuclear:reactor_core createnuclear:uranium_bucket
+createnuclear:mechanical_crafting/reactor_frame | create:mechanical_crafting | c:ingots/steel create:mechanical_crafting createnuclear:reactor_casing createnuclear:reactor_frame createnuclear:reinforced_glass createnuclear:uranium_bucket
+createnuclear:mechanical_crafting/uranium_rod | create:mechanical_crafting | create:mechanical_crafting createnuclear:enriched_yellowcake createnuclear:uranium_rod
+createnuclear:mixing/steel | create:mixing | c:dusts/coal c:ingots/iron create:mixing createnuclear:steel_ingot
+createnuclear:mixing/uranium_fluid | create:mixing | c:dusts/uranium create:mixing createnuclear:uranium
+createnuclear:polished_cut_autunite_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:polished_cut_autunite createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:polished_cut_autunite_slab | minecraft:crafting_shaped | createnuclear:polished_cut_autunite createnuclear:polished_cut_autunite_slab minecraft:crafting_shaped
+createnuclear:polished_cut_autunite_slab_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:polished_cut_autunite_slab createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:polished_cut_autunite_slab_recycling | minecraft:crafting_shapeless | createnuclear:polished_cut_autunite createnuclear:polished_cut_autunite_slab minecraft:crafting_shapeless
+createnuclear:polished_cut_autunite_stairs | minecraft:crafting_shaped | createnuclear:polished_cut_autunite createnuclear:polished_cut_autunite_stairs minecraft:crafting_shaped
+createnuclear:polished_cut_autunite_stairs_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:polished_cut_autunite_stairs createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:polished_cut_autunite_wall | minecraft:crafting_shaped | createnuclear:polished_cut_autunite createnuclear:polished_cut_autunite_wall minecraft:crafting_shaped
+createnuclear:polished_cut_autunite_wall_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:polished_cut_autunite_wall createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:pressing/graphene | create:pressing | c:dusts/coal create:pressing createnuclear:graphene
+createnuclear:shapeless/cloth/black_cloth | minecraft:crafting_shapeless | createnuclear:black_cloth createnuclear:cloth minecraft:black_dye minecraft:crafting_shapeless
+createnuclear:shapeless/cloth/blue_cloth | minecraft:crafting_shapeless | createnuclear:blue_cloth createnuclear:cloth minecraft:blue_dye minecraft:crafting_shapeless
+createnuclear:shapeless/cloth/brown_cloth | minecraft:crafting_shapeless | createnuclear:brown_cloth createnuclear:cloth minecraft:brown_dye minecraft:crafting_shapeless
+createnuclear:shapeless/cloth/cyan_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:cyan_cloth minecraft:crafting_shapeless minecraft:cyan_dye
+createnuclear:shapeless/cloth/gray_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:gray_cloth minecraft:crafting_shapeless minecraft:gray_dye
+createnuclear:shapeless/cloth/green_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:green_cloth minecraft:crafting_shapeless minecraft:green_dye
+createnuclear:shapeless/cloth/light_blue_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:light_blue_cloth minecraft:crafting_shapeless minecraft:light_blue_dye
+createnuclear:shapeless/cloth/light_gray_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:light_gray_cloth minecraft:crafting_shapeless minecraft:light_gray_dye
+createnuclear:shapeless/cloth/lime_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:lime_cloth minecraft:crafting_shapeless minecraft:lime_dye
+createnuclear:shapeless/cloth/magenta_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:magenta_cloth minecraft:crafting_shapeless minecraft:magenta_dye
+createnuclear:shapeless/cloth/orange_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:orange_cloth minecraft:crafting_shapeless minecraft:orange_dye
+createnuclear:shapeless/cloth/pink_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:pink_cloth minecraft:crafting_shapeless minecraft:pink_dye
+createnuclear:shapeless/cloth/purple_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:purple_cloth minecraft:crafting_shapeless minecraft:purple_dye
+createnuclear:shapeless/cloth/red_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:red_cloth minecraft:crafting_shapeless minecraft:red_dye
+createnuclear:shapeless/cloth/white_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:white_cloth minecraft:crafting_shapeless minecraft:white_dye
+createnuclear:shapeless/cloth/yellow_cloth | minecraft:crafting_shapeless | createnuclear:cloth createnuclear:yellow_cloth minecraft:crafting_shapeless minecraft:yellow_dye
+createnuclear:shapeless/reactor_blueprint_item_clear | minecraft:crafting_shapeless | createnuclear:reactor_blueprint_item minecraft:crafting_shapeless
+createnuclear:small_autunite_brick_slab | minecraft:crafting_shaped | createnuclear:small_autunite_brick_slab createnuclear:small_autunite_bricks minecraft:crafting_shaped
+createnuclear:small_autunite_brick_slab_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:small_autunite_brick_slab createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:small_autunite_brick_slab_recycling | minecraft:crafting_shapeless | createnuclear:small_autunite_brick_slab createnuclear:small_autunite_bricks minecraft:crafting_shapeless
+createnuclear:small_autunite_brick_stairs | minecraft:crafting_shaped | createnuclear:small_autunite_brick_stairs createnuclear:small_autunite_bricks minecraft:crafting_shaped
+createnuclear:small_autunite_brick_stairs_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:small_autunite_brick_stairs createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:small_autunite_brick_wall | minecraft:crafting_shaped | createnuclear:small_autunite_brick_wall createnuclear:small_autunite_bricks minecraft:crafting_shaped
+createnuclear:small_autunite_brick_wall_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:small_autunite_brick_wall createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:small_autunite_bricks_from_stone_types_autunite_stonecutting | minecraft:stonecutting | createnuclear:small_autunite_bricks createnuclear:stone_types/autunite minecraft:stonecutting
+createnuclear:smelting/lead_ingot_for_lead | minecraft:smelting | create:crushed_raw_lead createnuclear:lead_ingot minecraft:smelting
+createnuclear:smelting/lead_ingot_for_lead_ore | minecraft:smelting | createnuclear:lead_ingot createnuclear:lead_ores minecraft:smelting
+createnuclear:smelting/lead_ingot_for_raw_lead | minecraft:smelting | c:raw_materials/lead createnuclear:lead_ingot minecraft:smelting
+createnuclear:smelting/raw_uranium_for_uranium_ore | minecraft:smelting | createnuclear:raw_uranium createnuclear:uranium_ores minecraft:smelting

@@ -1,0 +1,22 @@
+# solmaiddream-1.0.1
+
+## mod metadata (id / version / deps)
+license="${mod_license}"
+modId="solmaiddream"
+version="1.0.1"
+displayName="Spice of Life: Maids' Dream"
+modId="neoforge"
+versionRange="[${neo_version},)"
+modId="minecraft"
+versionRange="${minecraft_version_range}"
+modId="touhou_little_maid"
+versionRange="[1.4.6,)"
+
+## blocks
+
+## items
+solmaiddream:food_book
+
+## neoforge biome_modifiers
+
+## c: common tag membership

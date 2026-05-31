@@ -1,0 +1,1 @@
+create:potion_of_luck1 | create:mixing | create:mixing create:potion minecraft:luck minecraft:rabbit_foot

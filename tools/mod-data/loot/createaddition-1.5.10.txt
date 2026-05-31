@@ -1,0 +1,18 @@
+createaddition:blocks/alternator | minecraft:block | createaddition:alternator createaddition:blocks/alternator minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/barbed_wire | minecraft:block | createaddition:barbed_wire createaddition:blocks/barbed_wire minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/biomass_pellet_block | minecraft:block | createaddition:biomass_pellet_block createaddition:blocks/biomass_pellet_block minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/chocolate_cake | minecraft:block | createaddition:blocks/chocolate_cake minecraft:block
+createaddition:blocks/connector | minecraft:block | createaddition:blocks/connector createaddition:connector minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/creative_energy | minecraft:block | createaddition:blocks/creative_energy createaddition:creative_energy minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/digital_adapter | minecraft:block | createaddition:blocks/digital_adapter createaddition:digital_adapter minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/electric_motor | minecraft:block | createaddition:blocks/electric_motor createaddition:electric_motor minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/electrum_block | minecraft:block | createaddition:blocks/electrum_block createaddition:electrum_block minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/honey_cake | minecraft:block | createaddition:blocks/honey_cake minecraft:block
+createaddition:blocks/large_connector | minecraft:block | createaddition:blocks/large_connector createaddition:large_connector minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/liquid_blaze_burner | minecraft:block | create:blaze_burner createaddition:blocks/liquid_blaze_burner createaddition:straw minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/modular_accumulator | minecraft:block | createaddition:blocks/modular_accumulator createaddition:modular_accumulator minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/portable_energy_interface | minecraft:block | createaddition:blocks/portable_energy_interface createaddition:portable_energy_interface minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/redstone_relay | minecraft:block | createaddition:blocks/redstone_relay createaddition:redstone_relay minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/rolling_mill | minecraft:block | createaddition:blocks/rolling_mill createaddition:rolling_mill minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/small_light_connector | minecraft:block | createaddition:blocks/small_light_connector createaddition:small_light_connector minecraft:block minecraft:item minecraft:survives_explosion
+createaddition:blocks/tesla_coil | minecraft:block | createaddition:blocks/tesla_coil createaddition:tesla_coil minecraft:block minecraft:item minecraft:survives_explosion

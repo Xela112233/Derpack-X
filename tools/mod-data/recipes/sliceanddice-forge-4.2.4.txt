@@ -1,0 +1,8 @@
+create:crafting/appliances/slime_ball | minecraft:crafting_shapeless | c:dyes/lime c:foods/dough minecraft:crafting_shapeless minecraft:slime_ball
+sliceanddice:filling/hot_cocoa_from_fluid | create:filling | create:chocolate create:filling farmersdelight:hot_cocoa minecraft:glass_bottle neoforge:mod_loaded neoforge:single
+sliceanddice:filling/rich_soil | create:filling | create:filling farmersdelight:organic_compost farmersdelight:rich_soil neoforge:mod_loaded neoforge:single sliceanddice:fertilizer
+sliceanddice:mixing/fertilizer/from_compost | create:mixing | create:mixing farmersdelight:organic_compost minecraft:water neoforge:mod_loaded neoforge:single sliceanddice:fertilizer
+sliceanddice:mixing/fertilizer/from_phyto | create:mixing | create:mixing minecraft:water neoforge:compound neoforge:mod_loaded neoforge:single sliceanddice:fertilizer thermal:phytogro
+sliceanddice:mixing/fertilizer/from_tree_fertilizer | create:mixing | create:mixing create:tree_fertilizer minecraft:water neoforge:single sliceanddice:fertilizer
+sliceanddice:slicer | minecraft:crafting_shaped | create:andesite_casing create:cogwheel create:turntable minecraft:crafting_shaped sliceanddice:slicer
+sliceanddice:sprinkler | minecraft:crafting_shaped | c:plates/copper create:fluid_pipe minecraft:crafting_shaped minecraft:iron_bars sliceanddice:sprinkler

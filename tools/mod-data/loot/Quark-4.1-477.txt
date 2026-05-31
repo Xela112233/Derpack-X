@@ -1,0 +1,788 @@
+quark:blocks/acacia_bookshelf | minecraft:block | minecraft:alternatives minecraft:block minecraft:book minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch quark:acacia_bookshelf quark:blocks/acacia_bookshelf
+quark:blocks/acacia_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:acacia_chest quark:blocks/acacia_chest
+quark:blocks/acacia_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:acacia_hedge quark:blocks/acacia_hedge
+quark:blocks/acacia_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:acacia_ladder quark:blocks/acacia_ladder
+quark:blocks/acacia_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:acacia_leaf_carpet quark:blocks/acacia_leaf_carpet
+quark:blocks/acacia_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:acacia_post quark:blocks/acacia_post
+quark:blocks/acacia_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:acacia_vertical_slab quark:blocks/acacia_vertical_slab
+quark:blocks/ancient_bookshelf | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_bookshelf quark:blocks/ancient_bookshelf
+quark:blocks/ancient_button | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_button quark:blocks/ancient_button
+quark:blocks/ancient_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_chest quark:blocks/ancient_chest
+quark:blocks/ancient_door | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion quark:ancient_door quark:blocks/ancient_door
+quark:blocks/ancient_fence | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_fence quark:blocks/ancient_fence
+quark:blocks/ancient_fence_gate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_fence_gate quark:blocks/ancient_fence_gate
+quark:blocks/ancient_hanging_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_hanging_sign quark:blocks/ancient_hanging_sign
+quark:blocks/ancient_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_hedge quark:blocks/ancient_hedge
+quark:blocks/ancient_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_ladder quark:blocks/ancient_ladder
+quark:blocks/ancient_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_leaf_carpet quark:blocks/ancient_leaf_carpet
+quark:blocks/ancient_leaves | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform quark:ancient_fruit quark:ancient_leaves quark:ancient_sapling quark:blocks/ancient_leaves
+quark:blocks/ancient_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_log quark:blocks/ancient_log
+quark:blocks/ancient_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_planks quark:blocks/ancient_planks
+quark:blocks/ancient_planks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:ancient_planks_slab quark:blocks/ancient_planks_slab
+quark:blocks/ancient_planks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_planks_stairs quark:blocks/ancient_planks_stairs
+quark:blocks/ancient_planks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:ancient_planks_vertical_slab quark:blocks/ancient_planks_vertical_slab
+quark:blocks/ancient_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_post quark:blocks/ancient_post
+quark:blocks/ancient_pressure_plate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_pressure_plate quark:blocks/ancient_pressure_plate
+quark:blocks/ancient_sapling | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_sapling quark:blocks/ancient_sapling
+quark:blocks/ancient_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_sign quark:blocks/ancient_sign
+quark:blocks/ancient_trapdoor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_trapdoor quark:blocks/ancient_trapdoor
+quark:blocks/ancient_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:ancient_wood quark:blocks/ancient_wood
+quark:blocks/andesite_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:andesite_bricks quark:blocks/andesite_bricks
+quark:blocks/andesite_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:andesite_bricks_slab quark:blocks/andesite_bricks_slab
+quark:blocks/andesite_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:andesite_bricks_stairs quark:blocks/andesite_bricks_stairs
+quark:blocks/andesite_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:andesite_bricks_vertical_slab quark:blocks/andesite_bricks_vertical_slab
+quark:blocks/andesite_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:andesite_bricks_wall quark:blocks/andesite_bricks_wall
+quark:blocks/andesite_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:andesite_pillar quark:blocks/andesite_pillar
+quark:blocks/andesite_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:andesite_vertical_slab quark:blocks/andesite_vertical_slab
+quark:blocks/apple_crate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:apple_crate quark:blocks/apple_crate
+quark:blocks/azalea_bookshelf | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_bookshelf quark:blocks/azalea_bookshelf
+quark:blocks/azalea_button | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_button quark:blocks/azalea_button
+quark:blocks/azalea_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_chest quark:blocks/azalea_chest
+quark:blocks/azalea_door | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion quark:azalea_door quark:blocks/azalea_door
+quark:blocks/azalea_fence | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_fence quark:blocks/azalea_fence
+quark:blocks/azalea_fence_gate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_fence_gate quark:blocks/azalea_fence_gate
+quark:blocks/azalea_hanging_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_hanging_sign quark:blocks/azalea_hanging_sign
+quark:blocks/azalea_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_hedge quark:blocks/azalea_hedge
+quark:blocks/azalea_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_ladder quark:blocks/azalea_ladder
+quark:blocks/azalea_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_leaf_carpet quark:blocks/azalea_leaf_carpet
+quark:blocks/azalea_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_log quark:blocks/azalea_log
+quark:blocks/azalea_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_planks quark:blocks/azalea_planks
+quark:blocks/azalea_planks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:azalea_planks_slab quark:blocks/azalea_planks_slab
+quark:blocks/azalea_planks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_planks_stairs quark:blocks/azalea_planks_stairs
+quark:blocks/azalea_planks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:azalea_planks_vertical_slab quark:blocks/azalea_planks_vertical_slab
+quark:blocks/azalea_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_post quark:blocks/azalea_post
+quark:blocks/azalea_pressure_plate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_pressure_plate quark:blocks/azalea_pressure_plate
+quark:blocks/azalea_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_sign quark:blocks/azalea_sign
+quark:blocks/azalea_trapdoor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_trapdoor quark:blocks/azalea_trapdoor
+quark:blocks/azalea_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:azalea_wood quark:blocks/azalea_wood
+quark:blocks/bamboo_bookshelf | minecraft:block | minecraft:alternatives minecraft:block minecraft:book minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch quark:bamboo_bookshelf quark:blocks/bamboo_bookshelf
+quark:blocks/bamboo_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:bamboo_chest quark:blocks/bamboo_chest
+quark:blocks/bamboo_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:bamboo_ladder quark:blocks/bamboo_ladder
+quark:blocks/bamboo_mat | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:bamboo_mat quark:blocks/bamboo_mat
+quark:blocks/bamboo_mat_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:bamboo_mat_carpet quark:blocks/bamboo_mat_carpet
+quark:blocks/bamboo_mosaic_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:bamboo_mosaic_vertical_slab quark:blocks/bamboo_mosaic_vertical_slab
+quark:blocks/bamboo_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:bamboo_post quark:blocks/bamboo_post
+quark:blocks/bamboo_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:bamboo_vertical_slab quark:blocks/bamboo_vertical_slab
+quark:blocks/beetroot_crate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:beetroot_crate quark:blocks/beetroot_crate
+quark:blocks/berry_sack | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:berry_sack quark:blocks/berry_sack
+quark:blocks/birch_bookshelf | minecraft:block | minecraft:alternatives minecraft:block minecraft:book minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch quark:birch_bookshelf quark:blocks/birch_bookshelf
+quark:blocks/birch_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:birch_chest quark:blocks/birch_chest
+quark:blocks/birch_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:birch_hedge quark:blocks/birch_hedge
+quark:blocks/birch_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:birch_ladder quark:blocks/birch_ladder
+quark:blocks/birch_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:birch_leaf_carpet quark:blocks/birch_leaf_carpet
+quark:blocks/birch_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:birch_post quark:blocks/birch_post
+quark:blocks/birch_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:birch_vertical_slab quark:blocks/birch_vertical_slab
+quark:blocks/black_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:black_corundum quark:blocks/black_corundum
+quark:blocks/black_corundum_cluster | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:black_corundum_cluster quark:blocks/black_corundum_cluster
+quark:blocks/black_corundum_pane | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch quark:black_corundum_pane quark:blocks/black_corundum_pane
+quark:blocks/black_crystal_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:black_crystal_lamp quark:blocks/black_crystal_lamp
+quark:blocks/black_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:black_framed_glass quark:blocks/black_framed_glass
+quark:blocks/black_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:black_framed_glass_pane quark:blocks/black_framed_glass_pane
+quark:blocks/black_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:black_shingles quark:blocks/black_shingles
+quark:blocks/black_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:black_shingles_slab quark:blocks/black_shingles_slab
+quark:blocks/black_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:black_shingles_stairs quark:blocks/black_shingles_stairs
+quark:blocks/black_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:black_shingles_vertical_slab quark:blocks/black_shingles_vertical_slab
+quark:blocks/black_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:black_stool quark:blocks/black_stool
+quark:blocks/blackstone_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blackstone_bricks quark:blocks/blackstone_bricks
+quark:blocks/blackstone_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blackstone_bricks_slab quark:blocks/blackstone_bricks_slab
+quark:blocks/blackstone_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blackstone_bricks_stairs quark:blocks/blackstone_bricks_stairs
+quark:blocks/blackstone_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blackstone_bricks_vertical_slab quark:blocks/blackstone_bricks_vertical_slab
+quark:blocks/blackstone_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blackstone_bricks_wall quark:blocks/blackstone_bricks_wall
+quark:blocks/blackstone_furnace | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blackstone_furnace quark:blocks/blackstone_furnace
+quark:blocks/blackstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blackstone_vertical_slab quark:blocks/blackstone_vertical_slab
+quark:blocks/blaze_lantern | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blaze_lantern quark:blocks/blaze_lantern
+quark:blocks/blossom_bookshelf | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_bookshelf quark:blossom_bookshelf
+quark:blocks/blossom_button | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_button quark:blossom_button
+quark:blocks/blossom_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_chest quark:blossom_chest
+quark:blocks/blossom_door | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion quark:blocks/blossom_door quark:blossom_door
+quark:blocks/blossom_fence | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_fence quark:blossom_fence
+quark:blocks/blossom_fence_gate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_fence_gate quark:blossom_fence_gate
+quark:blocks/blossom_hanging_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_hanging_sign quark:blossom_hanging_sign
+quark:blocks/blossom_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_ladder quark:blossom_ladder
+quark:blocks/blossom_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_log quark:blossom_log
+quark:blocks/blossom_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_planks quark:blossom_planks
+quark:blocks/blossom_planks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/blossom_planks_slab quark:blossom_planks_slab
+quark:blocks/blossom_planks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_planks_stairs quark:blossom_planks_stairs
+quark:blocks/blossom_planks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/blossom_planks_vertical_slab quark:blossom_planks_vertical_slab
+quark:blocks/blossom_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_post quark:blossom_post
+quark:blocks/blossom_pressure_plate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_pressure_plate quark:blossom_pressure_plate
+quark:blocks/blossom_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_sign quark:blossom_sign
+quark:blocks/blossom_trapdoor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_trapdoor quark:blossom_trapdoor
+quark:blocks/blossom_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blossom_wood quark:blossom_wood
+quark:blocks/blue_blossom_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_blossom_hedge quark:blue_blossom_hedge
+quark:blocks/blue_blossom_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_blossom_leaf_carpet quark:blue_blossom_leaf_carpet
+quark:blocks/blue_blossom_leaves | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform quark:blocks/blue_blossom_leaves quark:blue_blossom_leaves quark:blue_blossom_sapling
+quark:blocks/blue_blossom_sapling | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_blossom_sapling quark:blue_blossom_sapling
+quark:blocks/blue_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_corundum quark:blue_corundum
+quark:blocks/blue_corundum_cluster | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_corundum_cluster quark:blue_corundum_cluster
+quark:blocks/blue_corundum_pane | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch quark:blocks/blue_corundum_pane quark:blue_corundum_pane
+quark:blocks/blue_crystal_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_crystal_lamp quark:blue_crystal_lamp
+quark:blocks/blue_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_framed_glass quark:blue_framed_glass
+quark:blocks/blue_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_framed_glass_pane quark:blue_framed_glass_pane
+quark:blocks/blue_nether_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_nether_bricks quark:blue_nether_bricks
+quark:blocks/blue_nether_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/blue_nether_bricks_slab quark:blue_nether_bricks_slab
+quark:blocks/blue_nether_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_nether_bricks_stairs quark:blue_nether_bricks_stairs
+quark:blocks/blue_nether_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/blue_nether_bricks_vertical_slab quark:blue_nether_bricks_vertical_slab
+quark:blocks/blue_nether_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_nether_bricks_wall quark:blue_nether_bricks_wall
+quark:blocks/blue_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_shingles quark:blue_shingles
+quark:blocks/blue_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/blue_shingles_slab quark:blue_shingles_slab
+quark:blocks/blue_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_shingles_stairs quark:blue_shingles_stairs
+quark:blocks/blue_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/blue_shingles_vertical_slab quark:blue_shingles_vertical_slab
+quark:blocks/blue_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/blue_stool quark:blue_stool
+quark:blocks/bonded_leather | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/bonded_leather quark:bonded_leather
+quark:blocks/bonded_rabbit_hide | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/bonded_rabbit_hide quark:bonded_rabbit_hide
+quark:blocks/bonded_ravager_hide | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/bonded_ravager_hide quark:bonded_ravager_hide
+quark:blocks/brick_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/brick_vertical_slab quark:brick_vertical_slab
+quark:blocks/brown_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/brown_framed_glass quark:brown_framed_glass
+quark:blocks/brown_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/brown_framed_glass_pane quark:brown_framed_glass_pane
+quark:blocks/brown_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/brown_shingles quark:brown_shingles
+quark:blocks/brown_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/brown_shingles_slab quark:brown_shingles_slab
+quark:blocks/brown_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/brown_shingles_stairs quark:brown_shingles_stairs
+quark:blocks/brown_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/brown_shingles_vertical_slab quark:brown_shingles_vertical_slab
+quark:blocks/brown_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/brown_stool quark:brown_stool
+quark:blocks/cactus_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cactus_block quark:cactus_block
+quark:blocks/calcite_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/calcite_bricks quark:calcite_bricks
+quark:blocks/calcite_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/calcite_bricks_slab quark:calcite_bricks_slab
+quark:blocks/calcite_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/calcite_bricks_stairs quark:calcite_bricks_stairs
+quark:blocks/calcite_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/calcite_bricks_vertical_slab quark:calcite_bricks_vertical_slab
+quark:blocks/calcite_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/calcite_bricks_wall quark:calcite_bricks_wall
+quark:blocks/calcite_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/calcite_pillar quark:calcite_pillar
+quark:blocks/calcite_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/calcite_slab quark:calcite_slab
+quark:blocks/calcite_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/calcite_stairs quark:calcite_stairs
+quark:blocks/calcite_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/calcite_vertical_slab quark:calcite_vertical_slab
+quark:blocks/calcite_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/calcite_wall quark:calcite_wall
+quark:blocks/carrot_crate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/carrot_crate quark:carrot_crate
+quark:blocks/carved_mud_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/carved_mud_bricks quark:carved_mud_bricks
+quark:blocks/charcoal_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/charcoal_block quark:charcoal_block
+quark:blocks/cherry_bookshelf | minecraft:block | minecraft:alternatives minecraft:block minecraft:book minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch quark:blocks/cherry_bookshelf quark:cherry_bookshelf
+quark:blocks/cherry_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cherry_chest quark:cherry_chest
+quark:blocks/cherry_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cherry_hedge quark:cherry_hedge
+quark:blocks/cherry_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cherry_ladder quark:cherry_ladder
+quark:blocks/cherry_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cherry_leaf_carpet quark:cherry_leaf_carpet
+quark:blocks/cherry_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cherry_post quark:cherry_post
+quark:blocks/cherry_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cherry_vertical_slab quark:cherry_vertical_slab
+quark:blocks/chiseled_andesite_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chiseled_andesite_bricks quark:chiseled_andesite_bricks
+quark:blocks/chiseled_calcite_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chiseled_calcite_bricks quark:chiseled_calcite_bricks
+quark:blocks/chiseled_diorite_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chiseled_diorite_bricks quark:chiseled_diorite_bricks
+quark:blocks/chiseled_dripstone_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chiseled_dripstone_bricks quark:chiseled_dripstone_bricks
+quark:blocks/chiseled_granite_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chiseled_granite_bricks quark:chiseled_granite_bricks
+quark:blocks/chiseled_jasper_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chiseled_jasper_bricks quark:chiseled_jasper_bricks
+quark:blocks/chiseled_limestone_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chiseled_limestone_bricks quark:chiseled_limestone_bricks
+quark:blocks/chiseled_myalite_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chiseled_myalite_bricks quark:chiseled_myalite_bricks
+quark:blocks/chiseled_shale_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chiseled_shale_bricks quark:chiseled_shale_bricks
+quark:blocks/chiseled_soul_sandstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chiseled_soul_sandstone quark:chiseled_soul_sandstone
+quark:blocks/chorus_fruit_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chorus_fruit_block quark:chorus_fruit_block
+quark:blocks/chorus_twist | minecraft:block | minecraft:block minecraft:item minecraft:match_tool quark:blocks/chorus_twist quark:chorus_twist
+quark:blocks/chorus_weeds | minecraft:block | minecraft:block minecraft:item minecraft:match_tool quark:blocks/chorus_weeds quark:chorus_weeds
+quark:blocks/chute | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/chute quark:chute
+quark:blocks/cloud | minecraft:block | minecraft:block quark:blocks/cloud
+quark:blocks/cobbled_deepslate_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cobbled_deepslate_vertical_slab quark:cobbled_deepslate_vertical_slab
+quark:blocks/cobblestone_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cobblestone_bricks quark:cobblestone_bricks
+quark:blocks/cobblestone_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cobblestone_bricks_slab quark:cobblestone_bricks_slab
+quark:blocks/cobblestone_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cobblestone_bricks_stairs quark:cobblestone_bricks_stairs
+quark:blocks/cobblestone_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cobblestone_bricks_vertical_slab quark:cobblestone_bricks_vertical_slab
+quark:blocks/cobblestone_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cobblestone_bricks_wall quark:cobblestone_bricks_wall
+quark:blocks/cobblestone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cobblestone_vertical_slab quark:cobblestone_vertical_slab
+quark:blocks/cocoa_beans_sack | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cocoa_beans_sack quark:cocoa_beans_sack
+quark:blocks/crate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/crate quark:crate
+quark:blocks/crimson_bookshelf | minecraft:block | minecraft:alternatives minecraft:block minecraft:book minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch quark:blocks/crimson_bookshelf quark:crimson_bookshelf
+quark:blocks/crimson_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/crimson_chest quark:crimson_chest
+quark:blocks/crimson_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/crimson_ladder quark:crimson_ladder
+quark:blocks/crimson_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/crimson_post quark:crimson_post
+quark:blocks/crimson_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/crimson_vertical_slab quark:crimson_vertical_slab
+quark:blocks/cut_copper_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cut_copper_vertical_slab quark:cut_copper_vertical_slab
+quark:blocks/cut_red_sandstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cut_red_sandstone_vertical_slab quark:cut_red_sandstone_vertical_slab
+quark:blocks/cut_sandstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cut_sandstone_vertical_slab quark:cut_sandstone_vertical_slab
+quark:blocks/cut_soul_sandstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cut_soul_sandstone quark:cut_soul_sandstone
+quark:blocks/cut_soul_sandstone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cut_soul_sandstone_slab quark:cut_soul_sandstone_slab
+quark:blocks/cut_soul_sandstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cut_soul_sandstone_vertical_slab quark:cut_soul_sandstone_vertical_slab
+quark:blocks/cut_vine | minecraft:block | minecraft:block quark:blocks/cut_vine
+quark:blocks/cyan_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cyan_framed_glass quark:cyan_framed_glass
+quark:blocks/cyan_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cyan_framed_glass_pane quark:cyan_framed_glass_pane
+quark:blocks/cyan_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cyan_shingles quark:cyan_shingles
+quark:blocks/cyan_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cyan_shingles_slab quark:cyan_shingles_slab
+quark:blocks/cyan_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cyan_shingles_stairs quark:cyan_shingles_stairs
+quark:blocks/cyan_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/cyan_shingles_vertical_slab quark:cyan_shingles_vertical_slab
+quark:blocks/cyan_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/cyan_stool quark:cyan_stool
+quark:blocks/dark_oak_bookshelf | minecraft:block | minecraft:alternatives minecraft:block minecraft:book minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch quark:blocks/dark_oak_bookshelf quark:dark_oak_bookshelf
+quark:blocks/dark_oak_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dark_oak_chest quark:dark_oak_chest
+quark:blocks/dark_oak_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dark_oak_hedge quark:dark_oak_hedge
+quark:blocks/dark_oak_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dark_oak_ladder quark:dark_oak_ladder
+quark:blocks/dark_oak_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dark_oak_leaf_carpet quark:dark_oak_leaf_carpet
+quark:blocks/dark_oak_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dark_oak_post quark:dark_oak_post
+quark:blocks/dark_oak_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/dark_oak_vertical_slab quark:dark_oak_vertical_slab
+quark:blocks/dark_prismarine_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/dark_prismarine_vertical_slab quark:dark_prismarine_vertical_slab
+quark:blocks/deepslate_brick_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/deepslate_brick_vertical_slab quark:deepslate_brick_vertical_slab
+quark:blocks/deepslate_furnace | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/deepslate_furnace quark:deepslate_furnace
+quark:blocks/deepslate_tile_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/deepslate_tile_vertical_slab quark:deepslate_tile_vertical_slab
+quark:blocks/diorite_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/diorite_bricks quark:diorite_bricks
+quark:blocks/diorite_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/diorite_bricks_slab quark:diorite_bricks_slab
+quark:blocks/diorite_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/diorite_bricks_stairs quark:diorite_bricks_stairs
+quark:blocks/diorite_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/diorite_bricks_vertical_slab quark:diorite_bricks_vertical_slab
+quark:blocks/diorite_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/diorite_bricks_wall quark:diorite_bricks_wall
+quark:blocks/diorite_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/diorite_pillar quark:diorite_pillar
+quark:blocks/diorite_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/diorite_vertical_slab quark:diorite_vertical_slab
+quark:blocks/dirt_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dirt_bricks quark:dirt_bricks
+quark:blocks/dirt_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/dirt_bricks_slab quark:dirt_bricks_slab
+quark:blocks/dirt_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dirt_bricks_stairs quark:dirt_bricks_stairs
+quark:blocks/dirt_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/dirt_bricks_vertical_slab quark:dirt_bricks_vertical_slab
+quark:blocks/dirt_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dirt_bricks_wall quark:dirt_bricks_wall
+quark:blocks/dirty_glass | minecraft:block | minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:blocks/dirty_glass quark:dirty_glass quark:dirty_shard
+quark:blocks/dirty_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch quark:blocks/dirty_glass_pane quark:dirty_glass_pane
+quark:blocks/dripstone_block_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/dripstone_block_slab quark:dripstone_block_slab
+quark:blocks/dripstone_block_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dripstone_block_stairs quark:dripstone_block_stairs
+quark:blocks/dripstone_block_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/dripstone_block_vertical_slab quark:dripstone_block_vertical_slab
+quark:blocks/dripstone_block_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dripstone_block_wall quark:dripstone_block_wall
+quark:blocks/dripstone_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dripstone_bricks quark:dripstone_bricks
+quark:blocks/dripstone_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/dripstone_bricks_slab quark:dripstone_bricks_slab
+quark:blocks/dripstone_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dripstone_bricks_stairs quark:dripstone_bricks_stairs
+quark:blocks/dripstone_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/dripstone_bricks_vertical_slab quark:dripstone_bricks_vertical_slab
+quark:blocks/dripstone_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dripstone_bricks_wall quark:dripstone_bricks_wall
+quark:blocks/dripstone_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dripstone_pillar quark:dripstone_pillar
+quark:blocks/duskbound_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/duskbound_block quark:duskbound_block
+quark:blocks/duskbound_block_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/duskbound_block_slab quark:duskbound_block_slab
+quark:blocks/duskbound_block_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/duskbound_block_stairs quark:duskbound_block_stairs
+quark:blocks/duskbound_block_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/duskbound_block_vertical_slab quark:duskbound_block_vertical_slab
+quark:blocks/duskbound_lantern | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/duskbound_lantern quark:duskbound_lantern
+quark:blocks/dusky_myalite | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/dusky_myalite quark:dusky_myalite
+quark:blocks/encased_pipe | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/encased_pipe quark:encased_pipe
+quark:blocks/end_stone_brick_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/end_stone_brick_vertical_slab quark:end_stone_brick_vertical_slab
+quark:blocks/ender_watcher | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/ender_watcher quark:ender_watcher
+quark:blocks/exposed_cut_copper_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/exposed_cut_copper_vertical_slab quark:exposed_cut_copper_vertical_slab
+quark:blocks/feeding_trough | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/feeding_trough quark:feeding_trough
+quark:blocks/flowering_azalea_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/flowering_azalea_hedge quark:flowering_azalea_hedge
+quark:blocks/flowering_azalea_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/flowering_azalea_leaf_carpet quark:flowering_azalea_leaf_carpet
+quark:blocks/framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/framed_glass quark:framed_glass
+quark:blocks/framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/framed_glass_pane quark:framed_glass_pane
+quark:blocks/glow_lichen_growth | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/glow_lichen_growth quark:glow_lichen_growth
+quark:blocks/glow_shroom | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/glow_shroom quark:glow_shroom
+quark:blocks/glow_shroom_block | minecraft:block | minecraft:alternatives minecraft:block minecraft:explosion_decay minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform quark:blocks/glow_shroom_block quark:glow_shroom quark:glow_shroom_block
+quark:blocks/glow_shroom_ring | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/glow_shroom_ring quark:glow_shroom_ring
+quark:blocks/glow_shroom_stem | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch quark:blocks/glow_shroom_stem quark:glow_shroom_stem
+quark:blocks/glowberry_sack | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/glowberry_sack quark:glowberry_sack
+quark:blocks/gold_bars | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/gold_bars quark:gold_bars
+quark:blocks/gold_button | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/gold_button quark:gold_button
+quark:blocks/golden_apple_crate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/golden_apple_crate quark:golden_apple_crate
+quark:blocks/golden_carrot_crate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/golden_carrot_crate quark:golden_carrot_crate
+quark:blocks/granite_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/granite_bricks quark:granite_bricks
+quark:blocks/granite_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/granite_bricks_slab quark:granite_bricks_slab
+quark:blocks/granite_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/granite_bricks_stairs quark:granite_bricks_stairs
+quark:blocks/granite_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/granite_bricks_vertical_slab quark:granite_bricks_vertical_slab
+quark:blocks/granite_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/granite_bricks_wall quark:granite_bricks_wall
+quark:blocks/granite_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/granite_pillar quark:granite_pillar
+quark:blocks/granite_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/granite_vertical_slab quark:granite_vertical_slab
+quark:blocks/grate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/grate quark:grate
+quark:blocks/gravisand | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/gravisand quark:gravisand
+quark:blocks/gray_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/gray_framed_glass quark:gray_framed_glass
+quark:blocks/gray_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/gray_framed_glass_pane quark:gray_framed_glass_pane
+quark:blocks/gray_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/gray_shingles quark:gray_shingles
+quark:blocks/gray_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/gray_shingles_slab quark:gray_shingles_slab
+quark:blocks/gray_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/gray_shingles_stairs quark:gray_shingles_stairs
+quark:blocks/gray_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/gray_shingles_vertical_slab quark:gray_shingles_vertical_slab
+quark:blocks/gray_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/gray_stool quark:gray_stool
+quark:blocks/green_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/green_corundum quark:green_corundum
+quark:blocks/green_corundum_cluster | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/green_corundum_cluster quark:green_corundum_cluster
+quark:blocks/green_corundum_pane | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch quark:blocks/green_corundum_pane quark:green_corundum_pane
+quark:blocks/green_crystal_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/green_crystal_lamp quark:green_crystal_lamp
+quark:blocks/green_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/green_framed_glass quark:green_framed_glass
+quark:blocks/green_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/green_framed_glass_pane quark:green_framed_glass_pane
+quark:blocks/green_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/green_shingles quark:green_shingles
+quark:blocks/green_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/green_shingles_slab quark:green_shingles_slab
+quark:blocks/green_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/green_shingles_stairs quark:green_shingles_stairs
+quark:blocks/green_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/green_shingles_vertical_slab quark:green_shingles_vertical_slab
+quark:blocks/green_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/green_stool quark:green_stool
+quark:blocks/gunpowder_sack | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/gunpowder_sack quark:gunpowder_sack
+quark:blocks/hollow_acacia_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_acacia_log quark:hollow_acacia_log
+quark:blocks/hollow_ancient_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_ancient_log quark:hollow_ancient_log
+quark:blocks/hollow_azalea_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_azalea_log quark:hollow_azalea_log
+quark:blocks/hollow_birch_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_birch_log quark:hollow_birch_log
+quark:blocks/hollow_blossom_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_blossom_log quark:hollow_blossom_log
+quark:blocks/hollow_cherry_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_cherry_log quark:hollow_cherry_log
+quark:blocks/hollow_crimson_stem | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_crimson_stem quark:hollow_crimson_stem
+quark:blocks/hollow_dark_oak_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_dark_oak_log quark:hollow_dark_oak_log
+quark:blocks/hollow_jungle_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_jungle_log quark:hollow_jungle_log
+quark:blocks/hollow_mangrove_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_mangrove_log quark:hollow_mangrove_log
+quark:blocks/hollow_oak_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_oak_log quark:hollow_oak_log
+quark:blocks/hollow_spruce_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_spruce_log quark:hollow_spruce_log
+quark:blocks/hollow_warped_stem | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/hollow_warped_stem quark:hollow_warped_stem
+quark:blocks/indigo_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/indigo_corundum quark:indigo_corundum
+quark:blocks/indigo_corundum_cluster | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/indigo_corundum_cluster quark:indigo_corundum_cluster
+quark:blocks/indigo_corundum_pane | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch quark:blocks/indigo_corundum_pane quark:indigo_corundum_pane
+quark:blocks/indigo_crystal_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/indigo_crystal_lamp quark:indigo_crystal_lamp
+quark:blocks/iron_button | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/iron_button quark:iron_button
+quark:blocks/iron_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/iron_ladder quark:iron_ladder
+quark:blocks/iron_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/iron_pillar quark:iron_pillar
+quark:blocks/iron_plate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/iron_plate quark:iron_plate
+quark:blocks/iron_plate_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/iron_plate_slab quark:iron_plate_slab
+quark:blocks/iron_plate_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/iron_plate_stairs quark:iron_plate_stairs
+quark:blocks/iron_plate_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/iron_plate_vertical_slab quark:iron_plate_vertical_slab
+quark:blocks/iron_rod | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/iron_rod quark:iron_rod
+quark:blocks/jasper | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jasper quark:jasper
+quark:blocks/jasper_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jasper_bricks quark:jasper_bricks
+quark:blocks/jasper_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/jasper_bricks_slab quark:jasper_bricks_slab
+quark:blocks/jasper_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jasper_bricks_stairs quark:jasper_bricks_stairs
+quark:blocks/jasper_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/jasper_bricks_vertical_slab quark:jasper_bricks_vertical_slab
+quark:blocks/jasper_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jasper_bricks_wall quark:jasper_bricks_wall
+quark:blocks/jasper_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jasper_pillar quark:jasper_pillar
+quark:blocks/jasper_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/jasper_slab quark:jasper_slab
+quark:blocks/jasper_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jasper_stairs quark:jasper_stairs
+quark:blocks/jasper_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/jasper_vertical_slab quark:jasper_vertical_slab
+quark:blocks/jasper_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jasper_wall quark:jasper_wall
+quark:blocks/jungle_bookshelf | minecraft:block | minecraft:alternatives minecraft:block minecraft:book minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch quark:blocks/jungle_bookshelf quark:jungle_bookshelf
+quark:blocks/jungle_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jungle_chest quark:jungle_chest
+quark:blocks/jungle_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jungle_hedge quark:jungle_hedge
+quark:blocks/jungle_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jungle_ladder quark:jungle_ladder
+quark:blocks/jungle_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jungle_leaf_carpet quark:jungle_leaf_carpet
+quark:blocks/jungle_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/jungle_post quark:jungle_post
+quark:blocks/jungle_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/jungle_vertical_slab quark:jungle_vertical_slab
+quark:blocks/lavender_blossom_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/lavender_blossom_hedge quark:lavender_blossom_hedge
+quark:blocks/lavender_blossom_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/lavender_blossom_leaf_carpet quark:lavender_blossom_leaf_carpet
+quark:blocks/lavender_blossom_leaves | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform quark:blocks/lavender_blossom_leaves quark:lavender_blossom_leaves quark:lavender_blossom_sapling
+quark:blocks/lavender_blossom_sapling | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/lavender_blossom_sapling quark:lavender_blossom_sapling
+quark:blocks/light_blue_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/light_blue_framed_glass quark:light_blue_framed_glass
+quark:blocks/light_blue_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/light_blue_framed_glass_pane quark:light_blue_framed_glass_pane
+quark:blocks/light_blue_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/light_blue_shingles quark:light_blue_shingles
+quark:blocks/light_blue_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/light_blue_shingles_slab quark:light_blue_shingles_slab
+quark:blocks/light_blue_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/light_blue_shingles_stairs quark:light_blue_shingles_stairs
+quark:blocks/light_blue_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/light_blue_shingles_vertical_slab quark:light_blue_shingles_vertical_slab
+quark:blocks/light_blue_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/light_blue_stool quark:light_blue_stool
+quark:blocks/light_gray_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/light_gray_framed_glass quark:light_gray_framed_glass
+quark:blocks/light_gray_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/light_gray_framed_glass_pane quark:light_gray_framed_glass_pane
+quark:blocks/light_gray_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/light_gray_shingles quark:light_gray_shingles
+quark:blocks/light_gray_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/light_gray_shingles_slab quark:light_gray_shingles_slab
+quark:blocks/light_gray_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/light_gray_shingles_stairs quark:light_gray_shingles_stairs
+quark:blocks/light_gray_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/light_gray_shingles_vertical_slab quark:light_gray_shingles_vertical_slab
+quark:blocks/light_gray_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/light_gray_stool quark:light_gray_stool
+quark:blocks/lime_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/lime_framed_glass quark:lime_framed_glass
+quark:blocks/lime_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/lime_framed_glass_pane quark:lime_framed_glass_pane
+quark:blocks/lime_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/lime_shingles quark:lime_shingles
+quark:blocks/lime_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/lime_shingles_slab quark:lime_shingles_slab
+quark:blocks/lime_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/lime_shingles_stairs quark:lime_shingles_stairs
+quark:blocks/lime_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/lime_shingles_vertical_slab quark:lime_shingles_vertical_slab
+quark:blocks/lime_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/lime_stool quark:lime_stool
+quark:blocks/limestone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/limestone quark:limestone
+quark:blocks/limestone_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/limestone_bricks quark:limestone_bricks
+quark:blocks/limestone_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/limestone_bricks_slab quark:limestone_bricks_slab
+quark:blocks/limestone_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/limestone_bricks_stairs quark:limestone_bricks_stairs
+quark:blocks/limestone_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/limestone_bricks_vertical_slab quark:limestone_bricks_vertical_slab
+quark:blocks/limestone_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/limestone_bricks_wall quark:limestone_bricks_wall
+quark:blocks/limestone_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/limestone_pillar quark:limestone_pillar
+quark:blocks/limestone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/limestone_slab quark:limestone_slab
+quark:blocks/limestone_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/limestone_stairs quark:limestone_stairs
+quark:blocks/limestone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/limestone_vertical_slab quark:limestone_vertical_slab
+quark:blocks/limestone_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/limestone_wall quark:limestone_wall
+quark:blocks/magenta_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/magenta_framed_glass quark:magenta_framed_glass
+quark:blocks/magenta_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/magenta_framed_glass_pane quark:magenta_framed_glass_pane
+quark:blocks/magenta_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/magenta_shingles quark:magenta_shingles
+quark:blocks/magenta_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/magenta_shingles_slab quark:magenta_shingles_slab
+quark:blocks/magenta_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/magenta_shingles_stairs quark:magenta_shingles_stairs
+quark:blocks/magenta_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/magenta_shingles_vertical_slab quark:magenta_shingles_vertical_slab
+quark:blocks/magenta_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/magenta_stool quark:magenta_stool
+quark:blocks/magnet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/magnet quark:magnet
+quark:blocks/mangrove_bookshelf | minecraft:block | minecraft:alternatives minecraft:block minecraft:book minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch quark:blocks/mangrove_bookshelf quark:mangrove_bookshelf
+quark:blocks/mangrove_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/mangrove_chest quark:mangrove_chest
+quark:blocks/mangrove_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/mangrove_hedge quark:mangrove_hedge
+quark:blocks/mangrove_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/mangrove_ladder quark:mangrove_ladder
+quark:blocks/mangrove_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/mangrove_leaf_carpet quark:mangrove_leaf_carpet
+quark:blocks/mangrove_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/mangrove_post quark:mangrove_post
+quark:blocks/mangrove_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/mangrove_vertical_slab quark:mangrove_vertical_slab
+quark:blocks/matrix_enchanter | minecraft:block | minecraft:block minecraft:enchanting_table minecraft:item minecraft:survives_explosion quark:blocks/matrix_enchanter
+quark:blocks/midori_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/midori_block quark:midori_block
+quark:blocks/midori_block_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/midori_block_slab quark:midori_block_slab
+quark:blocks/midori_block_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/midori_block_stairs quark:midori_block_stairs
+quark:blocks/midori_block_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/midori_block_vertical_slab quark:midori_block_vertical_slab
+quark:blocks/midori_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/midori_pillar quark:midori_pillar
+quark:blocks/monster_box | minecraft:block | minecraft:block quark:blocks/monster_box
+quark:blocks/mossy_cobblestone_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/mossy_cobblestone_bricks quark:mossy_cobblestone_bricks
+quark:blocks/mossy_cobblestone_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/mossy_cobblestone_bricks_slab quark:mossy_cobblestone_bricks_slab
+quark:blocks/mossy_cobblestone_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/mossy_cobblestone_bricks_stairs quark:mossy_cobblestone_bricks_stairs
+quark:blocks/mossy_cobblestone_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/mossy_cobblestone_bricks_vertical_slab quark:mossy_cobblestone_bricks_vertical_slab
+quark:blocks/mossy_cobblestone_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/mossy_cobblestone_bricks_wall quark:mossy_cobblestone_bricks_wall
+quark:blocks/mossy_cobblestone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/mossy_cobblestone_vertical_slab quark:mossy_cobblestone_vertical_slab
+quark:blocks/mossy_stone_brick_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/mossy_stone_brick_vertical_slab quark:mossy_stone_brick_vertical_slab
+quark:blocks/mud_brick_lattice | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/mud_brick_lattice quark:mud_brick_lattice
+quark:blocks/mud_brick_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/mud_brick_vertical_slab quark:mud_brick_vertical_slab
+quark:blocks/mud_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/mud_pillar quark:mud_pillar
+quark:blocks/myalite | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/myalite quark:myalite
+quark:blocks/myalite_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/myalite_bricks quark:myalite_bricks
+quark:blocks/myalite_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/myalite_bricks_slab quark:myalite_bricks_slab
+quark:blocks/myalite_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/myalite_bricks_stairs quark:myalite_bricks_stairs
+quark:blocks/myalite_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/myalite_bricks_vertical_slab quark:myalite_bricks_vertical_slab
+quark:blocks/myalite_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/myalite_bricks_wall quark:myalite_bricks_wall
+quark:blocks/myalite_crystal | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/myalite_crystal quark:myalite_crystal
+quark:blocks/myalite_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/myalite_pillar quark:myalite_pillar
+quark:blocks/myalite_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/myalite_slab quark:myalite_slab
+quark:blocks/myalite_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/myalite_stairs quark:myalite_stairs
+quark:blocks/myalite_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/myalite_vertical_slab quark:myalite_vertical_slab
+quark:blocks/myalite_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/myalite_wall quark:myalite_wall
+quark:blocks/nether_brick_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/nether_brick_chest quark:nether_brick_chest
+quark:blocks/nether_brick_fence_gate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/nether_brick_fence_gate quark:nether_brick_fence_gate
+quark:blocks/nether_brick_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/nether_brick_vertical_slab quark:nether_brick_vertical_slab
+quark:blocks/nether_wart_sack | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/nether_wart_sack quark:nether_wart_sack
+quark:blocks/netherrack_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/netherrack_bricks quark:netherrack_bricks
+quark:blocks/netherrack_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/netherrack_bricks_slab quark:netherrack_bricks_slab
+quark:blocks/netherrack_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/netherrack_bricks_stairs quark:netherrack_bricks_stairs
+quark:blocks/netherrack_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/netherrack_bricks_vertical_slab quark:netherrack_bricks_vertical_slab
+quark:blocks/netherrack_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/netherrack_bricks_wall quark:netherrack_bricks_wall
+quark:blocks/oak_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/oak_chest quark:oak_chest
+quark:blocks/oak_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/oak_hedge quark:oak_hedge
+quark:blocks/oak_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/oak_leaf_carpet quark:oak_leaf_carpet
+quark:blocks/oak_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/oak_post quark:oak_post
+quark:blocks/oak_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/oak_vertical_slab quark:oak_vertical_slab
+quark:blocks/obsidian_pressure_plate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/obsidian_pressure_plate quark:obsidian_pressure_plate
+quark:blocks/orange_blossom_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/orange_blossom_hedge quark:orange_blossom_hedge
+quark:blocks/orange_blossom_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/orange_blossom_leaf_carpet quark:orange_blossom_leaf_carpet
+quark:blocks/orange_blossom_leaves | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform quark:blocks/orange_blossom_leaves quark:orange_blossom_leaves quark:orange_blossom_sapling
+quark:blocks/orange_blossom_sapling | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/orange_blossom_sapling quark:orange_blossom_sapling
+quark:blocks/orange_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/orange_corundum quark:orange_corundum
+quark:blocks/orange_corundum_cluster | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/orange_corundum_cluster quark:orange_corundum_cluster
+quark:blocks/orange_corundum_pane | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch quark:blocks/orange_corundum_pane quark:orange_corundum_pane
+quark:blocks/orange_crystal_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/orange_crystal_lamp quark:orange_crystal_lamp
+quark:blocks/orange_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/orange_framed_glass quark:orange_framed_glass
+quark:blocks/orange_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/orange_framed_glass_pane quark:orange_framed_glass_pane
+quark:blocks/orange_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/orange_shingles quark:orange_shingles
+quark:blocks/orange_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/orange_shingles_slab quark:orange_shingles_slab
+quark:blocks/orange_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/orange_shingles_stairs quark:orange_shingles_stairs
+quark:blocks/orange_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/orange_shingles_vertical_slab quark:orange_shingles_vertical_slab
+quark:blocks/orange_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/orange_stool quark:orange_stool
+quark:blocks/oxidized_cut_copper_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/oxidized_cut_copper_vertical_slab quark:oxidized_cut_copper_vertical_slab
+quark:blocks/paper_lantern | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/paper_lantern quark:paper_lantern
+quark:blocks/paper_lantern_sakura | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/paper_lantern_sakura quark:paper_lantern_sakura
+quark:blocks/paper_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/paper_wall quark:paper_wall
+quark:blocks/paper_wall_big | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/paper_wall_big quark:paper_wall_big
+quark:blocks/paper_wall_sakura | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/paper_wall_sakura quark:paper_wall_sakura
+quark:blocks/permafrost | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/permafrost quark:permafrost
+quark:blocks/permafrost_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/permafrost_bricks quark:permafrost_bricks
+quark:blocks/permafrost_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/permafrost_bricks_slab quark:permafrost_bricks_slab
+quark:blocks/permafrost_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/permafrost_bricks_stairs quark:permafrost_bricks_stairs
+quark:blocks/permafrost_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/permafrost_bricks_vertical_slab quark:permafrost_bricks_vertical_slab
+quark:blocks/permafrost_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/permafrost_bricks_wall quark:permafrost_bricks_wall
+quark:blocks/permafrost_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/permafrost_slab quark:permafrost_slab
+quark:blocks/permafrost_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/permafrost_stairs quark:permafrost_stairs
+quark:blocks/permafrost_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/permafrost_vertical_slab quark:permafrost_vertical_slab
+quark:blocks/permafrost_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/permafrost_wall quark:permafrost_wall
+quark:blocks/pink_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/pink_framed_glass quark:pink_framed_glass
+quark:blocks/pink_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/pink_framed_glass_pane quark:pink_framed_glass_pane
+quark:blocks/pink_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/pink_shingles quark:pink_shingles
+quark:blocks/pink_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/pink_shingles_slab quark:pink_shingles_slab
+quark:blocks/pink_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/pink_shingles_stairs quark:pink_shingles_stairs
+quark:blocks/pink_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/pink_shingles_vertical_slab quark:pink_shingles_vertical_slab
+quark:blocks/pink_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/pink_stool quark:pink_stool
+quark:blocks/pipe | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/pipe quark:pipe
+quark:blocks/polished_andesite_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_andesite_vertical_slab quark:polished_andesite_vertical_slab
+quark:blocks/polished_blackstone_brick_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_blackstone_brick_vertical_slab quark:polished_blackstone_brick_vertical_slab
+quark:blocks/polished_blackstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_blackstone_vertical_slab quark:polished_blackstone_vertical_slab
+quark:blocks/polished_calcite | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_calcite quark:polished_calcite
+quark:blocks/polished_calcite_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_calcite_slab quark:polished_calcite_slab
+quark:blocks/polished_calcite_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_calcite_stairs quark:polished_calcite_stairs
+quark:blocks/polished_calcite_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_calcite_vertical_slab quark:polished_calcite_vertical_slab
+quark:blocks/polished_deepslate_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_deepslate_vertical_slab quark:polished_deepslate_vertical_slab
+quark:blocks/polished_diorite_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_diorite_vertical_slab quark:polished_diorite_vertical_slab
+quark:blocks/polished_dripstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_dripstone quark:polished_dripstone
+quark:blocks/polished_dripstone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_dripstone_slab quark:polished_dripstone_slab
+quark:blocks/polished_dripstone_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_dripstone_stairs quark:polished_dripstone_stairs
+quark:blocks/polished_dripstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_dripstone_vertical_slab quark:polished_dripstone_vertical_slab
+quark:blocks/polished_granite_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_granite_vertical_slab quark:polished_granite_vertical_slab
+quark:blocks/polished_jasper | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_jasper quark:polished_jasper
+quark:blocks/polished_jasper_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_jasper_slab quark:polished_jasper_slab
+quark:blocks/polished_jasper_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_jasper_stairs quark:polished_jasper_stairs
+quark:blocks/polished_jasper_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_jasper_vertical_slab quark:polished_jasper_vertical_slab
+quark:blocks/polished_limestone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_limestone quark:polished_limestone
+quark:blocks/polished_limestone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_limestone_slab quark:polished_limestone_slab
+quark:blocks/polished_limestone_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_limestone_stairs quark:polished_limestone_stairs
+quark:blocks/polished_limestone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_limestone_vertical_slab quark:polished_limestone_vertical_slab
+quark:blocks/polished_myalite | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_myalite quark:polished_myalite
+quark:blocks/polished_myalite_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_myalite_slab quark:polished_myalite_slab
+quark:blocks/polished_myalite_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_myalite_stairs quark:polished_myalite_stairs
+quark:blocks/polished_myalite_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_myalite_vertical_slab quark:polished_myalite_vertical_slab
+quark:blocks/polished_shale | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_shale quark:polished_shale
+quark:blocks/polished_shale_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_shale_slab quark:polished_shale_slab
+quark:blocks/polished_shale_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/polished_shale_stairs quark:polished_shale_stairs
+quark:blocks/polished_shale_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_shale_vertical_slab quark:polished_shale_vertical_slab
+quark:blocks/polished_tuff_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/polished_tuff_vertical_slab quark:polished_tuff_vertical_slab
+quark:blocks/potato_crate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/potato_crate quark:potato_crate
+quark:blocks/potted_ancient_sapling | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:ancient_sapling quark:blocks/potted_ancient_sapling
+quark:blocks/potted_beetroot | minecraft:block | minecraft:beetroot_seeds minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_beetroot
+quark:blocks/potted_berries | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion minecraft:sweet_berries quark:blocks/potted_berries
+quark:blocks/potted_blue_blossom_sapling | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_blue_blossom_sapling quark:blue_blossom_sapling
+quark:blocks/potted_carrot | minecraft:block | minecraft:block minecraft:carrot minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_carrot
+quark:blocks/potted_cave_vines | minecraft:block | minecraft:block minecraft:flower_pot minecraft:glow_berries minecraft:item minecraft:survives_explosion quark:blocks/potted_cave_vines
+quark:blocks/potted_chorus | minecraft:block | minecraft:block minecraft:chorus_flower minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_chorus
+quark:blocks/potted_chorus_twist | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_chorus_twist quark:chorus_twist
+quark:blocks/potted_chorus_weeds | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_chorus_weeds quark:chorus_weeds
+quark:blocks/potted_cocoa_bean | minecraft:block | minecraft:block minecraft:cocoa_beans minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_cocoa_bean
+quark:blocks/potted_glow_lichen_growth | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_glow_lichen_growth quark:glow_lichen_growth
+quark:blocks/potted_glow_shroom | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_glow_shroom quark:glow_shroom
+quark:blocks/potted_large_fern | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:large_fern minecraft:survives_explosion quark:blocks/potted_large_fern
+quark:blocks/potted_lavender_blossom_sapling | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_lavender_blossom_sapling quark:lavender_blossom_sapling
+quark:blocks/potted_lilac | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:lilac minecraft:survives_explosion quark:blocks/potted_lilac
+quark:blocks/potted_melon | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:melon_seeds minecraft:survives_explosion quark:blocks/potted_melon
+quark:blocks/potted_nether_sprouts | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:nether_sprouts minecraft:survives_explosion quark:blocks/potted_nether_sprouts
+quark:blocks/potted_nether_wart | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:nether_wart minecraft:survives_explosion quark:blocks/potted_nether_wart
+quark:blocks/potted_orange_blossom_sapling | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_orange_blossom_sapling quark:orange_blossom_sapling
+quark:blocks/potted_peony | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:peony minecraft:survives_explosion quark:blocks/potted_peony
+quark:blocks/potted_pitcher_plant | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:pitcher_plant minecraft:survives_explosion quark:blocks/potted_pitcher_plant
+quark:blocks/potted_potato | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:potato minecraft:survives_explosion quark:blocks/potted_potato
+quark:blocks/potted_pumpkin | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:pumpkin_seeds minecraft:survives_explosion quark:blocks/potted_pumpkin
+quark:blocks/potted_red_blossom_sapling | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_red_blossom_sapling quark:red_blossom_sapling
+quark:blocks/potted_rose | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:rose_bush minecraft:survives_explosion quark:blocks/potted_rose
+quark:blocks/potted_sea_pickle | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:sea_pickle minecraft:survives_explosion quark:blocks/potted_sea_pickle
+quark:blocks/potted_short_grass | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:short_grass minecraft:survives_explosion quark:blocks/potted_short_grass
+quark:blocks/potted_sugar_cane | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:sugar_cane minecraft:survives_explosion quark:blocks/potted_sugar_cane
+quark:blocks/potted_sunflower | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:sunflower minecraft:survives_explosion quark:blocks/potted_sunflower
+quark:blocks/potted_tall_grass | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion minecraft:tall_grass quark:blocks/potted_tall_grass
+quark:blocks/potted_twisting_vines | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion minecraft:twisting_vines quark:blocks/potted_twisting_vines
+quark:blocks/potted_vine | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion minecraft:vine quark:blocks/potted_vine
+quark:blocks/potted_weeping_vines | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion minecraft:weeping_vines quark:blocks/potted_weeping_vines
+quark:blocks/potted_wheat | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion minecraft:wheat_seeds quark:blocks/potted_wheat
+quark:blocks/potted_yellow_blossom_sapling | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion quark:blocks/potted_yellow_blossom_sapling quark:yellow_blossom_sapling
+quark:blocks/prismarine_brick_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/prismarine_brick_vertical_slab quark:prismarine_brick_vertical_slab
+quark:blocks/prismarine_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/prismarine_chest quark:prismarine_chest
+quark:blocks/prismarine_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/prismarine_vertical_slab quark:prismarine_vertical_slab
+quark:blocks/purple_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/purple_framed_glass quark:purple_framed_glass
+quark:blocks/purple_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/purple_framed_glass_pane quark:purple_framed_glass_pane
+quark:blocks/purple_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/purple_shingles quark:purple_shingles
+quark:blocks/purple_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/purple_shingles_slab quark:purple_shingles_slab
+quark:blocks/purple_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/purple_shingles_stairs quark:purple_shingles_stairs
+quark:blocks/purple_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/purple_shingles_vertical_slab quark:purple_shingles_vertical_slab
+quark:blocks/purple_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/purple_stool quark:purple_stool
+quark:blocks/purpur_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/purpur_chest quark:purpur_chest
+quark:blocks/purpur_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/purpur_vertical_slab quark:purpur_vertical_slab
+quark:blocks/quartz_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/quartz_vertical_slab quark:quartz_vertical_slab
+quark:blocks/raw_copper_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/raw_copper_bricks quark:raw_copper_bricks
+quark:blocks/raw_copper_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/raw_copper_bricks_slab quark:raw_copper_bricks_slab
+quark:blocks/raw_copper_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/raw_copper_bricks_stairs quark:raw_copper_bricks_stairs
+quark:blocks/raw_copper_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/raw_copper_bricks_vertical_slab quark:raw_copper_bricks_vertical_slab
+quark:blocks/raw_copper_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/raw_copper_bricks_wall quark:raw_copper_bricks_wall
+quark:blocks/raw_gold_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/raw_gold_bricks quark:raw_gold_bricks
+quark:blocks/raw_gold_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/raw_gold_bricks_slab quark:raw_gold_bricks_slab
+quark:blocks/raw_gold_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/raw_gold_bricks_stairs quark:raw_gold_bricks_stairs
+quark:blocks/raw_gold_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/raw_gold_bricks_vertical_slab quark:raw_gold_bricks_vertical_slab
+quark:blocks/raw_gold_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/raw_gold_bricks_wall quark:raw_gold_bricks_wall
+quark:blocks/raw_iron_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/raw_iron_bricks quark:raw_iron_bricks
+quark:blocks/raw_iron_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/raw_iron_bricks_slab quark:raw_iron_bricks_slab
+quark:blocks/raw_iron_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/raw_iron_bricks_stairs quark:raw_iron_bricks_stairs
+quark:blocks/raw_iron_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/raw_iron_bricks_vertical_slab quark:raw_iron_bricks_vertical_slab
+quark:blocks/raw_iron_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/raw_iron_bricks_wall quark:raw_iron_bricks_wall
+quark:blocks/red_blossom_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_blossom_hedge quark:red_blossom_hedge
+quark:blocks/red_blossom_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_blossom_leaf_carpet quark:red_blossom_leaf_carpet
+quark:blocks/red_blossom_leaves | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform quark:blocks/red_blossom_leaves quark:red_blossom_leaves quark:red_blossom_sapling
+quark:blocks/red_blossom_sapling | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_blossom_sapling quark:red_blossom_sapling
+quark:blocks/red_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_corundum quark:red_corundum
+quark:blocks/red_corundum_cluster | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_corundum_cluster quark:red_corundum_cluster
+quark:blocks/red_corundum_pane | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch quark:blocks/red_corundum_pane quark:red_corundum_pane
+quark:blocks/red_crystal_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_crystal_lamp quark:red_crystal_lamp
+quark:blocks/red_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_framed_glass quark:red_framed_glass
+quark:blocks/red_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_framed_glass_pane quark:red_framed_glass_pane
+quark:blocks/red_nether_brick_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/red_nether_brick_vertical_slab quark:red_nether_brick_vertical_slab
+quark:blocks/red_sandstone_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_sandstone_bricks quark:red_sandstone_bricks
+quark:blocks/red_sandstone_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/red_sandstone_bricks_slab quark:red_sandstone_bricks_slab
+quark:blocks/red_sandstone_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_sandstone_bricks_stairs quark:red_sandstone_bricks_stairs
+quark:blocks/red_sandstone_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/red_sandstone_bricks_vertical_slab quark:red_sandstone_bricks_vertical_slab
+quark:blocks/red_sandstone_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_sandstone_bricks_wall quark:red_sandstone_bricks_wall
+quark:blocks/red_sandstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/red_sandstone_vertical_slab quark:red_sandstone_vertical_slab
+quark:blocks/red_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_shingles quark:red_shingles
+quark:blocks/red_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/red_shingles_slab quark:red_shingles_slab
+quark:blocks/red_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_shingles_stairs quark:red_shingles_stairs
+quark:blocks/red_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/red_shingles_vertical_slab quark:red_shingles_vertical_slab
+quark:blocks/red_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/red_stool quark:red_stool
+quark:blocks/redstone_randomizer | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/redstone_randomizer quark:redstone_randomizer
+quark:blocks/rope | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/rope quark:rope
+quark:blocks/rusty_iron_plate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/rusty_iron_plate quark:rusty_iron_plate
+quark:blocks/rusty_iron_plate_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/rusty_iron_plate_slab quark:rusty_iron_plate_slab
+quark:blocks/rusty_iron_plate_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/rusty_iron_plate_stairs quark:rusty_iron_plate_stairs
+quark:blocks/rusty_iron_plate_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/rusty_iron_plate_vertical_slab quark:rusty_iron_plate_vertical_slab
+quark:blocks/sandstone_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/sandstone_bricks quark:sandstone_bricks
+quark:blocks/sandstone_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/sandstone_bricks_slab quark:sandstone_bricks_slab
+quark:blocks/sandstone_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/sandstone_bricks_stairs quark:sandstone_bricks_stairs
+quark:blocks/sandstone_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/sandstone_bricks_vertical_slab quark:sandstone_bricks_vertical_slab
+quark:blocks/sandstone_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/sandstone_bricks_wall quark:sandstone_bricks_wall
+quark:blocks/sandstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/sandstone_vertical_slab quark:sandstone_vertical_slab
+quark:blocks/shale | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/shale quark:shale
+quark:blocks/shale_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/shale_bricks quark:shale_bricks
+quark:blocks/shale_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/shale_bricks_slab quark:shale_bricks_slab
+quark:blocks/shale_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/shale_bricks_stairs quark:shale_bricks_stairs
+quark:blocks/shale_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/shale_bricks_vertical_slab quark:shale_bricks_vertical_slab
+quark:blocks/shale_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/shale_bricks_wall quark:shale_bricks_wall
+quark:blocks/shale_pillar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/shale_pillar quark:shale_pillar
+quark:blocks/shale_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/shale_slab quark:shale_slab
+quark:blocks/shale_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/shale_stairs quark:shale_stairs
+quark:blocks/shale_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/shale_vertical_slab quark:shale_vertical_slab
+quark:blocks/shale_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/shale_wall quark:shale_wall
+quark:blocks/shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/shingles quark:shingles
+quark:blocks/shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/shingles_slab quark:shingles_slab
+quark:blocks/shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/shingles_stairs quark:shingles_stairs
+quark:blocks/shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/shingles_vertical_slab quark:shingles_vertical_slab
+quark:blocks/smooth_quartz_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/smooth_quartz_vertical_slab quark:smooth_quartz_vertical_slab
+quark:blocks/smooth_red_sandstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/smooth_red_sandstone_vertical_slab quark:smooth_red_sandstone_vertical_slab
+quark:blocks/smooth_sandstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/smooth_sandstone_vertical_slab quark:smooth_sandstone_vertical_slab
+quark:blocks/smooth_soul_sandstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/smooth_soul_sandstone quark:smooth_soul_sandstone
+quark:blocks/smooth_soul_sandstone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/smooth_soul_sandstone_slab quark:smooth_soul_sandstone_slab
+quark:blocks/smooth_soul_sandstone_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/smooth_soul_sandstone_stairs quark:smooth_soul_sandstone_stairs
+quark:blocks/smooth_soul_sandstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/smooth_soul_sandstone_vertical_slab quark:smooth_soul_sandstone_vertical_slab
+quark:blocks/smooth_stone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/smooth_stone_vertical_slab quark:smooth_stone_vertical_slab
+quark:blocks/soul_sandstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/soul_sandstone quark:soul_sandstone
+quark:blocks/soul_sandstone_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/soul_sandstone_bricks quark:soul_sandstone_bricks
+quark:blocks/soul_sandstone_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/soul_sandstone_bricks_slab quark:soul_sandstone_bricks_slab
+quark:blocks/soul_sandstone_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/soul_sandstone_bricks_stairs quark:soul_sandstone_bricks_stairs
+quark:blocks/soul_sandstone_bricks_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/soul_sandstone_bricks_vertical_slab quark:soul_sandstone_bricks_vertical_slab
+quark:blocks/soul_sandstone_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/soul_sandstone_bricks_wall quark:soul_sandstone_bricks_wall
+quark:blocks/soul_sandstone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/soul_sandstone_slab quark:soul_sandstone_slab
+quark:blocks/soul_sandstone_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/soul_sandstone_stairs quark:soul_sandstone_stairs
+quark:blocks/soul_sandstone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/soul_sandstone_vertical_slab quark:soul_sandstone_vertical_slab
+quark:blocks/soul_sandstone_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/soul_sandstone_wall quark:soul_sandstone_wall
+quark:blocks/spruce_bookshelf | minecraft:block | minecraft:alternatives minecraft:block minecraft:book minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch quark:blocks/spruce_bookshelf quark:spruce_bookshelf
+quark:blocks/spruce_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/spruce_chest quark:spruce_chest
+quark:blocks/spruce_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/spruce_hedge quark:spruce_hedge
+quark:blocks/spruce_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/spruce_ladder quark:spruce_ladder
+quark:blocks/spruce_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/spruce_leaf_carpet quark:spruce_leaf_carpet
+quark:blocks/spruce_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/spruce_post quark:spruce_post
+quark:blocks/spruce_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/spruce_vertical_slab quark:spruce_vertical_slab
+quark:blocks/stick_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stick_block quark:stick_block
+quark:blocks/stone_brick_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stone_brick_lamp quark:stone_brick_lamp
+quark:blocks/stone_brick_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/stone_brick_vertical_slab quark:stone_brick_vertical_slab
+quark:blocks/stone_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stone_lamp quark:stone_lamp
+quark:blocks/stone_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/stone_vertical_slab quark:stone_vertical_slab
+quark:blocks/stripped_acacia_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_acacia_post quark:stripped_acacia_post
+quark:blocks/stripped_ancient_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_ancient_log quark:stripped_ancient_log
+quark:blocks/stripped_ancient_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_ancient_post quark:stripped_ancient_post
+quark:blocks/stripped_ancient_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_ancient_wood quark:stripped_ancient_wood
+quark:blocks/stripped_azalea_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_azalea_log quark:stripped_azalea_log
+quark:blocks/stripped_azalea_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_azalea_post quark:stripped_azalea_post
+quark:blocks/stripped_azalea_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_azalea_wood quark:stripped_azalea_wood
+quark:blocks/stripped_bamboo_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_bamboo_post quark:stripped_bamboo_post
+quark:blocks/stripped_birch_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_birch_post quark:stripped_birch_post
+quark:blocks/stripped_blossom_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_blossom_log quark:stripped_blossom_log
+quark:blocks/stripped_blossom_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_blossom_post quark:stripped_blossom_post
+quark:blocks/stripped_blossom_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_blossom_wood quark:stripped_blossom_wood
+quark:blocks/stripped_cherry_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_cherry_post quark:stripped_cherry_post
+quark:blocks/stripped_crimson_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_crimson_post quark:stripped_crimson_post
+quark:blocks/stripped_dark_oak_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_dark_oak_post quark:stripped_dark_oak_post
+quark:blocks/stripped_jungle_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_jungle_post quark:stripped_jungle_post
+quark:blocks/stripped_mangrove_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_mangrove_post quark:stripped_mangrove_post
+quark:blocks/stripped_oak_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_oak_post quark:stripped_oak_post
+quark:blocks/stripped_spruce_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_spruce_post quark:stripped_spruce_post
+quark:blocks/stripped_warped_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/stripped_warped_post quark:stripped_warped_post
+quark:blocks/sturdy_stone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/sturdy_stone quark:sturdy_stone
+quark:blocks/sugar_cane_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/sugar_cane_block quark:sugar_cane_block
+quark:blocks/thatch | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/thatch quark:thatch
+quark:blocks/thatch_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/thatch_slab quark:thatch_slab
+quark:blocks/thatch_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/thatch_stairs quark:thatch_stairs
+quark:blocks/thatch_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/thatch_vertical_slab quark:thatch_vertical_slab
+quark:blocks/tiny_potato | minecraft:block | minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion quark:blocks/tiny_potato quark:tiny_potato
+quark:blocks/trapped_acacia_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_acacia_chest quark:trapped_acacia_chest
+quark:blocks/trapped_ancient_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_ancient_chest quark:trapped_ancient_chest
+quark:blocks/trapped_azalea_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_azalea_chest quark:trapped_azalea_chest
+quark:blocks/trapped_bamboo_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_bamboo_chest quark:trapped_bamboo_chest
+quark:blocks/trapped_birch_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_birch_chest quark:trapped_birch_chest
+quark:blocks/trapped_blossom_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_blossom_chest quark:trapped_blossom_chest
+quark:blocks/trapped_cherry_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_cherry_chest quark:trapped_cherry_chest
+quark:blocks/trapped_crimson_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_crimson_chest quark:trapped_crimson_chest
+quark:blocks/trapped_dark_oak_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_dark_oak_chest quark:trapped_dark_oak_chest
+quark:blocks/trapped_jungle_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_jungle_chest quark:trapped_jungle_chest
+quark:blocks/trapped_mangrove_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_mangrove_chest quark:trapped_mangrove_chest
+quark:blocks/trapped_nether_brick_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_nether_brick_chest quark:trapped_nether_brick_chest
+quark:blocks/trapped_oak_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_oak_chest quark:trapped_oak_chest
+quark:blocks/trapped_prismarine_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_prismarine_chest quark:trapped_prismarine_chest
+quark:blocks/trapped_purpur_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_purpur_chest quark:trapped_purpur_chest
+quark:blocks/trapped_spruce_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_spruce_chest quark:trapped_spruce_chest
+quark:blocks/trapped_warped_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/trapped_warped_chest quark:trapped_warped_chest
+quark:blocks/tuff_brick_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/tuff_brick_vertical_slab quark:tuff_brick_vertical_slab
+quark:blocks/tuff_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/tuff_vertical_slab quark:tuff_vertical_slab
+quark:blocks/vertical_acacia_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_acacia_planks quark:vertical_acacia_planks
+quark:blocks/vertical_ancient_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_ancient_planks quark:vertical_ancient_planks
+quark:blocks/vertical_azalea_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_azalea_planks quark:vertical_azalea_planks
+quark:blocks/vertical_bamboo_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_bamboo_planks quark:vertical_bamboo_planks
+quark:blocks/vertical_birch_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_birch_planks quark:vertical_birch_planks
+quark:blocks/vertical_blossom_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_blossom_planks quark:vertical_blossom_planks
+quark:blocks/vertical_cherry_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_cherry_planks quark:vertical_cherry_planks
+quark:blocks/vertical_crimson_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_crimson_planks quark:vertical_crimson_planks
+quark:blocks/vertical_dark_oak_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_dark_oak_planks quark:vertical_dark_oak_planks
+quark:blocks/vertical_jungle_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_jungle_planks quark:vertical_jungle_planks
+quark:blocks/vertical_mangrove_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_mangrove_planks quark:vertical_mangrove_planks
+quark:blocks/vertical_oak_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_oak_planks quark:vertical_oak_planks
+quark:blocks/vertical_spruce_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_spruce_planks quark:vertical_spruce_planks
+quark:blocks/vertical_warped_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/vertical_warped_planks quark:vertical_warped_planks
+quark:blocks/violet_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/violet_corundum quark:violet_corundum
+quark:blocks/violet_corundum_cluster | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/violet_corundum_cluster quark:violet_corundum_cluster
+quark:blocks/violet_corundum_pane | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch quark:blocks/violet_corundum_pane quark:violet_corundum_pane
+quark:blocks/violet_crystal_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/violet_crystal_lamp quark:violet_crystal_lamp
+quark:blocks/warped_bookshelf | minecraft:block | minecraft:alternatives minecraft:block minecraft:book minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch quark:blocks/warped_bookshelf quark:warped_bookshelf
+quark:blocks/warped_chest | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/warped_chest quark:warped_chest
+quark:blocks/warped_ladder | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/warped_ladder quark:warped_ladder
+quark:blocks/warped_post | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/warped_post quark:warped_post
+quark:blocks/warped_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/warped_vertical_slab quark:warped_vertical_slab
+quark:blocks/water_pink_petals | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:pink_petals minecraft:set_count quark:blocks/water_pink_petals quark:water_pink_petals
+quark:blocks/waxed_black_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/waxed_black_corundum quark:waxed_black_corundum
+quark:blocks/waxed_blue_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/waxed_blue_corundum quark:waxed_blue_corundum
+quark:blocks/waxed_cut_copper_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/waxed_cut_copper_vertical_slab quark:waxed_cut_copper_vertical_slab
+quark:blocks/waxed_exposed_cut_copper_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/waxed_exposed_cut_copper_vertical_slab quark:waxed_exposed_cut_copper_vertical_slab
+quark:blocks/waxed_green_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/waxed_green_corundum quark:waxed_green_corundum
+quark:blocks/waxed_indigo_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/waxed_indigo_corundum quark:waxed_indigo_corundum
+quark:blocks/waxed_orange_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/waxed_orange_corundum quark:waxed_orange_corundum
+quark:blocks/waxed_oxidized_cut_copper_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/waxed_oxidized_cut_copper_vertical_slab quark:waxed_oxidized_cut_copper_vertical_slab
+quark:blocks/waxed_red_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/waxed_red_corundum quark:waxed_red_corundum
+quark:blocks/waxed_violet_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/waxed_violet_corundum quark:waxed_violet_corundum
+quark:blocks/waxed_weathered_cut_copper_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/waxed_weathered_cut_copper_vertical_slab quark:waxed_weathered_cut_copper_vertical_slab
+quark:blocks/waxed_white_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/waxed_white_corundum quark:waxed_white_corundum
+quark:blocks/waxed_yellow_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/waxed_yellow_corundum quark:waxed_yellow_corundum
+quark:blocks/weathered_cut_copper_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/weathered_cut_copper_vertical_slab quark:weathered_cut_copper_vertical_slab
+quark:blocks/white_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/white_corundum quark:white_corundum
+quark:blocks/white_corundum_cluster | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/white_corundum_cluster quark:white_corundum_cluster
+quark:blocks/white_corundum_pane | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch quark:blocks/white_corundum_pane quark:white_corundum_pane
+quark:blocks/white_crystal_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/white_crystal_lamp quark:white_crystal_lamp
+quark:blocks/white_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/white_framed_glass quark:white_framed_glass
+quark:blocks/white_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/white_framed_glass_pane quark:white_framed_glass_pane
+quark:blocks/white_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/white_shingles quark:white_shingles
+quark:blocks/white_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/white_shingles_slab quark:white_shingles_slab
+quark:blocks/white_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/white_shingles_stairs quark:white_shingles_stairs
+quark:blocks/white_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/white_shingles_vertical_slab quark:white_shingles_vertical_slab
+quark:blocks/white_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/white_stool quark:white_stool
+quark:blocks/yellow_blossom_hedge | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/yellow_blossom_hedge quark:yellow_blossom_hedge
+quark:blocks/yellow_blossom_leaf_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/yellow_blossom_leaf_carpet quark:yellow_blossom_leaf_carpet
+quark:blocks/yellow_blossom_leaves | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform quark:blocks/yellow_blossom_leaves quark:yellow_blossom_leaves quark:yellow_blossom_sapling
+quark:blocks/yellow_blossom_sapling | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/yellow_blossom_sapling quark:yellow_blossom_sapling
+quark:blocks/yellow_corundum | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/yellow_corundum quark:yellow_corundum
+quark:blocks/yellow_corundum_cluster | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/yellow_corundum_cluster quark:yellow_corundum_cluster
+quark:blocks/yellow_corundum_pane | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch quark:blocks/yellow_corundum_pane quark:yellow_corundum_pane
+quark:blocks/yellow_crystal_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/yellow_crystal_lamp quark:yellow_crystal_lamp
+quark:blocks/yellow_framed_glass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/yellow_framed_glass quark:yellow_framed_glass
+quark:blocks/yellow_framed_glass_pane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/yellow_framed_glass_pane quark:yellow_framed_glass_pane
+quark:blocks/yellow_shingles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/yellow_shingles quark:yellow_shingles
+quark:blocks/yellow_shingles_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/yellow_shingles_slab quark:yellow_shingles_slab
+quark:blocks/yellow_shingles_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/yellow_shingles_stairs quark:yellow_shingles_stairs
+quark:blocks/yellow_shingles_vertical_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count quark:blocks/yellow_shingles_vertical_slab quark:yellow_shingles_vertical_slab
+quark:blocks/yellow_stool | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion quark:blocks/yellow_stool quark:yellow_stool
+quark:demo/enchant_tome_function_demo | minecraft:gift | minecraft:air minecraft:feather_falling minecraft:gift minecraft:item minecraft:protection minecraft:set_lore minecraft:set_name quark:enchant_tome_function_demo quark:tome_enchant
+quark:entities/crab | minecraft:entity | minecraft:any_of minecraft:enchanted_count_increase minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:killed_by_player minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus minecraft:set_count minecraft:uniform quark:crab_leg quark:crab_shell quark:entities/crab
+quark:entities/forgotten | minecraft:entity | minecraft:arrow minecraft:bone minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:killed_by_player minecraft:looting minecraft:set_count minecraft:uniform quark:entities/forgotten quark:forgotten_hat
+quark:entities/foxhound | minecraft:entity | minecraft:coal minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:leather minecraft:looting minecraft:set_count minecraft:uniform quark:entities/foxhound
+quark:entities/stoneling | minecraft:entity | minecraft:entity minecraft:entity_properties minecraft:item minecraft:killed_by_player minecraft:linear minecraft:location_check minecraft:looting minecraft:random_chance_with_enchanted_bonus quark:diamond_heart quark:entities/stoneling quark:glimmering_weald quark:pathfinders_quill
+quark:entities/toretoise | minecraft:entity | minecraft:entity quark:entities/toretoise
+quark:entities/wraith | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count minecraft:uniform quark:entities/wraith quark:soul_bead
+quark:inject/blocks/black_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:black_shard zeta:flag
+quark:inject/blocks/blue_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:blue_shard zeta:flag
+quark:inject/blocks/brown_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:brown_shard zeta:flag
+quark:inject/blocks/cyan_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:cyan_shard zeta:flag
+quark:inject/blocks/glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:clear_shard zeta:flag
+quark:inject/blocks/gray_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:gray_shard zeta:flag
+quark:inject/blocks/green_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:green_shard zeta:flag
+quark:inject/blocks/light_blue_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:light_blue_shard zeta:flag
+quark:inject/blocks/light_gray_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:light_gray_shard zeta:flag
+quark:inject/blocks/lime_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:lime_shard zeta:flag
+quark:inject/blocks/magenta_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:magenta_shard zeta:flag
+quark:inject/blocks/orange_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:orange_shard zeta:flag
+quark:inject/blocks/pink_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:pink_shard zeta:flag
+quark:inject/blocks/purple_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:purple_shard zeta:flag
+quark:inject/blocks/red_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:red_shard zeta:flag
+quark:inject/blocks/white_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:white_shard zeta:flag
+quark:inject/blocks/yellow_stained_glass | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:limit_count minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:uniform minecraft:uniform_bonus_count quark:yellow_shard zeta:flag
+quark:inject/gameplay/sniffer_digging | minecraft:block | minecraft:block minecraft:explosion_decay minecraft:item minecraft:limit_count minecraft:set_count minecraft:uniform quark:ancient_sapling zeta:flag
+quark:misc/monster_box | minecraft:entity | minecraft:bone_block minecraft:book minecraft:bread minecraft:coal minecraft:cobweb minecraft:creeper_head minecraft:diamond minecraft:diamond_horse_armor minecraft:diamond_pickaxe minecraft:diamond_sword minecraft:enchant_randomly minecraft:entity minecraft:golden_apple minecraft:golden_horse_armor minecraft:infested_cobblestone minecraft:infested_stone minecraft:infested_stone_bricks minecraft:iron_horse_armor minecraft:item minecraft:music_disc_11 minecraft:music_disc_13 minecraft:music_disc_blocks minecraft:music_disc_cat minecraft:music_disc_chirp minecraft:music_disc_far minecraft:music_disc_mall minecraft:music_disc_mellohi minecraft:music_disc_stal minecraft:music_disc_strad minecraft:music_disc_wait minecraft:music_disc_ward minecraft:name_tag minecraft:rabbit_hide minecraft:raw_copper minecraft:raw_gold minecraft:raw_iron minecraft:saddle minecraft:skeleton_skull minecraft:tnt minecraft:zombie_head quark:misc/monster_box quark:monster_box
+quark:misc/monster_box_spawns | ? | minecraft:cave_spider_spawn_egg minecraft:item minecraft:witch_spawn_egg minecraft:zombie_spawn_egg quark:misc/monster_box_spawns
+quark:misc/stoneling_carry | minecraft:generic | minecraft:coal minecraft:creeper_head minecraft:diamond minecraft:diamond_horse_armor minecraft:emerald minecraft:ender_pearl minecraft:generic minecraft:gold_ingot minecraft:golden_apple minecraft:golden_horse_armor minecraft:iron_horse_armor minecraft:iron_ingot minecraft:item minecraft:lapis_lazuli minecraft:name_tag minecraft:redstone minecraft:saddle minecraft:zombie_head
+quark:toretoise/coal | minecraft:block | minecraft:block minecraft:blocks/deepslate_coal_ore minecraft:loot_table
+quark:toretoise/copper | minecraft:block | minecraft:block minecraft:blocks/deepslate_copper_ore minecraft:loot_table
+quark:toretoise/iron | minecraft:block | minecraft:block minecraft:blocks/deepslate_iron_ore minecraft:loot_table
+quark:toretoise/lapis | minecraft:block | minecraft:block minecraft:blocks/deepslate_lapis_ore minecraft:loot_table
+quark:toretoise/redstone | minecraft:block | minecraft:block minecraft:blocks/deepslate_redstone_ore minecraft:loot_table

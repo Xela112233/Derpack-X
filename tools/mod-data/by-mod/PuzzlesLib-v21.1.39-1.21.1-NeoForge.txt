@@ -1,0 +1,19 @@
+# PuzzlesLib-v21.1.39-1.21.1-NeoForge
+
+## mod metadata (id / version / deps)
+license = "MPL-2.0"
+modId = "puzzleslib"
+displayName = "Puzzles Lib"
+version = "21.1.39"
+modId = "neoforge"
+versionRange = "[21.1.21,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

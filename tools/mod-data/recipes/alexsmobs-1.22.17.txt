@@ -1,0 +1,84 @@
+alexsmobs:animal_dictionary | minecraft:crafting_shapeless | alexsmobs:animal_dictionary alexsmobs:animal_dictionary_ingredient c:dyes/green minecraft:book minecraft:crafting_shapeless
+alexsmobs:banana_slug_slime | minecraft:crafting_shapeless | alexsmobs:banana_slug_slime alexsmobs:banana_slug_slime_block minecraft:crafting_shapeless
+alexsmobs:banana_slug_slime_block | minecraft:crafting_shaped | alexsmobs:banana_slug_slime alexsmobs:banana_slug_slime_block minecraft:crafting_shaped
+alexsmobs:banner_pattern_australia_0 | minecraft:crafting_shapeless | alexsmobs:banner_pattern_australia_0 alexsmobs:kangaroo_hide minecraft:crafting_shapeless minecraft:paper
+alexsmobs:banner_pattern_australia_1 | minecraft:crafting_shapeless | alexsmobs:banner_pattern_australia_1 alexsmobs:emu_feather minecraft:crafting_shapeless minecraft:paper
+alexsmobs:banner_pattern_bear | minecraft:crafting_shapeless | alexsmobs:banner_pattern_bear alexsmobs:bear_fur minecraft:crafting_shapeless minecraft:paper
+alexsmobs:banner_pattern_brazil | minecraft:crafting_shapeless | alexsmobs:banner_pattern_brazil alexsmobs:shed_snake_skin minecraft:crafting_shapeless minecraft:paper
+alexsmobs:banner_pattern_new_mexico | minecraft:crafting_shapeless | alexsmobs:banner_pattern_new_mexico alexsmobs:tarantula_hawk_wing_fragment minecraft:crafting_shapeless minecraft:paper
+alexsmobs:bison_carpet | minecraft:crafting_shaped | alexsmobs:bison_carpet alexsmobs:bison_fur_block minecraft:crafting_shaped
+alexsmobs:bison_fur_block | minecraft:crafting_shaped | alexsmobs:bison_fur alexsmobs:bison_fur_block minecraft:crafting_shaped
+alexsmobs:bison_fur_from_block | minecraft:crafting_shapeless | alexsmobs:bison_fur alexsmobs:bison_fur_block minecraft:crafting_shapeless
+alexsmobs:bison_fur_to_wool | minecraft:crafting_shaped | alexsmobs:bison_fur minecraft:brown_wool minecraft:crafting_shaped
+alexsmobs:bison_upgrade | alexsmobs:bison_upgrade | alexsmobs:bison_upgrade
+alexsmobs:blood_sprayer | minecraft:crafting_shaped | alexsmobs:blood_sac alexsmobs:blood_sprayer alexsmobs:mosquito_proboscis minecraft:crafting_shaped minecraft:nether_brick
+alexsmobs:boiled_emu_egg | minecraft:smelting | alexsmobs:boiled_emu_egg alexsmobs:emu_egg minecraft:smelting
+alexsmobs:boiled_emu_egg_campfire | minecraft:campfire_cooking | alexsmobs:boiled_emu_egg alexsmobs:emu_egg minecraft:campfire_cooking
+alexsmobs:boiled_emu_egg_smoke | minecraft:smoking | alexsmobs:boiled_emu_egg alexsmobs:emu_egg minecraft:smoking
+alexsmobs:bonemeal_from_fish_bones | minecraft:crafting_shapeless | alexsmobs:fish_bones minecraft:bone_meal minecraft:crafting_shapeless
+alexsmobs:centipede_leggings | minecraft:crafting_shaped | alexsmobs:centipede_leg alexsmobs:centipede_leggings minecraft:crafting_shaped
+alexsmobs:chorus_on_a_stick | minecraft:crafting_shapeless | alexsmobs:chorus_on_a_stick minecraft:chorus_fruit minecraft:crafting_shapeless minecraft:fishing_rod
+alexsmobs:cockroach_wing | minecraft:crafting_shaped | alexsmobs:cockroach_wing alexsmobs:cockroach_wing_fragment minecraft:crafting_shaped
+alexsmobs:cooked_catfish | minecraft:smelting | alexsmobs:cooked_catfish alexsmobs:raw_catfish minecraft:smelting
+alexsmobs:cooked_catfish_campfire | minecraft:campfire_cooking | alexsmobs:cooked_catfish alexsmobs:raw_catfish minecraft:campfire_cooking
+alexsmobs:cooked_catfish_smoke | minecraft:smoking | alexsmobs:cooked_catfish alexsmobs:raw_catfish minecraft:smoking
+alexsmobs:cooked_kangaroo_meat | minecraft:smelting | alexsmobs:cooked_kangaroo_meat alexsmobs:kangaroo_meat minecraft:smelting
+alexsmobs:cooked_kangaroo_meat_campfire | minecraft:campfire_cooking | alexsmobs:cooked_kangaroo_meat alexsmobs:kangaroo_meat minecraft:campfire_cooking
+alexsmobs:cooked_kangaroo_meat_smoke | minecraft:smoking | alexsmobs:cooked_kangaroo_meat alexsmobs:kangaroo_meat minecraft:smoking
+alexsmobs:cooked_lobster_tail | minecraft:smelting | alexsmobs:cooked_lobster_tail alexsmobs:lobster_tail minecraft:smelting
+alexsmobs:cooked_lobster_tail_campfire | minecraft:campfire_cooking | alexsmobs:cooked_lobster_tail alexsmobs:lobster_tail minecraft:campfire_cooking
+alexsmobs:cooked_lobster_tail_smoke | minecraft:smoking | alexsmobs:cooked_lobster_tail alexsmobs:lobster_tail minecraft:smoking
+alexsmobs:cooked_moose_ribs | minecraft:smelting | alexsmobs:cooked_moose_ribs alexsmobs:moose_ribs minecraft:smelting
+alexsmobs:cooked_moose_ribs_campfire | minecraft:campfire_cooking | alexsmobs:cooked_moose_ribs alexsmobs:moose_ribs minecraft:campfire_cooking
+alexsmobs:cooked_moose_ribs_smoke | minecraft:smoking | alexsmobs:cooked_moose_ribs alexsmobs:moose_ribs minecraft:smoking
+alexsmobs:crocodile_chestplate | minecraft:crafting_shaped | alexsmobs:crocodile_chestplate alexsmobs:crocodile_scute minecraft:crafting_shaped
+alexsmobs:dimensional_carver | minecraft:crafting_shaped | alexsmobs:dimensional_carver alexsmobs:void_worm_eye alexsmobs:void_worm_mandible c:ingots/netherite minecraft:crafting_shaped
+alexsmobs:echolocator | minecraft:crafting_shaped | alexsmobs:ambergris alexsmobs:cachalot_whale_tooth alexsmobs:echolocator c:ingots/iron minecraft:crafting_shaped
+alexsmobs:emu_leggings | minecraft:crafting_shaped | alexsmobs:emu_feather alexsmobs:emu_leggings alexsmobs:kangaroo_hide minecraft:crafting_shaped
+alexsmobs:enderiophage_rocket | minecraft:crafting_shaped | alexsmobs:capsid alexsmobs:enderiophage_rocket c:nuggets/iron minecraft:crafting_shaped minecraft:end_stone
+alexsmobs:endolocator | minecraft:crafting_shaped | alexsmobs:echolocator alexsmobs:endolocator minecraft:crafting_shaped minecraft:ender_pearl
+alexsmobs:falconry_glove | minecraft:crafting_shaped | alexsmobs:bear_fur alexsmobs:falconry_glove minecraft:crafting_shaped minecraft:leather
+alexsmobs:falconry_hood | minecraft:crafting_shaped | alexsmobs:falconry_hood alexsmobs:roadrunner_feather minecraft:crafting_shaped minecraft:leather
+alexsmobs:falconry_hood_alt | minecraft:crafting_shaped | alexsmobs:falconry_hood alexsmobs:roadrunner_feather minecraft:crafting_shaped minecraft:leather
+alexsmobs:fish_oil | minecraft:crafting_shapeless | alexsmobs:blobfish alexsmobs:fish_oil minecraft:crafting_shapeless minecraft:glass_bottle
+alexsmobs:flint_n_steel_dropbear_claw | minecraft:crafting_shapeless | alexsmobs:dropbear_claw minecraft:crafting_shapeless minecraft:flint minecraft:flint_and_steel
+alexsmobs:flying_fish_boots | minecraft:crafting_shaped | alexsmobs:flying_fish alexsmobs:flying_fish_boots c:strings minecraft:crafting_shaped
+alexsmobs:frontier_cap | minecraft:crafting_shaped | alexsmobs:bear_fur alexsmobs:frontier_cap alexsmobs:raccoon_tail minecraft:crafting_shaped minecraft:leather_helmet
+alexsmobs:frontier_cap_alt | minecraft:crafting_shaped | alexsmobs:bear_fur alexsmobs:frontier_cap alexsmobs:raccoon_tail minecraft:crafting_shaped minecraft:leather_helmet
+alexsmobs:froststalker_helmet | minecraft:crafting_shaped | alexsmobs:froststalker_helmet alexsmobs:froststalker_horn minecraft:crafting_shaped minecraft:packed_ice
+alexsmobs:gustmaker | minecraft:crafting_shaped | alexsmobs:guster_eye alexsmobs:gustmaker minecraft:crafting_shaped minecraft:cut_sandstone minecraft:redstone
+alexsmobs:hemolymph_blaster | minecraft:crafting_shaped | alexsmobs:blood_sprayer alexsmobs:hemolymph_blaster alexsmobs:hemolymph_sac alexsmobs:mimicream alexsmobs:mosquito_proboscis alexsmobs:warped_muscle minecraft:crafting_shaped
+alexsmobs:hummingbird_feeder | minecraft:crafting_shaped | alexsmobs:hummingbird_feeder minecraft:copper_ingot minecraft:crafting_shaped minecraft:glass_bottle minecraft:sunflower
+alexsmobs:kangaroo_burger | minecraft:crafting_shaped | alexsmobs:cooked_kangaroo_meat alexsmobs:kangaroo_burger minecraft:bread minecraft:crafting_shaped
+alexsmobs:kangaroo_hide_to_leather | minecraft:crafting_shapeless | alexsmobs:kangaroo_hide minecraft:crafting_shapeless minecraft:leather
+alexsmobs:komodo_spit_bottle | minecraft:crafting_shapeless | alexsmobs:komodo_spit alexsmobs:komodo_spit_bottle minecraft:crafting_shapeless minecraft:glass_bottle
+alexsmobs:komodo_spit_to_slime | minecraft:crafting_shapeless | alexsmobs:komodo_spit minecraft:crafting_shapeless minecraft:slime_ball
+alexsmobs:maraca | minecraft:crafting_shaped | alexsmobs:maraca alexsmobs:rattlesnake_rattle c:rods/wooden minecraft:crafting_shaped minecraft:planks
+alexsmobs:mimicream_repair_recipe | alexsmobs:mimicream_repair | alexsmobs:mimicream_repair
+alexsmobs:moose_headgear | minecraft:crafting_shaped | alexsmobs:moose_antler alexsmobs:moose_headgear c:ingots/iron c:strings minecraft:crafting_shaped
+alexsmobs:mosquito_larva | minecraft:crafting_shapeless | alexsmobs:maggot alexsmobs:mosquito_larva alexsmobs:mosquito_proboscis minecraft:crafting_shapeless
+alexsmobs:mosquito_repellent_stew | minecraft:crafting_shapeless | alexsmobs:mosquito_repellent_stew alexsmobs:stink_bottle alexsmobs:triops_eggs minecraft:bowl minecraft:crafting_shapeless
+alexsmobs:pocket_sand | minecraft:crafting_shaped | alexsmobs:guster_eye alexsmobs:pocket_sand minecraft:crafting_shaped minecraft:leather minecraft:sand
+alexsmobs:pupfish_locator | minecraft:crafting_shaped | alexsmobs:echolocator alexsmobs:fish_bones alexsmobs:pupfish_locator minecraft:crafting_shaped minecraft:slime_ball
+alexsmobs:rainbow_glass | minecraft:crafting_shaped | alexsmobs:rainbow_glass alexsmobs:rainbow_jelly c:glass_blocks minecraft:crafting_shaped
+alexsmobs:roadrunner_boots | minecraft:crafting_shaped | alexsmobs:roadrunner_boots alexsmobs:roadrunner_feather minecraft:chiseled_sandstone minecraft:crafting_shaped minecraft:leather_boots
+alexsmobs:rocky_chestplate | minecraft:crafting_shaped | alexsmobs:rocky_chestplate alexsmobs:rocky_shell minecraft:crafting_shaped
+alexsmobs:sculk_boomer | minecraft:crafting_shaped | alexsmobs:sculk_boomer alexsmobs:skreecher_soul minecraft:bone_block minecraft:crafting_shaped minecraft:sculk
+alexsmobs:shark_tooth_arrow | minecraft:crafting_shaped | alexsmobs:shark_tooth alexsmobs:shark_tooth_arrow c:rods/wooden minecraft:crafting_shaped minecraft:kelp
+alexsmobs:shield_of_the_deep | minecraft:crafting_shaped | alexsmobs:serrated_shark_tooth alexsmobs:shark_tooth alexsmobs:shield_of_the_deep minecraft:crafting_shaped minecraft:heart_of_the_sea minecraft:prismarine_bricks
+alexsmobs:sopa_de_macaco | minecraft:crafting_shapeless | alexsmobs:banana_peel alexsmobs:sopa_de_macaco minecraft:bone minecraft:bowl minecraft:brown_mushroom minecraft:crafting_shapeless
+alexsmobs:spiked_turtle_shell | minecraft:crafting_shaped | alexsmobs:spiked_scute alexsmobs:spiked_turtle_shell minecraft:crafting_shaped minecraft:turtle_helmet
+alexsmobs:squid_grapple | minecraft:crafting_shaped | alexsmobs:lost_tentacle alexsmobs:squid_grapple minecraft:copper_ingot minecraft:crafting_shaped minecraft:crossbow
+alexsmobs:stink_ray | minecraft:crafting_shaped | alexsmobs:stink_bottle alexsmobs:stink_ray c:ingots/iron minecraft:crafting_shaped minecraft:hopper
+alexsmobs:straddle_helmet | minecraft:crafting_shaped | alexsmobs:straddle_helmet alexsmobs:straddlite minecraft:crafting_shaped minecraft:string
+alexsmobs:straddle_saddle | minecraft:crafting_shaped | alexsmobs:straddle_saddle alexsmobs:straddlite minecraft:crafting_shaped minecraft:saddle
+alexsmobs:straddleboard | minecraft:crafting_shaped | alexsmobs:straddleboard alexsmobs:straddlite c:ingots/netherite minecraft:crafting_shaped
+alexsmobs:straddlite_block | minecraft:crafting_shaped | alexsmobs:straddlite alexsmobs:straddlite_block minecraft:crafting_shaped
+alexsmobs:straddlite_from_block | minecraft:crafting_shapeless | alexsmobs:straddlite alexsmobs:straddlite_block minecraft:crafting_shapeless
+alexsmobs:tarantula_hawk_elytra | minecraft:crafting_shaped | alexsmobs:tarantula_hawk_elytra alexsmobs:tarantula_hawk_wing minecraft:crafting_shaped minecraft:elytra
+alexsmobs:tarantula_hawk_wing | minecraft:crafting_shaped | alexsmobs:tarantula_hawk_wing alexsmobs:tarantula_hawk_wing_fragment minecraft:crafting_shaped
+alexsmobs:tendon_whip | minecraft:crafting_shaped | alexsmobs:dropbear_claw alexsmobs:elastic_tendon alexsmobs:tendon_whip c:rods/wooden minecraft:crafting_shaped
+alexsmobs:transmutation_table | minecraft:crafting_shaped | alexsmobs:farseer_arm alexsmobs:transmutation_table minecraft:crafting_shaped minecraft:nether_star minecraft:obsidian
+alexsmobs:vine_lasso | minecraft:crafting_shaped | alexsmobs:shed_snake_skin alexsmobs:vine_lasso minecraft:crafting_shaped minecraft:lead minecraft:vine
+alexsmobs:void_worm_beak | minecraft:crafting_shapeless | alexsmobs:void_worm_beak alexsmobs:void_worm_mandible minecraft:crafting_shapeless
+alexsmobs:void_worm_effigy | minecraft:crafting_shaped | alexsmobs:void_worm_beak alexsmobs:void_worm_effigy minecraft:crafting_shaped minecraft:ender_pearl minecraft:purpur_block

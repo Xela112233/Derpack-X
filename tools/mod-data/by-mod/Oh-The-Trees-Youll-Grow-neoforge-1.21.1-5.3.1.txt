@@ -1,0 +1,19 @@
+# Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.1
+
+## mod metadata (id / version / deps)
+license = "LGPLv3"
+modId = "ohthetreesyoullgrow"
+version = "5.3.1"
+displayName = "Oh The Trees You'll Grow"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

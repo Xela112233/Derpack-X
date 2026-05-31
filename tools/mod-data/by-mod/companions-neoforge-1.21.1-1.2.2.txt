@@ -1,0 +1,119 @@
+# companions-neoforge-1.21.1-1.2.2
+
+## mod metadata (id / version / deps)
+license = "GNU GPL v3.0" # Review your options at https://choosealicense.com/.
+modId = "companions" #mandatory
+version = "1.2.2" #mandatory
+displayName = "Companions!" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.1.80,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1, 1.22)"
+modId = "knightlib"
+versionRange = "[1.3.0,)"
+
+## blocks
+companions:copper_coin
+companions:croissant_egg_block
+companions:empty_puppet_block
+companions:end_coin
+companions:eternal_fire
+companions:frog_bonanza_block
+companions:nether_coin
+companions:plasma_lamp_block
+companions:recall_platform_block
+companions:respawn_totem_block
+companions:shade_maw_altar
+companions:shade_sword_altar
+companions:soul_furnace_block
+companions:tesla_coil_block
+companions:voltaic_pillar_block
+companions:voltaic_relay_block
+
+## items
+companions:antlion_fur
+companions:big_bread
+companions:blade_arm
+companions:book_black_hole
+companions:book_brace
+companions:book_fire_mark
+companions:book_heal_ring
+companions:book_ice_shard
+companions:book_ice_tornado
+companions:book_magic_ray
+companions:book_naginata
+companions:book_stone_spikes
+companions:broken_dinamo_spawn_egg
+companions:cannon_arm
+companions:copper_coin
+companions:cornelius_spawn_egg
+companions:croissant_dragon_chocolate_armor
+companions:croissant_dragon_spawn_egg
+companions:croissant_dragon_strawberry_armor
+companions:croissant_dragon_vanilla_armor
+companions:croissant_egg_block
+companions:crystallized_blood
+companions:crystallized_blood_axe
+companions:crystallized_blood_axe_2d
+companions:crystallized_blood_axe_3d
+companions:crystallized_blood_boots
+companions:crystallized_blood_chestplate
+companions:crystallized_blood_helmet
+companions:crystallized_blood_leggings
+companions:crystallized_blood_scythe
+companions:crystallized_blood_scythe_2d
+companions:crystallized_blood_scythe_3d
+companions:crystallized_blood_sword
+companions:crystallized_blood_sword_2d
+companions:crystallized_blood_sword_3d
+companions:demon_flesh
+companions:empty_puppet_block
+companions:end_coin
+companions:eternal_fire
+companions:eternal_lighter
+companions:frog_bonanza_block
+companions:golden_allay_spawn_egg
+companions:holy_robe_coat
+companions:holy_robe_leggings
+companions:holy_robe_mask
+companions:hostile_imp_spawn_egg
+companions:hostile_puppet_glove_spawn_egg
+companions:hourglass
+companions:illager_golem_spawn_egg
+companions:living_candle_spawn_egg
+companions:mage_coat
+companions:mage_hat
+companions:mage_leggings
+companions:mage_staff
+companions:mage_staff_2d
+companions:mage_staff_3d
+companions:mutant_arm
+companions:mutant_flesh
+companions:needle
+companions:nether_coin
+companions:netherite_chains
+companions:netherite_dagger
+companions:old_cloth
+companions:plasma_lamp_block
+companions:recall_platform_block
+companions:relic_gold
+companions:respawn_totem_block
+companions:sacred_pontiff_spawn_egg
+companions:saint_klimt_music_disc
+companions:shade_maw_altar
+companions:shade_sword_altar
+companions:shadow_bell
+companions:soul_furnace_block
+companions:soul_gem
+companions:teddy_spawn_egg
+companions:tesla_coil_block
+companions:voltaic_pillar_block
+companions:voltaic_relay_block
+companions:whip_arm
+companions:wild_antlion_spawn_egg
+companions:wrench
+
+## neoforge biome_modifiers
+companions_mob_spawns.json :: { "type": "companions:companions_mob_spawns"}
+
+## c: common tag membership

@@ -1,0 +1,15 @@
+jbt:diamond_chisel | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:diamond minecraft:stick minecraft:warped_fungus_on_a_stick
+jbt:diamond_trowel | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:diamond minecraft:stick minecraft:warped_fungus_on_a_stick
+jbt:experience_flask | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:experience_bottle minecraft:terracotta minecraft:tinted_glass minecraft:warped_fungus_on_a_stick
+jbt:grass_starter | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:leather minecraft:short_grass minecraft:string minecraft:warped_fungus_on_a_stick
+jbt:hammer | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:heavy_core minecraft:iron_pickaxe minecraft:lightning_rod minecraft:stick
+jbt:hardhat | minecraft:crafting_shaped | minecraft:carved_pumpkin minecraft:crafting_shaped minecraft:gold_ingot minecraft:iron_ingot minecraft:leather minecraft:player.block_interaction_range
+jbt:iron_chisel | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick minecraft:warped_fungus_on_a_stick
+jbt:iron_trowel | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick minecraft:warped_fungus_on_a_stick
+jbt:item_magnet | minecraft:crafting_shaped | minecraft:blue_dye minecraft:crafting_shaped minecraft:iron_ingot minecraft:netherite_ingot minecraft:rabbit_foot minecraft:red_dye
+jbt:mob_bag | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:rabbit_hide minecraft:shulker_shell minecraft:string minecraft:warped_fungus_on_a_stick
+jbt:rope_ladder | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:ladder minecraft:string
+jbt:tape_measure | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:gold_ingot minecraft:iron_ingot minecraft:light_weighted_pressure_plate minecraft:warped_fungus_on_a_stick
+jbt:void_bucket | minecraft:crafting_shaped | minecraft:bucket minecraft:crafting_shaped minecraft:ender_eye minecraft:warped_fungus_on_a_stick
+jbt:void_bundle | minecraft:crafting_shaped | minecraft:bone minecraft:bundle minecraft:crafting_shaped minecraft:ender_eye minecraft:leather
+jbt:wrench | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:iron_ingot minecraft:warped_fungus_on_a_stick

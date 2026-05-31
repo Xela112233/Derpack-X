@@ -1,0 +1,49 @@
+# IllagerInvasion-v21.1.6-1.21.1-NeoForge
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "illagerinvasion"
+displayName = "Illager Invasion"
+version = "21.1.6"
+modId = "neoforge"
+versionRange = "[21.1.21,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "puzzleslib"
+versionRange = "[21.1.7,)"
+modId = "extensibleenums"
+versionRange = "*"
+
+## blocks
+illagerinvasion:imbuing_table
+illagerinvasion:magic_fire
+
+## items
+illagerinvasion:alchemist_spawn_egg
+illagerinvasion:archivist_spawn_egg
+illagerinvasion:basher_spawn_egg
+illagerinvasion:firecaller_spawn_egg
+illagerinvasion:hallowed_gem
+illagerinvasion:horn_of_sight
+illagerinvasion:illusionary_dust
+illagerinvasion:illusioner_spawn_egg
+illagerinvasion:imbuing_table
+illagerinvasion:inquisitor_spawn_egg
+illagerinvasion:invoker_spawn_egg
+illagerinvasion:lost_candle
+illagerinvasion:magical_fire_charge
+illagerinvasion:marauder_spawn_egg
+illagerinvasion:necromancer_spawn_egg
+illagerinvasion:platinum_chunk
+illagerinvasion:platinum_infused_hatchet
+illagerinvasion:platinum_sheet
+illagerinvasion:primal_essence
+illagerinvasion:provoker_spawn_egg
+illagerinvasion:sorcerer_spawn_egg
+illagerinvasion:surrendered_spawn_egg
+illagerinvasion:tooting_horn_of_sight
+illagerinvasion:unusual_dust
+
+## neoforge biome_modifiers
+
+## c: common tag membership

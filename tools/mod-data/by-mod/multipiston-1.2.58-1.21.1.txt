@@ -1,0 +1,25 @@
+# multipiston-1.2.58-1.21.1
+
+## mod metadata (id / version / deps)
+license="GPL3"
+modId="multipiston" #mandatory
+version="1.2.58-1.21.1" #mandatory
+displayName="Multi-Piston" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.143,)" #mandatory
+modId="minecraft"
+versionRange="[1.21, 1.22)"
+modId="blockui"
+versionRange="[1.0.188-1.21.1-snapshot, )"
+modId="structurize"
+versionRange="[1.0.751-1.21.1-snapshot, )"
+
+## blocks
+multipiston:multipistonblock
+
+## items
+multipiston:multipistonblock
+
+## neoforge biome_modifiers
+
+## c: common tag membership

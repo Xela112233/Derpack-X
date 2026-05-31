@@ -1,0 +1,12 @@
+vc_gliders:copper_upgrade | minecraft:crafting_shaped | minecraft:amethyst_shard minecraft:copper_block minecraft:crafting_shaped minecraft:lightning_rod minecraft:string vc_gliders:copper_upgrade
+vc_gliders:nether_upgrade | minecraft:crafting_shaped | minecraft:blaze_powder minecraft:blaze_rod minecraft:crafting_shaped minecraft:crying_obsidian minecraft:nether_brick_fence vc_gliders:nether_upgrade
+vc_gliders:paraglider_diamond | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:feather minecraft:stick minecraft:string vc_gliders:paraglider_diamond vc_gliders:reinforced_paper_diamond
+vc_gliders:paraglider_gold | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:feather minecraft:stick minecraft:string vc_gliders:paraglider_gold vc_gliders:reinforced_paper_gold
+vc_gliders:paraglider_iron | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:feather minecraft:stick minecraft:string vc_gliders:paraglider_iron vc_gliders:reinforced_paper_iron
+vc_gliders:paraglider_netherite | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:feather minecraft:stick minecraft:string vc_gliders:paraglider_netherite vc_gliders:reinforced_paper_netherite
+vc_gliders:paraglider_wood | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:feather minecraft:stick minecraft:string vc_gliders:paraglider_wood vc_gliders:reinforced_paper
+vc_gliders:reinforced_paper | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:leather minecraft:paper vc_gliders:reinforced_paper
+vc_gliders:reinforced_paper_diamond | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:diamond vc_gliders:reinforced_paper vc_gliders:reinforced_paper_diamond
+vc_gliders:reinforced_paper_gold | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:gold_ingot vc_gliders:reinforced_paper vc_gliders:reinforced_paper_gold
+vc_gliders:reinforced_paper_iron | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:iron_ingot vc_gliders:reinforced_paper vc_gliders:reinforced_paper_iron
+vc_gliders:reinforced_paper_netherite | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:netherite_scrap vc_gliders:reinforced_paper vc_gliders:reinforced_paper_netherite

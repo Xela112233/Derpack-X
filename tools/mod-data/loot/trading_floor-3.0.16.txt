@@ -1,0 +1,1 @@
+trading_floor:blocks/trading_depot | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion trading_floor:blocks/trading_depot trading_floor:trading_depot

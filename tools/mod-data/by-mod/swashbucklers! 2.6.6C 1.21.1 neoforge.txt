@@ -1,0 +1,36 @@
+# swashbucklers! 2.6.6C 1.21.1 neoforge
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="hpm"
+version="2.6.6"
+displayName="HalsPirateMod"
+modId="neoforge"
+versionRange="[21.1.92,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+
+## blocks
+
+## items
+hpm:cannonball
+hpm:corvette_steamship_item
+hpm:cutteritem
+hpm:cuttermilitariseditem
+hpm:hand_cannon
+hpm:hand_mortar
+hpm:largehull
+hpm:largemast
+hpm:mortar_ball
+hpm:pirate_cutter_item
+hpm:raftitem
+hpm:small_mast
+hpm:smallhull
+hpm:spanner
+hpm:swashbuckleritem
+hpm:swashbucklerupgrade
+
+## neoforge biome_modifiers
+cutterpiratedamaged_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "hpm:cutterpiratedamaged", "weight": 1, "minCount": 1, "maxCount": 1 }}
+
+## c: common tag membership

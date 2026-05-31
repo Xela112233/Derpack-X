@@ -1,0 +1,21 @@
+# underground_village-neoforge-1.21.1-1.5.7
+
+## mod metadata (id / version / deps)
+license = "MIT" # Review your options at https://choosealicense.com/.
+modId = "underground_village" #mandatory
+version = "1.5.7" #mandatory
+displayName = "Underground Village, Stoneholm" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.1.80,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1, 1.22)"
+modId = "better_lib"
+versionRange = "[1.0.109,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,4 @@
+immersive_paintings:glow_graffiti | minecraft:crafting_shapeless | immersive_paintings:glow_graffiti immersive_paintings:graffiti minecraft:crafting_shapeless minecraft:glow_ink_sac
+immersive_paintings:glow_painting | minecraft:crafting_shapeless | immersive_paintings:glow_painting immersive_paintings:painting minecraft:crafting_shapeless minecraft:glow_ink_sac
+immersive_paintings:graffiti | minecraft:crafting_shaped | immersive_paintings:dye immersive_paintings:graffiti minecraft:bucket minecraft:crafting_shaped minecraft:gunpowder
+immersive_paintings:painting | minecraft:crafting_shaped | immersive_paintings:dye immersive_paintings:painting minecraft:crafting_shaped minecraft:paper

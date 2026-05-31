@@ -1,0 +1,6 @@
+netmusic:big_megaphone | minecraft:crafting_shaped | c:ingots/copper minecraft:crafting_shaped minecraft:note_block netmusic:big_megaphone
+netmusic:cd_burner | minecraft:crafting_shaped | c:ingots/copper c:nuggets/iron minecraft:crafting_shaped minecraft:lightning_rod minecraft:redstone netmusic:cd_burner
+netmusic:computer | minecraft:crafting_shaped | c:ingots/copper c:ingots/iron minecraft:clock minecraft:crafting_shaped minecraft:glass_pane minecraft:redstone netmusic:computer
+netmusic:music_cd | minecraft:crafting_shapeless | minecraft:brown_dye minecraft:clay_ball minecraft:crafting_shapeless minecraft:gray_dye netmusic:music_cd
+netmusic:music_player | minecraft:crafting_shaped | c:ingots/copper minecraft:crafting_shaped minecraft:lightning_rod minecraft:note_block minecraft:planks netmusic:music_player
+netmusic:tlm/music_player_backpack | touhou_little_maid:altar_recipe_serializers | minecraft:item netmusic:music_player netmusic:music_player_backpack touhou_little_maid:altar_recipe_serializers touhou_little_maid:maid_backpack_middle

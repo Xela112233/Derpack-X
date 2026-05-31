@@ -1,0 +1,2 @@
+bountiful:bountyboard | minecraft:crafting_shaped | bountiful:bountyboard minecraft:crafting_shaped minecraft:diamond minecraft:oak_log minecraft:oak_planks minecraft:paper
+bountiful:decree | minecraft:crafting_shaped | bountiful:decree minecraft:crafting_shaped minecraft:gold_ingot minecraft:paper minecraft:purple_dye minecraft:stick

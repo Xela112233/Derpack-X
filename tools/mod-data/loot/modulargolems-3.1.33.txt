@@ -1,0 +1,2 @@
+modulargolems:blocks/golem_workbench | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion modulargolems:blocks/golem_workbench modulargolems:golem_workbench
+modulargolems:golem_guide | minecraft:empty | minecraft:empty minecraft:item minecraft:set_components modulargolems:golem_guide patchouli:guide_book

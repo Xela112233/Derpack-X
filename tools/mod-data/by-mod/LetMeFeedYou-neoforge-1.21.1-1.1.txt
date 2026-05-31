@@ -1,0 +1,19 @@
+# LetMeFeedYou-neoforge-1.21.1-1.1
+
+## mod metadata (id / version / deps)
+license = "GPLv3"
+modId = "letmefeedyou" #mandatory
+version = "1.1" #mandatory
+displayName = "Let Me Feed You!" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,72 @@
+# exposure-neoforge-1.21.1-1.9.16
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="exposure"
+version="1.9.16"
+displayName="Exposure"
+modId="neoforge"
+versionRange="[21,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+modId = "create"
+versionRange = "[6.0.7,)"
+
+## blocks
+exposure:flash
+exposure:glass_photograph_frame_large
+exposure:glass_photograph_frame_medium
+exposure:glass_photograph_frame_small
+exposure:lightroom
+exposure:photograph_frame_large
+exposure:photograph_frame_medium
+exposure:photograph_frame_small
+
+## items
+exposure:aged_photograph
+exposure:album
+exposure:album_one
+exposure:album_three
+exposure:album_two
+exposure:black_and_white_film
+exposure:broken_interplanar_projector
+exposure:camera
+exposure:camera_active
+exposure:camera_gold
+exposure:camera_gold_active
+exposure:camera_gold_gui
+exposure:camera_gold_selfie
+exposure:camera_gui
+exposure:camera_parts/flash
+exposure:camera_parts/flash_gold
+exposure:camera_parts/lens
+exposure:camera_parts/lens_gold
+exposure:camera_parts/selfie_stick
+exposure:camera_parts/viewfinder
+exposure:camera_parts/viewfinder_gold
+exposure:camera_selfie
+exposure:camera_stand
+exposure:chromatic_sheet
+exposure:chromatic_sheet_one
+exposure:chromatic_sheet_three
+exposure:chromatic_sheet_two
+exposure:color_film
+exposure:developed_black_and_white_film
+exposure:developed_color_film
+exposure:glass_photograph_frame
+exposure:high_sensitivity_black_and_white_film
+exposure:high_sensitivity_color_film
+exposure:interplanar_projector
+exposure:interplanar_projector_active
+exposure:lightroom
+exposure:photograph
+exposure:photograph_frame
+exposure:selfie_stick
+exposure:signed_album
+exposure:stacked_photographs
+exposure:stacked_photographs_three
+exposure:stacked_photographs_two
+
+## neoforge biome_modifiers
+
+## c: common tag membership

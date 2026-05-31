@@ -1,0 +1,45 @@
+# oceansdelight-neoforge-1.0.4-1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="oceansdelight" #mandatory
+version="1.0.4" #mandatory
+displayName="Ocean's Delight" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.1.4,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.1,1.22)"
+
+## blocks
+oceansdelight:guardian_soup
+
+## items
+oceansdelight:baked_tentacle_on_a_stick
+oceansdelight:bowl_of_guardian_soup
+oceansdelight:braised_sea_pickle
+oceansdelight:cabbage_wrapped_elder_guardian
+oceansdelight:cooked_elder_guardian_slice
+oceansdelight:cooked_guardian_tail
+oceansdelight:cooked_stuffed_cod
+oceansdelight:cooked_stuffed_squid
+oceansdelight:cut_tentacles
+oceansdelight:elder_guardian_roll
+oceansdelight:elder_guardian_slab
+oceansdelight:elder_guardian_slice
+oceansdelight:fugu_roll
+oceansdelight:fugu_slice
+oceansdelight:guardian
+oceansdelight:guardian_soup
+oceansdelight:guardian_tail
+oceansdelight:honey_fried_kelp
+oceansdelight:kelp_encrusted_cod
+oceansdelight:seagrass_salad
+oceansdelight:squid_rings
+oceansdelight:stuffed_cod
+oceansdelight:stuffed_squid
+oceansdelight:tentacle_on_a_stick
+oceansdelight:tentacles
+
+## neoforge biome_modifiers
+
+## c: common tag membership

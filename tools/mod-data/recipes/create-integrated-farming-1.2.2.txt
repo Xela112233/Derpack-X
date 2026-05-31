@@ -1,0 +1,5 @@
+create_integrated_farming:crafting/fallback_fishing_net | minecraft:crafting_shaped | c:rods/wooden create:andesite_alloy create_integrated_farming:fishing_net minecraft:brown_wool minecraft:crafting_shaped neoforge:mod_loaded neoforge:not
+create_integrated_farming:crafting/fallback_roost | minecraft:crafting_shaped | create_integrated_farming:roost minecraft:bamboo minecraft:crafting_shaped minecraft:hay_block minecraft:wheat neoforge:mod_loaded neoforge:not
+create_integrated_farming:crafting/fishing_net | minecraft:crafting_shaped | c:rods/wooden create:andesite_alloy create_integrated_farming:fishing_net farmersdelight:safety_net minecraft:crafting_shaped neoforge:mod_loaded
+create_integrated_farming:crafting/lava_fishing_net | minecraft:crafting_shaped | create:andesite_alloy create_integrated_farming:lava_fishing_net minecraft:blaze_rod minecraft:chain minecraft:crafting_shaped neoforge:mod_loaded
+create_integrated_farming:crafting/roost | minecraft:crafting_shaped | create_integrated_farming:roost farmersdelight:canvas minecraft:bamboo minecraft:crafting_shaped minecraft:wheat neoforge:mod_loaded

@@ -1,0 +1,19 @@
+# sparsestructures-neoforge-1.21.1-3.0
+
+## mod metadata (id / version / deps)
+license = "MIT" # Review your options at https://choosealicense.com/.
+modId = "sparsestructures" #mandatory
+version = "3.0" #mandatory
+displayName = "SparseStructures" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.1.162,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1, 1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

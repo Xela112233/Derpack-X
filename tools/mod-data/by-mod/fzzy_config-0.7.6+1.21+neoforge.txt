@@ -1,0 +1,21 @@
+# fzzy_config-0.7.6+1.21+neoforge
+
+## mod metadata (id / version / deps)
+license = "TDL-M (https://github.com/fzzyhmstrs/Timefall-Development-Licence-Modified)"
+modId = "fzzy_config"
+version = "0.7.6+1.21+neoforge"
+displayName = "Fzzy Config"
+modId = "neoforge"
+versionRange = "[21.0.0-beta,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+modId = "kotlinforforge"
+versionRange = "[5.3.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

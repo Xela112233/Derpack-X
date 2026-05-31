@@ -1,0 +1,3 @@
+createblockchain:mechanical_crafting/currency_miner | create:mechanical_crafting | create:andesite_alloy create:brass_casing create:electron_tube create:mechanical_crafting create:redstone_link createaddition:copper_wire createaddition:iron_wire createblockchain:currency_miner numismatics:crown
+createblockchain:mixing/cryotheum_coolant | create:mixing | create:mixing create:powdered_obsidian createblockchain:cryotheum_coolant minecraft:ice minecraft:water
+createblockchain:remote_finder | minecraft:crafting_shaped | create:brass_casing create:electron_tube createblockchain:remote_finder minecraft:compass minecraft:crafting_shaped minecraft:iron_ingot minecraft:redstone_torch

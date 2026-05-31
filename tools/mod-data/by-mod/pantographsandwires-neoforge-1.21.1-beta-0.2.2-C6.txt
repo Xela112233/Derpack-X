@@ -1,0 +1,236 @@
+# pantographsandwires-neoforge-1.21.1-beta-0.2.2-C6
+
+## mod metadata (id / version / deps)
+license = "GNU General Public License v3.0"
+modId = "pantographsandwires"
+version = "1.21.1-beta-0.2.2-C6"
+displayName = "Create: Pantographs & Wires"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21.1,1.21.2)"
+modId = "dragonlib"
+versionRange = "[1.21.1-beta-3.0.24,)"
+modId = "create"
+versionRange = "[6.0.7,)"
+modId = "geckolib"
+versionRange = "[4.8.4,)"
+
+## blocks
+pantographsandwires:cantilever_bracket
+pantographsandwires:cantilever_bracket_at_post
+pantographsandwires:cantilever_bracket_at_post_exposed
+pantographsandwires:cantilever_bracket_at_post_galvanized
+pantographsandwires:cantilever_bracket_at_post_oxidized
+pantographsandwires:cantilever_bracket_at_post_weathered
+pantographsandwires:cantilever_bracket_exposed
+pantographsandwires:cantilever_bracket_galvanized
+pantographsandwires:cantilever_bracket_oxidized
+pantographsandwires:cantilever_bracket_vertical
+pantographsandwires:cantilever_bracket_vertical_exposed
+pantographsandwires:cantilever_bracket_vertical_galvanized
+pantographsandwires:cantilever_bracket_vertical_oxidized
+pantographsandwires:cantilever_bracket_vertical_weathered
+pantographsandwires:cantilever_bracket_weathered
+pantographsandwires:cantilever_brown
+pantographsandwires:cantilever_green
+pantographsandwires:coal_coke_block
+pantographsandwires:concrete_pillar
+pantographsandwires:concrete_pillar_exposed
+pantographsandwires:concrete_pillar_oxidized
+pantographsandwires:concrete_pillar_weathered
+pantographsandwires:concrete_post
+pantographsandwires:concrete_post_exposed
+pantographsandwires:concrete_post_oxidized
+pantographsandwires:concrete_post_weathered
+pantographsandwires:flat_lattice_mast
+pantographsandwires:flat_lattice_mast_diagonal
+pantographsandwires:flat_lattice_mast_diagonal_exposed
+pantographsandwires:flat_lattice_mast_diagonal_galvanized
+pantographsandwires:flat_lattice_mast_diagonal_oxidized
+pantographsandwires:flat_lattice_mast_diagonal_weathered
+pantographsandwires:flat_lattice_mast_exposed
+pantographsandwires:flat_lattice_mast_galvanized
+pantographsandwires:flat_lattice_mast_oxidized
+pantographsandwires:flat_lattice_mast_weathered
+pantographsandwires:graphite_block
+pantographsandwires:h_beam_mast
+pantographsandwires:h_beam_mast_exposed
+pantographsandwires:h_beam_mast_galvanized
+pantographsandwires:h_beam_mast_oxidized
+pantographsandwires:h_beam_mast_weathered
+pantographsandwires:insulator_brown
+pantographsandwires:insulator_green
+pantographsandwires:lattice_mast
+pantographsandwires:lattice_mast_exposed
+pantographsandwires:lattice_mast_galvanized
+pantographsandwires:lattice_mast_oxidized
+pantographsandwires:lattice_mast_weathered
+pantographsandwires:pantograph
+pantographsandwires:power_line_bracket
+pantographsandwires:power_line_bracket_exposed
+pantographsandwires:power_line_bracket_galvanized
+pantographsandwires:power_line_bracket_oxidized
+pantographsandwires:power_line_bracket_weathered
+pantographsandwires:registration_arm
+pantographsandwires:tensioning_device
+pantographsandwires:u_insulator_brown
+pantographsandwires:u_insulator_green
+pantographsandwires:v_insulator_brown
+pantographsandwires:v_insulator_green
+pantographsandwires:waxed_cantilever_bracket
+pantographsandwires:waxed_cantilever_bracket_at_post
+pantographsandwires:waxed_cantilever_bracket_at_post_exposed
+pantographsandwires:waxed_cantilever_bracket_at_post_oxidized
+pantographsandwires:waxed_cantilever_bracket_at_post_weathered
+pantographsandwires:waxed_cantilever_bracket_exposed
+pantographsandwires:waxed_cantilever_bracket_oxidized
+pantographsandwires:waxed_cantilever_bracket_vertical
+pantographsandwires:waxed_cantilever_bracket_vertical_exposed
+pantographsandwires:waxed_cantilever_bracket_vertical_oxidized
+pantographsandwires:waxed_cantilever_bracket_vertical_weathered
+pantographsandwires:waxed_cantilever_bracket_weathered
+pantographsandwires:waxed_concrete_pillar
+pantographsandwires:waxed_concrete_pillar_exposed
+pantographsandwires:waxed_concrete_pillar_oxidized
+pantographsandwires:waxed_concrete_pillar_weathered
+pantographsandwires:waxed_concrete_post
+pantographsandwires:waxed_concrete_post_exposed
+pantographsandwires:waxed_concrete_post_oxidized
+pantographsandwires:waxed_concrete_post_weathered
+pantographsandwires:waxed_flat_lattice_mast
+pantographsandwires:waxed_flat_lattice_mast_diagonal
+pantographsandwires:waxed_flat_lattice_mast_diagonal_exposed
+pantographsandwires:waxed_flat_lattice_mast_diagonal_oxidized
+pantographsandwires:waxed_flat_lattice_mast_diagonal_weathered
+pantographsandwires:waxed_flat_lattice_mast_exposed
+pantographsandwires:waxed_flat_lattice_mast_oxidized
+pantographsandwires:waxed_flat_lattice_mast_weathered
+pantographsandwires:waxed_h_beam_mast
+pantographsandwires:waxed_h_beam_mast_exposed
+pantographsandwires:waxed_h_beam_mast_oxidized
+pantographsandwires:waxed_h_beam_mast_weathered
+pantographsandwires:waxed_lattice_mast
+pantographsandwires:waxed_lattice_mast_exposed
+pantographsandwires:waxed_lattice_mast_oxidized
+pantographsandwires:waxed_lattice_mast_weathered
+pantographsandwires:waxed_power_line_bracket
+pantographsandwires:waxed_power_line_bracket_exposed
+pantographsandwires:waxed_power_line_bracket_oxidized
+pantographsandwires:waxed_power_line_bracket_weathered
+
+## items
+pantographsandwires:cantilever_bracket
+pantographsandwires:cantilever_bracket_exposed
+pantographsandwires:cantilever_bracket_galvanized
+pantographsandwires:cantilever_bracket_oxidized
+pantographsandwires:cantilever_bracket_weathered
+pantographsandwires:cantilever_brown
+pantographsandwires:cantilever_green
+pantographsandwires:cantilever_incomplete
+pantographsandwires:coal_coke
+pantographsandwires:coal_coke_block
+pantographsandwires:concrete_pillar
+pantographsandwires:concrete_pillar_exposed
+pantographsandwires:concrete_pillar_oxidized
+pantographsandwires:concrete_pillar_weathered
+pantographsandwires:concrete_post
+pantographsandwires:concrete_post_exposed
+pantographsandwires:concrete_post_oxidized
+pantographsandwires:concrete_post_weathered
+pantographsandwires:copper_wire
+pantographsandwires:crushed_coal_coke
+pantographsandwires:empty_wire_coil
+pantographsandwires:flat_lattice_mast
+pantographsandwires:flat_lattice_mast_diagonal
+pantographsandwires:flat_lattice_mast_diagonal_exposed
+pantographsandwires:flat_lattice_mast_diagonal_galvanized
+pantographsandwires:flat_lattice_mast_diagonal_oxidized
+pantographsandwires:flat_lattice_mast_diagonal_weathered
+pantographsandwires:flat_lattice_mast_exposed
+pantographsandwires:flat_lattice_mast_galvanized
+pantographsandwires:flat_lattice_mast_oxidized
+pantographsandwires:flat_lattice_mast_weathered
+pantographsandwires:graphite_block
+pantographsandwires:graphite_ingot
+pantographsandwires:h_beam_mast
+pantographsandwires:h_beam_mast_exposed
+pantographsandwires:h_beam_mast_galvanized
+pantographsandwires:h_beam_mast_oxidized
+pantographsandwires:h_beam_mast_weathered
+pantographsandwires:insulator_brown
+pantographsandwires:insulator_green
+pantographsandwires:iron_rod
+pantographsandwires:iron_rod_bundle
+pantographsandwires:iron_strip
+pantographsandwires:lattice_mast
+pantographsandwires:lattice_mast_exposed
+pantographsandwires:lattice_mast_galvanized
+pantographsandwires:lattice_mast_oxidized
+pantographsandwires:lattice_mast_weathered
+pantographsandwires:mod_icon
+pantographsandwires:pantograph
+pantographsandwires:pencil
+pantographsandwires:power_line_bracket
+pantographsandwires:power_line_bracket_exposed
+pantographsandwires:power_line_bracket_galvanized
+pantographsandwires:power_line_bracket_oxidized
+pantographsandwires:power_line_bracket_weathered
+pantographsandwires:tensioning_device
+pantographsandwires:u_insulator_brown
+pantographsandwires:u_insulator_green
+pantographsandwires:v_insulator_brown
+pantographsandwires:v_insulator_green
+pantographsandwires:waxed_cantilever_bracket
+pantographsandwires:waxed_cantilever_bracket_exposed
+pantographsandwires:waxed_cantilever_bracket_oxidized
+pantographsandwires:waxed_cantilever_bracket_weathered
+pantographsandwires:waxed_concrete_pillar
+pantographsandwires:waxed_concrete_pillar_exposed
+pantographsandwires:waxed_concrete_pillar_oxidized
+pantographsandwires:waxed_concrete_pillar_weathered
+pantographsandwires:waxed_concrete_post
+pantographsandwires:waxed_concrete_post_exposed
+pantographsandwires:waxed_concrete_post_oxidized
+pantographsandwires:waxed_concrete_post_weathered
+pantographsandwires:waxed_flat_lattice_mast
+pantographsandwires:waxed_flat_lattice_mast_diagonal
+pantographsandwires:waxed_flat_lattice_mast_diagonal_exposed
+pantographsandwires:waxed_flat_lattice_mast_diagonal_oxidized
+pantographsandwires:waxed_flat_lattice_mast_diagonal_weathered
+pantographsandwires:waxed_flat_lattice_mast_exposed
+pantographsandwires:waxed_flat_lattice_mast_oxidized
+pantographsandwires:waxed_flat_lattice_mast_weathered
+pantographsandwires:waxed_h_beam_mast
+pantographsandwires:waxed_h_beam_mast_exposed
+pantographsandwires:waxed_h_beam_mast_oxidized
+pantographsandwires:waxed_h_beam_mast_weathered
+pantographsandwires:waxed_lattice_mast
+pantographsandwires:waxed_lattice_mast_exposed
+pantographsandwires:waxed_lattice_mast_oxidized
+pantographsandwires:waxed_lattice_mast_weathered
+pantographsandwires:waxed_power_line_bracket
+pantographsandwires:waxed_power_line_bracket_exposed
+pantographsandwires:waxed_power_line_bracket_oxidized
+pantographsandwires:waxed_power_line_bracket_weathered
+pantographsandwires:wire_coil
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+blocks/storage_blocks.json :: { "replace": false, "values": [ "pantographsandwires:graphite_block", "pantographsandwires:coal_coke_block" ]}
+blocks/storage_blocks/coal_coke.json :: { "replace": false, "values": [ "pantographsandwires:coal_coke_block" ]}
+blocks/storage_blocks/graphite.json :: { "replace": false, "values": [ "pantographsandwires:graphite_block" ]}
+item/coal_coke.json :: { "replace": false, "values": [ "pantographsandwires:coal_coke" ]}
+item/copper_wires.json :: { "replace": false, "values": [ "pantographsandwires:copper_wire" ]}
+item/dusts/coal_coke.json :: { "replace": false, "values": [ "pantographsandwires:crushed_coal_coke" ]}
+item/graphite_ingots.json :: { "replace": false, "values": [ "pantographsandwires:graphite_ingot" ]}
+item/ingots/graphite.json :: { "replace": false, "values": [ "pantographsandwires:graphite_ingot" ]}
+item/iron_rods.json :: { "replace": false, "values": [ "pantographsandwires:iron_rod" ]}
+item/rods/all_metal.json :: { "replace": false, "values": [ "pantographsandwires:iron_rod" ]}
+item/rods/iron.json :: { "replace": false, "values": [ "pantographsandwires:iron_rod" ]}
+item/storage_blocks.json :: { "replace": false, "values": [ "pantographsandwires:graphite_block", "pantographsandwires:coal_coke_block" ]}
+item/storage_blocks/coal_coke.json :: { "replace": false, "values": [ "pantographsandwires:coal_coke_block" ]}
+item/storage_blocks/graphite.json :: { "replace": false, "values": [ "pantographsandwires:graphite_block" ]}
+item/wires.json :: { "replace": false, "values": [ "pantographsandwires:copper_wire" ]}
+item/wires/copper.json :: { "replace": false, "values": [ "pantographsandwires:copper_wire" ]}

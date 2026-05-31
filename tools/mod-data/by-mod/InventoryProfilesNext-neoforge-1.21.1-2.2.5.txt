@@ -1,0 +1,21 @@
+# InventoryProfilesNext-neoforge-1.21.1-2.2.5
+
+## mod metadata (id / version / deps)
+license="AGPL-3"
+modId="inventoryprofilesnext"
+version="2.2.5"
+displayName="Inventory Profiles Next"
+modId="neoforge"
+versionRange="[21, 22.2)"
+modId="minecraft"
+versionRange="[1.21.1, 1.21.2)"
+modId="libipn"
+versionRange="[6.6.3, 6.7)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

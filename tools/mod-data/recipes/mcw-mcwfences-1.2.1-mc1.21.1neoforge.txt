@@ -1,0 +1,222 @@
+mcwfences:acacia_curved_gate | minecraft:crafting_shaped | mcwfences:acacia_curved_gate minecraft:acacia_log minecraft:acacia_planks minecraft:crafting_shaped
+mcwfences:acacia_hedge | minecraft:crafting_shaped | mcwfences:acacia_hedge minecraft:acacia_leaves minecraft:crafting_shaped
+mcwfences:acacia_highley_gate | minecraft:crafting_shaped | mcwfences:acacia_highley_gate minecraft:acacia_log minecraft:crafting_shaped minecraft:stick
+mcwfences:acacia_horse_fence | minecraft:crafting_shaped | mcwfences:acacia_horse_fence minecraft:acacia_log minecraft:crafting_shaped minecraft:stick
+mcwfences:acacia_picket_fence | minecraft:crafting_shaped | mcwfences:acacia_picket_fence minecraft:acacia_log minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick
+mcwfences:acacia_pyramid_gate | minecraft:crafting_shaped | mcwfences:acacia_pyramid_gate minecraft:acacia_log minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick
+mcwfences:acacia_stockade_fence | minecraft:crafting_shaped | mcwfences:acacia_stockade_fence minecraft:acacia_log minecraft:acacia_planks minecraft:crafting_shaped
+mcwfences:acacia_wired_fence | minecraft:crafting_shaped | mcwfences:acacia_wired_fence minecraft:acacia_log minecraft:crafting_shaped minecraft:iron_bars minecraft:stick
+mcwfences:acorn_metal_fence | minecraft:stonecutting | mcwfences:acorn_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:andesite_grass_topped_wall | minecraft:crafting_shaped | mcwfences:andesite_grass_topped_wall minecraft:andesite minecraft:crafting_shaped minecraft:dirt minecraft:polished_andesite
+mcwfences:andesite_pillar_wall | minecraft:crafting_shaped | mcwfences:andesite_pillar_wall minecraft:andesite minecraft:crafting_shaped minecraft:polished_andesite
+mcwfences:andesite_railing_gate | minecraft:crafting_shaped | mcwfences:andesite_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:polished_andesite
+mcwfences:andesite_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:andesite_railing_gate minecraft:andesite minecraft:stonecutting
+mcwfences:azalea_hedge | minecraft:crafting_shaped | mcwfences:azalea_hedge minecraft:azalea_leaves minecraft:crafting_shaped
+mcwfences:bamboo_curved_gate | minecraft:crafting_shaped | mcwfences:bamboo_curved_gate minecraft:bamboo_block minecraft:bamboo_planks minecraft:crafting_shaped
+mcwfences:bamboo_fence | minecraft:crafting_shaped | mcwfences:bamboo_fence minecraft:bamboo minecraft:crafting_shaped
+mcwfences:bamboo_highley_gate | minecraft:crafting_shaped | mcwfences:bamboo_highley_gate minecraft:crafting_shaped minecraft:stick minecraft:stripped_bamboo_block
+mcwfences:bamboo_horse_fence | minecraft:crafting_shaped | mcwfences:bamboo_horse_fence minecraft:crafting_shaped minecraft:stick minecraft:stripped_bamboo_block
+mcwfences:bamboo_picket_fence | minecraft:crafting_shaped | mcwfences:bamboo_picket_fence minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick minecraft:stripped_bamboo_block
+mcwfences:bamboo_pyramid_gate | minecraft:crafting_shaped | mcwfences:bamboo_pyramid_gate minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick minecraft:stripped_bamboo_block
+mcwfences:bamboo_stockade_fence | minecraft:crafting_shaped | mcwfences:bamboo_stockade_fence minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stripped_bamboo_block
+mcwfences:bamboo_wired_fence | minecraft:crafting_shaped | mcwfences:bamboo_wired_fence minecraft:crafting_shaped minecraft:iron_bars minecraft:stick minecraft:stripped_bamboo_block
+mcwfences:bastion_metal_fence | minecraft:stonecutting | mcwfences:bastion_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:bastion_metal_fence_gate | minecraft:crafting_shaped | mcwfences:bastion_metal_fence mcwfences:bastion_metal_fence_gate minecraft:crafting_shaped
+mcwfences:birch_curved_gate | minecraft:crafting_shaped | mcwfences:birch_curved_gate minecraft:birch_log minecraft:birch_planks minecraft:crafting_shaped
+mcwfences:birch_hedge | minecraft:crafting_shaped | mcwfences:birch_hedge minecraft:birch_leaves minecraft:crafting_shaped
+mcwfences:birch_highley_gate | minecraft:crafting_shaped | mcwfences:birch_highley_gate minecraft:birch_log minecraft:crafting_shaped minecraft:stick
+mcwfences:birch_horse_fence | minecraft:crafting_shaped | mcwfences:birch_horse_fence minecraft:birch_log minecraft:crafting_shaped minecraft:stick
+mcwfences:birch_picket_fence | minecraft:crafting_shaped | mcwfences:birch_picket_fence minecraft:birch_log minecraft:birch_planks minecraft:crafting_shaped minecraft:stick
+mcwfences:birch_pyramid_gate | minecraft:crafting_shaped | mcwfences:birch_pyramid_gate minecraft:birch_log minecraft:birch_planks minecraft:crafting_shaped minecraft:stick
+mcwfences:birch_stockade_fence | minecraft:crafting_shaped | mcwfences:birch_stockade_fence minecraft:birch_log minecraft:birch_planks minecraft:crafting_shaped
+mcwfences:birch_wired_fence | minecraft:crafting_shaped | mcwfences:birch_wired_fence minecraft:birch_log minecraft:crafting_shaped minecraft:iron_bars minecraft:stick
+mcwfences:blackstone_brick_railing_gate | minecraft:crafting_shaped | mcwfences:blackstone_brick_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:polished_blackstone_bricks
+mcwfences:blackstone_grass_topped_wall | minecraft:crafting_shaped | mcwfences:blackstone_grass_topped_wall minecraft:blackstone minecraft:crafting_shaped minecraft:dirt minecraft:polished_blackstone_bricks
+mcwfences:blackstone_pillar_wall | minecraft:crafting_shaped | mcwfences:blackstone_pillar_wall minecraft:blackstone minecraft:crafting_shaped minecraft:polished_blackstone_bricks
+mcwfences:blackstone_railing_gate | minecraft:crafting_shaped | mcwfences:blackstone_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:polished_blackstone
+mcwfences:blackstone_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:blackstone_railing_gate minecraft:blackstone minecraft:stonecutting
+mcwfences:cathedral_metal_fence | minecraft:stonecutting | mcwfences:cathedral_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:cherry_curved_gate | minecraft:crafting_shaped | mcwfences:cherry_curved_gate minecraft:cherry_log minecraft:cherry_planks minecraft:crafting_shaped
+mcwfences:cherry_hedge | minecraft:crafting_shaped | mcwfences:cherry_hedge minecraft:cherry_leaves minecraft:crafting_shaped
+mcwfences:cherry_highley_gate | minecraft:crafting_shaped | mcwfences:cherry_highley_gate minecraft:cherry_log minecraft:crafting_shaped minecraft:stick
+mcwfences:cherry_horse_fence | minecraft:crafting_shaped | mcwfences:cherry_horse_fence minecraft:cherry_log minecraft:crafting_shaped minecraft:stick
+mcwfences:cherry_picket_fence | minecraft:crafting_shaped | mcwfences:cherry_picket_fence minecraft:cherry_log minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick
+mcwfences:cherry_pyramid_gate | minecraft:crafting_shaped | mcwfences:cherry_pyramid_gate minecraft:cherry_log minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick
+mcwfences:cherry_stockade_fence | minecraft:crafting_shaped | mcwfences:cherry_stockade_fence minecraft:cherry_log minecraft:cherry_planks minecraft:crafting_shaped
+mcwfences:cherry_wired_fence | minecraft:crafting_shaped | mcwfences:cherry_wired_fence minecraft:cherry_log minecraft:crafting_shaped minecraft:iron_bars minecraft:stick
+mcwfences:crimson_curved_gate | minecraft:crafting_shaped | mcwfences:crimson_curved_gate minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_stem
+mcwfences:crimson_highley_gate | minecraft:crafting_shaped | mcwfences:crimson_highley_gate minecraft:crafting_shaped minecraft:crimson_stem minecraft:stick
+mcwfences:crimson_horse_fence | minecraft:crafting_shaped | mcwfences:crimson_horse_fence minecraft:crafting_shaped minecraft:crimson_stem minecraft:stick
+mcwfences:crimson_picket_fence | minecraft:crafting_shaped | mcwfences:crimson_picket_fence minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_stem minecraft:stick
+mcwfences:crimson_pyramid_gate | minecraft:crafting_shaped | mcwfences:crimson_pyramid_gate minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_stem minecraft:stick
+mcwfences:crimson_stockade_fence | minecraft:crafting_shaped | mcwfences:crimson_stockade_fence minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_stem
+mcwfences:crimson_wired_fence | minecraft:crafting_shaped | mcwfences:crimson_wired_fence minecraft:crafting_shaped minecraft:crimson_stem minecraft:iron_bars minecraft:stick
+mcwfences:curved_metal_fence | minecraft:stonecutting | mcwfences:curved_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:curved_metal_fence_gate | minecraft:crafting_shaped | mcwfences:curved_metal_fence mcwfences:curved_metal_fence_gate minecraft:crafting_shaped
+mcwfences:dark_oak_curved_gate | minecraft:crafting_shaped | mcwfences:dark_oak_curved_gate minecraft:crafting_shaped minecraft:dark_oak_log minecraft:dark_oak_planks
+mcwfences:dark_oak_hedge | minecraft:crafting_shaped | mcwfences:dark_oak_hedge minecraft:crafting_shaped minecraft:dark_oak_leaves
+mcwfences:dark_oak_highley_gate | minecraft:crafting_shaped | mcwfences:dark_oak_highley_gate minecraft:crafting_shaped minecraft:dark_oak_log minecraft:stick
+mcwfences:dark_oak_horse_fence | minecraft:crafting_shaped | mcwfences:dark_oak_horse_fence minecraft:crafting_shaped minecraft:dark_oak_log minecraft:stick
+mcwfences:dark_oak_picket_fence | minecraft:crafting_shaped | mcwfences:dark_oak_picket_fence minecraft:crafting_shaped minecraft:dark_oak_log minecraft:dark_oak_planks minecraft:stick
+mcwfences:dark_oak_pyramid_gate | minecraft:crafting_shaped | mcwfences:dark_oak_pyramid_gate minecraft:crafting_shaped minecraft:dark_oak_log minecraft:dark_oak_planks minecraft:stick
+mcwfences:dark_oak_stockade_fence | minecraft:crafting_shaped | mcwfences:dark_oak_stockade_fence minecraft:crafting_shaped minecraft:dark_oak_log minecraft:dark_oak_planks
+mcwfences:dark_oak_wired_fence | minecraft:crafting_shaped | mcwfences:dark_oak_wired_fence minecraft:crafting_shaped minecraft:dark_oak_log minecraft:iron_bars minecraft:stick
+mcwfences:deepslate_brick_grass_topped_wall | minecraft:crafting_shaped | mcwfences:deepslate_brick_grass_topped_wall minecraft:crafting_shaped minecraft:deepslate_bricks minecraft:deepslate_tiles minecraft:dirt
+mcwfences:deepslate_brick_pillar_wall | minecraft:crafting_shaped | mcwfences:deepslate_brick_pillar_wall minecraft:crafting_shaped minecraft:deepslate_bricks minecraft:deepslate_tiles
+mcwfences:deepslate_brick_railing_gate | minecraft:crafting_shaped | mcwfences:deepslate_brick_railing_gate minecraft:crafting_shaped minecraft:deepslate_bricks minecraft:iron_bars
+mcwfences:deepslate_brick_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:deepslate_brick_railing_gate minecraft:deepslate_bricks minecraft:stonecutting
+mcwfences:deepslate_grass_topped_wall | minecraft:crafting_shaped | mcwfences:deepslate_grass_topped_wall minecraft:crafting_shaped minecraft:deepslate minecraft:dirt minecraft:polished_deepslate
+mcwfences:deepslate_pillar_wall | minecraft:crafting_shaped | mcwfences:deepslate_pillar_wall minecraft:crafting_shaped minecraft:deepslate minecraft:polished_deepslate
+mcwfences:deepslate_railing_gate | minecraft:crafting_shaped | mcwfences:deepslate_railing_gate minecraft:crafting_shaped minecraft:deepslate minecraft:iron_bars
+mcwfences:deepslate_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:deepslate_railing_gate minecraft:polished_deepslate minecraft:stonecutting
+mcwfences:diorite_grass_topped_wall | minecraft:crafting_shaped | mcwfences:diorite_grass_topped_wall minecraft:crafting_shaped minecraft:diorite minecraft:dirt minecraft:polished_diorite
+mcwfences:diorite_pillar_wall | minecraft:crafting_shaped | mcwfences:diorite_pillar_wall minecraft:crafting_shaped minecraft:diorite minecraft:polished_diorite
+mcwfences:diorite_railing_gate | minecraft:crafting_shaped | mcwfences:diorite_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:polished_diorite
+mcwfences:diorite_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:diorite_railing_gate minecraft:diorite minecraft:stonecutting
+mcwfences:double_curved_metal_fence | minecraft:stonecutting | mcwfences:double_curved_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:end_brick_grass_topped_wall | minecraft:crafting_shaped | mcwfences:end_brick_grass_topped_wall minecraft:crafting_shaped minecraft:dirt minecraft:end_stone minecraft:end_stone_bricks
+mcwfences:end_brick_pillar_wall | minecraft:crafting_shaped | mcwfences:end_brick_pillar_wall minecraft:crafting_shaped minecraft:end_stone minecraft:end_stone_bricks
+mcwfences:end_brick_railing_gate | minecraft:crafting_shaped | mcwfences:end_brick_railing_gate minecraft:crafting_shaped minecraft:end_stone_bricks minecraft:iron_bars
+mcwfences:end_brick_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:end_brick_railing_gate minecraft:end_stone_bricks minecraft:stonecutting
+mcwfences:expanded_mesh_metal_fence | minecraft:stonecutting | mcwfences:expanded_mesh_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:flowering_azalea_hedge | minecraft:crafting_shaped | mcwfences:flowering_azalea_hedge minecraft:crafting_shaped minecraft:flowering_azalea_leaves
+mcwfences:fortress_metal_fence | minecraft:stonecutting | mcwfences:fortress_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:gothic_metal_fence | minecraft:stonecutting | mcwfences:gothic_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:granite_grass_topped_wall | minecraft:crafting_shaped | mcwfences:granite_grass_topped_wall minecraft:crafting_shaped minecraft:dirt minecraft:granite minecraft:polished_granite
+mcwfences:granite_pillar_wall | minecraft:crafting_shaped | mcwfences:granite_pillar_wall minecraft:crafting_shaped minecraft:granite minecraft:polished_granite
+mcwfences:granite_railing_gate | minecraft:crafting_shaped | mcwfences:granite_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:polished_granite
+mcwfences:granite_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:granite_railing_gate minecraft:granite minecraft:stonecutting
+mcwfences:guardian_metal_fence | minecraft:stonecutting | mcwfences:guardian_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:iron_cheval_de_frise | minecraft:crafting_shaped | mcwfences:iron_cheval_de_frise minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_nugget
+mcwfences:jungle_curved_gate | minecraft:crafting_shaped | mcwfences:jungle_curved_gate minecraft:crafting_shaped minecraft:jungle_log minecraft:jungle_planks
+mcwfences:jungle_hedge | minecraft:crafting_shaped | mcwfences:jungle_hedge minecraft:crafting_shaped minecraft:jungle_leaves
+mcwfences:jungle_highley_gate | minecraft:crafting_shaped | mcwfences:jungle_highley_gate minecraft:crafting_shaped minecraft:jungle_log minecraft:stick
+mcwfences:jungle_horse_fence | minecraft:crafting_shaped | mcwfences:jungle_horse_fence minecraft:crafting_shaped minecraft:jungle_log minecraft:stick
+mcwfences:jungle_picket_fence | minecraft:crafting_shaped | mcwfences:jungle_picket_fence minecraft:crafting_shaped minecraft:jungle_log minecraft:jungle_planks minecraft:stick
+mcwfences:jungle_pyramid_gate | minecraft:crafting_shaped | mcwfences:jungle_pyramid_gate minecraft:crafting_shaped minecraft:jungle_log minecraft:jungle_planks minecraft:stick
+mcwfences:jungle_stockade_fence | minecraft:crafting_shaped | mcwfences:jungle_stockade_fence minecraft:crafting_shaped minecraft:jungle_log minecraft:jungle_planks
+mcwfences:jungle_wired_fence | minecraft:crafting_shaped | mcwfences:jungle_wired_fence minecraft:crafting_shaped minecraft:iron_bars minecraft:jungle_log minecraft:stick
+mcwfences:majestic_metal_fence_gate | minecraft:crafting_shaped | mcwfences:acorn_metal_fence mcwfences:majestic_metal_fence_gate minecraft:crafting_shaped
+mcwfences:mangrove_curved_gate | minecraft:crafting_shaped | mcwfences:mangrove_curved_gate minecraft:crafting_shaped minecraft:mangrove_log minecraft:mangrove_planks
+mcwfences:mangrove_hedge | minecraft:crafting_shaped | mcwfences:mangrove_hedge minecraft:crafting_shaped minecraft:mangrove_leaves
+mcwfences:mangrove_highley_gate | minecraft:crafting_shaped | mcwfences:mangrove_highley_gate minecraft:crafting_shaped minecraft:mangrove_log minecraft:stick
+mcwfences:mangrove_horse_fence | minecraft:crafting_shaped | mcwfences:mangrove_horse_fence minecraft:crafting_shaped minecraft:mangrove_log minecraft:stick
+mcwfences:mangrove_picket_fence | minecraft:crafting_shaped | mcwfences:mangrove_picket_fence minecraft:crafting_shaped minecraft:mangrove_log minecraft:mangrove_planks minecraft:stick
+mcwfences:mangrove_pyramid_gate | minecraft:crafting_shaped | mcwfences:mangrove_pyramid_gate minecraft:crafting_shaped minecraft:mangrove_log minecraft:mangrove_planks minecraft:stick
+mcwfences:mangrove_stockade_fence | minecraft:crafting_shaped | mcwfences:mangrove_stockade_fence minecraft:crafting_shaped minecraft:mangrove_log minecraft:mangrove_planks
+mcwfences:mangrove_wired_fence | minecraft:crafting_shaped | mcwfences:mangrove_wired_fence minecraft:crafting_shaped minecraft:iron_bars minecraft:mangrove_log minecraft:stick
+mcwfences:mesh_metal_fence | minecraft:stonecutting | mcwfences:mesh_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:mesh_metal_fence_gate | minecraft:crafting_shaped | mcwfences:mesh_metal_fence mcwfences:mesh_metal_fence_gate minecraft:crafting_shaped
+mcwfences:modern_andesite_wall | minecraft:crafting_shaped | mcwfences:modern_andesite_wall minecraft:andesite minecraft:crafting_shaped minecraft:polished_andesite
+mcwfences:modern_andesite_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_andesite_wall minecraft:andesite minecraft:stonecutting
+mcwfences:modern_blackstone_wall | minecraft:crafting_shaped | mcwfences:modern_blackstone_wall minecraft:blackstone minecraft:crafting_shaped minecraft:polished_blackstone_bricks
+mcwfences:modern_blackstone_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_blackstone_wall minecraft:blackstone minecraft:stonecutting
+mcwfences:modern_deepslate_brick_wall | minecraft:crafting_shaped | mcwfences:modern_deepslate_brick_wall minecraft:crafting_shaped minecraft:deepslate_bricks minecraft:deepslate_tiles
+mcwfences:modern_deepslate_brick_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_deepslate_brick_wall minecraft:deepslate_bricks minecraft:stonecutting
+mcwfences:modern_deepslate_wall | minecraft:crafting_shaped | mcwfences:modern_deepslate_wall minecraft:crafting_shaped minecraft:deepslate minecraft:polished_deepslate
+mcwfences:modern_deepslate_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_deepslate_wall minecraft:polished_deepslate minecraft:stonecutting
+mcwfences:modern_diorite_wall | minecraft:crafting_shaped | mcwfences:modern_diorite_wall minecraft:crafting_shaped minecraft:diorite minecraft:polished_diorite
+mcwfences:modern_diorite_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_diorite_wall minecraft:diorite minecraft:stonecutting
+mcwfences:modern_end_brick_wall | minecraft:crafting_shaped | mcwfences:modern_end_brick_wall minecraft:crafting_shaped minecraft:end_stone minecraft:end_stone_bricks
+mcwfences:modern_end_brick_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_end_brick_wall minecraft:end_stone_bricks minecraft:stonecutting
+mcwfences:modern_granite_wall | minecraft:crafting_shaped | mcwfences:modern_granite_wall minecraft:crafting_shaped minecraft:granite minecraft:polished_granite
+mcwfences:modern_granite_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_granite_wall minecraft:granite minecraft:stonecutting
+mcwfences:modern_mud_brick_wall | minecraft:crafting_shaped | mcwfences:modern_mud_brick_wall minecraft:crafting_shaped minecraft:mud_bricks minecraft:packed_mud
+mcwfences:modern_mud_brick_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_mud_brick_wall minecraft:mud_bricks minecraft:stonecutting
+mcwfences:modern_nether_brick_wall | minecraft:crafting_shaped | mcwfences:modern_nether_brick_wall minecraft:crafting_shaped minecraft:nether_bricks minecraft:netherrack
+mcwfences:modern_nether_brick_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_nether_brick_wall minecraft:nether_bricks minecraft:stonecutting
+mcwfences:modern_prismarine_wall | minecraft:crafting_shaped | mcwfences:modern_prismarine_wall minecraft:crafting_shaped minecraft:prismarine minecraft:prismarine_bricks
+mcwfences:modern_prismarine_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_prismarine_wall minecraft:prismarine minecraft:stonecutting
+mcwfences:modern_quartz_wall | minecraft:crafting_shaped | mcwfences:modern_quartz_wall minecraft:crafting_shaped minecraft:quartz_block minecraft:quartz_bricks
+mcwfences:modern_quartz_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_quartz_wall minecraft:quartz_block minecraft:stonecutting
+mcwfences:modern_red_sandstone_wall | minecraft:crafting_shaped | mcwfences:modern_red_sandstone_wall minecraft:crafting_shaped minecraft:red_sandstone minecraft:smooth_red_sandstone
+mcwfences:modern_red_sandstone_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_red_sandstone_wall minecraft:red_sandstone minecraft:stonecutting
+mcwfences:modern_sandstone_wall | minecraft:crafting_shaped | mcwfences:modern_sandstone_wall minecraft:crafting_shaped minecraft:sandstone minecraft:smooth_sandstone
+mcwfences:modern_sandstone_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_sandstone_wall minecraft:sandstone minecraft:stonecutting
+mcwfences:modern_stone_brick_wall | minecraft:crafting_shaped | mcwfences:modern_stone_brick_wall minecraft:cobblestone minecraft:crafting_shaped minecraft:stone_bricks
+mcwfences:modern_stone_brick_wall_stonecutter | minecraft:stonecutting | mcwfences:modern_stone_brick_wall minecraft:stone_bricks minecraft:stonecutting
+mcwfences:mud_brick_grass_topped_wall | minecraft:crafting_shaped | mcwfences:mud_brick_grass_topped_wall minecraft:crafting_shaped minecraft:dirt minecraft:mud_bricks minecraft:packed_mud
+mcwfences:mud_brick_pillar_wall | minecraft:crafting_shaped | mcwfences:mud_brick_pillar_wall minecraft:crafting_shaped minecraft:mud_bricks minecraft:packed_mud
+mcwfences:mud_brick_railing_gate | minecraft:crafting_shaped | mcwfences:mud_brick_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:mud_bricks
+mcwfences:mud_brick_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:mud_brick_railing_gate minecraft:mud_bricks minecraft:stonecutting
+mcwfences:nether_brick_grass_topped_wall | minecraft:crafting_shaped | mcwfences:nether_brick_grass_topped_wall minecraft:crafting_shaped minecraft:dirt minecraft:nether_bricks minecraft:netherrack
+mcwfences:nether_brick_pillar_wall | minecraft:crafting_shaped | mcwfences:nether_brick_pillar_wall minecraft:crafting_shaped minecraft:nether_bricks minecraft:netherrack
+mcwfences:nether_brick_railing_gate | minecraft:crafting_shaped | mcwfences:nether_brick_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:nether_bricks
+mcwfences:nether_brick_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:nether_brick_railing_gate minecraft:nether_bricks minecraft:stonecutting
+mcwfences:oak_curved_gate | minecraft:crafting_shaped | mcwfences:oak_curved_gate minecraft:crafting_shaped minecraft:oak_log minecraft:oak_planks
+mcwfences:oak_hedge | minecraft:crafting_shaped | mcwfences:oak_hedge minecraft:crafting_shaped minecraft:oak_leaves
+mcwfences:oak_highley_gate | minecraft:crafting_shaped | mcwfences:oak_highley_gate minecraft:crafting_shaped minecraft:oak_log minecraft:stick
+mcwfences:oak_horse_fence | minecraft:crafting_shaped | mcwfences:oak_horse_fence minecraft:crafting_shaped minecraft:oak_log minecraft:stick
+mcwfences:oak_picket_fence | minecraft:crafting_shaped | mcwfences:oak_picket_fence minecraft:crafting_shaped minecraft:oak_log minecraft:oak_planks minecraft:stick
+mcwfences:oak_pyramid_gate | minecraft:crafting_shaped | mcwfences:oak_pyramid_gate minecraft:crafting_shaped minecraft:oak_log minecraft:oak_planks minecraft:stick
+mcwfences:oak_stockade_fence | minecraft:crafting_shaped | mcwfences:oak_stockade_fence minecraft:crafting_shaped minecraft:oak_log minecraft:oak_planks
+mcwfences:oak_wired_fence | minecraft:crafting_shaped | mcwfences:oak_wired_fence minecraft:crafting_shaped minecraft:iron_bars minecraft:oak_log minecraft:stick
+mcwfences:ornate_metal_fence | minecraft:stonecutting | mcwfences:ornate_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:panelled_metal_fence | minecraft:stonecutting | mcwfences:panelled_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:panelled_metal_fence_gate | minecraft:crafting_shaped | mcwfences:panelled_metal_fence mcwfences:panelled_metal_fence_gate minecraft:crafting_shaped
+mcwfences:prismarine_grass_topped_wall | minecraft:crafting_shaped | mcwfences:prismarine_grass_topped_wall minecraft:crafting_shaped minecraft:dirt minecraft:prismarine minecraft:prismarine_bricks
+mcwfences:prismarine_pillar_wall | minecraft:crafting_shaped | mcwfences:prismarine_pillar_wall minecraft:crafting_shaped minecraft:prismarine minecraft:prismarine_bricks
+mcwfences:prismarine_railing_gate | minecraft:crafting_shaped | mcwfences:prismarine_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:prismarine
+mcwfences:prismarine_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:prismarine_railing_gate minecraft:prismarine minecraft:stonecutting
+mcwfences:quartz_grass_topped_wall | minecraft:crafting_shaped | mcwfences:quartz_grass_topped_wall minecraft:crafting_shaped minecraft:dirt minecraft:quartz_block minecraft:quartz_bricks
+mcwfences:quartz_pillar_wall | minecraft:crafting_shaped | mcwfences:quartz_pillar_wall minecraft:crafting_shaped minecraft:quartz_block minecraft:quartz_bricks
+mcwfences:quartz_railing_gate | minecraft:crafting_shaped | mcwfences:quartz_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:quartz_block
+mcwfences:quartz_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:quartz_railing_gate minecraft:quartz_block minecraft:stonecutting
+mcwfences:railing_andesite_wall | minecraft:crafting_shaped | mcwfences:railing_andesite_wall minecraft:crafting_shaped minecraft:iron_bars minecraft:polished_andesite
+mcwfences:railing_andesite_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_andesite_wall minecraft:andesite minecraft:stonecutting
+mcwfences:railing_blackstone_wall | minecraft:crafting_shaped | mcwfences:railing_blackstone_wall minecraft:crafting_shaped minecraft:iron_bars minecraft:polished_blackstone_bricks
+mcwfences:railing_blackstone_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_blackstone_wall minecraft:blackstone minecraft:stonecutting
+mcwfences:railing_deepslate_brick_wall | minecraft:crafting_shaped | mcwfences:railing_deepslate_brick_wall minecraft:crafting_shaped minecraft:deepslate_bricks minecraft:iron_bars
+mcwfences:railing_deepslate_brick_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_deepslate_brick_wall minecraft:deepslate_bricks minecraft:stonecutting
+mcwfences:railing_deepslate_wall | minecraft:crafting_shaped | mcwfences:railing_deepslate_wall minecraft:crafting_shaped minecraft:deepslate minecraft:iron_bars
+mcwfences:railing_deepslate_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_deepslate_wall minecraft:polished_deepslate minecraft:stonecutting
+mcwfences:railing_diorite_wall | minecraft:crafting_shaped | mcwfences:railing_diorite_wall minecraft:crafting_shaped minecraft:iron_bars minecraft:polished_diorite
+mcwfences:railing_diorite_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_diorite_wall minecraft:diorite minecraft:stonecutting
+mcwfences:railing_end_brick_wall | minecraft:crafting_shaped | mcwfences:railing_end_brick_wall minecraft:crafting_shaped minecraft:end_stone_bricks minecraft:iron_bars
+mcwfences:railing_end_brick_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_end_brick_wall minecraft:end_stone_bricks minecraft:stonecutting
+mcwfences:railing_granite_wall | minecraft:crafting_shaped | mcwfences:railing_granite_wall minecraft:crafting_shaped minecraft:iron_bars minecraft:polished_granite
+mcwfences:railing_granite_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_granite_wall minecraft:granite minecraft:stonecutting
+mcwfences:railing_mud_brick_wall | minecraft:crafting_shaped | mcwfences:railing_mud_brick_wall minecraft:crafting_shaped minecraft:iron_bars minecraft:mud_bricks
+mcwfences:railing_mud_brick_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_mud_brick_wall minecraft:mud_bricks minecraft:stonecutting
+mcwfences:railing_nether_brick_wall | minecraft:crafting_shaped | mcwfences:railing_nether_brick_wall minecraft:crafting_shaped minecraft:iron_bars minecraft:nether_bricks
+mcwfences:railing_nether_brick_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_nether_brick_wall minecraft:nether_bricks minecraft:stonecutting
+mcwfences:railing_prismarine_wall | minecraft:crafting_shaped | mcwfences:railing_prismarine_wall minecraft:crafting_shaped minecraft:iron_bars minecraft:prismarine
+mcwfences:railing_prismarine_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_prismarine_wall minecraft:prismarine minecraft:stonecutting
+mcwfences:railing_quartz_wall | minecraft:crafting_shaped | mcwfences:railing_quartz_wall minecraft:crafting_shaped minecraft:iron_bars minecraft:quartz_block
+mcwfences:railing_quartz_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_quartz_wall minecraft:quartz_block minecraft:stonecutting
+mcwfences:railing_red_sandstone_wall | minecraft:crafting_shaped | mcwfences:railing_red_sandstone_wall minecraft:crafting_shaped minecraft:iron_bars minecraft:smooth_red_sandstone
+mcwfences:railing_red_sandstone_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_red_sandstone_wall minecraft:red_sandstone minecraft:stonecutting
+mcwfences:railing_sandstone_wall | minecraft:crafting_shaped | mcwfences:railing_sandstone_wall minecraft:crafting_shaped minecraft:iron_bars minecraft:smooth_sandstone
+mcwfences:railing_sandstone_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_sandstone_wall minecraft:sandstone minecraft:stonecutting
+mcwfences:railing_stone_brick_wall | minecraft:crafting_shaped | mcwfences:railing_stone_brick_wall minecraft:crafting_shaped minecraft:iron_bars minecraft:stone_bricks
+mcwfences:railing_stone_brick_wall_stonecutter | minecraft:stonecutting | mcwfences:railing_stone_brick_wall minecraft:stone_bricks minecraft:stonecutting
+mcwfences:red_sandstone_grass_topped_wall | minecraft:crafting_shaped | mcwfences:red_sandstone_grass_topped_wall minecraft:crafting_shaped minecraft:dirt minecraft:red_sandstone minecraft:smooth_red_sandstone
+mcwfences:red_sandstone_pillar_wall | minecraft:crafting_shaped | mcwfences:red_sandstone_pillar_wall minecraft:crafting_shaped minecraft:red_sandstone minecraft:smooth_red_sandstone
+mcwfences:red_sandstone_railing_gate | minecraft:crafting_shaped | mcwfences:red_sandstone_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:red_sandstone
+mcwfences:red_sandstone_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:red_sandstone_railing_gate minecraft:red_sandstone minecraft:stonecutting
+mcwfences:sandstone_grass_topped_wall | minecraft:crafting_shaped | mcwfences:sandstone_grass_topped_wall minecraft:crafting_shaped minecraft:dirt minecraft:sandstone minecraft:smooth_sandstone
+mcwfences:sandstone_pillar_wall | minecraft:crafting_shaped | mcwfences:sandstone_pillar_wall minecraft:crafting_shaped minecraft:sandstone minecraft:smooth_sandstone
+mcwfences:sandstone_railing_gate | minecraft:crafting_shaped | mcwfences:sandstone_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:sandstone
+mcwfences:sandstone_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:sandstone_railing_gate minecraft:sandstone minecraft:stonecutting
+mcwfences:spruce_curved_gate | minecraft:crafting_shaped | mcwfences:spruce_curved_gate minecraft:crafting_shaped minecraft:spruce_log minecraft:spruce_planks
+mcwfences:spruce_hedge | minecraft:crafting_shaped | mcwfences:spruce_hedge minecraft:crafting_shaped minecraft:spruce_leaves
+mcwfences:spruce_highley_gate | minecraft:crafting_shaped | mcwfences:spruce_highley_gate minecraft:crafting_shaped minecraft:spruce_log minecraft:stick
+mcwfences:spruce_horse_fence | minecraft:crafting_shaped | mcwfences:spruce_horse_fence minecraft:crafting_shaped minecraft:spruce_log minecraft:stick
+mcwfences:spruce_picket_fence | minecraft:crafting_shaped | mcwfences:spruce_picket_fence minecraft:crafting_shaped minecraft:spruce_log minecraft:spruce_planks minecraft:stick
+mcwfences:spruce_pyramid_gate | minecraft:crafting_shaped | mcwfences:spruce_pyramid_gate minecraft:crafting_shaped minecraft:spruce_log minecraft:spruce_planks minecraft:stick
+mcwfences:spruce_stockade_fence | minecraft:crafting_shaped | mcwfences:spruce_stockade_fence minecraft:crafting_shaped minecraft:spruce_log minecraft:spruce_planks
+mcwfences:spruce_wired_fence | minecraft:crafting_shaped | mcwfences:spruce_wired_fence minecraft:crafting_shaped minecraft:iron_bars minecraft:spruce_log minecraft:stick
+mcwfences:stone_brick_railing_gate | minecraft:crafting_shaped | mcwfences:stone_brick_railing_gate minecraft:crafting_shaped minecraft:iron_bars minecraft:stone_bricks
+mcwfences:stone_brick_railing_gate_stonecutter | minecraft:stonecutting | mcwfences:stone_brick_railing_gate minecraft:stone_bricks minecraft:stonecutting
+mcwfences:stone_grass_topped_wall | minecraft:crafting_shaped | mcwfences:stone_grass_topped_wall minecraft:cobblestone minecraft:crafting_shaped minecraft:dirt minecraft:stone_bricks
+mcwfences:stone_pillar_wall | minecraft:crafting_shaped | mcwfences:stone_pillar_wall minecraft:cobblestone minecraft:crafting_shaped minecraft:stone_bricks
+mcwfences:twilight_metal_fence | minecraft:stonecutting | mcwfences:twilight_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:vintage_metal_fence | minecraft:stonecutting | mcwfences:vintage_metal_fence minecraft:iron_bars minecraft:stonecutting
+mcwfences:warped_curved_gate | minecraft:crafting_shaped | mcwfences:warped_curved_gate minecraft:crafting_shaped minecraft:warped_planks minecraft:warped_stem
+mcwfences:warped_highley_gate | minecraft:crafting_shaped | mcwfences:warped_highley_gate minecraft:crafting_shaped minecraft:stick minecraft:warped_stem
+mcwfences:warped_horse_fence | minecraft:crafting_shaped | mcwfences:warped_horse_fence minecraft:crafting_shaped minecraft:stick minecraft:warped_stem
+mcwfences:warped_picket_fence | minecraft:crafting_shaped | mcwfences:warped_picket_fence minecraft:crafting_shaped minecraft:stick minecraft:warped_planks minecraft:warped_stem
+mcwfences:warped_pyramid_gate | minecraft:crafting_shaped | mcwfences:warped_pyramid_gate minecraft:crafting_shaped minecraft:stick minecraft:warped_planks minecraft:warped_stem
+mcwfences:warped_stockade_fence | minecraft:crafting_shaped | mcwfences:warped_stockade_fence minecraft:crafting_shaped minecraft:warped_planks minecraft:warped_stem
+mcwfences:warped_wired_fence | minecraft:crafting_shaped | mcwfences:warped_wired_fence minecraft:crafting_shaped minecraft:iron_bars minecraft:stick minecraft:warped_stem
+mcwfences:wooden_cheval_de_frise | minecraft:crafting_shaped | mcwfences:wooden_cheval_de_frise minecraft:crafting_shaped minecraft:logs minecraft:stick

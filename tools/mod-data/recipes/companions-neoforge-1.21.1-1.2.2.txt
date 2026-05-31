@@ -1,0 +1,45 @@
+companions:arm_blade | minecraft:crafting_shaped | companions:blade_arm minecraft:crafting_shaped minecraft:planks minecraft:shears
+companions:arm_cannon | minecraft:crafting_shaped | companions:cannon_arm minecraft:crafting_shaped minecraft:crossbow minecraft:iron_ingot minecraft:planks
+companions:arm_mutant | minecraft:crafting_shaped | companions:mutant_arm companions:mutant_flesh minecraft:crafting_shaped minecraft:planks
+companions:arm_whip | minecraft:crafting_shapeless | companions:whip_arm minecraft:crafting_shapeless minecraft:lead minecraft:wooden_sword
+companions:big_bread | minecraft:crafting_shaped | companions:big_bread knightlib:homunculus minecraft:bread minecraft:crafting_shaped
+companions:book_naginata | minecraft:crafting_shaped | companions:book_naginata companions:relic_gold minecraft:crafting_shaped minecraft:enchanted_book
+companions:croissant_dragon_chocolate_armor | minecraft:crafting_shapeless | companions:croissant_dragon_chocolate_armor knightlib:filled_grail minecraft:cake minecraft:cocoa_beans minecraft:crafting_shapeless
+companions:croissant_dragon_stawberry_armor | minecraft:crafting_shapeless | companions:croissant_dragon_strawberry_armor knightlib:filled_grail minecraft:cake minecraft:crafting_shapeless minecraft:sweet_berries
+companions:croissant_dragon_vanilla_armor | minecraft:crafting_shapeless | companions:croissant_dragon_vanilla_armor knightlib:filled_grail minecraft:cake minecraft:crafting_shapeless
+companions:crystallized_blood_axe | minecraft:crafting_shapeless | companions:crystallized_blood companions:crystallized_blood_axe companions:demon_flesh minecraft:crafting_shapeless minecraft:netherite_axe
+companions:crystallized_blood_boots | minecraft:crafting_shapeless | companions:crystallized_blood companions:crystallized_blood_boots knightlib:filled_grail minecraft:crafting_shapeless minecraft:netherite_boots
+companions:crystallized_blood_chestplate | minecraft:crafting_shapeless | companions:crystallized_blood companions:crystallized_blood_chestplate knightlib:filled_grail minecraft:crafting_shapeless minecraft:netherite_chestplate
+companions:crystallized_blood_helmet | minecraft:crafting_shapeless | companions:crystallized_blood companions:crystallized_blood_helmet knightlib:filled_grail minecraft:crafting_shapeless minecraft:netherite_helmet
+companions:crystallized_blood_leggings | minecraft:crafting_shapeless | companions:crystallized_blood companions:crystallized_blood_leggings knightlib:filled_grail minecraft:crafting_shapeless minecraft:netherite_leggings
+companions:crystallized_blood_scythe | minecraft:crafting_shapeless | companions:crystallized_blood companions:crystallized_blood_scythe companions:mutant_flesh minecraft:crafting_shapeless minecraft:netherite_hoe
+companions:crystallized_blood_sword | minecraft:crafting_shapeless | companions:antlion_fur companions:crystallized_blood companions:crystallized_blood_sword minecraft:crafting_shapeless minecraft:netherite_sword
+companions:empty_puppet | minecraft:crafting_shaped | companions:empty_puppet_block knightlib:homunculus minecraft:crafting_shaped minecraft:leather_boots minecraft:planks minecraft:stick
+companions:eternal_lighter | minecraft:crafting_shapeless | companions:eternal_lighter companions:netherite_dagger minecraft:crafting_shapeless minecraft:netherrack
+companions:frog_bonanza | minecraft:crafting_shaped | companions:frog_bonanza_block minecraft:crafting_shaped minecraft:planks minecraft:stone_bricks
+companions:holy_robe_coat | minecraft:crafting_shaped | companions:holy_robe_coat companions:old_cloth minecraft:crafting_shaped
+companions:holy_robe_leggings | minecraft:crafting_shaped | companions:holy_robe_leggings companions:old_cloth minecraft:crafting_shaped
+companions:holy_robe_mask | minecraft:crafting_shaped | companions:holy_robe_mask companions:old_cloth companions:relic_gold minecraft:crafting_shaped
+companions:hourglass | minecraft:crafting_shaped | companions:hourglass minecraft:copper_ingot minecraft:crafting_shaped minecraft:glass minecraft:planks minecraft:sand
+companions:mage_coat | minecraft:crafting_shaped | companions:mage_coat minecraft:crafting_shaped minecraft:iron_ingot minecraft:leather
+companions:mage_hat | minecraft:crafting_shaped | companions:mage_hat minecraft:crafting_shaped minecraft:iron_ingot minecraft:leather
+companions:mage_leggings | minecraft:crafting_shaped | companions:mage_leggings minecraft:crafting_shaped minecraft:leather
+companions:mage_staff | minecraft:crafting_shaped | companions:mage_staff companions:soul_gem minecraft:crafting_shaped minecraft:stick
+companions:needle | minecraft:crafting_shaped | companions:needle minecraft:crafting_shaped minecraft:iron_ingot
+companions:netherite_dagger | minecraft:crafting_shaped | companions:netherite_dagger minecraft:copper_ingot minecraft:crafting_shaped minecraft:netherite_ingot
+companions:respawn_totem | minecraft:crafting_shapeless | companions:old_cloth companions:relic_gold companions:respawn_totem_block companions:soul_gem minecraft:crafting_shapeless minecraft:planks minecraft:totem_of_undying
+companions:shade_maw_altar | minecraft:crafting_shaped | companions:crystallized_blood companions:shade_maw_altar minecraft:banners minecraft:crafting_shaped minecraft:planks
+companions:shade_sword_altar | minecraft:crafting_shaped | companions:crystallized_blood companions:shade_sword_altar minecraft:banners minecraft:bone_block minecraft:crafting_shaped minecraft:stick
+companions:shadow_bell | minecraft:crafting_shaped | companions:crystallized_blood companions:shadow_bell minecraft:bell minecraft:crafting_shaped
+companions:smithing_netherite_chain | minecraft:smithing_transform | companions:netherite_chains minecraft:chain minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+companions:soul_furnace | minecraft:crafting_shaped | companions:soul_furnace_block minecraft:brick minecraft:copper_ingot minecraft:crafting_shaped minecraft:furnace
+companions:soul_furnace/big_bread_to_croissant_egg | companions:soul_furnace | companions:big_bread companions:croissant_egg_block companions:soul_furnace
+companions:soul_furnace/candle_to_living_candle | companions:soul_furnace | companions:living_candle companions:soul_furnace minecraft:candle
+companions:soul_furnace/diamond_to_soul_gem | companions:soul_furnace | companions:soul_furnace companions:soul_gem minecraft:diamond
+companions:soul_furnace/rotten_to_crystallized_blood | companions:soul_furnace | companions:crystallized_blood companions:soul_furnace minecraft:rotten_flesh
+companions:tesla_coil | minecraft:crafting_shaped | companions:tesla_coil_block minecraft:crafting_shaped minecraft:iron_ingot minecraft:planks
+companions:tesla_plasma_lamp | minecraft:crafting_shaped | companions:plasma_lamp_block minecraft:copper_ingot minecraft:crafting_shaped minecraft:glass minecraft:iron_nugget minecraft:planks
+companions:tesla_recall_platform | minecraft:crafting_shaped | companions:recall_platform_block minecraft:crafting_shaped minecraft:diamond minecraft:iron_ingot
+companions:tesla_voltaic_pillar | minecraft:crafting_shaped | companions:voltaic_pillar_block minecraft:crafting_shaped minecraft:iron_ingot minecraft:planks
+companions:tesla_voltaic_relay | minecraft:crafting_shaped | companions:voltaic_relay_block minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_nugget minecraft:planks
+companions:wrench | minecraft:crafting_shaped | companions:wrench minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick

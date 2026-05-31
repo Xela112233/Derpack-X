@@ -1,0 +1,11 @@
+occultengineering:blocks/brass_chalk | minecraft:block | minecraft:air minecraft:block minecraft:item minecraft:survives_explosion occultengineering:blocks/brass_chalk
+occultengineering:blocks/copper_chalk | minecraft:block | minecraft:air minecraft:block minecraft:item minecraft:survives_explosion occultengineering:blocks/copper_chalk
+occultengineering:blocks/fan_enspirit_catalyst | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion occultengineering:blocks/fan_enspirit_catalyst occultengineering:fan_enspirit_catalyst
+occultengineering:blocks/mechanical_chamber | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion occultengineering:blocks/mechanical_chamber occultengineering:mechanical_chamber
+occultengineering:blocks/mechanical_pulverizer | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion occultengineering:blocks/mechanical_pulverizer occultengineering:mechanical_pulverizer
+occultengineering:blocks/otherworld_detector | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion occultengineering:blocks/otherworld_detector occultengineering:otherworld_detector
+occultengineering:blocks/pentacle_altar | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion occultengineering:blocks/pentacle_altar occultengineering:pentacle_altar
+occultengineering:blocks/phlogiport | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion occultengineering:blocks/phlogiport occultengineering:phlogiport
+occultengineering:blocks/pucalith | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion occultengineering:blocks/pucalith occultengineering:pucalith
+occultengineering:blocks/sterling_silver_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion occultengineering:blocks/sterling_silver_block occultengineering:sterling_silver_block
+occultengineering:blocks/zinc_chalk | minecraft:block | minecraft:air minecraft:block minecraft:item minecraft:survives_explosion occultengineering:blocks/zinc_chalk

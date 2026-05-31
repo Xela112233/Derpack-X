@@ -1,0 +1,6 @@
+moblassos:aqua_lasso | minecraft:crafting_shaped | minecraft:cod minecraft:crafting_shaped minecraft:lapis_lazuli minecraft:pufferfish minecraft:salmon minecraft:tropical_fish moblassos:aqua_lasso moblassos:golden_lasso
+moblassos:contract | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:feather minecraft:glass_bottle minecraft:ink_sac minecraft:paper moblassos:contract
+moblassos:diamond_lasso | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:diamond moblassos:aqua_lasso moblassos:diamond_lasso moblassos:golden_lasso
+moblassos:emerald_lasso | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:emerald moblassos:emerald_lasso moblassos:golden_lasso
+moblassos:golden_lasso | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:ender_pearl minecraft:gold_nugget minecraft:string moblassos:golden_lasso
+moblassos:hostile_lasso | minecraft:crafting_shaped | minecraft:blaze_rod minecraft:crafting_shaped minecraft:iron_nugget minecraft:leather minecraft:rabbit_hide moblassos:golden_lasso moblassos:hostile_lasso

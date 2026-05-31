@@ -1,0 +1,41 @@
+samurai_dynasty:blocks/chiseled_pattern_spirit_stone_bricks | minecraft:block | minecraft:block minecraft:item samurai_dynasty:chiseled_pattern_spirit_stone_bricks
+samurai_dynasty:blocks/chiseled_spirit_stone_bricks | minecraft:block | minecraft:block minecraft:item samurai_dynasty:chiseled_spirit_stone_bricks
+samurai_dynasty:blocks/deepslate_jade_ore | minecraft:block | minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:silk_touch samurai_dynasty:blocks/deepslate_jade_ore samurai_dynasty:deepslate_jade_ore samurai_dynasty:jade
+samurai_dynasty:blocks/dragon_spirit_stone | minecraft:block | minecraft:block minecraft:item samurai_dynasty:dragon_spirit_stone
+samurai_dynasty:blocks/jade_block | minecraft:block | minecraft:block minecraft:item samurai_dynasty:jade_block
+samurai_dynasty:blocks/jade_ore | minecraft:block | minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:silk_touch samurai_dynasty:blocks/jade_ore samurai_dynasty:jade samurai_dynasty:jade_ore
+samurai_dynasty:blocks/kawauso_statue | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:kawauso_statue
+samurai_dynasty:blocks/komainu_statue | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:komainu_statue
+samurai_dynasty:blocks/mosaic_spirit_stone_bricks | minecraft:block | minecraft:block minecraft:item samurai_dynasty:mosaic_spirit_stone_bricks
+samurai_dynasty:blocks/mossy_spirit_stone_brick_slab | minecraft:block | minecraft:block minecraft:item samurai_dynasty:mossy_spirit_stone_brick_slab
+samurai_dynasty:blocks/mossy_spirit_stone_brick_stairs | minecraft:block | minecraft:block minecraft:item samurai_dynasty:mossy_spirit_stone_brick_stairs
+samurai_dynasty:blocks/mossy_spirit_stone_brick_wall | minecraft:block | minecraft:block minecraft:item samurai_dynasty:mossy_spirit_stone_brick_wall
+samurai_dynasty:blocks/mossy_spirit_stone_bricks | minecraft:block | minecraft:block minecraft:item samurai_dynasty:mossy_spirit_stone_bricks
+samurai_dynasty:blocks/path_spirit_stone_bricks | minecraft:block | minecraft:block minecraft:item samurai_dynasty:path_spirit_stone_bricks
+samurai_dynasty:blocks/pattern_mossy_spirit_stone_bricks | minecraft:block | minecraft:block minecraft:item samurai_dynasty:pattern_mossy_spirit_stone_bricks
+samurai_dynasty:blocks/pattern_spirit_stone_bricks | minecraft:block | minecraft:block minecraft:item samurai_dynasty:pattern_spirit_stone_bricks
+samurai_dynasty:blocks/polished_spirit_stone | minecraft:block | minecraft:block minecraft:item samurai_dynasty:polished_spirit_stone
+samurai_dynasty:blocks/polished_spirit_stone_slab | minecraft:block | minecraft:block minecraft:item samurai_dynasty:polished_spirit_stone_slab
+samurai_dynasty:blocks/polished_spirit_stone_stairs | minecraft:block | minecraft:block minecraft:item samurai_dynasty:polished_spirit_stone_stairs
+samurai_dynasty:blocks/polished_spirit_stone_wall | minecraft:block | minecraft:block minecraft:item samurai_dynasty:polished_spirit_stone_wall
+samurai_dynasty:blocks/red_maple_planks | minecraft:block | minecraft:block minecraft:item samurai_dynasty:red_maple_planks
+samurai_dynasty:blocks/spirit_stone | minecraft:block | minecraft:block minecraft:item samurai_dynasty:spirit_stone
+samurai_dynasty:blocks/spirit_stone_base | minecraft:block | minecraft:block minecraft:item samurai_dynasty:spirit_stone_base
+samurai_dynasty:blocks/spirit_stone_slab | minecraft:block | minecraft:block minecraft:item samurai_dynasty:spirit_stone_slab
+samurai_dynasty:blocks/spirit_stone_stairs | minecraft:block | minecraft:block minecraft:item samurai_dynasty:spirit_stone_stairs
+samurai_dynasty:blocks/spirit_stone_wall | minecraft:block | minecraft:block minecraft:item samurai_dynasty:spirit_stone_wall
+samurai_dynasty:blocks/steel_block | minecraft:block | minecraft:block minecraft:item samurai_dynasty:steel_block
+samurai_dynasty:blocks/stone_roof | minecraft:block | minecraft:block minecraft:item samurai_dynasty:stone_roof
+samurai_dynasty:blocks/stone_roof_corner | minecraft:block | minecraft:block minecraft:item samurai_dynasty:stone_roof_corner
+samurai_dynasty:blocks/stone_roof_top | minecraft:block | minecraft:block minecraft:item samurai_dynasty:stone_roof_top
+samurai_dynasty:blocks/tanuki_statue | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:tanuki_statue
+samurai_dynasty:entities/akaname | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count samurai_dynasty:akaname_tongue
+samurai_dynasty:entities/enenra | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:gunpowder minecraft:item minecraft:looting minecraft:set_count
+samurai_dynasty:entities/jorogumo | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count samurai_dynasty:jorogumo_eye
+samurai_dynasty:entities/kawauso | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count samurai_dynasty:straw_hat
+samurai_dynasty:entities/kitsune | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count samurai_dynasty:kitsune_hide samurai_dynasty:kitsune_tail
+samurai_dynasty:entities/komainu | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count samurai_dynasty:cloth
+samurai_dynasty:entities/oni | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count samurai_dynasty:oni_horn
+samurai_dynasty:entities/onibi | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count samurai_dynasty:spirit_flame
+samurai_dynasty:entities/tanuki | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count samurai_dynasty:straw_hat
+samurai_dynasty:entities/twotailed | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count samurai_dynasty:kitsune_hide samurai_dynasty:kitsune_tail

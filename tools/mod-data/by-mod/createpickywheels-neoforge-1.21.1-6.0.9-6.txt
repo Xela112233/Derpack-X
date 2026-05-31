@@ -1,0 +1,21 @@
+# createpickywheels-neoforge-1.21.1-6.0.9-6
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "createpickywheels"
+version = "1.21.1-6.0.9-6"
+displayName = "Create Picky Wheels"
+modId = "neoforge"
+versionRange = "[21.1.209,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "create"
+versionRange = "[0.6.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

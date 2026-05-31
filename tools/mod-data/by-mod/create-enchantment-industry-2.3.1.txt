@@ -1,0 +1,55 @@
+# create-enchantment-industry-2.3.1
+
+## mod metadata (id / version / deps)
+license="LGPL-3.0-or-later"
+modId="create_enchantment_industry"
+version="2.3.1"
+displayName="Create: Enchantment Industry"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+modId="create"
+versionRange="[6.0.10,)"
+modId="create_dragons_plus"
+versionRange="[1.10.0,)"
+modId="touhou_little_maid"
+versionRange="[1.2.0,)"
+
+## blocks
+create_enchantment_industry:blaze_enchanter
+create_enchantment_industry:blaze_forger
+create_enchantment_industry:experience
+create_enchantment_industry:experience_hatch
+create_enchantment_industry:experience_lantern
+create_enchantment_industry:grindstone_drain
+create_enchantment_industry:mechanical_grindstone
+create_enchantment_industry:printer
+create_enchantment_industry:super_experience_block
+
+## items
+create_enchantment_industry:blaze_enchanter
+create_enchantment_industry:blaze_forger
+create_enchantment_industry:enchanting_template
+create_enchantment_industry:experience_bucket
+create_enchantment_industry:experience_cake
+create_enchantment_industry:experience_cake_base
+create_enchantment_industry:experience_cake_slice
+create_enchantment_industry:experience_hatch
+create_enchantment_industry:experience_lantern
+create_enchantment_industry:grindstone_drain
+create_enchantment_industry:mechanical_grindstone
+create_enchantment_industry:printer
+create_enchantment_industry:super_enchanting_template
+create_enchantment_industry:super_experience_block
+create_enchantment_industry:super_experience_nugget
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+item/nuggets.json :: { "values": [ "create_enchantment_industry:super_experience_nugget" ]}
+item/storage_blocks.json :: { "values": [ "create_enchantment_industry:super_experience_block" ]}
+item/buckets.json :: { "values": [ "create_enchantment_industry:experience_bucket" ]}
+block/lightning_rods.json :: { "values": [ "minecraft:lightning_rod", { "id": "#friendsandfoes:lightning_rods", "required": false } ]}
+block/storage_blocks.json :: { "values": [ "create_enchantment_industry:super_experience_block" ]}
+point_of_interest_type/lightning_rods.json :: { "values": [ "minecraft:lightning_rod", { "id": "#friendsandfoes:lightning_rods", "required": false } ]}

@@ -1,0 +1,19 @@
+# imfast-NEOFORGE-1.0.2
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "imfast" #mandatory
+version = "1.0.2" #mandatory
+displayName = "I'm Fast" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

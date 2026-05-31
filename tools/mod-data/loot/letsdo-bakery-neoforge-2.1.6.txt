@@ -1,0 +1,27 @@
+bakery:advancements/completionist | minecraft:block | bakery:bakery_banner minecraft:block minecraft:item minecraft:set_count
+bakery:blocks/apple_jam | minecraft:block | bakery:apple_jam minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bakery:blocks/baker_station | minecraft:block | bakery:baker_station minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/bakery_banner | minecraft:block | bakery:bakery_banner minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/bakery_wall_banner | minecraft:block | bakery:bakery_banner minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/bread_crate | minecraft:block | bakery:tray minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/breadbox | minecraft:block | bakery:breadbox minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/brick_counter | minecraft:block | bakery:brick_counter minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/cabinet | minecraft:block | bakery:cabinet minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/cake_display | minecraft:block | bakery:cake_display minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/cake_stand | minecraft:block | bakery:cake_stand minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/chocolate_box | minecraft:block | minecraft:block minecraft:chest minecraft:item minecraft:survives_explosion
+bakery:blocks/chocolate_jam | minecraft:block | bakery:chocolate_jam minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bakery:blocks/cupcake_display | minecraft:block | bakery:cupcake_display minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/drawer | minecraft:block | bakery:drawer minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/glowberry_jam | minecraft:block | bakery:glowberry_jam minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bakery:blocks/iron_bench | minecraft:block | bakery:iron_bench minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/iron_chair | minecraft:block | bakery:iron_chair minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/iron_table | minecraft:block | bakery:iron_table minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/jar | minecraft:block | bakery:jar minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bakery:blocks/kitchen_sink | minecraft:block | bakery:kitchen_sink minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+bakery:blocks/strawberry_jam | minecraft:block | bakery:strawberry_jam minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bakery:blocks/street_sign | minecraft:block | bakery:street_sign minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/sweetberry_jam | minecraft:block | bakery:sweetberry_jam minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bakery:blocks/tray | minecraft:block | bakery:tray minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/wall_cabinet | minecraft:block | bakery:wall_cabinet minecraft:block minecraft:item minecraft:survives_explosion
+bakery:blocks/wall_display | minecraft:block | bakery:wall_display minecraft:block minecraft:item minecraft:survives_explosion

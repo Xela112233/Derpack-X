@@ -1,0 +1,346 @@
+# Galosphere-1.21.1-1.5.3-NeoForge
+
+## mod metadata (id / version / deps)
+license="All-Rights-Reserved"
+modId="galosphere"
+version="1.5.3"
+displayName="Galosphere"
+modId="neoforge"
+versionRange="[21.1.213,)"
+modId="minecraft"
+versionRange="[1.21.1,1.22)"
+
+## blocks
+galosphere:allurite_block
+galosphere:allurite_brick_slab
+galosphere:allurite_brick_stairs
+galosphere:allurite_bricks
+galosphere:allurite_cluster
+galosphere:allurite_lamp
+galosphere:allurite_slab
+galosphere:allurite_stairs
+galosphere:amethyst_brick_slab
+galosphere:amethyst_brick_stairs
+galosphere:amethyst_bricks
+galosphere:amethyst_lamp
+galosphere:amethyst_slab
+galosphere:amethyst_stairs
+galosphere:bowl_lichen
+galosphere:burrow_anchor
+galosphere:chandelier
+galosphere:chiseled_allurite
+galosphere:chiseled_amethyst
+galosphere:chiseled_lumiere
+galosphere:chiseled_opal_bricks
+galosphere:chiseled_pastel_pink_salt
+galosphere:chiseled_pink_salt
+galosphere:chiseled_rose_pink_salt
+galosphere:combustion_table
+galosphere:cured_membrane_block
+galosphere:deepslate_palladium_ore
+galosphere:echo_altar
+galosphere:gilded_beads
+galosphere:glinted_allurite_cluster
+galosphere:glinted_amethyst_cluster
+galosphere:glinted_lumiere_cluster
+galosphere:glow_berries_palladium_lattice
+galosphere:glow_ink_clumps
+galosphere:lichen_cordyceps
+galosphere:lichen_cordyceps_plant
+galosphere:lichen_moss
+galosphere:lichen_roots
+galosphere:lichen_shelf
+galosphere:lichen_vines
+galosphere:light_stand
+galosphere:lumiere_block
+galosphere:lumiere_brick_slab
+galosphere:lumiere_brick_stairs
+galosphere:lumiere_bricks
+galosphere:lumiere_cluster
+galosphere:lumiere_composter
+galosphere:lumiere_lamp
+galosphere:lumiere_slab
+galosphere:lumiere_stairs
+galosphere:mole_burrow
+galosphere:opal_block
+galosphere:opal_brick_slab
+galosphere:opal_brick_stairs
+galosphere:opal_brick_wall
+galosphere:opal_bricks
+galosphere:opal_leaves
+galosphere:opal_log
+galosphere:opal_sapling
+galosphere:palladium_block
+galosphere:palladium_dust
+galosphere:palladium_lattice
+galosphere:palladium_ore
+galosphere:palladium_panel
+galosphere:palladium_panel_slab
+galosphere:palladium_panel_stairs
+galosphere:palladium_tiles
+galosphere:palladium_tiles_slab
+galosphere:palladium_tiles_stairs
+galosphere:pastel_pink_salt
+galosphere:pastel_pink_salt_brick_slab
+galosphere:pastel_pink_salt_brick_stairs
+galosphere:pastel_pink_salt_brick_wall
+galosphere:pastel_pink_salt_bricks
+galosphere:pastel_pink_salt_slab
+galosphere:pastel_pink_salt_stairs
+galosphere:pastel_pink_salt_wall
+galosphere:pink_salt
+galosphere:pink_salt_brick_slab
+galosphere:pink_salt_brick_stairs
+galosphere:pink_salt_brick_wall
+galosphere:pink_salt_bricks
+galosphere:pink_salt_cluster
+galosphere:pink_salt_lamp
+galosphere:pink_salt_slab
+galosphere:pink_salt_stairs
+galosphere:pink_salt_straw
+galosphere:pink_salt_wall
+galosphere:polished_pastel_pink_salt
+galosphere:polished_pastel_pink_salt_slab
+galosphere:polished_pastel_pink_salt_stairs
+galosphere:polished_pastel_pink_salt_wall
+galosphere:polished_pink_salt
+galosphere:polished_pink_salt_slab
+galosphere:polished_pink_salt_stairs
+galosphere:polished_pink_salt_wall
+galosphere:polished_rose_pink_salt
+galosphere:polished_rose_pink_salt_slab
+galosphere:polished_rose_pink_salt_stairs
+galosphere:polished_rose_pink_salt_wall
+galosphere:potted_bowl_lichen
+galosphere:potted_lichen_roots
+galosphere:potted_opal_sapling
+galosphere:raw_palladium_block
+galosphere:rose_pink_salt
+galosphere:rose_pink_salt_brick_slab
+galosphere:rose_pink_salt_brick_stairs
+galosphere:rose_pink_salt_brick_wall
+galosphere:rose_pink_salt_bricks
+galosphere:rose_pink_salt_slab
+galosphere:rose_pink_salt_stairs
+galosphere:rose_pink_salt_wall
+galosphere:saline_composter
+galosphere:shadow_frame
+galosphere:smooth_allurite
+galosphere:smooth_allurite_slab
+galosphere:smooth_allurite_stairs
+galosphere:smooth_amethyst
+galosphere:smooth_amethyst_slab
+galosphere:smooth_amethyst_stairs
+galosphere:smooth_lumiere
+galosphere:smooth_lumiere_slab
+galosphere:smooth_lumiere_stairs
+galosphere:soul_chandelier
+galosphere:soul_light_stand
+galosphere:stranded_membrane_block
+galosphere:tuff_dirt
+
+## items
+galosphere:allurite_block
+galosphere:allurite_brick_slab
+galosphere:allurite_brick_stairs
+galosphere:allurite_bricks
+galosphere:allurite_cluster
+galosphere:allurite_lamp
+galosphere:allurite_shard
+galosphere:allurite_slab
+galosphere:allurite_stairs
+galosphere:amethyst_brick_slab
+galosphere:amethyst_brick_stairs
+galosphere:amethyst_bricks
+galosphere:amethyst_lamp
+galosphere:amethyst_slab
+galosphere:amethyst_stairs
+galosphere:berserker_spawn_egg
+galosphere:bottle_of_spectre
+galosphere:bowl_lichen
+galosphere:broken_echo_bell
+galosphere:burrow_anchor
+galosphere:chandelier
+galosphere:charged_lumiere_block
+galosphere:chiseled_allurite
+galosphere:chiseled_amethyst
+galosphere:chiseled_lumiere
+galosphere:chiseled_opal_bricks
+galosphere:chiseled_pastel_pink_salt
+galosphere:chiseled_pink_salt
+galosphere:chiseled_rose_pink_salt
+galosphere:combustion_table
+galosphere:crossbow_glow_flare
+galosphere:crossbow_spectre_flare
+galosphere:cured_membrane
+galosphere:cured_membrane_block
+galosphere:deepslate_palladium_ore
+galosphere:echo_altar
+galosphere:echo_bell
+galosphere:faith_armor_trim_smithing_template
+galosphere:gilded_beads
+galosphere:glinted_allurite_cluster
+galosphere:glinted_amethyst_cluster
+galosphere:glinted_lumiere_cluster
+galosphere:glow_flare
+galosphere:glow_ink_clumps
+galosphere:golden_lichen_cordyceps
+galosphere:icon_item
+galosphere:lichen_cordyceps
+galosphere:lichen_moss
+galosphere:lichen_roots
+galosphere:lichen_shelf
+galosphere:lichen_vines
+galosphere:light_stand
+galosphere:lumiere_block
+galosphere:lumiere_brick_slab
+galosphere:lumiere_brick_stairs
+galosphere:lumiere_bricks
+galosphere:lumiere_cluster
+galosphere:lumiere_lamp
+galosphere:lumiere_shard
+galosphere:lumiere_slab
+galosphere:lumiere_stairs
+galosphere:mining_pouch
+galosphere:mining_pouch_filled
+galosphere:mole_burrow
+galosphere:mole_spawn_egg
+galosphere:monstrometer
+galosphere:monstrometer_fueled
+galosphere:opal
+galosphere:opal_block
+galosphere:opal_brick_slab
+galosphere:opal_brick_stairs
+galosphere:opal_brick_wall
+galosphere:opal_bricks
+galosphere:opal_flakes
+galosphere:opal_leaves
+galosphere:opal_log
+galosphere:opal_sapling
+galosphere:palladium_block
+galosphere:palladium_bomb
+galosphere:palladium_dust
+galosphere:palladium_ingot
+galosphere:palladium_lattice
+galosphere:palladium_nugget
+galosphere:palladium_ore
+galosphere:palladium_panel
+galosphere:palladium_panel_slab
+galosphere:palladium_panel_stairs
+galosphere:palladium_tiles
+galosphere:palladium_tiles_slab
+galosphere:palladium_tiles_stairs
+galosphere:pastel_pink_salt
+galosphere:pastel_pink_salt_brick_slab
+galosphere:pastel_pink_salt_brick_stairs
+galosphere:pastel_pink_salt_brick_wall
+galosphere:pastel_pink_salt_bricks
+galosphere:pastel_pink_salt_slab
+galosphere:pastel_pink_salt_stairs
+galosphere:pastel_pink_salt_wall
+galosphere:pink_salt
+galosphere:pink_salt_brick_slab
+galosphere:pink_salt_brick_stairs
+galosphere:pink_salt_brick_wall
+galosphere:pink_salt_bricks
+galosphere:pink_salt_chamber
+galosphere:pink_salt_cluster
+galosphere:pink_salt_lamp
+galosphere:pink_salt_shard
+galosphere:pink_salt_slab
+galosphere:pink_salt_stairs
+galosphere:pink_salt_straw
+galosphere:pink_salt_wall
+galosphere:polished_pastel_pink_salt
+galosphere:polished_pastel_pink_salt_slab
+galosphere:polished_pastel_pink_salt_stairs
+galosphere:polished_pastel_pink_salt_wall
+galosphere:polished_pink_salt
+galosphere:polished_pink_salt_slab
+galosphere:polished_pink_salt_stairs
+galosphere:polished_pink_salt_wall
+galosphere:polished_rose_pink_salt
+galosphere:polished_rose_pink_salt_slab
+galosphere:polished_rose_pink_salt_stairs
+galosphere:polished_rose_pink_salt_wall
+galosphere:preserved_flesh
+galosphere:preserved_spawn_egg
+galosphere:preserved_template
+galosphere:raw_palladium
+galosphere:raw_palladium_block
+galosphere:rope_dart
+galosphere:rope_dart_using
+galosphere:rose_pink_salt
+galosphere:rose_pink_salt_brick_slab
+galosphere:rose_pink_salt_brick_stairs
+galosphere:rose_pink_salt_brick_wall
+galosphere:rose_pink_salt_bricks
+galosphere:rose_pink_salt_slab
+galosphere:rose_pink_salt_stairs
+galosphere:rose_pink_salt_wall
+galosphere:saltbound_tablet
+galosphere:saltbound_tablet_cooldown
+galosphere:saltbound_tablet_using
+galosphere:salted_jerky
+galosphere:shadow_frame
+galosphere:silverfish
+galosphere:smooth_allurite
+galosphere:smooth_allurite_slab
+galosphere:smooth_allurite_stairs
+galosphere:smooth_amethyst
+galosphere:smooth_amethyst_slab
+galosphere:smooth_amethyst_stairs
+galosphere:smooth_lumiere
+galosphere:smooth_lumiere_slab
+galosphere:smooth_lumiere_stairs
+galosphere:soul_chandelier
+galosphere:soul_light_stand
+galosphere:sparkle_spawn_egg
+galosphere:specterpillar_spawn_egg
+galosphere:spectre_bound_spyglass
+galosphere:spectre_flare
+galosphere:spectre_spawn_egg
+galosphere:sterling_boots
+galosphere:sterling_chestplate
+galosphere:sterling_helmet
+galosphere:sterling_horse_armor
+galosphere:sterling_leggings
+galosphere:stranded_membrane_block
+galosphere:thirst_pottery_sherd
+galosphere:tuff_dirt
+galosphere:warped_anchor
+galosphere:wave_pottery_sherd
+galosphere:weapon_rack
+
+## neoforge biome_modifiers
+add_crystal_canyons_features.json :: { "type": "neoforge:add_features", "biomes": "galosphere:crystal_canyons", "features": [ "galosphere:allurite_ceiling_crystals", "galosphere:allurite_floor_crystals", "galosphere:large_ceiling_allurite_crystals", "galosphere:large_floor_allurite_crystals", "galosphere:lumiere_floor_crystals", "galosphere:lumiere_ceiling_crystals", "galosphere:large_ceiling_lumiere_crystals", "galosphere:large_floor_lumiere_crystals" ], "step": "vegetal_decoration"}
+add_crystal_canyons_spawns.json :: { "type": "neoforge:add_spawns", "biomes": "galosphere:crystal_canyons", "spawners": [ { "type": "galosphere:sparkle", "maxCount": 6, "minCount": 4, "weight": 10 }, { "type": "minecraft:glow_squid", "maxCount": 6, "minCount": 4, "weight": 10 } ]}
+add_large_silver_ores.json :: { "type": "neoforge:add_features", "biomes": "galosphere:crystal_canyons", "features": "galosphere:ore_silver_large", "step": "underground_ores"}
+add_lichen_caves_features.json :: { "type": "neoforge:add_spawns", "biomes": "galosphere:lichen_caves", "spawners": { "type": "galosphere:spectre", "maxCount": 8, "minCount": 8, "weight": 20 }}
+add_lichen_caves_spawns.json :: { "type": "neoforge:add_features", "biomes": "galosphere:lichen_caves", "features": [ "galosphere:bowl_lichen", "galosphere:lichen_caves_vegetation", "galosphere:lichen_cordyceps_column", "galosphere:gravel_patch" ], "step": "vegetal_decoration"}
+add_pink_salt_caves_features.json :: { "type": "neoforge:add_features", "biomes": "galosphere:pink_salt_caves", "features": [ "galosphere:pink_salt_noise_ceiling_patch", "galosphere:pink_salt_noise_ground_patch", "galosphere:pink_salt_straw_ceiling_patch", "galosphere:pink_salt_straw_floor_patch" ], "step": "vegetal_decoration"}
+add_pink_salt_caves_modifications.json :: { "type": "neoforge:add_features", "biomes": "galosphere:pink_salt_caves", "features": "galosphere:oasis", "step": "local_modifications"}
+add_pink_salt_caves_spawns.json :: { "type": "neoforge:add_spawns", "biomes": "galosphere:pink_salt_caves", "spawners": { "type": "galosphere:preserved", "maxCount": 4, "minCount": 4, "weight": 100 }}
+add_silver_ores.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "galosphere:ore_silver_small", "step": "underground_ores"}
+
+## c: common tag membership
+block/ores/palladium.json :: { "values": [ "galosphere:palladium_ore", "galosphere:deepslate_palladium_ore" ]}
+block/ores.json :: { "values": [ "#c:ores/palladium" ]}
+block/storage_blocks/palladium.json :: { "values": [ "galosphere:palladium_block" ]}
+block/storage_blocks/raw_palladium.json :: { "values": [ "galosphere:raw_palladium_block" ]}
+block/storage_blocks.json :: { "values": [ "#c:storage_blocks/palladium", "#c:storage_blocks/raw_palladium" ]}
+item/foods.json :: { "values": [ "galosphere:lichen_cordyceps", "galosphere:golden_lichen_cordyceps", "galosphere:salted_jerky", "galosphere:preserved_flesh" ]}
+item/ingots/palladium.json :: { "values": [ "galosphere:palladium_ingot" ]}
+item/ingots.json :: { "values": [ "#c:ingots/palladium" ]}
+item/nuggets/palladium.json :: { "values": [ "galosphere:palladium_nugget" ]}
+item/nuggets.json :: { "values": [ "#c:nuggets/palladium" ]}
+item/ores/palladium.json :: { "values": [ "galosphere:palladium_ore", "galosphere:deepslate_palladium_ore" ]}
+item/ores.json :: { "values": [ "#c:ores/palladium" ]}
+item/raw_materials/palladium.json :: { "values": [ "galosphere:raw_palladium" ]}
+item/raw_materials.json :: { "values": [ "#c:raw_materials/palladium" ]}
+item/storage_blocks/palladium.json :: { "values": [ "galosphere:palladium_block" ]}
+item/storage_blocks/raw_palladium.json :: { "values": [ "galosphere:raw_palladium_block" ]}
+item/storage_blocks.json :: { "values": [ "#c:storage_blocks/palladium", "#c:storage_blocks/raw_palladium" ]}
+item/tools.json :: { "values": [ "galosphere:echo_bell" ]}
+worldgen/biome/is_cave.json :: { "values": [ { "id": "galosphere:crystal_canyons", "required": false }, { "id": "galosphere:lichen_caves", "required": false }, { "id": "galosphere:pink_salt_caves", "required": false } ]}
+worldgen/biome/is_underground.json :: { "values": [ { "id": "galosphere:crystal_canyons", "required": false }, { "id": "galosphere:lichen_caves", "required": false }, { "id": "galosphere:pink_salt_caves", "required": false } ]}

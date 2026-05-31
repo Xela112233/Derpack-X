@@ -1,0 +1,12 @@
+# tidal-towns-1.3.4
+
+## mod metadata (id / version / deps)
+license = 'LicenseRef-All-Rights-Reserved'
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

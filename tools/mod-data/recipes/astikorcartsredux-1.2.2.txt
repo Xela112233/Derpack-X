@@ -1,0 +1,67 @@
+astikorcartsredux:acacia_animal_cart | minecraft:crafting_shaped | astikorcartsredux:acacia_animal_cart astikorcartsredux:wheel minecraft:acacia_planks minecraft:crafting_shaped
+astikorcartsredux:acacia_hand_cart | minecraft:crafting_shaped | astikorcartsredux:acacia_hand_cart astikorcartsredux:wheel minecraft:acacia_planks minecraft:chest minecraft:crafting_shaped
+astikorcartsredux:acacia_plow | minecraft:crafting_shaped | astikorcartsredux:acacia_plow astikorcartsredux:wheel minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick
+astikorcartsredux:acacia_reaper | minecraft:crafting_shaped | astikorcartsredux:acacia_reaper astikorcartsredux:wheel minecraft:acacia_planks minecraft:acacia_slab minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+astikorcartsredux:acacia_seed_drill | minecraft:crafting_shaped | astikorcartsredux:acacia_seed_drill astikorcartsredux:wheel minecraft:acacia_planks minecraft:chest minecraft:crafting_shaped minecraft:hopper
+astikorcartsredux:acacia_supply_cart | minecraft:crafting_shaped | astikorcartsredux:acacia_supply_cart astikorcartsredux:wheel minecraft:acacia_planks minecraft:chest minecraft:crafting_shaped
+astikorcartsredux:bamboo_animal_cart | minecraft:crafting_shaped | astikorcartsredux:bamboo_animal_cart astikorcartsredux:wheel minecraft:bamboo_planks minecraft:crafting_shaped
+astikorcartsredux:bamboo_hand_cart | minecraft:crafting_shaped | astikorcartsredux:bamboo_hand_cart astikorcartsredux:wheel minecraft:bamboo_planks minecraft:chest minecraft:crafting_shaped
+astikorcartsredux:bamboo_plow | minecraft:crafting_shaped | astikorcartsredux:bamboo_plow astikorcartsredux:wheel minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick
+astikorcartsredux:bamboo_reaper | minecraft:crafting_shaped | astikorcartsredux:bamboo_reaper astikorcartsredux:wheel minecraft:bamboo_planks minecraft:bamboo_slab minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+astikorcartsredux:bamboo_seed_drill | minecraft:crafting_shaped | astikorcartsredux:bamboo_seed_drill astikorcartsredux:wheel minecraft:bamboo_planks minecraft:chest minecraft:crafting_shaped minecraft:hopper
+astikorcartsredux:bamboo_supply_cart | minecraft:crafting_shaped | astikorcartsredux:bamboo_supply_cart astikorcartsredux:wheel minecraft:bamboo_planks minecraft:chest minecraft:crafting_shaped
+astikorcartsredux:birch_animal_cart | minecraft:crafting_shaped | astikorcartsredux:birch_animal_cart astikorcartsredux:wheel minecraft:birch_planks minecraft:crafting_shaped
+astikorcartsredux:birch_hand_cart | minecraft:crafting_shaped | astikorcartsredux:birch_hand_cart astikorcartsredux:wheel minecraft:birch_planks minecraft:chest minecraft:crafting_shaped
+astikorcartsredux:birch_plow | minecraft:crafting_shaped | astikorcartsredux:birch_plow astikorcartsredux:wheel minecraft:birch_planks minecraft:crafting_shaped minecraft:stick
+astikorcartsredux:birch_reaper | minecraft:crafting_shaped | astikorcartsredux:birch_reaper astikorcartsredux:wheel minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+astikorcartsredux:birch_seed_drill | minecraft:crafting_shaped | astikorcartsredux:birch_seed_drill astikorcartsredux:wheel minecraft:birch_planks minecraft:chest minecraft:crafting_shaped minecraft:hopper
+astikorcartsredux:birch_supply_cart | minecraft:crafting_shaped | astikorcartsredux:birch_supply_cart astikorcartsredux:wheel minecraft:birch_planks minecraft:chest minecraft:crafting_shaped
+astikorcartsredux:cherry_animal_cart | minecraft:crafting_shaped | astikorcartsredux:cherry_animal_cart astikorcartsredux:wheel minecraft:cherry_planks minecraft:crafting_shaped
+astikorcartsredux:cherry_hand_cart | minecraft:crafting_shaped | astikorcartsredux:cherry_hand_cart astikorcartsredux:wheel minecraft:cherry_planks minecraft:chest minecraft:crafting_shaped
+astikorcartsredux:cherry_plow | minecraft:crafting_shaped | astikorcartsredux:cherry_plow astikorcartsredux:wheel minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick
+astikorcartsredux:cherry_reaper | minecraft:crafting_shaped | astikorcartsredux:cherry_reaper astikorcartsredux:wheel minecraft:cherry_planks minecraft:cherry_slab minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+astikorcartsredux:cherry_seed_drill | minecraft:crafting_shaped | astikorcartsredux:cherry_seed_drill astikorcartsredux:wheel minecraft:cherry_planks minecraft:chest minecraft:crafting_shaped minecraft:hopper
+astikorcartsredux:cherry_supply_cart | minecraft:crafting_shaped | astikorcartsredux:cherry_supply_cart astikorcartsredux:wheel minecraft:cherry_planks minecraft:chest minecraft:crafting_shaped
+astikorcartsredux:crimson_animal_cart | minecraft:crafting_shaped | astikorcartsredux:crimson_animal_cart astikorcartsredux:wheel minecraft:crafting_shaped minecraft:crimson_planks
+astikorcartsredux:crimson_hand_cart | minecraft:crafting_shaped | astikorcartsredux:crimson_hand_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:crimson_planks
+astikorcartsredux:crimson_plow | minecraft:crafting_shaped | astikorcartsredux:crimson_plow astikorcartsredux:wheel minecraft:crafting_shaped minecraft:crimson_planks minecraft:stick
+astikorcartsredux:crimson_reaper | minecraft:crafting_shaped | astikorcartsredux:crimson_reaper astikorcartsredux:wheel minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_slab minecraft:iron_ingot minecraft:stick
+astikorcartsredux:crimson_seed_drill | minecraft:crafting_shaped | astikorcartsredux:crimson_seed_drill astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:crimson_planks minecraft:hopper
+astikorcartsredux:crimson_supply_cart | minecraft:crafting_shaped | astikorcartsredux:crimson_supply_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:crimson_planks
+astikorcartsredux:dark_oak_animal_cart | minecraft:crafting_shaped | astikorcartsredux:dark_oak_animal_cart astikorcartsredux:wheel minecraft:crafting_shaped minecraft:dark_oak_planks
+astikorcartsredux:dark_oak_hand_cart | minecraft:crafting_shaped | astikorcartsredux:dark_oak_hand_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:dark_oak_planks
+astikorcartsredux:dark_oak_plow | minecraft:crafting_shaped | astikorcartsredux:dark_oak_plow astikorcartsredux:wheel minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:stick
+astikorcartsredux:dark_oak_reaper | minecraft:crafting_shaped | astikorcartsredux:dark_oak_reaper astikorcartsredux:wheel minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab minecraft:iron_ingot minecraft:stick
+astikorcartsredux:dark_oak_seed_drill | minecraft:crafting_shaped | astikorcartsredux:dark_oak_seed_drill astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:hopper
+astikorcartsredux:dark_oak_supply_cart | minecraft:crafting_shaped | astikorcartsredux:dark_oak_supply_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:dark_oak_planks
+astikorcartsredux:jungle_animal_cart | minecraft:crafting_shaped | astikorcartsredux:jungle_animal_cart astikorcartsredux:wheel minecraft:crafting_shaped minecraft:jungle_planks
+astikorcartsredux:jungle_hand_cart | minecraft:crafting_shaped | astikorcartsredux:jungle_hand_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:jungle_planks
+astikorcartsredux:jungle_plow | minecraft:crafting_shaped | astikorcartsredux:jungle_plow astikorcartsredux:wheel minecraft:crafting_shaped minecraft:jungle_planks minecraft:stick
+astikorcartsredux:jungle_reaper | minecraft:crafting_shaped | astikorcartsredux:jungle_reaper astikorcartsredux:wheel minecraft:crafting_shaped minecraft:iron_ingot minecraft:jungle_planks minecraft:jungle_slab minecraft:stick
+astikorcartsredux:jungle_seed_drill | minecraft:crafting_shaped | astikorcartsredux:jungle_seed_drill astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:hopper minecraft:jungle_planks
+astikorcartsredux:jungle_supply_cart | minecraft:crafting_shaped | astikorcartsredux:jungle_supply_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:jungle_planks
+astikorcartsredux:mangrove_animal_cart | minecraft:crafting_shaped | astikorcartsredux:mangrove_animal_cart astikorcartsredux:wheel minecraft:crafting_shaped minecraft:mangrove_planks
+astikorcartsredux:mangrove_hand_cart | minecraft:crafting_shaped | astikorcartsredux:mangrove_hand_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:mangrove_planks
+astikorcartsredux:mangrove_plow | minecraft:crafting_shaped | astikorcartsredux:mangrove_plow astikorcartsredux:wheel minecraft:crafting_shaped minecraft:mangrove_planks minecraft:stick
+astikorcartsredux:mangrove_reaper | minecraft:crafting_shaped | astikorcartsredux:mangrove_reaper astikorcartsredux:wheel minecraft:crafting_shaped minecraft:iron_ingot minecraft:mangrove_planks minecraft:mangrove_slab minecraft:stick
+astikorcartsredux:mangrove_seed_drill | minecraft:crafting_shaped | astikorcartsredux:mangrove_seed_drill astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:hopper minecraft:mangrove_planks
+astikorcartsredux:mangrove_supply_cart | minecraft:crafting_shaped | astikorcartsredux:mangrove_supply_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:mangrove_planks
+astikorcartsredux:oak_animal_cart | minecraft:crafting_shaped | astikorcartsredux:oak_animal_cart astikorcartsredux:wheel minecraft:crafting_shaped minecraft:oak_planks
+astikorcartsredux:oak_hand_cart | minecraft:crafting_shaped | astikorcartsredux:oak_hand_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:oak_planks
+astikorcartsredux:oak_plow | minecraft:crafting_shaped | astikorcartsredux:oak_plow astikorcartsredux:wheel minecraft:crafting_shaped minecraft:oak_planks minecraft:stick
+astikorcartsredux:oak_reaper | minecraft:crafting_shaped | astikorcartsredux:oak_reaper astikorcartsredux:wheel minecraft:crafting_shaped minecraft:iron_ingot minecraft:oak_planks minecraft:oak_slab minecraft:stick
+astikorcartsredux:oak_seed_drill | minecraft:crafting_shaped | astikorcartsredux:oak_seed_drill astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:hopper minecraft:oak_planks
+astikorcartsredux:oak_supply_cart | minecraft:crafting_shaped | astikorcartsredux:oak_supply_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:oak_planks
+astikorcartsredux:spruce_animal_cart | minecraft:crafting_shaped | astikorcartsredux:spruce_animal_cart astikorcartsredux:wheel minecraft:crafting_shaped minecraft:spruce_planks
+astikorcartsredux:spruce_hand_cart | minecraft:crafting_shaped | astikorcartsredux:spruce_hand_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:spruce_planks
+astikorcartsredux:spruce_plow | minecraft:crafting_shaped | astikorcartsredux:spruce_plow astikorcartsredux:wheel minecraft:crafting_shaped minecraft:spruce_planks minecraft:stick
+astikorcartsredux:spruce_reaper | minecraft:crafting_shaped | astikorcartsredux:spruce_reaper astikorcartsredux:wheel minecraft:crafting_shaped minecraft:iron_ingot minecraft:spruce_planks minecraft:spruce_slab minecraft:stick
+astikorcartsredux:spruce_seed_drill | minecraft:crafting_shaped | astikorcartsredux:spruce_seed_drill astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:hopper minecraft:spruce_planks
+astikorcartsredux:spruce_supply_cart | minecraft:crafting_shaped | astikorcartsredux:spruce_supply_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:spruce_planks
+astikorcartsredux:warped_animal_cart | minecraft:crafting_shaped | astikorcartsredux:warped_animal_cart astikorcartsredux:wheel minecraft:crafting_shaped minecraft:warped_planks
+astikorcartsredux:warped_hand_cart | minecraft:crafting_shaped | astikorcartsredux:warped_hand_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:warped_planks
+astikorcartsredux:warped_plow | minecraft:crafting_shaped | astikorcartsredux:warped_plow astikorcartsredux:wheel minecraft:crafting_shaped minecraft:stick minecraft:warped_planks
+astikorcartsredux:warped_reaper | minecraft:crafting_shaped | astikorcartsredux:warped_reaper astikorcartsredux:wheel minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick minecraft:warped_planks minecraft:warped_slab
+astikorcartsredux:warped_seed_drill | minecraft:crafting_shaped | astikorcartsredux:warped_seed_drill astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:hopper minecraft:warped_planks
+astikorcartsredux:warped_supply_cart | minecraft:crafting_shaped | astikorcartsredux:warped_supply_cart astikorcartsredux:wheel minecraft:chest minecraft:crafting_shaped minecraft:warped_planks
+astikorcartsredux:wheel | minecraft:crafting_shaped | astikorcartsredux:wheel minecraft:crafting_shaped minecraft:planks minecraft:stick

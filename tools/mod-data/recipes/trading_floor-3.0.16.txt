@@ -1,0 +1,1 @@
+trading_floor:trading_depot | minecraft:crafting_shaped | create:depot create:electron_tube minecraft:crafting_shaped trading_floor:trading_depot

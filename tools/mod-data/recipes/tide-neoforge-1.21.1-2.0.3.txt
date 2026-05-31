@@ -1,0 +1,93 @@
+farmersdelight:cutting/fish_slice_cutting | farmersdelight:cutting | c:tools/knives fabric:all_mods_loaded farmersdelight:cutting forge:mod_loaded minecraft:bone_meal neoforge:mod_loaded tide:cookable_fish tide:fish_slice
+tide:amethyst_from_shrimp | minecraft:crafting_shapeless | minecraft:amethyst_shard minecraft:crafting_shapeless tide:crystal_shrimp
+tide:angling_table | minecraft:crafting_shaped | c:ingots/copper c:strings minecraft:crafting_shaped minecraft:planks tide:angling_table
+tide:bait | minecraft:crafting_shapeless | c:seeds minecraft:bone_meal minecraft:crafting_shapeless minecraft:rotten_flesh tide:bait tide:bait_plants
+tide:bobbers/amethyst | minecraft:crafting_shapeless | c:slime_balls minecraft:amethyst_shard minecraft:crafting_shapeless minecraft:planks tide:amethyst_fishing_bobber
+tide:bobbers/apple | minecraft:crafting_shapeless | c:slime_balls minecraft:apple minecraft:crafting_shapeless minecraft:planks tide:apple_fishing_bobber
+tide:bobbers/black | minecraft:crafting_shapeless | c:dyes/black c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:black_fishing_bobber
+tide:bobbers/blue | minecraft:crafting_shapeless | c:dyes/blue c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:blue_fishing_bobber
+tide:bobbers/brown | minecraft:crafting_shapeless | c:dyes/brown c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:brown_fishing_bobber
+tide:bobbers/chorus | minecraft:crafting_shapeless | c:slime_balls minecraft:chorus_fruit minecraft:crafting_shapeless minecraft:planks tide:chorus_fishing_bobber
+tide:bobbers/cyan | minecraft:crafting_shapeless | c:dyes/cyan c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:cyan_fishing_bobber
+tide:bobbers/diamond | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:diamond minecraft:planks tide:diamond_fishing_bobber
+tide:bobbers/duck | minecraft:crafting_shapeless | c:slime_balls minecraft:chicken minecraft:crafting_shapeless minecraft:planks tide:duck_fishing_bobber
+tide:bobbers/echo | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:echo_shard minecraft:planks tide:echo_fishing_bobber
+tide:bobbers/enchanted_golden_apple | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:enchanted_golden_apple minecraft:planks tide:enchanted_golden_apple_fishing_bobber
+tide:bobbers/feather | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:feather minecraft:planks tide:feather_fishing_bobber
+tide:bobbers/golden | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:gold_ingot minecraft:planks tide:golden_fishing_bobber
+tide:bobbers/golden_apple | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:golden_apple minecraft:planks tide:golden_apple_fishing_bobber
+tide:bobbers/grassy | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:grass_block minecraft:planks tide:grassy_fishing_bobber
+tide:bobbers/gray | minecraft:crafting_shapeless | c:dyes/gray c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:gray_fishing_bobber
+tide:bobbers/green | minecraft:crafting_shapeless | c:dyes/green c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:green_fishing_bobber
+tide:bobbers/heart | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:heart_of_the_sea minecraft:planks tide:heart_fishing_bobber
+tide:bobbers/iron | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:iron_ingot minecraft:planks tide:iron_fishing_bobber
+tide:bobbers/lichen | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:glow_lichen minecraft:planks tide:lichen_fishing_bobber
+tide:bobbers/light_blue | minecraft:crafting_shapeless | c:dyes/light_blue c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:light_blue_fishing_bobber
+tide:bobbers/light_gray | minecraft:crafting_shapeless | c:dyes/light_gray c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:light_gray_fishing_bobber
+tide:bobbers/lime | minecraft:crafting_shapeless | c:dyes/lime c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:lime_fishing_bobber
+tide:bobbers/magenta | minecraft:crafting_shapeless | c:dyes/magenta c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:magenta_fishing_bobber
+tide:bobbers/nautilus | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:nautilus_shell minecraft:planks tide:nautilus_fishing_bobber
+tide:bobbers/netherite | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:netherite_ingot minecraft:planks tide:netherite_fishing_bobber
+tide:bobbers/orange | minecraft:crafting_shapeless | c:dyes/orange c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:orange_fishing_bobber
+tide:bobbers/pearl | minecraft:crafting_shapeless | c:slime_balls minecraft:crafting_shapeless minecraft:ender_pearl minecraft:planks tide:pearl_fishing_bobber
+tide:bobbers/pink | minecraft:crafting_shapeless | c:dyes/pink c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:pink_fishing_bobber
+tide:bobbers/purple | minecraft:crafting_shapeless | c:dyes/purple c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:purple_fishing_bobber
+tide:bobbers/red | minecraft:crafting_shapeless | c:dyes/red c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:red_fishing_bobber
+tide:bobbers/white | minecraft:crafting_shapeless | c:dyes/white c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:white_fishing_bobber
+tide:bobbers/yellow | minecraft:crafting_shapeless | c:dyes/yellow c:slime_balls minecraft:crafting_shapeless minecraft:planks tide:yellow_fishing_bobber
+tide:bone_meal_from_fish_bone | minecraft:crafting_shapeless | minecraft:bone_meal minecraft:crafting_shapeless tide:fish_bone
+tide:braided_line | minecraft:crafting_shaped | c:slime_balls minecraft:crafting_shaped tide:braided_line tide:fishing_line
+tide:climate_gauge | minecraft:crafting_shaped | c:dusts/redstone c:glass_blocks/colorless c:nuggets/iron minecraft:crafting_shaped tide:climate_gauge
+tide:cooked_fish_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking tide:cookable/cooked_fish tide:cooked_fish
+tide:cooked_fish_slice_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking tide:cooked_fish_slice tide:fish_slice
+tide:cooked_fish_slice_smelting | minecraft:smelting | minecraft:smelting tide:cooked_fish_slice tide:fish_slice
+tide:cooked_fish_slice_smoking | minecraft:smoking | minecraft:smoking tide:cooked_fish_slice tide:fish_slice
+tide:cooked_fish_smelting | minecraft:smelting | minecraft:smelting tide:cookable/cooked_fish tide:cooked_fish
+tide:cooked_fish_smoking | minecraft:smoking | minecraft:smoking tide:cookable/cooked_fish tide:cooked_fish
+tide:crystal_rod_smithing | minecraft:smithing_transform | c:gems/amethyst c:strings minecraft:fishing_rod minecraft:smithing_transform tide:crystal_fishing_rod tide:golden_fishing_rod tide:iron_fishing_rod tide:stone_fishing_rod
+tide:depth_meter | minecraft:crafting_shaped | c:dusts/redstone c:ingots/iron minecraft:crafting_shaped minecraft:stick tide:depth_meter
+tide:diamond_rod_smithing | minecraft:smithing_transform | c:gems/diamond c:strings minecraft:fishing_rod minecraft:smithing_transform tide:crystal_fishing_rod tide:diamond_fishing_rod tide:golden_fishing_rod tide:iron_fishing_rod tide:stone_fishing_rod
+tide:dragonfin_boots_smithing | minecraft:smithing_transform | minecraft:dragon_breath minecraft:netherite_boots minecraft:smithing_transform tide:dragon_fish tide:dragonfin_boots
+tide:enchanted_pocket_watch | minecraft:crafting_shapeless | minecraft:crafting_shapeless tide:coelacanth tide:enchanted_pocket_watch tide:pocket_watch
+tide:eye_from_endergazer | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:ender_eye tide:endergazer
+tide:fish_display | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:logs minecraft:stick tide:fish_display
+tide:fish_satchel | minecraft:crafting_shaped | c:leathers minecraft:crafting_shaped tide:fish tide:fish_satchel
+tide:fishing_hook | minecraft:crafting_shaped | c:cobblestones minecraft:crafting_shaped minecraft:iron_nugget tide:fishing_hook
+tide:fishing_journal | minecraft:crafting_shapeless | minecraft:book minecraft:crafting_shapeless tide:fish tide:fishing_journal
+tide:fishing_line | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped tide:fishing_line
+tide:fishy_note_from_fish | tide:fishy_note_recipe | tide:fishy_note_recipe
+tide:glow_ink_from_fish | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:glow_ink_sac tide:glowfish
+tide:gold_from_minnow | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:raw_gold tide:gilded_minnow
+tide:gold_rod_smithing | minecraft:smithing_transform | c:ingots/gold c:strings minecraft:fishing_rod minecraft:smithing_transform tide:golden_fishing_rod tide:iron_fishing_rod tide:stone_fishing_rod
+tide:golden_line | minecraft:crafting_shaped | c:ingots/gold minecraft:crafting_shaped tide:fishing_line tide:golden_line
+tide:grilled_tuna_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking tide:cookable/grilled_tuna tide:grilled_tuna
+tide:grilled_tuna_smelting | minecraft:smelting | minecraft:smelting tide:cookable/grilled_tuna tide:grilled_tuna
+tide:grilled_tuna_smoking | minecraft:smoking | minecraft:smoking tide:cookable/grilled_tuna tide:grilled_tuna
+tide:iron_fishing_hook | minecraft:crafting_shaped | c:ingots/iron c:nuggets/iron minecraft:crafting_shaped tide:iron_fishing_hook
+tide:iron_from_tetra | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:raw_iron tide:iron_tetra
+tide:iron_rod_smithing | minecraft:smithing_transform | c:ingots/iron c:strings minecraft:fishing_rod minecraft:smithing_transform tide:iron_fishing_rod tide:stone_fishing_rod
+tide:jelly_torch_from_jellyfish | minecraft:crafting_shapeless | minecraft:crafting_shapeless tide:jelly_torch tide:luminescent_jellyfish
+tide:jelly_torch_from_sun_emblem | minecraft:crafting_shapeless | minecraft:crafting_shapeless tide:jelly_torch tide:sun_emblem
+tide:lapis_from_lanternfish | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:lapis_lazuli tide:lapis_lanternfish
+tide:large_cooked_fish_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking tide:cookable/large_cooked_fish tide:large_cooked_fish
+tide:large_cooked_fish_smelting | minecraft:smelting | minecraft:smelting tide:cookable/large_cooked_fish tide:large_cooked_fish
+tide:large_cooked_fish_smoking | minecraft:smoking | minecraft:smoking tide:cookable/large_cooked_fish tide:large_cooked_fish
+tide:lavaproof_fishing_hook | minecraft:crafting_shaped | c:ingots/gold c:obsidians minecraft:crafting_shaped tide:lavaproof_fishing_hook
+tide:lucky_bait | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:rabbit_foot tide:bait tide:lucky_bait
+tide:lunar_calendar | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:ink_sac minecraft:paper minecraft:spyglass tide:lunar_calendar
+tide:magnetic_bait | minecraft:crafting_shaped | c:dusts/redstone c:gems/lapis c:gems/prismarine minecraft:crafting_shaped minecraft:iron_nugget tide:bait tide:magnetic_bait
+tide:membrane_from_elytrout | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:phantom_membrane tide:elytrout
+tide:midas_rod_smithing | minecraft:smithing_transform | c:strings minecraft:smithing_transform tide:golden_fishing_rod tide:midas_fish tide:midas_fishing_rod
+tide:netherite_rod_smithing | minecraft:smithing_transform | c:ingots/netherite minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform tide:diamond_fishing_rod tide:netherite_fishing_rod
+tide:obsidian_from_fragments | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:obsidian tide:obsidian_fragment
+tide:pearl_from_enderfin | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:ender_pearl tide:enderfin
+tide:pocket_watch | minecraft:crafting_shapeless | minecraft:chain minecraft:clock minecraft:crafting_shapeless tide:pocket_watch
+tide:reinforced_line | minecraft:crafting_shaped | c:nuggets/iron minecraft:crafting_shaped tide:fishing_line tide:reinforced_line
+tide:small_cooked_fish_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking tide:cookable/small_cooked_fish tide:small_cooked_fish
+tide:small_cooked_fish_smelting | minecraft:smelting | minecraft:smelting tide:cookable/small_cooked_fish tide:small_cooked_fish
+tide:small_cooked_fish_smoking | minecraft:smoking | minecraft:smoking tide:cookable/small_cooked_fish tide:small_cooked_fish
+tide:starlight_bow | minecraft:crafting_shapeless | minecraft:bow minecraft:crafting_shapeless tide:shooting_starfish tide:starlight_bow
+tide:stone_fishing_rod | minecraft:crafting_shaped | c:cobblestones c:strings minecraft:crafting_shaped tide:stone_fishing_rod
+tide:void_fishing_hook | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:crying_obsidian minecraft:dragon_breath tide:void_fishing_hook
+tide:weather_radio | minecraft:crafting_shaped | c:dusts/redstone c:ingots/copper minecraft:crafting_shaped minecraft:lightning_rod tide:weather_radio
+tide:wooden_crate | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:wooden_slabs tide:wooden_crate

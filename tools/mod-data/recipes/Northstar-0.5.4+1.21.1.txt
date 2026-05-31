@@ -1,0 +1,535 @@
+create:crushing/basalt | create:crushing | create:crushing minecraft:basalt northstar:salt
+create:crushing/enriched_glowstone_ore | create:crushing | create:crushing minecraft:glowstone_dust northstar:enriched_glowstone_ore
+create:crushing/limestone | create:crushing | create:crushing create:limestone northstar:rutile_concentrate
+create:crushing/lunar_sapphire_block | create:crushing | create:crushing northstar:lunar_sapphire_block northstar:lunar_sapphire_shard
+create:crushing/lunar_sapphire_cluster | create:crushing | create:crushing northstar:lunar_sapphire_cluster northstar:lunar_sapphire_shard
+create:crushing/mars_gravel | create:crushing | create:crushing northstar:mars_gravel northstar:mars_sand northstar:salt
+create:crushing/mars_stone | create:crushing | create:crushing northstar:mars_gravel northstar:mars_stone
+create:crushing/moon_stone | create:crushing | create:crushing northstar:moon_sand northstar:moon_stone
+create:crushing/venus_gravel | create:crushing | create:crushing northstar:rutile_concentrate northstar:venus_gravel
+create:engraving/raw_glowstone_ore | northstar:engraving | northstar:engraving northstar:enriched_glowstone_ore northstar:raw_glowstone_ore
+create:pressing/dough | create:pressing | create:dough create:pressing northstar:flattened_dough
+create:pressing/martian_steel | create:pressing | create:pressing northstar:martian_steel northstar:martian_steel_sheet
+create:pressing/titanium_ingot | create:pressing | create:pressing northstar:titanium_ingot northstar:titanium_sheet
+create:pressing/tungsten_ingot | create:pressing | create:pressing northstar:tungsten_ingot northstar:tungsten_sheet
+create:sandpaper_polishing/amethyst_shard | create:sandpaper_polishing | create:sandpaper_polishing minecraft:amethyst_shard northstar:polished_amethyst
+create:sandpaper_polishing/diamond | create:sandpaper_polishing | create:sandpaper_polishing minecraft:diamond northstar:polished_diamond
+create:sandpaper_polishing/lunar_sapphire_shard | create:sandpaper_polishing | create:sandpaper_polishing northstar:lunar_sapphire_shard northstar:polished_lunar_sapphire
+create:splashing/crushed_raw_tungsten | create:splashing | create:splashing minecraft:quartz northstar:crushed_raw_tungsten northstar:tungsten_nugget
+northstar:argyre_planks | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:argyre_logs northstar:argyre_planks
+northstar:argyre_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:argyre_planks northstar:argyre_slab
+northstar:argyre_slab_from_argyre_planks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:argyre_planks northstar:argyre_slab
+northstar:argyre_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:argyre_planks northstar:argyre_stairs
+northstar:argyre_stairs_from_argyre_planks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:argyre_planks northstar:argyre_stairs
+northstar:blasting/iron_ingot_from_martian_ore | minecraft:blasting | minecraft:blasting minecraft:iron_ingot northstar:raw_martian_iron_ore
+northstar:blasting/mars_copper_ore | minecraft:blasting | minecraft:blasting minecraft:copper_ingot northstar:mars_copper_ore
+northstar:blasting/mars_deep_copper_ore | minecraft:blasting | minecraft:blasting minecraft:copper_ingot northstar:mars_deep_copper_ore
+northstar:blasting/mars_deep_diamond_ore | minecraft:blasting | minecraft:blasting minecraft:diamond northstar:mars_deep_diamond_ore
+northstar:blasting/mars_deep_gold_ore | minecraft:blasting | minecraft:blasting minecraft:gold_ingot northstar:mars_deep_gold_ore
+northstar:blasting/mars_deep_iron_ore | minecraft:blasting | minecraft:blasting minecraft:iron_ingot northstar:mars_deep_iron_ore
+northstar:blasting/mars_deep_quartz_ore | minecraft:blasting | minecraft:blasting minecraft:quartz northstar:mars_deep_quartz_ore
+northstar:blasting/mars_deep_redstone_ore | minecraft:blasting | minecraft:blasting minecraft:redstone northstar:mars_deep_redstone_ore
+northstar:blasting/mars_deep_titanium_ore | minecraft:blasting | minecraft:blasting northstar:mars_deep_titanium_ore northstar:titanium_ingot
+northstar:blasting/mars_diamond_ore | minecraft:blasting | minecraft:blasting minecraft:diamond northstar:mars_diamond_ore
+northstar:blasting/mars_gold_ore | minecraft:blasting | minecraft:blasting minecraft:gold_ingot northstar:mars_gold_ore
+northstar:blasting/mars_iron_ore | minecraft:blasting | minecraft:blasting minecraft:iron_ingot northstar:mars_iron_ore
+northstar:blasting/mars_quartz_ore | minecraft:blasting | minecraft:blasting minecraft:quartz northstar:mars_quartz_ore
+northstar:blasting/mars_redstone_ore | minecraft:blasting | minecraft:blasting minecraft:redstone northstar:mars_redstone_ore
+northstar:blasting/mars_titanium_ore | minecraft:blasting | minecraft:blasting northstar:mars_titanium_ore northstar:titanium_ingot
+northstar:blasting/mercury_copper_ore | minecraft:blasting | minecraft:blasting minecraft:copper_ingot northstar:mercury_copper_ore
+northstar:blasting/mercury_deep_copper_ore | minecraft:blasting | minecraft:blasting minecraft:copper_ingot northstar:mercury_deep_copper_ore
+northstar:blasting/mercury_deep_diamond_ore | minecraft:blasting | minecraft:blasting minecraft:diamond northstar:mercury_deep_diamond_ore
+northstar:blasting/mercury_deep_glowstone_ore | minecraft:blasting | minecraft:blasting minecraft:glowstone_dust northstar:mercury_deep_glowstone_ore
+northstar:blasting/mercury_deep_gold_ore | minecraft:blasting | minecraft:blasting minecraft:gold_ingot northstar:mercury_deep_gold_ore
+northstar:blasting/mercury_deep_iron_ore | minecraft:blasting | minecraft:blasting minecraft:iron_ingot northstar:mercury_deep_iron_ore
+northstar:blasting/mercury_deep_lapis_ore | minecraft:blasting | minecraft:blasting minecraft:lapis_lazuli northstar:mercury_deep_lapis_ore
+northstar:blasting/mercury_deep_redstone_ore | minecraft:blasting | minecraft:blasting minecraft:redstone northstar:mercury_deep_redstone_ore
+northstar:blasting/mercury_deep_titanium_ore | minecraft:blasting | minecraft:blasting northstar:mercury_deep_titanium_ore northstar:titanium_ingot
+northstar:blasting/mercury_deep_tungsten_ore | minecraft:blasting | minecraft:blasting northstar:mercury_deep_tungsten_ore northstar:tungsten_ingot
+northstar:blasting/mercury_diamond_ore | minecraft:blasting | minecraft:blasting minecraft:diamond northstar:mercury_diamond_ore
+northstar:blasting/mercury_glowstone_ore | minecraft:blasting | minecraft:blasting minecraft:glowstone_dust northstar:mercury_glowstone_ore
+northstar:blasting/mercury_gold_ore | minecraft:blasting | minecraft:blasting minecraft:gold_ingot northstar:mercury_gold_ore
+northstar:blasting/mercury_iron_ore | minecraft:blasting | minecraft:blasting minecraft:iron_ingot northstar:mercury_iron_ore
+northstar:blasting/mercury_lapis_ore | minecraft:blasting | minecraft:blasting minecraft:lapis_lazuli northstar:mercury_lapis_ore
+northstar:blasting/mercury_redstone_ore | minecraft:blasting | minecraft:blasting minecraft:redstone northstar:mercury_redstone_ore
+northstar:blasting/mercury_titanium_ore | minecraft:blasting | minecraft:blasting northstar:mercury_titanium_ore northstar:titanium_ingot
+northstar:blasting/mercury_tungsten_ore | minecraft:blasting | minecraft:blasting northstar:mercury_tungsten_ore northstar:tungsten_ingot
+northstar:blasting/moon_copper_ore | minecraft:blasting | minecraft:blasting minecraft:copper_ingot northstar:moon_copper_ore
+northstar:blasting/moon_deep_copper_ore | minecraft:blasting | minecraft:blasting minecraft:copper_ingot northstar:moon_deep_copper_ore
+northstar:blasting/moon_deep_diamond_ore | minecraft:blasting | minecraft:blasting minecraft:diamond northstar:moon_deep_diamond_ore
+northstar:blasting/moon_deep_glowstone_ore | minecraft:blasting | minecraft:blasting minecraft:glowstone_dust northstar:moon_deep_glowstone_ore
+northstar:blasting/moon_deep_gold_ore | minecraft:blasting | minecraft:blasting minecraft:gold_ingot northstar:moon_deep_gold_ore
+northstar:blasting/moon_deep_iron_ore | minecraft:blasting | minecraft:blasting minecraft:iron_ingot northstar:moon_deep_iron_ore
+northstar:blasting/moon_deep_lapis_ore | minecraft:blasting | minecraft:blasting minecraft:lapis_lazuli northstar:moon_deep_lapis_ore
+northstar:blasting/moon_deep_redstone_ore | minecraft:blasting | minecraft:blasting minecraft:redstone northstar:moon_deep_redstone_ore
+northstar:blasting/moon_deep_titanium_ore | minecraft:blasting | minecraft:blasting northstar:moon_deep_titanium_ore northstar:titanium_ingot
+northstar:blasting/moon_diamond_ore | minecraft:blasting | minecraft:blasting minecraft:diamond northstar:moon_diamond_ore
+northstar:blasting/moon_glowstone_ore | minecraft:blasting | minecraft:blasting minecraft:glowstone_dust northstar:moon_glowstone_ore
+northstar:blasting/moon_gold_ore | minecraft:blasting | minecraft:blasting minecraft:gold_ingot northstar:moon_gold_ore
+northstar:blasting/moon_iron_ore | minecraft:blasting | minecraft:blasting minecraft:iron_ingot northstar:moon_iron_ore
+northstar:blasting/moon_lapis_ore | minecraft:blasting | minecraft:blasting minecraft:lapis_lazuli northstar:moon_lapis_ore
+northstar:blasting/moon_redstone_ore | minecraft:blasting | minecraft:blasting minecraft:redstone northstar:moon_redstone_ore
+northstar:blasting/moon_titanium_ore | minecraft:blasting | minecraft:blasting northstar:moon_titanium_ore northstar:titanium_ingot
+northstar:blasting/titanium_ingot_from_raw | minecraft:blasting | minecraft:blasting northstar:raw_titanium_ore northstar:titanium_ingot
+northstar:blasting/tungsten_ingot_from_crushed | minecraft:blasting | minecraft:blasting northstar:crushed_raw_tungsten northstar:tungsten_ingot
+northstar:blasting/tungsten_ingot_from_raw | minecraft:blasting | minecraft:blasting northstar:raw_tungsten_ore northstar:tungsten_ingot
+northstar:blasting/venus_coal_ore | minecraft:blasting | minecraft:blasting minecraft:coal northstar:venus_coal_ore
+northstar:blasting/venus_copper_ore | minecraft:blasting | minecraft:blasting minecraft:copper_ingot northstar:venus_copper_ore
+northstar:blasting/venus_deep_copper_ore | minecraft:blasting | minecraft:blasting minecraft:copper_ingot northstar:venus_deep_copper_ore
+northstar:blasting/venus_deep_diamond_ore | minecraft:blasting | minecraft:blasting minecraft:diamond northstar:venus_deep_diamond_ore
+northstar:blasting/venus_deep_glowstone_ore | minecraft:blasting | minecraft:blasting minecraft:glowstone_dust northstar:venus_deep_glowstone_ore
+northstar:blasting/venus_deep_gold_ore | minecraft:blasting | minecraft:blasting minecraft:gold_ingot northstar:venus_deep_gold_ore
+northstar:blasting/venus_deep_iron_ore | minecraft:blasting | minecraft:blasting minecraft:iron_ingot northstar:venus_deep_iron_ore
+northstar:blasting/venus_deep_quartz_ore | minecraft:blasting | minecraft:blasting minecraft:quartz northstar:venus_deep_quartz_ore
+northstar:blasting/venus_deep_redstone_ore | minecraft:blasting | minecraft:blasting minecraft:redstone northstar:venus_deep_redstone_ore
+northstar:blasting/venus_deep_titanium_ore | minecraft:blasting | minecraft:blasting northstar:titanium_ingot northstar:venus_deep_titanium_ore
+northstar:blasting/venus_diamond_ore | minecraft:blasting | minecraft:blasting minecraft:diamond northstar:venus_diamond_ore
+northstar:blasting/venus_glowstone_ore | minecraft:blasting | minecraft:blasting minecraft:glowstone_dust northstar:venus_glowstone_ore
+northstar:blasting/venus_gold_ore | minecraft:blasting | minecraft:blasting minecraft:gold_ingot northstar:venus_gold_ore
+northstar:blasting/venus_iron_ore | minecraft:blasting | minecraft:blasting minecraft:iron_ingot northstar:venus_iron_ore
+northstar:blasting/venus_quartz_ore | minecraft:blasting | minecraft:blasting minecraft:quartz northstar:venus_quartz_ore
+northstar:blasting/venus_redstone_ore | minecraft:blasting | minecraft:blasting minecraft:redstone northstar:venus_redstone_ore
+northstar:blasting/venus_titanium_ore | minecraft:blasting | minecraft:blasting northstar:titanium_ingot northstar:venus_titanium_ore
+northstar:calorian_planks | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:calorian_logs northstar:calorian_planks
+northstar:calorian_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:calorian_planks northstar:calorian_slab
+northstar:calorian_slab_from_calorian_planks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:calorian_planks northstar:calorian_slab
+northstar:calorian_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:calorian_planks northstar:calorian_stairs
+northstar:calorian_stairs_from_calorian_planks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:calorian_planks northstar:calorian_stairs
+northstar:campfire_cooking/dry_plant_fiber | minecraft:campfire_cooking | minecraft:bamboo minecraft:campfire_cooking northstar:dry_plant_fiber
+northstar:campfire_cooking/ice_cream_cone | minecraft:campfire_cooking | minecraft:campfire_cooking northstar:ice_cream_cone northstar:raw_ice_cream_cone
+northstar:chiseled_mars_stone | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:chiseled_mars_stone northstar:mars_stone_brick_slab
+northstar:chiseled_mercury_stone | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:chiseled_mercury_stone northstar:mercury_stone_brick_slab
+northstar:chiseled_moon_stone | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:chiseled_moon_stone northstar:moon_stone_brick_slab
+northstar:chiseled_venus_stone | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:chiseled_venus_stone northstar:venus_stone_brick_slab
+northstar:coiler_planks | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:coiler_logs northstar:coiler_planks
+northstar:compacting/biofuel_from_dried_kelp | create:compacting | create:compacting minecraft:bone_meal minecraft:dried_kelp northstar:biofuel
+northstar:compacting/biofuel_from_dry_plant_fiber | create:compacting | create:compacting minecraft:bone_meal northstar:biofuel northstar:dry_plant_fiber
+northstar:compacting/biofuel_from_mekanism | create:compacting | create:compacting mekanism:bio_fuel neoforge:compound neoforge:mod_loaded northstar:biofuel
+northstar:compacting/brine_to_salt | create:compacting | c:brine create:compacting neoforge:tag northstar:salt
+northstar:compacting/carbon_from_biodiesel | create:compacting | create:compacting neoforge:mod_loaded neoforge:tag northstar:carbon northstar:compat_cdg_biodiesel
+northstar:compacting/carbon_from_biofuel | create:compacting | c:biofuel create:compacting neoforge:tag northstar:carbon
+northstar:compacting/carbon_from_coal | create:compacting | create:compacting minecraft:coal northstar:carbon
+northstar:compacting/carbon_from_moon_sand | create:compacting | create:compacting northstar:carbon northstar:moon_sand
+northstar:compacting/carbon_from_venus_gravel | create:compacting | create:compacting northstar:carbon northstar:venus_gravel
+northstar:compacting/martian_steel_ingot | create:compacting | c:ingots/titanium create:compacting northstar:martian_steel northstar:raw_martian_iron_ore northstar:volcanic_ash_item
+northstar:compacting/sodium_from_bloom_fungus | create:compacting | create:compacting northstar:bloom_fungus_block northstar:sodium
+northstar:compacting/sodium_from_plate_fungus | create:compacting | create:compacting northstar:plate_fungus_stem_block northstar:sodium
+northstar:compacting/sodium_from_spike_fungus | create:compacting | create:compacting northstar:sodium northstar:spike_fungus_block
+northstar:compacting/sodium_from_tower_fungus | create:compacting | create:compacting northstar:sodium northstar:tower_fungus_stem_block
+northstar:crafting/amethyst_crystal | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:iron_ingot minecraft:redstone northstar:amethyst_crystal northstar:polished_amethyst
+northstar:crafting/astronomy_table | minecraft:crafting_shaped | c:stripped_logs minecraft:crafting_shaped minecraft:iron_ingot minecraft:paper minecraft:wooden_slabs northstar:astronomy_table
+northstar:crafting/combustion_engine | minecraft:crafting_shaped | c:plates/titanium create:industrial_iron_block minecraft:crafting_shaped minecraft:piston northstar:combustion_engine northstar:rocket_combustion_chamber
+northstar:crafting/durable_fabric | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:string minecraft:wool northstar:durable_fabric
+northstar:crafting/fan_blade | minecraft:crafting_shaped | c:plates/titanium minecraft:crafting_shaped northstar:fan_blade
+northstar:crafting/frost | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:ice northstar:frost
+northstar:crafting/glowstone_lamp | minecraft:crafting_shaped | c:plates/titanium minecraft:crafting_shaped minecraft:glowstone northstar:glowstone_lamp
+northstar:crafting/glowstone_lantern | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glowstone_dust minecraft:iron_nugget northstar:glowstone_lantern
+northstar:crafting/glowstone_torch | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glowstone_dust minecraft:iron_ingot northstar:glowstone_torch
+northstar:crafting/ice_box | minecraft:crafting_shaped | c:plates/iron create:basin minecraft:blue_ice minecraft:crafting_shaped northstar:ice_box
+northstar:crafting/iron_cogwheel | minecraft:crafting_shapeless | create:industrial_iron_block create:shaft minecraft:crafting_shapeless northstar:iron_cogwheel
+northstar:crafting/iron_large_cogwheel | minecraft:crafting_shapeless | create:industrial_iron_block create:shaft minecraft:crafting_shapeless northstar:iron_large_cogwheel
+northstar:crafting/iron_large_cogwheel_from_small | minecraft:crafting_shapeless | create:industrial_iron_block minecraft:crafting_shapeless northstar:iron_cogwheel northstar:iron_large_cogwheel
+northstar:crafting/iron_space_suit_boots | minecraft:crafting_shaped | c:plates/iron minecraft:crafting_shaped minecraft:iron_boots northstar:durable_fabric northstar:iron_space_suit_boots
+northstar:crafting/iron_space_suit_chestpiece | minecraft:crafting_shaped | c:plates/iron create:copper_backtank minecraft:crafting_shaped minecraft:iron_chestplate northstar:durable_fabric northstar:iron_space_suit_chestpiece
+northstar:crafting/iron_space_suit_helmet | minecraft:crafting_shaped | c:plates/iron minecraft:crafting_shaped minecraft:iron_helmet minecraft:tinted_glass northstar:iron_space_suit_helmet
+northstar:crafting/iron_space_suit_leggings | minecraft:crafting_shaped | c:plates/iron minecraft:crafting_shaped minecraft:iron_leggings northstar:durable_fabric northstar:iron_space_suit_leggings
+northstar:crafting/jet_engine | minecraft:crafting_shaped | c:plates/titanium create:propeller minecraft:crafting_shaped northstar:jet_engine northstar:rocket_combustion_chamber
+northstar:crafting/large_fan | minecraft:crafting_shaped | c:ingots/titanium c:plates/titanium create:shaft minecraft:crafting_shaped northstar:large_fan
+northstar:crafting/lunar_sapphire_block | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:lunar_sapphire_block northstar:lunar_sapphire_shard
+northstar:crafting/lunar_sapphire_crystal | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:iron_ingot minecraft:redstone northstar:lunar_sapphire_crystal northstar:polished_lunar_sapphire
+northstar:crafting/mars_stone_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mars_stone northstar:mars_stone_bricks
+northstar:crafting/mars_stone_bricks_deep | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mars_deep_stone northstar:mars_stone_bricks
+northstar:crafting/mars_stone_lamp | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glowstone northstar:mars_stone northstar:mars_stone_lamp
+northstar:crafting/martian_axe | minecraft:crafting_shaped | create:zinc_ingot minecraft:crafting_shaped northstar:martian_axe northstar:martian_steel
+northstar:crafting/martian_hoe | minecraft:crafting_shaped | create:zinc_ingot minecraft:crafting_shaped northstar:martian_hoe northstar:martian_steel
+northstar:crafting/martian_pickaxe | minecraft:crafting_shaped | create:zinc_ingot minecraft:crafting_shaped northstar:martian_pickaxe northstar:martian_steel
+northstar:crafting/martian_shovel | minecraft:crafting_shaped | create:zinc_ingot minecraft:crafting_shaped northstar:martian_shovel northstar:martian_steel
+northstar:crafting/martian_steel_block_from_ingot | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:martian_steel northstar:martian_steel_block
+northstar:crafting/martian_steel_blue_lamp | minecraft:crafting_shaped | c:plates/martian_steel minecraft:crafting_shaped minecraft:sea_lantern northstar:martian_steel_blue_lamp
+northstar:crafting/martian_steel_boots | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:martian_steel northstar:martian_steel_boots
+northstar:crafting/martian_steel_chestplate | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:martian_steel northstar:martian_steel_chestplate
+northstar:crafting/martian_steel_from_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:martian_steel northstar:martian_steel_block
+northstar:crafting/martian_steel_helmet | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:martian_steel northstar:martian_steel_helmet
+northstar:crafting/martian_steel_lamp | minecraft:crafting_shaped | c:plates/martian_steel minecraft:crafting_shaped minecraft:glowstone northstar:martian_steel_lamp
+northstar:crafting/martian_steel_large_plating_from_martian_steel_plating | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:martian_steel_large_plating northstar:martian_steel_plating
+northstar:crafting/martian_steel_leggings | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:martian_steel northstar:martian_steel_leggings
+northstar:crafting/martian_steel_plating_from_martian_steel_large_plating | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:martian_steel_large_plating northstar:martian_steel_plating
+northstar:crafting/martian_steel_space_suit_boots | minecraft:crafting_shaped | c:plates/martian_steel minecraft:crafting_shaped northstar:durable_fabric northstar:martian_steel_boots northstar:martian_steel_space_suit_boots
+northstar:crafting/martian_steel_space_suit_chestpiece | minecraft:crafting_shaped | c:plates/martian_steel create:copper_backtank minecraft:crafting_shaped northstar:durable_fabric northstar:martian_steel_chestplate northstar:martian_steel_space_suit_chestpiece
+northstar:crafting/martian_steel_space_suit_helmet | minecraft:crafting_shaped | c:plates/martian_steel minecraft:crafting_shaped minecraft:tinted_glass northstar:martian_steel_helmet northstar:martian_steel_space_suit_helmet
+northstar:crafting/martian_steel_space_suit_leggings | minecraft:crafting_shaped | c:plates/martian_steel minecraft:crafting_shaped northstar:durable_fabric northstar:martian_steel_leggings northstar:martian_steel_space_suit_leggings
+northstar:crafting/martian_sword | minecraft:crafting_shaped | create:zinc_ingot minecraft:crafting_shaped northstar:martian_steel northstar:martian_sword
+northstar:crafting/mercury_stone_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mercury_stone northstar:mercury_stone_bricks
+northstar:crafting/mercury_stone_bricks_deep | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mercury_deep_stone northstar:mercury_stone_bricks
+northstar:crafting/mercury_stone_lamp | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glowstone northstar:mercury_stone northstar:mercury_stone_lamp
+northstar:crafting/moon_sand_paper | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:paper northstar:moon_sand northstar:moon_sand_paper
+northstar:crafting/moon_stone_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:moon_stone northstar:moon_stone_bricks
+northstar:crafting/moon_stone_bricks_deep | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:moon_deep_stone northstar:moon_stone_bricks
+northstar:crafting/moon_stone_lamp | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glowstone northstar:moon_stone northstar:moon_stone_lamp
+northstar:crafting/oxygen_detector | minecraft:crafting_shaped | c:plates/martian_steel minecraft:crafting_shaped minecraft:observer minecraft:wool northstar:advanced_circuit northstar:oxygen_detector
+northstar:crafting/oxygen_filler | minecraft:crafting_shaped | c:plates/iron c:plates/titanium minecraft:crafting_shaped northstar:circuit northstar:oxygen_filler northstar:oxygen_separator
+northstar:crafting/oxygen_separator | minecraft:crafting_shaped | c:plates/iron create:electron_tube create:fluid_pipe minecraft:crafting_shaped northstar:oxygen_separator
+northstar:crafting/raw_ice_cream_cone | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:flattened_dough northstar:raw_ice_cream_cone
+northstar:crafting/rocket_combustion_chamber | minecraft:crafting_shaped | c:plates/titanium create:propeller minecraft:crafting_shaped northstar:hardened_precision_mechanism northstar:oxygen_separator northstar:rocket_combustion_chamber
+northstar:crafting/telescope | minecraft:crafting_shaped | c:ingots/brass minecraft:amethyst_shard minecraft:crafting_shaped minecraft:stick northstar:telescope
+northstar:crafting/titanium_block_from_ingot | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:titanium_block northstar:titanium_ingot
+northstar:crafting/titanium_ingot_from_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:titanium_block northstar:titanium_ingot
+northstar:crafting/titanium_ingot_from_nuggets | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:titanium_ingot northstar:titanium_nugget
+northstar:crafting/titanium_nugget_from_ingot | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:titanium_ingot northstar:titanium_nugget
+northstar:crafting/titanium_space_door | minecraft:crafting_shaped | c:plates/titanium minecraft:crafting_shaped minecraft:glass northstar:circuit northstar:titanium_space_door
+northstar:crafting/tungsten_block_from_ingot | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:tungsten_block northstar:tungsten_ingot
+northstar:crafting/tungsten_ingot_from_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:tungsten_block northstar:tungsten_ingot
+northstar:crafting/tungsten_ingot_from_nuggets | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:tungsten_ingot northstar:tungsten_nugget
+northstar:crafting/tungsten_nugget_from_ingot | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:tungsten_ingot northstar:tungsten_nugget
+northstar:crafting/vent | minecraft:crafting_shaped | c:ingots/titanium c:plates/titanium minecraft:crafting_shaped northstar:vent
+northstar:crafting/venus_stone_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:venus_stone northstar:venus_stone_bricks
+northstar:crafting/venus_stone_bricks_deep | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:venus_deep_stone northstar:venus_stone_bricks
+northstar:crafting/venus_stone_lamp | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glowstone northstar:venus_stone northstar:venus_stone_lamp
+northstar:crushing/mars_copper_ore | create:crushing | create:crushed_raw_copper create:crushing create:experience_nugget northstar:mars_copper_ore northstar:mars_stone
+northstar:crushing/mars_deep_copper_ore | create:crushing | create:crushed_raw_copper create:crushing create:experience_nugget northstar:mars_deep_copper_ore northstar:mars_deep_stone
+northstar:crushing/mars_deep_diamond_ore | create:crushing | create:crushing create:experience_nugget minecraft:diamond northstar:mars_deep_diamond_ore northstar:mars_deep_stone
+northstar:crushing/mars_deep_gold_ore | create:crushing | create:crushed_raw_gold create:crushing create:experience_nugget northstar:mars_deep_gold_ore northstar:mars_deep_stone
+northstar:crushing/mars_deep_iron_ore | create:crushing | create:crushing create:experience_nugget northstar:mars_deep_iron_ore northstar:mars_deep_stone northstar:raw_martian_iron_ore
+northstar:crushing/mars_deep_quartz_ore | create:crushing | create:crushing create:experience_nugget minecraft:quartz northstar:mars_deep_quartz_ore northstar:mars_deep_stone
+northstar:crushing/mars_deep_redstone_ore | create:crushing | create:crushing create:experience_nugget minecraft:redstone northstar:mars_deep_redstone_ore northstar:mars_deep_stone
+northstar:crushing/mars_deep_titanium_ore | create:crushing | create:crushing create:experience_nugget northstar:mars_deep_stone northstar:mars_deep_titanium_ore northstar:raw_titanium_ore
+northstar:crushing/mars_deep_zinc_ore | create:crushing | create:crushing create:experience_nugget minecraft:iron_ingot northstar:mars_deep_stone northstar:mars_deep_zinc_ore
+northstar:crushing/mars_diamond_ore | create:crushing | create:crushing create:experience_nugget minecraft:diamond northstar:mars_diamond_ore northstar:mars_stone
+northstar:crushing/mars_gold_ore | create:crushing | create:crushed_raw_gold create:crushing create:experience_nugget northstar:mars_gold_ore northstar:mars_stone
+northstar:crushing/mars_iron_ore | create:crushing | create:crushing create:experience_nugget northstar:mars_iron_ore northstar:mars_stone northstar:raw_martian_iron_ore
+northstar:crushing/mars_quartz_ore | create:crushing | create:crushing create:experience_nugget minecraft:quartz northstar:mars_quartz_ore northstar:mars_stone
+northstar:crushing/mars_redstone_ore | create:crushing | create:crushing create:experience_nugget minecraft:redstone northstar:mars_redstone_ore northstar:mars_stone
+northstar:crushing/mars_titanium_ore | create:crushing | create:crushing create:experience_nugget northstar:mars_stone northstar:mars_titanium_ore northstar:raw_titanium_ore
+northstar:crushing/mars_zinc_ore | create:crushing | create:crushing create:experience_nugget minecraft:iron_ingot northstar:mars_stone northstar:mars_zinc_ore
+northstar:crushing/mercury_copper_ore | create:crushing | create:crushed_raw_copper create:crushing create:experience_nugget northstar:mercury_copper_ore northstar:mercury_stone
+northstar:crushing/mercury_deep_copper_ore | create:crushing | create:crushed_raw_copper create:crushing create:experience_nugget northstar:mercury_deep_copper_ore northstar:mercury_deep_stone
+northstar:crushing/mercury_deep_diamond_ore | create:crushing | create:crushing create:experience_nugget minecraft:diamond northstar:mercury_deep_diamond_ore northstar:mercury_deep_stone
+northstar:crushing/mercury_deep_glowstone_ore | create:crushing | create:crushing create:experience_nugget northstar:mercury_deep_glowstone_ore northstar:mercury_deep_stone northstar:raw_glowstone_ore
+northstar:crushing/mercury_deep_gold_ore | create:crushing | create:crushed_raw_gold create:crushing create:experience_nugget northstar:mercury_deep_gold_ore northstar:mercury_deep_stone
+northstar:crushing/mercury_deep_iron_ore | create:crushing | create:crushed_raw_iron create:crushing create:experience_nugget northstar:mercury_deep_iron_ore northstar:mercury_deep_stone
+northstar:crushing/mercury_deep_lapis_ore | create:crushing | create:crushing create:experience_nugget minecraft:lapis_lazuli northstar:mercury_deep_lapis_ore northstar:mercury_deep_stone
+northstar:crushing/mercury_deep_redstone_ore | create:crushing | create:crushing create:experience_nugget minecraft:redstone northstar:mercury_deep_redstone_ore northstar:mercury_deep_stone
+northstar:crushing/mercury_deep_titanium_ore | create:crushing | create:crushing create:experience_nugget northstar:mercury_deep_stone northstar:mercury_deep_titanium_ore northstar:raw_titanium_ore
+northstar:crushing/mercury_deep_tungsten_ore | create:crushing | create:crushing create:experience_nugget northstar:crushed_raw_tungsten northstar:mercury_deep_stone northstar:mercury_deep_tungsten_ore
+northstar:crushing/mercury_deep_zinc_ore | create:crushing | create:crushing create:experience_nugget minecraft:iron_ingot northstar:mercury_deep_stone northstar:mercury_deep_zinc_ore
+northstar:crushing/mercury_diamond_ore | create:crushing | create:crushing create:experience_nugget minecraft:diamond northstar:mercury_diamond_ore northstar:mercury_stone
+northstar:crushing/mercury_glowstone_ore | create:crushing | create:crushing create:experience_nugget northstar:mercury_glowstone_ore northstar:mercury_stone northstar:raw_glowstone_ore
+northstar:crushing/mercury_gold_ore | create:crushing | create:crushed_raw_gold create:crushing create:experience_nugget northstar:mercury_gold_ore northstar:mercury_stone
+northstar:crushing/mercury_iron_ore | create:crushing | create:crushed_raw_iron create:crushing create:experience_nugget northstar:mercury_iron_ore northstar:mercury_stone
+northstar:crushing/mercury_lapis_ore | create:crushing | create:crushing create:experience_nugget minecraft:lapis_lazuli northstar:mercury_lapis_ore northstar:mercury_stone
+northstar:crushing/mercury_redstone_ore | create:crushing | create:crushing create:experience_nugget minecraft:redstone northstar:mercury_redstone_ore northstar:mercury_stone
+northstar:crushing/mercury_titanium_ore | create:crushing | create:crushing create:experience_nugget northstar:mercury_stone northstar:mercury_titanium_ore northstar:raw_titanium_ore
+northstar:crushing/mercury_tungsten_ore | create:crushing | create:crushing create:experience_nugget northstar:crushed_raw_tungsten northstar:mercury_stone northstar:mercury_tungsten_ore
+northstar:crushing/mercury_zinc_ore | create:crushing | create:crushing create:experience_nugget minecraft:iron_ingot northstar:mercury_stone northstar:mercury_zinc_ore
+northstar:crushing/moon_copper_ore | create:crushing | create:crushed_raw_copper create:crushing create:experience_nugget northstar:moon_copper_ore northstar:moon_stone
+northstar:crushing/moon_deep_copper_ore | create:crushing | create:crushed_raw_copper create:crushing create:experience_nugget northstar:moon_deep_copper_ore northstar:moon_deep_stone
+northstar:crushing/moon_deep_diamond_ore | create:crushing | create:crushing create:experience_nugget minecraft:diamond northstar:moon_deep_diamond_ore northstar:moon_deep_stone
+northstar:crushing/moon_deep_glowstone_ore | create:crushing | create:crushing create:experience_nugget northstar:moon_deep_glowstone_ore northstar:moon_deep_stone northstar:raw_glowstone_ore
+northstar:crushing/moon_deep_gold_ore | create:crushing | create:crushed_raw_gold create:crushing create:experience_nugget northstar:moon_deep_gold_ore northstar:moon_deep_stone
+northstar:crushing/moon_deep_iron_ore | create:crushing | create:crushed_raw_iron create:crushing create:experience_nugget northstar:moon_deep_iron_ore northstar:moon_deep_stone
+northstar:crushing/moon_deep_lapis_ore | create:crushing | create:crushing create:experience_nugget minecraft:lapis_lazuli northstar:moon_deep_lapis_ore northstar:moon_deep_stone
+northstar:crushing/moon_deep_redstone_ore | create:crushing | create:crushing create:experience_nugget minecraft:redstone northstar:moon_deep_redstone_ore northstar:moon_deep_stone
+northstar:crushing/moon_deep_titanium_ore | create:crushing | create:crushing create:experience_nugget northstar:moon_deep_stone northstar:moon_deep_titanium_ore northstar:raw_titanium_ore
+northstar:crushing/moon_deep_zinc_ore | create:crushing | create:crushing create:experience_nugget minecraft:iron_ingot northstar:moon_deep_stone northstar:moon_deep_zinc_ore
+northstar:crushing/moon_diamond_ore | create:crushing | create:crushing create:experience_nugget minecraft:diamond northstar:moon_diamond_ore northstar:moon_stone
+northstar:crushing/moon_glowstone_ore | create:crushing | create:crushing create:experience_nugget northstar:moon_glowstone_ore northstar:moon_stone northstar:raw_glowstone_ore
+northstar:crushing/moon_gold_ore | create:crushing | create:crushed_raw_gold create:crushing create:experience_nugget northstar:moon_gold_ore northstar:moon_stone
+northstar:crushing/moon_iron_ore | create:crushing | create:crushed_raw_iron create:crushing create:experience_nugget northstar:moon_iron_ore northstar:moon_stone
+northstar:crushing/moon_lapis_ore | create:crushing | create:crushing create:experience_nugget minecraft:lapis_lazuli northstar:moon_lapis_ore northstar:moon_stone
+northstar:crushing/moon_redstone_ore | create:crushing | create:crushing create:experience_nugget minecraft:redstone northstar:moon_redstone_ore northstar:moon_stone
+northstar:crushing/moon_titanium_ore | create:crushing | create:crushing create:experience_nugget northstar:moon_stone northstar:moon_titanium_ore northstar:raw_titanium_ore
+northstar:crushing/moon_zinc_ore | create:crushing | create:crushing create:experience_nugget minecraft:iron_ingot northstar:moon_stone northstar:moon_zinc_ore
+northstar:crushing/sand | create:crushing | create:crushing minecraft:sand northstar:rutile_concentrate
+northstar:crushing/venus_coal_ore | create:crushing | create:crushing create:experience_nugget minecraft:coal northstar:venus_coal_ore northstar:venus_stone
+northstar:crushing/venus_copper_ore | create:crushing | create:crushed_raw_copper create:crushing create:experience_nugget northstar:venus_copper_ore northstar:venus_stone
+northstar:crushing/venus_deep_copper_ore | create:crushing | create:crushed_raw_copper create:crushing create:experience_nugget northstar:venus_deep_copper_ore northstar:venus_deep_stone
+northstar:crushing/venus_deep_diamond_ore | create:crushing | create:crushing create:experience_nugget minecraft:diamond northstar:venus_deep_diamond_ore northstar:venus_deep_stone
+northstar:crushing/venus_deep_glowstone_ore | create:crushing | create:crushing create:experience_nugget northstar:raw_glowstone_ore northstar:venus_deep_glowstone_ore northstar:venus_deep_stone
+northstar:crushing/venus_deep_gold_ore | create:crushing | create:crushed_raw_gold create:crushing create:experience_nugget northstar:venus_deep_gold_ore northstar:venus_deep_stone
+northstar:crushing/venus_deep_iron_ore | create:crushing | create:crushed_raw_iron create:crushing create:experience_nugget northstar:venus_deep_iron_ore northstar:venus_deep_stone
+northstar:crushing/venus_deep_quartz_ore | create:crushing | create:crushing create:experience_nugget minecraft:quartz northstar:venus_deep_quartz_ore northstar:venus_deep_stone
+northstar:crushing/venus_deep_redstone_ore | create:crushing | create:crushing create:experience_nugget minecraft:redstone northstar:venus_deep_redstone_ore northstar:venus_deep_stone
+northstar:crushing/venus_deep_titanium_ore | create:crushing | create:crushing create:experience_nugget northstar:raw_titanium_ore northstar:venus_deep_stone northstar:venus_deep_titanium_ore
+northstar:crushing/venus_deep_zinc_ore | create:crushing | create:crushing create:experience_nugget minecraft:iron_ingot northstar:venus_deep_stone northstar:venus_deep_zinc_ore
+northstar:crushing/venus_diamond_ore | create:crushing | create:crushing create:experience_nugget minecraft:diamond northstar:venus_diamond_ore northstar:venus_stone
+northstar:crushing/venus_glowstone_ore | create:crushing | create:crushing create:experience_nugget northstar:raw_glowstone_ore northstar:venus_glowstone_ore northstar:venus_stone
+northstar:crushing/venus_gold_ore | create:crushing | create:crushed_raw_gold create:crushing create:experience_nugget northstar:venus_gold_ore northstar:venus_stone
+northstar:crushing/venus_iron_ore | create:crushing | create:crushed_raw_iron create:crushing create:experience_nugget northstar:venus_iron_ore northstar:venus_stone
+northstar:crushing/venus_quartz_ore | create:crushing | create:crushing create:experience_nugget minecraft:quartz northstar:venus_quartz_ore northstar:venus_stone
+northstar:crushing/venus_redstone_ore | create:crushing | create:crushing create:experience_nugget minecraft:redstone northstar:venus_redstone_ore northstar:venus_stone
+northstar:crushing/venus_titanium_ore | create:crushing | create:crushing create:experience_nugget northstar:raw_titanium_ore northstar:venus_stone northstar:venus_titanium_ore
+northstar:crushing/venus_zinc_ore | create:crushing | create:crushing create:experience_nugget minecraft:iron_ingot northstar:venus_stone northstar:venus_zinc_ore
+northstar:electrolysis/brine | northstar:electrolysis | c:brine neoforge:tag northstar:chlorine northstar:electrolysis northstar:sodium
+northstar:electrolysis/water | northstar:electrolysis | minecraft:water neoforge:tag northstar:electrolysis northstar:hydrogen northstar:oxygen
+northstar:filling/chocolate_ice_cream | create:filling | c:chocolate_ice_cream create:filling neoforge:tag northstar:chocolate_ice_cream northstar:ice_cream_cone
+northstar:filling/oxidization/copper_block_to_exposed_copper | create:filling | c:liquid_oxygen create:filling minecraft:copper_block minecraft:exposed_copper neoforge:tag
+northstar:filling/oxidization/cut_copper_slab_to_exposed_cut_copper_slab | create:filling | c:liquid_oxygen create:filling minecraft:cut_copper_slab minecraft:exposed_cut_copper_slab neoforge:tag
+northstar:filling/oxidization/cut_copper_stairs_to_exposed_cut_copper_stairs | create:filling | c:liquid_oxygen create:filling minecraft:cut_copper_stairs minecraft:exposed_cut_copper_stairs neoforge:tag
+northstar:filling/oxidization/cut_copper_to_exposed_cut_copper | create:filling | c:liquid_oxygen create:filling minecraft:cut_copper minecraft:exposed_cut_copper neoforge:tag
+northstar:filling/oxidization/exposed_copper_to_weathered_copper | create:filling | c:liquid_oxygen create:filling minecraft:exposed_copper minecraft:weathered_copper neoforge:tag
+northstar:filling/oxidization/exposed_cut_copper_slab_to_weathered_cut_copper_slab | create:filling | c:liquid_oxygen create:filling minecraft:exposed_cut_copper_slab minecraft:weathered_cut_copper_slab neoforge:tag
+northstar:filling/oxidization/exposed_cut_copper_stairs_to_weathered_cut_copper_stairs | create:filling | c:liquid_oxygen create:filling minecraft:exposed_cut_copper_stairs minecraft:weathered_cut_copper_stairs neoforge:tag
+northstar:filling/oxidization/exposed_cut_copper_to_weathered_cut_copper | create:filling | c:liquid_oxygen create:filling minecraft:exposed_cut_copper minecraft:weathered_cut_copper neoforge:tag
+northstar:filling/oxidization/waxed_copper_block_to_waxed_exposed_copper | create:filling | c:liquid_oxygen create:filling minecraft:waxed_copper_block minecraft:waxed_exposed_copper neoforge:tag
+northstar:filling/oxidization/waxed_cut_copper_slab_to_waxed_exposed_cut_copper_slab | create:filling | c:liquid_oxygen create:filling minecraft:waxed_cut_copper_slab minecraft:waxed_exposed_cut_copper_slab neoforge:tag
+northstar:filling/oxidization/waxed_cut_copper_stairs_to_waxed_exposed_cut_copper_stairs | create:filling | c:liquid_oxygen create:filling minecraft:waxed_cut_copper_stairs minecraft:waxed_exposed_cut_copper_stairs neoforge:tag
+northstar:filling/oxidization/waxed_cut_copper_to_waxed_exposed_cut_copper | create:filling | c:liquid_oxygen create:filling minecraft:waxed_cut_copper minecraft:waxed_exposed_cut_copper neoforge:tag
+northstar:filling/oxidization/waxed_exposed_copper_to_waxed_weathered_copper | create:filling | c:liquid_oxygen create:filling minecraft:waxed_exposed_copper minecraft:waxed_weathered_copper neoforge:tag
+northstar:filling/oxidization/waxed_exposed_cut_copper_slab_to_waxed_weathered_cut_copper_slab | create:filling | c:liquid_oxygen create:filling minecraft:waxed_exposed_cut_copper_slab minecraft:waxed_weathered_cut_copper_slab neoforge:tag
+northstar:filling/oxidization/waxed_exposed_cut_copper_stairs_to_waxed_weathered_cut_copper_stairs | create:filling | c:liquid_oxygen create:filling minecraft:waxed_exposed_cut_copper_stairs minecraft:waxed_weathered_cut_copper_stairs neoforge:tag
+northstar:filling/oxidization/waxed_exposed_cut_copper_to_waxed_weathered_cut_copper | create:filling | c:liquid_oxygen create:filling minecraft:waxed_exposed_cut_copper minecraft:waxed_weathered_cut_copper neoforge:tag
+northstar:filling/oxidization/waxed_weathered_copper_to_waxed_oxidized_copper | create:filling | c:liquid_oxygen create:filling minecraft:waxed_oxidized_copper minecraft:waxed_weathered_copper neoforge:tag
+northstar:filling/oxidization/waxed_weathered_cut_copper_slab_to_waxed_oxidized_cut_copper_slab | create:filling | c:liquid_oxygen create:filling minecraft:waxed_oxidized_cut_copper_slab minecraft:waxed_weathered_cut_copper_slab neoforge:tag
+northstar:filling/oxidization/waxed_weathered_cut_copper_stairs_to_waxed_oxidized_cut_copper_stairs | create:filling | c:liquid_oxygen create:filling minecraft:waxed_oxidized_cut_copper_stairs minecraft:waxed_weathered_cut_copper_stairs neoforge:tag
+northstar:filling/oxidization/waxed_weathered_cut_copper_to_waxed_oxidized_cut_copper | create:filling | c:liquid_oxygen create:filling minecraft:waxed_oxidized_cut_copper minecraft:waxed_weathered_cut_copper neoforge:tag
+northstar:filling/oxidization/weathered_copper_to_oxidized_copper | create:filling | c:liquid_oxygen create:filling minecraft:oxidized_copper minecraft:weathered_copper neoforge:tag
+northstar:filling/oxidization/weathered_cut_copper_slab_to_oxidized_cut_copper_slab | create:filling | c:liquid_oxygen create:filling minecraft:oxidized_cut_copper_slab minecraft:weathered_cut_copper_slab neoforge:tag
+northstar:filling/oxidization/weathered_cut_copper_stairs_to_oxidized_cut_copper_stairs | create:filling | c:liquid_oxygen create:filling minecraft:oxidized_cut_copper_stairs minecraft:weathered_cut_copper_stairs neoforge:tag
+northstar:filling/oxidization/weathered_cut_copper_to_oxidized_cut_copper | create:filling | c:liquid_oxygen create:filling minecraft:oxidized_cut_copper minecraft:weathered_cut_copper neoforge:tag
+northstar:filling/reduction/exposed_copper_to_copper_block | create:filling | c:sodium create:filling minecraft:copper_block minecraft:exposed_copper neoforge:tag
+northstar:filling/reduction/exposed_cut_copper_slab_to_cut_copper_slab | create:filling | c:sodium create:filling minecraft:cut_copper_slab minecraft:exposed_cut_copper_slab neoforge:tag
+northstar:filling/reduction/exposed_cut_copper_stairs_to_cut_copper_stairs | create:filling | c:sodium create:filling minecraft:cut_copper_stairs minecraft:exposed_cut_copper_stairs neoforge:tag
+northstar:filling/reduction/exposed_cut_copper_to_cut_copper | create:filling | c:sodium create:filling minecraft:cut_copper minecraft:exposed_cut_copper neoforge:tag
+northstar:filling/reduction/oxidized_copper_to_weathered_copper | create:filling | c:sodium create:filling minecraft:oxidized_copper minecraft:weathered_copper neoforge:tag
+northstar:filling/reduction/oxidized_cut_copper_slab_to_weathered_cut_copper_slab | create:filling | c:sodium create:filling minecraft:oxidized_cut_copper_slab minecraft:weathered_cut_copper_slab neoforge:tag
+northstar:filling/reduction/oxidized_cut_copper_stairs_to_weathered_cut_copper_stairs | create:filling | c:sodium create:filling minecraft:oxidized_cut_copper_stairs minecraft:weathered_cut_copper_stairs neoforge:tag
+northstar:filling/reduction/oxidized_cut_copper_to_weathered_cut_copper | create:filling | c:sodium create:filling minecraft:oxidized_cut_copper minecraft:weathered_cut_copper neoforge:tag
+northstar:filling/reduction/waxed_exposed_copper_to_waxed_copper_block | create:filling | c:sodium create:filling minecraft:waxed_copper_block minecraft:waxed_exposed_copper neoforge:tag
+northstar:filling/reduction/waxed_exposed_cut_copper_slab_to_waxed_cut_copper_slab | create:filling | c:sodium create:filling minecraft:waxed_cut_copper_slab minecraft:waxed_exposed_cut_copper_slab neoforge:tag
+northstar:filling/reduction/waxed_exposed_cut_copper_stairs_to_waxed_cut_copper_stairs | create:filling | c:sodium create:filling minecraft:waxed_cut_copper_stairs minecraft:waxed_exposed_cut_copper_stairs neoforge:tag
+northstar:filling/reduction/waxed_exposed_cut_copper_to_waxed_cut_copper | create:filling | c:sodium create:filling minecraft:waxed_cut_copper minecraft:waxed_exposed_cut_copper neoforge:tag
+northstar:filling/reduction/waxed_oxidized_copper_to_waxed_weathered_copper | create:filling | c:sodium create:filling minecraft:waxed_oxidized_copper minecraft:waxed_weathered_copper neoforge:tag
+northstar:filling/reduction/waxed_oxidized_cut_copper_slab_to_waxed_weathered_cut_copper_slab | create:filling | c:sodium create:filling minecraft:waxed_oxidized_cut_copper_slab minecraft:waxed_weathered_cut_copper_slab neoforge:tag
+northstar:filling/reduction/waxed_oxidized_cut_copper_stairs_to_waxed_weathered_cut_copper_stairs | create:filling | c:sodium create:filling minecraft:waxed_oxidized_cut_copper_stairs minecraft:waxed_weathered_cut_copper_stairs neoforge:tag
+northstar:filling/reduction/waxed_oxidized_cut_copper_to_waxed_weathered_cut_copper | create:filling | c:sodium create:filling minecraft:waxed_oxidized_cut_copper minecraft:waxed_weathered_cut_copper neoforge:tag
+northstar:filling/reduction/waxed_weathered_copper_to_waxed_exposed_copper | create:filling | c:sodium create:filling minecraft:waxed_exposed_copper minecraft:waxed_weathered_copper neoforge:tag
+northstar:filling/reduction/waxed_weathered_cut_copper_slab_to_waxed_exposed_cut_copper_slab | create:filling | c:sodium create:filling minecraft:waxed_exposed_cut_copper_slab minecraft:waxed_weathered_cut_copper_slab neoforge:tag
+northstar:filling/reduction/waxed_weathered_cut_copper_stairs_to_waxed_exposed_cut_copper_stairs | create:filling | c:sodium create:filling minecraft:waxed_exposed_cut_copper_stairs minecraft:waxed_weathered_cut_copper_stairs neoforge:tag
+northstar:filling/reduction/waxed_weathered_cut_copper_to_waxed_exposed_cut_copper | create:filling | c:sodium create:filling minecraft:waxed_exposed_cut_copper minecraft:waxed_weathered_cut_copper neoforge:tag
+northstar:filling/reduction/weathered_copper_to_exposed_copper | create:filling | c:sodium create:filling minecraft:exposed_copper minecraft:weathered_copper neoforge:tag
+northstar:filling/reduction/weathered_cut_copper_slab_to_exposed_cut_copper_slab | create:filling | c:sodium create:filling minecraft:exposed_cut_copper_slab minecraft:weathered_cut_copper_slab neoforge:tag
+northstar:filling/reduction/weathered_cut_copper_stairs_to_exposed_cut_copper_stairs | create:filling | c:sodium create:filling minecraft:exposed_cut_copper_stairs minecraft:weathered_cut_copper_stairs neoforge:tag
+northstar:filling/reduction/weathered_cut_copper_to_exposed_cut_copper | create:filling | c:sodium create:filling minecraft:exposed_cut_copper minecraft:weathered_cut_copper neoforge:tag
+northstar:filling/sodium_catalyst | create:filling | c:dusts/salt create:filling minecraft:lava neoforge:tag northstar:sodium_catalyst
+northstar:filling/strawberry_ice_cream | create:filling | c:strawberry_ice_cream create:filling neoforge:tag northstar:ice_cream_cone northstar:strawberry_ice_cream
+northstar:filling/vanilla_ice_cream | create:filling | c:vanilla_ice_cream create:filling neoforge:tag northstar:ice_cream_cone northstar:vanilla_ice_cream
+northstar:freezing/hydrogen_condensation | northstar:freezing | c:hydrogen neoforge:tag northstar:freezing northstar:liquid_hydrogen
+northstar:freezing/hydrogen_evaporation | northstar:freezing | c:liquid_hydrogen neoforge:tag northstar:freezing northstar:hydrogen
+northstar:freezing/ice_melting | northstar:freezing | minecraft:ice minecraft:water northstar:freezing
+northstar:freezing/methane_freezing | northstar:freezing | c:methane neoforge:tag northstar:freezing northstar:methane_ice
+northstar:freezing/methane_ice_melting | northstar:freezing | northstar:freezing northstar:methane northstar:methane_ice
+northstar:freezing/oxygen_condensation | northstar:freezing | c:oxygen neoforge:tag northstar:freezing northstar:liquid_oxygen
+northstar:freezing/oxygen_evaporation | northstar:freezing | c:liquid_oxygen neoforge:tag northstar:freezing northstar:oxygen
+northstar:freezing/vanilla_ice_cream | northstar:freezing | c:milk minecraft:sugar neoforge:tag northstar:freezing northstar:vanilla_ice_cream
+northstar:freezing/water_freezing | northstar:freezing | minecraft:ice minecraft:water neoforge:tag northstar:freezing
+northstar:liquid_burning/biofuel | createaddition:liquid_burning | createaddition:liquid_burning neoforge:mod_loaded neoforge:single northstar:biofuel
+northstar:liquid_burning/hydrocarbon | createaddition:liquid_burning | createaddition:liquid_burning neoforge:mod_loaded neoforge:single northstar:hydrocarbon
+northstar:liquid_burning/hydrogen | createaddition:liquid_burning | createaddition:liquid_burning neoforge:mod_loaded neoforge:single northstar:hydrogen
+northstar:liquid_burning/liquid_hydrogen | createaddition:liquid_burning | createaddition:liquid_burning neoforge:mod_loaded neoforge:single northstar:liquid_hydrogen
+northstar:liquid_burning/methane | createaddition:liquid_burning | createaddition:liquid_burning neoforge:mod_loaded neoforge:single northstar:methane
+northstar:mars_stone_brick_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mars_stone_brick_slab northstar:mars_stone_bricks
+northstar:mars_stone_brick_slab_from_mars_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:mars_stone_brick_slab northstar:mars_stone_bricks
+northstar:mars_stone_brick_slab_vertical | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mars_stone_brick_slab_vertical northstar:mars_stone_bricks
+northstar:mars_stone_brick_slab_vertical_from_mars_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:mars_stone_brick_slab_vertical northstar:mars_stone_bricks
+northstar:mars_stone_brick_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mars_stone_brick_stairs northstar:mars_stone_bricks
+northstar:mars_stone_brick_stairs_from_mars_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:mars_stone_brick_stairs northstar:mars_stone_bricks
+northstar:mars_stone_brick_wall | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mars_stone_brick_wall northstar:mars_stone_bricks
+northstar:mars_stone_brick_wall_from_mars_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:mars_stone_brick_wall northstar:mars_stone_bricks
+northstar:mars_stone_pillar | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mars_stone_bricks northstar:mars_stone_pillar
+northstar:mars_stone_pillar_from_mars_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:mars_stone_bricks northstar:mars_stone_pillar
+northstar:martian_steel_grate | minecraft:crafting_shaped | c:plates/martian_steel minecraft:crafting_shaped northstar:martian_steel_grate
+northstar:martian_steel_pillar | minecraft:crafting_shaped | c:ingots/martian_steel minecraft:crafting_shaped northstar:martian_steel_pillar
+northstar:martian_steel_pillar_from_ingots_martian_steel_stonecutting | minecraft:stonecutting | c:ingots/martian_steel minecraft:stonecutting northstar:martian_steel_pillar
+northstar:martian_steel_plating | minecraft:crafting_shaped | c:ingots/martian_steel minecraft:crafting_shaped northstar:martian_steel_plating
+northstar:martian_steel_plating_from_ingots_martian_steel_stonecutting | minecraft:stonecutting | c:ingots/martian_steel minecraft:stonecutting northstar:martian_steel_plating
+northstar:martian_steel_plating_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:martian_steel_plating northstar:martian_steel_plating_slab
+northstar:martian_steel_plating_slab_from_martian_steel_plating_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:martian_steel_plating northstar:martian_steel_plating_slab
+northstar:martian_steel_plating_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:martian_steel_plating northstar:martian_steel_plating_stairs
+northstar:martian_steel_plating_stairs_from_martian_steel_plating_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:martian_steel_plating northstar:martian_steel_plating_stairs
+northstar:martian_steel_plating_vertical_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:martian_steel_plating northstar:martian_steel_plating_vertical_slab
+northstar:martian_steel_plating_vertical_slab_from_martian_steel_plating_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:martian_steel_plating northstar:martian_steel_plating_vertical_slab
+northstar:martian_steel_sheetmetal | minecraft:crafting_shaped | c:plates/martian_steel minecraft:crafting_shaped northstar:martian_steel_sheetmetal
+northstar:martian_steel_sheetmetal_from_plates_martian_steel_stonecutting | minecraft:stonecutting | c:plates/martian_steel minecraft:stonecutting northstar:martian_steel_sheetmetal
+northstar:martian_steel_sheetmetal_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:martian_steel_sheetmetal northstar:martian_steel_sheetmetal_slab
+northstar:martian_steel_sheetmetal_slab_from_martian_steel_sheetmetal_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:martian_steel_sheetmetal northstar:martian_steel_sheetmetal_slab
+northstar:martian_steel_sheetmetal_vertical_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:martian_steel_sheetmetal northstar:martian_steel_sheetmetal_vertical_slab
+northstar:martian_steel_sheetmetal_vertical_slab_from_martian_steel_sheetmetal_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:martian_steel_sheetmetal northstar:martian_steel_sheetmetal_vertical_slab
+northstar:mechanical_crafting/atmospheric_concentrator | create:mechanical_crafting | c:plates/titanium create:fluid_tank create:mechanical_crafting create:propeller create:shaft minecraft:wool northstar:atmospheric_concentrator northstar:circuit northstar:oxygen_separator
+northstar:mechanical_crafting/auto_lander | create:mechanical_crafting | create:mechanical_crafting northstar:auto_lander northstar:circuit northstar:lunar_sapphire_crystal northstar:polished_lunar_sapphire northstar:rocket_station northstar:titanium_ingot northstar:titanium_sheet
+northstar:mechanical_crafting/circuit_engraver | create:mechanical_crafting | c:plates/titanium create:mechanical_crafting create:polished_rose_quartz create:precision_mechanism create:shaft northstar:amethyst_crystal northstar:circuit_engraver
+northstar:mechanical_crafting/computer_rack | create:mechanical_crafting | c:plates/iron create:andesite_alloy create:mechanical_crafting northstar:computer_rack
+northstar:mechanical_crafting/electrolysis_machine | create:mechanical_crafting | c:ingots/martian_steel c:plates/martian_steel create:fluid_pipe create:fluid_tank create:mechanical_crafting create:shaft northstar:amethyst_crystal northstar:circuit northstar:electrolysis_machine
+northstar:mechanical_crafting/interplanetary_navigator | create:mechanical_crafting | c:ingots/titanium c:plates/titanium create:mechanical_crafting northstar:circuit northstar:interplanetary_navigator northstar:polished_lunar_sapphire northstar:targeting_computer
+northstar:mechanical_crafting/oxygen_sealer | create:mechanical_crafting | c:plates/titanium create:encased_fan create:fluid_tank create:mechanical_crafting create:shaft northstar:circuit northstar:oxygen_sealer northstar:oxygen_separator
+northstar:mechanical_crafting/rocket_controls | create:mechanical_crafting | c:plates/titanium create:industrial_iron_block create:mechanical_crafting minecraft:lever northstar:circuit northstar:rocket_controls
+northstar:mechanical_crafting/rocket_station | create:mechanical_crafting | c:ingots/titanium c:plates/titanium create:mechanical_crafting northstar:circuit northstar:hardened_precision_mechanism northstar:iron_cogwheel northstar:rocket_station northstar:targeting_computer
+northstar:mechanical_crafting/solar_panel | create:mechanical_crafting | c:plates/titanium create:mechanical_crafting create:shaft minecraft:tinted_glass northstar:circuit northstar:solar_panel
+northstar:mechanical_crafting/temperature_regulator | create:mechanical_crafting | c:ingots/titanium c:plates/titanium create:mechanical_crafting create:shaft minecraft:blaze_rod minecraft:blue_ice northstar:advanced_circuit northstar:temperature_regulator
+northstar:mercury_stone_brick_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mercury_stone_brick_slab northstar:mercury_stone_bricks
+northstar:mercury_stone_brick_slab_from_mercury_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:mercury_stone_brick_slab northstar:mercury_stone_bricks
+northstar:mercury_stone_brick_slab_vertical | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mercury_stone_brick_slab_vertical northstar:mercury_stone_bricks
+northstar:mercury_stone_brick_slab_vertical_from_mercury_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:mercury_stone_brick_slab_vertical northstar:mercury_stone_bricks
+northstar:mercury_stone_brick_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mercury_stone_brick_stairs northstar:mercury_stone_bricks
+northstar:mercury_stone_brick_stairs_from_mercury_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:mercury_stone_brick_stairs northstar:mercury_stone_bricks
+northstar:mercury_stone_brick_wall | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mercury_stone_brick_wall northstar:mercury_stone_bricks
+northstar:mercury_stone_brick_wall_from_mercury_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:mercury_stone_brick_wall northstar:mercury_stone_bricks
+northstar:mercury_stone_pillar | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:mercury_stone_bricks northstar:mercury_stone_pillar
+northstar:mercury_stone_pillar_from_mercury_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:mercury_stone_bricks northstar:mercury_stone_pillar
+northstar:mixing/brine | create:mixing | c:dusts/salt create:mixing minecraft:water neoforge:tag northstar:brine
+northstar:mixing/chocolate_ice_cream | create:mixing | c:vanilla_ice_cream create:chocolate create:mixing neoforge:single neoforge:tag northstar:chocolate_ice_cream
+northstar:mixing/hydrocarbon_from_carbon | create:mixing | c:carbon create:mixing minecraft:water neoforge:tag northstar:hydrocarbon northstar:sodium_catalyst
+northstar:mixing/hydrocarbon_from_sodium | create:mixing | c:carbon c:sodium create:mixing neoforge:tag northstar:hydrocarbon
+northstar:mixing/potion_healing_3 | create:mixing | create:mixing create:potion minecraft:strong_healing neoforge:components northstar:enhanced_healing northstar:enriched_glowstone_ore
+northstar:mixing/potion_regeneration_3 | create:mixing | create:mixing create:potion minecraft:strong_regeneration neoforge:components northstar:enhanced_regeneration northstar:enriched_glowstone_ore
+northstar:mixing/potion_strength_3 | create:mixing | create:mixing create:potion minecraft:strong_strength neoforge:components northstar:enhanced_strength northstar:enriched_glowstone_ore
+northstar:mixing/strawberry_ice_cream | create:mixing | c:vanilla_ice_cream create:mixing neoforge:tag northstar:martian_strawberry northstar:strawberry_ice_cream
+northstar:mixing/titanium1 | create:mixing | c:carbon c:chlorine create:mixing create:zinc_ingot neoforge:tag northstar:rutile_concentrate northstar:titanium_tetrachloride
+northstar:mixing/titanium2 | create:mixing | c:carbon create:mixing create:zinc_ingot neoforge:tag northstar:rutile_concentrate northstar:sodium_catalyst northstar:titanium_tetrachloride
+northstar:mixing/water_from_blue_ice | create:mixing | create:mixing minecraft:blue_ice minecraft:water
+northstar:mixing/water_from_ice | create:mixing | create:mixing minecraft:ice minecraft:water
+northstar:mixing/water_from_packed_ice | create:mixing | create:mixing minecraft:packed_ice minecraft:water
+northstar:mixing/water_from_snow | create:mixing | create:mixing minecraft:snow_block minecraft:water
+northstar:moon_stone_brick_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:moon_stone_brick_slab northstar:moon_stone_bricks
+northstar:moon_stone_brick_slab_from_moon_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:moon_stone_brick_slab northstar:moon_stone_bricks
+northstar:moon_stone_brick_slab_vertical | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:moon_stone_brick_slab_vertical northstar:moon_stone_bricks
+northstar:moon_stone_brick_slab_vertical_from_moon_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:moon_stone_brick_slab_vertical northstar:moon_stone_bricks
+northstar:moon_stone_brick_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:moon_stone_brick_stairs northstar:moon_stone_bricks
+northstar:moon_stone_brick_stairs_from_moon_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:moon_stone_brick_stairs northstar:moon_stone_bricks
+northstar:moon_stone_brick_wall | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:moon_stone_brick_wall northstar:moon_stone_bricks
+northstar:moon_stone_brick_wall_from_moon_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:moon_stone_brick_wall northstar:moon_stone_bricks
+northstar:moon_stone_pillar | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:moon_stone_bricks northstar:moon_stone_pillar
+northstar:moon_stone_pillar_from_moon_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:moon_stone_bricks northstar:moon_stone_pillar
+northstar:sequenced_assembly/advanced_circuit | create:sequenced_assembly | c:plates/gold create:deploying create:sequenced_assembly northstar:advanced_circuit northstar:circuit northstar:engraving northstar:martian_steel_sheet northstar:polished_lunar_sapphire northstar:unfinished_advanced_circuit
+northstar:sequenced_assembly/circuit | create:sequenced_assembly | c:plates/copper c:plates/gold c:plates/iron create:copper_nugget create:deploying create:sequenced_assembly minecraft:iron_nugget northstar:circuit northstar:engraving northstar:polished_amethyst northstar:unfinished_circuit
+northstar:sequenced_assembly/dormant_martian_sapling | create:sequenced_assembly | create:filling create:potion create:sequenced_assembly minecraft:water neoforge:components neoforge:tag northstar:coiler_sapling northstar:dormant_martian_sapling northstar:dormant_martian_sapling_sequenced northstar:enhanced_healing northstar:enhanced_regeneration northstar:enhanced_strength
+northstar:sequenced_assembly/dormant_martian_seed | create:sequenced_assembly | create:filling create:potion create:sequenced_assembly minecraft:water neoforge:components neoforge:tag northstar:dormant_martian_seed northstar:dormant_martian_seed_sequenced northstar:enhanced_healing northstar:enhanced_regeneration northstar:enhanced_strength northstar:mars_palm_seeds northstar:mars_sprout_seeds northstar:mars_tulip_seeds
+northstar:sequenced_assembly/hardened_precision_mechanism | create:sequenced_assembly | c:nuggets/titanium create:deploying create:precision_mechanism create:sequenced_assembly minecraft:iron_nugget northstar:hardened_precision_mechanism northstar:incomplete_hardened_precision_mechanism northstar:iron_cogwheel northstar:iron_large_cogwheel
+northstar:sequenced_assembly/targeting_computer | create:sequenced_assembly | c:plates/iron create:deploying create:sequenced_assembly northstar:circuit northstar:engraving northstar:hardened_precision_mechanism northstar:polished_diamond northstar:targeting_computer northstar:unfinished_targeting_computer
+northstar:sequenced_assembly/titanium | create:sequenced_assembly | c:titanium_tetrachloride create:filling create:pressing create:sequenced_assembly create:sturdy_sheet minecraft:lava minecraft:water neoforge:tag northstar:incomplete_titanium_ingot northstar:titanium_ingot
+northstar:sequenced_assembly/titanium_compat_cbc | create:sequenced_assembly | c:titanium_tetrachloride create:filling create:pressing create:sequenced_assembly create:sturdy_sheet minecraft:water neoforge:mod_loaded neoforge:tag northstar:compat_cbc_molten_cast_iron northstar:incomplete_titanium_ingot northstar:titanium_ingot
+northstar:smelting/dry_plant_fiber | minecraft:smelting | minecraft:bamboo minecraft:smelting northstar:dry_plant_fiber
+northstar:smelting/ice_cream_cone | minecraft:smelting | minecraft:smelting northstar:ice_cream_cone northstar:raw_ice_cream_cone
+northstar:smelting/iron_ingot_from_martian_ore | minecraft:smelting | minecraft:iron_ingot minecraft:smelting northstar:raw_martian_iron_ore
+northstar:smelting/mars_copper_ore | minecraft:smelting | minecraft:copper_ingot minecraft:smelting northstar:mars_copper_ore
+northstar:smelting/mars_deep_copper_ore | minecraft:smelting | minecraft:copper_ingot minecraft:smelting northstar:mars_deep_copper_ore
+northstar:smelting/mars_deep_diamond_ore | minecraft:smelting | minecraft:diamond minecraft:smelting northstar:mars_deep_diamond_ore
+northstar:smelting/mars_deep_gold_ore | minecraft:smelting | minecraft:gold_ingot minecraft:smelting northstar:mars_deep_gold_ore
+northstar:smelting/mars_deep_iron_ore | minecraft:smelting | minecraft:iron_ingot minecraft:smelting northstar:mars_deep_iron_ore
+northstar:smelting/mars_deep_quartz_ore | minecraft:smelting | minecraft:quartz minecraft:smelting northstar:mars_deep_quartz_ore
+northstar:smelting/mars_deep_redstone_ore | minecraft:smelting | minecraft:redstone minecraft:smelting northstar:mars_deep_redstone_ore
+northstar:smelting/mars_deep_titanium_ore | minecraft:smelting | minecraft:smelting northstar:mars_deep_titanium_ore northstar:titanium_ingot
+northstar:smelting/mars_diamond_ore | minecraft:smelting | minecraft:diamond minecraft:smelting northstar:mars_diamond_ore
+northstar:smelting/mars_gold_ore | minecraft:smelting | minecraft:gold_ingot minecraft:smelting northstar:mars_gold_ore
+northstar:smelting/mars_iron_ore | minecraft:smelting | minecraft:iron_ingot minecraft:smelting northstar:mars_iron_ore
+northstar:smelting/mars_quartz_ore | minecraft:smelting | minecraft:quartz minecraft:smelting northstar:mars_quartz_ore
+northstar:smelting/mars_redstone_ore | minecraft:smelting | minecraft:redstone minecraft:smelting northstar:mars_redstone_ore
+northstar:smelting/mars_titanium_ore | minecraft:smelting | minecraft:smelting northstar:mars_titanium_ore northstar:titanium_ingot
+northstar:smelting/mercury_copper_ore | minecraft:smelting | minecraft:copper_ingot minecraft:smelting northstar:mercury_copper_ore
+northstar:smelting/mercury_deep_copper_ore | minecraft:smelting | minecraft:copper_ingot minecraft:smelting northstar:mercury_deep_copper_ore
+northstar:smelting/mercury_deep_diamond_ore | minecraft:smelting | minecraft:diamond minecraft:smelting northstar:mercury_deep_diamond_ore
+northstar:smelting/mercury_deep_glowstone_ore | minecraft:smelting | minecraft:glowstone_dust minecraft:smelting northstar:mercury_deep_glowstone_ore
+northstar:smelting/mercury_deep_gold_ore | minecraft:smelting | minecraft:gold_ingot minecraft:smelting northstar:mercury_deep_gold_ore
+northstar:smelting/mercury_deep_iron_ore | minecraft:smelting | minecraft:iron_ingot minecraft:smelting northstar:mercury_deep_iron_ore
+northstar:smelting/mercury_deep_lapis_ore | minecraft:smelting | minecraft:lapis_lazuli minecraft:smelting northstar:mercury_deep_lapis_ore
+northstar:smelting/mercury_deep_redstone_ore | minecraft:smelting | minecraft:redstone minecraft:smelting northstar:mercury_deep_redstone_ore
+northstar:smelting/mercury_deep_titanium_ore | minecraft:smelting | minecraft:smelting northstar:mercury_deep_titanium_ore northstar:titanium_ingot
+northstar:smelting/mercury_deep_tungsten_ore | minecraft:smelting | minecraft:smelting northstar:mercury_deep_tungsten_ore northstar:tungsten_ingot
+northstar:smelting/mercury_diamond_ore | minecraft:smelting | minecraft:diamond minecraft:smelting northstar:mercury_diamond_ore
+northstar:smelting/mercury_glowstone_ore | minecraft:smelting | minecraft:glowstone_dust minecraft:smelting northstar:mercury_glowstone_ore
+northstar:smelting/mercury_gold_ore | minecraft:smelting | minecraft:gold_ingot minecraft:smelting northstar:mercury_gold_ore
+northstar:smelting/mercury_iron_ore | minecraft:smelting | minecraft:iron_ingot minecraft:smelting northstar:mercury_iron_ore
+northstar:smelting/mercury_lapis_ore | minecraft:smelting | minecraft:lapis_lazuli minecraft:smelting northstar:mercury_lapis_ore
+northstar:smelting/mercury_redstone_ore | minecraft:smelting | minecraft:redstone minecraft:smelting northstar:mercury_redstone_ore
+northstar:smelting/mercury_titanium_ore | minecraft:smelting | minecraft:smelting northstar:mercury_titanium_ore northstar:titanium_ingot
+northstar:smelting/mercury_tungsten_ore | minecraft:smelting | minecraft:smelting northstar:mercury_tungsten_ore northstar:tungsten_ingot
+northstar:smelting/moon_copper_ore | minecraft:smelting | minecraft:copper_ingot minecraft:smelting northstar:moon_copper_ore
+northstar:smelting/moon_deep_copper_ore | minecraft:smelting | minecraft:copper_ingot minecraft:smelting northstar:moon_deep_copper_ore
+northstar:smelting/moon_deep_diamond_ore | minecraft:smelting | minecraft:diamond minecraft:smelting northstar:moon_deep_diamond_ore
+northstar:smelting/moon_deep_glowstone_ore | minecraft:smelting | minecraft:glowstone_dust minecraft:smelting northstar:moon_deep_glowstone_ore
+northstar:smelting/moon_deep_gold_ore | minecraft:smelting | minecraft:gold_ingot minecraft:smelting northstar:moon_deep_gold_ore
+northstar:smelting/moon_deep_iron_ore | minecraft:smelting | minecraft:iron_ingot minecraft:smelting northstar:moon_deep_iron_ore
+northstar:smelting/moon_deep_lapis_ore | minecraft:smelting | minecraft:lapis_lazuli minecraft:smelting northstar:moon_deep_lapis_ore
+northstar:smelting/moon_deep_redstone_ore | minecraft:smelting | minecraft:redstone minecraft:smelting northstar:moon_deep_redstone_ore
+northstar:smelting/moon_deep_titanium_ore | minecraft:smelting | minecraft:smelting northstar:moon_deep_titanium_ore northstar:titanium_ingot
+northstar:smelting/moon_diamond_ore | minecraft:smelting | minecraft:diamond minecraft:smelting northstar:moon_diamond_ore
+northstar:smelting/moon_glowstone_ore | minecraft:smelting | minecraft:glowstone_dust minecraft:smelting northstar:moon_glowstone_ore
+northstar:smelting/moon_gold_ore | minecraft:smelting | minecraft:gold_ingot minecraft:smelting northstar:moon_gold_ore
+northstar:smelting/moon_iron_ore | minecraft:smelting | minecraft:iron_ingot minecraft:smelting northstar:moon_iron_ore
+northstar:smelting/moon_lapis_ore | minecraft:smelting | minecraft:lapis_lazuli minecraft:smelting northstar:moon_lapis_ore
+northstar:smelting/moon_redstone_ore | minecraft:smelting | minecraft:redstone minecraft:smelting northstar:moon_redstone_ore
+northstar:smelting/moon_titanium_ore | minecraft:smelting | minecraft:smelting northstar:moon_titanium_ore northstar:titanium_ingot
+northstar:smelting/polished_mars_stone | minecraft:smelting | minecraft:smelting northstar:mars_stone northstar:polished_mars_stone
+northstar:smelting/polished_mercury_stone | minecraft:smelting | minecraft:smelting northstar:mercury_stone northstar:polished_mercury_stone
+northstar:smelting/polished_moon_stone | minecraft:smelting | minecraft:smelting northstar:moon_stone northstar:polished_moon_stone
+northstar:smelting/polished_venus_stone | minecraft:smelting | minecraft:smelting northstar:polished_venus_stone northstar:venus_stone
+northstar:smelting/titanium_ingot_from_raw | minecraft:smelting | minecraft:smelting northstar:raw_titanium_ore northstar:titanium_ingot
+northstar:smelting/tungsten_ingot_from_crushed | minecraft:smelting | minecraft:smelting northstar:crushed_raw_tungsten northstar:tungsten_ingot
+northstar:smelting/tungsten_ingot_from_raw | minecraft:smelting | minecraft:smelting northstar:raw_tungsten_ore northstar:tungsten_ingot
+northstar:smelting/venus_coal_ore | minecraft:smelting | minecraft:coal minecraft:smelting northstar:venus_coal_ore
+northstar:smelting/venus_copper_ore | minecraft:smelting | minecraft:copper_ingot minecraft:smelting northstar:venus_copper_ore
+northstar:smelting/venus_deep_copper_ore | minecraft:smelting | minecraft:copper_ingot minecraft:smelting northstar:venus_deep_copper_ore
+northstar:smelting/venus_deep_diamond_ore | minecraft:smelting | minecraft:diamond minecraft:smelting northstar:venus_deep_diamond_ore
+northstar:smelting/venus_deep_glowstone_ore | minecraft:smelting | minecraft:glowstone_dust minecraft:smelting northstar:venus_deep_glowstone_ore
+northstar:smelting/venus_deep_gold_ore | minecraft:smelting | minecraft:gold_ingot minecraft:smelting northstar:venus_deep_gold_ore
+northstar:smelting/venus_deep_iron_ore | minecraft:smelting | minecraft:iron_ingot minecraft:smelting northstar:venus_deep_iron_ore
+northstar:smelting/venus_deep_quartz_ore | minecraft:smelting | minecraft:quartz minecraft:smelting northstar:venus_deep_quartz_ore
+northstar:smelting/venus_deep_redstone_ore | minecraft:smelting | minecraft:redstone minecraft:smelting northstar:venus_deep_redstone_ore
+northstar:smelting/venus_deep_titanium_ore | minecraft:smelting | minecraft:smelting northstar:titanium_ingot northstar:venus_deep_titanium_ore
+northstar:smelting/venus_diamond_ore | minecraft:smelting | minecraft:diamond minecraft:smelting northstar:venus_diamond_ore
+northstar:smelting/venus_glowstone_ore | minecraft:smelting | minecraft:glowstone_dust minecraft:smelting northstar:venus_glowstone_ore
+northstar:smelting/venus_gold_ore | minecraft:smelting | minecraft:gold_ingot minecraft:smelting northstar:venus_gold_ore
+northstar:smelting/venus_iron_ore | minecraft:smelting | minecraft:iron_ingot minecraft:smelting northstar:venus_iron_ore
+northstar:smelting/venus_quartz_ore | minecraft:smelting | minecraft:quartz minecraft:smelting northstar:venus_quartz_ore
+northstar:smelting/venus_redstone_ore | minecraft:smelting | minecraft:redstone minecraft:smelting northstar:venus_redstone_ore
+northstar:smelting/venus_titanium_ore | minecraft:smelting | minecraft:smelting northstar:titanium_ingot northstar:venus_titanium_ore
+northstar:smoking/dry_plant_fiber | minecraft:smoking | minecraft:bamboo minecraft:smoking northstar:dry_plant_fiber
+northstar:smoking/ice_cream_cone | minecraft:smoking | minecraft:smoking northstar:ice_cream_cone northstar:raw_ice_cream_cone
+northstar:titanium_grate | minecraft:crafting_shaped | c:plates/titanium minecraft:crafting_shaped northstar:titanium_grate
+northstar:titanium_pillar | minecraft:crafting_shaped | c:ingots/titanium minecraft:crafting_shaped northstar:titanium_pillar
+northstar:titanium_pillar_from_ingots_titanium_stonecutting | minecraft:stonecutting | c:ingots/titanium minecraft:stonecutting northstar:titanium_pillar
+northstar:titanium_plating | minecraft:crafting_shaped | c:ingots/titanium minecraft:crafting_shaped northstar:titanium_plating
+northstar:titanium_plating_from_ingots_titanium_stonecutting | minecraft:stonecutting | c:ingots/titanium minecraft:stonecutting northstar:titanium_plating
+northstar:titanium_plating_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:titanium_plating northstar:titanium_plating_slab
+northstar:titanium_plating_slab_from_titanium_plating_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:titanium_plating northstar:titanium_plating_slab
+northstar:titanium_plating_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:titanium_plating northstar:titanium_plating_stairs
+northstar:titanium_plating_stairs_from_titanium_plating_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:titanium_plating northstar:titanium_plating_stairs
+northstar:titanium_plating_vertical_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:titanium_plating northstar:titanium_plating_vertical_slab
+northstar:titanium_plating_vertical_slab_from_titanium_plating_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:titanium_plating northstar:titanium_plating_vertical_slab
+northstar:titanium_sheetmetal | minecraft:crafting_shaped | c:plates/titanium minecraft:crafting_shaped northstar:titanium_sheetmetal
+northstar:titanium_sheetmetal_from_plates_titanium_stonecutting | minecraft:stonecutting | c:plates/titanium minecraft:stonecutting northstar:titanium_sheetmetal
+northstar:titanium_sheetmetal_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:titanium_sheetmetal northstar:titanium_sheetmetal_slab
+northstar:titanium_sheetmetal_slab_from_titanium_sheetmetal_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:titanium_sheetmetal northstar:titanium_sheetmetal_slab
+northstar:titanium_sheetmetal_vertical_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:titanium_sheetmetal northstar:titanium_sheetmetal_vertical_slab
+northstar:titanium_sheetmetal_vertical_slab_from_titanium_sheetmetal_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:titanium_sheetmetal northstar:titanium_sheetmetal_vertical_slab
+northstar:tungsten_grate | minecraft:crafting_shaped | c:plates/tungsten minecraft:crafting_shaped northstar:tungsten_grate
+northstar:tungsten_pillar | minecraft:crafting_shaped | c:ingots/tungsten minecraft:crafting_shaped northstar:tungsten_pillar
+northstar:tungsten_pillar_from_ingots_tungsten_stonecutting | minecraft:stonecutting | c:ingots/tungsten minecraft:stonecutting northstar:tungsten_pillar
+northstar:tungsten_plating | minecraft:crafting_shaped | c:ingots/tungsten minecraft:crafting_shaped northstar:tungsten_plating
+northstar:tungsten_plating_from_ingots_tungsten_stonecutting | minecraft:stonecutting | c:ingots/tungsten minecraft:stonecutting northstar:tungsten_plating
+northstar:tungsten_plating_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:tungsten_plating northstar:tungsten_plating_slab
+northstar:tungsten_plating_slab_from_tungsten_plating_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:tungsten_plating northstar:tungsten_plating_slab
+northstar:tungsten_plating_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:tungsten_plating northstar:tungsten_plating_stairs
+northstar:tungsten_plating_stairs_from_tungsten_plating_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:tungsten_plating northstar:tungsten_plating_stairs
+northstar:tungsten_plating_vertical_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:tungsten_plating northstar:tungsten_plating_vertical_slab
+northstar:tungsten_plating_vertical_slab_from_tungsten_plating_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:tungsten_plating northstar:tungsten_plating_vertical_slab
+northstar:tungsten_sheetmetal | minecraft:crafting_shaped | c:plates/tungsten minecraft:crafting_shaped northstar:tungsten_sheetmetal
+northstar:tungsten_sheetmetal_from_plates_tungsten_stonecutting | minecraft:stonecutting | c:plates/tungsten minecraft:stonecutting northstar:tungsten_sheetmetal
+northstar:tungsten_sheetmetal_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:tungsten_sheetmetal northstar:tungsten_sheetmetal_slab
+northstar:tungsten_sheetmetal_slab_from_tungsten_sheetmetal_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:tungsten_sheetmetal northstar:tungsten_sheetmetal_slab
+northstar:tungsten_sheetmetal_vertical_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:tungsten_sheetmetal northstar:tungsten_sheetmetal_vertical_slab
+northstar:tungsten_sheetmetal_vertical_slab_from_tungsten_sheetmetal_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:tungsten_sheetmetal northstar:tungsten_sheetmetal_vertical_slab
+northstar:venus_stone_brick_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:venus_stone_brick_slab northstar:venus_stone_bricks
+northstar:venus_stone_brick_slab_from_venus_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:venus_stone_brick_slab northstar:venus_stone_bricks
+northstar:venus_stone_brick_slab_vertical | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:venus_stone_brick_slab_vertical northstar:venus_stone_bricks
+northstar:venus_stone_brick_slab_vertical_from_venus_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:venus_stone_brick_slab_vertical northstar:venus_stone_bricks
+northstar:venus_stone_brick_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:venus_stone_brick_stairs northstar:venus_stone_bricks
+northstar:venus_stone_brick_stairs_from_venus_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:venus_stone_brick_stairs northstar:venus_stone_bricks
+northstar:venus_stone_brick_wall | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:venus_stone_brick_wall northstar:venus_stone_bricks
+northstar:venus_stone_brick_wall_from_venus_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:venus_stone_brick_wall northstar:venus_stone_bricks
+northstar:venus_stone_pillar | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:venus_stone_bricks northstar:venus_stone_pillar
+northstar:venus_stone_pillar_from_venus_stone_bricks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:venus_stone_bricks northstar:venus_stone_pillar
+northstar:wilter_planks | minecraft:crafting_shapeless | minecraft:crafting_shapeless northstar:wilter_logs northstar:wilter_planks
+northstar:wilter_slab | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:wilter_planks northstar:wilter_slab
+northstar:wilter_slab_from_wilter_planks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:wilter_planks northstar:wilter_slab
+northstar:wilter_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped northstar:wilter_planks northstar:wilter_stairs
+northstar:wilter_stairs_from_wilter_planks_stonecutting | minecraft:stonecutting | minecraft:stonecutting northstar:wilter_planks northstar:wilter_stairs

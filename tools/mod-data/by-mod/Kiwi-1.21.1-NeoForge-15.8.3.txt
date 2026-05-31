@@ -1,0 +1,15 @@
+# Kiwi-1.21.1-NeoForge-15.8.3
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "kiwi"
+version = "${file.jarVersion}"
+displayName = "Kiwi Library"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

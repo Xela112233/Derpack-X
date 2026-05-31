@@ -1,0 +1,19 @@
+# bigsignwriter-2.0.1+1.21.1-neoforge
+
+## mod metadata (id / version / deps)
+license = "MPL-2.0"
+versionRange = "[21,21.2)"
+modId = "neoforge"
+versionRange = "[1.21,1.21.2)"
+modId = "minecraft"
+displayName = "Big Sign Writer"
+version = "2.0.1+1.21.1-neoforge"
+modId = "bigsignwriter"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,20 @@
+# freefbible-NEOFORGE-1.21.1-1.0.0
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="freefbible" #mandatory
+version="1.21.1-1.0.0" #mandatory
+displayName="Freef's Bible" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.1.0,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+
+## blocks
+
+## items
+freefbible:freef_bible
+
+## neoforge biome_modifiers
+
+## c: common tag membership

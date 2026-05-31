@@ -1,0 +1,19 @@
+# create-aeronautics-bundled-1.21.1-1.2.1
+
+## mod metadata (id / version / deps)
+license = "Read attached LICENSE.md" # Review your options at https://choosealicense.com/.
+modId = "aeronautics_bundled" #mandatory
+version = "1.2.1" #mandatory
+displayName = "Create Aeronautics" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.1.219,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,2 @@
+naturescompass:natures_compass | crafting_shaped | minecraft:compass naturescompass:naturescompass
+naturescompass:repair_natures_compass | crafting_shapeless | minecraft:compass naturescompass:naturescompass

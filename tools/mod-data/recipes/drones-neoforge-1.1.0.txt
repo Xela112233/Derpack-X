@@ -1,0 +1,6 @@
+drones:crafting/_controller | minecraft:crafting_shaped | drones:controller minecraft:crafting_shaped minecraft:iron_ingot minecraft:logs minecraft:redstone minecraft:repeater minecraft:smooth_stone
+drones:crafting/_drill | minecraft:crafting_shaped | drones:drill minecraft:crafting_shaped minecraft:iron_ingot
+drones:crafting/_frame | minecraft:crafting_shaped | drones:frame minecraft:crafting_shaped minecraft:iron_ingot minecraft:logs minecraft:smooth_stone
+drones:crafting/_ionrotor | minecraft:crafting_shaped | drones:ion_thruster minecraft:crafting_shaped minecraft:diamond minecraft:iron_ingot minecraft:stick
+drones:crafting/_ironrotor | minecraft:crafting_shaped | drones:iron_rotor minecraft:copper_ingot minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+drones:crafting/_woodrotor | minecraft:crafting_shaped | drones:wood_rotor minecraft:copper_ingot minecraft:crafting_shaped minecraft:planks minecraft:stick

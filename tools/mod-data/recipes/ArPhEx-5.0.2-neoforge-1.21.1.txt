@@ -1,0 +1,162 @@
+arphex:ab_block_uncraft | minecraft:crafting_shapeless | arphex:abyssal_crystal arphex:block_of_abyssal_crystal minecraft:crafting_shapeless
+arphex:abyss_axe_craft | minecraft:crafting_shaped | arphex:abyssal_axe arphex:abyssal_crystal arphex:bane_of_the_darkness arphex:mantle_of_vitality minecraft:crafting_shaped minecraft:netherite_axe
+arphex:abyss_block_recipe | minecraft:crafting_shaped | arphex:abyssal_crystal arphex:block_of_abyssal_crystal minecraft:crafting_shaped
+arphex:abyss_dagger | minecraft:crafting_shapeless | arphex:abyssal_crystal arphex:abyssal_dagger arphex:dagger_of_dissolution minecraft:crafting_shapeless
+arphex:abyss_stew | minecraft:crafting_shaped | arphex:abyssal_shard arphex:abyssal_stew arphex:cooked_hemolymph minecraft:crafting_shaped minecraft:suspicious_stew
+arphex:abyssal_ascendant | minecraft:crafting_shaped | arphex:abyss_ascendant arphex:abyssal_blade arphex:ascendant_staff arphex:scorch_charge arphex:umbral_ingot minecraft:crafting_shaped
+arphex:abyssal_blade_recipe | minecraft:crafting_shaped | arphex:abyssal_blade arphex:abyssal_crystal arphex:bane_of_the_darkness arphex:mantle_of_vitality minecraft:crafting_shaped minecraft:netherite_sword
+arphex:abyssal_crystal_recipe | minecraft:crafting_shapeless | arphex:abyssal_crystal arphex:abyssal_shard minecraft:crafting_shapeless
+arphex:alt_chitin | minecraft:crafting_shapeless | arphex:chitin arphex:necrotic_fang minecraft:crafting_shapeless
+arphex:alternative_core | minecraft:crafting_shaped | arphex:block_of_abyssal_crystal arphex:block_of_entropy_matrix arphex:block_of_fire_opal arphex:block_of_time_prism arphex:block_of_void_geode arphex:core_of_eternal_suffering minecraft:crafting_shaped
+arphex:annihilator_recipe | minecraft:crafting_shapeless | arphex:abyssal_annihilator arphex:abyssal_crystal arphex:formic_fireblaster minecraft:crafting_shapeless
+arphex:antenna_recipe | minecraft:crafting_shapeless | arphex:antenna arphex:arthropod_antenna minecraft:amethyst_shard minecraft:crafting_shapeless minecraft:lightning_rod
+arphex:ascend_cube | minecraft:crafting_shaped | arphex:ascended_cube arphex:core_of_eternal_suffering minecraft:crafting_shaped
+arphex:ascendant_recipe | minecraft:crafting_shaped | arphex:ascendant_staff arphex:fire_opal minecraft:crafting_shaped minecraft:end_rod
+arphex:atomiser | minecraft:crafting_shaped | arphex:abyss_atomiser arphex:abyssal_axe arphex:abyssal_blade arphex:abyssal_dagger arphex:abyssal_pickaxe arphex:hedonic_gem arphex:scorch_charge minecraft:crafting_shaped
+arphex:bane_recipe | minecraft:crafting_shapeless | arphex:bane_of_the_darkness arphex:mangled_spider_flesh minecraft:amethyst_shard minecraft:crafting_shapeless minecraft:diamond_sword minecraft:emerald minecraft:end_crystal
+arphex:blastfurnace_infernal | minecraft:blasting | arphex:infernal_ingot arphex:infernal_shard minecraft:blasting
+arphex:blastfurnace_spacetime | minecraft:blasting | arphex:spacetime_ingot arphex:spacetime_shard minecraft:blasting
+arphex:blastfurnace_spectral | minecraft:blasting | arphex:spectral_ingot arphex:spectral_shard minecraft:blasting
+arphex:blastfurnace_umbral | minecraft:blasting | arphex:umbral_ingot arphex:umbral_shard minecraft:blasting
+arphex:bloodworm_craft | minecraft:crafting_shapeless | arphex:bloodworm_grub minecraft:crafting_shapeless minecraft:raw_copper
+arphex:blossom_darkness | minecraft:crafting_shaped | arphex:bane_blossom arphex:bane_of_the_darkness minecraft:crafting_shaped minecraft:diamond_sword
+arphex:bow_craft | minecraft:crafting_shapeless | arphex:black_widow_bow arphex:giant_spinneret arphex:necrotic_fang minecraft:bow minecraft:crafting_shapeless
+arphex:bug_repellant_recipe | minecraft:crafting_shapeless | arphex:bug_repellant minecraft:amethyst_cluster minecraft:crafting_shapeless minecraft:glass_bottle minecraft:lapis_lazuli
+arphex:bug_spray_recipe | minecraft:crafting_shaped | arphex:bug_repellant arphex:bug_spray minecraft:crafting_shaped minecraft:iron_ingot minecraft:lever
+arphex:campfire_hemo | minecraft:campfire_cooking | arphex:cooked_hemolymph arphex:raw_hemolymph minecraft:campfire_cooking
+arphex:cannon_recipe | minecraft:crafting_shaped | arphex:chrono_cannon arphex:scorch_charge arphex:time_prism arphex:vengeful_voidseeker arphex:vortex_devastator minecraft:crafting_shaped
+arphex:chaos_gauntlet_recipe | minecraft:crafting_shaped | arphex:chaos_gauntlet arphex:void_geode minecraft:crafting_shaped minecraft:netherite_ingot minecraft:redstone_block
+arphex:chit_block | minecraft:crafting_shaped | arphex:chitin arphex:chitin_block minecraft:crafting_shaped
+arphex:chitin_boots | minecraft:crafting_shaped | arphex:chitin arphex:chitin_armour_boots minecraft:crafting_shaped minecraft:string
+arphex:chitin_boots_2 | minecraft:smithing_transform | arphex:chitin arphex:chitin_armour_boots arphex:chitin_armour_tier_2_boots minecraft:smithing_transform
+arphex:chitin_boots_3 | minecraft:smithing_transform | arphex:chitin_armour_tier_2_boots arphex:chitin_armour_tier_3_boots minecraft:netherite_ingot minecraft:smithing_transform
+arphex:chitin_chestplate | minecraft:crafting_shaped | arphex:burning_glands arphex:chitin arphex:chitin_armour_chestplate minecraft:crafting_shaped minecraft:string
+arphex:chitin_chestplate_2 | minecraft:smithing_transform | arphex:chitin arphex:chitin_armour_chestplate arphex:chitin_armour_tier_2_chestplate minecraft:smithing_transform
+arphex:chitin_chestplate_3 | minecraft:smithing_transform | arphex:chitin_armour_tier_2_chestplate arphex:chitin_armour_tier_3_chestplate minecraft:netherite_ingot minecraft:smithing_transform
+arphex:chitin_helmet | minecraft:crafting_shapeless | arphex:chitin arphex:chitin_armour_helmet minecraft:crafting_shapeless minecraft:turtle_helmet
+arphex:chitin_helmet_2 | minecraft:smithing_transform | arphex:chitin arphex:chitin_armour_helmet arphex:chitin_armour_tier_2_helmet minecraft:smithing_transform
+arphex:chitin_helmet_3 | minecraft:smithing_transform | arphex:chitin_armour_tier_2_helmet arphex:chitin_armour_tier_3_helmet minecraft:netherite_ingot minecraft:smithing_transform
+arphex:chitin_leggings | minecraft:crafting_shaped | arphex:chitin arphex:chitin_armour_leggings minecraft:crafting_shaped minecraft:string
+arphex:chitin_legs_2 | minecraft:smithing_transform | arphex:chitin arphex:chitin_armour_leggings arphex:chitin_armour_tier_2_leggings minecraft:smithing_transform
+arphex:chitin_legs_3 | minecraft:smithing_transform | arphex:chitin_armour_tier_2_leggings arphex:chitin_armour_tier_3_leggings minecraft:netherite_ingot minecraft:smithing_transform
+arphex:chitinboots_2combine | minecraft:smithing_transform | arphex:chitin_armour_boots arphex:chitin_armour_tier_2_boots minecraft:smithing_transform
+arphex:chitinchest_2combine | minecraft:smithing_transform | arphex:chitin_armour_chestplate arphex:chitin_armour_tier_2_chestplate minecraft:smithing_transform
+arphex:chitinhelm_2combine | minecraft:smithing_transform | arphex:chitin_armour_helmet arphex:chitin_armour_tier_2_helmet minecraft:smithing_transform
+arphex:chitinlegs_2combine | minecraft:smithing_transform | arphex:chitin_armour_leggings arphex:chitin_armour_tier_2_leggings minecraft:smithing_transform
+arphex:commander_staff | minecraft:crafting_shaped | arphex:ant_commander arphex:antenna arphex:burning_glands minecraft:crafting_shaped minecraft:golden_apple minecraft:lightning_rod
+arphex:compost_block | minecraft:crafting_shapeless | arphex:crawling_compost_chunk minecraft:bone_meal minecraft:crafting_shapeless
+arphex:compost_meal | minecraft:crafting_shapeless | arphex:crawling_compost arphex:crawling_compost_chunk minecraft:crafting_shapeless
+arphex:cook_hemo | minecraft:smelting | arphex:cooked_hemolymph arphex:raw_hemolymph minecraft:smelting
+arphex:core_split | minecraft:crafting_shapeless | arphex:core_of_eternal_suffering arphex:hedonic_gem minecraft:crafting_shapeless
+arphex:crawl_cake_recipe | minecraft:crafting_shapeless | arphex:bloodworm_grub arphex:crawling_cake arphex:crawling_compost_chunk arphex:locust_larvae arphex:maggot_grub arphex:raw_hemolymph arphex:roach_nymph minecraft:cake minecraft:crafting_shapeless
+arphex:dissolution_2 | minecraft:crafting_shaped | arphex:dagger_of_dissolution arphex:necrotic_fang arphex:venomous_appendage minecraft:crafting_shaped minecraft:netherite_ingot
+arphex:elixir_splintered | minecraft:crafting_shaped | arphex:core_of_eternal_suffering arphex:elixir_of_splintered_sanity arphex:mantle_of_vitality minecraft:crafting_shaped minecraft:water_bucket
+arphex:entropy_matrix_block_recipe | minecraft:crafting_shaped | arphex:block_of_entropy_matrix arphex:entropy_matrix minecraft:crafting_shaped
+arphex:entropy_matrix_craft | minecraft:crafting_shapeless | arphex:entropy_matrix arphex:entropy_matrix_shard minecraft:crafting_shapeless
+arphex:entropy_pack | minecraft:crafting_shapeless | arphex:entropy_matrix arphex:prowler_pack arphex:singularity_satchel minecraft:crafting_shapeless
+arphex:entropy_ray | minecraft:crafting_shaped | arphex:entropy_matrix arphex:hypnotic_hellblaster arphex:infernal_ingot arphex:oblivion_ray arphex:vitality_viewfinder minecraft:crafting_shaped
+arphex:entropy_serums | minecraft:crafting_shaped | arphex:entropy_matrix_shard arphex:entropy_serum arphex:heavy_chitin minecraft:crafting_shaped minecraft:suspicious_stew
+arphex:eternal_boots_recipe | minecraft:crafting_shaped | arphex:eternal_boots arphex:hedonic_gem arphex:infernal_boots arphex:spectral_boots arphex:umbral_boots minecraft:crafting_shaped
+arphex:eternal_chestplate_recipe | minecraft:crafting_shaped | arphex:eternal_chestplate arphex:hedonic_gem arphex:infernal_chestplate arphex:spectral_chestplate arphex:umbral_chestplate minecraft:crafting_shaped minecraft:elytra
+arphex:eternal_helmet_recipe | minecraft:crafting_shaped | arphex:eternal_helmet arphex:hedonic_gem arphex:infernal_helmet arphex:spectral_helmet arphex:umbral_helmet minecraft:crafting_shaped
+arphex:eternal_leggings_recipe | minecraft:crafting_shaped | arphex:eternal_leggings arphex:hedonic_gem arphex:infernal_leggings arphex:spectral_leggings arphex:umbral_leggings minecraft:crafting_shaped
+arphex:ether_staff | minecraft:crafting_shaped | arphex:ethereal_staff arphex:fire_opal minecraft:blaze_rod minecraft:crafting_shaped
+arphex:ethereal_transmitter | minecraft:crafting_shaped | arphex:bane_blossom arphex:ethereal_staff arphex:warp_staff arphex:warp_wayfinder minecraft:crafting_shaped minecraft:ender_pearl
+arphex:flamethrower_craft | minecraft:crafting_shaped | arphex:chitin arphex:formic_fireblaster arphex:scorch_charge minecraft:blaze_rod minecraft:crafting_shaped minecraft:netherite_ingot
+arphex:fly_block | minecraft:crafting_shapeless | arphex:fly_appendage arphex:mangled_fly_flesh minecraft:crafting_shapeless
+arphex:force_gauntlet_recipe | minecraft:crafting_shaped | arphex:force_gauntlet arphex:void_geode minecraft:crafting_shaped minecraft:ender_eye minecraft:netherite_ingot
+arphex:ge_block_uncraft | minecraft:crafting_shapeless | arphex:block_of_void_geode arphex:void_geode minecraft:crafting_shapeless
+arphex:genesis_rifle_recipe | minecraft:crafting_shaped | arphex:genesis_rifle arphex:judgement_blaster arphex:oblivion_ray arphex:scorch_charge arphex:spacetime_ingot minecraft:crafting_shaped
+arphex:grappling_hook_recipe | minecraft:crafting_shaped | arphex:giant_spinneret arphex:silk_slinger minecraft:crafting_shaped minecraft:iron_ingot minecraft:tripwire_hook
+arphex:heavy_chit_block | minecraft:crafting_shaped | arphex:heavy_chitin arphex:heavy_chitin_block minecraft:crafting_shaped
+arphex:hellfire_blaster_craft | minecraft:crafting_shapeless | arphex:fire_opal arphex:formic_fireblaster arphex:hypnotic_hellblaster minecraft:crafting_shapeless
+arphex:hemoplasm_craft | minecraft:crafting_shapeless | arphex:cooked_hemolymph arphex:ectoplasm arphex:hemoplasm minecraft:crafting_shapeless
+arphex:hornet_hailstorm_recipe | minecraft:crafting_shaped | arphex:hornet_hailstorm arphex:necrotic_fang arphex:scorch_charge minecraft:crafting_shaped minecraft:honeycomb_block
+arphex:immortal_boots | minecraft:crafting_shaped | arphex:core_of_eternal_suffering arphex:eternal_boots arphex:immortal_boots arphex:juggernaut_boots arphex:scorch_charge arphex:spacetime_boots minecraft:crafting_shaped
+arphex:immortal_chestplate | minecraft:crafting_shaped | arphex:core_of_eternal_suffering arphex:eternal_chestplate arphex:immortal_chestplate arphex:juggernaut_chestplate arphex:scorch_charge arphex:spacetime_chestplate minecraft:crafting_shaped
+arphex:immortal_helmet | minecraft:crafting_shaped | arphex:core_of_eternal_suffering arphex:eternal_helmet arphex:immortal_helmet arphex:juggernaut_helmet arphex:scorch_charge arphex:spacetime_helmet minecraft:crafting_shaped
+arphex:immortal_leggings | minecraft:crafting_shaped | arphex:core_of_eternal_suffering arphex:eternal_leggings arphex:immortal_leggings arphex:juggernaut_leggings arphex:scorch_charge arphex:spacetime_leggings minecraft:crafting_shaped
+arphex:infernal_boots_upgrade | minecraft:smithing_transform | arphex:infernal_boots arphex:infernal_ingot minecraft:netherite_boots minecraft:smithing_transform
+arphex:infernal_chestplate_upgrade | minecraft:smithing_transform | arphex:infernal_chestplate arphex:infernal_ingot minecraft:netherite_chestplate minecraft:smithing_transform
+arphex:infernal_helmet_upgrade | minecraft:smithing_transform | arphex:infernal_helmet arphex:infernal_ingot minecraft:netherite_helmet minecraft:smithing_transform
+arphex:infernal_leggings_upgrade | minecraft:smithing_transform | arphex:infernal_ingot arphex:infernal_leggings minecraft:netherite_leggings minecraft:smithing_transform
+arphex:infernal_shard_recipe | minecraft:crafting_shapeless | arphex:abyssal_crystal arphex:fire_opal arphex:infernal_shard arphex:scorch_charge minecraft:crafting_shapeless minecraft:netherite_ingot
+arphex:infernal_smelt | minecraft:smelting | arphex:infernal_ingot arphex:infernal_shard minecraft:smelting
+arphex:judgement_craft | minecraft:crafting_shaped | arphex:hypnotic_hellblaster arphex:infernal_ingot arphex:judgement_blaster arphex:scorch_charge minecraft:crafting_shaped
+arphex:jugger_boot | minecraft:smithing_transform | arphex:chitin_armour_tier_3_boots arphex:heavy_chitin arphex:juggernaut_boots minecraft:smithing_transform
+arphex:jugger_chest | minecraft:smithing_transform | arphex:chitin_armour_tier_3_chestplate arphex:heavy_chitin arphex:juggernaut_chestplate minecraft:smithing_transform
+arphex:jugger_head | minecraft:smithing_transform | arphex:chitin_armour_tier_3_helmet arphex:heavy_chitin arphex:juggernaut_helmet minecraft:smithing_transform
+arphex:jugger_leg | minecraft:smithing_transform | arphex:chitin_armour_tier_3_leggings arphex:heavy_chitin arphex:juggernaut_leggings minecraft:smithing_transform
+arphex:locust_bucket | minecraft:crafting_shaped | arphex:bucket_of_locusts arphex:locust_larvae minecraft:bucket minecraft:crafting_shaped
+arphex:maggot_bucket | minecraft:crafting_shaped | arphex:bucket_of_maggots arphex:maggot_grub minecraft:bucket minecraft:crafting_shaped
+arphex:mangled_spider_craft | minecraft:crafting_shapeless | arphex:mangled_spider_flesh minecraft:crafting_shapeless minecraft:fermented_spider_eye
+arphex:mantle_of_vitality_recipe | minecraft:crafting_shapeless | arphex:mangled_spider_flesh arphex:mantle_of_vitality arphex:necrotic_fang minecraft:crafting_shapeless minecraft:golden_apple
+arphex:nemesis_upgrade | minecraft:crafting_shaped | arphex:chitin arphex:hornet_hailstorm arphex:oversized_stinger arphex:spectral_ingot arphex:venom_typhoon minecraft:crafting_shaped
+arphex:op_block_uncraft | minecraft:crafting_shapeless | arphex:block_of_fire_opal arphex:fire_opal minecraft:crafting_shapeless
+arphex:opal_block_recipe | minecraft:crafting_shapeless | arphex:block_of_fire_opal arphex:fire_opal minecraft:crafting_shapeless
+arphex:opal_gem_recipe | minecraft:crafting_shapeless | arphex:fire_opal arphex:fire_opal_shard minecraft:crafting_shapeless
+arphex:para_staff | minecraft:crafting_shaped | arphex:oversized_stinger arphex:spear_of_paralysis minecraft:crafting_shaped
+arphex:pick_recipe | minecraft:crafting_shapeless | arphex:abyssal_crystal arphex:abyssal_pickaxe arphex:bane_of_the_darkness arphex:mantle_of_vitality arphex:tectonic_tunneler minecraft:crafting_shapeless
+arphex:pocke_temp | minecraft:crafting_shaped | arphex:arthropod_antenna arphex:block_of_abyssal_crystal arphex:crawling_container arphex:ethereal_staff arphex:scorch_charge minecraft:crafting_shaped
+arphex:reinforced_glass | minecraft:crafting_shaped | arphex:decadent_dust arphex:scorch_charge arphex:scorched_sand minecraft:amethyst_shard minecraft:crafting_shaped
+arphex:roach_bucket | minecraft:crafting_shaped | arphex:bucket_of_roaches arphex:roach_nymph minecraft:bucket minecraft:crafting_shaped
+arphex:scarab_sealer | minecraft:crafting_shaped | arphex:chitin arphex:ectoplasm arphex:scarab_seal minecraft:crafting_shaped
+arphex:scorch_sand | minecraft:smelting | arphex:scorched_glass arphex:scorched_sand minecraft:smelting
+arphex:scorch_shard_craft | minecraft:crafting_shaped | arphex:burning_glands arphex:scorch_charge minecraft:crafting_shaped minecraft:magma_cream
+arphex:scorch_soup | minecraft:crafting_shaped | arphex:fire_opal_shard arphex:scorch_charge arphex:scorched_soup minecraft:crafting_shaped minecraft:suspicious_stew
+arphex:scorch_torch_recipe | minecraft:crafting_shaped | arphex:scorch_charge arphex:scorch_torch minecraft:crafting_shaped minecraft:torch
+arphex:scorpion_flesh_recipe | minecraft:crafting_shaped | arphex:mangled_scorpion_flesh arphex:venomous_appendage minecraft:crafting_shaped
+arphex:scythe_recipe | minecraft:crafting_shaped | arphex:hedonic_gem arphex:mantis_machete arphex:oblivion_ray arphex:singularity_scythe arphex:spacetime_ingot arphex:visionary_spear minecraft:crafting_shaped
+arphex:seal_brown | minecraft:crafting_shapeless | arphex:brown_scarab arphex:scarab_seal arphex:sealed_brown_scarab minecraft:crafting_shapeless
+arphex:seal_gold | minecraft:crafting_shapeless | arphex:golden_scarab arphex:scarab_seal arphex:sealed_golden_scarab minecraft:crafting_shapeless
+arphex:seal_green | minecraft:crafting_shapeless | arphex:green_scarab arphex:scarab_seal arphex:sealed_green_scarab minecraft:crafting_shapeless
+arphex:seal_green_gold | minecraft:crafting_shapeless | arphex:green_gold_scarab arphex:scarab_seal arphex:sealed_green_gold_scarab minecraft:crafting_shapeless
+arphex:seal_iridescent | minecraft:crafting_shapeless | arphex:iridescent_scarab arphex:scarab_seal arphex:sealed_iridescent_scarab minecraft:crafting_shapeless
+arphex:seal_purple | minecraft:crafting_shapeless | arphex:purple_scarab arphex:scarab_seal arphex:sealed_purple_scarab minecraft:crafting_shapeless
+arphex:smoke_hemo | minecraft:smoking | arphex:cooked_hemolymph arphex:raw_hemolymph minecraft:smoking
+arphex:spacetime_boots | minecraft:smithing_transform | arphex:spacetime_boots arphex:spacetime_ingot arphex:vitality_armour_boots minecraft:smithing_transform
+arphex:spacetime_chestplate | minecraft:smithing_transform | arphex:spacetime_chestplate arphex:spacetime_ingot arphex:vitality_armour_chestplate minecraft:smithing_transform
+arphex:spacetime_helmet | minecraft:smithing_transform | arphex:spacetime_helmet arphex:spacetime_ingot arphex:vitality_armour_helmet minecraft:smithing_transform
+arphex:spacetime_leggings | minecraft:smithing_transform | arphex:spacetime_ingot arphex:spacetime_leggings arphex:vitality_armour_leggings minecraft:smithing_transform
+arphex:spacetime_shard_recipe | minecraft:crafting_shapeless | arphex:entropy_matrix arphex:heavy_chitin arphex:spacetime_shard arphex:time_prism minecraft:crafting_shapeless minecraft:netherite_ingot
+arphex:spacetime_smelt | minecraft:smelting | arphex:spacetime_ingot arphex:spacetime_shard minecraft:smelting
+arphex:spectral_boots | minecraft:smithing_transform | arphex:spectral_boots arphex:spectral_ingot minecraft:netherite_boots minecraft:smithing_transform
+arphex:spectral_chest | minecraft:smithing_transform | arphex:spectral_chestplate arphex:spectral_ingot minecraft:netherite_chestplate minecraft:smithing_transform
+arphex:spectral_helm | minecraft:smithing_transform | arphex:spectral_helmet arphex:spectral_ingot minecraft:netherite_helmet minecraft:smithing_transform
+arphex:spectral_legs | minecraft:smithing_transform | arphex:spectral_ingot arphex:spectral_leggings minecraft:netherite_leggings minecraft:smithing_transform
+arphex:spectral_shard_recipe | minecraft:crafting_shapeless | arphex:abyssal_crystal arphex:ectoplasm arphex:spectral_shard arphex:void_geode minecraft:crafting_shapeless minecraft:netherite_ingot
+arphex:spectral_smelt | minecraft:smelting | arphex:spectral_ingot arphex:spectral_shard minecraft:smelting
+arphex:spider_jar_recipe | minecraft:crafting_shapeless | arphex:maggot_grub arphex:roach_nymph arphex:spider_jar minecraft:crafting_shapeless minecraft:glass_bottle
+arphex:spinneret_extra_use | minecraft:crafting_shapeless | arphex:giant_spinneret arphex:mangled_spider_flesh minecraft:crafting_shapeless
+arphex:splitter_recipe | minecraft:crafting_shaped | arphex:antenna arphex:crawling_compass minecraft:compass minecraft:crafting_shaped minecraft:netherite_ingot
+arphex:supplement_craft | minecraft:crafting_shaped | arphex:cooked_hemolymph arphex:spider_supplement minecraft:crafting_shaped minecraft:fermented_spider_eye minecraft:glass_bottle
+arphex:temporo_spatial | minecraft:crafting_shaped | arphex:arthropod_antenna arphex:temporospatial_transmitter arphex:time_prism arphex:vortex_devastator minecraft:crafting_shaped
+arphex:tesseract | minecraft:crafting_shaped | arphex:arthropod_antenna arphex:entropy_matrix arphex:tesseract_transporter arphex:warp_staff minecraft:crafting_shaped minecraft:crying_obsidian
+arphex:tether_tarantula | minecraft:crafting_shapeless | arphex:mangled_spider_flesh arphex:necrotic_fang arphex:silk_slinger arphex:tarantula_tether minecraft:crafting_shapeless minecraft:netherite_ingot
+arphex:time_prism_block_recipe | minecraft:crafting_shaped | arphex:block_of_time_prism arphex:time_prism minecraft:crafting_shaped
+arphex:time_syrups | minecraft:crafting_shaped | arphex:bane_blossom arphex:time_prism_shard arphex:time_syrup minecraft:crafting_shaped minecraft:suspicious_stew
+arphex:timeprismcraft | minecraft:crafting_shapeless | arphex:time_prism arphex:time_prism_shard minecraft:crafting_shapeless
+arphex:torment_wrath | minecraft:crafting_shaped | arphex:abyssal_annihilator arphex:core_of_eternal_suffering arphex:tormented_wrath arphex:vengeful_voidseeker minecraft:crafting_shaped
+arphex:tormentor_portal_recipe | minecraft:crafting_shaped | arphex:core_of_eternal_suffering arphex:hedonic_gem arphex:tormentor_summoner minecraft:crafting_shaped
+arphex:umbral_boots | minecraft:smithing_transform | arphex:umbral_boots arphex:umbral_ingot minecraft:netherite_boots minecraft:smithing_transform
+arphex:umbral_chest | minecraft:smithing_transform | arphex:umbral_chestplate arphex:umbral_ingot minecraft:netherite_chestplate minecraft:smithing_transform
+arphex:umbral_helm | minecraft:smithing_transform | arphex:umbral_helmet arphex:umbral_ingot minecraft:netherite_helmet minecraft:smithing_transform
+arphex:umbral_legs | minecraft:smithing_transform | arphex:umbral_ingot arphex:umbral_leggings minecraft:netherite_leggings minecraft:smithing_transform
+arphex:umbral_shard_recipe | minecraft:crafting_shapeless | arphex:chitin arphex:fire_opal arphex:umbral_shard arphex:void_geode minecraft:crafting_shapeless minecraft:netherite_ingot
+arphex:umbral_smelt | minecraft:smelting | arphex:umbral_ingot arphex:umbral_shard minecraft:smelting
+arphex:vanguard_craft | minecraft:crafting_shaped | arphex:heavy_chitin arphex:temporal_guardian arphex:time_prism arphex:vortex_devastator arphex:vortex_vanguard minecraft:crafting_shaped
+arphex:vengeant_recipe | minecraft:crafting_shapeless | arphex:formic_fireblaster arphex:vengeful_voidseeker arphex:void_geode minecraft:crafting_shapeless
+arphex:vision_spear | minecraft:crafting_shaped | arphex:black_widow_bow arphex:spear_of_paralysis arphex:time_prism arphex:visionary_spear minecraft:crafting_shaped
+arphex:vital_boots_upgrade | minecraft:smithing_transform | arphex:mantle_of_vitality arphex:vitality_armour_boots minecraft:golden_boots minecraft:smithing_transform
+arphex:vital_chest_upgrade | minecraft:smithing_transform | arphex:mantle_of_vitality arphex:vitality_armour_chestplate minecraft:golden_chestplate minecraft:smithing_transform
+arphex:vital_helmet_upgrade | minecraft:smithing_transform | arphex:mantle_of_vitality arphex:vitality_armour_helmet minecraft:golden_helmet minecraft:smithing_transform
+arphex:vital_leggings_upgrade | minecraft:smithing_transform | arphex:mantle_of_vitality arphex:vitality_armour_leggings minecraft:golden_leggings minecraft:smithing_transform
+arphex:vitality_staff | minecraft:crafting_shaped | arphex:fire_opal arphex:mantle_of_vitality arphex:staff_of_vitality minecraft:crafting_shaped minecraft:lightning_rod
+arphex:vitality_view | minecraft:crafting_shapeless | arphex:antenna arphex:vitality_viewfinder minecraft:crafting_shapeless minecraft:golden_apple minecraft:lodestone
+arphex:void_geode_block_recipe | minecraft:crafting_shaped | arphex:block_of_void_geode arphex:void_geode minecraft:crafting_shaped
+arphex:void_geode_craft | minecraft:crafting_shapeless | arphex:void_geode arphex:void_geode_shard minecraft:crafting_shapeless
+arphex:void_sherb | minecraft:crafting_shaped | arphex:chitin arphex:void_geode_shard arphex:void_sherbet minecraft:crafting_shaped minecraft:suspicious_stew
+arphex:vortex_recipe | minecraft:crafting_shaped | arphex:force_gauntlet arphex:spectral_ingot arphex:vortex_devastator minecraft:crafting_shaped
+arphex:warp_connect | minecraft:crafting_shaped | arphex:antenna arphex:scorched_glass arphex:warp_connector minecraft:crafting_shaped minecraft:end_rod
+arphex:warpfinder | minecraft:crafting_shaped | arphex:vitality_viewfinder arphex:void_geode arphex:warp_wayfinder minecraft:crafting_shaped minecraft:end_rod minecraft:ender_eye
+arphex:worm_bucket | minecraft:crafting_shaped | arphex:bloodworm_grub arphex:bucket_of_worm_grub minecraft:bucket minecraft:crafting_shaped

@@ -1,0 +1,21 @@
+# sophisticatedcore-1.21.1-1.4.33.1808
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="sophisticatedcore"
+version="1.4.33"
+displayName="Sophisticated Core"
+modId="neoforge" #mandatory
+versionRange="[21.1.0,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.1,1.21.2)"
+
+## blocks
+
+## items
+sophisticatedcore:xp_bucket
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+fluid/experience.json :: { "values": [ "sophisticatedcore:xp_still" ]}

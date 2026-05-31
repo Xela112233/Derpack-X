@@ -1,0 +1,19 @@
+# Searchables-neoforge-1.21.1-1.0.2
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "searchables"
+version = "1.0.2"
+displayName = "Searchables"
+modId = "neoforge"
+versionRange = "[4,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

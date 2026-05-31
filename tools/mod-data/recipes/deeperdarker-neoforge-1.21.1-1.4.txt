@@ -1,0 +1,389 @@
+deeperdarker:ancient_compass | minecraft:crafting_shaped | deeperdarker:ancient_compass deeperdarker:warden_carapace minecraft:compass minecraft:crafting_shaped
+deeperdarker:bloom_boat | minecraft:crafting_shaped | deeperdarker:bloom_boat deeperdarker:bloom_planks minecraft:crafting_shaped
+deeperdarker:bloom_button | minecraft:crafting_shapeless | deeperdarker:bloom_button deeperdarker:bloom_planks minecraft:crafting_shapeless
+deeperdarker:bloom_chest_boat | minecraft:crafting_shapeless | deeperdarker:bloom_boat deeperdarker:bloom_chest_boat minecraft:chest minecraft:crafting_shapeless
+deeperdarker:bloom_door | minecraft:crafting_shaped | deeperdarker:bloom_door deeperdarker:bloom_planks minecraft:crafting_shaped
+deeperdarker:bloom_fence | minecraft:crafting_shaped | deeperdarker:bloom_fence deeperdarker:bloom_planks minecraft:crafting_shaped minecraft:stick
+deeperdarker:bloom_fence_gate | minecraft:crafting_shaped | deeperdarker:bloom_fence_gate deeperdarker:bloom_planks minecraft:crafting_shaped minecraft:stick
+deeperdarker:bloom_hanging_sign | minecraft:crafting_shaped | deeperdarker:bloom_hanging_sign deeperdarker:stripped_blooming_stem minecraft:chain minecraft:crafting_shaped
+deeperdarker:bloom_planks | minecraft:crafting_shapeless | deeperdarker:bloom_planks deeperdarker:bloom_stems minecraft:crafting_shapeless
+deeperdarker:bloom_pressure_plate | minecraft:crafting_shaped | deeperdarker:bloom_planks deeperdarker:bloom_pressure_plate minecraft:crafting_shaped
+deeperdarker:bloom_sign | minecraft:crafting_shaped | deeperdarker:bloom_planks deeperdarker:bloom_sign minecraft:crafting_shaped minecraft:stick
+deeperdarker:bloom_slab | minecraft:crafting_shaped | deeperdarker:bloom_planks deeperdarker:bloom_slab minecraft:crafting_shaped
+deeperdarker:bloom_stairs | minecraft:crafting_shaped | deeperdarker:bloom_planks deeperdarker:bloom_stairs minecraft:crafting_shaped
+deeperdarker:bloom_trapdoor | minecraft:crafting_shaped | deeperdarker:bloom_planks deeperdarker:bloom_trapdoor minecraft:crafting_shaped
+deeperdarker:bordered_lite_block | minecraft:crafting_shaped | deeperdarker:bordered_lite_block deeperdarker:gloomslate deeperdarker:lite_block minecraft:crafting_shaped
+deeperdarker:chiseled_gloomslate | minecraft:crafting_shaped | deeperdarker:chiseled_gloomslate deeperdarker:gloomslate_brick_slab minecraft:crafting_shaped
+deeperdarker:chiseled_gloomslate_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:chiseled_gloomslate deeperdarker:cobbled_gloomslate minecraft:stonecutting
+deeperdarker:chiseled_gloomslate_from_gloomslate_bricks_stonecutting | minecraft:stonecutting | deeperdarker:chiseled_gloomslate deeperdarker:gloomslate_bricks minecraft:stonecutting
+deeperdarker:chiseled_sculk_stone | minecraft:crafting_shaped | deeperdarker:chiseled_sculk_stone deeperdarker:sculk_stone_brick_slab minecraft:crafting_shaped
+deeperdarker:chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:chiseled_sculk_stone deeperdarker:cobbled_sculk_stone minecraft:stonecutting
+deeperdarker:chiseled_sculk_stone_from_sculk_stone_bricks_stonecutting | minecraft:stonecutting | deeperdarker:chiseled_sculk_stone deeperdarker:sculk_stone_bricks minecraft:stonecutting
+deeperdarker:coal_from_blasting_gloomslate_coal_ore | minecraft:blasting | deeperdarker:gloomslate_coal_ore minecraft:blasting minecraft:coal
+deeperdarker:coal_from_blasting_sculk_stone_coal_ore | minecraft:blasting | deeperdarker:sculk_stone_coal_ore minecraft:blasting minecraft:coal
+deeperdarker:coal_from_smelting_gloomslate_coal_ore | minecraft:smelting | deeperdarker:gloomslate_coal_ore minecraft:coal minecraft:smelting
+deeperdarker:coal_from_smelting_sculk_stone_coal_ore | minecraft:smelting | deeperdarker:sculk_stone_coal_ore minecraft:coal minecraft:smelting
+deeperdarker:cobbled_gloomslate_slab | minecraft:crafting_shaped | deeperdarker:cobbled_gloomslate deeperdarker:cobbled_gloomslate_slab minecraft:crafting_shaped
+deeperdarker:cobbled_gloomslate_slab_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:cobbled_gloomslate_slab minecraft:stonecutting
+deeperdarker:cobbled_gloomslate_stairs | minecraft:crafting_shaped | deeperdarker:cobbled_gloomslate deeperdarker:cobbled_gloomslate_stairs minecraft:crafting_shaped
+deeperdarker:cobbled_gloomslate_stairs_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:cobbled_gloomslate_stairs minecraft:stonecutting
+deeperdarker:cobbled_gloomslate_wall | minecraft:crafting_shaped | deeperdarker:cobbled_gloomslate deeperdarker:cobbled_gloomslate_wall minecraft:crafting_shaped
+deeperdarker:cobbled_gloomslate_wall_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:cobbled_gloomslate_wall minecraft:stonecutting
+deeperdarker:cobbled_sculk_stone_slab | minecraft:crafting_shaped | deeperdarker:cobbled_sculk_stone deeperdarker:cobbled_sculk_stone_slab minecraft:crafting_shaped
+deeperdarker:cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:cobbled_sculk_stone_slab minecraft:stonecutting
+deeperdarker:cobbled_sculk_stone_stairs | minecraft:crafting_shaped | deeperdarker:cobbled_sculk_stone deeperdarker:cobbled_sculk_stone_stairs minecraft:crafting_shaped
+deeperdarker:cobbled_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:cobbled_sculk_stone_stairs minecraft:stonecutting
+deeperdarker:cobbled_sculk_stone_wall | minecraft:crafting_shaped | deeperdarker:cobbled_sculk_stone deeperdarker:cobbled_sculk_stone_wall minecraft:crafting_shaped
+deeperdarker:cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:cobbled_sculk_stone_wall minecraft:stonecutting
+deeperdarker:compatibility/create/crushing/gloomslate_coal_ore | create:crushing | create:crushing create:experience_nugget deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_coal_ore minecraft:coal neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/gloomslate_copper_ore | create:crushing | create:crushed_raw_copper create:crushing create:experience_nugget deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_copper_ore neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/gloomslate_diamond_ore | create:crushing | create:crushing create:experience_nugget deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_diamond_ore minecraft:diamond neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/gloomslate_emerald_ore | create:crushing | create:crushing create:experience_nugget deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_emerald_ore minecraft:emerald neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/gloomslate_gold_ore | create:crushing | create:crushed_raw_gold create:crushing create:experience_nugget deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_gold_ore neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/gloomslate_iron_ore | create:crushing | create:crushed_raw_iron create:crushing create:experience_nugget deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_iron_ore neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/gloomslate_lapis_ore | create:crushing | create:crushing create:experience_nugget deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_lapis_ore minecraft:lapis_lazuli neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/gloomslate_redstone_ore | create:crushing | create:crushing create:experience_nugget deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_redstone_ore minecraft:redstone neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/sculk_stone_coal_ore | create:crushing | create:crushing create:experience_nugget deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_coal_ore minecraft:coal neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/sculk_stone_copper_ore | create:crushing | create:crushed_raw_copper create:crushing create:experience_nugget deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_copper_ore neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/sculk_stone_diamond_ore | create:crushing | create:crushing create:experience_nugget deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_diamond_ore minecraft:diamond neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/sculk_stone_emerald_ore | create:crushing | create:crushing create:experience_nugget deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_emerald_ore minecraft:emerald neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/sculk_stone_gold_ore | create:crushing | create:crushed_raw_gold create:crushing create:experience_nugget deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_gold_ore neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/sculk_stone_iron_ore | create:crushing | create:crushed_raw_iron create:crushing create:experience_nugget deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_iron_ore neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/sculk_stone_lapis_ore | create:crushing | create:crushing create:experience_nugget deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_lapis_ore minecraft:lapis_lazuli neoforge:mod_loaded
+deeperdarker:compatibility/create/crushing/sculk_stone_redstone_ore | create:crushing | create:crushing create:experience_nugget deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_redstone_ore minecraft:redstone neoforge:mod_loaded
+deeperdarker:compatibility/farmersdelight/cutting/bloom_door | farmersdelight:cutting | deeperdarker:bloom_door deeperdarker:bloom_planks farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded
+deeperdarker:compatibility/farmersdelight/cutting/bloom_hanging_sign | farmersdelight:cutting | deeperdarker:bloom_hanging_sign deeperdarker:bloom_planks farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded
+deeperdarker:compatibility/farmersdelight/cutting/bloom_sign | farmersdelight:cutting | deeperdarker:bloom_planks deeperdarker:bloom_sign farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded
+deeperdarker:compatibility/farmersdelight/cutting/bloom_trapdoor | farmersdelight:cutting | deeperdarker:bloom_planks deeperdarker:bloom_trapdoor farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded
+deeperdarker:compatibility/farmersdelight/cutting/blooming_stem | farmersdelight:cutting | deeperdarker:blooming_stem deeperdarker:stripped_blooming_stem farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:item.axe.strip neoforge:mod_loaded
+deeperdarker:compatibility/farmersdelight/cutting/echo_door | farmersdelight:cutting | deeperdarker:echo_door deeperdarker:echo_planks farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded
+deeperdarker:compatibility/farmersdelight/cutting/echo_hanging_sign | farmersdelight:cutting | deeperdarker:echo_hanging_sign deeperdarker:echo_planks farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded
+deeperdarker:compatibility/farmersdelight/cutting/echo_log | farmersdelight:cutting | deeperdarker:echo_log deeperdarker:stripped_echo_log farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:item.axe.strip neoforge:mod_loaded
+deeperdarker:compatibility/farmersdelight/cutting/echo_sign | farmersdelight:cutting | deeperdarker:echo_planks deeperdarker:echo_sign farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded
+deeperdarker:compatibility/farmersdelight/cutting/echo_trapdoor | farmersdelight:cutting | deeperdarker:echo_planks deeperdarker:echo_trapdoor farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded
+deeperdarker:compatibility/farmersdelight/cutting/echo_wood | farmersdelight:cutting | deeperdarker:echo_wood deeperdarker:stripped_echo_wood farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:item.axe.strip neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/brick_slabs_to_tile | mekanism:crushing | deeperdarker:gloomslate_brick_slab deeperdarker:gloomslate_tile_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/brick_stairs_to_tile | mekanism:crushing | deeperdarker:gloomslate_brick_stairs deeperdarker:gloomslate_tile_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/brick_wall_to_tile | mekanism:crushing | deeperdarker:gloomslate_brick_wall deeperdarker:gloomslate_tile_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/bricks_to_tiles | mekanism:crushing | deeperdarker:gloomslate_bricks deeperdarker:gloomslate_tiles mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/cut_slabs_to_polished | mekanism:crushing | deeperdarker:cut_gloomslate_slab deeperdarker:polished_gloomslate_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/cut_stairs_to_polished | mekanism:crushing | deeperdarker:cut_gloomslate_stairs deeperdarker:polished_gloomslate_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/cut_to_polished | mekanism:crushing | deeperdarker:cut_gloomslate deeperdarker:polished_gloomslate mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/cut_wall_to_polished | mekanism:crushing | deeperdarker:cut_gloomslate_wall deeperdarker:polished_gloomslate_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/from_chiseled | mekanism:crushing | deeperdarker:chiseled_gloomslate deeperdarker:gloomslate mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/polished_slabs_to_brick | mekanism:crushing | deeperdarker:gloomslate_brick_slab deeperdarker:polished_gloomslate_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/polished_stairs_to_brick | mekanism:crushing | deeperdarker:gloomslate_brick_stairs deeperdarker:polished_gloomslate_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/polished_to_bricks | mekanism:crushing | deeperdarker:gloomslate_bricks deeperdarker:polished_gloomslate mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/polished_wall_to_brick | mekanism:crushing | deeperdarker:gloomslate_brick_wall deeperdarker:polished_gloomslate_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/slabs_to_cobbled | mekanism:crushing | deeperdarker:cobbled_gloomslate_slab deeperdarker:gloomslate_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/smooth_slabs_to_cut | mekanism:crushing | deeperdarker:cut_gloomslate_slab deeperdarker:smooth_gloomslate_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/smooth_stairs_to_cut | mekanism:crushing | deeperdarker:cut_gloomslate_stairs deeperdarker:smooth_gloomslate_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/smooth_to_cut | mekanism:crushing | deeperdarker:cut_gloomslate deeperdarker:smooth_gloomslate mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/smooth_wall_to_cut | mekanism:crushing | deeperdarker:cut_gloomslate_wall deeperdarker:smooth_gloomslate_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/stairs_to_cobbled | mekanism:crushing | deeperdarker:cobbled_gloomslate_stairs deeperdarker:gloomslate_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/tile_slabs_to_cobbled | mekanism:crushing | deeperdarker:cobbled_gloomslate_slab deeperdarker:gloomslate_tile_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/tile_stairs_to_cobbled | mekanism:crushing | deeperdarker:cobbled_gloomslate_stairs deeperdarker:gloomslate_tile_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/tile_to_cobbled | mekanism:crushing | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_tiles mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/tile_wall_to_cobbled | mekanism:crushing | deeperdarker:cobbled_gloomslate_wall deeperdarker:gloomslate_tile_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/to_cobbled | mekanism:crushing | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/gloomslate/wall_to_cobbled | mekanism:crushing | deeperdarker:cobbled_gloomslate_wall deeperdarker:gloomslate_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/brick_slabs_to_tile | mekanism:crushing | deeperdarker:sculk_stone_brick_slab deeperdarker:sculk_stone_tile_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/brick_stairs_to_tile | mekanism:crushing | deeperdarker:sculk_stone_brick_stairs deeperdarker:sculk_stone_tile_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/brick_wall_to_tile | mekanism:crushing | deeperdarker:sculk_stone_brick_wall deeperdarker:sculk_stone_tile_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/bricks_to_tiles | mekanism:crushing | deeperdarker:sculk_stone_bricks deeperdarker:sculk_stone_tiles mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/cut_slabs_to_polished | mekanism:crushing | deeperdarker:cut_sculk_stone_slab deeperdarker:polished_sculk_stone_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/cut_stairs_to_polished | mekanism:crushing | deeperdarker:cut_sculk_stone_stairs deeperdarker:polished_sculk_stone_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/cut_to_polished | mekanism:crushing | deeperdarker:cut_sculk_stone deeperdarker:polished_sculk_stone mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/cut_wall_to_polished | mekanism:crushing | deeperdarker:cut_sculk_stone_wall deeperdarker:polished_sculk_stone_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/from_chiseled | mekanism:crushing | deeperdarker:chiseled_sculk_stone deeperdarker:sculk_stone mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/polished_slabs_to_brick | mekanism:crushing | deeperdarker:polished_sculk_stone_slab deeperdarker:sculk_stone_brick_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/polished_stairs_to_brick | mekanism:crushing | deeperdarker:polished_sculk_stone_stairs deeperdarker:sculk_stone_brick_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/polished_to_bricks | mekanism:crushing | deeperdarker:polished_sculk_stone deeperdarker:sculk_stone_bricks mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/polished_wall_to_brick | mekanism:crushing | deeperdarker:polished_sculk_stone_wall deeperdarker:sculk_stone_brick_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/slabs_to_cobbled | mekanism:crushing | deeperdarker:cobbled_sculk_stone_slab deeperdarker:sculk_stone_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/smooth_slabs_to_cut | mekanism:crushing | deeperdarker:cut_sculk_stone_slab deeperdarker:smooth_sculk_stone_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/smooth_stairs_to_cut | mekanism:crushing | deeperdarker:cut_sculk_stone_stairs deeperdarker:smooth_sculk_stone_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/smooth_to_cut | mekanism:crushing | deeperdarker:cut_sculk_stone deeperdarker:smooth_sculk_stone mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/smooth_wall_to_cut | mekanism:crushing | deeperdarker:cut_sculk_stone_wall deeperdarker:smooth_sculk_stone_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/stairs_to_cobbled | mekanism:crushing | deeperdarker:cobbled_sculk_stone_stairs deeperdarker:sculk_stone_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/tile_slabs_to_cobbled | mekanism:crushing | deeperdarker:cobbled_sculk_stone_slab deeperdarker:sculk_stone_tile_slab mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/tile_stairs_to_cobbled | mekanism:crushing | deeperdarker:cobbled_sculk_stone_stairs deeperdarker:sculk_stone_tile_stairs mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/tile_to_cobbled | mekanism:crushing | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_tiles mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/tile_wall_to_cobbled | mekanism:crushing | deeperdarker:cobbled_sculk_stone_wall deeperdarker:sculk_stone_tile_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/to_cobbled | mekanism:crushing | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/crushing/sculk_stone/wall_to_cobbled | mekanism:crushing | deeperdarker:cobbled_sculk_stone_wall deeperdarker:sculk_stone_wall mekanism:crushing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/brick_slabs_to_polished | mekanism:enriching | deeperdarker:gloomslate_brick_slab deeperdarker:polished_gloomslate_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/brick_stairs_to_polished | mekanism:enriching | deeperdarker:gloomslate_brick_stairs deeperdarker:polished_gloomslate_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/brick_wall_to_polished | mekanism:enriching | deeperdarker:gloomslate_brick_wall deeperdarker:polished_gloomslate_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/bricks_to_polished | mekanism:enriching | deeperdarker:gloomslate_bricks deeperdarker:polished_gloomslate mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/cut_slabs_to_smooth | mekanism:enriching | deeperdarker:cut_gloomslate_slab deeperdarker:smooth_gloomslate_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/cut_stairs_to_smooth | mekanism:enriching | deeperdarker:cut_gloomslate_stairs deeperdarker:smooth_gloomslate_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/cut_to_smooth | mekanism:enriching | deeperdarker:cut_gloomslate deeperdarker:smooth_gloomslate mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/cut_wall_to_smooth | mekanism:enriching | deeperdarker:cut_gloomslate_wall deeperdarker:smooth_gloomslate_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/from_cobbled | mekanism:enriching | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/from_cobbled_slabs | mekanism:enriching | deeperdarker:cobbled_gloomslate_slab deeperdarker:gloomslate_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/from_cobbled_stairs | mekanism:enriching | deeperdarker:cobbled_gloomslate_stairs deeperdarker:gloomslate_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/from_cobbled_wall | mekanism:enriching | deeperdarker:cobbled_gloomslate_wall deeperdarker:gloomslate_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/polished_slabs_to_cut | mekanism:enriching | deeperdarker:cut_gloomslate_slab deeperdarker:polished_gloomslate_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/polished_stairs_to_cut | mekanism:enriching | deeperdarker:cut_gloomslate_stairs deeperdarker:polished_gloomslate_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/polished_to_cut | mekanism:enriching | deeperdarker:cut_gloomslate deeperdarker:polished_gloomslate mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/polished_wall_to_cut | mekanism:enriching | deeperdarker:cut_gloomslate_wall deeperdarker:polished_gloomslate_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/slabs_to_smooth | mekanism:enriching | deeperdarker:gloomslate_slab deeperdarker:smooth_gloomslate_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/stairs_to_smooth | mekanism:enriching | deeperdarker:gloomslate_stairs deeperdarker:smooth_gloomslate_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/tile_slabs_to_brick | mekanism:enriching | deeperdarker:gloomslate_brick_slab deeperdarker:gloomslate_tile_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/tile_stairs_to_brick | mekanism:enriching | deeperdarker:gloomslate_brick_stairs deeperdarker:gloomslate_tile_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/tile_wall_to_brick | mekanism:enriching | deeperdarker:gloomslate_brick_wall deeperdarker:gloomslate_tile_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/tiles_to_bricks | mekanism:enriching | deeperdarker:gloomslate_bricks deeperdarker:gloomslate_tiles mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/to_smooth | mekanism:enriching | deeperdarker:gloomslate deeperdarker:smooth_gloomslate mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/gloomslate/wall_to_smooth | mekanism:enriching | deeperdarker:gloomslate_wall deeperdarker:smooth_gloomslate_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/brick_slabs_to_polished | mekanism:enriching | deeperdarker:polished_sculk_stone_slab deeperdarker:sculk_stone_brick_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/brick_stairs_to_polished | mekanism:enriching | deeperdarker:polished_sculk_stone_stairs deeperdarker:sculk_stone_brick_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/brick_wall_to_polished | mekanism:enriching | deeperdarker:polished_sculk_stone_wall deeperdarker:sculk_stone_brick_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/bricks_to_polished | mekanism:enriching | deeperdarker:polished_sculk_stone deeperdarker:sculk_stone_bricks mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/cut_slabs_to_smooth | mekanism:enriching | deeperdarker:cut_sculk_stone_slab deeperdarker:smooth_sculk_stone_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/cut_stairs_to_smooth | mekanism:enriching | deeperdarker:cut_sculk_stone_stairs deeperdarker:smooth_sculk_stone_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/cut_to_smooth | mekanism:enriching | deeperdarker:cut_sculk_stone deeperdarker:smooth_sculk_stone mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/cut_wall_to_smooth | mekanism:enriching | deeperdarker:cut_sculk_stone_wall deeperdarker:smooth_sculk_stone_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/from_cobbled | mekanism:enriching | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/from_cobbled_slabs | mekanism:enriching | deeperdarker:cobbled_sculk_stone_slab deeperdarker:sculk_stone_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/from_cobbled_stairs | mekanism:enriching | deeperdarker:cobbled_sculk_stone_stairs deeperdarker:sculk_stone_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/from_cobbled_wall | mekanism:enriching | deeperdarker:cobbled_sculk_stone_wall deeperdarker:sculk_stone_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/polished_slabs_to_cut | mekanism:enriching | deeperdarker:cut_sculk_stone_slab deeperdarker:polished_sculk_stone_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/polished_stairs_to_cut | mekanism:enriching | deeperdarker:cut_sculk_stone_stairs deeperdarker:polished_sculk_stone_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/polished_to_cut | mekanism:enriching | deeperdarker:cut_sculk_stone deeperdarker:polished_sculk_stone mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/polished_wall_to_cut | mekanism:enriching | deeperdarker:cut_sculk_stone_wall deeperdarker:polished_sculk_stone_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/slabs_to_smooth | mekanism:enriching | deeperdarker:sculk_stone_slab deeperdarker:smooth_sculk_stone_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/stairs_to_smooth | mekanism:enriching | deeperdarker:sculk_stone_stairs deeperdarker:smooth_sculk_stone_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/tile_slabs_to_brick | mekanism:enriching | deeperdarker:sculk_stone_brick_slab deeperdarker:sculk_stone_tile_slab mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/tile_stairs_to_brick | mekanism:enriching | deeperdarker:sculk_stone_brick_stairs deeperdarker:sculk_stone_tile_stairs mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/tile_wall_to_brick | mekanism:enriching | deeperdarker:sculk_stone_brick_wall deeperdarker:sculk_stone_tile_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/tiles_to_bricks | mekanism:enriching | deeperdarker:sculk_stone_bricks deeperdarker:sculk_stone_tiles mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/to_smooth | mekanism:enriching | deeperdarker:sculk_stone deeperdarker:smooth_sculk_stone mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/enriching/conversion/sculk_stone/wall_to_smooth | mekanism:enriching | deeperdarker:sculk_stone_wall deeperdarker:smooth_sculk_stone_wall mekanism:enriching neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/sawing/boat/echo | mekanism:sawing | deeperdarker:echo_boat deeperdarker:echo_planks mekanism:sawing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/sawing/chest_boat/echo | mekanism:sawing | deeperdarker:echo_boat deeperdarker:echo_chest_boat mekanism:sawing minecraft:chest neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/sawing/door/echo | mekanism:sawing | deeperdarker:echo_door deeperdarker:echo_planks mekanism:sawing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/sawing/fence_gate/echo | mekanism:sawing | deeperdarker:echo_fence_gate deeperdarker:echo_planks mekanism:sawing minecraft:stick neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/sawing/hanging_sign/echo | mekanism:sawing | deeperdarker:echo_hanging_sign deeperdarker:echo_planks mekanism:sawdust mekanism:sawing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/sawing/log/echo | mekanism:sawing | deeperdarker:echo_logs deeperdarker:echo_planks mekanism:sawdust mekanism:sawing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/sawing/pressure_plate/echo | mekanism:sawing | deeperdarker:echo_planks deeperdarker:echo_pressure_plate mekanism:sawdust mekanism:sawing neoforge:mod_loaded
+deeperdarker:compatibility/mekanism/sawing/trapdoor/echo | mekanism:sawing | deeperdarker:echo_planks deeperdarker:echo_trapdoor mekanism:sawing neoforge:mod_loaded
+deeperdarker:compatibility/pneumaticcraft/block_heat_properties/deeperdarker/gloomy_geyser | pneumaticcraft:heat_properties | deeperdarker:gloomy_geyser deeperdarker:gloomy_sculk neoforge:mod_loaded pneumaticcraft:heat_properties
+deeperdarker:cooked_angler_fish | minecraft:smelting | deeperdarker:angler_fish deeperdarker:cooked_angler_fish minecraft:smelting
+deeperdarker:cooked_angler_fish_from_campfire_cooking | minecraft:campfire_cooking | deeperdarker:angler_fish deeperdarker:cooked_angler_fish minecraft:campfire_cooking
+deeperdarker:cooked_angler_fish_from_smoking | minecraft:smoking | deeperdarker:angler_fish deeperdarker:cooked_angler_fish minecraft:smoking
+deeperdarker:copper_ingot_from_blasting_gloomslate_copper_ore | minecraft:blasting | deeperdarker:gloomslate_copper_ore minecraft:blasting minecraft:copper_ingot
+deeperdarker:copper_ingot_from_blasting_sculk_stone_copper_ore | minecraft:blasting | deeperdarker:sculk_stone_copper_ore minecraft:blasting minecraft:copper_ingot
+deeperdarker:copper_ingot_from_smelting_gloomslate_copper_ore | minecraft:smelting | deeperdarker:gloomslate_copper_ore minecraft:copper_ingot minecraft:smelting
+deeperdarker:copper_ingot_from_smelting_sculk_stone_copper_ore | minecraft:smelting | deeperdarker:sculk_stone_copper_ore minecraft:copper_ingot minecraft:smelting
+deeperdarker:cut_gloomslate | minecraft:crafting_shaped | deeperdarker:cut_gloomslate deeperdarker:smooth_gloomslate minecraft:crafting_shaped
+deeperdarker:cut_gloomslate_slab | minecraft:crafting_shaped | deeperdarker:cut_gloomslate deeperdarker:cut_gloomslate_slab minecraft:crafting_shaped
+deeperdarker:cut_gloomslate_slab_from_cut_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cut_gloomslate deeperdarker:cut_gloomslate_slab minecraft:stonecutting
+deeperdarker:cut_gloomslate_slab_from_smooth_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cut_gloomslate_slab deeperdarker:smooth_gloomslate minecraft:stonecutting
+deeperdarker:cut_gloomslate_stairs | minecraft:crafting_shaped | deeperdarker:cut_gloomslate deeperdarker:cut_gloomslate_stairs minecraft:crafting_shaped
+deeperdarker:cut_gloomslate_stairs_from_cut_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cut_gloomslate deeperdarker:cut_gloomslate_stairs minecraft:stonecutting
+deeperdarker:cut_gloomslate_stairs_from_smooth_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cut_gloomslate_stairs deeperdarker:smooth_gloomslate minecraft:stonecutting
+deeperdarker:cut_gloomslate_wall | minecraft:crafting_shaped | deeperdarker:cut_gloomslate deeperdarker:cut_gloomslate_wall minecraft:crafting_shaped
+deeperdarker:cut_gloomslate_wall_from_cut_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cut_gloomslate deeperdarker:cut_gloomslate_wall minecraft:stonecutting
+deeperdarker:cut_gloomslate_wall_from_smooth_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cut_gloomslate_wall deeperdarker:smooth_gloomslate minecraft:stonecutting
+deeperdarker:cut_sculk_stone | minecraft:crafting_shaped | deeperdarker:cut_sculk_stone deeperdarker:smooth_sculk_stone minecraft:crafting_shaped
+deeperdarker:cut_sculk_stone_slab | minecraft:crafting_shaped | deeperdarker:cut_sculk_stone deeperdarker:cut_sculk_stone_slab minecraft:crafting_shaped
+deeperdarker:cut_sculk_stone_slab_from_cut_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cut_sculk_stone deeperdarker:cut_sculk_stone_slab minecraft:stonecutting
+deeperdarker:cut_sculk_stone_slab_from_smooth_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cut_sculk_stone_slab deeperdarker:smooth_sculk_stone minecraft:stonecutting
+deeperdarker:cut_sculk_stone_stairs | minecraft:crafting_shaped | deeperdarker:cut_sculk_stone deeperdarker:cut_sculk_stone_stairs minecraft:crafting_shaped
+deeperdarker:cut_sculk_stone_stairs_from_cut_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cut_sculk_stone deeperdarker:cut_sculk_stone_stairs minecraft:stonecutting
+deeperdarker:cut_sculk_stone_stairs_from_smooth_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cut_sculk_stone_stairs deeperdarker:smooth_sculk_stone minecraft:stonecutting
+deeperdarker:cut_sculk_stone_wall | minecraft:crafting_shaped | deeperdarker:cut_sculk_stone deeperdarker:cut_sculk_stone_wall minecraft:crafting_shaped
+deeperdarker:cut_sculk_stone_wall_from_cut_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cut_sculk_stone deeperdarker:cut_sculk_stone_wall minecraft:stonecutting
+deeperdarker:cut_sculk_stone_wall_from_smooth_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cut_sculk_stone_wall deeperdarker:smooth_sculk_stone minecraft:stonecutting
+deeperdarker:diamond_from_blasting_gloomslate_diamond_ore | minecraft:blasting | deeperdarker:gloomslate_diamond_ore minecraft:blasting minecraft:diamond
+deeperdarker:diamond_from_blasting_sculk_stone_diamond_ore | minecraft:blasting | deeperdarker:sculk_stone_diamond_ore minecraft:blasting minecraft:diamond
+deeperdarker:diamond_from_smelting_gloomslate_diamond_ore | minecraft:smelting | deeperdarker:gloomslate_diamond_ore minecraft:diamond minecraft:smelting
+deeperdarker:diamond_from_smelting_sculk_stone_diamond_ore | minecraft:smelting | deeperdarker:sculk_stone_diamond_ore minecraft:diamond minecraft:smelting
+deeperdarker:echo_boat | minecraft:crafting_shaped | deeperdarker:echo_boat deeperdarker:echo_planks minecraft:crafting_shaped
+deeperdarker:echo_button | minecraft:crafting_shapeless | deeperdarker:echo_button deeperdarker:echo_planks minecraft:crafting_shapeless
+deeperdarker:echo_chest_boat | minecraft:crafting_shapeless | deeperdarker:echo_boat deeperdarker:echo_chest_boat minecraft:chest minecraft:crafting_shapeless
+deeperdarker:echo_door | minecraft:crafting_shaped | deeperdarker:echo_door deeperdarker:echo_planks minecraft:crafting_shaped
+deeperdarker:echo_fence | minecraft:crafting_shaped | deeperdarker:echo_fence deeperdarker:echo_planks minecraft:crafting_shaped minecraft:stick
+deeperdarker:echo_fence_gate | minecraft:crafting_shaped | deeperdarker:echo_fence_gate deeperdarker:echo_planks minecraft:crafting_shaped minecraft:stick
+deeperdarker:echo_hanging_sign | minecraft:crafting_shaped | deeperdarker:echo_hanging_sign deeperdarker:stripped_echo_log minecraft:chain minecraft:crafting_shaped
+deeperdarker:echo_planks | minecraft:crafting_shapeless | deeperdarker:echo_logs deeperdarker:echo_planks minecraft:crafting_shapeless
+deeperdarker:echo_pressure_plate | minecraft:crafting_shaped | deeperdarker:echo_planks deeperdarker:echo_pressure_plate minecraft:crafting_shaped
+deeperdarker:echo_sign | minecraft:crafting_shaped | deeperdarker:echo_planks deeperdarker:echo_sign minecraft:crafting_shaped minecraft:stick
+deeperdarker:echo_slab | minecraft:crafting_shaped | deeperdarker:echo_planks deeperdarker:echo_slab minecraft:crafting_shaped
+deeperdarker:echo_stairs | minecraft:crafting_shaped | deeperdarker:echo_planks deeperdarker:echo_stairs minecraft:crafting_shaped
+deeperdarker:echo_trapdoor | minecraft:crafting_shaped | deeperdarker:echo_planks deeperdarker:echo_trapdoor minecraft:crafting_shaped
+deeperdarker:echo_wood | minecraft:crafting_shaped | deeperdarker:echo_log deeperdarker:echo_wood minecraft:crafting_shaped
+deeperdarker:emerald_from_blasting_gloomslate_emerald_ore | minecraft:blasting | deeperdarker:gloomslate_emerald_ore minecraft:blasting minecraft:emerald
+deeperdarker:emerald_from_blasting_sculk_stone_emerald_ore | minecraft:blasting | deeperdarker:sculk_stone_emerald_ore minecraft:blasting minecraft:emerald
+deeperdarker:emerald_from_smelting_gloomslate_emerald_ore | minecraft:smelting | deeperdarker:gloomslate_emerald_ore minecraft:emerald minecraft:smelting
+deeperdarker:emerald_from_smelting_sculk_stone_emerald_ore | minecraft:smelting | deeperdarker:sculk_stone_emerald_ore minecraft:emerald minecraft:smelting
+deeperdarker:gleam_gel_block | minecraft:crafting_shaped | deeperdarker:gleam_gel deeperdarker:gleam_gel_block minecraft:crafting_shaped
+deeperdarker:gloomslate | minecraft:smelting | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate minecraft:smelting
+deeperdarker:gloomslate_brick_fence | minecraft:crafting_shaped | deeperdarker:gloomslate_brick_fence deeperdarker:gloomslate_bricks minecraft:crafting_shaped minecraft:stick
+deeperdarker:gloomslate_brick_slab | minecraft:crafting_shaped | deeperdarker:gloomslate_brick_slab deeperdarker:gloomslate_bricks minecraft:crafting_shaped
+deeperdarker:gloomslate_brick_slab_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_brick_slab minecraft:stonecutting
+deeperdarker:gloomslate_brick_slab_from_gloomslate_bricks_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_brick_slab deeperdarker:gloomslate_bricks minecraft:stonecutting
+deeperdarker:gloomslate_brick_slab_from_polished_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_brick_slab deeperdarker:polished_gloomslate minecraft:stonecutting
+deeperdarker:gloomslate_brick_stairs | minecraft:crafting_shaped | deeperdarker:gloomslate_brick_stairs deeperdarker:gloomslate_bricks minecraft:crafting_shaped
+deeperdarker:gloomslate_brick_stairs_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_brick_stairs minecraft:stonecutting
+deeperdarker:gloomslate_brick_stairs_from_gloomslate_bricks_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_brick_stairs deeperdarker:gloomslate_bricks minecraft:stonecutting
+deeperdarker:gloomslate_brick_stairs_from_polished_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_brick_stairs deeperdarker:polished_gloomslate minecraft:stonecutting
+deeperdarker:gloomslate_brick_wall | minecraft:crafting_shaped | deeperdarker:gloomslate_brick_wall deeperdarker:gloomslate_bricks minecraft:crafting_shaped
+deeperdarker:gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_brick_wall minecraft:stonecutting
+deeperdarker:gloomslate_brick_wall_from_gloomslate_bricks_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_brick_wall deeperdarker:gloomslate_bricks minecraft:stonecutting
+deeperdarker:gloomslate_brick_wall_from_polished_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_brick_wall deeperdarker:polished_gloomslate minecraft:stonecutting
+deeperdarker:gloomslate_bricks | minecraft:crafting_shaped | deeperdarker:gloomslate_bricks deeperdarker:polished_gloomslate minecraft:crafting_shaped
+deeperdarker:gloomslate_bricks_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_bricks minecraft:stonecutting
+deeperdarker:gloomslate_bricks_from_polished_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_bricks deeperdarker:polished_gloomslate minecraft:stonecutting
+deeperdarker:gloomslate_light | minecraft:crafting_shaped | deeperdarker:gloomslate deeperdarker:gloomslate_light deeperdarker:sculk_gleam minecraft:crafting_shaped
+deeperdarker:gloomslate_pot | deeperdarker:gloomslate_pot_recipe | deeperdarker:gloomslate_pot_recipe
+deeperdarker:gloomslate_slab | minecraft:crafting_shaped | deeperdarker:gloomslate deeperdarker:gloomslate_slab minecraft:crafting_shaped
+deeperdarker:gloomslate_slab_from_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate deeperdarker:gloomslate_slab minecraft:stonecutting
+deeperdarker:gloomslate_stairs | minecraft:crafting_shaped | deeperdarker:gloomslate deeperdarker:gloomslate_stairs minecraft:crafting_shaped
+deeperdarker:gloomslate_stairs_from_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate deeperdarker:gloomslate_stairs minecraft:stonecutting
+deeperdarker:gloomslate_tile_slab | minecraft:crafting_shaped | deeperdarker:gloomslate_tile_slab deeperdarker:gloomslate_tiles minecraft:crafting_shaped
+deeperdarker:gloomslate_tile_slab_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_tile_slab minecraft:stonecutting
+deeperdarker:gloomslate_tile_slab_from_gloomslate_tiles_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_tile_slab deeperdarker:gloomslate_tiles minecraft:stonecutting
+deeperdarker:gloomslate_tile_slab_from_polished_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_tile_slab deeperdarker:polished_gloomslate minecraft:stonecutting
+deeperdarker:gloomslate_tile_stairs | minecraft:crafting_shaped | deeperdarker:gloomslate_tile_stairs deeperdarker:gloomslate_tiles minecraft:crafting_shaped
+deeperdarker:gloomslate_tile_stairs_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_tile_stairs minecraft:stonecutting
+deeperdarker:gloomslate_tile_stairs_from_gloomslate_tiles_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_tile_stairs deeperdarker:gloomslate_tiles minecraft:stonecutting
+deeperdarker:gloomslate_tile_stairs_from_polished_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_tile_stairs deeperdarker:polished_gloomslate minecraft:stonecutting
+deeperdarker:gloomslate_tile_wall | minecraft:crafting_shaped | deeperdarker:gloomslate_tile_wall deeperdarker:gloomslate_tiles minecraft:crafting_shaped
+deeperdarker:gloomslate_tile_wall_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_tile_wall minecraft:stonecutting
+deeperdarker:gloomslate_tile_wall_from_gloomslate_tiles_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_tile_wall deeperdarker:gloomslate_tiles minecraft:stonecutting
+deeperdarker:gloomslate_tile_wall_from_polished_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_tile_wall deeperdarker:polished_gloomslate minecraft:stonecutting
+deeperdarker:gloomslate_tiles | minecraft:crafting_shaped | deeperdarker:gloomslate_bricks deeperdarker:gloomslate_tiles minecraft:crafting_shaped
+deeperdarker:gloomslate_tiles_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:gloomslate_tiles minecraft:stonecutting
+deeperdarker:gloomslate_tiles_from_polished_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate_tiles deeperdarker:polished_gloomslate minecraft:stonecutting
+deeperdarker:gloomslate_wall | minecraft:crafting_shaped | deeperdarker:gloomslate deeperdarker:gloomslate_wall minecraft:crafting_shaped
+deeperdarker:gloomslate_wall_from_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:gloomslate deeperdarker:gloomslate_wall minecraft:stonecutting
+deeperdarker:gold_ingot_from_blasting_gloomslate_gold_ore | minecraft:blasting | deeperdarker:gloomslate_gold_ore minecraft:blasting minecraft:gold_ingot
+deeperdarker:gold_ingot_from_blasting_sculk_stone_gold_ore | minecraft:blasting | deeperdarker:sculk_stone_gold_ore minecraft:blasting minecraft:gold_ingot
+deeperdarker:gold_ingot_from_smelting_gloomslate_gold_ore | minecraft:smelting | deeperdarker:gloomslate_gold_ore minecraft:gold_ingot minecraft:smelting
+deeperdarker:gold_ingot_from_smelting_sculk_stone_gold_ore | minecraft:smelting | deeperdarker:sculk_stone_gold_ore minecraft:gold_ingot minecraft:smelting
+deeperdarker:grime_brick | minecraft:smelting | deeperdarker:grime_ball deeperdarker:grime_brick minecraft:smelting
+deeperdarker:iron_ingot_from_blasting_gloomslate_iron_ore | minecraft:blasting | deeperdarker:gloomslate_iron_ore minecraft:blasting minecraft:iron_ingot
+deeperdarker:iron_ingot_from_blasting_sculk_stone_iron_ore | minecraft:blasting | deeperdarker:sculk_stone_iron_ore minecraft:blasting minecraft:iron_ingot
+deeperdarker:iron_ingot_from_smelting_gloomslate_iron_ore | minecraft:smelting | deeperdarker:gloomslate_iron_ore minecraft:iron_ingot minecraft:smelting
+deeperdarker:iron_ingot_from_smelting_sculk_stone_iron_ore | minecraft:smelting | deeperdarker:sculk_stone_iron_ore minecraft:iron_ingot minecraft:smelting
+deeperdarker:lapis_lazuli_from_blasting_gloomslate_lapis_ore | minecraft:blasting | deeperdarker:gloomslate_lapis_ore minecraft:blasting minecraft:lapis_lazuli
+deeperdarker:lapis_lazuli_from_blasting_sculk_stone_lapis_ore | minecraft:blasting | deeperdarker:sculk_stone_lapis_ore minecraft:blasting minecraft:lapis_lazuli
+deeperdarker:lapis_lazuli_from_smelting_gloomslate_lapis_ore | minecraft:smelting | deeperdarker:gloomslate_lapis_ore minecraft:lapis_lazuli minecraft:smelting
+deeperdarker:lapis_lazuli_from_smelting_sculk_stone_lapis_ore | minecraft:smelting | deeperdarker:sculk_stone_lapis_ore minecraft:lapis_lazuli minecraft:smelting
+deeperdarker:lite | minecraft:crafting_shapeless | deeperdarker:lite deeperdarker:lite_block minecraft:crafting_shapeless
+deeperdarker:lite_block | minecraft:crafting_shaped | deeperdarker:lite deeperdarker:lite_block minecraft:crafting_shaped
+deeperdarker:polished_gloomslate | minecraft:crafting_shaped | deeperdarker:cobbled_gloomslate deeperdarker:polished_gloomslate minecraft:crafting_shaped
+deeperdarker:polished_gloomslate_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:polished_gloomslate minecraft:stonecutting
+deeperdarker:polished_gloomslate_slab | minecraft:crafting_shaped | deeperdarker:polished_gloomslate deeperdarker:polished_gloomslate_slab minecraft:crafting_shaped
+deeperdarker:polished_gloomslate_slab_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:polished_gloomslate_slab minecraft:stonecutting
+deeperdarker:polished_gloomslate_slab_from_polished_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:polished_gloomslate deeperdarker:polished_gloomslate_slab minecraft:stonecutting
+deeperdarker:polished_gloomslate_stairs | minecraft:crafting_shaped | deeperdarker:polished_gloomslate deeperdarker:polished_gloomslate_stairs minecraft:crafting_shaped
+deeperdarker:polished_gloomslate_stairs_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:polished_gloomslate_stairs minecraft:stonecutting
+deeperdarker:polished_gloomslate_stairs_from_polished_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:polished_gloomslate deeperdarker:polished_gloomslate_stairs minecraft:stonecutting
+deeperdarker:polished_gloomslate_wall | minecraft:crafting_shaped | deeperdarker:polished_gloomslate deeperdarker:polished_gloomslate_wall minecraft:crafting_shaped
+deeperdarker:polished_gloomslate_wall_from_cobbled_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_gloomslate deeperdarker:polished_gloomslate_wall minecraft:stonecutting
+deeperdarker:polished_gloomslate_wall_from_polished_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:polished_gloomslate deeperdarker:polished_gloomslate_wall minecraft:stonecutting
+deeperdarker:polished_sculk_stone | minecraft:crafting_shaped | deeperdarker:cobbled_sculk_stone deeperdarker:polished_sculk_stone minecraft:crafting_shaped
+deeperdarker:polished_sculk_stone_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:polished_sculk_stone minecraft:stonecutting
+deeperdarker:polished_sculk_stone_slab | minecraft:crafting_shaped | deeperdarker:polished_sculk_stone deeperdarker:polished_sculk_stone_slab minecraft:crafting_shaped
+deeperdarker:polished_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:polished_sculk_stone_slab minecraft:stonecutting
+deeperdarker:polished_sculk_stone_slab_from_polished_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:polished_sculk_stone deeperdarker:polished_sculk_stone_slab minecraft:stonecutting
+deeperdarker:polished_sculk_stone_stairs | minecraft:crafting_shaped | deeperdarker:polished_sculk_stone deeperdarker:polished_sculk_stone_stairs minecraft:crafting_shaped
+deeperdarker:polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:polished_sculk_stone_stairs minecraft:stonecutting
+deeperdarker:polished_sculk_stone_stairs_from_polished_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:polished_sculk_stone deeperdarker:polished_sculk_stone_stairs minecraft:stonecutting
+deeperdarker:polished_sculk_stone_wall | minecraft:crafting_shaped | deeperdarker:polished_sculk_stone deeperdarker:polished_sculk_stone_wall minecraft:crafting_shaped
+deeperdarker:polished_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:polished_sculk_stone_wall minecraft:stonecutting
+deeperdarker:polished_sculk_stone_wall_from_polished_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:polished_sculk_stone deeperdarker:polished_sculk_stone_wall minecraft:stonecutting
+deeperdarker:redstone_from_blasting_gloomslate_redstone_ore | minecraft:blasting | deeperdarker:gloomslate_redstone_ore minecraft:blasting minecraft:redstone
+deeperdarker:redstone_from_blasting_sculk_stone_redstone_ore | minecraft:blasting | deeperdarker:sculk_stone_redstone_ore minecraft:blasting minecraft:redstone
+deeperdarker:redstone_from_smelting_gloomslate_redstone_ore | minecraft:smelting | deeperdarker:gloomslate_redstone_ore minecraft:redstone minecraft:smelting
+deeperdarker:redstone_from_smelting_sculk_stone_redstone_ore | minecraft:smelting | deeperdarker:sculk_stone_redstone_ore minecraft:redstone minecraft:smelting
+deeperdarker:reinforced_echo_shard | minecraft:crafting_shaped | deeperdarker:reinforced_echo_shard deeperdarker:warden_carapace minecraft:crafting_shaped minecraft:echo_shard minecraft:phantom_membrane
+deeperdarker:resonarium_axe_smithing | minecraft:smithing_transform | deeperdarker:resonarium_axe deeperdarker:resonarium_plate deeperdarker:resonarium_upgrade_smithing_template minecraft:diamond_axe minecraft:smithing_transform
+deeperdarker:resonarium_boots_smithing | minecraft:smithing_transform | deeperdarker:resonarium_boots deeperdarker:resonarium_plate deeperdarker:resonarium_upgrade_smithing_template minecraft:diamond_boots minecraft:smithing_transform
+deeperdarker:resonarium_chestplate_smithing | minecraft:smithing_transform | deeperdarker:resonarium_chestplate deeperdarker:resonarium_plate deeperdarker:resonarium_upgrade_smithing_template minecraft:diamond_chestplate minecraft:smithing_transform
+deeperdarker:resonarium_helmet_smithing | minecraft:smithing_transform | deeperdarker:resonarium_helmet deeperdarker:resonarium_plate deeperdarker:resonarium_upgrade_smithing_template minecraft:diamond_helmet minecraft:smithing_transform
+deeperdarker:resonarium_hoe_smithing | minecraft:smithing_transform | deeperdarker:resonarium_hoe deeperdarker:resonarium_plate deeperdarker:resonarium_upgrade_smithing_template minecraft:diamond_hoe minecraft:smithing_transform
+deeperdarker:resonarium_leggings_smithing | minecraft:smithing_transform | deeperdarker:resonarium_leggings deeperdarker:resonarium_plate deeperdarker:resonarium_upgrade_smithing_template minecraft:diamond_leggings minecraft:smithing_transform
+deeperdarker:resonarium_pickaxe_smithing | minecraft:smithing_transform | deeperdarker:resonarium_pickaxe deeperdarker:resonarium_plate deeperdarker:resonarium_upgrade_smithing_template minecraft:diamond_pickaxe minecraft:smithing_transform
+deeperdarker:resonarium_plate | minecraft:crafting_shapeless | deeperdarker:resonarium deeperdarker:resonarium_plate deeperdarker:scutes minecraft:crafting_shapeless
+deeperdarker:resonarium_shovel_smithing | minecraft:smithing_transform | deeperdarker:resonarium_plate deeperdarker:resonarium_shovel deeperdarker:resonarium_upgrade_smithing_template minecraft:diamond_shovel minecraft:smithing_transform
+deeperdarker:resonarium_sword_smithing | minecraft:smithing_transform | deeperdarker:resonarium_plate deeperdarker:resonarium_sword deeperdarker:resonarium_upgrade_smithing_template minecraft:diamond_sword minecraft:smithing_transform
+deeperdarker:resonarium_upgrade_smithing_template | minecraft:crafting_shaped | deeperdarker:resonarium deeperdarker:resonarium_upgrade_smithing_template minecraft:crafting_shaped minecraft:diamond
+deeperdarker:sculk_grime | minecraft:crafting_shaped | deeperdarker:grime_ball deeperdarker:sculk_grime minecraft:crafting_shaped
+deeperdarker:sculk_grime_brick_slab | minecraft:crafting_shaped | deeperdarker:sculk_grime_brick_slab deeperdarker:sculk_grime_bricks minecraft:crafting_shaped
+deeperdarker:sculk_grime_brick_slab_from_sculk_grime_bricks_stonecutting | minecraft:stonecutting | deeperdarker:sculk_grime_brick_slab deeperdarker:sculk_grime_bricks minecraft:stonecutting
+deeperdarker:sculk_grime_brick_stairs | minecraft:crafting_shaped | deeperdarker:sculk_grime_brick_stairs deeperdarker:sculk_grime_bricks minecraft:crafting_shaped
+deeperdarker:sculk_grime_brick_stairs_from_sculk_grime_bricks_stonecutting | minecraft:stonecutting | deeperdarker:sculk_grime_brick_stairs deeperdarker:sculk_grime_bricks minecraft:stonecutting
+deeperdarker:sculk_grime_brick_wall | minecraft:crafting_shaped | deeperdarker:sculk_grime_brick_wall deeperdarker:sculk_grime_bricks minecraft:crafting_shaped
+deeperdarker:sculk_grime_brick_wall_from_sculk_grime_bricks_stonecutting | minecraft:stonecutting | deeperdarker:sculk_grime_brick_wall deeperdarker:sculk_grime_bricks minecraft:stonecutting
+deeperdarker:sculk_grime_bricks | minecraft:crafting_shaped | deeperdarker:grime_brick deeperdarker:sculk_grime_bricks minecraft:crafting_shaped
+deeperdarker:sculk_stone | minecraft:smelting | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone minecraft:smelting
+deeperdarker:sculk_stone_brick_slab | minecraft:crafting_shaped | deeperdarker:sculk_stone_brick_slab deeperdarker:sculk_stone_bricks minecraft:crafting_shaped
+deeperdarker:sculk_stone_brick_slab_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_brick_slab minecraft:stonecutting
+deeperdarker:sculk_stone_brick_slab_from_polished_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:polished_sculk_stone deeperdarker:sculk_stone_brick_slab minecraft:stonecutting
+deeperdarker:sculk_stone_brick_slab_from_sculk_stone_bricks_stonecutting | minecraft:stonecutting | deeperdarker:sculk_stone_brick_slab deeperdarker:sculk_stone_bricks minecraft:stonecutting
+deeperdarker:sculk_stone_brick_stairs | minecraft:crafting_shaped | deeperdarker:sculk_stone_brick_stairs deeperdarker:sculk_stone_bricks minecraft:crafting_shaped
+deeperdarker:sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_brick_stairs minecraft:stonecutting
+deeperdarker:sculk_stone_brick_stairs_from_polished_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:polished_sculk_stone deeperdarker:sculk_stone_brick_stairs minecraft:stonecutting
+deeperdarker:sculk_stone_brick_stairs_from_sculk_stone_bricks_stonecutting | minecraft:stonecutting | deeperdarker:sculk_stone_brick_stairs deeperdarker:sculk_stone_bricks minecraft:stonecutting
+deeperdarker:sculk_stone_brick_wall | minecraft:crafting_shaped | deeperdarker:sculk_stone_brick_wall deeperdarker:sculk_stone_bricks minecraft:crafting_shaped
+deeperdarker:sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_brick_wall minecraft:stonecutting
+deeperdarker:sculk_stone_brick_wall_from_polished_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:polished_sculk_stone deeperdarker:sculk_stone_brick_wall minecraft:stonecutting
+deeperdarker:sculk_stone_brick_wall_from_sculk_stone_bricks_stonecutting | minecraft:stonecutting | deeperdarker:sculk_stone_brick_wall deeperdarker:sculk_stone_bricks minecraft:stonecutting
+deeperdarker:sculk_stone_bricks | minecraft:crafting_shaped | deeperdarker:polished_sculk_stone deeperdarker:sculk_stone_bricks minecraft:crafting_shaped
+deeperdarker:sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_bricks minecraft:stonecutting
+deeperdarker:sculk_stone_bricks_from_polished_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:polished_sculk_stone deeperdarker:sculk_stone_bricks minecraft:stonecutting
+deeperdarker:sculk_stone_slab | minecraft:crafting_shaped | deeperdarker:sculk_stone deeperdarker:sculk_stone_slab minecraft:crafting_shaped
+deeperdarker:sculk_stone_slab_from_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:sculk_stone deeperdarker:sculk_stone_slab minecraft:stonecutting
+deeperdarker:sculk_stone_stairs | minecraft:crafting_shaped | deeperdarker:sculk_stone deeperdarker:sculk_stone_stairs minecraft:crafting_shaped
+deeperdarker:sculk_stone_stairs_from_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:sculk_stone deeperdarker:sculk_stone_stairs minecraft:stonecutting
+deeperdarker:sculk_stone_tile_slab | minecraft:crafting_shaped | deeperdarker:sculk_stone_tile_slab deeperdarker:sculk_stone_tiles minecraft:crafting_shaped
+deeperdarker:sculk_stone_tile_slab_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_tile_slab minecraft:stonecutting
+deeperdarker:sculk_stone_tile_slab_from_polished_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:polished_sculk_stone deeperdarker:sculk_stone_tile_slab minecraft:stonecutting
+deeperdarker:sculk_stone_tile_slab_from_sculk_stone_tiles_stonecutting | minecraft:stonecutting | deeperdarker:sculk_stone_tile_slab deeperdarker:sculk_stone_tiles minecraft:stonecutting
+deeperdarker:sculk_stone_tile_stairs | minecraft:crafting_shaped | deeperdarker:sculk_stone_tile_stairs deeperdarker:sculk_stone_tiles minecraft:crafting_shaped
+deeperdarker:sculk_stone_tile_stairs_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_tile_stairs minecraft:stonecutting
+deeperdarker:sculk_stone_tile_stairs_from_polished_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:polished_sculk_stone deeperdarker:sculk_stone_tile_stairs minecraft:stonecutting
+deeperdarker:sculk_stone_tile_stairs_from_sculk_stone_tiles_stonecutting | minecraft:stonecutting | deeperdarker:sculk_stone_tile_stairs deeperdarker:sculk_stone_tiles minecraft:stonecutting
+deeperdarker:sculk_stone_tile_wall | minecraft:crafting_shaped | deeperdarker:sculk_stone_tile_wall deeperdarker:sculk_stone_tiles minecraft:crafting_shaped
+deeperdarker:sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_tile_wall minecraft:stonecutting
+deeperdarker:sculk_stone_tile_wall_from_polished_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:polished_sculk_stone deeperdarker:sculk_stone_tile_wall minecraft:stonecutting
+deeperdarker:sculk_stone_tile_wall_from_sculk_stone_tiles_stonecutting | minecraft:stonecutting | deeperdarker:sculk_stone_tile_wall deeperdarker:sculk_stone_tiles minecraft:stonecutting
+deeperdarker:sculk_stone_tiles | minecraft:crafting_shaped | deeperdarker:sculk_stone_bricks deeperdarker:sculk_stone_tiles minecraft:crafting_shaped
+deeperdarker:sculk_stone_tiles_from_cobbled_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:cobbled_sculk_stone deeperdarker:sculk_stone_tiles minecraft:stonecutting
+deeperdarker:sculk_stone_tiles_from_polished_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:polished_sculk_stone deeperdarker:sculk_stone_tiles minecraft:stonecutting
+deeperdarker:sculk_stone_wall | minecraft:crafting_shaped | deeperdarker:sculk_stone deeperdarker:sculk_stone_wall minecraft:crafting_shaped
+deeperdarker:sculk_stone_wall_from_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:sculk_stone deeperdarker:sculk_stone_wall minecraft:stonecutting
+deeperdarker:sculk_transmitter_coloring | deeperdarker:sculk_transmitter_coloring | deeperdarker:sculk_transmitter_coloring
+deeperdarker:smooth_gloomslate | minecraft:smelting | deeperdarker:gloomslate deeperdarker:smooth_gloomslate minecraft:smelting
+deeperdarker:smooth_gloomslate_slab | minecraft:crafting_shaped | deeperdarker:smooth_gloomslate deeperdarker:smooth_gloomslate_slab minecraft:crafting_shaped
+deeperdarker:smooth_gloomslate_slab_from_smooth_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:smooth_gloomslate deeperdarker:smooth_gloomslate_slab minecraft:stonecutting
+deeperdarker:smooth_gloomslate_stairs | minecraft:crafting_shaped | deeperdarker:smooth_gloomslate deeperdarker:smooth_gloomslate_stairs minecraft:crafting_shaped
+deeperdarker:smooth_gloomslate_stairs_from_smooth_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:smooth_gloomslate deeperdarker:smooth_gloomslate_stairs minecraft:stonecutting
+deeperdarker:smooth_gloomslate_wall | minecraft:crafting_shaped | deeperdarker:smooth_gloomslate deeperdarker:smooth_gloomslate_wall minecraft:crafting_shaped
+deeperdarker:smooth_gloomslate_wall_from_smooth_gloomslate_stonecutting | minecraft:stonecutting | deeperdarker:smooth_gloomslate deeperdarker:smooth_gloomslate_wall minecraft:stonecutting
+deeperdarker:smooth_sculk_stone | minecraft:smelting | deeperdarker:sculk_stone deeperdarker:smooth_sculk_stone minecraft:smelting
+deeperdarker:smooth_sculk_stone_slab | minecraft:crafting_shaped | deeperdarker:smooth_sculk_stone deeperdarker:smooth_sculk_stone_slab minecraft:crafting_shaped
+deeperdarker:smooth_sculk_stone_slab_from_smooth_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:smooth_sculk_stone deeperdarker:smooth_sculk_stone_slab minecraft:stonecutting
+deeperdarker:smooth_sculk_stone_stairs | minecraft:crafting_shaped | deeperdarker:smooth_sculk_stone deeperdarker:smooth_sculk_stone_stairs minecraft:crafting_shaped
+deeperdarker:smooth_sculk_stone_stairs_from_smooth_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:smooth_sculk_stone deeperdarker:smooth_sculk_stone_stairs minecraft:stonecutting
+deeperdarker:smooth_sculk_stone_wall | minecraft:crafting_shaped | deeperdarker:smooth_sculk_stone deeperdarker:smooth_sculk_stone_wall minecraft:crafting_shaped
+deeperdarker:smooth_sculk_stone_wall_from_smooth_sculk_stone_stonecutting | minecraft:stonecutting | deeperdarker:smooth_sculk_stone deeperdarker:smooth_sculk_stone_wall minecraft:stonecutting
+deeperdarker:sonorous_staff | minecraft:crafting_shaped | deeperdarker:heart_of_the_deep deeperdarker:sculk_bone deeperdarker:sonorous_staff deeperdarker:soul_crystal minecraft:crafting_shaped
+deeperdarker:soul_elytra | minecraft:crafting_shaped | deeperdarker:sculk_bone deeperdarker:soul_crystal deeperdarker:soul_dust deeperdarker:soul_elytra minecraft:crafting_shaped minecraft:elytra
+deeperdarker:soundproof_glass | minecraft:crafting_shaped | deeperdarker:soul_dust deeperdarker:soundproof_glass minecraft:crafting_shaped minecraft:glass
+deeperdarker:stripped_echo_wood | minecraft:crafting_shaped | deeperdarker:stripped_echo_log deeperdarker:stripped_echo_wood minecraft:crafting_shaped
+deeperdarker:warden_axe_smithing | minecraft:smithing_transform | deeperdarker:reinforced_echo_shard deeperdarker:warden_axe deeperdarker:warden_upgrade_smithing_template minecraft:netherite_axe minecraft:smithing_transform
+deeperdarker:warden_boots_smithing | minecraft:smithing_transform | deeperdarker:reinforced_echo_shard deeperdarker:warden_boots deeperdarker:warden_upgrade_smithing_template minecraft:netherite_boots minecraft:smithing_transform
+deeperdarker:warden_chestplate_smithing | minecraft:smithing_transform | deeperdarker:reinforced_echo_shard deeperdarker:warden_chestplate deeperdarker:warden_upgrade_smithing_template minecraft:netherite_chestplate minecraft:smithing_transform
+deeperdarker:warden_helmet_smithing | minecraft:smithing_transform | deeperdarker:reinforced_echo_shard deeperdarker:warden_helmet deeperdarker:warden_upgrade_smithing_template minecraft:netherite_helmet minecraft:smithing_transform
+deeperdarker:warden_hoe_smithing | minecraft:smithing_transform | deeperdarker:reinforced_echo_shard deeperdarker:warden_hoe deeperdarker:warden_upgrade_smithing_template minecraft:netherite_hoe minecraft:smithing_transform
+deeperdarker:warden_leggings_smithing | minecraft:smithing_transform | deeperdarker:reinforced_echo_shard deeperdarker:warden_leggings deeperdarker:warden_upgrade_smithing_template minecraft:netherite_leggings minecraft:smithing_transform
+deeperdarker:warden_pickaxe_smithing | minecraft:smithing_transform | deeperdarker:reinforced_echo_shard deeperdarker:warden_pickaxe deeperdarker:warden_upgrade_smithing_template minecraft:netherite_pickaxe minecraft:smithing_transform
+deeperdarker:warden_shovel_smithing | minecraft:smithing_transform | deeperdarker:reinforced_echo_shard deeperdarker:warden_shovel deeperdarker:warden_upgrade_smithing_template minecraft:netherite_shovel minecraft:smithing_transform
+deeperdarker:warden_sword_smithing | minecraft:smithing_transform | deeperdarker:reinforced_echo_shard deeperdarker:warden_sword deeperdarker:warden_upgrade_smithing_template minecraft:netherite_sword minecraft:smithing_transform
+deeperdarker:warden_upgrade_smithing_template | minecraft:crafting_shaped | deeperdarker:warden_upgrade_smithing_template minecraft:crafting_shaped minecraft:diamond minecraft:sculk
+minecraft:orange_dye | minecraft:smelting | deeperdarker:gloomy_cactus minecraft:orange_dye minecraft:smelting

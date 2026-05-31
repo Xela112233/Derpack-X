@@ -1,0 +1,30 @@
+# create_hypertube-0.4.0-COMPAT-NEOFORGE
+
+## mod metadata (id / version / deps)
+license = "Apache License 2.0"
+modId = "create_hypertube"
+version = "0.4.0-COMPAT"
+displayName = "Create Hypertube"
+modId = "neoforge"
+versionRange = "[21,)"
+modId="create"
+versionRange="[6.0.4,6.1.0)"
+modId = "betterthirdperson"
+
+## blocks
+create_hypertube:coghweel_hole
+create_hypertube:hypertube
+create_hypertube:hypertube_accelerator
+create_hypertube:hypertube_entrance
+
+## items
+create_hypertube:hypertube
+create_hypertube:hypertube_accelerator
+create_hypertube:hypertube_entrance
+create_hypertube:redstone_detector_tube_attachment
+create_hypertube:tube_scanner_attachment
+create_hypertube:tube_scanner_unfinished
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,37 @@
+numismatics:crafting/andesite_depositor | minecraft:crafting_shapeless | c:plates/iron create:andesite_casing minecraft:crafting_shapeless numismatics:andesite_depositor
+numismatics:crafting/bank_terminal | minecraft:crafting_shapeless | create:electron_tube create:industrial_iron_block create:precision_mechanism minecraft:crafting_shapeless numismatics:bank_terminal
+numismatics:crafting/banking_guide | minecraft:crafting_shapeless | create:sturdy_sheet minecraft:crafting_shapeless minecraft:paper numismatics:banking_guide numismatics:cog
+numismatics:crafting/black_card | minecraft:crafting_shaped | c:dyes/black c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:black_card
+numismatics:crafting/black_id_card | minecraft:crafting_shaped | c:dyes/black c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:black_id_card
+numismatics:crafting/blue_card | minecraft:crafting_shaped | c:dyes/blue c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:blue_card
+numismatics:crafting/blue_id_card | minecraft:crafting_shaped | c:dyes/blue c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:blue_id_card
+numismatics:crafting/brass_depositor | minecraft:crafting_shapeless | create:brass_casing create:electron_tube create:sturdy_sheet minecraft:crafting_shapeless numismatics:brass_depositor
+numismatics:crafting/brown_card | minecraft:crafting_shaped | c:dyes/brown c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:brown_card
+numismatics:crafting/brown_id_card | minecraft:crafting_shaped | c:dyes/brown c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:brown_id_card
+numismatics:crafting/cyan_card | minecraft:crafting_shaped | c:dyes/cyan c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:cyan_card
+numismatics:crafting/cyan_id_card | minecraft:crafting_shaped | c:dyes/cyan c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:cyan_id_card
+numismatics:crafting/gray_card | minecraft:crafting_shaped | c:dyes/gray c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:gray_card
+numismatics:crafting/gray_id_card | minecraft:crafting_shaped | c:dyes/gray c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:gray_id_card
+numismatics:crafting/green_card | minecraft:crafting_shaped | c:dyes/green c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:green_card
+numismatics:crafting/green_id_card | minecraft:crafting_shaped | c:dyes/green c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:green_id_card
+numismatics:crafting/light_blue_card | minecraft:crafting_shaped | c:dyes/light_blue c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:light_blue_card
+numismatics:crafting/light_blue_id_card | minecraft:crafting_shaped | c:dyes/light_blue c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:light_blue_id_card
+numismatics:crafting/light_gray_card | minecraft:crafting_shaped | c:dyes/light_gray c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:light_gray_card
+numismatics:crafting/light_gray_id_card | minecraft:crafting_shaped | c:dyes/light_gray c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:light_gray_id_card
+numismatics:crafting/lime_card | minecraft:crafting_shaped | c:dyes/lime c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:lime_card
+numismatics:crafting/lime_id_card | minecraft:crafting_shaped | c:dyes/lime c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:lime_id_card
+numismatics:crafting/magenta_card | minecraft:crafting_shaped | c:dyes/magenta c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:magenta_card
+numismatics:crafting/magenta_id_card | minecraft:crafting_shaped | c:dyes/magenta c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:magenta_id_card
+numismatics:crafting/orange_card | minecraft:crafting_shaped | c:dyes/orange c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:orange_card
+numismatics:crafting/orange_id_card | minecraft:crafting_shaped | c:dyes/orange c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:orange_id_card
+numismatics:crafting/pink_card | minecraft:crafting_shaped | c:dyes/pink c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:pink_card
+numismatics:crafting/pink_id_card | minecraft:crafting_shaped | c:dyes/pink c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:pink_id_card
+numismatics:crafting/purple_card | minecraft:crafting_shaped | c:dyes/purple c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:purple_card
+numismatics:crafting/purple_id_card | minecraft:crafting_shaped | c:dyes/purple c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:purple_id_card
+numismatics:crafting/red_card | minecraft:crafting_shaped | c:dyes/red c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:red_card
+numismatics:crafting/red_id_card | minecraft:crafting_shaped | c:dyes/red c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:red_id_card
+numismatics:crafting/vendor | minecraft:crafting_shaped | create:brass_casing create:electron_tube create:framed_glass minecraft:crafting_shaped numismatics:vendor
+numismatics:crafting/white_card | minecraft:crafting_shaped | c:dyes/white c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:white_card
+numismatics:crafting/white_id_card | minecraft:crafting_shaped | c:dyes/white c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:white_id_card
+numismatics:crafting/yellow_card | minecraft:crafting_shaped | c:dyes/yellow c:plates/iron create:precision_mechanism minecraft:crafting_shaped numismatics:yellow_card
+numismatics:crafting/yellow_id_card | minecraft:crafting_shaped | c:dyes/yellow c:nuggets/brass c:plates/iron minecraft:crafting_shaped minecraft:paper numismatics:yellow_id_card

@@ -1,0 +1,19 @@
+# better_climbing-neoforge-4
+
+## mod metadata (id / version / deps)
+license="CC0-1.0"
+modId="better_climbing"
+version="4"
+displayName="Better Climbing"
+modId="neoforge"
+versionRange="[21.0.37-beta,)"
+modId="minecraft"
+versionRange="[1.21,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

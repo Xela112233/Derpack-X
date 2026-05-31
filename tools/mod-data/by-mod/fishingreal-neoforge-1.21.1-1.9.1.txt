@@ -1,0 +1,19 @@
+# fishingreal-neoforge-1.21.1-1.9.1
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="fishingreal"
+version="1.9.1"
+displayName="FishingReal"
+modId="neoforge"
+versionRange="[21.1.80,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

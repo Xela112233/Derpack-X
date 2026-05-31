@@ -1,0 +1,19 @@
+# BuildGuide-1.21-0.4.8
+
+## mod metadata (id / version / deps)
+license="Creative Commons Attribution-NonCommercial 3.0 Unported"
+modId="buildguide"
+version="0.4.8"
+displayName="Build Guide"
+modId="neoforge"
+versionRange="[21.0,21.2)"
+modId="minecraft"
+versionRange="[1.21,1.21.2)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,3 @@
+titanium:test_serializer/dirt_to_diamod | titanium:test_serializer | minecraft:diamond minecraft:dirt minecraft:recipe_serializer titanium:content_exists titanium:test_serializer
+titanium:test_serializer/dirt_to_used | titanium:test_serializer | minecraft:diamond_pickaxe minecraft:dirt minecraft:recipe_serializer minecraft:stone titanium:content_exists titanium:test_serializer
+titanium:test_serializer/saplings_to_sticks | titanium:test_serializer | minecraft:oak_sapling minecraft:recipe_serializer minecraft:stick minecraft:stone titanium:content_exists titanium:test_serializer

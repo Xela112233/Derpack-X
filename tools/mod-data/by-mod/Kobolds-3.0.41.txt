@@ -1,0 +1,44 @@
+# Kobolds-3.0.41
+
+## mod metadata (id / version / deps)
+license="MIT License"
+modId="kobolds"
+version="3.0.41"
+displayName="Kobolds"
+modId="minecraft"
+versionRange="[1.21.1]"
+
+## blocks
+kobolds:kobold_skull
+kobolds:kobold_skull_wall
+kobolds:kobold_wither_skull
+kobolds:kobold_wither_skull_wall
+
+## items
+kobolds:banner_pattern_kobold
+kobolds:kobold_captain_spawn_egg
+kobolds:kobold_enchanter_spawn_egg
+kobolds:kobold_engineer_spawn_egg
+kobolds:kobold_iron_axe
+kobolds:kobold_iron_hoe
+kobolds:kobold_iron_pickaxe
+kobolds:kobold_iron_shovel
+kobolds:kobold_iron_spear_sb
+kobolds:kobold_iron_spear_sb_in_hand
+kobolds:kobold_iron_spear_sword
+kobolds:kobold_iron_sword
+kobolds:kobold_pirate_spawn_egg
+kobolds:kobold_rascal_spawn_egg
+kobolds:kobold_skeleton_spawn_egg
+kobolds:kobold_skull
+kobolds:kobold_spawn_egg
+kobolds:kobold_template
+kobolds:kobold_warrior_spawn_egg
+kobolds:kobold_wither_skull
+kobolds:kobold_zombie_spawn_egg
+kobolds:music_disc_kobblestone
+kobolds:witherbold_spawn_egg
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,5 @@
+mffs:blocks/biometric_identifier | minecraft:block | mffs:biometric_identifier mffs:blocks/biometric_identifier mffs:content minecraft:block minecraft:dynamic minecraft:item minecraft:survives_explosion
+mffs:blocks/coercion_deriver | minecraft:block | mffs:blocks/coercion_deriver mffs:coercion_deriver mffs:content minecraft:block minecraft:dynamic minecraft:item minecraft:survives_explosion
+mffs:blocks/fortron_capacitor | minecraft:block | mffs:blocks/fortron_capacitor mffs:content mffs:fortron_capacitor minecraft:block minecraft:dynamic minecraft:item minecraft:survives_explosion
+mffs:blocks/interdiction_matrix | minecraft:block | mffs:blocks/interdiction_matrix mffs:content mffs:interdiction_matrix minecraft:block minecraft:dynamic minecraft:item minecraft:survives_explosion
+mffs:blocks/projector | minecraft:block | mffs:blocks/projector mffs:content mffs:projector minecraft:block minecraft:dynamic minecraft:item minecraft:survives_explosion

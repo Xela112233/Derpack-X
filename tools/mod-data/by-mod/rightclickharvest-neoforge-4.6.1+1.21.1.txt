@@ -1,0 +1,23 @@
+# rightclickharvest-neoforge-4.6.1+1.21.1
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "rightclickharvest"
+version = "4.6.1+1.21.1"
+displayName = "Right Click Harvest"
+modId = "neoforge"
+versionRange = "[21,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+modId = "architectury"
+versionRange = "[13.0.6,)"
+modId = "jamlib"
+versionRange = "[1.2.2-build.2+1.21.1,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

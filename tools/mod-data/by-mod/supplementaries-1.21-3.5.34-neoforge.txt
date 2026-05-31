@@ -1,0 +1,691 @@
+# supplementaries-1.21-3.5.34-neoforge
+
+## mod metadata (id / version / deps)
+license = "Supplementaries Team License vista is a shit vista is a shit vista is a shit vista is a shit vistavista is a shit vista is a shit vista is a shit vista is a shit vista is a shit vista is a shit vista is a shit  is a shit vista is a shit vista is a shit v.1.5"
+modId = "supplementaries"
+version = "1.21-3.5.34"
+displayName = "Supplementaries"
+modId = "neoforge"
+versionRange = "[4,)"
+modId = "minecraft"
+versionRange = "[1.21.1,1.21.2)"
+modId = "moonlight"
+versionRange = "[1.21-2.29.29,]"
+modId = "create"
+versionRange = "[6.0.0,]"
+modId = "amendments"
+versionRange = "[1.21-2.0.0,]"
+
+## blocks
+dynamictrees:rooty_supplementaries_planter
+dynamictrees:rooty_supplementaries_planter_rich
+supplementaries:ash
+supplementaries:ash_bricks
+supplementaries:ash_bricks_slab
+supplementaries:ash_bricks_stairs
+supplementaries:ash_bricks_wall
+supplementaries:ashen_basalt
+supplementaries:awning
+supplementaries:awning_black
+supplementaries:awning_blue
+supplementaries:awning_brown
+supplementaries:awning_cyan
+supplementaries:awning_gray
+supplementaries:awning_green
+supplementaries:awning_light_blue
+supplementaries:awning_light_gray
+supplementaries:awning_lime
+supplementaries:awning_magenta
+supplementaries:awning_orange
+supplementaries:awning_pink
+supplementaries:awning_purple
+supplementaries:awning_red
+supplementaries:awning_white
+supplementaries:awning_yellow
+supplementaries:bamboo_spikes
+supplementaries:barnacles
+supplementaries:bellows
+supplementaries:blackboard
+supplementaries:blackstone_lamp
+supplementaries:blackstone_tile
+supplementaries:blackstone_tile_slab
+supplementaries:blackstone_tile_stairs
+supplementaries:blackstone_tile_wall
+supplementaries:blaze_rod
+supplementaries:block_generator
+supplementaries:book_pile
+supplementaries:book_pile_horizontal
+supplementaries:bubble_block
+supplementaries:bunting_black
+supplementaries:bunting_blue
+supplementaries:bunting_brown
+supplementaries:bunting_cyan
+supplementaries:bunting_gray
+supplementaries:bunting_green
+supplementaries:bunting_light_blue
+supplementaries:bunting_light_gray
+supplementaries:bunting_lime
+supplementaries:bunting_magenta
+supplementaries:bunting_orange
+supplementaries:bunting_pink
+supplementaries:bunting_purple
+supplementaries:bunting_red
+supplementaries:bunting_wall_black
+supplementaries:bunting_wall_blue
+supplementaries:bunting_wall_brown
+supplementaries:bunting_wall_cyan
+supplementaries:bunting_wall_gray
+supplementaries:bunting_wall_green
+supplementaries:bunting_wall_light_blue
+supplementaries:bunting_wall_light_gray
+supplementaries:bunting_wall_lime
+supplementaries:bunting_wall_magenta
+supplementaries:bunting_wall_orange
+supplementaries:bunting_wall_pink
+supplementaries:bunting_wall_purple
+supplementaries:bunting_wall_red
+supplementaries:bunting_wall_white
+supplementaries:bunting_wall_yellow
+supplementaries:bunting_white
+supplementaries:bunting_yellow
+supplementaries:cage
+supplementaries:candle_holder
+supplementaries:candle_holder_black
+supplementaries:candle_holder_blue
+supplementaries:candle_holder_brown
+supplementaries:candle_holder_cupric
+supplementaries:candle_holder_cyan
+supplementaries:candle_holder_ender
+supplementaries:candle_holder_gray
+supplementaries:candle_holder_green
+supplementaries:candle_holder_light_blue
+supplementaries:candle_holder_light_gray
+supplementaries:candle_holder_lime
+supplementaries:candle_holder_magenta
+supplementaries:candle_holder_orange
+supplementaries:candle_holder_pink
+supplementaries:candle_holder_purple
+supplementaries:candle_holder_red
+supplementaries:candle_holder_soul
+supplementaries:candle_holder_spectacle
+supplementaries:candle_holder_white
+supplementaries:candle_holder_yellow
+supplementaries:cannon
+supplementaries:cannonball
+supplementaries:checker_block
+supplementaries:checker_slab
+supplementaries:clock_block
+supplementaries:cog_block
+supplementaries:confetti_litter
+supplementaries:cracked_bell
+supplementaries:crank
+supplementaries:crystal_display
+supplementaries:daub
+supplementaries:daub_brace
+supplementaries:daub_cross_brace
+supplementaries:daub_frame
+supplementaries:deepslate_lamp
+supplementaries:diode_block
+supplementaries:doormat
+supplementaries:drawers
+supplementaries:edelwood_stick
+supplementaries:end_stone_lamp
+supplementaries:enderman_head
+supplementaries:enderman_wall_head
+supplementaries:faucet
+supplementaries:feather_block
+supplementaries:fine_wood
+supplementaries:fine_wood_slab
+supplementaries:fine_wood_stairs
+supplementaries:fire_pit
+supplementaries:flag_black
+supplementaries:flag_blue
+supplementaries:flag_brown
+supplementaries:flag_cyan
+supplementaries:flag_gray
+supplementaries:flag_green
+supplementaries:flag_light_blue
+supplementaries:flag_light_gray
+supplementaries:flag_lime
+supplementaries:flag_magenta
+supplementaries:flag_orange
+supplementaries:flag_pink
+supplementaries:flag_purple
+supplementaries:flag_red
+supplementaries:flag_white
+supplementaries:flag_yellow
+supplementaries:flax
+supplementaries:flax_block
+supplementaries:flint_block
+supplementaries:flower_box
+supplementaries:fodder
+supplementaries:globe
+supplementaries:globe_sepia
+supplementaries:goblet
+supplementaries:gold_bars
+supplementaries:gold_door
+supplementaries:gold_gate
+supplementaries:gold_trapdoor
+supplementaries:gravel_bricks
+supplementaries:gunpowder
+supplementaries:hourglass
+supplementaries:iron_gate
+supplementaries:item_shelf
+supplementaries:jar
+supplementaries:jar_boat
+supplementaries:jar_tinted
+supplementaries:label
+supplementaries:lapis_bricks
+supplementaries:lapis_bricks_slab
+supplementaries:lapis_bricks_stairs
+supplementaries:lapis_bricks_wall
+supplementaries:lock_block
+supplementaries:lumisene
+supplementaries:lunch_basket
+supplementaries:mob_jar
+supplementaries:moving_slidy_block
+supplementaries:moving_slidy_block_source
+supplementaries:netherite_door
+supplementaries:netherite_trapdoor
+supplementaries:notice_board
+supplementaries:pancake
+supplementaries:pedestal
+supplementaries:planter
+supplementaries:potted_flax
+supplementaries:present
+supplementaries:present_black
+supplementaries:present_blue
+supplementaries:present_brown
+supplementaries:present_cyan
+supplementaries:present_gray
+supplementaries:present_green
+supplementaries:present_light_blue
+supplementaries:present_light_gray
+supplementaries:present_lime
+supplementaries:present_magenta
+supplementaries:present_orange
+supplementaries:present_pink
+supplementaries:present_purple
+supplementaries:present_red
+supplementaries:present_white
+supplementaries:present_yellow
+supplementaries:prismarine_rod
+supplementaries:propelplant_cane
+supplementaries:pulley_block
+supplementaries:raked_gravel
+supplementaries:redstone_illuminator
+supplementaries:relayer
+supplementaries:rope
+supplementaries:rope_buntings
+supplementaries:rope_chandelier
+supplementaries:rope_ender_chandelier
+supplementaries:rope_glow_chandelier
+supplementaries:rope_knot
+supplementaries:rope_soul_chandelier
+supplementaries:rope_tomatoes
+supplementaries:sack
+supplementaries:safe
+supplementaries:sconce
+supplementaries:sconce_ender
+supplementaries:sconce_glow
+supplementaries:sconce_green
+supplementaries:sconce_lever
+supplementaries:sconce_nether_brass
+supplementaries:sconce_soul
+supplementaries:sconce_wall
+supplementaries:sconce_wall_ender
+supplementaries:sconce_wall_glow
+supplementaries:sconce_wall_green
+supplementaries:sconce_wall_nether_brass
+supplementaries:sconce_wall_soul
+supplementaries:slidy_block
+supplementaries:soap_block
+supplementaries:soul_jar
+supplementaries:speaker_block
+supplementaries:spider_head
+supplementaries:spider_wall_head
+supplementaries:spring_launcher
+supplementaries:spring_launcher_arm
+supplementaries:spring_launcher_head
+supplementaries:statue
+supplementaries:stick
+supplementaries:stick_tomatoes
+supplementaries:stone_lamp
+supplementaries:stone_tile
+supplementaries:stone_tile_slab
+supplementaries:stone_tile_stairs
+supplementaries:stone_tile_wall
+supplementaries:structure_temp
+supplementaries:sugar_cube
+supplementaries:suspicious_gravel_bricks
+supplementaries:tater_in_a_jar
+supplementaries:timber_brace
+supplementaries:timber_cross_brace
+supplementaries:timber_frame
+supplementaries:trapped_present
+supplementaries:trapped_present_black
+supplementaries:trapped_present_blue
+supplementaries:trapped_present_brown
+supplementaries:trapped_present_cyan
+supplementaries:trapped_present_gray
+supplementaries:trapped_present_green
+supplementaries:trapped_present_light_blue
+supplementaries:trapped_present_light_gray
+supplementaries:trapped_present_lime
+supplementaries:trapped_present_magenta
+supplementaries:trapped_present_orange
+supplementaries:trapped_present_pink
+supplementaries:trapped_present_purple
+supplementaries:trapped_present_red
+supplementaries:trapped_present_white
+supplementaries:trapped_present_yellow
+supplementaries:turn_table
+supplementaries:urn
+supplementaries:way_sign
+supplementaries:way_sign_wall
+supplementaries:wicker_fence
+supplementaries:wild_flax
+supplementaries:wind_vane
+vslab_compat:checker_vertical_slab
+
+## items
+minecraft:antique_map
+minecraft:breeze_rod
+minecraft:crossbow_rope_arrow
+minecraft:ominous_trial_key
+minecraft:trial_key
+minecraft:written_book_tattered
+supplementaries:altimeter
+supplementaries:altimeter_overlay
+supplementaries:altimeter_template
+supplementaries:antique_ink
+supplementaries:ash
+supplementaries:ash_brick
+supplementaries:ash_bricks
+supplementaries:ash_bricks_slab
+supplementaries:ash_bricks_stairs
+supplementaries:ash_bricks_wall
+supplementaries:awning
+supplementaries:awning_black
+supplementaries:awning_blue
+supplementaries:awning_brown
+supplementaries:awning_cyan
+supplementaries:awning_dark_gray
+supplementaries:awning_gray
+supplementaries:awning_green
+supplementaries:awning_light_blue
+supplementaries:awning_light_gray
+supplementaries:awning_lime
+supplementaries:awning_magenta
+supplementaries:awning_orange
+supplementaries:awning_pink
+supplementaries:awning_purple
+supplementaries:awning_red
+supplementaries:awning_white
+supplementaries:awning_yellow
+supplementaries:bamboo_spikes
+supplementaries:bamboo_spikes_tipped
+supplementaries:barnacles
+supplementaries:bellows
+supplementaries:blackboard
+supplementaries:blackstone_lamp
+supplementaries:blackstone_tile
+supplementaries:blackstone_tile_slab
+supplementaries:blackstone_tile_stairs
+supplementaries:blackstone_tile_wall
+supplementaries:blast_armor_trim_smithing_template
+supplementaries:bomb
+supplementaries:bomb_blue
+supplementaries:bomb_blue_projectile
+supplementaries:bomb_projectile
+supplementaries:bomb_spiky
+supplementaries:bomb_spiky_projectile
+supplementaries:bubble_block
+supplementaries:bubble_blower
+supplementaries:bubble_blower_using
+supplementaries:bunting
+supplementaries:bunting_black
+supplementaries:bunting_blue
+supplementaries:bunting_brown
+supplementaries:bunting_cyan
+supplementaries:bunting_gray
+supplementaries:bunting_green
+supplementaries:bunting_light_blue
+supplementaries:bunting_light_gray
+supplementaries:bunting_lime
+supplementaries:bunting_magenta
+supplementaries:bunting_orange
+supplementaries:bunting_pink
+supplementaries:bunting_purple
+supplementaries:bunting_red
+supplementaries:bunting_white
+supplementaries:bunting_yellow
+supplementaries:cage
+supplementaries:cage_full
+supplementaries:candle_holder
+supplementaries:candle_holder_black
+supplementaries:candle_holder_blue
+supplementaries:candle_holder_brown
+supplementaries:candle_holder_cupric
+supplementaries:candle_holder_cyan
+supplementaries:candle_holder_ender
+supplementaries:candle_holder_gray
+supplementaries:candle_holder_green
+supplementaries:candle_holder_light_blue
+supplementaries:candle_holder_light_gray
+supplementaries:candle_holder_lime
+supplementaries:candle_holder_magenta
+supplementaries:candle_holder_orange
+supplementaries:candle_holder_pink
+supplementaries:candle_holder_purple
+supplementaries:candle_holder_red
+supplementaries:candle_holder_soul
+supplementaries:candle_holder_spectacle
+supplementaries:candle_holder_white
+supplementaries:candle_holder_yellow
+supplementaries:candy
+supplementaries:candy_christmas
+supplementaries:candy_halloween
+supplementaries:cannon
+supplementaries:cannon_boat_acacia
+supplementaries:cannon_boat_bamboo
+supplementaries:cannon_boat_birch
+supplementaries:cannon_boat_cherry
+supplementaries:cannon_boat_dark_oak
+supplementaries:cannon_boat_jungle
+supplementaries:cannon_boat_mangrove
+supplementaries:cannon_boat_oak
+supplementaries:cannon_boat_spruce
+supplementaries:cannonball
+supplementaries:cartographers_quill
+supplementaries:checker_block
+supplementaries:checker_slab
+supplementaries:checker_vertical_slab
+supplementaries:clock_block
+supplementaries:cog_block
+supplementaries:confetti_popper
+supplementaries:confetti_popper_head
+supplementaries:confetti_popper_in_hand
+supplementaries:cracked_bell
+supplementaries:crank
+supplementaries:crystal_display
+supplementaries:daub
+supplementaries:daub_brace
+supplementaries:daub_cross_brace
+supplementaries:daub_frame
+supplementaries:deepslate_lamp
+supplementaries:diode_block
+supplementaries:dispenser_minecart
+supplementaries:doormat
+supplementaries:dragon_banner_pattern
+supplementaries:end_stone_lamp
+supplementaries:enderman_head
+supplementaries:faucet
+supplementaries:feather_block
+supplementaries:fine_wood
+supplementaries:fine_wood_slab
+supplementaries:fine_wood_stairs
+supplementaries:fire_pit
+supplementaries:flag_black
+supplementaries:flag_blue
+supplementaries:flag_brown
+supplementaries:flag_cyan
+supplementaries:flag_gray
+supplementaries:flag_green
+supplementaries:flag_light_blue
+supplementaries:flag_light_gray
+supplementaries:flag_lime
+supplementaries:flag_magenta
+supplementaries:flag_orange
+supplementaries:flag_pink
+supplementaries:flag_purple
+supplementaries:flag_red
+supplementaries:flag_white
+supplementaries:flag_yellow
+supplementaries:flax
+supplementaries:flax_block
+supplementaries:flax_seeds
+supplementaries:flint_block
+supplementaries:flint_shard
+supplementaries:flower_box
+supplementaries:flute
+supplementaries:flute_gui
+supplementaries:flute_in_hand
+supplementaries:fodder
+supplementaries:globe
+supplementaries:globe_sepia
+supplementaries:goblet
+supplementaries:gold_bars
+supplementaries:gold_door
+supplementaries:gold_gate
+supplementaries:gold_trapdoor
+supplementaries:gravel_bricks
+supplementaries:handheld
+supplementaries:hanging_sign_oak
+supplementaries:hat_stand
+supplementaries:hourglass
+supplementaries:hourglass_3d
+supplementaries:iron_gate
+supplementaries:item_shelf
+supplementaries:jar
+supplementaries:jar_boat
+supplementaries:key
+supplementaries:lapis_bricks
+supplementaries:lapis_bricks_slab
+supplementaries:lapis_bricks_stairs
+supplementaries:lapis_bricks_wall
+supplementaries:laser_block
+supplementaries:lock_block
+supplementaries:lumisene_bottle
+supplementaries:lumisene_bucket
+supplementaries:lunch_basket
+supplementaries:lunch_basket_gui
+supplementaries:lunch_basket_gui_dyed
+supplementaries:lunch_basket_gui_open
+supplementaries:lunch_basket_gui_open_dyed
+supplementaries:magma_cream_block
+supplementaries:music_disc_heave_ho
+supplementaries:netherite_door
+supplementaries:netherite_trapdoor
+supplementaries:notice_board
+supplementaries:pancake
+supplementaries:pancake_disc
+supplementaries:pedestal
+supplementaries:placeable_item
+supplementaries:planter
+supplementaries:planter_rich
+supplementaries:planter_rich_soul
+supplementaries:plunderer_spawn_egg
+supplementaries:present
+supplementaries:present_black
+supplementaries:present_blue
+supplementaries:present_brown
+supplementaries:present_cyan
+supplementaries:present_gray
+supplementaries:present_green
+supplementaries:present_light_blue
+supplementaries:present_light_gray
+supplementaries:present_lime
+supplementaries:present_magenta
+supplementaries:present_orange
+supplementaries:present_pink
+supplementaries:present_purple
+supplementaries:present_red
+supplementaries:present_white
+supplementaries:present_yellow
+supplementaries:pulley_block
+supplementaries:quiver
+supplementaries:quiver_dyed
+supplementaries:quiver_gui
+supplementaries:quiver_gui_dyed
+supplementaries:quiver_in_hand
+supplementaries:quiver_in_hand_dyed
+supplementaries:raked_gravel
+supplementaries:red_merchant_spawn_egg
+supplementaries:redstone_illuminator
+supplementaries:relayer
+supplementaries:rope
+supplementaries:rope_arrow
+supplementaries:sack
+supplementaries:safe
+supplementaries:sconce
+supplementaries:sconce3d
+supplementaries:sconce_ender
+supplementaries:sconce_glow
+supplementaries:sconce_green
+supplementaries:sconce_lever
+supplementaries:sconce_nether_brass
+supplementaries:sconce_soul
+supplementaries:slice_map
+supplementaries:slidy_block
+supplementaries:slingshot
+supplementaries:slingshot_pulling_0
+supplementaries:slingshot_pulling_1
+supplementaries:slingshot_pulling_2
+supplementaries:soap
+supplementaries:soap_block
+supplementaries:speaker_block
+supplementaries:speedometer
+supplementaries:speedometer_1
+supplementaries:speedometer_2
+supplementaries:speedometer_3
+supplementaries:speedometer_4
+supplementaries:speedometer_5
+supplementaries:speedometer_6
+supplementaries:speedometer_7
+supplementaries:speedometer_8
+supplementaries:speedometer_9
+supplementaries:spider_head
+supplementaries:spring_launcher
+supplementaries:spring_launcher_arm_tile
+supplementaries:spring_launcher_head
+supplementaries:statue
+supplementaries:stone_lamp
+supplementaries:stone_tile
+supplementaries:stone_tile_slab
+supplementaries:stone_tile_stairs
+supplementaries:stone_tile_wall
+supplementaries:sugar_cube
+supplementaries:suspicious_gravel_bricks
+supplementaries:tater_in_a_jar
+supplementaries:timber_brace
+supplementaries:timber_cross_brace
+supplementaries:timber_frame
+supplementaries:tiny_potato
+supplementaries:trapped_present
+supplementaries:trapped_present_black
+supplementaries:trapped_present_blue
+supplementaries:trapped_present_brown
+supplementaries:trapped_present_cyan
+supplementaries:trapped_present_gray
+supplementaries:trapped_present_green
+supplementaries:trapped_present_light_blue
+supplementaries:trapped_present_light_gray
+supplementaries:trapped_present_lime
+supplementaries:trapped_present_magenta
+supplementaries:trapped_present_orange
+supplementaries:trapped_present_pink
+supplementaries:trapped_present_purple
+supplementaries:trapped_present_red
+supplementaries:trapped_present_white
+supplementaries:trapped_present_yellow
+supplementaries:turn_table
+supplementaries:urn
+supplementaries:way_sign_acacia
+supplementaries:way_sign_bamboo
+supplementaries:way_sign_birch
+supplementaries:way_sign_cherry
+supplementaries:way_sign_crimson
+supplementaries:way_sign_dark_oak
+supplementaries:way_sign_jungle
+supplementaries:way_sign_mangrove
+supplementaries:way_sign_oak
+supplementaries:way_sign_spruce
+supplementaries:way_sign_warped
+supplementaries:wicker_fence
+supplementaries:wild_flax
+supplementaries:wind_vane
+supplementaries:wrench
+
+## neoforge biome_modifiers
+basalt_ash.json :: { "type": "neoforge:add_features", "biomes": "#supplementaries:has_basalt_ash", "features": "supplementaries:basalt_ash", "step": "underground_decoration"}
+cave_urns.json :: { "type": "neoforge:add_features", "biomes": "#supplementaries:has_cave_urns", "features": "supplementaries:cave_urns", "step": "underground_decoration"}
+ocean_barnacles.json :: { "type": "neoforge:add_features", "biomes": "#supplementaries:has_barnacles", "features": "supplementaries:ocean_barnacles", "step": "vegetal_decoration"}
+shore_barnacles.json :: { "type": "neoforge:add_features", "biomes": "#supplementaries:has_barnacles", "features": "supplementaries:shore_barnacles", "step": "vegetal_decoration"}
+wild_flax.json :: { "type": "neoforge:add_features", "biomes": "#supplementaries:has_wild_flax", "features": "supplementaries:wild_flax", "step": "vegetal_decoration"}
+
+## c: common tag membership
+block/crops/flax.json :: { "replace": false, "values": [ "supplementaries:flax" ]}
+block/dyed.json :: { "replace": false, "values": [ "#supplementaries:buntings", "#supplementaries:flags", "supplementaries:awning_white", "supplementaries:awning_orange", "supplementaries:awning_magenta", "supplementaries:awning_light_blue", "supplementaries:awning_yellow", "supplementaries:awning_lime", "supplementaries:awning_pink", "supplementaries:awning_gray", "supplementaries:awning_light_gray", "supplementaries:awning_cyan", "supplementaries:awning_purple", "supplementaries:awning_blue", "supplementaries:awning_brown", "supplementaries:awning_green", "supplementaries:awning_red", "supplementaries:awning_black", "supplementaries:trapped_present_black", "supplementaries:trapped_present_blue", "supplementaries:trapped_present_brown", "supplementaries:trapped_present_cyan", "supplementaries:trapped_present_gray", "supplementaries:trapped_present_green", "supplementaries:trapped_present_light_blue", "supplementaries:trapped_present_light_gray", "supplementaries:trapped_present_lime", "supplementaries:trapped_present_magenta", "supplementaries:trapped_present_orange", "supplementaries:trapped_present_pink", "supplementaries:trapped_present_purple", "supplementaries:trapped_present_red", "supplementaries:trapped_present_white", "supplementaries:trapped_present_yellow", "supplementaries:present_black", "supplementaries:present_blue", "supplementaries:present_brown", "supplementaries:present_cyan", "supplementaries:present_gray", "supplementaries:present_green", "supplementaries:present_light_blue", "supplementaries:present_light_gray", "supplementaries:present_lime", "supplementaries:present_magenta", "supplementaries:present_orange", "supplementaries:present_pink", "supplementaries:present_purple", "supplementaries:present_red", "supplementaries:present_white", "supplementaries:present_yellow", "supplementaries:candle_holder_black", "supplementaries:candle_holder_blue", "supplementaries:candle_holder_brown", "supplementaries:candle_holder_cyan", "supplementaries:candle_holder_gray", "supplementaries:candle_holder_green", "supplementaries:candle_holder_light_blue", "supplementaries:candle_holder_light_gray", "supplementaries:candle_holder_lime", "supplementaries:candle_holder_magenta", "supplementaries:candle_holder_orange", "supplementaries:candle_holder_pink", "supplementaries:candle_holder_purple", "supplementaries:candle_holder_red", "supplementaries:candle_holder_white", "supplementaries:candle_holder_yellow" ]}
+block/dyed/black.json :: { "replace": false, "values": [ "supplementaries:flag_black", "supplementaries:present_black", "supplementaries:trapped_present_black", "supplementaries:candle_holder_black", "supplementaries:awning_black", "supplementaries:bunting_black", "supplementaries:bunting_wall_black" ]}
+block/dyed/blue.json :: { "replace": false, "values": [ "supplementaries:flag_blue", "supplementaries:present_blue", "supplementaries:trapped_present_blue", "supplementaries:candle_holder_blue", "supplementaries:awning_blue", "supplementaries:bunting_blue", "supplementaries:bunting_wall_blue" ]}
+block/dyed/brown.json :: { "replace": false, "values": [ "supplementaries:flag_brown", "supplementaries:present_brown", "supplementaries:trapped_present_brown", "supplementaries:candle_holder_brown", "supplementaries:awning_brown", "supplementaries:bunting_brown", "supplementaries:bunting_wall_brown" ]}
+block/dyed/cyan.json :: { "replace": false, "values": [ "supplementaries:flag_cyan", "supplementaries:present_cyan", "supplementaries:trapped_present_cyan", "supplementaries:candle_holder_cyan", "supplementaries:awning_cyan", "supplementaries:bunting_cyan", "supplementaries:bunting_wall_cyan" ]}
+block/dyed/gray.json :: { "replace": false, "values": [ "supplementaries:flag_gray", "supplementaries:present_gray", "supplementaries:trapped_present_gray", "supplementaries:candle_holder_gray", "supplementaries:awning_gray", "supplementaries:bunting_gray", "supplementaries:bunting_wall_gray" ]}
+block/dyed/green.json :: { "replace": false, "values": [ "supplementaries:flag_green", "supplementaries:present_green", "supplementaries:trapped_present_green", "supplementaries:candle_holder_green", "supplementaries:awning_green", "supplementaries:bunting_green", "supplementaries:bunting_wall_green" ]}
+block/dyed/light_blue.json :: { "replace": false, "values": [ "supplementaries:flag_light_blue", "supplementaries:present_light_blue", "supplementaries:trapped_present_light_blue", "supplementaries:candle_holder_light_blue", "supplementaries:awning_light_blue", "supplementaries:bunting_light_blue", "supplementaries:bunting_wall_light_blue" ]}
+block/dyed/light_gray.json :: { "replace": false, "values": [ "supplementaries:flag_light_gray", "supplementaries:present_light_gray", "supplementaries:trapped_present_light_gray", "supplementaries:candle_holder_light_gray", "supplementaries:awning_light_gray", "supplementaries:bunting_light_gray", "supplementaries:bunting_wall_light_gray" ]}
+block/dyed/lime.json :: { "replace": false, "values": [ "supplementaries:flag_lime", "supplementaries:present_lime", "supplementaries:trapped_present_lime", "supplementaries:candle_holder_lime", "supplementaries:awning_lime", "supplementaries:bunting_lime", "supplementaries:bunting_wall_lime" ]}
+block/dyed/magenta.json :: { "replace": false, "values": [ "supplementaries:flag_magenta", "supplementaries:present_magenta", "supplementaries:trapped_present_magenta", "supplementaries:candle_holder_magenta", "supplementaries:awning_magenta", "supplementaries:bunting_magenta", "supplementaries:bunting_wall_magenta" ]}
+block/dyed/orange.json :: { "replace": false, "values": [ "supplementaries:flag_orange", "supplementaries:present_orange", "supplementaries:trapped_present_orange", "supplementaries:candle_holder_orange", "supplementaries:awning_orange", "supplementaries:bunting_orange", "supplementaries:bunting_wall_orange" ]}
+block/dyed/pink.json :: { "replace": false, "values": [ "supplementaries:flag_pink", "supplementaries:present_pink", "supplementaries:trapped_present_pink", "supplementaries:candle_holder_pink", "supplementaries:awning_pink", "supplementaries:bunting_pink", "supplementaries:bunting_wall_pink" ]}
+block/dyed/purple.json :: { "replace": false, "values": [ "supplementaries:flag_purple", "supplementaries:present_purple", "supplementaries:trapped_present_purple", "supplementaries:candle_holder_purple", "supplementaries:awning_purple", "supplementaries:bunting_purple", "supplementaries:bunting_wall_purple" ]}
+block/dyed/red.json :: { "replace": false, "values": [ "supplementaries:flag_red", "supplementaries:present_red", "supplementaries:trapped_present_red", "supplementaries:candle_holder_red", "supplementaries:awning_red", "supplementaries:bunting_red", "supplementaries:bunting_wall_red" ]}
+block/dyed/white.json :: { "replace": false, "values": [ "supplementaries:flag_white", "supplementaries:present_white", "supplementaries:trapped_present_white", "supplementaries:candle_holder_white", "supplementaries:awning_white", "supplementaries:bunting_white", "supplementaries:bunting_wall_white" ]}
+block/dyed/yellow.json :: { "replace": false, "values": [ "supplementaries:flag_yellow", "supplementaries:present_yellow", "supplementaries:trapped_present_yellow", "supplementaries:candle_holder_yellow", "supplementaries:awning_yellow", "supplementaries:bunting_yellow", "supplementaries:bunting_wall_yellow" ]}
+block/fiber.json :: { "replace": false, "values": [ "supplementaries:flax" ]}
+block/fiber/flax.json :: { "replace": false, "values": [ "supplementaries:flax" ]}
+block/ropes.json :: { "replace": false, "values": [ {"id":"supplementaries:rope","required":false} ]}
+block/skulls.json :: { "replace": false, "values": [ "supplementaries:enderman_head", "supplementaries:enderman_wall_head", "supplementaries:spider_head", "supplementaries:spider_wall_head" ]}
+block/storage_blocks.json :: { "replace": false, "values": [ "supplementaries:flax_block", "supplementaries:flint_block", "supplementaries:feather_block", "supplementaries:sugar_cube", "supplementaries:soap_block" ]}
+block/storage_blocks/feather.json :: { "replace": false, "values": [ "supplementaries:feather_block" ]}
+block/storage_blocks/flax.json :: { "replace": false, "values": [ "supplementaries:flax_block" ]}
+block/storage_blocks/flint.json :: { "replace": false, "values": [ "supplementaries:flint_block" ]}
+block/storage_blocks/soap.json :: { "replace": false, "values": [ "supplementaries:soap_block" ]}
+block/suspicious.json :: { "replace": false, "values": [ "minecraft:suspicious_sand", "minecraft:suspicious_gravel", {"id":"supplementaries:suspicious_gravel_bricks","required":false} ]}
+entity_type/minecarts.json :: { "values": [ "supplementaries:dispenser_minecart" ]}
+item/ash.json :: { "replace": false, "values": [ "supplementaries:ash" ]}
+item/bricks.json :: { "replace": false, "values": [ "supplementaries:ash_brick" ]}
+item/bricks/ash.json :: { "replace": false, "values": [ "supplementaries:ash_brick" ]}
+item/buckets.json :: { "replace": false, "values": [ "supplementaries:lumisene_bucket" ]}
+item/buckets/lumisene.json :: { "replace": false, "values": [ "supplementaries:lumisene_bucket" ]}
+item/crops.json :: { "replace": false, "values": [ "supplementaries:flax" ]}
+item/crops/flax.json :: { "replace": false, "values": [ "supplementaries:flax" ]}
+item/drinks.json :: { "replace": false, "values": [ "supplementaries:lumisene_bottle" ]}
+item/drinks/lumisene.json :: { "replace": false, "values": [ "supplementaries:lumisene_bottle" ]}
+item/dusts.json :: { "replace": false, "values": [ "supplementaries:ash" ]}
+item/dusts/ash.json :: { "replace": false, "values": [ "supplementaries:ash" ]}
+item/dyed.json :: { "replace": false, "values": [ "#supplementaries:buntings", "#supplementaries:flags", "supplementaries:awning_white", "supplementaries:awning_orange", "supplementaries:awning_magenta", "supplementaries:awning_light_blue", "supplementaries:awning_yellow", "supplementaries:awning_lime", "supplementaries:awning_pink", "supplementaries:awning_gray", "supplementaries:awning_light_gray", "supplementaries:awning_cyan", "supplementaries:awning_purple", "supplementaries:awning_blue", "supplementaries:awning_brown", "supplementaries:awning_green", "supplementaries:awning_red", "supplementaries:awning_black", "supplementaries:trapped_present_black", "supplementaries:trapped_present_blue", "supplementaries:trapped_present_brown", "supplementaries:trapped_present_cyan", "supplementaries:trapped_present_gray", "supplementaries:trapped_present_green", "supplementaries:trapped_present_light_blue", "supplementaries:trapped_present_light_gray", "supplementaries:trapped_present_lime", "supplementaries:trapped_present_magenta", "supplementaries:trapped_present_orange", "supplementaries:trapped_present_pink", "supplementaries:trapped_present_purple", "supplementaries:trapped_present_red", "supplementaries:trapped_present_white", "supplementaries:trapped_present_yellow", "supplementaries:present_black", "supplementaries:present_blue", "supplementaries:present_brown", "supplementaries:present_cyan", "supplementaries:present_gray", "supplementaries:present_green", "supplementaries:present_light_blue", "supplementaries:present_light_gray", "supplementaries:present_lime", "supplementaries:present_magenta", "supplementaries:present_orange", "supplementaries:present_pink", "supplementaries:present_purple", "supplementaries:present_red", "supplementaries:present_white", "supplementaries:present_yellow", "supplementaries:candle_holder_black", "supplementaries:candle_holder_blue", "supplementaries:candle_holder_brown", "supplementaries:candle_holder_cyan", "supplementaries:candle_holder_gray", "supplementaries:candle_holder_green", "supplementaries:candle_holder_light_blue", "supplementaries:candle_holder_light_gray", "supplementaries:candle_holder_lime", "supplementaries:candle_holder_magenta", "supplementaries:candle_holder_orange", "supplementaries:candle_holder_pink", "supplementaries:candle_holder_purple", "supplementaries:candle_holder_red", "supplementaries:candle_holder_white", "supplementaries:candle_holder_yellow" ]}
+item/dyed/black.json :: { "replace": false, "values": [ "supplementaries:flag_black", "supplementaries:present_black", "supplementaries:trapped_present_black", "supplementaries:candle_holder_black", "supplementaries:awning_black", "supplementaries:bunting_black" ]}
+item/dyed/blue.json :: { "replace": false, "values": [ "supplementaries:flag_blue", "supplementaries:present_blue", "supplementaries:trapped_present_blue", "supplementaries:candle_holder_blue", "supplementaries:awning_blue", "supplementaries:bunting_blue" ]}
+item/dyed/brown.json :: { "replace": false, "values": [ "supplementaries:flag_brown", "supplementaries:present_brown", "supplementaries:trapped_present_brown", "supplementaries:candle_holder_brown", "supplementaries:awning_brown", "supplementaries:bunting_brown" ]}
+item/dyed/cyan.json :: { "replace": false, "values": [ "supplementaries:flag_cyan", "supplementaries:present_cyan", "supplementaries:trapped_present_cyan", "supplementaries:candle_holder_cyan", "supplementaries:awning_cyan", "supplementaries:bunting_cyan" ]}
+item/dyed/gray.json :: { "replace": false, "values": [ "supplementaries:flag_gray", "supplementaries:present_gray", "supplementaries:trapped_present_gray", "supplementaries:candle_holder_gray", "supplementaries:awning_gray", "supplementaries:bunting_gray" ]}
+item/dyed/green.json :: { "replace": false, "values": [ "supplementaries:flag_green", "supplementaries:present_green", "supplementaries:trapped_present_green", "supplementaries:candle_holder_green", "supplementaries:awning_green", "supplementaries:bunting_green" ]}
+item/dyed/light_blue.json :: { "replace": false, "values": [ "supplementaries:flag_light_blue", "supplementaries:present_light_blue", "supplementaries:trapped_present_light_blue", "supplementaries:candle_holder_light_blue", "supplementaries:awning_light_blue", "supplementaries:bunting_light_blue" ]}
+item/dyed/light_gray.json :: { "replace": false, "values": [ "supplementaries:flag_light_gray", "supplementaries:present_light_gray", "supplementaries:trapped_present_light_gray", "supplementaries:candle_holder_light_gray", "supplementaries:awning_light_gray", "supplementaries:bunting_light_gray" ]}
+item/dyed/lime.json :: { "replace": false, "values": [ "supplementaries:flag_lime", "supplementaries:present_lime", "supplementaries:trapped_present_lime", "supplementaries:candle_holder_lime", "supplementaries:awning_lime", "supplementaries:bunting_lime" ]}
+item/dyed/magenta.json :: { "replace": false, "values": [ "supplementaries:flag_magenta", "supplementaries:present_magenta", "supplementaries:trapped_present_magenta", "supplementaries:candle_holder_magenta", "supplementaries:awning_magenta", "supplementaries:bunting_magenta" ]}
+item/dyed/orange.json :: { "replace": false, "values": [ "supplementaries:flag_orange", "supplementaries:present_orange", "supplementaries:trapped_present_orange", "supplementaries:candle_holder_orange", "supplementaries:awning_orange", "supplementaries:bunting_orange" ]}
+item/dyed/pink.json :: { "replace": false, "values": [ "supplementaries:flag_pink", "supplementaries:present_pink", "supplementaries:trapped_present_pink", "supplementaries:candle_holder_pink", "supplementaries:awning_pink", "supplementaries:bunting_pink" ]}
+item/dyed/purple.json :: { "replace": false, "values": [ "supplementaries:flag_purple", "supplementaries:present_purple", "supplementaries:trapped_present_purple", "supplementaries:candle_holder_purple", "supplementaries:awning_purple", "supplementaries:bunting_purple" ]}
+item/dyed/red.json :: { "replace": false, "values": [ "supplementaries:flag_red", "supplementaries:present_red", "supplementaries:trapped_present_red", "supplementaries:candle_holder_red", "supplementaries:awning_red", "supplementaries:bunting_red" ]}
+item/dyed/white.json :: { "replace": false, "values": [ "supplementaries:flag_white", "supplementaries:present_white", "supplementaries:trapped_present_white", "supplementaries:candle_holder_white", "supplementaries:awning_white", "supplementaries:bunting_white" ]}
+item/dyed/yellow.json :: { "replace": false, "values": [ "supplementaries:flag_yellow", "supplementaries:present_yellow", "supplementaries:trapped_present_yellow", "supplementaries:candle_holder_yellow", "supplementaries:awning_yellow", "supplementaries:bunting_yellow" ]}
+item/enchantables.json :: { "replace": false, "values": [ "supplementaries:wrench", "supplementaries:bubble_blower", "supplementaries:slingshot" ]}
+item/fiber/flax.json :: { "replace": false, "values": [ "supplementaries:flax" ]}
+item/foods/candy.json :: { "replace": false, "values": [ "supplementaries:candy" ]}
+item/foods/edible_when_placed.json :: { "replace": false, "values": [ "supplementaries:pancake" ]}
+item/hidden_from_recipe_viewers.json :: { "replace": false, "values": [ "supplementaries:jar_boat" ]}
+item/music_discs.json :: { "values": [ "supplementaries:music_disc_heave_ho" ]}
+item/ropes.json :: { "replace": false, "values": [ {"id":"supplementaries:rope","required":true} ]}
+item/seeds.json :: { "replace": false, "values": [ "supplementaries:flax_seeds" ]}
+item/seeds/flax.json :: { "replace": false, "values": [ "supplementaries:flax_seeds" ]}
+item/storage_blocks.json :: { "replace": false, "values": [ "supplementaries:flax_block", "supplementaries:flint_block", "supplementaries:feather_block", "supplementaries:sugar_cube", "supplementaries:soap_block" ]}
+item/storage_blocks/feather.json :: { "replace": false, "values": [ "supplementaries:feather_block" ]}
+item/storage_blocks/flax.json :: { "replace": false, "values": [ "supplementaries:flax_block" ]}
+item/storage_blocks/flint.json :: { "replace": false, "values": [ "supplementaries:flint_block" ]}
+item/storage_blocks/soap.json :: { "replace": false, "values": [ "supplementaries:soap_block" ]}
+item/tools.json :: { "replace": false, "values": [ "supplementaries:wrench", "supplementaries:bubble_blower", "supplementaries:slingshot" ]}
+item/tools/melee_weapon.json :: { "replace": false, "values": [ "supplementaries:wrench" ]}
+item/tools/wrench.json :: { "replace": false, "values": [ "supplementaries:wrench" ]}

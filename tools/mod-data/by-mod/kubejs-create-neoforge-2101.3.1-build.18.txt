@@ -1,0 +1,19 @@
+# kubejs-create-neoforge-2101.3.1-build.18
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "kubejs_create"
+version = "2101.3.1-build.18"
+displayName = "KubeJS Create"
+modId = "kubejs"
+versionRange = "[2101.7.2-build.285,)"
+modId = "create"
+versionRange = "[6.0.7,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

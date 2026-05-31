@@ -1,0 +1,55 @@
+# create_cheese_factory-1.5.0-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="create_cheese"
+version="1.5.0"
+displayName="Create: Cheese Factory"
+modId="neoforge"
+versionRange="[21.1.65,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="jei"
+versionRange="[0,)"
+
+## blocks
+create_cheese:cheese_cellar
+
+## items
+create_cheese:brie
+create_cheese:cabrales
+create_cheese:calendar_page_tier_1
+create_cheese:calendar_page_tier_2
+create_cheese:calendar_page_tier_3
+create_cheese:camembert
+create_cheese:cheddar
+create_cheese:cheese_cellar
+create_cheese:cheese_curds
+create_cheese:cheese_curds_bucket
+create_cheese:cheshire
+create_cheese:colby_jack
+create_cheese:comte
+create_cheese:crottin_de_chavignol
+create_cheese:emmentaler
+create_cheese:feta
+create_cheese:fromage_frais
+create_cheese:gorgonzola
+create_cheese:gouda
+create_cheese:grana_panado
+create_cheese:gruyere
+create_cheese:manchego
+create_cheese:mimolette
+create_cheese:mozzarella
+create_cheese:parmigiano_reggiano
+create_cheese:pecorino_romano
+create_cheese:provolone
+create_cheese:reblochon
+create_cheese:ricotta
+create_cheese:roquefort
+create_cheese:soft_curd_cheese
+create_cheese:swiss
+create_cheese:tomme_de_savoie
+
+## neoforge biome_modifiers
+
+## c: common tag membership

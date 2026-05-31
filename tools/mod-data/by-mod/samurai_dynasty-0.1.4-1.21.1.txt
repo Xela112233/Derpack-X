@@ -1,0 +1,241 @@
+# samurai_dynasty-0.1.4-1.21.1
+
+## mod metadata (id / version / deps)
+license="GNU Lesser General Public License v3.0"
+modId="samurai_dynasty" #mandatory
+version="0.1.4-1.21.1" #mandatory
+displayName="Samurai Dynasty" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.0,1.22)"
+modId="azurelib"
+versionRange="[2.3,)"
+modId="curios"
+versionRange="[9.0,)"
+
+## blocks
+samurai_dynasty:aquamarine_block
+samurai_dynasty:aquamarine_ore
+samurai_dynasty:chiseled_pattern_spirit_stone_bricks
+samurai_dynasty:chiseled_spirit_stone_bricks
+samurai_dynasty:deepslate_aquamarine_ore
+samurai_dynasty:deepslate_jade_ore
+samurai_dynasty:deepslate_onyx_ore
+samurai_dynasty:deepslate_ruby_ore
+samurai_dynasty:deepslate_silver_ore
+samurai_dynasty:dragon_spirit_stone
+samurai_dynasty:jade_block
+samurai_dynasty:jade_ore
+samurai_dynasty:kawauso_statue
+samurai_dynasty:komainu_statue
+samurai_dynasty:mosaic_spirit_stone_bricks
+samurai_dynasty:mossy_spirit_stone_brick_slab
+samurai_dynasty:mossy_spirit_stone_brick_stairs
+samurai_dynasty:mossy_spirit_stone_brick_wall
+samurai_dynasty:mossy_spirit_stone_bricks
+samurai_dynasty:onyx_block
+samurai_dynasty:onyx_ore
+samurai_dynasty:path_spirit_stone_bricks
+samurai_dynasty:pattern_mossy_spirit_stone_bricks
+samurai_dynasty:pattern_spirit_stone_bricks
+samurai_dynasty:polished_spirit_stone
+samurai_dynasty:polished_spirit_stone_slab
+samurai_dynasty:polished_spirit_stone_stairs
+samurai_dynasty:polished_spirit_stone_wall
+samurai_dynasty:red_maple_planks
+samurai_dynasty:ruby_block
+samurai_dynasty:ruby_ore
+samurai_dynasty:silver_block
+samurai_dynasty:silver_ore
+samurai_dynasty:spirit_stone
+samurai_dynasty:spirit_stone_base
+samurai_dynasty:spirit_stone_slab
+samurai_dynasty:spirit_stone_stairs
+samurai_dynasty:spirit_stone_wall
+samurai_dynasty:steel_block
+samurai_dynasty:stone_roof
+samurai_dynasty:stone_roof_corner
+samurai_dynasty:stone_roof_top
+samurai_dynasty:tanuki_statue
+
+## items
+samurai_dynasty:akaname_spawn_egg
+samurai_dynasty:akaname_tongue
+samurai_dynasty:aquamarine
+samurai_dynasty:aquamarine_block
+samurai_dynasty:aquamarine_ore
+samurai_dynasty:chiseled_pattern_spirit_stone_bricks
+samurai_dynasty:chiseled_spirit_stone_bricks
+samurai_dynasty:cloth
+samurai_dynasty:deepslate_aquamarine_ore
+samurai_dynasty:deepslate_jade_ore
+samurai_dynasty:deepslate_onyx_ore
+samurai_dynasty:deepslate_ruby_ore
+samurai_dynasty:deepslate_silver_ore
+samurai_dynasty:dragon_spirit_stone
+samurai_dynasty:enenra_spawn_egg
+samurai_dynasty:jade
+samurai_dynasty:jade_block
+samurai_dynasty:jade_ore
+samurai_dynasty:jorogumo_eye
+samurai_dynasty:jorogumo_spawn_egg
+samurai_dynasty:kabutowari
+samurai_dynasty:kabutowari_netherite
+samurai_dynasty:kama
+samurai_dynasty:kama_netherite
+samurai_dynasty:kamayari
+samurai_dynasty:kamayari_netherite
+samurai_dynasty:katana
+samurai_dynasty:katana_akaname
+samurai_dynasty:katana_handle
+samurai_dynasty:katana_jorogumo
+samurai_dynasty:katana_kitsune
+samurai_dynasty:katana_kitsune_blue
+samurai_dynasty:katana_netherite
+samurai_dynasty:katana_oni
+samurai_dynasty:kawauso_spawn_egg
+samurai_dynasty:kawauso_statue
+samurai_dynasty:kimono
+samurai_dynasty:kitsune_hide
+samurai_dynasty:kitsune_mask
+samurai_dynasty:kitsune_mask2d
+samurai_dynasty:kitsune_mask3d
+samurai_dynasty:kitsune_small_spawn_egg
+samurai_dynasty:kitsune_spawn_egg
+samurai_dynasty:kitsune_tail
+samurai_dynasty:knive_handle
+samurai_dynasty:komainu_spawn_egg
+samurai_dynasty:komainu_statue
+samurai_dynasty:kunai
+samurai_dynasty:kunai_netherite
+samurai_dynasty:light_samurai_boots
+samurai_dynasty:light_samurai_chestplate
+samurai_dynasty:light_samurai_helmet
+samurai_dynasty:light_samurai_leggings
+samurai_dynasty:masakari
+samurai_dynasty:masakari_netherite
+samurai_dynasty:master_samurai_boots
+samurai_dynasty:master_samurai_chestplate
+samurai_dynasty:master_samurai_helmet
+samurai_dynasty:master_samurai_leggings
+samurai_dynasty:mosaic_spirit_stone_bricks
+samurai_dynasty:mossy_spirit_stone_brick_slab
+samurai_dynasty:mossy_spirit_stone_brick_stairs
+samurai_dynasty:mossy_spirit_stone_brick_wall
+samurai_dynasty:mossy_spirit_stone_bricks
+samurai_dynasty:nagamaki
+samurai_dynasty:nagamaki_netherite
+samurai_dynasty:naginata
+samurai_dynasty:naginata_netherite
+samurai_dynasty:netherite_ninja_boots
+samurai_dynasty:netherite_ninja_chestplate
+samurai_dynasty:netherite_ninja_helmet
+samurai_dynasty:netherite_ninja_leggings
+samurai_dynasty:netherite_samurai_boots
+samurai_dynasty:netherite_samurai_chestplate
+samurai_dynasty:netherite_samurai_helmet
+samurai_dynasty:netherite_samurai_leggings
+samurai_dynasty:ninja_leggings
+samurai_dynasty:odachi
+samurai_dynasty:odachi_netherite
+samurai_dynasty:oni_horn
+samurai_dynasty:oni_mask
+samurai_dynasty:oni_mask2d
+samurai_dynasty:oni_mask3d
+samurai_dynasty:oni_spawn_egg
+samurai_dynasty:onibi_spawn_egg
+samurai_dynasty:onyx
+samurai_dynasty:onyx_block
+samurai_dynasty:onyx_ore
+samurai_dynasty:path_spirit_stone_bricks
+samurai_dynasty:pattern_mossy_spirit_stone_bricks
+samurai_dynasty:pattern_spirit_stone_bricks
+samurai_dynasty:polished_spirit_stone
+samurai_dynasty:polished_spirit_stone_slab
+samurai_dynasty:polished_spirit_stone_stairs
+samurai_dynasty:polished_spirit_stone_wall
+samurai_dynasty:raw_silver
+samurai_dynasty:red_maple_planks
+samurai_dynasty:ruby
+samurai_dynasty:ruby_block
+samurai_dynasty:ruby_ore
+samurai_dynasty:sai
+samurai_dynasty:sai_netherite
+samurai_dynasty:samurai_guide
+samurai_dynasty:shuko
+samurai_dynasty:shuko_netherite
+samurai_dynasty:shuriken
+samurai_dynasty:silver_block
+samurai_dynasty:silver_ingot
+samurai_dynasty:silver_nugget
+samurai_dynasty:silver_ore
+samurai_dynasty:spear_handle
+samurai_dynasty:spirit_flame
+samurai_dynasty:spirit_stone
+samurai_dynasty:spirit_stone_base
+samurai_dynasty:spirit_stone_slab
+samurai_dynasty:spirit_stone_stairs
+samurai_dynasty:spirit_stone_wall
+samurai_dynasty:spirit_upgrade_smithing_template
+samurai_dynasty:steel_block
+samurai_dynasty:steel_boots
+samurai_dynasty:steel_chestplate
+samurai_dynasty:steel_helmet
+samurai_dynasty:steel_ingot
+samurai_dynasty:steel_leggings
+samurai_dynasty:steel_ninja_boots
+samurai_dynasty:steel_ninja_chestplate
+samurai_dynasty:steel_ninja_helmet
+samurai_dynasty:steel_ninja_leggings
+samurai_dynasty:steel_nugget
+samurai_dynasty:steel_samurai_boots
+samurai_dynasty:steel_samurai_chestplate
+samurai_dynasty:steel_samurai_helmet
+samurai_dynasty:steel_samurai_leggings
+samurai_dynasty:stone_roof
+samurai_dynasty:stone_roof_corner
+samurai_dynasty:stone_roof_top
+samurai_dynasty:straw_hat
+samurai_dynasty:tanegashima
+samurai_dynasty:tanuki_spawn_egg
+samurai_dynasty:tanuki_statue
+samurai_dynasty:tetsubo
+samurai_dynasty:tetsubo_netherite
+samurai_dynasty:tonbukiri
+samurai_dynasty:tonbukiri_netherite
+samurai_dynasty:wakizashi
+samurai_dynasty:wakizashi_netherite
+samurai_dynasty:yumi
+samurai_dynasty:yumi_pulling_0
+samurai_dynasty:yumi_pulling_1
+samurai_dynasty:yumi_pulling_2
+
+## neoforge biome_modifiers
+add_jade_ore.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "samurai_dynasty:jade_ore_placed", "step": "underground_ores"}
+add_spirit_stone.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "samurai_dynasty:spirit_stone_placed", "step": "underground_ores"}
+spawn_akaname.json :: { "type": "neoforge:add_spawns", "biomes": "#minecraft:is_nether", "spawners":{ "type": "samurai_dynasty:akaname", "weight": 2, "minCount": 1, "maxCount": 3 }}
+spawn_enenra.json :: { "type": "neoforge:add_spawns", "biomes": "#samurai_dynasty:enenra_biomes", "spawners":{ "type": "samurai_dynasty:enenra", "weight": 5, "minCount": 1, "maxCount": 5 }}
+spawn_jorogumo.json :: { "type": "neoforge:add_spawns", "biomes": "#samurai_dynasty:jorogumo_biomes", "spawners":{ "type": "samurai_dynasty:jorogumo", "weight": 20, "minCount": 1, "maxCount": 2 }}
+spawn_kawauso.json :: { "type": "neoforge:add_spawns", "biomes": "#minecraft:is_forest", "spawners":{ "type": "samurai_dynasty:kawauso", "weight": 1, "minCount": 1, "maxCount": 1 }}
+spawn_kitsune.json :: { "type": "neoforge:add_spawns", "biomes": "#samurai_dynasty:kitsune_biomes", "spawners":{ "type": "samurai_dynasty:kitsune", "weight": 20, "minCount": 1, "maxCount": 2 }}
+spawn_komainu.json :: { "type": "neoforge:add_spawns", "biomes": "#minecraft:is_forest", "spawners":{ "type": "samurai_dynasty:komainu", "weight": 2, "minCount": 1, "maxCount": 2 }}
+spawn_oni.json :: { "type": "neoforge:add_spawns", "biomes": "#minecraft:is_nether", "spawners":{ "type": "samurai_dynasty:oni", "weight": 1, "minCount": 1, "maxCount": 2 }}
+spawn_tanuki.json :: { "type": "neoforge:add_spawns", "biomes": "#minecraft:is_forest", "spawners":{ "type": "samurai_dynasty:tanuki", "weight": 1, "minCount": 1, "maxCount": 1 }}
+spawn_twotailed.json :: { "type": "neoforge:add_spawns", "biomes": "#samurai_dynasty:twotailed_biomes", "spawners":{ "type": "samurai_dynasty:twotailed", "weight": 10, "minCount": 1, "maxCount": 3 }}
+
+## c: common tag membership
+block/ores/jade.json :: { "values": [ "samurai_dynasty:jade_ore", "samurai_dynasty:deepslate_jade_ore" ]}
+block/ores.json :: { "values": [ "#c:ores/jade" ]}
+block/storage_blocks/jade.json :: { "values": [ "samurai_dynasty:jade_block" ]}
+block/storage_blocks/steel.json :: { "values": [ "samurai_dynasty:steel_block" ]}
+block/storage_blocks.json :: { "values": [ "#c:storage_blocks/jade", "#c:storage_blocks/steel" ]}
+item/armors.json :: { "values": [ "samurai_dynasty:steel_helmet", "samurai_dynasty:steel_samurai_helmet", "samurai_dynasty:netherite_samurai_helmet", "samurai_dynasty:light_samurai_helmet", "samurai_dynasty:master_samurai_helmet", "samurai_dynasty:steel_ninja_helmet", "samurai_dynasty:netherite_ninja_helmet", "samurai_dynasty:straw_hat", "samurai_dynasty:steel_chestplate", "samurai_dynasty:steel_samurai_chestplate", "samurai_dynasty:netherite_samurai_chestplate", "samurai_dynasty:light_samurai_chestplate", "samurai_dynasty:master_samurai_chestplate", "samurai_dynasty:steel_ninja_chestplate", "samurai_dynasty:netherite_ninja_chestplate", "samurai_dynasty:kimono", "samurai_dynasty:steel_leggings", "samurai_dynasty:steel_samurai_leggings", "samurai_dynasty:netherite_samurai_leggings", "samurai_dynasty:light_samurai_leggings", "samurai_dynasty:master_samurai_leggings", "samurai_dynasty:ninja_leggings", "samurai_dynasty:steel_boots", "samurai_dynasty:steel_samurai_boots", "samurai_dynasty:netherite_samurai_boots", "samurai_dynasty:light_samurai_boots", "samurai_dynasty:master_samurai_boots", "samurai_dynasty:steel_ninja_boots", "samurai_dynasty:netherite_ninja_boots" ]}
+item/gems/jade.json :: { "values": [ "samurai_dynasty:jade" ]}
+item/gems.json :: { "values": [ "#c:gems/jade" ]}
+item/ingots/steel.json :: { "values": [ "samurai_dynasty:steel_ingot" ]}
+item/ingots.json :: { "values": [ "#c:ingots/steel" ]}
+item/nuggets/steel.json :: { "values": [ "samurai_dynasty:steel_nugget" ]}
+item/nuggets.json :: { "values": [ "#c:nuggets/steel" ]}
+item/ores/jade.json :: { "values": [ "samurai_dynasty:jade_ore", "samurai_dynasty:deepslate_jade_ore" ]}
+item/ores.json :: { "values": [ "#c:ores/jade" ]}

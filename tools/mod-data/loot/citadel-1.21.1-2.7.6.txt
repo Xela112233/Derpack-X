@@ -1,0 +1,1 @@
+citadel:blocks/lectern | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:lectern minecraft:survives_explosion

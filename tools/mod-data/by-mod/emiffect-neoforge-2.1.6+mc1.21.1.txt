@@ -1,0 +1,20 @@
+# emiffect-neoforge-2.1.6+mc1.21.1
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "neoforge"
+versionRange = "[1.21.1,)"
+modId = "minecraft"
+versionRange = "[1.1.22+1.21.1,)"
+modId = "emi"
+displayName = "EMIffect"
+version = "2.1.6+mc1.21.1"
+modId = "emiffect"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

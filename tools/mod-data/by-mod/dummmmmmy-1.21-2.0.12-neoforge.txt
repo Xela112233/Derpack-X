@@ -1,0 +1,22 @@
+# dummmmmmy-1.21-2.0.12-neoforge
+
+## mod metadata (id / version / deps)
+license = "Supplementaries Team License v.1.5"
+modId = "dummmmmmy"
+version = "1.21-2.0.12"
+displayName = "MmmMmmMmmMmm"
+modId = "neoforge"
+versionRange = "[4,)"
+modId = "minecraft"
+versionRange = "[1.21.1,1.21.2)"
+modId="moonlight"
+versionRange="*"
+
+## blocks
+
+## items
+dummmmmmy:target_dummy
+
+## neoforge biome_modifiers
+
+## c: common tag membership

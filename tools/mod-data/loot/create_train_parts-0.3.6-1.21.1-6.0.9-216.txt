@@ -1,0 +1,15 @@
+create_train_parts:blocks/andesite_sliding_window | minecraft:block | create_train_parts:andesite_sliding_window create_train_parts:blocks/andesite_sliding_window minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/arm_extender | minecraft:block | create_train_parts:arm_extender create_train_parts:blocks/arm_extender minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/brass_sliding_window | minecraft:block | create_train_parts:blocks/brass_sliding_window create_train_parts:brass_sliding_window minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/copper_sliding_window | minecraft:block | create_train_parts:blocks/copper_sliding_window create_train_parts:copper_sliding_window minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/crossing | minecraft:block | create_train_parts:blocks/crossing create_train_parts:crossing minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/glass_sliding_window | minecraft:block | create_train_parts:blocks/glass_sliding_window create_train_parts:glass_sliding_window minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/train_slide_andesite | minecraft:block | create_train_parts:blocks/train_slide_andesite create_train_parts:train_slide_andesite minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/train_slide_brass | minecraft:block | create_train_parts:blocks/train_slide_brass create_train_parts:train_slide_brass minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/train_slide_copper | minecraft:block | create_train_parts:blocks/train_slide_copper create_train_parts:train_slide_copper minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/train_slide_train | minecraft:block | create_train_parts:blocks/train_slide_train create_train_parts:train_slide_train minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/train_sliding_window | minecraft:block | create_train_parts:blocks/train_sliding_window create_train_parts:train_sliding_window minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/train_step_andesite | minecraft:block | create_train_parts:blocks/train_step_andesite create_train_parts:train_step_andesite minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/train_step_brass | minecraft:block | create_train_parts:blocks/train_step_brass create_train_parts:train_step_brass minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/train_step_copper | minecraft:block | create_train_parts:blocks/train_step_copper create_train_parts:train_step_copper minecraft:block minecraft:item minecraft:survives_explosion
+create_train_parts:blocks/train_step_train | minecraft:block | create_train_parts:blocks/train_step_train create_train_parts:train_step_train minecraft:block minecraft:item minecraft:survives_explosion

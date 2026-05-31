@@ -1,0 +1,19 @@
+# toomanypaintings-25.10.20-1.21-neoforge
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="toomanypaintings"
+version="25.10.20-1.21-neoforge"
+displayName="Too Many Paintings"
+modId="neoforge"
+versionRange="[21.0.0-beta,)"
+modId="minecraft"
+versionRange="[1.21,1.21.1)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

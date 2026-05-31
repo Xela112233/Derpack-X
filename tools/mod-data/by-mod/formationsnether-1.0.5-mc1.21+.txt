@@ -1,0 +1,19 @@
+# formationsnether-1.0.5-mc1.21+
+
+## mod metadata (id / version / deps)
+license="All rights reserved" #mandatory
+modId="formationsnether" #mandatory
+version="1.0.5" #mandatory
+displayName="Formations Nether" #mandatory
+modId="minecraft"
+versionRange=">=1.21"
+modId="formations"
+versionRange="[1.0.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

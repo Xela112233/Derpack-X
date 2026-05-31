@@ -1,0 +1,4 @@
+irons_lib:blocks/player_statue | minecraft:block | irons_lib:player_statue irons_lib:statue_item_data minecraft:block minecraft:copy_components minecraft:item
+irons_lib:blocks/transmog_table | minecraft:block | irons_lib:transmog_table minecraft:block minecraft:item
+irons_patreon_lib:blocks/player_statue | minecraft:block | irons_lib:player_statue irons_lib:statue_item_data minecraft:block minecraft:copy_components minecraft:item
+irons_patreon_lib:blocks/transmog_table | minecraft:block | irons_lib:transmog_table minecraft:block minecraft:item

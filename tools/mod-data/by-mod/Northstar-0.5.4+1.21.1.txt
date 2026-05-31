@@ -1,0 +1,737 @@
+# Northstar-0.5.4+1.21.1
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "northstar"
+version = "0.5.4+1.21.1"
+displayName = "Northstar Redux"
+modId = "neoforge"
+versionRange = "[19,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "create"
+versionRange = "[6.0,)"
+modId = "geckolib"
+versionRange = "[4.7,5.0)"
+
+## blocks
+northstar:amethyst_crystal
+northstar:argyre_leaves
+northstar:argyre_log
+northstar:argyre_planks
+northstar:argyre_sapling
+northstar:argyre_slab
+northstar:argyre_stairs
+northstar:astronomy_table
+northstar:atmospheric_concentrator
+northstar:auto_lander
+northstar:biofuel
+northstar:bloom_fungus
+northstar:bloom_fungus_block
+northstar:bloom_fungus_stem_block
+northstar:brine
+northstar:budding_lunar_sapphire_block
+northstar:calorian_log
+northstar:calorian_planks
+northstar:calorian_slab
+northstar:calorian_stairs
+northstar:chiseled_mars_stone
+northstar:chiseled_mercury_stone
+northstar:chiseled_moon_stone
+northstar:chiseled_venus_stone
+northstar:circuit_engraver
+northstar:coiler_leaves
+northstar:coiler_log
+northstar:coiler_planks
+northstar:coiler_sapling
+northstar:coiler_slab
+northstar:coiler_stairs
+northstar:coiler_vines
+northstar:combustion_engine
+northstar:computer_rack
+northstar:electrolysis_machine
+northstar:extinguished_lantern
+northstar:extinguished_torch
+northstar:extinguished_torch_wall
+northstar:frost
+northstar:glowing_mars_roots
+northstar:glowing_venus_vines
+northstar:glowstone_lamp
+northstar:glowstone_lantern
+northstar:glowstone_torch
+northstar:glowstone_torch_wall
+northstar:hydrocarbon
+northstar:ice_box
+northstar:icicle
+northstar:insulated_vent
+northstar:interplanetary_navigator
+northstar:iron_cogwheel
+northstar:iron_large_cogwheel
+northstar:jet_engine
+northstar:large_fan
+northstar:large_lunar_sapphire_bud
+northstar:laser
+northstar:laser_lense
+northstar:liquid_hydrogen
+northstar:liquid_oxygen
+northstar:lunar_sapphire_block
+northstar:lunar_sapphire_cluster
+northstar:lunar_sapphire_crystal
+northstar:mars_copper_ore
+northstar:mars_deep_copper_ore
+northstar:mars_deep_diamond_ore
+northstar:mars_deep_gold_ore
+northstar:mars_deep_iron_ore
+northstar:mars_deep_quartz_ore
+northstar:mars_deep_redstone_ore
+northstar:mars_deep_stone
+northstar:mars_deep_titanium_ore
+northstar:mars_deep_zinc_ore
+northstar:mars_diamond_ore
+northstar:mars_farmland
+northstar:mars_gold_ore
+northstar:mars_gravel
+northstar:mars_iron_ore
+northstar:mars_palm
+northstar:mars_quartz_ore
+northstar:mars_redstone_ore
+northstar:mars_roots
+northstar:mars_sand
+northstar:mars_soil
+northstar:mars_sprout
+northstar:mars_sprout_big
+northstar:mars_stone
+northstar:mars_stone_brick_slab
+northstar:mars_stone_brick_slab_vertical
+northstar:mars_stone_brick_stairs
+northstar:mars_stone_brick_wall
+northstar:mars_stone_bricks
+northstar:mars_stone_lamp
+northstar:mars_stone_pillar
+northstar:mars_titanium_ore
+northstar:mars_tulip
+northstar:mars_worm_nest
+northstar:mars_zinc_ore
+northstar:martian_grass
+northstar:martian_steel_block
+northstar:martian_steel_blue_lamp
+northstar:martian_steel_grate
+northstar:martian_steel_lamp
+northstar:martian_steel_large_plating
+northstar:martian_steel_pillar
+northstar:martian_steel_plating
+northstar:martian_steel_plating_slab
+northstar:martian_steel_plating_stairs
+northstar:martian_steel_plating_vertical_slab
+northstar:martian_steel_sheetmetal
+northstar:martian_steel_sheetmetal_slab
+northstar:martian_steel_sheetmetal_vertical_slab
+northstar:martian_strawberry_bush
+northstar:martian_tall_grass
+northstar:medium_lunar_sapphire_bud
+northstar:mercury_cactus
+northstar:mercury_copper_ore
+northstar:mercury_deep_copper_ore
+northstar:mercury_deep_diamond_ore
+northstar:mercury_deep_glowstone_ore
+northstar:mercury_deep_gold_ore
+northstar:mercury_deep_iron_ore
+northstar:mercury_deep_lapis_ore
+northstar:mercury_deep_redstone_ore
+northstar:mercury_deep_stone
+northstar:mercury_deep_titanium_ore
+northstar:mercury_deep_tungsten_ore
+northstar:mercury_deep_zinc_ore
+northstar:mercury_diamond_ore
+northstar:mercury_glowstone_ore
+northstar:mercury_gold_ore
+northstar:mercury_iron_ore
+northstar:mercury_lapis_ore
+northstar:mercury_redstone_ore
+northstar:mercury_shelf_fungus
+northstar:mercury_shelf_fungus_block
+northstar:mercury_stone
+northstar:mercury_stone_brick_slab
+northstar:mercury_stone_brick_slab_vertical
+northstar:mercury_stone_brick_stairs
+northstar:mercury_stone_brick_wall
+northstar:mercury_stone_bricks
+northstar:mercury_stone_lamp
+northstar:mercury_stone_pillar
+northstar:mercury_titanium_ore
+northstar:mercury_tungsten_ore
+northstar:mercury_zinc_ore
+northstar:methane
+northstar:methane_ice
+northstar:monolithite
+northstar:moon_copper_ore
+northstar:moon_deep_copper_ore
+northstar:moon_deep_diamond_ore
+northstar:moon_deep_glowstone_ore
+northstar:moon_deep_gold_ore
+northstar:moon_deep_iron_ore
+northstar:moon_deep_lapis_ore
+northstar:moon_deep_redstone_ore
+northstar:moon_deep_stone
+northstar:moon_deep_titanium_ore
+northstar:moon_deep_zinc_ore
+northstar:moon_diamond_ore
+northstar:moon_glowstone_ore
+northstar:moon_gold_ore
+northstar:moon_iron_ore
+northstar:moon_lapis_ore
+northstar:moon_redstone_ore
+northstar:moon_sand
+northstar:moon_stone
+northstar:moon_stone_brick_slab
+northstar:moon_stone_brick_slab_vertical
+northstar:moon_stone_brick_stairs
+northstar:moon_stone_brick_wall
+northstar:moon_stone_bricks
+northstar:moon_stone_lamp
+northstar:moon_stone_pillar
+northstar:moon_titanium_ore
+northstar:moon_zinc_ore
+northstar:oxygen_bubble_generator
+northstar:oxygen_detector
+northstar:oxygen_filler
+northstar:oxygen_sealer
+northstar:plate_fungus
+northstar:plate_fungus_cap_block
+northstar:plate_fungus_stem_block
+northstar:pointed_crimsite
+northstar:polished_mars_stone
+northstar:polished_mercury_stone
+northstar:polished_moon_stone
+northstar:polished_venus_stone
+northstar:rocket_controls
+northstar:rocket_station
+northstar:small_lunar_sapphire_bud
+northstar:solar_panel
+northstar:spike_fungus
+northstar:spike_fungus_block
+northstar:stripped_argyre_log
+northstar:stripped_coiler_log
+northstar:stripped_wilter_log
+northstar:sulfuric_acid
+northstar:tall_venus_mycelium
+northstar:telescope
+northstar:temperature_regulator
+northstar:titanium_block
+northstar:titanium_grate
+northstar:titanium_pillar
+northstar:titanium_plating
+northstar:titanium_plating_slab
+northstar:titanium_plating_stairs
+northstar:titanium_plating_vertical_slab
+northstar:titanium_sheetmetal
+northstar:titanium_sheetmetal_slab
+northstar:titanium_sheetmetal_vertical_slab
+northstar:titanium_space_door
+northstar:titanium_tetrachloride
+northstar:tower_fungus
+northstar:tower_fungus_cap_block
+northstar:tower_fungus_stem_block
+northstar:tungsten_block
+northstar:tungsten_grate
+northstar:tungsten_pillar
+northstar:tungsten_plating
+northstar:tungsten_plating_slab
+northstar:tungsten_plating_stairs
+northstar:tungsten_plating_vertical_slab
+northstar:tungsten_sheetmetal
+northstar:tungsten_sheetmetal_slab
+northstar:tungsten_sheetmetal_vertical_slab
+northstar:vent
+northstar:venus_coal_ore
+northstar:venus_copper_ore
+northstar:venus_deep_copper_ore
+northstar:venus_deep_diamond_ore
+northstar:venus_deep_glowstone_ore
+northstar:venus_deep_gold_ore
+northstar:venus_deep_iron_ore
+northstar:venus_deep_quartz_ore
+northstar:venus_deep_redstone_ore
+northstar:venus_deep_stone
+northstar:venus_deep_titanium_ore
+northstar:venus_deep_zinc_ore
+northstar:venus_diamond_ore
+northstar:venus_glowstone_ore
+northstar:venus_gold_ore
+northstar:venus_gravel
+northstar:venus_iron_ore
+northstar:venus_plume
+northstar:venus_quartz_ore
+northstar:venus_redstone_ore
+northstar:venus_stone
+northstar:venus_stone_brick_slab
+northstar:venus_stone_brick_slab_vertical
+northstar:venus_stone_brick_stairs
+northstar:venus_stone_brick_wall
+northstar:venus_stone_bricks
+northstar:venus_stone_lamp
+northstar:venus_stone_pillar
+northstar:venus_titanium_ore
+northstar:venus_vines
+northstar:venus_zinc_ore
+northstar:volcanic_ash
+northstar:volcanic_rock
+northstar:wilter_leaves
+northstar:wilter_log
+northstar:wilter_planks
+northstar:wilter_sapling
+northstar:wilter_slab
+northstar:wilter_stairs
+
+## items
+northstar:advanced_circuit
+northstar:amethyst_crystal
+northstar:argyre_leaves
+northstar:argyre_log
+northstar:argyre_planks
+northstar:argyre_sapling
+northstar:argyre_slab
+northstar:argyre_stairs
+northstar:astronomical_reading
+northstar:astronomy_table
+northstar:atmospheric_concentrator
+northstar:auto_lander
+northstar:biofuel_bucket
+northstar:bloom_fungus
+northstar:bloom_fungus_block
+northstar:bloom_fungus_stem_block
+northstar:brine_bucket
+northstar:broken_iron_space_suit_boots
+northstar:broken_iron_space_suit_chestpiece
+northstar:broken_iron_space_suit_helmet
+northstar:broken_iron_space_suit_leggings
+northstar:budding_lunar_sapphire_block
+northstar:calorian_log
+northstar:calorian_planks
+northstar:calorian_slab
+northstar:calorian_stairs
+northstar:chiseled_mars_stone
+northstar:chiseled_mercury_stone
+northstar:chiseled_moon_stone
+northstar:chiseled_venus_stone
+northstar:chocolate_ice_cream
+northstar:circuit
+northstar:circuit_engraver
+northstar:coiler_leaves
+northstar:coiler_log
+northstar:coiler_planks
+northstar:coiler_sapling
+northstar:coiler_slab
+northstar:coiler_stairs
+northstar:coiler_vines
+northstar:combustion_engine
+northstar:computer_rack
+northstar:crushed_raw_tungsten
+northstar:dormant_martian_sapling
+northstar:dormant_martian_sapling_sequenced
+northstar:dormant_martian_seed
+northstar:dormant_martian_seed_sequenced
+northstar:dry_plant_fiber
+northstar:durable_fabric
+northstar:electrolysis_machine
+northstar:enriched_glowstone_ore
+northstar:extinguished_lantern
+northstar:extinguished_torch
+northstar:fan_blade
+northstar:flattened_dough
+northstar:frost
+northstar:frozen_zombie_spawn_egg
+northstar:glowing_mars_roots
+northstar:glowing_venus_vines
+northstar:glowstone_lamp
+northstar:glowstone_lantern
+northstar:glowstone_torch
+northstar:hardened_precision_mechanism
+northstar:hydrocarbon_bucket
+northstar:ice_box
+northstar:ice_cream_cone
+northstar:icicle
+northstar:incomplete_hardened_precision_mechanism
+northstar:incomplete_titanium_ingot
+northstar:interplanetary_navigator
+northstar:iron_cogwheel
+northstar:iron_large_cogwheel
+northstar:iron_space_suit_boots
+northstar:iron_space_suit_chestpiece
+northstar:iron_space_suit_helmet
+northstar:iron_space_suit_leggings
+northstar:jet_engine
+northstar:large_fan
+northstar:large_lunar_sapphire_bud
+northstar:liquid_hydrogen_bucket
+northstar:liquid_oxygen_bucket
+northstar:lunar_sapphire_block
+northstar:lunar_sapphire_cluster
+northstar:lunar_sapphire_crystal
+northstar:lunar_sapphire_shard
+northstar:mars_cobra_spawn_egg
+northstar:mars_copper_ore
+northstar:mars_deep_copper_ore
+northstar:mars_deep_diamond_ore
+northstar:mars_deep_gold_ore
+northstar:mars_deep_iron_ore
+northstar:mars_deep_quartz_ore
+northstar:mars_deep_redstone_ore
+northstar:mars_deep_stone
+northstar:mars_deep_titanium_ore
+northstar:mars_deep_zinc_ore
+northstar:mars_diamond_ore
+northstar:mars_farmland
+northstar:mars_gold_ore
+northstar:mars_gravel
+northstar:mars_iron_ore
+northstar:mars_moth_spawn_egg
+northstar:mars_palm
+northstar:mars_palm_flower
+northstar:mars_palm_seeds
+northstar:mars_quartz_ore
+northstar:mars_redstone_ore
+northstar:mars_roots
+northstar:mars_sand
+northstar:mars_soil
+northstar:mars_sprout
+northstar:mars_sprout_big
+northstar:mars_sprout_flower
+northstar:mars_sprout_seeds
+northstar:mars_stone
+northstar:mars_stone_brick_slab
+northstar:mars_stone_brick_slab_vertical
+northstar:mars_stone_brick_stairs
+northstar:mars_stone_brick_wall
+northstar:mars_stone_bricks
+northstar:mars_stone_lamp
+northstar:mars_stone_pillar
+northstar:mars_titanium_ore
+northstar:mars_toad_spawn_egg
+northstar:mars_tulip
+northstar:mars_tulip_flower
+northstar:mars_tulip_seeds
+northstar:mars_worm_nest
+northstar:mars_worm_spawn_egg
+northstar:mars_zinc_ore
+northstar:martian_axe
+northstar:martian_grass
+northstar:martian_hoe
+northstar:martian_pickaxe
+northstar:martian_shovel
+northstar:martian_steel
+northstar:martian_steel_block
+northstar:martian_steel_blue_lamp
+northstar:martian_steel_boots
+northstar:martian_steel_chestplate
+northstar:martian_steel_grate
+northstar:martian_steel_helmet
+northstar:martian_steel_lamp
+northstar:martian_steel_large_plating
+northstar:martian_steel_leggings
+northstar:martian_steel_pillar
+northstar:martian_steel_plating
+northstar:martian_steel_plating_slab
+northstar:martian_steel_plating_stairs
+northstar:martian_steel_plating_vertical_slab
+northstar:martian_steel_sheet
+northstar:martian_steel_sheetmetal
+northstar:martian_steel_sheetmetal_slab
+northstar:martian_steel_sheetmetal_vertical_slab
+northstar:martian_steel_space_suit_boots
+northstar:martian_steel_space_suit_chestpiece
+northstar:martian_steel_space_suit_helmet
+northstar:martian_steel_space_suit_leggings
+northstar:martian_strawberry
+northstar:martian_strawberry_bush
+northstar:martian_sword
+northstar:martian_tall_grass
+northstar:medium_lunar_sapphire_bud
+northstar:mercury_cactus
+northstar:mercury_copper_ore
+northstar:mercury_deep_copper_ore
+northstar:mercury_deep_diamond_ore
+northstar:mercury_deep_glowstone_ore
+northstar:mercury_deep_gold_ore
+northstar:mercury_deep_iron_ore
+northstar:mercury_deep_lapis_ore
+northstar:mercury_deep_redstone_ore
+northstar:mercury_deep_stone
+northstar:mercury_deep_titanium_ore
+northstar:mercury_deep_tungsten_ore
+northstar:mercury_deep_zinc_ore
+northstar:mercury_diamond_ore
+northstar:mercury_glowstone_ore
+northstar:mercury_gold_ore
+northstar:mercury_iron_ore
+northstar:mercury_lapis_ore
+northstar:mercury_raptor_spawn_egg
+northstar:mercury_redstone_ore
+northstar:mercury_roach_spawn_egg
+northstar:mercury_shelf_fungus
+northstar:mercury_shelf_fungus_block
+northstar:mercury_stone
+northstar:mercury_stone_brick_slab
+northstar:mercury_stone_brick_slab_vertical
+northstar:mercury_stone_brick_stairs
+northstar:mercury_stone_brick_wall
+northstar:mercury_stone_bricks
+northstar:mercury_stone_lamp
+northstar:mercury_stone_pillar
+northstar:mercury_titanium_ore
+northstar:mercury_tortoise_spawn_egg
+northstar:mercury_tungsten_ore
+northstar:mercury_zinc_ore
+northstar:methane_bucket
+northstar:methane_ice
+northstar:monolithite
+northstar:moon_copper_ore
+northstar:moon_deep_copper_ore
+northstar:moon_deep_diamond_ore
+northstar:moon_deep_glowstone_ore
+northstar:moon_deep_gold_ore
+northstar:moon_deep_iron_ore
+northstar:moon_deep_lapis_ore
+northstar:moon_deep_redstone_ore
+northstar:moon_deep_stone
+northstar:moon_deep_titanium_ore
+northstar:moon_deep_zinc_ore
+northstar:moon_diamond_ore
+northstar:moon_eel_spawn_egg
+northstar:moon_glowstone_ore
+northstar:moon_gold_ore
+northstar:moon_iron_ore
+northstar:moon_lapis_ore
+northstar:moon_lunargrade_spawn_egg
+northstar:moon_redstone_ore
+northstar:moon_sand
+northstar:moon_sand_paper
+northstar:moon_snail_spawn_egg
+northstar:moon_stone
+northstar:moon_stone_brick_slab
+northstar:moon_stone_brick_slab_vertical
+northstar:moon_stone_brick_stairs
+northstar:moon_stone_brick_wall
+northstar:moon_stone_bricks
+northstar:moon_stone_lamp
+northstar:moon_stone_pillar
+northstar:moon_titanium_ore
+northstar:moon_zinc_ore
+northstar:oxygen_detector
+northstar:oxygen_filler
+northstar:oxygen_sealer
+northstar:oxygen_separator
+northstar:plate_fungus
+northstar:plate_fungus_cap_block
+northstar:plate_fungus_stem_block
+northstar:pointed_crimsite
+northstar:polished_amethyst
+northstar:polished_diamond
+northstar:polished_lunar_sapphire
+northstar:polished_mars_stone
+northstar:polished_mercury_stone
+northstar:polished_moon_stone
+northstar:polished_venus_stone
+northstar:raw_glowstone_ore
+northstar:raw_ice_cream_cone
+northstar:raw_martian_iron_ore
+northstar:raw_titanium_ore
+northstar:raw_tungsten_ore
+northstar:return_ticket
+northstar:rocket_combustion_chamber
+northstar:rocket_controls
+northstar:rocket_station
+northstar:rutile_concentrate
+northstar:salt
+northstar:small_lunar_sapphire_bud
+northstar:sodium_catalyst
+northstar:solar_panel
+northstar:spike_fungus
+northstar:spike_fungus_block
+northstar:star_map
+northstar:strawberry_ice_cream
+northstar:stripped_argyre_log
+northstar:stripped_coiler_log
+northstar:stripped_wilter_log
+northstar:sulfuric_acid_bucket
+northstar:tall_venus_mycelium
+northstar:targeting_computer
+northstar:telescope
+northstar:temperature_regulator
+northstar:titanium_block
+northstar:titanium_grate
+northstar:titanium_ingot
+northstar:titanium_nugget
+northstar:titanium_pillar
+northstar:titanium_plating
+northstar:titanium_plating_slab
+northstar:titanium_plating_stairs
+northstar:titanium_plating_vertical_slab
+northstar:titanium_sheet
+northstar:titanium_sheetmetal
+northstar:titanium_sheetmetal_slab
+northstar:titanium_sheetmetal_vertical_slab
+northstar:titanium_space_door
+northstar:titanium_tetrachloride_bucket
+northstar:tower_fungus
+northstar:tower_fungus_cap_block
+northstar:tower_fungus_stem_block
+northstar:tungsten_block
+northstar:tungsten_grate
+northstar:tungsten_ingot
+northstar:tungsten_nugget
+northstar:tungsten_pillar
+northstar:tungsten_plating
+northstar:tungsten_plating_slab
+northstar:tungsten_plating_stairs
+northstar:tungsten_plating_vertical_slab
+northstar:tungsten_sheet
+northstar:tungsten_sheetmetal
+northstar:tungsten_sheetmetal_slab
+northstar:tungsten_sheetmetal_vertical_slab
+northstar:unfinished_advanced_circuit
+northstar:unfinished_circuit
+northstar:unfinished_targeting_computer
+northstar:vanilla_ice_cream
+northstar:vent
+northstar:venus_coal_ore
+northstar:venus_copper_ore
+northstar:venus_deep_copper_ore
+northstar:venus_deep_diamond_ore
+northstar:venus_deep_glowstone_ore
+northstar:venus_deep_gold_ore
+northstar:venus_deep_iron_ore
+northstar:venus_deep_quartz_ore
+northstar:venus_deep_redstone_ore
+northstar:venus_deep_stone
+northstar:venus_deep_titanium_ore
+northstar:venus_deep_zinc_ore
+northstar:venus_diamond_ore
+northstar:venus_glowstone_ore
+northstar:venus_gold_ore
+northstar:venus_gravel
+northstar:venus_iron_ore
+northstar:venus_mimic_spawn_egg
+northstar:venus_plume
+northstar:venus_quartz_ore
+northstar:venus_redstone_ore
+northstar:venus_scorpion_spawn_egg
+northstar:venus_stone
+northstar:venus_stone_brick_slab
+northstar:venus_stone_brick_slab_vertical
+northstar:venus_stone_brick_stairs
+northstar:venus_stone_brick_wall
+northstar:venus_stone_bricks
+northstar:venus_stone_bull_spawn_egg
+northstar:venus_stone_lamp
+northstar:venus_stone_pillar
+northstar:venus_titanium_ore
+northstar:venus_vines
+northstar:venus_vulture_spawn_egg
+northstar:venus_zinc_ore
+northstar:volcanic_ash
+northstar:volcanic_ash_item
+northstar:volcanic_rock
+northstar:wilter_leaves
+northstar:wilter_log
+northstar:wilter_planks
+northstar:wilter_sapling
+northstar:wilter_slab
+northstar:wilter_stairs
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+block/gravels.json :: { "values": [ "northstar:mars_gravel", "northstar:venus_gravel" ]}
+block/ore_rates/dense.json :: { "values": [ "northstar:mars_copper_ore", "northstar:mars_redstone_ore", "northstar:mars_deep_copper_ore", "northstar:mars_deep_redstone_ore", "northstar:moon_copper_ore", "northstar:moon_redstone_ore", "northstar:moon_lapis_ore", "northstar:moon_deep_copper_ore", "northstar:moon_deep_redstone_ore", "northstar:venus_copper_ore", "northstar:venus_redstone_ore", "northstar:venus_deep_copper_ore", "northstar:venus_deep_redstone_ore", "northstar:mercury_copper_ore", "northstar:mercury_redstone_ore", "northstar:mercury_lapis_ore", "northstar:mercury_deep_copper_ore", "northstar:mercury_deep_redstone_ore", "northstar:mercury_deep_lapis_ore" ]}
+block/ore_rates/singular.json :: { "values": [ "northstar:mars_titanium_ore", "northstar:mars_iron_ore", "northstar:mars_zinc_ore", "northstar:mars_gold_ore", "northstar:mars_diamond_ore", "northstar:mars_quartz_ore", "northstar:mars_deep_titanium_ore", "northstar:mars_deep_zinc_ore", "northstar:mars_deep_iron_ore", "northstar:mars_deep_gold_ore", "northstar:mars_deep_diamond_ore", "northstar:mars_deep_quartz_ore", "northstar:moon_titanium_ore", "northstar:moon_iron_ore", "northstar:moon_gold_ore", "northstar:moon_diamond_ore", "northstar:moon_zinc_ore", "northstar:moon_glowstone_ore", "northstar:moon_deep_titanium_ore", "northstar:moon_deep_iron_ore", "northstar:moon_deep_gold_ore", "northstar:moon_deep_diamond_ore", "northstar:moon_deep_lapis_ore", "northstar:moon_deep_zinc_ore", "northstar:moon_deep_glowstone_ore", "northstar:venus_titanium_ore", "northstar:venus_coal_ore", "northstar:venus_iron_ore", "northstar:venus_zinc_ore", "northstar:venus_gold_ore", "northstar:venus_diamond_ore", "northstar:venus_quartz_ore", "northstar:venus_glowstone_ore", "northstar:venus_deep_titanium_ore", "northstar:venus_deep_iron_ore", "northstar:venus_deep_zinc_ore", "northstar:venus_deep_gold_ore", "northstar:venus_deep_diamond_ore", "northstar:venus_deep_quartz_ore", "northstar:venus_deep_glowstone_ore", "northstar:mercury_titanium_ore", "northstar:mercury_iron_ore", "northstar:mercury_gold_ore", "northstar:mercury_diamond_ore", "northstar:mercury_zinc_ore", "northstar:mercury_glowstone_ore", "northstar:mercury_tungsten_ore", "northstar:mercury_deep_titanium_ore", "northstar:mercury_deep_iron_ore", "northstar:mercury_deep_gold_ore", "northstar:mercury_deep_diamond_ore", "northstar:mercury_deep_zinc_ore", "northstar:mercury_deep_glowstone_ore", "northstar:mercury_deep_tungsten_ore" ]}
+block/ores.json :: { "values": [ "northstar:mars_titanium_ore", "northstar:mars_iron_ore", "northstar:mars_zinc_ore", "northstar:mars_copper_ore", "northstar:mars_gold_ore", "northstar:mars_diamond_ore", "northstar:mars_redstone_ore", "northstar:mars_quartz_ore", "northstar:mars_deep_titanium_ore", "northstar:mars_deep_zinc_ore", "northstar:mars_deep_iron_ore", "northstar:mars_deep_copper_ore", "northstar:mars_deep_gold_ore", "northstar:mars_deep_diamond_ore", "northstar:mars_deep_redstone_ore", "northstar:mars_deep_quartz_ore", "northstar:moon_titanium_ore", "northstar:moon_iron_ore", "northstar:moon_copper_ore", "northstar:moon_gold_ore", "northstar:moon_diamond_ore", "northstar:moon_redstone_ore", "northstar:moon_lapis_ore", "northstar:moon_zinc_ore", "northstar:moon_glowstone_ore", "northstar:moon_deep_titanium_ore", "northstar:moon_deep_iron_ore", "northstar:moon_deep_copper_ore", "northstar:moon_deep_gold_ore", "northstar:moon_deep_diamond_ore", "northstar:moon_deep_redstone_ore", "northstar:moon_deep_lapis_ore", "northstar:moon_deep_zinc_ore", "northstar:moon_deep_glowstone_ore", "northstar:venus_titanium_ore", "northstar:venus_coal_ore", "northstar:venus_iron_ore", "northstar:venus_zinc_ore", "northstar:venus_copper_ore", "northstar:venus_gold_ore", "northstar:venus_diamond_ore", "northstar:venus_redstone_ore", "northstar:venus_quartz_ore", "northstar:venus_glowstone_ore", "northstar:venus_deep_titanium_ore", "northstar:venus_deep_iron_ore", "northstar:venus_deep_zinc_ore", "northstar:venus_deep_copper_ore", "northstar:venus_deep_gold_ore", "northstar:venus_deep_diamond_ore", "northstar:venus_deep_redstone_ore", "northstar:venus_deep_quartz_ore", "northstar:venus_deep_glowstone_ore", "northstar:mercury_titanium_ore", "northstar:mercury_iron_ore", "northstar:mercury_copper_ore", "northstar:mercury_gold_ore", "northstar:mercury_diamond_ore", "northstar:mercury_redstone_ore", "northstar:mercury_lapis_ore", "northstar:mercury_zinc_ore", "northstar:mercury_glowstone_ore", "northstar:mercury_tungsten_ore", "northstar:mercury_deep_titanium_ore", "northstar:mercury_deep_iron_ore", "northstar:mercury_deep_copper_ore", "northstar:mercury_deep_gold_ore", "northstar:mercury_deep_diamond_ore", "northstar:mercury_deep_redstone_ore", "northstar:mercury_deep_lapis_ore", "northstar:mercury_deep_zinc_ore", "northstar:mercury_deep_glowstone_ore", "northstar:mercury_deep_tungsten_ore" ]}
+block/ores/coal.json :: { "values": [ "northstar:venus_coal_ore" ]}
+block/ores/copper.json :: { "values": [ "northstar:mars_copper_ore", "northstar:mars_deep_copper_ore", "northstar:moon_copper_ore", "northstar:moon_deep_copper_ore", "northstar:venus_copper_ore", "northstar:venus_deep_copper_ore", "northstar:mercury_copper_ore", "northstar:mercury_deep_copper_ore" ]}
+block/ores/diamond.json :: { "values": [ "northstar:mars_diamond_ore", "northstar:mars_deep_diamond_ore", "northstar:moon_diamond_ore", "northstar:moon_deep_diamond_ore", "northstar:venus_diamond_ore", "northstar:venus_deep_diamond_ore", "northstar:mercury_diamond_ore", "northstar:mercury_deep_diamond_ore" ]}
+block/ores/glowstone.json :: { "values": [ "northstar:moon_glowstone_ore", "northstar:moon_deep_glowstone_ore", "northstar:venus_glowstone_ore", "northstar:venus_deep_glowstone_ore", "northstar:mercury_glowstone_ore", "northstar:mercury_deep_glowstone_ore" ]}
+block/ores/gold.json :: { "values": [ "northstar:mars_gold_ore", "northstar:mars_deep_gold_ore", "northstar:moon_gold_ore", "northstar:moon_deep_gold_ore", "northstar:venus_gold_ore", "northstar:venus_deep_gold_ore", "northstar:mercury_gold_ore", "northstar:mercury_deep_gold_ore" ]}
+block/ores/iron.json :: { "values": [ "northstar:mars_iron_ore", "northstar:mars_deep_iron_ore", "northstar:moon_iron_ore", "northstar:moon_deep_iron_ore", "northstar:venus_iron_ore", "northstar:venus_deep_iron_ore", "northstar:mercury_iron_ore", "northstar:mercury_deep_iron_ore" ]}
+block/ores/lapis.json :: { "values": [ "northstar:moon_lapis_ore", "northstar:moon_deep_lapis_ore", "northstar:mercury_lapis_ore", "northstar:mercury_deep_lapis_ore" ]}
+block/ores/quartz.json :: { "values": [ "northstar:mars_quartz_ore", "northstar:mars_deep_quartz_ore", "northstar:venus_quartz_ore", "northstar:venus_deep_quartz_ore" ]}
+block/ores/redstone.json :: { "values": [ "northstar:mars_redstone_ore", "northstar:mars_deep_redstone_ore", "northstar:moon_redstone_ore", "northstar:moon_deep_redstone_ore", "northstar:venus_redstone_ore", "northstar:venus_deep_redstone_ore", "northstar:mercury_redstone_ore", "northstar:mercury_deep_redstone_ore" ]}
+block/ores/titanium.json :: { "values": [ "northstar:mars_titanium_ore", "northstar:mars_deep_titanium_ore", "northstar:moon_titanium_ore", "northstar:moon_deep_titanium_ore", "northstar:venus_titanium_ore", "northstar:venus_deep_titanium_ore", "northstar:mercury_titanium_ore", "northstar:mercury_deep_titanium_ore" ]}
+block/ores/tungsten.json :: { "values": [ "northstar:mercury_tungsten_ore", "northstar:mercury_deep_tungsten_ore" ]}
+block/ores/zinc.json :: { "values": [ "northstar:mars_zinc_ore", "northstar:mars_deep_zinc_ore", "northstar:moon_zinc_ore", "northstar:moon_deep_zinc_ore", "northstar:venus_zinc_ore", "northstar:venus_deep_zinc_ore", "northstar:mercury_zinc_ore", "northstar:mercury_deep_zinc_ore" ]}
+block/sands/colorless.json :: { "values": [ "northstar:moon_sand" ]}
+block/sands/red.json :: { "values": [ "northstar:mars_sand" ]}
+block/stones.json :: { "values": [ "northstar:mars_stone", "northstar:mars_deep_stone", "northstar:moon_stone", "northstar:moon_deep_stone", "northstar:venus_stone", "northstar:venus_deep_stone", "northstar:mercury_stone", "northstar:mercury_deep_stone" ]}
+block/storage_blocks.json :: { "values": [ "northstar:martian_steel_block", "northstar:titanium_block", "northstar:tungsten_block" ]}
+block/storage_blocks/martian_steel.json :: { "values": [ "northstar:martian_steel_block" ]}
+block/storage_blocks/titanium.json :: { "values": [ "northstar:titanium_block" ]}
+block/storage_blocks/tungsten.json :: { "values": [ "northstar:tungsten_block" ]}
+fluid/biofuel.json :: { "values": [ "northstar:flowing_biofuel", "northstar:biofuel" ]}
+fluid/brine.json :: { "values": [ "northstar:flowing_brine", "northstar:brine" ]}
+fluid/carbon.json :: { "values": [ "northstar:flowing_carbon", "northstar:carbon" ]}
+fluid/chlorine.json :: { "values": [ "northstar:flowing_chlorine", "northstar:chlorine" ]}
+fluid/chocolate_ice_cream.json :: { "values": [ "northstar:flowing_chocolate_ice_cream", "northstar:chocolate_ice_cream" ]}
+fluid/gaseous.json :: { "values": [ "northstar:flowing_oxygen", "northstar:oxygen", "northstar:flowing_hydrogen", "northstar:hydrogen", "northstar:flowing_chlorine", "northstar:chlorine" ]}
+fluid/hydrocarbon.json :: { "values": [ "northstar:flowing_hydrocarbon", "northstar:hydrocarbon" ]}
+fluid/hydrogen.json :: { "values": [ "northstar:flowing_hydrogen", "northstar:hydrogen" ]}
+fluid/liquid_hydrogen.json :: { "values": [ "northstar:flowing_liquid_hydrogen", "northstar:liquid_hydrogen" ]}
+fluid/liquid_oxygen.json :: { "values": [ "northstar:flowing_liquid_oxygen", "northstar:liquid_oxygen" ]}
+fluid/methane.json :: { "values": [ "northstar:flowing_methane", "northstar:methane" ]}
+fluid/oxygen.json :: { "values": [ "northstar:flowing_oxygen", "northstar:oxygen" ]}
+fluid/sodium.json :: { "values": [ "northstar:flowing_sodium", "northstar:sodium" ]}
+fluid/strawberry_ice_cream.json :: { "values": [ "northstar:flowing_strawberry_ice_cream", "northstar:strawberry_ice_cream" ]}
+fluid/sulfuric_acid.json :: { "values": [ "northstar:flowing_sulfuric_acid", "northstar:sulfuric_acid" ]}
+fluid/titanium_tetrachloride.json :: { "values": [ "northstar:flowing_titanium_tetrachloride", "northstar:titanium_tetrachloride" ]}
+fluid/vanilla_ice_cream.json :: { "values": [ "northstar:flowing_vanilla_ice_cream", "northstar:vanilla_ice_cream" ]}
+item/buckets.json :: { "values": [ "northstar:brine_bucket", "northstar:liquid_hydrogen_bucket", "northstar:liquid_oxygen_bucket", "northstar:methane_bucket", "northstar:sulfuric_acid_bucket", "northstar:hydrocarbon_bucket", "northstar:biofuel_bucket" ]}
+item/buckets/.json :: { "values": [ "northstar:liquid_oxygen_bucket" ]}
+item/buckets/biofuel.json :: { "values": [ "northstar:biofuel_bucket" ]}
+item/buckets/brine.json :: { "values": [ "northstar:brine_bucket" ]}
+item/buckets/hydrocarbon.json :: { "values": [ "northstar:hydrocarbon_bucket" ]}
+item/buckets/liquid_hydrogen.json :: { "values": [ "northstar:liquid_hydrogen_bucket" ]}
+item/buckets/methane.json :: { "values": [ "northstar:methane_bucket" ]}
+item/buckets/sulfuric_acid.json :: { "values": [ "northstar:sulfuric_acid_bucket" ]}
+item/dusts.json :: { "values": [ "northstar:volcanic_ash_item", "northstar:salt" ]}
+item/dusts/salt.json :: { "values": [ "northstar:salt" ]}
+item/dusts/volcanic_ash.json :: { "values": [ "northstar:volcanic_ash_item" ]}
+item/fabrics.json :: { "values": [ "northstar:durable_fabric" ]}
+item/fibers.json :: { "values": [ "northstar:dry_plant_fiber" ]}
+item/foods.json :: { "values": [ "northstar:vanilla_ice_cream", "northstar:chocolate_ice_cream", "northstar:strawberry_ice_cream", "northstar:ice_cream_cone", "northstar:martian_strawberry" ]}
+item/foods/berry.json :: { "values": [ "northstar:martian_strawberry" ]}
+item/foods/ice_cream.json :: { "values": [ "northstar:vanilla_ice_cream", "northstar:chocolate_ice_cream", "northstar:strawberry_ice_cream" ]}
+item/gems.json :: { "values": [ "northstar:lunar_sapphire_shard" ]}
+item/gems/sapphire.json :: { "values": [ "northstar:lunar_sapphire_shard" ]}
+item/gravels.json :: { "values": [ "northstar:mars_gravel", "northstar:venus_gravel" ]}
+item/ingots.json :: { "values": [ "northstar:titanium_ingot", "northstar:martian_steel", "northstar:tungsten_ingot" ]}
+item/ingots/martian_steel.json :: { "values": [ "northstar:martian_steel" ]}
+item/ingots/titanium.json :: { "values": [ "northstar:titanium_ingot" ]}
+item/ingots/tungsten.json :: { "values": [ "northstar:tungsten_ingot" ]}
+item/nuggets.json :: { "values": [ "northstar:titanium_nugget", "northstar:tungsten_nugget" ]}
+item/nuggets/titanium.json :: { "values": [ "northstar:titanium_nugget" ]}
+item/nuggets/tungsten.json :: { "values": [ "northstar:tungsten_nugget" ]}
+item/ores/coal.json :: { "values": [ "northstar:venus_coal_ore" ]}
+item/ores/copper.json :: { "values": [ "northstar:mars_copper_ore", "northstar:mars_deep_copper_ore", "northstar:moon_copper_ore", "northstar:moon_deep_copper_ore", "northstar:venus_copper_ore", "northstar:venus_deep_copper_ore", "northstar:mercury_copper_ore", "northstar:mercury_deep_copper_ore" ]}
+item/ores/diamond.json :: { "values": [ "northstar:mars_diamond_ore", "northstar:mars_deep_diamond_ore", "northstar:moon_diamond_ore", "northstar:moon_deep_diamond_ore", "northstar:venus_diamond_ore", "northstar:venus_deep_diamond_ore", "northstar:mercury_diamond_ore", "northstar:mercury_deep_diamond_ore" ]}
+item/ores/glowstone.json :: { "values": [ "northstar:moon_glowstone_ore", "northstar:moon_deep_glowstone_ore", "northstar:venus_glowstone_ore", "northstar:venus_deep_glowstone_ore", "northstar:mercury_glowstone_ore", "northstar:mercury_deep_glowstone_ore" ]}
+item/ores/gold.json :: { "values": [ "northstar:mars_gold_ore", "northstar:mars_deep_gold_ore", "northstar:moon_gold_ore", "northstar:moon_deep_gold_ore", "northstar:venus_gold_ore", "northstar:venus_deep_gold_ore", "northstar:mercury_gold_ore", "northstar:mercury_deep_gold_ore" ]}
+item/ores/iron.json :: { "values": [ "northstar:mars_iron_ore", "northstar:mars_deep_iron_ore", "northstar:moon_iron_ore", "northstar:moon_deep_iron_ore", "northstar:venus_iron_ore", "northstar:venus_deep_iron_ore", "northstar:mercury_iron_ore", "northstar:mercury_deep_iron_ore" ]}
+item/ores/lapis.json :: { "values": [ "northstar:moon_lapis_ore", "northstar:moon_deep_lapis_ore", "northstar:mercury_lapis_ore", "northstar:mercury_deep_lapis_ore" ]}
+item/ores/quartz.json :: { "values": [ "northstar:mars_quartz_ore", "northstar:mars_deep_quartz_ore", "northstar:venus_quartz_ore", "northstar:venus_deep_quartz_ore" ]}
+item/ores/redstone.json :: { "values": [ "northstar:mars_redstone_ore", "northstar:mars_deep_redstone_ore", "northstar:moon_redstone_ore", "northstar:moon_deep_redstone_ore", "northstar:venus_redstone_ore", "northstar:venus_deep_redstone_ore", "northstar:mercury_redstone_ore", "northstar:mercury_deep_redstone_ore" ]}
+item/ores/titanium.json :: { "values": [ "northstar:mars_titanium_ore", "northstar:mars_deep_titanium_ore", "northstar:moon_titanium_ore", "northstar:moon_deep_titanium_ore", "northstar:venus_titanium_ore", "northstar:venus_deep_titanium_ore", "northstar:mercury_titanium_ore", "northstar:mercury_deep_titanium_ore" ]}
+item/ores/tungsten.json :: { "values": [ "northstar:mercury_tungsten_ore", "northstar:mercury_deep_tungsten_ore" ]}
+item/ores/zinc.json :: { "values": [ "northstar:mars_zinc_ore", "northstar:mars_deep_zinc_ore", "northstar:moon_zinc_ore", "northstar:moon_deep_zinc_ore", "northstar:venus_zinc_ore", "northstar:venus_deep_zinc_ore", "northstar:mercury_zinc_ore", "northstar:mercury_deep_zinc_ore" ]}
+item/plates.json :: { "values": [ "northstar:titanium_sheet", "northstar:martian_steel_sheet", "northstar:tungsten_sheet" ]}
+item/plates/martian_steel.json :: { "values": [ "northstar:martian_steel_sheet" ]}
+item/plates/titanium.json :: { "values": [ "northstar:titanium_sheet" ]}
+item/plates/tungsten.json :: { "values": [ "northstar:tungsten_sheet" ]}
+item/raw_materials.json :: { "values": [ "northstar:raw_titanium_ore" ]}
+item/raw_materials/martian_iron_ore.json :: { "values": [ "northstar:raw_martian_iron_ore" ]}
+item/raw_materials/titanium.json :: { "values": [ "northstar:raw_titanium_ore" ]}
+item/raw_materials/tungsten.json :: { "values": [ "northstar:raw_tungsten_ore" ]}
+item/stones.json :: { "values": [ "northstar:mars_stone", "northstar:mars_deep_stone", "northstar:moon_stone", "northstar:moon_deep_stone", "northstar:venus_stone", "northstar:venus_deep_stone", "northstar:mercury_stone", "northstar:mercury_deep_stone" ]}
+item/storage_blocks/martian_steel.json :: { "values": [ "northstar:martian_steel_block" ]}
+item/storage_blocks/titanium.json :: { "values": [ "northstar:titanium_block" ]}
+item/storage_blocks/tungsten.json :: { "values": [ "northstar:tungsten_block" ]}
+item/tools.json :: { "values": [ "northstar:martian_pickaxe", "northstar:martian_shovel", "northstar:martian_axe", "northstar:martian_hoe" ]}
+worldgen/biome/is_cave.json :: { "replace": false, "values": [ "northstar:martian_magmatic_caves", "northstar:martian_crimsite_caverns" ]}
+worldgen/biome/is_underground.json :: { "replace": false, "values": [ "northstar:martian_magmatic_caves", "northstar:martian_crimsite_caverns" ]}

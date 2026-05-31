@@ -1,0 +1,3 @@
+solclassic:basket | minecraft:crafting_shaped | minecraft:bowl minecraft:crafting_shaped minecraft:leather minecraft:stick minecraft:string solclassic:basket
+solclassic:food_history_book | minecraft:crafting_shapeless | minecraft:apple minecraft:book minecraft:crafting_shapeless solclassic:food_history_book
+solclassic:wicker_basket | minecraft:crafting_shaped | minecraft:bowl minecraft:crafting_shaped minecraft:hay_block minecraft:wheat solclassic:wicker_basket

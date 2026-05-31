@@ -1,0 +1,21 @@
+# YungsBetterEndIsland-1.21.1-NeoForge-3.1.2
+
+## mod metadata (id / version / deps)
+license="LGPLv3"
+modId="betterendisland"
+version="1.21.1-NeoForge-3.1.2"
+displayName="YUNG's Better End Island"
+modId="minecraft"
+versionRange="[1.21, 1.22)"
+modId="neoforge"
+versionRange="[21.0.0,)"
+modId="yungsapi"
+versionRange="[1.21.1-NeoForge-5.1.4,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

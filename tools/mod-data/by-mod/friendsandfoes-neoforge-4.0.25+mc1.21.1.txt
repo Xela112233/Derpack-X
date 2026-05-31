@@ -1,0 +1,98 @@
+# friendsandfoes-neoforge-4.0.25+mc1.21.1
+
+## mod metadata (id / version / deps)
+license = "CC-BY-NC-ND-4.0"
+modId = "friendsandfoes"
+version = "4.0.25"
+displayName = "Friends&Foes"
+modId = "neoforge"
+versionRange = "*"
+modId = "minecraft"
+versionRange = "[1.21,)"
+modId = "yet_another_config_lib_v3"
+versionRange = "*"
+modId = "resourcefullib"
+versionRange = "[3.0.12,)"
+
+## blocks
+friendsandfoes:acacia_beehive
+friendsandfoes:bamboo_beehive
+friendsandfoes:birch_beehive
+friendsandfoes:buttercup
+friendsandfoes:cherry_beehive
+friendsandfoes:copper_button
+friendsandfoes:crab_egg
+friendsandfoes:crimson_beehive
+friendsandfoes:dark_oak_beehive
+friendsandfoes:exposed_copper_button
+friendsandfoes:exposed_lightning_rod
+friendsandfoes:jungle_beehive
+friendsandfoes:mangrove_beehive
+friendsandfoes:oxidized_copper_button
+friendsandfoes:oxidized_lightning_rod
+friendsandfoes:potted_buttercup
+friendsandfoes:spruce_beehive
+friendsandfoes:warped_beehive
+friendsandfoes:waxed_copper_button
+friendsandfoes:waxed_exposed_copper_button
+friendsandfoes:waxed_exposed_lightning_rod
+friendsandfoes:waxed_lightning_rod
+friendsandfoes:waxed_oxidized_copper_button
+friendsandfoes:waxed_oxidized_lightning_rod
+friendsandfoes:waxed_weathered_copper_button
+friendsandfoes:waxed_weathered_lightning_rod
+friendsandfoes:weathered_copper_button
+friendsandfoes:weathered_lightning_rod
+
+## items
+friendsandfoes:acacia_beehive
+friendsandfoes:bamboo_beehive
+friendsandfoes:birch_beehive
+friendsandfoes:buttercup
+friendsandfoes:cherry_beehive
+friendsandfoes:copper_button
+friendsandfoes:copper_golem_head
+friendsandfoes:copper_golem_spawn_egg
+friendsandfoes:crab_claw
+friendsandfoes:crab_egg
+friendsandfoes:crab_spawn_egg
+friendsandfoes:crimson_beehive
+friendsandfoes:dark_oak_beehive
+friendsandfoes:exposed_copper_button
+friendsandfoes:exposed_lightning_rod
+friendsandfoes:glare_spawn_egg
+friendsandfoes:iceologer_spawn_egg
+friendsandfoes:illusioner_spawn_egg
+friendsandfoes:jungle_beehive
+friendsandfoes:mangrove_beehive
+friendsandfoes:mauler_spawn_egg
+friendsandfoes:moobloom_spawn_egg
+friendsandfoes:music_disc_around_the_corner
+friendsandfoes:oxidized_copper_button
+friendsandfoes:oxidized_lightning_rod
+friendsandfoes:rascal_spawn_egg
+friendsandfoes:spruce_beehive
+friendsandfoes:totem_of_freezing
+friendsandfoes:totem_of_illusion
+friendsandfoes:tuff_golem_spawn_egg
+friendsandfoes:warped_beehive
+friendsandfoes:waxed_copper_button
+friendsandfoes:waxed_exposed_copper_button
+friendsandfoes:waxed_exposed_lightning_rod
+friendsandfoes:waxed_lightning_rod
+friendsandfoes:waxed_oxidized_copper_button
+friendsandfoes:waxed_oxidized_lightning_rod
+friendsandfoes:waxed_weathered_copper_button
+friendsandfoes:waxed_weathered_lightning_rod
+friendsandfoes:weathered_copper_button
+friendsandfoes:weathered_lightning_rod
+friendsandfoes:wildfire_crown
+friendsandfoes:wildfire_crown_fragment
+friendsandfoes:wildfire_spawn_egg
+
+## neoforge biome_modifiers
+friendsandfoes.json :: {	"type": "friendsandfoes:mob_spawns"}
+
+## c: common tag membership
+block/villager_job_sites.json :: {"replace":false,"values":["minecraft:beehive","friendsandfoes:acacia_beehive","friendsandfoes:bamboo_beehive","friendsandfoes:birch_beehive","friendsandfoes:cherry_beehive","friendsandfoes:crimson_beehive","friendsandfoes:dark_oak_beehive","friendsandfoes:jungle_beehive","friendsandfoes:mangrove_beehive","friendsandfoes:spruce_beehive","friendsandfoes:warped_beehive"]}
+item/music_discs.json :: {	"replace": false,	"values": [		"friendsandfoes:music_disc_around_the_corner"	]}

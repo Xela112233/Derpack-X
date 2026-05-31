@@ -1,0 +1,25 @@
+# immersive_paintings-neoforge-1.21.1-0.7.6
+
+## mod metadata (id / version / deps)
+license = "GPL-3.0-only" # Review your options at https://choosealicense.com/.
+modId = "immersive_paintings" #mandatory
+version = "0.7.6" #mandatory
+displayName = "Immersive Paintings" #mandatory
+modId = "minecraft"
+versionRange = "[1.21, 1.22)"
+modId = "neoforge"
+versionRange = "[21.1.154,)"
+modId = "fzzy_config"
+versionRange = "[0.7.0+1.21,)"
+
+## blocks
+
+## items
+immersive_paintings:glow_graffiti
+immersive_paintings:glow_painting
+immersive_paintings:graffiti
+immersive_paintings:painting
+
+## neoforge biome_modifiers
+
+## c: common tag membership

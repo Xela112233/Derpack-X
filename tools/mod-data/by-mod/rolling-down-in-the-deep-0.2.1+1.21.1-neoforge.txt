@@ -1,0 +1,23 @@
+# rolling-down-in-the-deep-0.2.1+1.21.1-neoforge
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="rolling_down_in_the_deep" #mandatory
+version="0.2.1+1.21.1-neoforge" #mandatory
+displayName="Rolling Down in the Deep" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.1.209,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="do_a_barrel_roll"
+versionRange="[3.7.3,)"
+modId="yet_another_config_lib_v3"
+versionRange="[3.8.0+1.21.1-neoforge,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,19 @@
+# CreativeCore_NEOFORGE_v2.13.38_mc1.21.1
+
+## mod metadata (id / version / deps)
+license="LGPL-3.0-only"
+modId="creativecore"
+version="2.13.38"
+displayName="CreativeCore"
+modId="neoforge"
+versionRange="[21.1,)"
+modId="minecraft"
+versionRange="[1.21.1,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

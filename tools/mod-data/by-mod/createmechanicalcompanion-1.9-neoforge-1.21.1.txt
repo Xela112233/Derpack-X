@@ -1,0 +1,44 @@
+# createmechanicalcompanion-1.9-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="createmechanicalcompanion"
+version="${file.jarVersion}"
+displayName="Create Mechanical Companion"
+modId="neoforge"
+versionRange="[21.1,)"
+modId="minecraft"
+versionRange="[1.21.1,1.22)"
+modId="create"
+versionRange="[0.5.1,)"
+modId="curios"
+versionRange="[9.0.0,)"
+
+## blocks
+
+## items
+createmechanicalcompanion:blueprint_painting
+createmechanicalcompanion:booster_rocket
+createmechanicalcompanion:illager_engineer_spawn_egg
+createmechanicalcompanion:incomplete_mechanical_wolf_motherboard
+createmechanicalcompanion:incomplete_optical_sensor
+createmechanicalcompanion:mechanical_wolf_link
+createmechanicalcompanion:mechanical_wolf_motherboard
+createmechanicalcompanion:mechanical_wolf_processor
+createmechanicalcompanion:mob_radar
+createmechanicalcompanion:mounted_crossbow
+createmechanicalcompanion:mounted_light
+createmechanicalcompanion:netherite_plates
+createmechanicalcompanion:optical_sensor
+createmechanicalcompanion:potato_cannon_illager_spawn_egg
+createmechanicalcompanion:quantum_drive
+createmechanicalcompanion:regenerative_casing
+createmechanicalcompanion:reinforced_plates
+createmechanicalcompanion:rose_quartz_lens
+createmechanicalcompanion:smelting_fangs
+createmechanicalcompanion:tab_icon
+createmechanicalcompanion:tesla_tail
+
+## neoforge biome_modifiers
+
+## c: common tag membership

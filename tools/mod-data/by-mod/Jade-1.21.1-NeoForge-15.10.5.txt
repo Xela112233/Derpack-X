@@ -1,0 +1,17 @@
+# Jade-1.21.1-NeoForge-15.10.5
+
+## mod metadata (id / version / deps)
+license = "CC-BY-NC-SA-4.0"
+modId = "jade"
+version = "${file.jarVersion}"
+displayName = "Jade"
+modId = "neoforge"
+versionRange = "[21.0.143, )"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,19 @@
+# better-compatability-checker-neoforge-21.1.8
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="bcc"
+version="21.1.8"
+displayName="Better Compatibility Checker"
+modId="neoforge"
+versionRange="[21.1.209,)"
+modId="minecraft"
+versionRange="[1.21.1,1.21.3)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

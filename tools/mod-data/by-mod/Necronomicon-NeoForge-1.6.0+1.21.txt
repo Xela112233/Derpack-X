@@ -1,0 +1,17 @@
+# Necronomicon-NeoForge-1.6.0+1.21
+
+## mod metadata (id / version / deps)
+license='MIT'
+modId="necronomicon"
+version="1.6.0"
+displayName="Necronomicon"
+modId="neoforge"
+versionRange="*"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

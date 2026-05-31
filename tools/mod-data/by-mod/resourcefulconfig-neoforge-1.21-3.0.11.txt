@@ -1,0 +1,19 @@
+# resourcefulconfig-neoforge-1.21-3.0.11
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "resourcefulconfig"
+version = "3.0.11"
+displayName = "Resourcefulconfig"
+modId = "neoforge"
+versionRange = "[20.5,)"
+modId = "minecraft"
+versionRange = "[1.20.5,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,1 @@
+betteroceanmonuments:chests/upper_side_chamber | minecraft:chest | minecraft:chest minecraft:item minecraft:nautilus_shell minecraft:prismarine_crystals minecraft:prismarine_shard minecraft:set_count minecraft:uniform

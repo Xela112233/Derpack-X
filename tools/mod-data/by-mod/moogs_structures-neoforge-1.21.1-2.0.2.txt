@@ -1,0 +1,17 @@
+# moogs_structures-neoforge-1.21.1-2.0.2
+
+## mod metadata (id / version / deps)
+license="https://github.com/FinnSetchell/MoogsStructureLib/blob/1.21.5/LICENSE"
+modId="moogs_structures"
+version="2.0.2"
+displayName="Moog's Structure Lib"
+modId="minecraft"
+versionRange="[1.21,1.21.2)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

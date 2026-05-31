@@ -1,0 +1,96 @@
+cbc_at:cutting/autocannon_muzzle_brake_cast_mould | create:cutting | cbc_at:autocannon_muzzle_brake_mould create:cutting minecraft:logs
+cbc_at:cutting/autocannon_silencer_cast_mould | create:cutting | cbc_at:autocannon_silencer_mould create:cutting minecraft:logs
+cbc_at:cutting/fume_extractor_cast_mould | create:cutting | cbc_at:fume_extractor_cast_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_barrel_cast_mould | create:cutting | cbc_at:heavy_autocannon_barrel_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_breech_cast_mould | create:cutting | cbc_at:heavy_autocannon_breech_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_muzzle_brake_cast_mould | create:cutting | cbc_at:heavy_autocannon_muzzle_brake_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_qfbreech_cast_mould | create:cutting | cbc_at:heavy_autocannon_qfbreech_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_recoil_spring_cast_mould | create:cutting | cbc_at:heavy_autocannon_recoil_spring_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_silencer_cast_mould | create:cutting | cbc_at:heavy_autocannon_silencer_mould create:cutting minecraft:logs
+cbc_at:cutting/muzzle_brake_cast_mould | create:cutting | cbc_at:muzzle_brake_cast_mould create:cutting minecraft:logs
+cbc_at:cutting/rifled_barrel_cast_mould | create:cutting | cbc_at:rifled_barrel_cast_mould create:cutting minecraft:logs
+cbc_at:cutting/rocket_pod_breech_cast_mould | create:cutting | cbc_at:rocket_pod_breech_mould create:cutting minecraft:logs
+cbc_at:cutting/rocket_pod_rail_cast_mould | create:cutting | cbc_at:rocket_pod_rail_mould create:cutting minecraft:logs
+cbc_at:cutting/silencer_cast_mould | create:cutting | cbc_at:silencer_cast_mould create:cutting minecraft:logs
+cbc_at:cutting/twin_autocannon_barrel_cast_mould | create:cutting | cbc_at:twin_autocannon_barrel_mould create:cutting minecraft:logs
+cbc_at:cutting/twin_autocannon_breech_cast_mould | create:cutting | cbc_at:twin_autocannon_breech_mould create:cutting minecraft:logs
+cbc_at:cutting/twin_autocannon_muzzle_brake_cast_mould | create:cutting | cbc_at:twin_autocannon_muzzle_brake_mould create:cutting minecraft:logs
+cbc_at:cutting/twin_autocannon_recoil_spring_cast_mould | create:cutting | cbc_at:twin_autocannon_recoil_spring_mould create:cutting minecraft:logs
+cbc_at:cutting/twin_autocannon_silencer_cast_mould | create:cutting | cbc_at:twin_autocannon_silencer_mould create:cutting minecraft:logs
+cbc_at:cutting/vert_twin_autocannon_barrel_cast_mould | create:cutting | cbc_at:vert_twin_autocannon_barrel_mould create:cutting minecraft:logs
+cbc_at:cutting/vert_twin_autocannon_breech_cast_mould | create:cutting | cbc_at:vert_twin_autocannon_breech_mould create:cutting minecraft:logs
+cbc_at:cutting/vert_twin_autocannon_muzzle_brake_cast_mould | create:cutting | cbc_at:vert_twin_autocannon_muzzle_brake_mould create:cutting minecraft:logs
+cbc_at:cutting/vert_twin_autocannon_recoil_spring_cast_mould | create:cutting | cbc_at:vert_twin_autocannon_recoil_spring_mould create:cutting minecraft:logs
+cbc_at:cutting/vert_twin_autocannon_silencer_cast_mould | create:cutting | cbc_at:vert_twin_autocannon_silencer_mould create:cutting minecraft:logs
+cbc_at:medium_rocket_rail | minecraft:crafting_shaped | cbc_at:wrought_iron_medium_rocket_rail minecraft:crafting_shaped minecraft:iron_bars minecraft:iron_ingot
+cbc_at:medium_rocket_rail_breech | minecraft:crafting_shaped | cbc_at:wrought_iron_medium_rocket_rail_breech minecraft:crafting_shaped minecraft:iron_bars minecraft:iron_ingot minecraft:iron_nugget
+cbc_at:munition/autocannon/apds_item | minecraft:crafting_shaped | c:ingots/cast_iron c:nuggets/iron cbc_at:apds_item minecraft:crafting_shaped
+cbc_at:munition/autocannon/apdsfs_item | minecraft:crafting_shaped | c:ingots/cast_iron c:nuggets/cast_iron c:nuggets/iron cbc_at:apdsfs_item minecraft:crafting_shaped
+cbc_at:munition/autocannon/he_item | minecraft:crafting_shaped | c:plates/iron cbc_at:he_item createbigcannons:gunpowder minecraft:crafting_shaped
+cbc_at:munition/autocannon/hei_item | minecraft:crafting_shaped | c:plates/iron cbc_at:hei_item createbigcannons:gunpowder minecraft:blaze_powder minecraft:crafting_shaped
+cbc_at:munition/caseless_munition_assembly | cbc_at:caseless_munition_assembly | cbc_at:caseless_munition_assembly
+cbc_at:munition/cluster_munition_assembly | cbc_at:cluster_munition_assembly | cbc_at:cluster_munition_assembly
+cbc_at:munition/grapeshot_cartridge | minecraft:crafting_shapeless | cbc_at:grapeshot_cartridge createbigcannons:bag_of_grapeshot createbigcannons:powder_charge minecraft:crafting_shapeless
+cbc_at:munition/grapeshot_caseless | minecraft:crafting_shapeless | cbc_at:grapeshot_caseless createbigcannons:bag_of_grapeshot createbigcannons:nitropowder minecraft:crafting_shapeless
+cbc_at:munition/heavy_autocannon_munition/ha_ap_item | minecraft:crafting_shaped | c:ingots/cast_iron c:ingots/iron cbc_at:ha_ap_item minecraft:crafting_shaped minecraft:wooden_slabs
+cbc_at:munition/heavy_autocannon_munition/ha_apds_item | minecraft:crafting_shaped | c:ingots/cast_iron c:ingots/iron c:nuggets/iron cbc_at:ha_apds_item minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/ha_apdsfs_item | minecraft:crafting_shaped | c:ingots/cast_iron c:nuggets/cast_iron c:nuggets/iron cbc_at:ha_apdsfs_item minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/ha_fuzing | cbc_at:ha_munition_fuzing | cbc_at:ha_munition_fuzing
+cbc_at:munition/heavy_autocannon_munition/ha_he_item | minecraft:crafting_shaped | cbc_at:ha_he_item create:iron_sheet createbigcannons:packed_guncotton minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/ha_heat_item | minecraft:crafting_shaped | cbc_at:ha_heat_item create:iron_sheet createbigcannons:packed_guncotton minecraft:copper_ingot minecraft:crafting_shaped minecraft:gunpowder
+cbc_at:munition/heavy_autocannon_munition/ha_hef_item | minecraft:crafting_shaped | cbc_at:ha_hef_item create:iron_sheet createbigcannons:packed_guncotton createbigcannons:shot_balls minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/ha_munition_assembly | cbc_at:ha_munition_assembly | cbc_at:ha_munition_assembly
+cbc_at:munition/heavy_autocannon_munition/ha_smoke_item | minecraft:crafting_shaped | cbc_at:ha_smoke_item create:iron_sheet minecraft:crafting_shaped minecraft:hay_block
+cbc_at:munition/heavy_autocannon_munition/ha_tracer | cbc_at:ha_munition_tracer | cbc_at:ha_munition_tracer
+cbc_at:munition/heavy_autocannon_munition/ha_tracer_removal | cbc_at:ha_munition_tracer_removal | cbc_at:ha_munition_tracer_removal
+cbc_at:munition/heavy_autocannon_munition/ha_unfuzing | cbc_at:ha_munition_unfuzing | cbc_at:ha_munition_unfuzing
+cbc_at:munition/heavy_autocannon_munition/heavy_autocannon_ammo_box | minecraft:crafting_shaped | c:ingots/brass c:plates/iron cbc_at:heavy_autocannon_ammo_box minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/heavy_autocannon_empty_cartridge | minecraft:crafting_shaped | cbc_at:heavy_autocannon_empty_cartridge createbigcannons:inexpensive_big_cartridge_sheet minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/heavy_autocannon_munition_assembly | cbc_at:ha_munition_assembly | cbc_at:ha_munition_assembly
+cbc_at:munition/rocket/medium_rocket_assembly | cbc_at:medium_rocket_assembly | cbc_at:medium_rocket_assembly
+cbc_at:munition/rocket/rocket_assembly | cbc_at:rocket_assembly | cbc_at:rocket_assembly
+cbc_at:munition/rocket/rocket_fuzing | cbc_at:rocket_munition_fuzing | cbc_at:rocket_munition_fuzing
+cbc_at:cutting/autocannon_muzzle_brake_cast_mould | create:cutting | cbc_at:autocannon_muzzle_brake_mould create:cutting minecraft:logs
+cbc_at:cutting/autocannon_silencer_cast_mould | create:cutting | cbc_at:autocannon_silencer_mould create:cutting minecraft:logs
+cbc_at:cutting/fume_extractor_cast_mould | create:cutting | cbc_at:fume_extractor_cast_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_barrel_cast_mould | create:cutting | cbc_at:heavy_autocannon_barrel_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_breech_cast_mould | create:cutting | cbc_at:heavy_autocannon_breech_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_muzzle_brake_cast_mould | create:cutting | cbc_at:heavy_autocannon_muzzle_brake_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_qfbreech_cast_mould | create:cutting | cbc_at:heavy_autocannon_qfbreech_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_recoil_spring_cast_mould | create:cutting | cbc_at:heavy_autocannon_recoil_spring_mould create:cutting minecraft:logs
+cbc_at:cutting/heavy_autocannon_silencer_cast_mould | create:cutting | cbc_at:heavy_autocannon_silencer_mould create:cutting minecraft:logs
+cbc_at:cutting/muzzle_brake_cast_mould | create:cutting | cbc_at:muzzle_brake_cast_mould create:cutting minecraft:logs
+cbc_at:cutting/rifled_barrel_cast_mould | create:cutting | cbc_at:rifled_barrel_cast_mould create:cutting minecraft:logs
+cbc_at:cutting/silencer_cast_mould | create:cutting | cbc_at:silencer_cast_mould create:cutting minecraft:logs
+cbc_at:cutting/twin_autocannon_barrel_cast_mould | create:cutting | cbc_at:twin_autocannon_barrel_mould create:cutting minecraft:logs
+cbc_at:cutting/twin_autocannon_breech_cast_mould | create:cutting | cbc_at:twin_autocannon_breech_mould create:cutting minecraft:logs
+cbc_at:cutting/twin_autocannon_muzzle_brake_cast_mould | create:cutting | cbc_at:twin_autocannon_muzzle_brake_mould create:cutting minecraft:logs
+cbc_at:cutting/twin_autocannon_recoil_spring_cast_mould | create:cutting | cbc_at:twin_autocannon_recoil_spring_mould create:cutting minecraft:logs
+cbc_at:cutting/twin_autocannon_silencer_cast_mould | create:cutting | cbc_at:twin_autocannon_silencer_mould create:cutting minecraft:logs
+cbc_at:cutting/vert_twin_autocannon_barrel_cast_mould | create:cutting | cbc_at:vert_twin_autocannon_barrel_mould create:cutting minecraft:logs
+cbc_at:cutting/vert_twin_autocannon_breech_cast_mould | create:cutting | cbc_at:vert_twin_autocannon_breech_mould create:cutting minecraft:logs
+cbc_at:cutting/vert_twin_autocannon_muzzle_brake_cast_mould | create:cutting | cbc_at:vert_twin_autocannon_muzzle_brake_mould create:cutting minecraft:logs
+cbc_at:cutting/vert_twin_autocannon_recoil_spring_cast_mould | create:cutting | cbc_at:vert_twin_autocannon_recoil_spring_mould create:cutting minecraft:logs
+cbc_at:cutting/vert_twin_autocannon_silencer_cast_mould | create:cutting | cbc_at:vert_twin_autocannon_silencer_mould create:cutting minecraft:logs
+cbc_at:munition/autocannon/apds_item | minecraft:crafting_shaped | cbc_at:apds_item createbigcannons:ingot_cast_iron forge:nuggets/iron minecraft:crafting_shaped
+cbc_at:munition/autocannon/apdsfs_item | minecraft:crafting_shaped | cbc_at:apdsfs_item createbigcannons:ingot_cast_iron createbigcannons:nugget_cast_iron forge:nuggets/iron minecraft:crafting_shaped
+cbc_at:munition/autocannon/he_item | minecraft:crafting_shaped | cbc_at:he_item createbigcannons:gunpowder createbigcannons:sheet_iron minecraft:crafting_shaped
+cbc_at:munition/autocannon/hei_item | minecraft:crafting_shaped | cbc_at:hei_item createbigcannons:gunpowder createbigcannons:sheet_iron minecraft:blaze_powder minecraft:crafting_shaped
+cbc_at:munition/caseless_munition_assembly | createbigcannons:caseless_munition_assembly | createbigcannons:caseless_munition_assembly
+cbc_at:munition/cluster_munition_assembly | createbigcannons:cluster_munition_assembly | createbigcannons:cluster_munition_assembly
+cbc_at:munition/grapeshot_caseless | minecraft:crafting_shapeless | cbc_at:grapeshot_caseless createbigcannons:bag_of_grapeshot createbigcannons:nitropowder minecraft:crafting_shapeless
+cbc_at:munition/heavy_autocannon_munition/ha_ap_item | minecraft:crafting_shaped | cbc_at:ha_ap_item createbigcannons:ingot_cast_iron createbigcannons:ingot_iron minecraft:crafting_shaped minecraft:wooden_slabs
+cbc_at:munition/heavy_autocannon_munition/ha_apds_item | minecraft:crafting_shaped | cbc_at:ha_apds_item createbigcannons:ingot_cast_iron forge:ingots/iron forge:nuggets/iron minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/ha_apdsfs_item | minecraft:crafting_shaped | cbc_at:ha_apdsfs_item createbigcannons:ingot_cast_iron createbigcannons:nugget_cast_iron forge:nuggets/iron minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/ha_fuzing | createbigcannons:ha_munition_fuzing | createbigcannons:ha_munition_fuzing
+cbc_at:munition/heavy_autocannon_munition/ha_he_item | minecraft:crafting_shaped | cbc_at:ha_he_item create:iron_sheet createbigcannons:packed_guncotton minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/ha_heat_item | minecraft:crafting_shaped | cbc_at:ha_heat_item create:iron_sheet createbigcannons:packed_guncotton minecraft:copper_ingot minecraft:crafting_shaped minecraft:gunpowder
+cbc_at:munition/heavy_autocannon_munition/ha_hef_item | minecraft:crafting_shaped | cbc_at:ha_hef_item create:iron_sheet createbigcannons:packed_guncotton createbigcannons:shot_balls minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/ha_munition_assembly | createbigcannons:ha_munition_assembly | createbigcannons:ha_munition_assembly
+cbc_at:munition/heavy_autocannon_munition/ha_smoke_item | minecraft:crafting_shaped | cbc_at:ha_smoke_item create:iron_sheet minecraft:crafting_shaped minecraft:hay_block
+cbc_at:munition/heavy_autocannon_munition/ha_tracer | createbigcannons:ha_munition_tracer | createbigcannons:ha_munition_tracer
+cbc_at:munition/heavy_autocannon_munition/ha_tracer_removal | createbigcannons:ha_munition_tracer_removal | createbigcannons:ha_munition_tracer_removal
+cbc_at:munition/heavy_autocannon_munition/ha_unfuzing | createbigcannons:ha_munition_unfuzing | createbigcannons:ha_munition_unfuzing
+cbc_at:munition/heavy_autocannon_munition/heavy_autocannon_ammo_box | minecraft:crafting_shaped | cbc_at:heavy_autocannon_ammo_box createbigcannons:ingot_brass createbigcannons:sheet_iron minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/heavy_autocannon_empty_cartridge | minecraft:crafting_shaped | cbc_at:heavy_autocannon_empty_cartridge createbigcannons:inexpensive_big_cartridge_sheet minecraft:crafting_shaped
+cbc_at:munition/heavy_autocannon_munition/heavy_autocannon_munition_assembly | createbigcannons:ha_munition_assembly | createbigcannons:ha_munition_assembly

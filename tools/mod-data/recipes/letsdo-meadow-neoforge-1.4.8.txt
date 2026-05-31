@@ -1,0 +1,321 @@
+meadow:alpine_salt_from_blasting_alpine_salt_ore | minecraft:blasting | meadow:alpine_salt meadow:alpine_salt_ore minecraft:blasting
+meadow:alpine_salt_from_smelting_alpine_salt_ore | minecraft:smelting | meadow:alpine_salt meadow:alpine_salt_ore minecraft:smelting
+meadow:artisan_glass_window | minecraft:crafting_shaped | meadow:artisan_glass_window meadow:pine_planks minecraft:crafting_shaped minecraft:yellow_stained_glass
+meadow:artisan_glass_window_pane | minecraft:crafting_shaped | meadow:artisan_glass_window meadow:artisan_glass_window_pane minecraft:crafting_shaped
+meadow:banner_from_smithing_table | minecraft:smithing_transform | meadow:meadow_banner minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+meadow:blue_dye_from_enzian | minecraft:crafting_shapeless | meadow:enzian minecraft:blue_dye minecraft:crafting_shapeless
+meadow:blue_dye_from_eriophorum_tall | minecraft:crafting_shapeless | meadow:tall_eriophorum minecraft:blue_dye minecraft:crafting_shapeless
+meadow:buffalo_meat_from_campfire_cooking | minecraft:campfire_cooking | meadow:cooked_buffalo_meat meadow:raw_buffalo_meat minecraft:campfire_cooking
+meadow:buffalo_meat_from_smoking | minecraft:smoking | meadow:cooked_buffalo_meat meadow:raw_buffalo_meat minecraft:smoking
+meadow:camera | minecraft:crafting_shaped | meadow:camera minecraft:crafting_shaped minecraft:redstone_lamp minecraft:stick
+meadow:chambray_bed | minecraft:crafting_shaped | meadow:chambray_bed meadow:chambray_wool minecraft:crafting_shaped minecraft:planks
+meadow:chambray_carpet | minecraft:crafting_shaped | meadow:chambray_carpet meadow:chambray_wool minecraft:crafting_shaped
+meadow:cheese_form | minecraft:crafting_shaped | meadow:cheese_form minecraft:crafting_shaped minecraft:stick minecraft:wooden_slabs
+meadow:cheese_form/amethyst_cheese_wheel | meadow:cheese | meadow:amethyst_cheese_wheel meadow:cheese meadow:rennet meadow:wooden_amethyst_milk_bucket
+meadow:cheese_form/buffalo_cheese_wheel | meadow:cheese | meadow:buffalo_cheese_wheel meadow:cheese meadow:rennet meadow:wooden_buffalo_milk_bucket
+meadow:cheese_form/cheese_wheel | meadow:cheese | c:milks meadow:cheese meadow:cheese_wheel meadow:rennet
+meadow:cheese_form/goat_cheese_wheel | meadow:cheese | meadow:cheese meadow:goat_cheese_wheel meadow:rennet meadow:wooden_goat_milk_bucket
+meadow:cheese_form/grain_cheese_wheel | meadow:cheese | meadow:cheese meadow:grain_cheese_wheel meadow:rennet meadow:wooden_grain_milk_bucket
+meadow:cheese_form/sheep_cheese_wheel | meadow:cheese | meadow:cheese meadow:rennet meadow:sheep_cheese_wheel meadow:wooden_sheep_milk_bucket
+meadow:cheese_form/warped_cheese_wheel | meadow:cheese | meadow:cheese meadow:rennet meadow:warped_cheese_wheel meadow:wooden_warped_milk_bucket
+meadow:cheese_roll | minecraft:crafting_shaped | c:bread c:cheese meadow:cheese_roll minecraft:crafting_shaped
+meadow:cheese_sandwich | minecraft:crafting_shaped | c:bread c:cheese meadow:cheese_sandwich minecraft:crafting_shaped
+meadow:cheese_tart | minecraft:crafting_shaped | c:cheese c:eggs c:milk c:wheat meadow:cheese_tart minecraft:crafting_shaped
+meadow:cheese_tart_slice | minecraft:crafting_shapeless | meadow:cheese_tart meadow:cheese_tart_slice minecraft:crafting_shapeless
+meadow:cheesecake | minecraft:crafting_shaped | c:cheese c:eggs c:wheat meadow:cheesecake minecraft:crafting_shaped
+meadow:cheesecake_slice | minecraft:crafting_shapeless | meadow:cheesecake meadow:cheesecake_slice minecraft:crafting_shapeless
+meadow:chiseled_limestone | minecraft:crafting_shaped | meadow:chiseled_limestone meadow:limestone_brick_slab minecraft:crafting_shaped
+meadow:chiseled_limestone_from_limestone_bricks_stonecutting | minecraft:stonecutting | meadow:chiseled_limestone meadow:limestone_bricks minecraft:stonecutting
+meadow:chiseled_limestone_limestone_from_stonecutting | minecraft:stonecutting | meadow:chiseled_limestone meadow:limestone minecraft:stonecutting
+meadow:climbing_rope_topmount | minecraft:crafting_shaped | meadow:climbing_rope minecraft:crafting_shaped minecraft:iron_ingot minecraft:lead
+meadow:coal_from_blasting_alpine_coal_ore | minecraft:blasting | meadow:alpine_coal_ore minecraft:blasting minecraft:coal
+meadow:coal_from_smelting_alpine_coal_ore | minecraft:smelting | meadow:alpine_coal_ore minecraft:coal minecraft:smelting
+meadow:cobbled_limestone_slab | minecraft:crafting_shaped | meadow:cobbled_limestone meadow:cobbled_limestone_slab minecraft:crafting_shaped
+meadow:cobbled_limestone_slab_from_cobbled_limestone_stonecutting | minecraft:stonecutting | meadow:cobbled_limestone meadow:cobbled_limestone_slab minecraft:stonecutting
+meadow:cobbled_limestone_stairs | minecraft:crafting_shaped | meadow:cobbled_limestone meadow:cobbled_limestone_stairs minecraft:crafting_shaped
+meadow:cobbled_limestone_stairs_from_cobbled_limestone_stonecutting | minecraft:stonecutting | meadow:cobbled_limestone meadow:cobbled_limestone_stairs minecraft:stonecutting
+meadow:cobbled_limestone_wall | minecraft:crafting_shaped | meadow:cobbled_limestone meadow:cobbled_limestone_wall minecraft:crafting_shaped
+meadow:cobbled_limestone_wall_from_cobbled_limestone_stonecutting | minecraft:stonecutting | meadow:cobbled_limestone meadow:cobbled_limestone_wall minecraft:stonecutting
+meadow:cooking_frame | minecraft:crafting_shaped | meadow:cooking_frame minecraft:campfire minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+meadow:cooking_pot/alpine_salt_from_calcite | meadow:cooking | meadow:alpine_salt meadow:cooking minecraft:calcite
+meadow:cooking_pot/alpine_salt_from_limestone | meadow:cooking | meadow:alpine_salt meadow:cooking meadow:limestone
+meadow:cooking_pot/amethyst_milk | meadow:cooking | c:milks c:salts meadow:cooking meadow:wooden_amethyst_milk_bucket minecraft:amethyst_cluster
+meadow:cooking_pot/baked_potato | meadow:cooking | c:salts meadow:cooking minecraft:baked_potato minecraft:potato
+meadow:cooking_pot/beetroot_soup | meadow:cooking | meadow:cooking minecraft:beetroot minecraft:beetroot_soup minecraft:bowl
+meadow:cooking_pot/cooked_beef | meadow:cooking | c:salts meadow:cooking minecraft:beef minecraft:cooked_beef
+meadow:cooking_pot/cooked_buffalo_meat | meadow:cooking | c:salts meadow:cooked_buffalo_meat meadow:cooking meadow:raw_buffalo_meat
+meadow:cooking_pot/cooked_chicken | meadow:cooking | c:salts meadow:cooking minecraft:chicken minecraft:cooked_chicken
+meadow:cooking_pot/cooked_cod | meadow:cooking | c:salts meadow:cooking minecraft:cod minecraft:cooked_cod
+meadow:cooking_pot/cooked_mutton | meadow:cooking | c:salts meadow:cooking minecraft:cooked_mutton minecraft:mutton
+meadow:cooking_pot/cooked_porkchop | meadow:cooking | c:salts meadow:cooking minecraft:cooked_porkchop minecraft:porkchop
+meadow:cooking_pot/cooked_rabbit | meadow:cooking | c:salts meadow:cooking minecraft:cooked_rabbit minecraft:rabbit
+meadow:cooking_pot/cooked_salmon | meadow:cooking | c:salts meadow:cooking minecraft:cooked_salmon minecraft:salmon
+meadow:cooking_pot/grain_milk | meadow:cooking | c:wheat meadow:cooking meadow:wooden_bucket meadow:wooden_grain_milk_bucket
+meadow:cooking_pot/ham_cheese | meadow:cooking | c:cheese c:salts meadow:cooking meadow:raw_buffalo_meat meadow:sausage_with_cheese
+meadow:cooking_pot/leather | meadow:cooking | meadow:cooking minecraft:leather minecraft:rotten_flesh
+meadow:cooking_pot/rabbit_stew_from_cheese | meadow:cooking | c:cheese meadow:cooking minecraft:baked_potato minecraft:bowl minecraft:carrot minecraft:cooked_rabbit minecraft:rabbit_stew
+meadow:cooking_pot/rennet | meadow:cooking | c:eggs c:salts meadow:cooking meadow:rennet minecraft:glass_bottle
+meadow:cooking_pot/roasted_buffalo_ham | meadow:cooking | c:salts meadow:cooking meadow:raw_buffalo_meat meadow:roasted_buffalo_ham minecraft:carrot minecraft:potato
+meadow:cookpot | minecraft:crafting_shaped | meadow:cookpot minecraft:copper_ingot minecraft:crafting_shaped minecraft:iron_ingot
+meadow:copper_ingot_from_blasting_alpine_copper_ore | minecraft:blasting | meadow:alpine_copper_ore minecraft:blasting minecraft:copper_ingot
+meadow:copper_ingot_from_smelting_alpine_copper_ore | minecraft:smelting | meadow:alpine_copper_ore minecraft:copper_ingot minecraft:smelting
+meadow:cracked_limestone_bricks | minecraft:smelting | meadow:cracked_limestone_bricks meadow:limestone_bricks minecraft:smelting
+meadow:diamond_from_blasting_alpine_diamond_ore | minecraft:blasting | meadow:alpine_diamond_ore minecraft:blasting minecraft:diamond
+meadow:diamond_from_smelting_alpine_diamond_ore | minecraft:smelting | meadow:alpine_diamond_ore minecraft:diamond minecraft:smelting
+meadow:doormat | minecraft:crafting_shaped | c:wheat meadow:doormat minecraft:crafting_shaped
+meadow:emerald_from_blasting_alpine_emerald_ore | minecraft:blasting | meadow:alpine_emerald_ore minecraft:blasting minecraft:emerald
+meadow:emerald_from_smelting_alpine_emerald_ore | minecraft:smelting | meadow:alpine_emerald_ore minecraft:emerald minecraft:smelting
+meadow:felting/chambray_wool | meadow:felting | meadow:chambray_wool meadow:felting minecraft:blue_wool
+meadow:felting/jacquard_wool | meadow:felting | meadow:felting meadow:jacquard_wool minecraft:gray_wool
+meadow:felting/linen | meadow:felting | meadow:felting meadow:linen minecraft:light_gray_wool
+meadow:felting/plaid_wool | meadow:felting | meadow:felting meadow:plaid_wool minecraft:white_wool
+meadow:felting/rustic_wool | meadow:felting | meadow:felting meadow:rustic_wool minecraft:brown_wool
+meadow:felting/tweed_wool | meadow:felting | meadow:felting meadow:tweed_wool minecraft:black_wool
+meadow:felting/warped_wool | meadow:felting | meadow:felting meadow:warped_wool minecraft:cyan_wool
+meadow:felting_needle | minecraft:crafting_shaped | meadow:felting_needle minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+meadow:firewood | minecraft:crafting_shaped | meadow:firewood meadow:pine_log minecraft:crafting_shaped
+meadow:fondue_pot | minecraft:crafting_shaped | meadow:fondue_pot minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+meadow:fur_boots | minecraft:crafting_shaped | meadow:fur_boots minecraft:crafting_shaped minecraft:leather minecraft:rabbit_hide
+meadow:fur_chestplate | minecraft:crafting_shaped | meadow:fur_chestplate minecraft:crafting_shaped minecraft:feather minecraft:leather minecraft:rabbit_hide
+meadow:fur_helmet | minecraft:crafting_shaped | meadow:fur_helmet minecraft:crafting_shaped minecraft:feather minecraft:leather minecraft:rabbit_hide
+meadow:fur_leggings | minecraft:crafting_shaped | meadow:fur_leggings minecraft:crafting_shaped minecraft:leather minecraft:rabbit_hide
+meadow:gold_ingot_from_blasting_alpine_gold_ore | minecraft:blasting | meadow:alpine_gold_ore minecraft:blasting minecraft:gold_ingot
+meadow:gold_ingot_from_smelting_alpine_gold_ore | minecraft:smelting | meadow:alpine_gold_ore minecraft:gold_ingot minecraft:smelting
+meadow:green_dye_from_small_fir | minecraft:crafting_shapeless | meadow:small_fir minecraft:crafting_shapeless minecraft:green_dye
+meadow:iron_ingot_from_blasting_alpine_iron_ore | minecraft:blasting | meadow:alpine_iron_ore minecraft:blasting minecraft:iron_ingot
+meadow:iron_ingot_from_smelting_alpine_iron_ore | minecraft:smelting | meadow:alpine_iron_ore minecraft:iron_ingot minecraft:smelting
+meadow:jacquard_bed | minecraft:crafting_shaped | meadow:jacquard_bed meadow:jacquard_wool minecraft:crafting_shaped minecraft:planks
+meadow:jacquard_carpet | minecraft:crafting_shaped | meadow:jacquard_carpet meadow:jacquard_wool minecraft:crafting_shaped
+meadow:lapis_lazuli_from_blasting_alpine_lapis_ore | minecraft:blasting | meadow:alpine_lapis_ore minecraft:blasting minecraft:lapis_lazuli
+meadow:lapis_lazuli_from_smelting_alpine_lapis_ore | minecraft:smelting | meadow:alpine_lapis_ore minecraft:lapis_lazuli minecraft:smelting
+meadow:limestone | minecraft:smelting | meadow:cobbled_limestone meadow:limestone minecraft:smelting
+meadow:limestone_brick_slab | minecraft:crafting_shaped | meadow:limestone_brick_slab meadow:limestone_bricks minecraft:crafting_shaped
+meadow:limestone_brick_slab_from_limestone_bricks_stonecutting | minecraft:stonecutting | meadow:limestone_brick_slab meadow:limestone_bricks minecraft:stonecutting
+meadow:limestone_brick_slab_from_limestone_stonecutting | minecraft:stonecutting | meadow:limestone meadow:limestone_brick_slab minecraft:stonecutting
+meadow:limestone_brick_stairs | minecraft:crafting_shaped | meadow:limestone_brick_stairs meadow:limestone_bricks minecraft:crafting_shaped
+meadow:limestone_brick_stairs_from_limestone_bricks_stonecutting | minecraft:stonecutting | meadow:limestone_brick_stairs meadow:limestone_bricks minecraft:stonecutting
+meadow:limestone_brick_stairs_from_limestone_stonecutting | minecraft:stonecutting | meadow:limestone meadow:limestone_brick_stairs minecraft:stonecutting
+meadow:limestone_brick_wall | minecraft:crafting_shaped | meadow:limestone_brick_wall meadow:limestone_bricks minecraft:crafting_shaped
+meadow:limestone_brick_wall_from_limestone_bricks_stonecutting | minecraft:stonecutting | meadow:limestone_brick_wall meadow:limestone_bricks minecraft:stonecutting
+meadow:limestone_brick_walls_from_limestone_stonecutting | minecraft:stonecutting | meadow:limestone meadow:limestone_brick_wall minecraft:stonecutting
+meadow:limestone_bricks | minecraft:crafting_shaped | meadow:limestone meadow:limestone_bricks minecraft:crafting_shaped
+meadow:limestone_bricks_from_limestone_stonecutting | minecraft:stonecutting | meadow:limestone meadow:limestone_brick_wall minecraft:stonecutting
+meadow:limestone_bricks_stairs | minecraft:stonecutting | meadow:limestone meadow:limestone_brick_stairs minecraft:stonecutting
+meadow:limestone_slab | minecraft:crafting_shaped | meadow:limestone meadow:limestone_slab minecraft:crafting_shaped
+meadow:limestone_slab_from_limestone_stonecutting | minecraft:stonecutting | meadow:limestone meadow:limestone_slab minecraft:stonecutting
+meadow:limestone_stairs | minecraft:crafting_shaped | meadow:limestone meadow:limestone_stairs minecraft:crafting_shaped
+meadow:limestone_stairs_from_limestone_stonecutting | minecraft:stonecutting | meadow:limestone meadow:limestone_stairs minecraft:stonecutting
+meadow:limestone_wall | minecraft:crafting_shaped | meadow:limestone meadow:limestone_wall minecraft:crafting_shaped
+meadow:limestone_wall_from_limestone_stonecutting | minecraft:stonecutting | meadow:limestone meadow:limestone_stairs minecraft:stonecutting
+meadow:linen_bed | minecraft:crafting_shaped | meadow:linen meadow:linen_bed minecraft:crafting_shaped minecraft:planks
+meadow:linen_carpet | minecraft:crafting_shaped | meadow:linen meadow:linen_carpet minecraft:crafting_shaped
+meadow:milk_can | minecraft:crafting_shaped | meadow:milk_can minecraft:crafting_shaped minecraft:iron_ingot
+meadow:mossy_cobbled_limestone_from_moss_block | minecraft:crafting_shapeless | meadow:cobbled_limestone meadow:mossy_cobbled_limestone minecraft:crafting_shapeless minecraft:moss_block
+meadow:mossy_cobbled_limestone_from_vine | minecraft:crafting_shapeless | meadow:cobbled_limestone meadow:mossy_cobbled_limestone minecraft:crafting_shapeless minecraft:vine
+meadow:mossy_cobbled_limestone_slab | minecraft:crafting_shaped | meadow:mossy_cobbled_limestone meadow:mossy_cobbled_limestone_slab minecraft:crafting_shaped
+meadow:mossy_cobbled_limestone_slab_from_mossy_cobbled_limestone_stonecutting | minecraft:stonecutting | meadow:mossy_cobbled_limestone meadow:mossy_cobbled_limestone_slab minecraft:stonecutting
+meadow:mossy_cobbled_limestone_stairs | minecraft:crafting_shaped | meadow:mossy_cobbled_limestone meadow:mossy_cobbled_limestone_stairs minecraft:crafting_shaped
+meadow:mossy_cobbled_limestone_stairs_from_mossy_cobbled_limestone_stonecutting | minecraft:stonecutting | meadow:mossy_cobbled_limestone meadow:mossy_cobbled_limestone_stairs minecraft:stonecutting
+meadow:mossy_cobbled_limestone_wall | minecraft:crafting_shaped | meadow:mossy_cobbled_limestone meadow:mossy_cobbled_limestone_wall minecraft:crafting_shaped
+meadow:mossy_cobbled_limestone_wall_from_mossy_cobbled_limestone_stonecutting | minecraft:stonecutting | meadow:mossy_cobbled_limestone meadow:mossy_cobbled_limestone_stairs minecraft:stonecutting
+meadow:mossy_limestone_brick_slab | minecraft:crafting_shaped | meadow:mossy_limestone_brick_slab meadow:mossy_limestone_bricks minecraft:crafting_shaped
+meadow:mossy_limestone_brick_slab_from_mossy_limestone_brick_stonecutting | minecraft:stonecutting | meadow:mossy_limestone_brick_slab meadow:mossy_limestone_bricks minecraft:stonecutting
+meadow:mossy_limestone_brick_stairs | minecraft:crafting_shaped | meadow:mossy_limestone_brick_stairs meadow:mossy_limestone_bricks minecraft:crafting_shaped
+meadow:mossy_limestone_brick_stairs_from_mossy_limestone_brick_stonecutting | minecraft:stonecutting | meadow:mossy_limestone_brick_stairs meadow:mossy_limestone_bricks minecraft:stonecutting
+meadow:mossy_limestone_brick_wall | minecraft:crafting_shaped | meadow:mossy_limestone_brick_wall meadow:mossy_limestone_bricks minecraft:crafting_shaped
+meadow:mossy_limestone_brick_wall_from_mossy_limestone_brick_stonecutting | minecraft:stonecutting | meadow:mossy_limestone_brick_stairs meadow:mossy_limestone_bricks minecraft:stonecutting
+meadow:mossy_limestone_bricks_from_moss_block | minecraft:crafting_shapeless | meadow:limestone_bricks meadow:mossy_limestone_bricks minecraft:crafting_shapeless minecraft:moss_block
+meadow:mossy_limestone_bricks_from_vine | minecraft:crafting_shapeless | meadow:limestone_bricks meadow:mossy_limestone_bricks minecraft:crafting_shapeless minecraft:vine
+meadow:oil_lantern | minecraft:crafting_shaped | meadow:oil_lantern minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_nugget minecraft:torch
+meadow:orange_dye_from_fire_lily | minecraft:crafting_shapeless | meadow:fire_lily minecraft:crafting_shapeless minecraft:yellow_dye
+meadow:ornate_glass_window | minecraft:crafting_shaped | meadow:ornate_glass_window meadow:pine_planks minecraft:crafting_shaped minecraft:red_stained_glass
+meadow:ornate_glass_window_pane | minecraft:crafting_shaped | meadow:ornate_glass_window meadow:ornate_glass_window_pane minecraft:crafting_shaped
+meadow:piece_of_buffalo_cheese | minecraft:crafting_shapeless | meadow:buffalo_cheese_slice meadow:buffalo_cheese_wheel minecraft:crafting_shapeless
+meadow:piece_of_cheese | minecraft:crafting_shapeless | meadow:cheese_slice meadow:cheese_wheel minecraft:crafting_shapeless
+meadow:piece_of_goat_cheese | minecraft:crafting_shapeless | meadow:goat_cheese_slice meadow:goat_cheese_wheel minecraft:crafting_shapeless
+meadow:piece_of_lavender_cheese | minecraft:crafting_shapeless | meadow:amethyst_cheese_slice meadow:amethyst_cheese_wheel minecraft:crafting_shapeless
+meadow:piece_of_oat_cheese | minecraft:crafting_shapeless | meadow:grain_cheese_slice meadow:grain_cheese_wheel minecraft:crafting_shapeless
+meadow:piece_of_sheep_cheese | minecraft:crafting_shapeless | meadow:sheep_cheese_slice meadow:sheep_cheese_wheel minecraft:crafting_shapeless
+meadow:pine_beam | minecraft:crafting_shaped | meadow:pine_beam meadow:pine_log minecraft:crafting_shaped
+meadow:pine_bench | minecraft:crafting_shaped | meadow:pine_bench meadow:pine_slab minecraft:crafting_shaped minecraft:stick
+meadow:pine_boat | minecraft:crafting_shaped | meadow:pine_boat meadow:pine_planks minecraft:crafting_shaped
+meadow:pine_button | minecraft:crafting_shapeless | meadow:pine_button meadow:pine_planks minecraft:crafting_shapeless
+meadow:pine_cabinet | minecraft:crafting_shaped | meadow:pine_cabinet meadow:pine_planks meadow:pine_slab minecraft:crafting_shaped
+meadow:pine_chair | minecraft:crafting_shaped | meadow:pine_chair meadow:pine_slab minecraft:crafting_shaped minecraft:stick
+meadow:pine_cheese_rack | minecraft:crafting_shaped | meadow:pine_cheese_rack meadow:pine_planks meadow:pine_slab minecraft:crafting_shaped
+meadow:pine_chest_boat | minecraft:crafting_shapeless | meadow:pine_boat meadow:pine_chest_boat minecraft:chest minecraft:crafting_shapeless
+meadow:pine_door | minecraft:crafting_shaped | meadow:pine_door meadow:pine_planks minecraft:crafting_shaped
+meadow:pine_dresser | minecraft:crafting_shapeless | meadow:pine_cabinet meadow:pine_dresser meadow:pine_table minecraft:crafting_shapeless
+meadow:pine_fence | minecraft:crafting_shaped | meadow:pine_fence meadow:pine_planks minecraft:crafting_shaped minecraft:stick
+meadow:pine_fence_gate | minecraft:crafting_shaped | meadow:pine_fence_gate meadow:pine_planks minecraft:crafting_shaped minecraft:stick
+meadow:pine_hanging_sign | minecraft:crafting_shaped | meadow:pine_hanging_sign meadow:stripped_pine_log minecraft:chain minecraft:crafting_shaped
+meadow:pine_planks | minecraft:crafting_shapeless | meadow:pine_logs meadow:pine_planks minecraft:crafting_shapeless
+meadow:pine_pressure_plate | minecraft:crafting_shaped | meadow:pine_planks meadow:pine_pressure_plate minecraft:crafting_shaped
+meadow:pine_railing | minecraft:crafting_shaped | meadow:pine_planks meadow:pine_railing meadow:pine_slab minecraft:crafting_shaped
+meadow:pine_shutter | minecraft:crafting_shaped | meadow:pine_shutter meadow:pine_slab minecraft:crafting_shaped
+meadow:pine_sign | minecraft:crafting_shaped | meadow:pine_planks meadow:pine_sign minecraft:crafting_shaped minecraft:stick
+meadow:pine_slab | minecraft:crafting_shaped | meadow:pine_planks meadow:pine_slab minecraft:crafting_shaped
+meadow:pine_sofa_chambray | minecraft:crafting_shaped | meadow:chambray_wool meadow:pine_planks meadow:pine_sofa_chambray minecraft:crafting_shaped
+meadow:pine_sofa_jacquard | minecraft:crafting_shaped | meadow:jacquard_wool meadow:pine_planks meadow:pine_sofa_jacquard minecraft:crafting_shaped
+meadow:pine_sofa_linen | minecraft:crafting_shaped | meadow:linen meadow:pine_planks meadow:pine_sofa_linen minecraft:crafting_shaped
+meadow:pine_sofa_plaid | minecraft:crafting_shaped | meadow:pine_planks meadow:pine_sofa_plaid meadow:plaid_wool minecraft:crafting_shaped
+meadow:pine_sofa_rustic | minecraft:crafting_shaped | meadow:pine_planks meadow:pine_sofa_rustic meadow:rustic_wool minecraft:crafting_shaped
+meadow:pine_sofa_tweed | minecraft:crafting_shaped | meadow:pine_planks meadow:pine_sofa_tweed meadow:tweed_wool minecraft:crafting_shaped
+meadow:pine_sofa_warped | minecraft:crafting_shaped | meadow:pine_planks meadow:pine_sofa_warped meadow:warped_wool minecraft:crafting_shaped
+meadow:pine_stairs | minecraft:crafting_shaped | meadow:pine_planks meadow:pine_stairs minecraft:crafting_shaped
+meadow:pine_table | minecraft:crafting_shaped | meadow:pine_slab meadow:pine_table minecraft:crafting_shaped minecraft:stick
+meadow:pine_trapdoor | minecraft:crafting_shaped | meadow:pine_planks meadow:pine_trapdoor minecraft:crafting_shaped
+meadow:pine_wall_cabinet | minecraft:crafting_shapeless | meadow:pine_cabinet meadow:pine_wall_cabinet minecraft:crafting_shapeless
+meadow:pine_wardrobe | minecraft:crafting_shapeless | meadow:pine_cabinet meadow:pine_wardrobe minecraft:crafting_shapeless
+meadow:pine_window | minecraft:crafting_shaped | meadow:pine_planks meadow:pine_window minecraft:crafting_shaped minecraft:glass
+meadow:pine_window_pane | minecraft:crafting_shaped | meadow:pine_window meadow:pine_window_pane minecraft:crafting_shaped
+meadow:pine_wood | minecraft:crafting_shaped | meadow:pine_log meadow:pine_wood minecraft:crafting_shaped
+meadow:pink_dye_from_delphinium | minecraft:crafting_shapeless | meadow:delphinium minecraft:crafting_shapeless minecraft:pink_dye
+meadow:pink_dye_from_saxifrage | minecraft:crafting_shapeless | meadow:saxifrage minecraft:crafting_shapeless minecraft:pink_dye
+meadow:plaid_bed | minecraft:crafting_shaped | meadow:plaid_bed meadow:plaid_wool minecraft:crafting_shaped minecraft:planks
+meadow:plaid_carpet | minecraft:crafting_shaped | meadow:plaid_carpet meadow:plaid_wool minecraft:crafting_shaped
+meadow:polished_limestone | minecraft:smelting | meadow:chiseled_limestone meadow:polished_limestone minecraft:smelting
+meadow:polished_limestone_from_limestone_stonecutting | minecraft:stonecutting | meadow:limestone meadow:polished_limestone minecraft:stonecutting
+meadow:redstone_from_blasting_alpine_redstone_ore | minecraft:blasting | meadow:alpine_redstone_ore minecraft:blasting minecraft:redstone
+meadow:redstone_from_smelting_alpine_redstone_ore | minecraft:smelting | meadow:alpine_redstone_ore minecraft:redstone minecraft:smelting
+meadow:rustic_bed | minecraft:crafting_shaped | meadow:rustic_bed meadow:rustic_wool minecraft:crafting_shaped minecraft:planks
+meadow:rustic_carpet | minecraft:crafting_shaped | meadow:rustic_carpet meadow:rustic_wool minecraft:crafting_shaped
+meadow:stone_bench | minecraft:crafting_shaped | meadow:polished_limestone meadow:stone_bench minecraft:crafting_shaped
+meadow:stone_table | minecraft:crafting_shaped | meadow:limestone_slab meadow:polished_limestone meadow:stone_table minecraft:crafting_shaped
+meadow:stove_tiles | minecraft:crafting_shaped | meadow:limestone_bricks meadow:stove_tiles minecraft:crafting_shaped minecraft:iron_ingot
+meadow:stove_tiles_bench | minecraft:crafting_shaped | meadow:limestone_bricks meadow:stove_tiles_bench minecraft:crafting_shaped minecraft:iron_ingot
+meadow:stove_tiles_lid | minecraft:crafting_shaped | meadow:limestone_bricks meadow:stove_tiles_lid minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_trapdoor
+meadow:stove_tiles_wood | minecraft:crafting_shaped | meadow:firewood meadow:limestone_bricks meadow:stove_tiles_wood minecraft:crafting_shaped minecraft:iron_ingot
+meadow:straw_bed | minecraft:crafting_shaped | c:wheat meadow:straw_bed minecraft:crafting_shaped minecraft:planks
+meadow:stripped_pine_wood | minecraft:crafting_shaped | meadow:stripped_pine_log meadow:stripped_pine_wood minecraft:crafting_shaped
+meadow:tweed_bed | minecraft:crafting_shaped | meadow:tweed_bed meadow:tweed_wool minecraft:crafting_shaped minecraft:planks
+meadow:tweed_carpet | minecraft:crafting_shaped | meadow:tweed_carpet meadow:tweed_wool minecraft:crafting_shaped
+meadow:warped_bed | minecraft:crafting_shaped | meadow:warped_bed meadow:warped_wool minecraft:crafting_shaped minecraft:planks
+meadow:warped_carpet | minecraft:crafting_shaped | meadow:warped_carpet meadow:warped_wool minecraft:crafting_shaped
+meadow:warped_cheese_slice | minecraft:crafting_shapeless | meadow:warped_cheese_slice meadow:warped_cheese_wheel minecraft:crafting_shapeless
+meadow:watering_can | minecraft:crafting_shaped | meadow:watering_can meadow:wooden_water_bucket minecraft:crafting_shaped minecraft:planks
+meadow:wheelbarrow | minecraft:crafting_shaped | meadow:polished_limestone meadow:wheelbarrow meadow:wooden_cauldron minecraft:crafting_shaped minecraft:stick
+meadow:white_dye_from_eriophorum | minecraft:crafting_shapeless | meadow:eriophorum minecraft:crafting_shapeless minecraft:white_dye
+meadow:wood_cutter/acacia/acacia_button_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:acacia_button minecraft:acacia_logs
+meadow:wood_cutter/acacia/acacia_door_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:acacia_door minecraft:acacia_logs
+meadow:wood_cutter/acacia/acacia_fence_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:acacia_fence minecraft:acacia_logs
+meadow:wood_cutter/acacia/acacia_fencegate_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:acacia_fence_gate minecraft:acacia_logs
+meadow:wood_cutter/acacia/acacia_planks_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:acacia_logs minecraft:acacia_planks
+meadow:wood_cutter/acacia/acacia_pp_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:acacia_logs minecraft:acacia_pressure_plate
+meadow:wood_cutter/acacia/acacia_sign_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:acacia_logs minecraft:acacia_sign
+meadow:wood_cutter/acacia/acacia_slabs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:acacia_logs minecraft:acacia_slab
+meadow:wood_cutter/acacia/acacia_stairs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:acacia_logs minecraft:acacia_stairs
+meadow:wood_cutter/acacia/acacia_trapdoor_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:acacia_logs minecraft:acacia_trapdoor
+meadow:wood_cutter/birch/birch_button_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:birch_button minecraft:birch_logs
+meadow:wood_cutter/birch/birch_door_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:birch_door minecraft:birch_logs
+meadow:wood_cutter/birch/birch_fence_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:birch_fence minecraft:birch_logs
+meadow:wood_cutter/birch/birch_fencegate_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:birch_fence_gate minecraft:birch_logs
+meadow:wood_cutter/birch/birch_planks_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:birch_logs minecraft:birch_planks
+meadow:wood_cutter/birch/birch_pp_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:birch_logs minecraft:birch_pressure_plate
+meadow:wood_cutter/birch/birch_sign_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:birch_logs minecraft:birch_sign
+meadow:wood_cutter/birch/birch_slabs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:birch_logs minecraft:birch_slab
+meadow:wood_cutter/birch/birch_stairs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:birch_logs minecraft:birch_stairs
+meadow:wood_cutter/birch/birch_trapdoor_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:birch_logs minecraft:birch_trapdoor
+meadow:wood_cutter/cherry/cherry_button_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:cherry_button minecraft:cherry_logs
+meadow:wood_cutter/cherry/cherry_door_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:cherry_door minecraft:cherry_logs
+meadow:wood_cutter/cherry/cherry_fence_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:cherry_fence minecraft:cherry_logs
+meadow:wood_cutter/cherry/cherry_fencegate_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:cherry_fence_gate minecraft:cherry_logs
+meadow:wood_cutter/cherry/cherry_planks_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:cherry_logs minecraft:cherry_planks
+meadow:wood_cutter/cherry/cherry_pp_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:cherry_logs minecraft:cherry_pressure_plate
+meadow:wood_cutter/cherry/cherry_sign_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:cherry_logs minecraft:cherry_sign
+meadow:wood_cutter/cherry/cherry_slabs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:cherry_logs minecraft:cherry_slab
+meadow:wood_cutter/cherry/cherry_stairs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:cherry_logs minecraft:cherry_stairs
+meadow:wood_cutter/cherry/cherry_trapdoor_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:cherry_logs minecraft:cherry_trapdoor
+meadow:wood_cutter/crimson/crimson_hyphae_button_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:crimson_button minecraft:crimson_stems
+meadow:wood_cutter/crimson/crimson_hyphae_door_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:crimson_door minecraft:crimson_stems
+meadow:wood_cutter/crimson/crimson_hyphae_fence_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:crimson_fence minecraft:crimson_stems
+meadow:wood_cutter/crimson/crimson_hyphae_fencegate_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:crimson_fence_gate minecraft:crimson_stems
+meadow:wood_cutter/crimson/crimson_hyphae_planks_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:crimson_planks minecraft:crimson_stems
+meadow:wood_cutter/crimson/crimson_hyphae_pp_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:crimson_pressure_plate minecraft:crimson_stems
+meadow:wood_cutter/crimson/crimson_hyphae_sign_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:crimson_sign minecraft:crimson_stems
+meadow:wood_cutter/crimson/crimson_hyphae_slabs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:crimson_slab minecraft:crimson_stems
+meadow:wood_cutter/crimson/crimson_hyphae_stairs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:crimson_stairs minecraft:crimson_stems
+meadow:wood_cutter/crimson/crimson_hyphae_trapdoor_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:crimson_stems minecraft:crimson_trapdoor
+meadow:wood_cutter/dark_oak/dark_oak_button_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:dark_oak_button minecraft:dark_oak_logs
+meadow:wood_cutter/dark_oak/dark_oak_door_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:dark_oak_door minecraft:dark_oak_logs
+meadow:wood_cutter/dark_oak/dark_oak_fence_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:dark_oak_fence minecraft:dark_oak_logs
+meadow:wood_cutter/dark_oak/dark_oak_fencegate_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:dark_oak_fence_gate minecraft:dark_oak_logs
+meadow:wood_cutter/dark_oak/dark_oak_planks_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:dark_oak_logs minecraft:dark_oak_planks
+meadow:wood_cutter/dark_oak/dark_oak_pp_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:dark_oak_logs minecraft:dark_oak_pressure_plate
+meadow:wood_cutter/dark_oak/dark_oak_sign_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:dark_oak_logs minecraft:dark_oak_sign
+meadow:wood_cutter/dark_oak/dark_oak_slabs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:dark_oak_logs minecraft:dark_oak_slab
+meadow:wood_cutter/dark_oak/dark_oak_stairs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:dark_oak_logs minecraft:dark_oak_stairs
+meadow:wood_cutter/dark_oak/dark_oak_trapdoor_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:dark_oak_logs minecraft:dark_oak_trapdoor
+meadow:wood_cutter/jungle/jungle_button_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:jungle_button minecraft:jungle_logs
+meadow:wood_cutter/jungle/jungle_door_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:jungle_door minecraft:jungle_logs
+meadow:wood_cutter/jungle/jungle_fence_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:jungle_fence minecraft:jungle_logs
+meadow:wood_cutter/jungle/jungle_fencegate_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:jungle_fence_gate minecraft:jungle_logs
+meadow:wood_cutter/jungle/jungle_planks_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:jungle_logs minecraft:jungle_planks
+meadow:wood_cutter/jungle/jungle_pp_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:jungle_logs minecraft:jungle_pressure_plate
+meadow:wood_cutter/jungle/jungle_sign_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:jungle_logs minecraft:jungle_sign
+meadow:wood_cutter/jungle/jungle_slabs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:jungle_logs minecraft:jungle_slab
+meadow:wood_cutter/jungle/jungle_stairs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:jungle_logs minecraft:jungle_stairs
+meadow:wood_cutter/jungle/jungle_trapdoor_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:jungle_logs minecraft:jungle_trapdoor
+meadow:wood_cutter/mangrove/mangrove_button_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:mangrove_button minecraft:mangrove_logs
+meadow:wood_cutter/mangrove/mangrove_door_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:mangrove_door minecraft:mangrove_logs
+meadow:wood_cutter/mangrove/mangrove_fence_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:mangrove_fence minecraft:mangrove_logs
+meadow:wood_cutter/mangrove/mangrove_fencegate_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:mangrove_fence_gate minecraft:mangrove_logs
+meadow:wood_cutter/mangrove/mangrove_planks_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:mangrove_logs minecraft:mangrove_planks
+meadow:wood_cutter/mangrove/mangrove_pp_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:mangrove_logs minecraft:mangrove_pressure_plate
+meadow:wood_cutter/mangrove/mangrove_sign_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:mangrove_logs minecraft:mangrove_sign
+meadow:wood_cutter/mangrove/mangrove_slabs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:mangrove_logs minecraft:mangrove_slab
+meadow:wood_cutter/mangrove/mangrove_stairs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:mangrove_logs minecraft:mangrove_stairs
+meadow:wood_cutter/mangrove/mangrove_trapdoor_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:mangrove_logs minecraft:mangrove_trapdoor
+meadow:wood_cutter/oak/oak_button_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:oak_button minecraft:oak_logs
+meadow:wood_cutter/oak/oak_door_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:oak_door minecraft:oak_logs
+meadow:wood_cutter/oak/oak_fence_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:oak_fence minecraft:oak_logs
+meadow:wood_cutter/oak/oak_fencegate_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:oak_fence_gate minecraft:oak_logs
+meadow:wood_cutter/oak/oak_planks_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:oak_logs minecraft:oak_planks
+meadow:wood_cutter/oak/oak_pp_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:oak_logs minecraft:oak_pressure_plate
+meadow:wood_cutter/oak/oak_sign_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:oak_logs minecraft:oak_sign
+meadow:wood_cutter/oak/oak_slabs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:oak_logs minecraft:oak_slab
+meadow:wood_cutter/oak/oak_stairs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:oak_logs minecraft:oak_stairs
+meadow:wood_cutter/oak/oak_trapdoor_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:oak_logs minecraft:oak_trapdoor
+meadow:wood_cutter/pine/pine_beam_woodcutter | meadow:woodcutting | meadow:pine_beam meadow:pine_logs meadow:woodcutting
+meadow:wood_cutter/pine/pine_button_woodcutter | meadow:woodcutting | meadow:pine_button meadow:pine_logs meadow:woodcutting
+meadow:wood_cutter/pine/pine_door_woodcutter | meadow:woodcutting | meadow:pine_door meadow:pine_logs meadow:woodcutting
+meadow:wood_cutter/pine/pine_fence_woodcutter | meadow:woodcutting | meadow:pine_fence meadow:pine_logs meadow:woodcutting
+meadow:wood_cutter/pine/pine_fencegate_woodcutter | meadow:woodcutting | meadow:pine_fence_gate meadow:pine_logs meadow:woodcutting
+meadow:wood_cutter/pine/pine_planks_woodcutter | meadow:woodcutting | meadow:pine_logs meadow:pine_planks meadow:woodcutting
+meadow:wood_cutter/pine/pine_pp_woodcutter | meadow:woodcutting | meadow:pine_logs meadow:pine_pressure_plate meadow:woodcutting
+meadow:wood_cutter/pine/pine_railing_woodcutter | meadow:woodcutting | meadow:pine_logs meadow:pine_railing meadow:woodcutting
+meadow:wood_cutter/pine/pine_slabs_woodcutter | meadow:woodcutting | meadow:pine_logs meadow:pine_slab meadow:woodcutting
+meadow:wood_cutter/pine/pine_stairs_woodcutter | meadow:woodcutting | meadow:pine_logs meadow:pine_stairs meadow:woodcutting
+meadow:wood_cutter/pine/pine_trapdoor_woodcutter | meadow:woodcutting | meadow:pine_logs meadow:pine_trapdoor meadow:woodcutting
+meadow:wood_cutter/reclaimed_pine/reclaimed_pine_door_woodcutter | meadow:woodcutting | meadow:reclaimed_pine_door meadow:reclaimed_pine_planks meadow:woodcutting
+meadow:wood_cutter/reclaimed_pine/reclaimed_pine_planks_woodcutter | meadow:woodcutting | meadow:pine_planks meadow:reclaimed_pine_planks meadow:woodcutting
+meadow:wood_cutter/reclaimed_pine/reclaimed_pine_slabs_woodcutter | meadow:woodcutting | meadow:reclaimed_pine_planks meadow:reclaimed_pine_slab meadow:woodcutting
+meadow:wood_cutter/reclaimed_pine/reclaimed_pine_stairs_woodcutter | meadow:woodcutting | meadow:reclaimed_pine_planks meadow:reclaimed_pine_stairs meadow:woodcutting
+meadow:wood_cutter/reclaimed_pine/reclaimed_pine_trapdoor_woodcutter | meadow:woodcutting | meadow:reclaimed_pine_planks meadow:reclaimed_pine_trapdoor meadow:woodcutting
+meadow:wood_cutter/spruce/spruce_button_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:spruce_button minecraft:spruce_logs
+meadow:wood_cutter/spruce/spruce_door_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:spruce_door minecraft:spruce_logs
+meadow:wood_cutter/spruce/spruce_fence_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:spruce_fence minecraft:spruce_logs
+meadow:wood_cutter/spruce/spruce_fencegate_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:spruce_fence_gate minecraft:spruce_logs
+meadow:wood_cutter/spruce/spruce_planks_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:spruce_logs minecraft:spruce_planks
+meadow:wood_cutter/spruce/spruce_pp_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:spruce_logs minecraft:spruce_pressure_plate
+meadow:wood_cutter/spruce/spruce_sign_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:spruce_logs minecraft:spruce_sign
+meadow:wood_cutter/spruce/spruce_slabs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:spruce_logs minecraft:spruce_slab
+meadow:wood_cutter/spruce/spruce_stairs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:spruce_logs minecraft:spruce_stairs
+meadow:wood_cutter/spruce/spruce_trapdoor_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:spruce_logs minecraft:spruce_trapdoor
+meadow:wood_cutter/warped/warped_button_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:warped_button minecraft:warped_stems
+meadow:wood_cutter/warped/warped_door_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:warped_door minecraft:warped_stems
+meadow:wood_cutter/warped/warped_fence_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:warped_fence minecraft:warped_stems
+meadow:wood_cutter/warped/warped_fencegate_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:warped_fence_gate minecraft:warped_stems
+meadow:wood_cutter/warped/warped_planks_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:warped_planks minecraft:warped_stems
+meadow:wood_cutter/warped/warped_pp_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:warped_pressure_plate minecraft:warped_stems
+meadow:wood_cutter/warped/warped_sign_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:warped_sign minecraft:warped_stems
+meadow:wood_cutter/warped/warped_slabs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:warped_slab minecraft:warped_stems
+meadow:wood_cutter/warped/warped_stairs_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:warped_stairs minecraft:warped_stems
+meadow:wood_cutter/warped/warped_trapdoor_woodcutter | meadow:woodcutting | meadow:woodcutting minecraft:warped_stems minecraft:warped_trapdoor
+meadow:woodcutter | minecraft:crafting_shaped | meadow:woodcutter minecraft:crafting_shaped minecraft:iron_axe minecraft:logs
+meadow:wooden_bucket | minecraft:crafting_shaped | meadow:wooden_bucket minecraft:crafting_shaped minecraft:planks minecraft:wooden_slabs
+meadow:wooden_cauldron | minecraft:crafting_shaped | meadow:wooden_cauldron minecraft:crafting_shaped minecraft:iron_ingot minecraft:planks
+meadow:wooden_flower_box | minecraft:crafting_shaped | meadow:wooden_flower_box minecraft:crafting_shaped minecraft:dirt minecraft:planks
+meadow:wooden_flower_pot | minecraft:crafting_shaped | meadow:wooden_flower_pot_small minecraft:crafting_shaped minecraft:dirt minecraft:planks
+meadow:wooden_flower_pot_big | minecraft:crafting_shaped | meadow:wooden_flower_pot_big minecraft:crafting_shaped minecraft:planks
+meadow:yellow_dye_from_alpine_poppy | minecraft:crafting_shapeless | meadow:alpine_poppy minecraft:crafting_shapeless minecraft:yellow_dye

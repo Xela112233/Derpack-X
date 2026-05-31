@@ -1,0 +1,3 @@
+tfmg:distillation/crude_oil | tfmg:distillation | c:crude_oil neoforge:tag tfmg:diesel tfmg:distillation tfmg:gasoline tfmg:heavy_oil tfmg:kerosene tfmg:lpg tfmg:naphtha
+tfmg:distillation/crude_oil_light_distillation | tfmg:distillation | c:crude_oil neoforge:tag tfmg:diesel tfmg:distillation tfmg:gasoline tfmg:heavy_oil
+tfmg:distillation/crude_oil_no_naphtha | tfmg:distillation | c:crude_oil neoforge:tag tfmg:diesel tfmg:distillation tfmg:gasoline tfmg:heavy_oil tfmg:kerosene tfmg:lpg

@@ -1,0 +1,40 @@
+# endrem-neoforge-1.21.X-6.0.2
+
+## mod metadata (id / version / deps)
+license = "GNU LGPLv3" # Review your options at https://choosealicense.com/.
+modId = "endrem" #mandatory
+version = "6.0.2" #mandatory
+displayName = "End Remastered" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.0.114-beta,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21, 1.22)"
+
+## blocks
+endrem:ancient_portal_frame
+
+## items
+endrem:ancient_portal_frame
+endrem:black_eye
+endrem:cold_eye
+endrem:corrupted_eye
+endrem:cryptic_eye
+endrem:cursed_eye
+endrem:evil_eye
+endrem:exotic_eye
+endrem:guardian_eye
+endrem:lost_eye
+endrem:lost_frame
+endrem:magical_eye
+endrem:nether_eye
+endrem:old_eye
+endrem:rogue_eye
+endrem:undead_eye
+endrem:undead_soul
+endrem:witch_eye
+endrem:witch_pupil
+endrem:wither_eye
+
+## neoforge biome_modifiers
+
+## c: common tag membership

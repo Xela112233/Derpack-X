@@ -1,0 +1,19 @@
+# alternate_current-mc1.21-1.9.0
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="alternate_current" #mandatory
+version="1.9.0" #mandatory
+displayName="Alternate Current" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.0-beta,)" #mandatory
+modId="minecraft"
+versionRange="[1.21,1.21.1)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

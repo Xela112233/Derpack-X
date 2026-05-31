@@ -1,0 +1,17 @@
+# dynamic-fps-3.11.4+minecraft-1.21.0-neoforge
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "dynamic_fps"
+version = "3.11.4"
+displayName = "Dynamic FPS"
+modId = "minecraft"
+versionRange = "[1.21.0,1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

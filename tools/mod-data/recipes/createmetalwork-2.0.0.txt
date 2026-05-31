@@ -1,0 +1,51 @@
+createmetalwork:create/compacting/andesite_alloy_from_compacting_heated | create:compacting | c:andesite_alloy_nuggets c:crushed_raw_materials/andesite create:andesite_alloy create:compacting
+createmetalwork:create/compacting/andesite_alloy_from_compacting_molten | create:compacting | c:molten_andesite_alloy create:andesite_alloy create:compacting
+createmetalwork:create/compacting/brass_ingot_from_compacting_molten | create:compacting | c:molten_brass create:brass_ingot create:compacting
+createmetalwork:create/compacting/copper_ingot_from_compacting_heated | create:compacting | c:crushed_raw_materials/copper create:compacting minecraft:copper_ingot
+createmetalwork:create/compacting/copper_ingot_from_compacting_molten | create:compacting | c:molten_copper create:compacting minecraft:copper_ingot
+createmetalwork:create/compacting/gold_ingot_from_compacting_heated | create:compacting | c:crushed_raw_materials/gold create:compacting minecraft:gold_ingot
+createmetalwork:create/compacting/gold_ingot_from_compacting_molten | create:compacting | c:molten_gold create:compacting minecraft:gold_ingot
+createmetalwork:create/compacting/iron_ingot_from_compacting_heated | create:compacting | c:crushed_raw_materials/iron create:compacting minecraft:iron_ingot
+createmetalwork:create/compacting/iron_ingot_from_compacting_molten | create:compacting | c:molten_iron create:compacting minecraft:iron_ingot
+createmetalwork:create/compacting/netherite_ingot_from_compacting_molten | create:compacting | c:molten_netherite create:compacting minecraft:netherite_ingot
+createmetalwork:create/compacting/zinc_ingot_from_compacting_heated | create:compacting | c:crushed_raw_materials/zinc create:compacting create:zinc_ingot
+createmetalwork:create/compacting/zinc_ingot_from_compacting_molten | create:compacting | c:molten_zinc create:compacting create:zinc_ingot
+createmetalwork:create/compat/create_ironworks/compacting/bronze_ingot_from_compacting_molten_bronze_ironworks | create:compacting | c:molten_bronze create:compacting create_ironworks:bronze_ingot neoforge:mod_loaded
+createmetalwork:create/compat/create_ironworks/compacting/steel_ingot_from_compacting_molten_steel_ironworks | create:compacting | c:molten_steel create:compacting create_ironworks:steel_ingot neoforge:mod_loaded
+createmetalwork:create/compat/create_ironworks/compacting/tin_ingot_from_compacting_heated_ironworks | create:compacting | c:crushed_raw_materials/tin create:compacting create_ironworks:tin_ingot neoforge:mod_loaded
+createmetalwork:create/compat/create_ironworks/compacting/tin_ingot_from_compacting_molten_tin_ironworks | create:compacting | c:molten_tin create:compacting create_ironworks:tin_ingot neoforge:mod_loaded
+createmetalwork:create/compat/create_ironworks/mixing/ingot_melting/molten_bronze_from_melting | create:mixing | c:ingots/bronze create:mixing createmetalwork:molten_bronze neoforge:not neoforge:tag_empty
+createmetalwork:create/compat/create_ironworks/mixing/ingot_melting/molten_steel_from_melting | create:mixing | c:ingots/steel create:mixing createmetalwork:molten_steel neoforge:not neoforge:tag_empty
+createmetalwork:create/compat/create_ironworks/mixing/ingot_melting/molten_tin_from_melting | create:mixing | c:ingots/tin create:mixing createmetalwork:molten_tin neoforge:not neoforge:tag_empty
+createmetalwork:create/compat/create_ironworks/mixing/molten_bronze_from_mixing_heated | create:mixing | c:crushed_raw_materials/copper c:crushed_raw_materials/tin create:mixing createmetalwork:molten_bronze neoforge:mod_loaded
+createmetalwork:create/compat/create_ironworks/mixing/molten_steel_from_mixing_heated_molten | create:mixing | c:molten_iron create:mixing createmetalwork:molten_steel minecraft:coal neoforge:mod_loaded
+createmetalwork:create/compat/create_ironworks/mixing/molten_tin_from_mixing_heated | create:mixing | c:crushed_raw_materials/tin create:mixing createmetalwork:molten_tin neoforge:mod_loaded
+createmetalwork:create/compat/create_simple_ore_doubling/compacting/crushed_andesite_from_compacting | create:compacting | c:mod_loaded create:compacting create_simple_ore_doubling:slag createmetalwork:crushed_andesite minecraft:andesite minecraft:lava neoforge:mod_loaded
+createmetalwork:create/compat/create_simple_ore_doubling/compacting/crushed_andesite_from_compacting_heated | create:compacting | c:mod_loaded create:compacting create_simple_ore_doubling:slag createmetalwork:crushed_andesite minecraft:andesite neoforge:mod_loaded
+createmetalwork:create/compat/create_simple_ore_doubling/compacting/crushed_netherite_scrap_from_compacting | create:compacting | c:mod_loaded create:compacting create_simple_ore_doubling:slag createmetalwork:crushed_netherite_scrap minecraft:lava minecraft:netherite_scrap neoforge:mod_loaded
+createmetalwork:create/compat/create_simple_ore_doubling/compacting/crushed_netherite_scrap_from_compacting_heated | create:compacting | c:mod_loaded create:compacting create_simple_ore_doubling:slag createmetalwork:crushed_netherite_scrap minecraft:netherite_scrap neoforge:mod_loaded
+createmetalwork:create/compat/create_simple_ore_doubling/compacting/crushed_raw_tin_from_compacting | create:compacting | c:mod_loaded c:not c:raw_materials/tin c:tag_empty create:compacting create:crushed_raw_tin create_simple_ore_doubling:slag minecraft:lava neoforge:mod_loaded
+createmetalwork:create/compat/create_simple_ore_doubling/compacting/crushed_raw_tin_from_compacting_heated | create:compacting | c:mod_loaded c:not c:raw_materials/tin c:tag_empty create:compacting create:crushed_raw_tin create_simple_ore_doubling:slag neoforge:mod_loaded
+createmetalwork:create/crushing/crushed_andesite_from_crushing | create:crushing | create:crushing create:experience_nugget createmetalwork:crushed_andesite minecraft:andesite
+createmetalwork:create/crushing/crushed_netherite_scrap_from_crushing | create:crushing | create:crushing create:experience_nugget createmetalwork:crushed_netherite_scrap minecraft:netherite_scrap
+createmetalwork:create/crushing/crushed_raw_gold_from_crushing_nether_gold_ore | create:crushing | create:crushed_raw_gold create:crushing create:experience_nugget minecraft:nether_gold_ore minecraft:netherrack
+createmetalwork:create/mixing/ingot_melting/molten_andesite_alloy_from_melting | create:mixing | create:andesite_alloy create:mixing createmetalwork:molten_andesite_alloy
+createmetalwork:create/mixing/ingot_melting/molten_brass_from_melting | create:mixing | c:ingots/brass create:mixing createmetalwork:molten_brass
+createmetalwork:create/mixing/ingot_melting/molten_copper_from_melting | create:mixing | c:ingots/copper create:mixing createmetalwork:molten_copper
+createmetalwork:create/mixing/ingot_melting/molten_gold_from_melting | create:mixing | c:ingots/gold create:mixing createmetalwork:molten_gold
+createmetalwork:create/mixing/ingot_melting/molten_iron_from_melting | create:mixing | c:ingots/iron create:mixing createmetalwork:molten_iron
+createmetalwork:create/mixing/ingot_melting/molten_netherite_from_melting | create:mixing | c:ingots/netherite create:mixing createmetalwork:molten_netherite
+createmetalwork:create/mixing/ingot_melting/molten_zinc_from_melting | create:mixing | c:ingots/zinc create:mixing createmetalwork:molten_zinc
+createmetalwork:create/mixing/molten_andesite_alloy_from_mixing_heated | create:mixing | c:andesite_alloy_nuggets c:crushed_raw_materials/andesite create:mixing createmetalwork:molten_andesite_alloy
+createmetalwork:create/mixing/molten_andesite_alloy_from_mixing_heated_molten_iron | create:mixing | c:molten_andesite c:molten_iron create:mixing createmetalwork:molten_andesite_alloy
+createmetalwork:create/mixing/molten_andesite_alloy_from_mixing_heated_molten_zinc | create:mixing | c:molten_andesite c:molten_zinc create:mixing createmetalwork:molten_andesite_alloy
+createmetalwork:create/mixing/molten_andesite_from_mixing_heated | create:mixing | c:crushed_raw_materials/andesite create:mixing createmetalwork:molten_andesite
+createmetalwork:create/mixing/molten_andesite_from_mixing_heated_alt | create:mixing | create:mixing createmetalwork:molten_andesite minecraft:andesite
+createmetalwork:create/mixing/molten_brass_from_mixing_heated | create:mixing | c:crushed_raw_materials/copper c:crushed_raw_materials/zinc create:mixing createmetalwork:molten_brass
+createmetalwork:create/mixing/molten_brass_from_mixing_heated_molten | create:mixing | c:molten_copper c:molten_zinc create:mixing createmetalwork:molten_brass
+createmetalwork:create/mixing/molten_copper_from_mixing_heated | create:mixing | c:crushed_raw_materials/copper create:mixing createmetalwork:molten_copper
+createmetalwork:create/mixing/molten_gold_from_mixing_heated | create:mixing | c:crushed_raw_materials/gold create:mixing createmetalwork:molten_gold
+createmetalwork:create/mixing/molten_iron_from_mixing_heated | create:mixing | c:crushed_raw_materials/iron create:mixing createmetalwork:molten_iron
+createmetalwork:create/mixing/molten_netherite_from_mixing_heated | create:mixing | c:crushed_raw_materials/gold c:crushed_raw_materials/netherite_scrap create:mixing createmetalwork:molten_netherite
+createmetalwork:create/mixing/molten_netherite_from_mixing_heated_molten | create:mixing | c:crushed_raw_materials/netherite_scrap c:molten_gold create:mixing createmetalwork:molten_netherite
+createmetalwork:create/mixing/molten_zinc_from_mixing_heated | create:mixing | c:crushed_raw_materials/zinc create:mixing createmetalwork:molten_zinc

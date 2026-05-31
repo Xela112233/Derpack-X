@@ -1,0 +1,6 @@
+numismatics:blocks/andesite_depositor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion numismatics:andesite_depositor numismatics:blocks/andesite_depositor
+numismatics:blocks/bank_terminal | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion numismatics:bank_terminal numismatics:blocks/bank_terminal
+numismatics:blocks/blaze_banker | minecraft:block | create:blaze_burner minecraft:block minecraft:item minecraft:survives_explosion numismatics:banking_guide numismatics:blocks/blaze_banker
+numismatics:blocks/brass_depositor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion numismatics:blocks/brass_depositor numismatics:brass_depositor
+numismatics:blocks/creative_vendor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion numismatics:blocks/creative_vendor numismatics:creative_vendor
+numismatics:blocks/vendor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion numismatics:blocks/vendor numismatics:vendor

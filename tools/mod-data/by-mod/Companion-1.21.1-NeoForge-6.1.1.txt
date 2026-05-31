@@ -1,0 +1,17 @@
+# Companion-1.21.1-NeoForge-6.1.1
+
+## mod metadata (id / version / deps)
+license = "ARR"
+modId = "companion"
+version = "${file.jarVersion}"
+displayName = "Companion"
+modId = "kiwi"
+versionRange = "[15,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

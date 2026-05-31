@@ -1,0 +1,31 @@
+# bountiful-neoforge-8.0.0-beta.2
+
+## mod metadata (id / version / deps)
+license = "GPL 3.0"
+modId = "bountiful"
+version = "8.0.0-beta.2"
+displayName = "Bountiful"
+modId = "neoforge"
+versionRange = "[20.2.88,)"
+modId = "kambrik"
+versionRange = "8.0.0-beta.2"
+modId = "minecraft"
+versionRange = "1.21"
+
+## blocks
+bountiful:bountyboard
+
+## items
+bountiful:bounty
+bountiful:bounty-common
+bountiful:bounty-epic
+bountiful:bounty-rare
+bountiful:bounty-uncommon
+bountiful:bountyboard
+bountiful:decree
+bountiful:decree-known
+bountiful:decree-unknown
+
+## neoforge biome_modifiers
+
+## c: common tag membership

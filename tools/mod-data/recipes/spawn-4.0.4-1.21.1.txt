@@ -1,0 +1,176 @@
+spawn:algal_reefstone | minecraft:crafting_shapeless | minecraft:crafting_shapeless spawn:algal_reefstone spawn:red_algae_block spawn:reefstone
+spawn:algal_reefstone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:algal_reefstone spawn:algal_reefstone_slab
+spawn:algal_reefstone_slab_from_algal_reefstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:algal_reefstone spawn:algal_reefstone_slab
+spawn:algal_reefstone_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:algal_reefstone spawn:algal_reefstone_stairs
+spawn:algal_reefstone_stairs_from_algal_reefstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:algal_reefstone spawn:algal_reefstone_stairs
+spawn:algal_reefstone_wall | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:algal_reefstone spawn:algal_reefstone_wall
+spawn:algal_reefstone_wall_from_algal_reefstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:algal_reefstone spawn:algal_reefstone_wall
+spawn:ant_farm | minecraft:crafting_shaped | minecraft:coarse_dirt minecraft:crafting_shaped minecraft:glass spawn:ant_farm spawn:ant_pupa
+spawn:big_sea_pickle | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:sea_pickle spawn:big_sea_pickle
+spawn:big_snail_shell | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:big_snail_shell spawn:snail_shell
+spawn:blasted_sandstone | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:blasted_sand spawn:blasted_sandstone
+spawn:blasted_sandstone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:blasted_sandstone spawn:blasted_sandstone_slab spawn:chiseled_blasted_sandstone
+spawn:blasted_sandstone_slab_from_blasted_sandstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:blasted_sandstone spawn:blasted_sandstone_slab
+spawn:blasted_sandstone_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:blasted_sandstone spawn:blasted_sandstone_stairs spawn:chiseled_blasted_sandstone spawn:cut_blasted_sandstone
+spawn:blasted_sandstone_stairs_from_blasted_sandstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:blasted_sandstone spawn:blasted_sandstone_stairs
+spawn:blasted_sandstone_wall | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:blasted_sandstone spawn:blasted_sandstone_wall
+spawn:blasted_sandstone_wall_from_blasted_sandstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:blasted_sandstone spawn:blasted_sandstone_wall
+spawn:blue_dye_from_booby_egg_shard | minecraft:crafting_shapeless | minecraft:blue_dye minecraft:crafting_shapeless spawn:booby_egg_shard
+spawn:blue_footed_boots | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:leather_boots spawn:blue_footed_boots spawn:booby_egg_shard
+spawn:bluefish_roll | minecraft:crafting_shapeless | farmersdelight:cooked_rice minecraft:crafting_shapeless neoforge:mod_loaded spawn:bluefish_roll spawn:bluefish_slice
+spawn:bone_meal_from_dead_sea_star | minecraft:crafting_shapeless | minecraft:bone_meal minecraft:crafting_shapeless spawn:dead_sea_star
+spawn:bone_meal_from_dead_sea_urchin | minecraft:crafting_shapeless | minecraft:bone_meal minecraft:crafting_shapeless spawn:dead_sea_urchin
+spawn:bone_meal_from_shell_fragments | minecraft:crafting_shapeless | minecraft:bone_meal minecraft:crafting_shapeless spawn:shell_fragments
+spawn:bone_meal_from_snail_shell | minecraft:crafting_shapeless | minecraft:bone_meal minecraft:crafting_shapeless spawn:snail_shell
+spawn:canned_herring | minecraft:crafting_shaped | minecraft:crafting_shaped neoforge:mod_loaded spawn:canned_herring spawn:cooked_herring_slice
+spawn:casting_net | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:string spawn:casting_net spawn:shell_fragments
+spawn:chiseled_blasted_sandstone | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:blasted_sandstone_slab spawn:chiseled_blasted_sandstone
+spawn:chiseled_blasted_sandstone_from_blasted_sandstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:blasted_sandstone spawn:chiseled_blasted_sandstone
+spawn:clam_case_purple | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:purple_dye spawn:clam_case_purple spawn:shell_fragments
+spawn:clam_case_red | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_dye spawn:clam_case_red spawn:shell_fragments
+spawn:clam_case_white | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:white_dye spawn:clam_case_white spawn:shell_fragments
+spawn:clam_case_yellow | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:yellow_dye spawn:clam_case_yellow spawn:shell_fragments
+spawn:clam_chowder | minecraft:crafting_shapeless | minecraft:bowl minecraft:carrot minecraft:crafting_shapeless minecraft:potato neoforge:mod_loaded neoforge:not spawn:clam_chowder spawn:cooked_clam
+spawn:clam_chowder_fd | minecraft:crafting_shapeless | farmersdelight:milk_bottle minecraft:bowl minecraft:crafting_shapeless minecraft:potato neoforge:mod_loaded spawn:clam_chowder spawn:cooked_clam
+spawn:cooked_bluefish | minecraft:smelting | minecraft:smelting spawn:bluefish spawn:cooked_bluefish
+spawn:cooked_bluefish_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking spawn:bluefish spawn:cooked_bluefish
+spawn:cooked_bluefish_from_smoking | minecraft:smoking | minecraft:smoking spawn:bluefish spawn:cooked_bluefish
+spawn:cooked_bluefish_slice | minecraft:smelting | minecraft:smelting spawn:bluefish_slice spawn:cooked_bluefish_slice
+spawn:cooked_bluefish_slice_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking spawn:bluefish_slice spawn:cooked_bluefish_slice
+spawn:cooked_bluefish_slice_from_smoking | minecraft:smoking | minecraft:smoking spawn:bluefish_slice spawn:cooked_bluefish_slice
+spawn:cooked_clam | minecraft:smelting | minecraft:smelting spawn:clam spawn:cooked_clam
+spawn:cooked_clam_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking spawn:clam spawn:cooked_clam
+spawn:cooked_clam_from_smoking | minecraft:smoking | minecraft:smoking spawn:clam spawn:cooked_clam
+spawn:cooked_dodo | minecraft:smelting | minecraft:smelting spawn:cooked_dodo spawn:dodo
+spawn:cooked_dodo_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking spawn:cooked_dodo spawn:dodo
+spawn:cooked_dodo_from_smoking | minecraft:smoking | minecraft:smoking spawn:cooked_dodo spawn:dodo
+spawn:cooked_herring | minecraft:smelting | minecraft:smelting spawn:cooked_herring spawn:herring
+spawn:cooked_herring_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking spawn:cooked_herring spawn:herring
+spawn:cooked_herring_from_smoking | minecraft:smoking | minecraft:smoking spawn:cooked_herring spawn:herring
+spawn:cooked_herring_slice | minecraft:smelting | minecraft:smelting spawn:cooked_herring_slice spawn:herring_slice
+spawn:cooked_herring_slice_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking spawn:cooked_herring_slice spawn:herring_slice
+spawn:cooked_herring_slice_from_smoking | minecraft:smoking | minecraft:smoking spawn:cooked_herring_slice spawn:herring_slice
+spawn:cooked_tuna_chunk | minecraft:smelting | minecraft:smelting spawn:cooked_tuna_chunk spawn:tuna_chunk
+spawn:cooked_tuna_chunk_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking spawn:cooked_tuna_chunk spawn:tuna_chunk
+spawn:cooked_tuna_chunk_from_smoking | minecraft:smoking | minecraft:smoking spawn:cooked_tuna_chunk spawn:tuna_chunk
+spawn:cooked_tuna_slice | minecraft:smelting | minecraft:smelting spawn:cooked_tuna_slice spawn:tuna_slice
+spawn:cooked_tuna_slice_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking spawn:cooked_tuna_slice spawn:tuna_slice
+spawn:cooked_tuna_slice_from_smoking | minecraft:smoking | minecraft:smoking spawn:cooked_tuna_slice spawn:tuna_slice
+spawn:cooking/clam_chowder | farmersdelight:cooking | farmersdelight:cooking farmersdelight:milk_bottle minecraft:bowl minecraft:potato neoforge:mod_loaded spawn:clam_chowder spawn:cooked_clam
+spawn:cooking/crab_boil_block | farmersdelight:cooking | farmersdelight:bacon farmersdelight:cooking farmersdelight:onion minecraft:bowl minecraft:potato neoforge:mod_loaded spawn:coastal_crab_bucket spawn:crab_boil_block
+spawn:cut_blasted_sandstone | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:blasted_sandstone spawn:cut_blasted_sandstone
+spawn:cut_blasted_sandstone_from_blasted_sandstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:blasted_sandstone spawn:cut_blasted_sandstone
+spawn:cut_blasted_sandstone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:cut_blasted_sandstone spawn:cut_blasted_sandstone_slab
+spawn:cut_blasted_sandstone_slab_from_blasted_sandstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:blasted_sandstone spawn:cut_blasted_sandstone_slab
+spawn:cut_blasted_sandstone_slab_from_cut_blasted_sandstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:cut_blasted_sandstone spawn:cut_blasted_sandstone_slab
+spawn:cutting/bluefish | farmersdelight:cutting | c:tools/knife farmersdelight:cutting minecraft:bone_meal neoforge:mod_loaded spawn:bluefish spawn:bluefish_slice
+spawn:cutting/cooked_bluefish | farmersdelight:cutting | c:tools/knife farmersdelight:cutting minecraft:bone_meal neoforge:mod_loaded spawn:cooked_bluefish spawn:cooked_bluefish_slice
+spawn:cutting/cooked_herring | farmersdelight:cutting | c:tools/knife farmersdelight:cutting minecraft:bone_meal neoforge:mod_loaded spawn:cooked_herring spawn:cooked_herring_slice
+spawn:cutting/cooked_tuna_chunk | farmersdelight:cutting | c:tools/knife farmersdelight:cutting minecraft:bone_meal neoforge:mod_loaded spawn:cooked_tuna_chunk spawn:cooked_tuna_slice
+spawn:cutting/date_door | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded spawn:date_door spawn:date_planks
+spawn:cutting/date_hanging_sign | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded spawn:date_hanging_sign spawn:date_planks
+spawn:cutting/date_log | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:item.axe.strip neoforge:mod_loaded spawn:date_log spawn:stripped_date_log
+spawn:cutting/date_sign | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded spawn:date_planks spawn:date_sign
+spawn:cutting/date_trapdoor | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded spawn:date_planks spawn:date_trapdoor
+spawn:cutting/herring | farmersdelight:cutting | c:tools/knife farmersdelight:cutting minecraft:bone_meal neoforge:mod_loaded spawn:herring spawn:herring_slice
+spawn:cutting/rotten_door | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded spawn:rotten_door spawn:rotten_planks
+spawn:cutting/rotten_hanging_sign | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded spawn:rotten_hanging_sign spawn:rotten_planks
+spawn:cutting/rotten_log | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:item.axe.strip neoforge:mod_loaded spawn:rotten_log spawn:stripped_rotten_log
+spawn:cutting/rotten_planks | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:item.axe.strip neoforge:mod_loaded spawn:cracked_rotten_planks spawn:rotten_planks
+spawn:cutting/rotten_sign | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded spawn:rotten_planks spawn:rotten_sign
+spawn:cutting/rotten_trapdoor | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability neoforge:mod_loaded spawn:rotten_planks spawn:rotten_trapdoor
+spawn:cutting/rotten_wood | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:item.axe.strip neoforge:mod_loaded spawn:rotten_wood spawn:stripped_rotten_wood
+spawn:cutting/tuna_chunk | farmersdelight:cutting | c:tools/knife farmersdelight:cutting minecraft:bone_meal neoforge:mod_loaded spawn:tuna_chunk spawn:tuna_slice
+spawn:date_button | minecraft:crafting_shapeless | minecraft:crafting_shapeless spawn:date_button spawn:date_planks
+spawn:date_chest_raft | minecraft:crafting_shapeless | minecraft:chest minecraft:crafting_shapeless spawn:date_chest_raft spawn:date_raft
+spawn:date_cookie | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:wheat spawn:date_cookie spawn:dates
+spawn:date_door | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:date_door spawn:date_planks
+spawn:date_fence | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick spawn:date_fence spawn:date_planks
+spawn:date_fence_gate | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick spawn:date_fence_gate spawn:date_planks
+spawn:date_hanging_sign | minecraft:crafting_shaped | minecraft:chain minecraft:crafting_shaped spawn:date_hanging_sign spawn:stripped_date_log
+spawn:date_planks | minecraft:crafting_shapeless | minecraft:crafting_shapeless spawn:date_logs spawn:date_planks
+spawn:date_pressure_plate | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:date_planks spawn:date_pressure_plate
+spawn:date_raft | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:date_planks spawn:date_raft
+spawn:date_seed | minecraft:crafting_shapeless | minecraft:crafting_shapeless spawn:date_seed spawn:dates
+spawn:date_sign | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick spawn:date_planks spawn:date_sign
+spawn:date_slab | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:date_planks spawn:date_slab
+spawn:date_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:date_planks spawn:date_stairs
+spawn:date_trapdoor | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:date_planks spawn:date_trapdoor
+spawn:escargot | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dried_kelp minecraft:milk_bucket spawn:escargot spawn:mucus spawn:snail_shell
+spawn:ghostly_mucus_block | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:phantom_membrane spawn:ghostly_mucus_block spawn:mucus_block
+spawn:hamster_wheel | minecraft:crafting_shaped | minecraft:bowl minecraft:crafting_shaped minecraft:stone_pressure_plate spawn:hamster_wheel
+spawn:heliostone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:heliostone spawn:heliostone_slab
+spawn:heliostone_slab_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:heliostone spawn:heliostone_slab
+spawn:heliostone_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:heliostone spawn:heliostone_stairs
+spawn:heliostone_stairs_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:heliostone spawn:heliostone_stairs
+spawn:heliostone_wall | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:heliostone spawn:heliostone_wall
+spawn:heliostone_wall_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:heliostone spawn:heliostone_wall
+spawn:herring_roll | minecraft:crafting_shapeless | farmersdelight:cooked_rice minecraft:crafting_shapeless neoforge:mod_loaded spawn:herring_roll spawn:herring_slice
+spawn:hummingbird_feeder | minecraft:crafting_shaped | alexsmobs:hummingbird_feeder minecraft:copper_ingot minecraft:crafting_shaped minecraft:glass_bottle neoforge:mod_loaded spawn:sunflower
+spawn:mucus | minecraft:crafting_shapeless | minecraft:crafting_shapeless spawn:mucus spawn:mucus_block
+spawn:mucus_block | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:mucus spawn:mucus_block
+spawn:octoduct | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dispenser minecraft:sand spawn:octoduct
+spawn:pigment_shifter | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:heart_of_the_sea spawn:pigment_shifter spawn:pigment_shifter_base spawn:shell_fragments
+spawn:potted_sweet_berries | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:sweet_berries spawn:potted_sweet_berries spawn:snail_shell
+spawn:red_algae_block | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:red_algae spawn:red_algae_block
+spawn:red_algae_carpet | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:red_algae_block spawn:red_algae_carpet
+spawn:red_dye_from_tropical_wildflowers | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:red_dye spawn:tropical_wildflowers
+spawn:reefstone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:reefstone spawn:reefstone_slab
+spawn:reefstone_slab_from_reefstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:reefstone spawn:reefstone_slab
+spawn:reefstone_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:reefstone spawn:reefstone_stairs
+spawn:reefstone_stairs_from_reefstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:reefstone spawn:reefstone_stairs
+spawn:reefstone_tile_slab | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:reefstone_tile_slab spawn:reefstone_tiles
+spawn:reefstone_tile_slab_from_reefstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:reefstone spawn:reefstone_tile_slab
+spawn:reefstone_tile_slab_from_reefstone_tiles_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:reefstone_tile_slab spawn:reefstone_tiles
+spawn:reefstone_tile_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:reefstone_tile_stairs spawn:reefstone_tiles
+spawn:reefstone_tile_stairs_from_reefstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:reefstone spawn:reefstone_tile_stairs
+spawn:reefstone_tile_stairs_from_reefstone_tiles_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:reefstone_tile_stairs spawn:reefstone_tiles
+spawn:reefstone_tile_wall | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:reefstone_tile_wall spawn:reefstone_tiles
+spawn:reefstone_tile_wall_from_reefstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:reefstone spawn:reefstone_tile_wall
+spawn:reefstone_tile_wall_from_reefstone_tiles_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:reefstone_tile_wall spawn:reefstone_tiles
+spawn:reefstone_tiles | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:reefstone spawn:reefstone_tiles
+spawn:reefstone_tiles_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:reefstone spawn:reefstone_tiles
+spawn:reefstone_wall | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:reefstone spawn:reefstone_wall
+spawn:reefstone_wall_from_reefstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:reefstone spawn:reefstone_wall
+spawn:roasted_sunflower_seeds | minecraft:smelting | minecraft:smelting spawn:roasted_sunflower_seeds spawn:sunflower_seeds
+spawn:roasted_sunflower_seeds_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking spawn:roasted_sunflower_seeds spawn:sunflower_seeds
+spawn:roasted_sunflower_seeds_from_smoking | minecraft:smoking | minecraft:smoking spawn:roasted_sunflower_seeds spawn:sunflower_seeds
+spawn:rotten_boat | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:rotten_boat spawn:rotten_planks
+spawn:rotten_button | minecraft:crafting_shapeless | minecraft:crafting_shapeless spawn:rotten_button spawn:rotten_planks
+spawn:rotten_chest_boat | minecraft:crafting_shapeless | minecraft:chest minecraft:crafting_shapeless spawn:rotten_boat spawn:rotten_chest_boat
+spawn:rotten_door | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:rotten_door spawn:rotten_planks
+spawn:rotten_fence | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick spawn:rotten_fence spawn:rotten_planks
+spawn:rotten_fence_gate | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick spawn:rotten_fence_gate spawn:rotten_planks
+spawn:rotten_flesh_from_zombified_flower | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:rotten_flesh spawn:zombified_flower
+spawn:rotten_hanging_sign | minecraft:crafting_shaped | minecraft:chain minecraft:crafting_shaped spawn:rotten_hanging_sign spawn:stripped_rotten_log
+spawn:rotten_planks | minecraft:crafting_shapeless | minecraft:crafting_shapeless spawn:rotten_logs spawn:rotten_planks
+spawn:rotten_pressure_plate | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:rotten_planks spawn:rotten_pressure_plate
+spawn:rotten_sign | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick spawn:rotten_planks spawn:rotten_sign
+spawn:rotten_slab | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:rotten_planks spawn:rotten_slab
+spawn:rotten_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:rotten_planks spawn:rotten_stairs
+spawn:rotten_trapdoor | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:rotten_planks spawn:rotten_trapdoor
+spawn:rotten_wood | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:rotten_log spawn:rotten_wood
+spawn:rough_barnacle | minecraft:crafting_shaped | minecraft:crafting_shaped neoforge:mod_loaded spawn:barnacle whaleborne:rough_barnacle
+spawn:sea_pickle_from_big_sea_pickle | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:sea_pickle spawn:big_sea_pickle
+spawn:shell_fragments | minecraft:crafting_shapeless | minecraft:crafting_shapeless spawn:clam spawn:shell_fragments
+spawn:shell_fragments_from_casting_net | spawn:casting_net_clam | spawn:casting_net_clam
+spawn:slime_ball_from_smelting_mucus | minecraft:smelting | minecraft:slime_ball minecraft:smelting spawn:mucus
+spawn:smooth_blasted_sandstone | minecraft:smelting | minecraft:smelting spawn:blasted_sandstone spawn:smooth_blasted_sandstone
+spawn:smooth_blasted_sandstone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:smooth_blasted_sandstone spawn:smooth_blasted_sandstone_slab
+spawn:smooth_blasted_sandstone_slab_from_smooth_blasted_sandstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:smooth_blasted_sandstone spawn:smooth_blasted_sandstone_slab
+spawn:smooth_blasted_sandstone_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:smooth_blasted_sandstone spawn:smooth_blasted_sandstone_stairs
+spawn:smooth_blasted_sandstone_stairs_from_smooth_blasted_sandstone_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:smooth_blasted_sandstone spawn:smooth_blasted_sandstone_stairs
+spawn:snail_shell_from_big_snail_shell | minecraft:crafting_shapeless | minecraft:crafting_shapeless spawn:big_snail_shell spawn:snail_shell
+spawn:snail_shell_tile_slab | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:snail_shell_tile_slab spawn:snail_shell_tiles
+spawn:snail_shell_tile_slab_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:snail_shell_tile_slab spawn:snail_shell_tiles
+spawn:snail_shell_tile_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:snail_shell_tile_stairs spawn:snail_shell_tiles
+spawn:snail_shell_tile_stairs_stonecutting | minecraft:stonecutting | minecraft:stonecutting spawn:snail_shell_tile_stairs spawn:snail_shell_tiles
+spawn:snail_shell_tiles | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:snail_shell spawn:snail_shell_tiles
+spawn:steamed_clams | minecraft:crafting_shapeless | c:crops/onion c:crops/tomato c:foods/bread c:foods/cabbage minecraft:crafting_shapeless neoforge:mod_loaded spawn:cooked_clam spawn:steamed_clams
+spawn:stripped_rotten_wood | minecraft:crafting_shaped | minecraft:crafting_shaped spawn:stripped_rotten_log spawn:stripped_rotten_wood
+spawn:sunflower_seeds_from_vanilla_sunflower | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:sunflower spawn:sunflower_seeds
+spawn:tnt_from_blasted_sand | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:gunpowder minecraft:red_sand minecraft:sand minecraft:tnt spawn:blasted_sand
+spawn:tuna_roll | minecraft:crafting_shapeless | farmersdelight:cooked_rice minecraft:crafting_shapeless minecraft:dried_kelp neoforge:mod_loaded spawn:tuna_roll spawn:tuna_slice
+spawn:tuna_sandwich | minecraft:crafting_shapeless | minecraft:bread minecraft:crafting_shapeless neoforge:mod_loaded neoforge:not spawn:cooked_tuna_chunk spawn:tuna_sandwich
+spawn:tuna_sandwich_fd | minecraft:crafting_shapeless | c:foods/cabbage minecraft:bread minecraft:crafting_shapeless neoforge:mod_loaded spawn:cooked_tuna_chunk spawn:tuna_sandwich
+spawn:yellow_dye_from_spawn_sunflower | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:yellow_dye spawn:sunflower

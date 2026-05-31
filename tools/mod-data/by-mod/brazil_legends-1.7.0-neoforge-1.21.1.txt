@@ -1,0 +1,79 @@
+# brazil_legends-1.7.0-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license="Not specified"
+modId="brazil_legends"
+version="1.7.0"
+displayName="Brazil Legends"
+modId="neoforge"
+versionRange="[21.1.65,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="geckolib"
+versionRange="[0,)"
+modId="jei"
+versionRange="[0,)"
+
+## blocks
+brazil_legends:amber_pearl
+brazil_legends:amber_pearl_2
+brazil_legends:amber_pearl_3
+brazil_legends:bottle_with_saci
+brazil_legends:the_slumbering_mule
+
+## items
+brazil_legends:alteration_spell_book
+brazil_legends:amber_pearl
+brazil_legends:amber_pearl_2
+brazil_legends:amber_pearl_3
+brazil_legends:amber_shard
+brazil_legends:big_tongue
+brazil_legends:blank_alteration_book
+brazil_legends:blank_fire_book
+brazil_legends:blank_rage_book
+brazil_legends:blank_vision_book
+brazil_legends:bloodmoon_sickle
+brazil_legends:bottle_with_saci
+brazil_legends:cachimbo
+brazil_legends:capelobo_claw
+brazil_legends:capelobo_spawn_egg
+brazil_legends:capelobo_stare_spawn_egg
+brazil_legends:carved_mapinguari_fang_helmet
+brazil_legends:cooked_tongue_slices
+brazil_legends:cuca_spawn_egg
+brazil_legends:cuclin_ally_spawn_egg
+brazil_legends:cuclin_spawn_egg
+brazil_legends:dog_blood
+brazil_legends:fire_breaker
+brazil_legends:fire_spell_book
+brazil_legends:flaming_leather
+brazil_legends:headless_mule_spawn_egg
+brazil_legends:magic_hat_helmet
+brazil_legends:mapinguari_eye
+brazil_legends:mapinguari_fang
+brazil_legends:mapinguari_spawn_egg
+brazil_legends:mapinguary_spawn_egg
+brazil_legends:possessed_bowl_spawn_egg
+brazil_legends:possessed_dish_spawn_egg
+brazil_legends:possessed_spoon_spawn_egg
+brazil_legends:rage_spell_book
+brazil_legends:rescued_baby
+brazil_legends:saci_bundle_spawn_egg
+brazil_legends:saci_perere_spawn_egg
+brazil_legends:saci_traped_spawn_egg
+brazil_legends:sieve
+brazil_legends:smba
+brazil_legends:strange_trade_scroll
+brazil_legends:the_slumbering_mule
+brazil_legends:tongue_slices
+brazil_legends:tooth_breaker
+brazil_legends:upgraded_carved_mapinguari_fang_helmet
+brazil_legends:vision_spell_book
+
+## neoforge biome_modifiers
+capelobo_stare_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "birch_forest", "forest", "flower_forest" ], "spawners": { "type": "brazil_legends:capelobo_stare", "weight": 10, "minCount": 1, "maxCount": 4 }}
+mapinguari_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "sparse_jungle", "savanna" ], "spawners": { "type": "brazil_legends:mapinguari", "weight": 5, "minCount": 1, "maxCount": 1 }}
+mapinguary_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "old_growth_pine_taiga", "ice_spikes" ], "spawners": { "type": "brazil_legends:mapinguary", "weight": 5, "minCount": 1, "maxCount": 1 }}
+saci_perere_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": "bamboo_jungle", "spawners": { "type": "brazil_legends:saci_perere", "weight": 3, "minCount": 2, "maxCount": 3 }}
+
+## c: common tag membership

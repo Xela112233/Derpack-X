@@ -1,0 +1,25 @@
+# citadel-1.21.1-2.7.6
+
+## mod metadata (id / version / deps)
+license = "GNU LESSER GENERAL PUBLIC LICENSE" # Review your options at https://choosealicense.com/.
+modId = "citadel" #mandatory
+version = "2.7.6" #mandatory
+displayName = "Citadel" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[4,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21, 1.22)"
+
+## blocks
+citadel:lectern
+
+## items
+citadel:citadel_book
+citadel:debug
+citadel:effect_item
+citadel:fancy_item
+citadel:icon_item
+
+## neoforge biome_modifiers
+
+## c: common tag membership

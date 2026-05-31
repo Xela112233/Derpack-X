@@ -1,0 +1,15 @@
+# MouseTweaks-neoforge-mc1.21-2.26.1
+
+## mod metadata (id / version / deps)
+license="BSD-3-Clause"
+modId="mousetweaks"
+version="2.26.1"
+displayName="Mouse Tweaks"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

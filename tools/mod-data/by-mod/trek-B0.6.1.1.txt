@@ -1,0 +1,12 @@
+# trek-B0.6.1.1
+
+## mod metadata (id / version / deps)
+license = 'MIT'
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

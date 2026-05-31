@@ -1,0 +1,90 @@
+mushroomquest:agarikon_r_2 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:infested_stone minecraft:stone mushroomquest:agarikon
+mushroomquest:agarikon_r_3 | minecraft:crafting_shapeless | minecraft:cobblestone minecraft:crafting_shapeless minecraft:infested_cobblestone mushroomquest:agarikon
+mushroomquest:agarikon_r_4 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:infested_mossy_stone_bricks minecraft:mossy_stone_bricks mushroomquest:agarikon
+mushroomquest:agarikon_r_5 | minecraft:crafting_shapeless | minecraft:cracked_stone_bricks minecraft:crafting_shapeless minecraft:infested_cracked_stone_bricks mushroomquest:agarikon
+mushroomquest:agarikon_r_6 | minecraft:crafting_shapeless | minecraft:chiseled_stone_bricks minecraft:crafting_shapeless minecraft:infested_chiseled_stone_bricks mushroomquest:agarikon
+mushroomquest:agarikonr1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:infested_stone_bricks minecraft:stone_bricks mushroomquest:agarikon
+mushroomquest:aqua_mushroom_cap | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:cyan_dye mushroomquest:aqua_mushroom_cap_redone_helmet mushroomquest:blank_mushroom_cap_redone_helmet
+mushroomquest:artist_conk_r_1 | minecraft:smelting | minecraft:brown_dye minecraft:smelting mushroomquest:artist_conk
+mushroomquest:artistconkr | minecraft:crafting_shapeless | forge:dyes minecraft:crafting_shapeless minecraft:painting mushroomquest:artist_conk
+mushroomquest:beefsteak_r_1 | minecraft:smelting | minecraft:magenta_dye minecraft:smelting mushroomquest:beefsteak_fungus
+mushroomquest:black_velvet_bolete_r_1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:gray_dye mushroomquest:black_velvet_bolete
+mushroomquest:bleedingfairyhelmetr | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:red_dye mushroomquest:bleeding_fairy_helmet
+mushroomquest:bleedingtoothr | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:red_dye mushroomquest:bleeding_tooth_fungus
+mushroomquest:blue_chanterelle_r_2 | minecraft:crafting_shapeless | minecraft:blue_dye minecraft:crafting_shapeless mushroomquest:blue_chanterelle
+mushroomquest:blue_glowshroom_r_1 | minecraft:smelting | minecraft:blue_dye minecraft:smelting mushroomquest:blue_glowshroom_item
+mushroomquest:blue_mushroom_cap | minecraft:crafting_shapeless | minecraft:blue_dye minecraft:crafting_shapeless mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:blue_mushroom_cap_redone_helmet
+mushroomquest:blue_mushroom_cap_2 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:light_blue_dye mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:blue_mushroom_cap_redone_helmet
+mushroomquest:bluingboleter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:cyan_dye mushroomquest:bluing_bolete
+mushroomquest:brown_mushroom_cap | minecraft:crafting_shapeless | minecraft:brown_dye minecraft:crafting_shapeless mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:brown_mushroom_cap_redone_helmet
+mushroomquest:chickenof_woods_r_1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:orange_dye mushroomquest:chickenofthe_woods
+mushroomquest:cinnamonbracketr | minecraft:smelting | minecraft:purple_dye minecraft:smelting mushroomquest:cinnamon_bracket
+mushroomquest:dead_man_finger_r_1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:gray_dye mushroomquest:dead_mans_fingers
+mushroomquest:dewdrop_bonnet_r_1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:light_blue_dye mushroomquest:dewdrop_bonnet
+mushroomquest:dyerspolyporer | minecraft:smelting | minecraft:smelting minecraft:yellow_dye mushroomquest:dyers_polypore
+mushroomquest:giant_puffball_r_1 | minecraft:crafting_shapeless | minecraft:brown_dye minecraft:crafting_shapeless mushroomquest:giant_puffball
+mushroomquest:golden_chanterelle_r_1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:yellow_dye mushroomquest:golden_chanterelle
+mushroomquest:green_glowshroom_r_1 | minecraft:smelting | minecraft:lime_dye minecraft:smelting mushroomquest:green_glowshroom_item
+mushroomquest:green_mushroom_cap | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:green_dye mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:green_mushroom_cap_redone_helmet
+mushroomquest:green_mushroom_cap_2 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:lime_dye mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:green_mushroom_cap_redone_helmet
+mushroomquest:grilled_cotw_1 | minecraft:smelting | minecraft:smelting mushroomquest:chickenofthe_woods mushroomquest:grilled_chicken_of_the_woods
+mushroomquest:grilled_cotw_2 | minecraft:smoking | minecraft:smoking mushroomquest:chickenofthe_woods mushroomquest:grilled_chicken_of_the_woods
+mushroomquest:grilled_cotw_3 | minecraft:campfire_cooking | minecraft:campfire_cooking mushroomquest:chickenofthe_woods mushroomquest:grilled_chicken_of_the_woods
+mushroomquest:henof_woods_r_1 | minecraft:smelting | minecraft:smelting minecraft:yellow_dye mushroomquest:henofthe_woods
+mushroomquest:horse_mushroom_r_1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:lime_dye mushroomquest:horse_mushroom
+mushroomquest:inky_mushroom_cap_r | minecraft:crafting_shapeless | minecraft:black_dye minecraft:crafting_shapeless mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:inky_mushroom_cap_helmet
+mushroomquest:inky_mushroom_cap_r_2 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:ink_sac mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:inky_mushroom_cap_helmet
+mushroomquest:lingzhi_r_1 | minecraft:smelting | minecraft:brown_dye minecraft:smelting mushroomquest:lingzhi_mushroom
+mushroomquest:lobster_mushroom_r_1 | minecraft:smelting | minecraft:red_dye minecraft:smelting mushroomquest:lobster_mushroom
+mushroomquest:meadow_mushroom_r_2 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:pink_dye mushroomquest:meadow_mushroom
+mushroomquest:miso_soup_2 | minecraft:crafting_shapeless | minecraft:bowl minecraft:carrot minecraft:crafting_shapeless minecraft:dried_kelp mushroomquest:enoki mushroomquest:miso_soup_block mushroomquest:nameko
+mushroomquest:mossymazepolyporer | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mossy_stone_bricks minecraft:stone_bricks mushroomquest:mossy_maze_polypore
+mushroomquest:mossymazepolyporer2 | minecraft:crafting_shaped | minecraft:cobblestone minecraft:crafting_shaped minecraft:mossy_cobblestone mushroomquest:mossy_maze_polypore
+mushroomquest:mushroom_stew_1 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:portobello mushroomquest:shiitake
+mushroomquest:mushroom_stew_10 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:shiitake mushroomquest:true_morel
+mushroomquest:mushroom_stew_11 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:horse_mushroom mushroomquest:shiitake
+mushroomquest:mushroom_stew_12 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:golden_chanterelle mushroomquest:king_trumpet
+mushroomquest:mushroom_stew_13 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:king_trumpet mushroomquest:oyster_mushroom
+mushroomquest:mushroom_stew_14 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:king_trumpet mushroomquest:true_morel
+mushroomquest:mushroom_stew_15 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:horse_mushroom mushroomquest:king_trumpet
+mushroomquest:mushroom_stew_16 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:golden_chanterelle mushroomquest:oyster_mushroom
+mushroomquest:mushroom_stew_17 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:golden_chanterelle mushroomquest:true_morel
+mushroomquest:mushroom_stew_18 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:golden_chanterelle mushroomquest:horse_mushroom
+mushroomquest:mushroom_stew_19 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:oyster_mushroom mushroomquest:true_morel
+mushroomquest:mushroom_stew_2 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:king_trumpet mushroomquest:portobello
+mushroomquest:mushroom_stew_20 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:horse_mushroom mushroomquest:oyster_mushroom
+mushroomquest:mushroom_stew_21 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:horse_mushroom mushroomquest:true_morel
+mushroomquest:mushroom_stew_3 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:golden_chanterelle mushroomquest:portobello
+mushroomquest:mushroom_stew_4 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:oyster_mushroom mushroomquest:portobello
+mushroomquest:mushroom_stew_5 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:portobello mushroomquest:true_morel
+mushroomquest:mushroom_stew_6 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:horse_mushroom mushroomquest:portobello
+mushroomquest:mushroom_stew_7 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:king_trumpet mushroomquest:shiitake
+mushroomquest:mushroom_stew_8 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:golden_chanterelle mushroomquest:shiitake
+mushroomquest:mushroom_stew_9 | minecraft:crafting_shapeless | minecraft:bowl minecraft:crafting_shapeless minecraft:mushroom_stew mushroomquest:oyster_mushroom mushroomquest:shiitake
+mushroomquest:oyster_mushroom_r_2 | minecraft:smelting | minecraft:lime_dye minecraft:smelting mushroomquest:oyster_mushroom
+mushroomquest:parrot_toadstool_r_1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:green_dye mushroomquest:parrot_toadstool
+mushroomquest:penny_bun_r_1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:orange_dye mushroomquest:penny_bun
+mushroomquest:pheasantbackr | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:paper mushroomquest:pheasant_back
+mushroomquest:pink_glowshroom_r_1 | minecraft:smelting | minecraft:magenta_dye minecraft:smelting mushroomquest:pink_glowshroom_item
+mushroomquest:pink_mushroom_cap | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:pink_dye mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:pink_mushroom_cap_redone_helmet
+mushroomquest:pink_waxcap_r_2 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:pink_dye mushroomquest:pink_waxcap
+mushroomquest:portobello_2 | minecraft:smelting | minecraft:smelting mushroomquest:grilled_portobello mushroomquest:portobello
+mushroomquest:portobello_3 | minecraft:smoking | minecraft:smoking mushroomquest:grilled_portobello mushroomquest:portobello
+mushroomquest:portobello_4 | minecraft:campfire_cooking | minecraft:campfire_cooking mushroomquest:grilled_portobello mushroomquest:portobello
+mushroomquest:purple_mushroom_cap | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:purple_dye mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:purple_mushroom_cap_redone_helmet
+mushroomquest:red_mushroom_cap | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:red_dye mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:red_mushroom_cap_redone_helmet
+mushroomquest:red_tear_mushroom_r | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:red_dye mushroomquest:red_tear_mushroom
+mushroomquest:shaggymaner | minecraft:crafting_shapeless | minecraft:black_dye minecraft:crafting_shapeless mushroomquest:shaggy_mane
+mushroomquest:shiitaker | minecraft:crafting_shapeless | minecraft:bone_meal minecraft:crafting_shapeless mushroomquest:shiitake
+mushroomquest:silver_leaf_fungus_r_1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:purple_dye mushroomquest:silver_leaf_fungus
+mushroomquest:strawberrybracketr | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:red_dye mushroomquest:strawberry_bracket
+mushroomquest:sunset_mushroom_cap_r | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:orange_dye mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:yellow_mushroom_cap_redone_helmet
+mushroomquest:turkey_tail_r_2 | minecraft:smelting | minecraft:brown_dye minecraft:smelting mushroomquest:turkey_tail
+mushroomquest:verdigris_r_1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:cyan_dye mushroomquest:verdigris_agaric
+mushroomquest:violet_cort_r_1 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:purple_dye mushroomquest:violet_cort
+mushroomquest:werewerekokako_r_1 | minecraft:smelting | minecraft:light_blue_dye minecraft:smelting mushroomquest:werewere_kokako
+mushroomquest:werewerekokakor | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:light_blue_dye mushroomquest:werewere_kokako
+mushroomquest:witchesbutterr | minecraft:smelting | minecraft:smelting minecraft:yellow_dye mushroomquest:witchs_butter
+mushroomquest:wood_blewit_r_1 | minecraft:smelting | minecraft:purple_dye minecraft:smelting mushroomquest:wood_blewit
+mushroomquest:yellow_mushroom_cap | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:yellow_dye mushroomquest:blank_mushroom_cap_redone_helmet mushroomquest:yellow_mushroom_cap_redone_helmet
+mushroomquest:yellow_stainer_r_2 | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:yellow_dye mushroomquest:yellow_stainer

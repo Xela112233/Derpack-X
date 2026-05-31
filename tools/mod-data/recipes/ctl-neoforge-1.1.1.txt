@@ -1,0 +1,18 @@
+ctl:grid_ilb | minecraft:stonecutting | ctl:grid_ilb ctl:ilb_block minecraft:stonecutting
+ctl:halfpanel_htlb | minecraft:stonecutting | ctl:halfpanel_htlb ctl:htlb_block minecraft:stonecutting
+ctl:halfpanel_ilb | minecraft:stonecutting | ctl:halfpanel_ilb ctl:ilb_block minecraft:stonecutting
+ctl:htlb_block | create:sequenced_assembly | create:deploying create:sequenced_assembly ctl:htlb_block ctl:ic_htlb_block ctl:recipe_glass minecraft:amethyst_shard minecraft:glowstone_dust minecraft:redstone
+ctl:ilb_block | create:sequenced_assembly | create:deploying create:sequenced_assembly ctl:ic_ilb_block ctl:ilb_block ctl:recipe_glass minecraft:amethyst_shard minecraft:glowstone_dust
+ctl:panel_htlb | minecraft:stonecutting | ctl:htlb_block ctl:panel_htlb minecraft:stonecutting
+ctl:panel_ilb | minecraft:stonecutting | ctl:ilb_block ctl:panel_ilb minecraft:stonecutting
+ctl:quarter_htlb | minecraft:stonecutting | ctl:htlb_block ctl:quarter_htlb minecraft:stonecutting
+ctl:quarter_ilb | minecraft:stonecutting | ctl:ilb_block ctl:quarter_ilb minecraft:stonecutting
+ctl:slab_ilb | minecraft:stonecutting | ctl:ilb_block ctl:slab_ilb minecraft:stonecutting
+ctl:sloped_ilb | minecraft:stonecutting | ctl:ilb_block ctl:sloped_ilb minecraft:stonecutting
+ctl:step_htlb | minecraft:stonecutting | ctl:htlb_block ctl:step_htlb minecraft:stonecutting
+ctl:step_ilb | minecraft:stonecutting | ctl:ilb_block ctl:step_ilb minecraft:stonecutting
+ctl:vertical_halfpanel_htlb | minecraft:stonecutting | ctl:htlb_block ctl:vertical_halfpanel_htlb minecraft:stonecutting
+ctl:vertical_halfpanel_ilb | minecraft:stonecutting | ctl:ilb_block ctl:vertical_halfpanel_ilb minecraft:stonecutting
+ctl:vertical_slab_htlb | minecraft:stonecutting | ctl:htlb_block ctl:vertical_slab_htlb minecraft:stonecutting
+ctl:vertical_step_htlb | minecraft:stonecutting | ctl:htlb_block ctl:vertical_step_htlb minecraft:stonecutting
+ctl:vertical_step_ilb | minecraft:stonecutting | ctl:ilb_block ctl:vertical_step_ilb minecraft:stonecutting

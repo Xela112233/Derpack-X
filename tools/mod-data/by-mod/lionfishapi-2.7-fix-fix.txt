@@ -1,0 +1,19 @@
+# lionfishapi-2.7-fix-fix
+
+## mod metadata (id / version / deps)
+license="LGPL"
+modId="lionfishapi" #mandatory
+version="2.7" #mandatory
+displayName="lionfishapi" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.0-beta,)" #mandatory
+modId="minecraft"
+versionRange="1.21"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,28 @@
+# kubejs-neoforge-2101.7.2-build.363
+
+## mod metadata (id / version / deps)
+license = "GNU LGPLv3"
+modId = "kubejs"
+version = "2101.7.2-build.363"
+displayName = "KubeJS"
+modId = "neoforge"
+versionRange = "[21.1.199,)"
+modId = "rhino"
+versionRange = "[2101.2.7-build.81,)"
+modId = "jei"
+versionRange = "[19.25.0.322,)"
+modId = "roughlyenoughitems"
+versionRange = "[16.0.799,)"
+modId = "emi"
+versionRange = "[1.1.22,)"
+modId = "betteradvancedtooltips"
+versionRange = "[2101.1.0-build.1,)"
+
+## blocks
+
+## items
+kubejs:generated_bucket
+
+## neoforge biome_modifiers
+
+## c: common tag membership

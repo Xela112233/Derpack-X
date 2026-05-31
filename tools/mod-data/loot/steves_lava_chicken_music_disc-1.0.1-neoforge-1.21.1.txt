@@ -1,0 +1,1 @@
+steves_lava_chicken_music_disc:entities/loot_1 | minecraft:entity | minecraft:entity minecraft:item minecraft:set_count steves_lava_chicken_music_disc:entities/loot_1 steves_lava_chicken_music_disc:hyper_potions_lava_chicken

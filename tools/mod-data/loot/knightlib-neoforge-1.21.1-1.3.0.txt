@@ -1,0 +1,1 @@
+knightlib:blocks/great_chalice | minecraft:block | knightlib:great_chalice minecraft:block minecraft:item minecraft:survives_explosion

@@ -1,0 +1,18 @@
+# Zeta-1.1-40
+
+## mod metadata (id / version / deps)
+license = "https://github.com/VazkiiMods/Zeta/blob/master/LICENSE.md"
+modId = "zeta"
+displayName = "Zeta"
+version = "1.1-40"
+modId = "neoforge"
+versionRange = "[21.1.192,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+biome_modifier.json :: { "type": "zeta:biome_modifier"}
+
+## c: common tag membership

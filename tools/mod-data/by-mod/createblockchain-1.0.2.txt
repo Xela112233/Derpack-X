@@ -1,0 +1,35 @@
+# createblockchain-1.0.2
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="createblockchain" #mandatory
+version="1.0.2" #mandatory
+displayName="Create: Blockchain" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.1.192,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="create_numismatics"
+versionRange="[1.0.18,)" # Requires version 1.0.0 or newer for 1.21.1
+
+## blocks
+createblockchain:cryotheum_coolant_block
+createblockchain:currency_miner
+createblockchain:currency_miner_on
+createblockchain:mining_core_geode
+createblockchain:piggy_bank
+
+## items
+createblockchain:cryotheum_coolant_bucket
+createblockchain:currency_miner
+createblockchain:mining_core
+createblockchain:mining_core_geode
+createblockchain:piggy_bank
+createblockchain:remote_finder
+
+## neoforge biome_modifiers
+add_mining_core_geode.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "createblockchain:mining_core_geode_placed", "step": "local_modifications"}
+
+## c: common tag membership
+fluid/coolants.json :: { "values": [ "createblockchain:cryotheum_coolant", "createblockchain:flowing_cryotheum_coolant" ]}
+fluid/water.json :: { "values": [ "createblockchain:cryotheum_coolant", "createblockchain:flowing_cryotheum_coolant" ]}

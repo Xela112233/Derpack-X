@@ -1,0 +1,239 @@
+# DnDesires-1.21.1-2.2d-BETA
+
+## mod metadata (id / version / deps)
+license="MIT & ARR"
+modId="dndesires"
+version="2.2d-BETA"
+displayName="Create: Dreams n' Desires"
+modId="neoforge"
+versionRange="[21.1.200,)"
+modId="minecraft"
+versionRange="[1.21.1,1.22)"
+modId="create"
+versionRange="[6.0.6,)"
+
+## blocks
+dndesires:asphalt
+dndesires:black_asphalt
+dndesires:black_bore_block
+dndesires:blasting_sail
+dndesires:blue_asphalt
+dndesires:blue_bore_block
+dndesires:bore_block
+dndesires:breccia
+dndesires:breccia_pillar
+dndesires:brown_asphalt
+dndesires:brown_bore_block
+dndesires:chocolate_milkshake
+dndesires:cog_crank
+dndesires:creative_gear_motor
+dndesires:cut_breccia
+dndesires:cut_breccia_brick_slab
+dndesires:cut_breccia_brick_stairs
+dndesires:cut_breccia_brick_wall
+dndesires:cut_breccia_bricks
+dndesires:cut_breccia_slab
+dndesires:cut_breccia_stairs
+dndesires:cut_breccia_wall
+dndesires:cyan_asphalt
+dndesires:cyan_bore_block
+dndesires:dragon_breathing_sail
+dndesires:fluid_gauge
+dndesires:fluid_hatch
+dndesires:freezing_sail
+dndesires:glowberry_milkshake
+dndesires:gold_mixer
+dndesires:gray_asphalt
+dndesires:gray_bore_block
+dndesires:green_asphalt
+dndesires:green_bore_block
+dndesires:haunting_sail
+dndesires:hydraulic_press
+dndesires:industrial_casing
+dndesires:industrial_fan
+dndesires:inverse_gearshift
+dndesires:large_cog_crank
+dndesires:layered_breccia
+dndesires:light_blue_asphalt
+dndesires:light_blue_bore_block
+dndesires:light_gray_asphalt
+dndesires:light_gray_bore_block
+dndesires:lime_asphalt
+dndesires:lime_bore_block
+dndesires:magenta_asphalt
+dndesires:magenta_bore_block
+dndesires:multimeter
+dndesires:omni_gearbox
+dndesires:omni_speed_controller
+dndesires:orange_asphalt
+dndesires:orange_bore_block
+dndesires:overburden_casing
+dndesires:pink_asphalt
+dndesires:pink_bore_block
+dndesires:polished_cut_breccia
+dndesires:polished_cut_breccia_slab
+dndesires:polished_cut_breccia_stairs
+dndesires:polished_cut_breccia_wall
+dndesires:powered_flywheel
+dndesires:pumpkin_milkshake
+dndesires:purple_asphalt
+dndesires:purple_bore_block
+dndesires:red_asphalt
+dndesires:red_bore_block
+dndesires:roll_table
+dndesires:sanding_sail
+dndesires:seething_sail
+dndesires:small_breccia_brick_slab
+dndesires:small_breccia_brick_stairs
+dndesires:small_breccia_brick_wall
+dndesires:small_breccia_bricks
+dndesires:smart_hopper
+dndesires:smoking_sail
+dndesires:splashing_sail
+dndesires:stirling_engine
+dndesires:strawberry_milkshake
+dndesires:vanilla_milkshake
+dndesires:white_asphalt
+dndesires:white_bore_block
+dndesires:yellow_asphalt
+dndesires:yellow_bore_block
+
+## items
+dndesires:asphalt
+dndesires:black_asphalt
+dndesires:black_bore_block
+dndesires:blasting_sail
+dndesires:blue_asphalt
+dndesires:blue_bore_block
+dndesires:bore_block
+dndesires:breccia
+dndesires:breccia_pillar
+dndesires:brown_asphalt
+dndesires:brown_bore_block
+dndesires:burner
+dndesires:cardboard_package_10x12
+dndesires:cardboard_package_10x8
+dndesires:cardboard_package_12x10
+dndesires:cardboard_package_12x12
+dndesires:chocolate_milkshake
+dndesires:chocolate_milkshake_bucket
+dndesires:coal_piece
+dndesires:cog_crank
+dndesires:creative_gear_motor
+dndesires:cut_breccia
+dndesires:cut_breccia_brick_slab
+dndesires:cut_breccia_brick_stairs
+dndesires:cut_breccia_brick_wall
+dndesires:cut_breccia_bricks
+dndesires:cut_breccia_slab
+dndesires:cut_breccia_stairs
+dndesires:cut_breccia_wall
+dndesires:cyan_asphalt
+dndesires:cyan_bore_block
+dndesires:diamond_shard
+dndesires:dragon_breathing_sail
+dndesires:fluid_gauge
+dndesires:fluid_hatch
+dndesires:freezing_sail
+dndesires:gatling_breaker
+dndesires:gatling_breaker/core
+dndesires:gatling_breaker/core_glow
+dndesires:gatling_breaker/gear
+dndesires:gatling_breaker/item
+dndesires:glowberry_milkshake
+dndesires:glowberry_milkshake_bucket
+dndesires:gold_mixer
+dndesires:gold_whisk
+dndesires:gray_asphalt
+dndesires:gray_bore_block
+dndesires:green_asphalt
+dndesires:green_bore_block
+dndesires:handheld_drill
+dndesires:handheld_drill/cog
+dndesires:handheld_drill/drill
+dndesires:handheld_drill/item
+dndesires:handheld_saw
+dndesires:handheld_saw/cog
+dndesires:handheld_saw/item
+dndesires:haunting_sail
+dndesires:hydraulic_press
+dndesires:industrial_casing
+dndesires:industrial_fan
+dndesires:inverse_gearshift
+dndesires:lapis_lazuli_shard
+dndesires:large_cog_crank
+dndesires:layered_breccia
+dndesires:light_blue_asphalt
+dndesires:light_blue_bore_block
+dndesires:light_gray_asphalt
+dndesires:light_gray_bore_block
+dndesires:lime_asphalt
+dndesires:lime_bore_block
+dndesires:magenta_asphalt
+dndesires:magenta_bore_block
+dndesires:multimeter
+dndesires:omni_gearbox
+dndesires:omni_speed_controller
+dndesires:orange_asphalt
+dndesires:orange_bore_block
+dndesires:overburden_casing
+dndesires:pink_asphalt
+dndesires:pink_bore_block
+dndesires:polished_cut_breccia
+dndesires:polished_cut_breccia_slab
+dndesires:polished_cut_breccia_stairs
+dndesires:polished_cut_breccia_wall
+dndesires:pumpkin_milkshake
+dndesires:pumpkin_milkshake_bucket
+dndesires:purple_asphalt
+dndesires:purple_bore_block
+dndesires:rare_creeper_package
+dndesires:rare_darcy_package
+dndesires:rare_evan_package
+dndesires:rare_jinx_package
+dndesires:rare_kryppers_package
+dndesires:rare_simi_package
+dndesires:rare_starlotte_package
+dndesires:rare_thunder_package
+dndesires:rare_up_package
+dndesires:rare_vector_package
+dndesires:red_asphalt
+dndesires:red_bore_block
+dndesires:roll_table
+dndesires:sanding_sail
+dndesires:seething_sail
+dndesires:small_breccia_brick_slab
+dndesires:small_breccia_brick_stairs
+dndesires:small_breccia_brick_wall
+dndesires:small_breccia_bricks
+dndesires:smart_hopper
+dndesires:smoking_sail
+dndesires:splashing_sail
+dndesires:stirling_engine
+dndesires:strawberry_milkshake
+dndesires:strawberry_milkshake_bucket
+dndesires:vanilla_milkshake
+dndesires:vanilla_milkshake_bucket
+dndesires:white_asphalt
+dndesires:white_bore_block
+dndesires:yellow_asphalt
+dndesires:yellow_bore_block
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+fluid/chocolate_milkshakes.json :: { "values": [ "dndesires:flowing_chocolate_milkshake", "dndesires:chocolate_milkshake" ]}
+fluid/glowberry_milkshakes.json :: { "values": [ "dndesires:flowing_glowberry_milkshake", "dndesires:glowberry_milkshake" ]}
+fluid/pumpkin_milkshakes.json :: { "values": [ "dndesires:flowing_pumpkin_milkshake", "dndesires:pumpkin_milkshake" ]}
+fluid/strawberry_milkshakes.json :: { "values": [ "dndesires:flowing_strawberry_milkshake", "dndesires:strawberry_milkshake" ]}
+fluid/vanilla_milkshakes.json :: { "values": [ "dndesires:flowing_vanilla_milkshake", "dndesires:vanilla_milkshake" ]}
+item/buckets/chocolate_milkshake.json :: { "values": [ "dndesires:chocolate_milkshake_bucket" ]}
+item/buckets/glowberry_milkshake.json :: { "values": [ "dndesires:glowberry_milkshake_bucket" ]}
+item/buckets/pumpkin_milkshake.json :: { "values": [ "dndesires:pumpkin_milkshake_bucket" ]}
+item/buckets/strawberry_milkshake.json :: { "values": [ "dndesires:strawberry_milkshake_bucket" ]}
+item/buckets/vanilla_milkshake.json :: { "values": [ "dndesires:vanilla_milkshake_bucket" ]}
+item/nuggets/coal.json :: { "values": [ "dndesires:coal_piece" ]}
+item/nuggets/diamond.json :: { "values": [ "dndesires:diamond_shard" ]}
+item/nuggets/lapis.json :: { "values": [ "dndesires:lapis_lazuli_shard" ]}
+item/nuggets.json :: { "values": [ "dndesires:lapis_lazuli_shard", "dndesires:diamond_shard", "dndesires:coal_piece" ]}
+item/tools.json :: { "values": [ "dndesires:handheld_saw", "dndesires:handheld_drill", "dndesires:gatling_breaker" ]}

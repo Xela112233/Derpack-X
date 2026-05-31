@@ -1,0 +1,4 @@
+netmusic:blocks/big_megaphone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion netmusic:big_megaphone
+netmusic:blocks/cd_burner | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion netmusic:cd_burner
+netmusic:blocks/computer | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion netmusic:computer
+netmusic:blocks/music_player | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion netmusic:music_player

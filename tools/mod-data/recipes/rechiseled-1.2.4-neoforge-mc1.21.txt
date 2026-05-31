@@ -1,0 +1,1 @@
+rechiseled:chisel | minecraft:crafting_shaped | c:ingots/iron c:rods/wooden minecraft:crafting_shaped rechiseled:chisel

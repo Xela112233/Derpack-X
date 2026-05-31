@@ -1,0 +1,24 @@
+create_factory:cake_paste | create:mixing | c:milk create:dough create:mixing create_factory:cake_paste minecraft:egg minecraft:sugar neoforge:tag
+create_factory:caramel_apple | create:filling | create:filling create_confectionery:caramel create_factory:caramel_apple minecraft:apple neoforge:mod_loaded neoforge:single
+create_factory:caramel_roll | create:filling | create:filling create_confectionery:caramel create_factory:caramel_roll minecraft:bread neoforge:mod_loaded neoforge:single
+create_factory:caramel_waffle | create:filling | create:filling create_confectionery:caramel create_factory:caramel_waffle create_factory:waffle neoforge:mod_loaded neoforge:single
+create_factory:chocolate_apple | create:filling | create:chocolate create:filling create_factory:chocolate_apple minecraft:apple neoforge:single
+create_factory:chocolate_roll | create:filling | create:chocolate create:filling create_factory:chocolate_roll minecraft:bread neoforge:single
+create_factory:chocolate_waffle | create:filling | create:chocolate create:filling create_factory:chocolate_waffle create_factory:waffle neoforge:single
+create_factory:dark_chocolate_apple | create:filling | create:filling create_confectionery:black_chocolate create_factory:dark_chocolate_apple minecraft:apple neoforge:mod_loaded neoforge:single
+create_factory:dark_chocolate_roll | create:filling | create:filling create_confectionery:black_chocolate create_factory:dark_chocolate_roll minecraft:bread neoforge:mod_loaded neoforge:single
+create_factory:dark_chocolate_waffle | create:filling | create:filling create_confectionery:black_chocolate create_factory:dark_chocolate_waffle create_factory:waffle neoforge:mod_loaded neoforge:single
+create_factory:honey_glazed_berries | create:filling | c:honey create:filling create_factory:honey_glazed_berries minecraft:sweet_berries neoforge:tag
+create_factory:honey_roll | create:filling | c:honey create:filling create_factory:honey_roll minecraft:bread neoforge:tag
+create_factory:honey_waffle | create:filling | c:honey create:filling create_factory:honey_waffle create_factory:waffle neoforge:tag
+create_factory:ruby_chocolate_apple | create:filling | create:filling create_confectionery:ruby_chocolate create_factory:ruby_chocolate_apple minecraft:apple neoforge:mod_loaded neoforge:single
+create_factory:ruby_chocolate_roll | create:filling | create:filling create_confectionery:ruby_chocolate create_factory:ruby_chocolate_roll minecraft:bread neoforge:mod_loaded neoforge:single
+create_factory:ruby_chocolate_waffle | create:filling | create:filling create_confectionery:ruby_chocolate create_factory:ruby_chocolate_waffle create_factory:waffle neoforge:mod_loaded neoforge:single
+create_factory:sweet_berries_jam | create:mixing | create:mixing create_factory:sweet_berries_jam minecraft:sugar minecraft:sweet_berries
+create_factory:sweet_berries_jam_roll | create:filling | create:filling create_factory:sweet_berries_jam create_factory:sweet_berries_jam_roll minecraft:bread neoforge:single
+create_factory:sweet_berries_jam_waffle | create:filling | create:filling create_factory:sweet_berries_jam create_factory:sweet_berries_jam_waffle create_factory:waffle neoforge:single
+create_factory:uncooked_waffle | create:pressing | create:pressing create_factory:cake_paste create_factory:uncooked_waffle
+create_factory:waffle | minecraft:smoking | create_factory:uncooked_waffle create_factory:waffle minecraft:smoking
+create_factory:white_chocolate_apple | create:filling | create:filling create_confectionery:white_chocolate create_factory:white_chocolate_apple minecraft:apple neoforge:mod_loaded neoforge:single
+create_factory:white_chocolate_roll | create:filling | create:filling create_confectionery:white_chocolate create_factory:white_chocolate_roll minecraft:bread neoforge:mod_loaded neoforge:single
+create_factory:white_chocolate_waffle | create:filling | create:filling create_confectionery:white_chocolate create_factory:waffle create_factory:white_chocolate_waffle neoforge:mod_loaded neoforge:single

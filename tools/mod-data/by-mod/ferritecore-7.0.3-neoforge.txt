@@ -1,0 +1,19 @@
+# ferritecore-7.0.3-neoforge
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "ferritecore"
+version = "7.0.3"
+displayName = "Ferrite Core"
+modId = "neoforge"
+versionRange = "[21.1.218,)"
+modId = "minecraft"
+versionRange = "[1.21.1,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,19 @@
+# revelationary-neoforge-1.4.1+1.21.1
+
+## mod metadata (id / version / deps)
+license = "lGPL3"
+modId = "revelationary"
+version = "1.4.1+1.21.1"
+displayName = "Revelationary"
+modId = "neoforge"
+versionRange = "[21.1.186,21.2.0)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

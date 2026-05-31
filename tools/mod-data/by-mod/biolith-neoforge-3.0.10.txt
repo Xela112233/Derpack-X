@@ -1,0 +1,19 @@
+# biolith-neoforge-3.0.10
+
+## mod metadata (id / version / deps)
+license = "LGPL-3.0"
+modId = "biolith"
+version = "3.0.10"
+displayName = "Biolith"
+modId = "neoforge"
+versionRange = "[21.1.22,)"
+modId = "minecraft"
+versionRange = "[1.21.1,1.21.2)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

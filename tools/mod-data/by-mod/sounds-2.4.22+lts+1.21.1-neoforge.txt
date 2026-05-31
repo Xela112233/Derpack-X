@@ -1,0 +1,25 @@
+# sounds-2.4.22+lts+1.21.1-neoforge
+
+## mod metadata (id / version / deps)
+license="ARR"
+modId="sounds"
+version="2.4.22+lts"
+displayName="Sounds"
+modId="neoforge"
+versionRange="[4, )"
+modId = "yet_another_config_lib_v3"
+versionRange="[*,)"
+modId="minecraft"
+versionRange="[1.21, 1.21.1]"
+modId="mru"
+versionRange="[1.0.19+LTS+1.21.1,)"
+modId = "rsls"
+versionRange = " "
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

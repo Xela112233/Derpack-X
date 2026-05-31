@@ -1,0 +1,6 @@
+gamediscs:battery | minecraft:crafting_shaped | gamediscs:battery minecraft:copper_ingot minecraft:crafting_shaped minecraft:quartz minecraft:redstone
+gamediscs:control_pad | minecraft:crafting_shaped | gamediscs:control_pad minecraft:buttons minecraft:crafting_shaped minecraft:quartz
+gamediscs:display | minecraft:crafting_shaped | gamediscs:display gamediscs:glass_panes minecraft:crafting_shaped minecraft:glowstone_dust minecraft:redstone
+gamediscs:gaming_console | minecraft:crafting_shaped | gamediscs:battery gamediscs:control_pad gamediscs:display gamediscs:gaming_console gamediscs:processor gamediscs:redstone_circuit minecraft:crafting_shaped minecraft:iron_ingot
+gamediscs:processor | minecraft:crafting_shaped | gamediscs:processor minecraft:comparator minecraft:crafting_shaped
+gamediscs:redstone_circuit | minecraft:crafting_shaped | gamediscs:redstone_circuit minecraft:comparator minecraft:crafting_shaped minecraft:redstone minecraft:redstone_torch

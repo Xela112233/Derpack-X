@@ -1,0 +1,19 @@
+# foodeffecttooltips+neoforge-1.21.1-1.4.0
+
+## mod metadata (id / version / deps)
+license="LGPL-3"
+modId="foodeffecttooltips"
+version="1.4.0"
+displayName="Food Effect Tooltips"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

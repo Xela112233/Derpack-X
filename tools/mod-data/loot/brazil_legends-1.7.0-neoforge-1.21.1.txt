@@ -1,0 +1,8 @@
+brazil_legends:blocks/amber_pearl | minecraft:block | brazil_legends:amber_pearl brazil_legends:blocks/amber_pearl minecraft:block minecraft:item minecraft:survives_explosion
+brazil_legends:blocks/amber_pearl_2 | minecraft:block | brazil_legends:blocks/amber_pearl_2 minecraft:block
+brazil_legends:blocks/amber_pearl_3 | minecraft:block | brazil_legends:blocks/amber_pearl_3 minecraft:block
+brazil_legends:entities/capelobo | minecraft:entity | brazil_legends:big_tongue brazil_legends:capelobo_claw brazil_legends:entities/capelobo minecraft:entity minecraft:item minecraft:set_count
+brazil_legends:entities/cuca | minecraft:entity | brazil_legends:amber_shard brazil_legends:entities/cuca minecraft:entity minecraft:item minecraft:set_count
+brazil_legends:entities/headless_mule | minecraft:entity | brazil_legends:entities/headless_mule brazil_legends:flaming_leather minecraft:entity minecraft:item minecraft:netherite_scrap minecraft:set_count
+brazil_legends:entities/mapinguari | minecraft:entity | brazil_legends:entities/mapinguari brazil_legends:mapinguari_eye brazil_legends:mapinguari_fang minecraft:entity minecraft:item minecraft:set_count
+brazil_legends:entities/mapinguary | minecraft:entity | brazil_legends:entities/mapinguary brazil_legends:mapinguari_eye brazil_legends:mapinguari_fang minecraft:entity minecraft:item minecraft:set_count

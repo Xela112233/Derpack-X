@@ -1,0 +1,15 @@
+# ZombieMoon-1.21-2.0.1
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved."
+modId="zombiemoon"
+version="1.21"
+displayName="Horde Moon"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,51 @@
+beachparty:banner_from_smithing_table | minecraft:smithing_transform | beachparty:beachparty_banner minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+beachparty:beach_chair | minecraft:crafting_shaped | beachparty:beach_chair beachparty:palm_planks minecraft:crafting_shaped minecraft:stick minecraft:wool
+beachparty:beach_goal | minecraft:crafting_shaped | beachparty:beach_goal minecraft:crafting_shaped minecraft:stick minecraft:wool
+beachparty:beach_parasol | minecraft:crafting_shaped | beachparty:beach_parasol beachparty:palm_planks minecraft:crafting_shaped minecraft:wool
+beachparty:beach_sun_lounger | minecraft:crafting_shaped | beachparty:beach_sun_lounger beachparty:palm_planks minecraft:crafting_shaped minecraft:wool
+beachparty:beach_towel | minecraft:crafting_shaped | beachparty:beach_towel minecraft:crafting_shaped minecraft:wool
+beachparty:cooked_mussel_meat | minecraft:smelting | beachparty:cooked_mussel_meat beachparty:raw_mussel_meat minecraft:smelting
+beachparty:cooked_mussel_meat_from_campfire_cooking | minecraft:campfire_cooking | beachparty:cooked_mussel_meat beachparty:raw_mussel_meat minecraft:campfire_cooking
+beachparty:cooked_mussel_meat_from_smoking | minecraft:smoking | beachparty:cooked_mussel_meat beachparty:raw_mussel_meat minecraft:smoking
+beachparty:empty_sand_bucket | minecraft:crafting_shaped | beachparty:sand_bucket_empty minecraft:crafting_shaped minecraft:dried_kelp minecraft:wooden_shovel
+beachparty:hooded_beach_chair | minecraft:crafting_shaped | beachparty:hooded_beach_chair beachparty:palm_planks minecraft:crafting_shaped minecraft:stick minecraft:wool
+beachparty:mini_fridge | minecraft:crafting_shaped | beachparty:mini_fridge minecraft:crafting_shaped minecraft:iron_ingot minecraft:redstone
+beachparty:mini_fridge_freezing/blue_ice | beachparty:mini_fridge_freezing | beachparty:mini_fridge_freezing minecraft:blue_ice minecraft:packed_ice
+beachparty:mini_fridge_freezing/ice | beachparty:mini_fridge_freezing | beachparty:mini_fridge_freezing minecraft:ice minecraft:potion minecraft:water
+beachparty:mini_fridge_freezing/packed_ice | beachparty:mini_fridge_freezing | beachparty:mini_fridge_freezing minecraft:ice minecraft:packed_ice
+beachparty:mini_fridge_freezing/powder_snow_bucket | beachparty:mini_fridge_freezing | beachparty:mini_fridge_freezing minecraft:powder_snow_bucket minecraft:water_bucket
+beachparty:palm_bar | minecraft:crafting_shaped | beachparty:palm_bar beachparty:palm_planks minecraft:crafting_shaped
+beachparty:palm_bar_mixing/cocoa_cocktail | beachparty:palm_bar_mixing | beachparty:cocoa_cocktail beachparty:palm_bar_mixing minecraft:cocoa_beans minecraft:ice minecraft:sugar
+beachparty:palm_bar_mixing/coconut_cocktail | beachparty:palm_bar_mixing | beachparty:coconut_cocktail beachparty:coconut_open beachparty:palm_bar_mixing minecraft:honey_bottle minecraft:ice
+beachparty:palm_bar_mixing/honey_cocktail | beachparty:palm_bar_mixing | beachparty:honey_cocktail beachparty:palm_bar_mixing minecraft:honeycomb minecraft:ice minecraft:milk_bucket
+beachparty:palm_bar_mixing/melon_cocktail | beachparty:palm_bar_mixing | beachparty:melon_cocktail beachparty:palm_bar_mixing minecraft:ice minecraft:melon_slice minecraft:sugar
+beachparty:palm_bar_mixing/pumpkin_cocktail | beachparty:palm_bar_mixing | beachparty:palm_bar_mixing beachparty:pumpkin_cocktail minecraft:ice minecraft:milk_bucket minecraft:pumpkin minecraft:sugar
+beachparty:palm_bar_mixing/sweetberries_cocktail | beachparty:palm_bar_mixing | beachparty:palm_bar_mixing beachparty:sweetberries_cocktail minecraft:ice minecraft:sugar minecraft:sweet_berries
+beachparty:palm_bar_stool | minecraft:crafting_shaped | beachparty:palm_bar_stool beachparty:palm_planks minecraft:crafting_shaped minecraft:stick minecraft:wool
+beachparty:palm_boat | minecraft:crafting_shaped | beachparty:palm_boat beachparty:palm_planks minecraft:crafting_shaped
+beachparty:palm_button | minecraft:crafting_shapeless | beachparty:palm_button beachparty:palm_planks minecraft:crafting_shapeless
+beachparty:palm_cabinet | minecraft:crafting_shaped | beachparty:palm_cabinet beachparty:palm_planks beachparty:palm_slab minecraft:crafting_shaped
+beachparty:palm_chair | minecraft:crafting_shaped | beachparty:palm_chair beachparty:palm_planks minecraft:crafting_shaped minecraft:stick minecraft:wool
+beachparty:palm_chest_boat | minecraft:crafting_shapeless | beachparty:palm_boat beachparty:palm_chest_boat minecraft:chest minecraft:crafting_shapeless
+beachparty:palm_door | minecraft:crafting_shaped | beachparty:palm_door beachparty:palm_planks minecraft:crafting_shaped
+beachparty:palm_fence | minecraft:crafting_shaped | beachparty:palm_fence beachparty:palm_planks minecraft:crafting_shaped minecraft:stick
+beachparty:palm_fence_gate | minecraft:crafting_shaped | beachparty:palm_fence_gate beachparty:palm_planks minecraft:crafting_shaped minecraft:stick
+beachparty:palm_floorboard | minecraft:crafting_shaped | beachparty:palm_floorboard beachparty:palm_planks beachparty:palm_slab minecraft:crafting_shaped
+beachparty:palm_glass | minecraft:crafting_shaped | beachparty:palm_glass beachparty:palm_planks minecraft:crafting_shaped minecraft:glass
+beachparty:palm_glass_pane | minecraft:crafting_shaped | beachparty:palm_glass_pane beachparty:palm_planks minecraft:crafting_shaped minecraft:glass_pane
+beachparty:palm_glass_pane_from_palm_glass | minecraft:crafting_shaped | beachparty:palm_glass beachparty:palm_glass_pane minecraft:crafting_shaped
+beachparty:palm_hanging_sign | minecraft:crafting_shaped | beachparty:palm_hanging_sign beachparty:stripped_palm_log minecraft:chain minecraft:crafting_shaped
+beachparty:palm_planks | minecraft:crafting_shapeless | beachparty:palm_logs beachparty:palm_planks minecraft:crafting_shapeless
+beachparty:palm_pressure_plate | minecraft:crafting_shaped | beachparty:palm_planks beachparty:palm_pressure_plate minecraft:crafting_shaped
+beachparty:palm_sign | minecraft:crafting_shaped | beachparty:palm_planks beachparty:palm_sign minecraft:crafting_shaped minecraft:stick
+beachparty:palm_slab | minecraft:crafting_shaped | beachparty:palm_planks beachparty:palm_slab minecraft:crafting_shaped
+beachparty:palm_stairs | minecraft:crafting_shaped | beachparty:palm_planks beachparty:palm_stairs minecraft:crafting_shaped
+beachparty:palm_table | minecraft:crafting_shaped | beachparty:palm_planks beachparty:palm_slab beachparty:palm_table minecraft:crafting_shaped minecraft:stick
+beachparty:palm_torch_item | minecraft:crafting_shaped | beachparty:palm_torch_item minecraft:bamboo minecraft:charcoal minecraft:coal minecraft:crafting_shaped
+beachparty:palm_trapdoor | minecraft:crafting_shaped | beachparty:palm_planks beachparty:palm_trapdoor minecraft:crafting_shaped
+beachparty:palm_wood | minecraft:crafting_shaped | beachparty:palm_log beachparty:palm_wood minecraft:crafting_shaped
+beachparty:radio | minecraft:crafting_shaped | beachparty:overgrown_disc beachparty:radio minecraft:crafting_shaped minecraft:note_block
+beachparty:stripped_palm_wood | minecraft:crafting_shaped | beachparty:stripped_palm_log beachparty:stripped_palm_wood minecraft:crafting_shaped
+beachparty:tall_tiki_torch | minecraft:crafting_shaped | beachparty:tall_palm_torch minecraft:bamboo minecraft:charcoal minecraft:coal minecraft:crafting_shaped
+beachparty:thatch_slab | minecraft:crafting_shaped | beachparty:thatch beachparty:thatch_slab minecraft:crafting_shaped
+beachparty:thatch_stairs | minecraft:crafting_shaped | beachparty:thatch beachparty:thatch_stairs minecraft:crafting_shaped

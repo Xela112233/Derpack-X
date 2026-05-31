@@ -1,0 +1,19 @@
+# create_ultimate_factory-2.2.3-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="create_ultimate_factory"
+version="2.2.3"
+displayName="Create: Ultimate Factory"
+modId="neoforge"
+versionRange="[21.1.65,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

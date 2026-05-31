@@ -1,0 +1,3 @@
+endrem:exotic_eye | minecraft:crafting_shaped | endrem:exotic_eye minecraft:bubble_coral minecraft:conduit minecraft:crafting_shaped minecraft:ender_eye minecraft:fire_coral minecraft:glow_ink_sac minecraft:horn_coral minecraft:tube_coral
+endrem:undead_eye | minecraft:crafting_shaped | endrem:undead_eye endrem:undead_soul minecraft:bone minecraft:crafting_shaped minecraft:ghast_tear minecraft:phantom_membrane minecraft:rotten_flesh
+endrem:witch_eye | minecraft:crafting_shapeless | endrem:witch_eye endrem:witch_pupil minecraft:crafting_shapeless minecraft:ender_eye

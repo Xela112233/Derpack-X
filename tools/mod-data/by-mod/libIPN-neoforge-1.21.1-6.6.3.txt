@@ -1,0 +1,19 @@
+# libIPN-neoforge-1.21.1-6.6.3
+
+## mod metadata (id / version / deps)
+license="AGPL-3"
+modId="libipn"
+version="6.6.3"
+displayName="libIPN"
+modId="neoforge"
+versionRange="[21.1,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.21.2)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,249 @@
+# ecologics-1.21.1-2.3.3
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "ecologics"
+version = "2.3.3"
+displayName = "Ecologics"
+modId = "neoforge"
+versionRange = "[21.1.83,)"
+modId = "minecraft"
+versionRange = "[1.21.1,)"
+
+## blocks
+ecologics:azalea_button
+ecologics:azalea_door
+ecologics:azalea_fence
+ecologics:azalea_fence_gate
+ecologics:azalea_flower
+ecologics:azalea_hanging_sign
+ecologics:azalea_log
+ecologics:azalea_planks
+ecologics:azalea_pressure_plate
+ecologics:azalea_sign
+ecologics:azalea_slab
+ecologics:azalea_stairs
+ecologics:azalea_trapdoor
+ecologics:azalea_wall_hanging_sign
+ecologics:azalea_wall_sign
+ecologics:azalea_wood
+ecologics:coconut
+ecologics:coconut_button
+ecologics:coconut_door
+ecologics:coconut_fence
+ecologics:coconut_fence_gate
+ecologics:coconut_hanging_sign
+ecologics:coconut_leaves
+ecologics:coconut_log
+ecologics:coconut_planks
+ecologics:coconut_pressure_plate
+ecologics:coconut_seedling
+ecologics:coconut_sign
+ecologics:coconut_slab
+ecologics:coconut_stairs
+ecologics:coconut_trapdoor
+ecologics:coconut_wall_hanging_sign
+ecologics:coconut_wall_sign
+ecologics:coconut_wood
+ecologics:flowering_azalea_door
+ecologics:flowering_azalea_fence
+ecologics:flowering_azalea_fence_gate
+ecologics:flowering_azalea_hanging_sign
+ecologics:flowering_azalea_log
+ecologics:flowering_azalea_planks
+ecologics:flowering_azalea_sign
+ecologics:flowering_azalea_slab
+ecologics:flowering_azalea_stairs
+ecologics:flowering_azalea_trapdoor
+ecologics:flowering_azalea_wall_hanging_sign
+ecologics:flowering_azalea_wall_sign
+ecologics:flowering_azalea_wood
+ecologics:hanging_coconut
+ecologics:ice_brick_slab
+ecologics:ice_brick_stairs
+ecologics:ice_brick_wall
+ecologics:ice_bricks
+ecologics:moss_layer
+ecologics:pot
+ecologics:potted_azalea_flower
+ecologics:potted_coconut_seedling
+ecologics:potted_walnut_sapling
+ecologics:prickly_pear
+ecologics:sandcastle
+ecologics:seashell
+ecologics:seashell_block
+ecologics:seashell_tile_slab
+ecologics:seashell_tile_stairs
+ecologics:seashell_tile_wall
+ecologics:seashell_tiles
+ecologics:snow_brick_slab
+ecologics:snow_brick_stairs
+ecologics:snow_brick_wall
+ecologics:snow_bricks
+ecologics:stripped_azalea_log
+ecologics:stripped_azalea_wood
+ecologics:stripped_coconut_log
+ecologics:stripped_coconut_wood
+ecologics:stripped_walnut_log
+ecologics:stripped_walnut_wood
+ecologics:surface_moss
+ecologics:thin_ice
+ecologics:walnut_button
+ecologics:walnut_door
+ecologics:walnut_fence
+ecologics:walnut_fence_gate
+ecologics:walnut_hanging_sign
+ecologics:walnut_leaves
+ecologics:walnut_log
+ecologics:walnut_planks
+ecologics:walnut_pressure_plate
+ecologics:walnut_sapling
+ecologics:walnut_sign
+ecologics:walnut_slab
+ecologics:walnut_stairs
+ecologics:walnut_trapdoor
+ecologics:walnut_wall_hanging_sign
+ecologics:walnut_wall_sign
+ecologics:walnut_wood
+
+## items
+ecologics:azalea_boat
+ecologics:azalea_button
+ecologics:azalea_chest_boat
+ecologics:azalea_door
+ecologics:azalea_fence
+ecologics:azalea_fence_gate
+ecologics:azalea_flower
+ecologics:azalea_hanging_sign
+ecologics:azalea_log
+ecologics:azalea_planks
+ecologics:azalea_pressure_plate
+ecologics:azalea_sign
+ecologics:azalea_slab
+ecologics:azalea_stairs
+ecologics:azalea_trapdoor
+ecologics:azalea_wood
+ecologics:camel_spawn_egg
+ecologics:coconut
+ecologics:coconut_boat
+ecologics:coconut_button
+ecologics:coconut_chest_boat
+ecologics:coconut_crab_spawn_egg
+ecologics:coconut_door
+ecologics:coconut_fence
+ecologics:coconut_fence_gate
+ecologics:coconut_hanging_sign
+ecologics:coconut_husk
+ecologics:coconut_leaves
+ecologics:coconut_log
+ecologics:coconut_planks
+ecologics:coconut_pressure_plate
+ecologics:coconut_seedling
+ecologics:coconut_sign
+ecologics:coconut_slab
+ecologics:coconut_slice
+ecologics:coconut_stairs
+ecologics:coconut_trapdoor
+ecologics:coconut_wood
+ecologics:cooked_prickly_pear
+ecologics:crab_claw
+ecologics:crab_meat
+ecologics:flowering_azalea_boat
+ecologics:flowering_azalea_chest_boat
+ecologics:flowering_azalea_door
+ecologics:flowering_azalea_fence
+ecologics:flowering_azalea_fence_gate
+ecologics:flowering_azalea_hanging_sign
+ecologics:flowering_azalea_log
+ecologics:flowering_azalea_planks
+ecologics:flowering_azalea_sign
+ecologics:flowering_azalea_slab
+ecologics:flowering_azalea_stairs
+ecologics:flowering_azalea_trapdoor
+ecologics:flowering_azalea_wood
+ecologics:ice_brick_slab
+ecologics:ice_brick_stairs
+ecologics:ice_brick_wall
+ecologics:ice_bricks
+ecologics:moss_layer
+ecologics:music_disc_coconut
+ecologics:penguin_feather
+ecologics:penguin_spawn_egg
+ecologics:pot
+ecologics:prickly_pear
+ecologics:sandcastle
+ecologics:seashell
+ecologics:seashell_block
+ecologics:seashell_tile_slab
+ecologics:seashell_tile_stairs
+ecologics:seashell_tile_wall
+ecologics:seashell_tiles
+ecologics:snow_brick_slab
+ecologics:snow_brick_stairs
+ecologics:snow_brick_wall
+ecologics:snow_bricks
+ecologics:squirrel_spawn_egg
+ecologics:stripped_azalea_log
+ecologics:stripped_azalea_wood
+ecologics:stripped_coconut_log
+ecologics:stripped_coconut_wood
+ecologics:stripped_walnut_log
+ecologics:stripped_walnut_wood
+ecologics:surface_moss
+ecologics:thin_ice
+ecologics:tropical_stew
+ecologics:walnut
+ecologics:walnut_boat
+ecologics:walnut_button
+ecologics:walnut_chest_boat
+ecologics:walnut_door
+ecologics:walnut_fence
+ecologics:walnut_fence_gate
+ecologics:walnut_hanging_sign
+ecologics:walnut_leaves
+ecologics:walnut_log
+ecologics:walnut_planks
+ecologics:walnut_pressure_plate
+ecologics:walnut_sapling
+ecologics:walnut_sign
+ecologics:walnut_slab
+ecologics:walnut_slice
+ecologics:walnut_stairs
+ecologics:walnut_trapdoor
+ecologics:walnut_wood
+
+## neoforge biome_modifiers
+add_beach_features.json :: { "type": "neoforge:add_features", "biomes": "minecraft:beach", "features": [ "ecologics:coconut", "ecologics:seashell" ], "step": "vegetal_decoration"}
+add_desert_ruin.json :: { "type": "neoforge:add_features", "biomes": "minecraft:desert", "features": "ecologics:desert_ruin", "step": "surface_structures"}
+add_prickly_pear.json :: { "type": "neoforge:add_features", "biomes": "minecraft:desert", "features": "ecologics:prickly_pear", "step": "vegetal_decoration"}
+add_rooted_azalea_tree.json :: { "type": "neoforge:add_features", "biomes": "minecraft:lush_caves", "features": "ecologics:rooted_azalea_tree", "step": "vegetal_decoration"}
+add_surface_moss_patch.json :: { "type": "neoforge:add_features", "biomes": "minecraft:lush_caves", "features": "ecologics:surface_moss_patch", "step": "vegetal_decoration"}
+add_thin_ice_patch.json :: { "type": "neoforge:add_features", "biomes": [ "minecraft:frozen_ocean", "minecraft:frozen_river", "minecraft:snowy_plains" ], "features": "ecologics:thin_ice_patch", "step": "top_layer_modification"}
+add_walnut_tree.json :: { "type": "neoforge:add_features", "biomes": "minecraft:plains", "features": "ecologics:walnut", "step": "vegetal_decoration"}
+remove_classic_vines_cave_feature.json :: { "type": "neoforge:remove_features", "biomes": "minecraft:lush_caves", "features": "minecraft:classic_vines_cave_feature", "step": "vegetal_decoration"}
+remove_rooted_azalea_tree.json :: { "type": "neoforge:remove_features", "biomes": "minecraft:lush_caves", "features": "minecraft:rooted_azalea_tree", "step": "vegetal_decoration"}
+remove_trees_plains.json :: { "type": "neoforge:remove_features", "biomes": "minecraft:plains", "features": "minecraft:trees_plains", "step": "vegetal_decoration"}
+spawn_camel.json :: { "type": "neoforge:add_spawns", "biomes": "minecraft:desert", "spawners": { "type": "minecraft:camel", "weight": 1, "minCount": 1, "maxCount": 1 }}
+spawn_penguin.json :: { "type": "neoforge:add_spawns", "biomes": [ "minecraft:frozen_ocean", "minecraft:frozen_river", "minecraft:snowy_plains" ], "spawners": { "type": "ecologics:penguin", "weight": 2, "minCount": 4, "maxCount": 5 }}
+spawn_squirrel.json :: { "type": "neoforge:add_spawns", "biomes": "minecraft:plains", "spawners": { "type": "ecologics:squirrel", "weight": 10, "minCount": 2, "maxCount": 3 }}
+
+## c: common tag membership
+block/storage_blocks.json :: { "replace": false, "values": [ "ecologics:seashell_block" ]}
+block/storage_blocks/seashell.json :: { "replace": false, "values": [ "ecologics:seashell_block" ]}
+item/enchantable/durability.json :: { "replace": false, "values": [ "ecologics:crab_claw" ]}
+item/enchantable/mining.json :: { "replace": false, "values": [ "ecologics:crab_claw" ]}
+item/enchantable/vanishing.json :: { "replace": false, "values": [ "ecologics:crab_claw" ]}
+item/enchantables.json :: { "replace": false, "values": [ "ecologics:crab_claw" ]}
+item/feathers.json :: { "replace": false, "values": [ "ecologics:penguin_feather" ]}
+item/foods.json :: { "replace": false, "values": [ "ecologics:coconut_slice", "ecologics:walnut", "ecologics:prickly_pear", "ecologics:cooked_prickly_pear", "ecologics:crab_meat", "ecologics:tropical_stew" ]}
+item/foods/cooked_meat.json :: { "replace": false, "values": [ "ecologics:crab_meat" ]}
+item/foods/fruit.json :: { "replace": false, "values": [ "ecologics:prickly_pear", "ecologics:cooked_prickly_pear" ]}
+item/foods/nut.json :: { "replace": false, "values": [ "ecologics:walnut" ]}
+item/foods/soup.json :: { "replace": false, "values": [ "ecologics:tropical_stew" ]}
+item/music_discs.json :: { "replace": false, "values": [ "ecologics:music_disc_coconut" ]}
+item/nuts.json :: { "replace": false, "values": [ "ecologics:walnut" ]}
+item/shears.json :: { "replace": false, "values": [ "minecraft:shears", "ecologics:crab_claw" ]}
+item/storage_blocks.json :: { "replace": false, "values": [ "ecologics:seashell_block" ]}
+item/storage_blocks/seashell.json :: { "replace": false, "values": [ "ecologics:seashell_block" ]}
+item/tools.json :: { "replace": false, "values": [ "ecologics:crab_claw" ]}
+item/tools/shears.json :: { "replace": false, "values": [ "ecologics:crab_claw" ]}

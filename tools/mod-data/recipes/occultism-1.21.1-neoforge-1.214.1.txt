@@ -1,0 +1,931 @@
+minecraft:repair_item | occultism:crafting_special_repairitem | occultism:crafting_special_repairitem
+occultism:blasting/copper_ingot_from_dust | minecraft:blasting | c:dusts/copper minecraft:blasting minecraft:copper_ingot
+occultism:blasting/gold_ingot_from_dust | minecraft:blasting | c:dusts/gold minecraft:blasting minecraft:gold_ingot
+occultism:blasting/iesnium_ingot_from_dust | minecraft:blasting | c:dusts/iesnium minecraft:blasting occultism:iesnium_ingot
+occultism:blasting/iesnium_ingot_from_ore | minecraft:blasting | c:ores/iesnium minecraft:blasting occultism:iesnium_ingot
+occultism:blasting/iesnium_ingot_from_raw | minecraft:blasting | c:raw_materials/iesnium minecraft:blasting occultism:iesnium_ingot
+occultism:blasting/iron_ingot_from_dust | minecraft:blasting | c:dusts/iron minecraft:blasting minecraft:iron_ingot
+occultism:blasting/netherite_ingot_from_dust | minecraft:blasting | c:dusts/netherite minecraft:blasting minecraft:netherite_ingot
+occultism:blasting/netherite_scrap_from_dust | minecraft:blasting | c:dusts/netherite_scrap minecraft:blasting minecraft:netherite_scrap
+occultism:blasting/silver_ingot_from_dust | minecraft:blasting | c:dusts/silver minecraft:blasting occultism:silver_ingot
+occultism:blasting/silver_ingot_from_ore | minecraft:blasting | c:ores/silver minecraft:blasting occultism:silver_ingot
+occultism:blasting/silver_ingot_from_raw | minecraft:blasting | c:raw_materials/silver minecraft:blasting occultism:silver_ingot
+occultism:compat/immersiveengineering/otherworld_log | immersiveengineering:sawmill | c:dusts/wood immersiveengineering:sawmill neoforge:mod_loaded occultism:otherworld_log occultism:stripped_otherworld_log
+occultism:compat/immersiveengineering/otherworld_wood | immersiveengineering:sawmill | c:dusts/wood immersiveengineering:sawmill neoforge:mod_loaded occultism:otherworld_wood occultism:stripped_otherworld_wood
+occultism:crafting/book_of_binding_afrit | minecraft:crafting_shaped | c:dyes/yellow minecraft:crafting_shaped occultism:awakened_feather occultism:book_of_binding_afrit occultism:purified_ink occultism:taboo_book
+occultism:crafting/book_of_binding_afrit_from_empty | minecraft:crafting_shaped | c:dyes/yellow minecraft:crafting_shaped occultism:book_of_binding_afrit occultism:book_of_binding_empty
+occultism:crafting/book_of_binding_bound_djinni_from_calling | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:book_of_binding_bound_djinni occultism:books/book_of_calling_djinni
+occultism:crafting/book_of_binding_bound_foliot_from_calling | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:book_of_binding_bound_foliot occultism:books/book_of_calling_foliot
+occultism:crafting/book_of_binding_djinni | minecraft:crafting_shaped | c:dyes/purple minecraft:crafting_shaped occultism:awakened_feather occultism:book_of_binding_djinni occultism:purified_ink occultism:taboo_book
+occultism:crafting/book_of_binding_djinni_from_empty | minecraft:crafting_shaped | c:dyes/purple minecraft:crafting_shaped occultism:book_of_binding_djinni occultism:book_of_binding_empty
+occultism:crafting/book_of_binding_empty | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:awakened_feather occultism:book_of_binding_empty occultism:purified_ink occultism:taboo_book
+occultism:crafting/book_of_binding_foliot | minecraft:crafting_shaped | c:dyes/blue minecraft:crafting_shaped occultism:awakened_feather occultism:book_of_binding_foliot occultism:purified_ink occultism:taboo_book
+occultism:crafting/book_of_binding_foliot_from_empty | minecraft:crafting_shaped | c:dyes/blue minecraft:crafting_shaped occultism:book_of_binding_empty occultism:book_of_binding_foliot
+occultism:crafting/book_of_binding_marid | minecraft:crafting_shaped | c:dyes/green minecraft:crafting_shaped occultism:awakened_feather occultism:book_of_binding_marid occultism:purified_ink occultism:taboo_book
+occultism:crafting/book_of_binding_marid_from_empty | minecraft:crafting_shaped | c:dyes/green minecraft:crafting_shaped occultism:book_of_binding_empty occultism:book_of_binding_marid
+occultism:crafting/book_of_calling_djinni_manage_machine | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:furnace occultism:book_of_binding_bound_djinni occultism:book_of_calling_djinni_manage_machine
+occultism:crafting/book_of_calling_foliot_cleaner | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:book_of_binding_bound_foliot occultism:book_of_calling_foliot_cleaner occultism:brush
+occultism:crafting/book_of_calling_foliot_farmer | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:villager_plantable_seeds occultism:book_of_binding_bound_foliot occultism:book_of_calling_foliot_farmer
+occultism:crafting/book_of_calling_foliot_lumberjack | minecraft:crafting_shapeless | c:tools/metal/axes minecraft:crafting_shapeless occultism:book_of_binding_bound_foliot occultism:book_of_calling_foliot_lumberjack
+occultism:crafting/book_of_calling_foliot_transport_items | minecraft:crafting_shapeless | c:chests minecraft:crafting_shapeless occultism:book_of_binding_bound_foliot occultism:book_of_calling_foliot_transport_items
+occultism:crafting/bound_book_of_binding | occultism:crafting_special_book_binding | occultism:crafting_special_book_binding
+occultism:crafting/brush | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:planks minecraft:wool occultism:brush
+occultism:crafting/butcher_knife | minecraft:crafting_shaped | c:ingots/iron c:rods/wooden minecraft:crafting_shaped occultism:butcher_knife
+occultism:crafting/chalk_black_impure | minecraft:crafting_shapeless | c:dusts/witherite minecraft:crafting_shapeless occultism:chalk_black_impure occultism:chalk_white_impure
+occultism:crafting/chalk_blue_impure | minecraft:crafting_shapeless | c:dusts/lapis c:tube_corals minecraft:crafting_shapeless occultism:chalk_blue_impure occultism:chalk_white_impure occultism:marid_essence
+occultism:crafting/chalk_brown_impure | minecraft:crafting_shapeless | minecraft:brown_mushroom minecraft:cocoa_beans minecraft:crafting_shapeless occultism:chalk_brown_impure occultism:chalk_white_impure occultism:cruelty_essence
+occultism:crafting/chalk_cyan_impure | minecraft:crafting_shapeless | c:dusts/echo c:dusts/iesnium minecraft:crafting_shapeless minecraft:glow_ink_sac occultism:chalk_cyan_impure occultism:chalk_white_impure
+occultism:crafting/chalk_gray_impure | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:chalk_gray_impure occultism:chalk_white_impure occultism:gray_paste
+occultism:crafting/chalk_green_impure | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:chalk_green_impure occultism:chalk_white_impure occultism:nature_paste
+occultism:crafting/chalk_light_blue_impure | minecraft:crafting_shapeless | c:dusts/blue_ice c:dusts/ice c:dusts/packed_ice minecraft:crafting_shapeless occultism:chalk_light_blue_impure occultism:chalk_white_impure
+occultism:crafting/chalk_light_gray_impure | minecraft:crafting_shapeless | c:dusts/calcite c:dusts/iron c:dusts/silver minecraft:crafting_shapeless occultism:chalk_light_gray_impure occultism:chalk_white_impure
+occultism:crafting/chalk_lime_impure | minecraft:crafting_shapeless | c:dusts/emerald c:dusts/research c:slime_balls minecraft:crafting_shapeless occultism:chalk_lime_impure occultism:chalk_white_impure
+occultism:crafting/chalk_magenta_impure | minecraft:crafting_shapeless | c:dusts/amethyst c:dusts/dragonyst minecraft:chorus_fruit minecraft:crafting_shapeless occultism:chalk_magenta_impure occultism:chalk_white_impure
+occultism:crafting/chalk_orange_impure | minecraft:crafting_shapeless | c:dusts/blaze minecraft:crafting_shapeless minecraft:glow_berries occultism:chalk_orange_impure occultism:chalk_white_impure occultism:cursed_honey
+occultism:crafting/chalk_pink_impure | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:chalk_pink_impure occultism:chalk_white_impure occultism:demonic_meat
+occultism:crafting/chalk_purple_impure | minecraft:crafting_shapeless | c:dusts/end_stone c:dusts/obsidian minecraft:crafting_shapeless occultism:chalk_purple_impure occultism:chalk_white_impure
+occultism:crafting/chalk_red_impure | minecraft:crafting_shapeless | c:dusts/redstone minecraft:crafting_shapeless minecraft:torchflower occultism:afrit_essence occultism:chalk_red_impure occultism:chalk_white_impure
+occultism:crafting/chalk_white_impure | minecraft:crafting_shaped | c:dusts/otherworld_wood minecraft:crafting_shaped occultism:chalk_white_impure occultism:dusts/chalk_base
+occultism:crafting/chalk_white_impure2 | minecraft:crafting_shaped | c:dusts/otherworld_wood minecraft:crafting_shaped occultism:chalk_white_impure occultism:dusts/chalk_base
+occultism:crafting/chalk_yellow_impure | minecraft:crafting_shapeless | c:dusts/glowstone c:dusts/gold minecraft:crafting_shapeless occultism:chalk_white_impure occultism:chalk_yellow_impure
+occultism:crafting/change_rainbow_to_void | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:chalk_rainbow occultism:chalk_void
+occultism:crafting/chiseled_otherrock_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:chiseled_otherrock_bricks occultism:otherrock_bricks_slab
+occultism:crafting/chiseled_otherstone_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:chiseled_otherstone_bricks occultism:otherstone_bricks_slab
+occultism:crafting/copper_sacrificial_bowl | minecraft:crafting_shapeless | c:ingots/copper minecraft:crafting_shapeless occultism:copper_sacrificial_bowl occultism:sacrificial_bowl
+occultism:crafting/dark_copper_sacrificial_bowl | minecraft:crafting_shapeless | c:ingots/copper minecraft:crafting_shapeless occultism:dark_copper_sacrificial_bowl occultism:dark_sacrificial_bowl
+occultism:crafting/dark_golden_sacrificial_bowl | minecraft:crafting_shaped | c:ingots/gold minecraft:crafting_shaped occultism:dark_golden_sacrificial_bowl occultism:dark_sacrificial_bowl
+occultism:crafting/dark_sacrificial_bowl | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:dark_sacrificial_bowl occultism:otherrock
+occultism:crafting/dark_silver_sacrificial_bowl | minecraft:crafting_shapeless | c:ingots/silver minecraft:crafting_shapeless occultism:dark_sacrificial_bowl occultism:dark_silver_sacrificial_bowl
+occultism:crafting/demons_dream_essence_from_fruit_or_seed | minecraft:crafting_shaped | c:crops/datura c:seeds/datura minecraft:crafting_shaped occultism:demons_dream_essence
+occultism:crafting/dictionary_of_spirits | minecraft:crafting_shapeless | c:books c:seeds/datura minecraft:crafting_shapeless occultism:dictionary_of_spirits
+occultism:crafting/divination_rod | minecraft:crafting_shaped | c:glass_blocks c:ingots/gold minecraft:crafting_shaped occultism:divination_rod occultism:spirit_attuned_gem
+occultism:crafting/goggles | minecraft:crafting_shaped | c:leathers minecraft:crafting_shaped occultism:infused_lenses occultism:lens_frame occultism:otherworld_goggles
+occultism:crafting/golden_sacrificial_bowl | minecraft:crafting_shaped | c:ingots/gold minecraft:crafting_shaped occultism:golden_sacrificial_bowl occultism:sacrificial_bowl
+occultism:crafting/gray_paste/amethyst_shard | minecraft:crafting_shapeless | c:dusts/amethyst minecraft:amethyst_shard minecraft:crafting_shapeless occultism:gray_paste
+occultism:crafting/gray_paste/blackstone | minecraft:crafting_shapeless | c:dusts/blackstone minecraft:blackstone minecraft:crafting_shapeless occultism:gray_paste
+occultism:crafting/gray_paste/blue_ice | minecraft:crafting_shapeless | c:dusts/blue_ice minecraft:blue_ice minecraft:crafting_shapeless occultism:gray_paste
+occultism:crafting/gray_paste/calcite | minecraft:crafting_shapeless | c:dusts/calcite minecraft:calcite minecraft:crafting_shapeless occultism:gray_paste
+occultism:crafting/gray_paste/echo_shard | minecraft:crafting_shapeless | c:dusts/echo minecraft:crafting_shapeless minecraft:echo_shard occultism:gray_paste
+occultism:crafting/gray_paste/emerald | minecraft:crafting_shapeless | c:dusts/emerald minecraft:crafting_shapeless minecraft:emerald occultism:gray_paste
+occultism:crafting/gray_paste/end_stone | minecraft:crafting_shapeless | c:dusts/end_stone minecraft:crafting_shapeless minecraft:end_stone occultism:gray_paste
+occultism:crafting/gray_paste/ice | minecraft:crafting_shapeless | c:dusts/ice minecraft:crafting_shapeless minecraft:ice occultism:gray_paste
+occultism:crafting/gray_paste/lapis_lazuli | minecraft:crafting_shapeless | c:dusts/lapis minecraft:crafting_shapeless minecraft:lapis_lazuli occultism:gray_paste
+occultism:crafting/gray_paste/obsidian | minecraft:crafting_shapeless | c:dusts/obsidian minecraft:crafting_shapeless minecraft:obsidian occultism:gray_paste
+occultism:crafting/gray_paste/otherrock | minecraft:crafting_shapeless | c:dusts/otherrock minecraft:crafting_shapeless occultism:gray_paste occultism:otherrock
+occultism:crafting/gray_paste/otherstone | minecraft:crafting_shapeless | c:dusts/otherstone minecraft:crafting_shapeless occultism:gray_paste occultism:otherstone
+occultism:crafting/gray_paste/packed_ice | minecraft:crafting_shapeless | c:dusts/packed_ice minecraft:crafting_shapeless minecraft:packed_ice occultism:gray_paste
+occultism:crafting/iesnium_block | minecraft:crafting_shaped | c:ingots/iesnium minecraft:crafting_shaped occultism:iesnium_block
+occultism:crafting/iesnium_ingot_from_block | minecraft:crafting_shapeless | c:storage_blocks/iesnium minecraft:crafting_shapeless occultism:iesnium_ingot
+occultism:crafting/iesnium_ingot_from_nuggets | minecraft:crafting_shaped | c:nuggets/iesnium minecraft:crafting_shaped occultism:iesnium_ingot
+occultism:crafting/iesnium_nugget | minecraft:crafting_shapeless | c:ingots/iesnium minecraft:crafting_shapeless occultism:iesnium_nugget
+occultism:crafting/iesnium_pickaxe | minecraft:crafting_shaped | c:ingots/iesnium c:rods/wooden minecraft:crafting_shaped occultism:iesnium_pickaxe
+occultism:crafting/large_candle | minecraft:crafting_shaped | c:strings c:tallow minecraft:crafting_shaped occultism:large_candle
+occultism:crafting/large_candle_black | minecraft:crafting_shapeless | c:dyes/black minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_black
+occultism:crafting/large_candle_blue | minecraft:crafting_shapeless | c:dyes/blue minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_blue
+occultism:crafting/large_candle_brown | minecraft:crafting_shapeless | c:dyes/brown minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_brown
+occultism:crafting/large_candle_cyan | minecraft:crafting_shapeless | c:dyes/cyan minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_cyan
+occultism:crafting/large_candle_gray | minecraft:crafting_shapeless | c:dyes/gray minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_gray
+occultism:crafting/large_candle_green | minecraft:crafting_shapeless | c:dyes/green minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_green
+occultism:crafting/large_candle_light_blue | minecraft:crafting_shapeless | c:dyes/light_blue minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_light_blue
+occultism:crafting/large_candle_light_gray | minecraft:crafting_shapeless | c:dyes/light_gray minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_light_gray
+occultism:crafting/large_candle_lime | minecraft:crafting_shapeless | c:dyes/lime minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_lime
+occultism:crafting/large_candle_magenta | minecraft:crafting_shapeless | c:dyes/magenta minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_magenta
+occultism:crafting/large_candle_orange | minecraft:crafting_shapeless | c:dyes/orange minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_orange
+occultism:crafting/large_candle_pink | minecraft:crafting_shapeless | c:dyes/pink minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_pink
+occultism:crafting/large_candle_purple | minecraft:crafting_shapeless | c:dyes/purple minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_purple
+occultism:crafting/large_candle_red | minecraft:crafting_shapeless | c:dyes/red minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_red
+occultism:crafting/large_candle_white | minecraft:crafting_shapeless | c:dyes/white minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_white
+occultism:crafting/large_candle_yellow | minecraft:crafting_shapeless | c:dyes/yellow minecraft:crafting_shapeless occultism:large_candle occultism:large_candle_yellow
+occultism:crafting/lens_frame | minecraft:crafting_shaped | c:ingots/silver minecraft:crafting_shaped occultism:lens_frame occultism:otherstone
+occultism:crafting/lens_frame_alt | minecraft:crafting_shaped | c:dyes/white c:ingots/silver minecraft:crafting_shaped occultism:lens_frame occultism:otherrock
+occultism:crafting/lenses | minecraft:crafting_shaped | c:glass_panes minecraft:crafting_shaped occultism:lenses occultism:spirit_attuned_gem
+occultism:crafting/magic_lamp_empty | minecraft:crafting_shaped | c:ingots/silver minecraft:crafting_shaped occultism:magic_lamp_empty occultism:spirit_attuned_gem
+occultism:crafting/nature_paste_mossy_cobblestone | minecraft:crafting_shapeless | minecraft:cobblestone minecraft:crafting_shapeless minecraft:mossy_cobblestone occultism:nature_paste
+occultism:crafting/nature_paste_mossy_stone_bricks | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:mossy_stone_bricks minecraft:stone_bricks occultism:nature_paste
+occultism:crafting/netherite_dust | minecraft:crafting_shapeless | c:dusts/gold c:dusts/netherite_scrap minecraft:crafting_shapeless occultism:netherite_dust
+occultism:crafting/othercobblerock_slab | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:othercobblerock occultism:othercobblerock_slab
+occultism:crafting/othercobblerock_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:othercobblerock occultism:othercobblerock_stairs
+occultism:crafting/othercobblerock_wall | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:othercobblerock occultism:othercobblerock_wall
+occultism:crafting/othercobblestone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:othercobblestone occultism:othercobblestone_slab
+occultism:crafting/othercobblestone_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:othercobblestone occultism:othercobblestone_stairs
+occultism:crafting/othercobblestone_wall | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:othercobblestone occultism:othercobblestone_wall
+occultism:crafting/otherflower_to_black_dye | minecraft:crafting_shapeless | c:dyes/black minecraft:black_dye minecraft:crafting_shapeless occultism:otherflower
+occultism:crafting/otherflower_to_blue_dye | minecraft:crafting_shapeless | c:dyes/blue minecraft:blue_dye minecraft:crafting_shapeless occultism:otherflower
+occultism:crafting/otherflower_to_brown_dye | minecraft:crafting_shapeless | c:dyes/brown minecraft:brown_dye minecraft:crafting_shapeless occultism:otherflower
+occultism:crafting/otherflower_to_cyan_dye | minecraft:crafting_shapeless | c:dyes/cyan minecraft:crafting_shapeless minecraft:cyan_dye occultism:otherflower
+occultism:crafting/otherflower_to_gray_dye | minecraft:crafting_shapeless | c:dyes/gray minecraft:crafting_shapeless minecraft:gray_dye occultism:otherflower
+occultism:crafting/otherflower_to_green_dye | minecraft:crafting_shapeless | c:dyes/green minecraft:crafting_shapeless minecraft:green_dye occultism:otherflower
+occultism:crafting/otherflower_to_light_blue_dye | minecraft:crafting_shapeless | c:dyes/light_blue minecraft:crafting_shapeless minecraft:light_blue_dye occultism:otherflower
+occultism:crafting/otherflower_to_light_gray_dye | minecraft:crafting_shapeless | c:dyes/light_gray minecraft:crafting_shapeless minecraft:light_gray_dye occultism:otherflower
+occultism:crafting/otherflower_to_lime_dye | minecraft:crafting_shapeless | c:dyes/lime minecraft:crafting_shapeless minecraft:lime_dye occultism:otherflower
+occultism:crafting/otherflower_to_magenta_dye | minecraft:crafting_shapeless | c:dyes/magenta minecraft:crafting_shapeless minecraft:magenta_dye occultism:otherflower
+occultism:crafting/otherflower_to_orange_dye | minecraft:crafting_shapeless | c:dyes/orange minecraft:crafting_shapeless minecraft:orange_dye occultism:otherflower
+occultism:crafting/otherflower_to_pink_dye | minecraft:crafting_shapeless | c:dyes/pink minecraft:crafting_shapeless minecraft:pink_dye occultism:otherflower
+occultism:crafting/otherflower_to_purple_dye | minecraft:crafting_shapeless | c:dyes/purple minecraft:crafting_shapeless minecraft:purple_dye occultism:otherflower
+occultism:crafting/otherflower_to_red_dye | minecraft:crafting_shapeless | c:dyes/red minecraft:crafting_shapeless minecraft:red_dye occultism:otherflower
+occultism:crafting/otherflower_to_white_dye | minecraft:crafting_shapeless | c:dyes/white minecraft:crafting_shapeless minecraft:white_dye occultism:otherflower
+occultism:crafting/otherflower_to_yellow_dye | minecraft:crafting_shapeless | c:dyes/yellow minecraft:crafting_shapeless minecraft:yellow_dye occultism:otherflower
+occultism:crafting/otherglass | minecraft:crafting_shaped | c:dusts/end_stone c:glass_blocks c:nuggets/iesnium minecraft:crafting_shaped occultism:otherglass_natural
+occultism:crafting/otherplanks | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:otherplanks occultism:otherworld_logs
+occultism:crafting/otherplanks_button | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:otherplanks occultism:otherplanks_button
+occultism:crafting/otherplanks_door | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherplanks occultism:otherplanks_door
+occultism:crafting/otherplanks_fence | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick occultism:otherplanks occultism:otherplanks_fence
+occultism:crafting/otherplanks_fence_gate | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick occultism:otherplanks occultism:otherplanks_fence_gate
+occultism:crafting/otherplanks_hanging_sign | minecraft:crafting_shaped | minecraft:chain minecraft:crafting_shaped occultism:otherplanks_hanging_sign occultism:stripped_otherworld_log
+occultism:crafting/otherplanks_pressure_plate | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherplanks occultism:otherplanks_pressure_plate
+occultism:crafting/otherplanks_sign | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick occultism:otherplanks occultism:otherplanks_sign
+occultism:crafting/otherplanks_slab | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherplanks occultism:otherplanks_slab
+occultism:crafting/otherplanks_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherplanks occultism:otherplanks_stairs
+occultism:crafting/otherplanks_trapdoor | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherplanks occultism:otherplanks_trapdoor
+occultism:crafting/otherrock_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherrock occultism:otherrock_bricks
+occultism:crafting/otherrock_bricks_slab | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherrock_bricks occultism:otherrock_bricks_slab
+occultism:crafting/otherrock_bricks_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherrock_bricks occultism:otherrock_bricks_stairs
+occultism:crafting/otherrock_bricks_wall | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherrock_bricks occultism:otherrock_bricks_wall
+occultism:crafting/otherrock_button | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:otherrock occultism:otherrock_button
+occultism:crafting/otherrock_frame | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherrock occultism:otherrock_frame
+occultism:crafting/otherrock_pedestal | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherrock occultism:otherrock_slab occultism:otherstone_pedestal_silver
+occultism:crafting/otherrock_pressure_plate | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherrock occultism:otherrock_pressure_plate
+occultism:crafting/otherrock_slab | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherrock occultism:otherrock_slab
+occultism:crafting/otherrock_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherrock occultism:otherrock_stairs
+occultism:crafting/otherrock_wall | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherrock occultism:otherrock_wall
+occultism:crafting/otherstone_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherstone occultism:otherstone_bricks
+occultism:crafting/otherstone_bricks_slab | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherstone_bricks occultism:otherstone_bricks_slab
+occultism:crafting/otherstone_bricks_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherstone_bricks occultism:otherstone_bricks_stairs
+occultism:crafting/otherstone_bricks_wall | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherstone_bricks occultism:otherstone_bricks_wall
+occultism:crafting/otherstone_button | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:otherstone occultism:otherstone_button
+occultism:crafting/otherstone_frame | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherstone occultism:otherstone_frame
+occultism:crafting/otherstone_pedestal | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherstone occultism:otherstone_pedestal occultism:otherstone_slab
+occultism:crafting/otherstone_pressure_plate | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherstone occultism:otherstone_pressure_plate
+occultism:crafting/otherstone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherstone occultism:otherstone_slab
+occultism:crafting/otherstone_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherstone occultism:otherstone_stairs
+occultism:crafting/otherstone_tablet | minecraft:crafting_shaped | c:dusts/otherworld_wood c:ingots/gold minecraft:crafting_shaped occultism:otherstone occultism:otherstone_tablet
+occultism:crafting/otherstone_tablet2 | minecraft:crafting_shaped | c:dusts/otherworld_wood c:ingots/gold minecraft:crafting_shaped occultism:otherrock occultism:otherstone_tablet
+occultism:crafting/otherstone_wall | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherstone occultism:otherstone_wall
+occultism:crafting/otherworld_wood | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherworld_log occultism:otherworld_wood
+occultism:crafting/polished_otherrock_slab | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:polished_otherrock occultism:polished_otherrock_slab
+occultism:crafting/polished_otherrock_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:polished_otherrock occultism:polished_otherrock_stairs
+occultism:crafting/polished_otherrock_wall | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:polished_otherrock occultism:polished_otherrock_wall
+occultism:crafting/polished_otherstone_slab | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:polished_otherstone occultism:polished_otherstone_slab
+occultism:crafting/polished_otherstone_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:polished_otherstone occultism:polished_otherstone_stairs
+occultism:crafting/polished_otherstone_wall | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:polished_otherstone occultism:polished_otherstone_wall
+occultism:crafting/raw_iesnium_block | minecraft:crafting_shaped | c:raw_materials/iesnium minecraft:crafting_shaped occultism:raw_iesnium_block
+occultism:crafting/raw_iesnium_ingot_from_block | minecraft:crafting_shapeless | c:storage_blocks/raw_iesnium minecraft:crafting_shapeless occultism:raw_iesnium
+occultism:crafting/raw_silver_block | minecraft:crafting_shaped | c:raw_materials/silver minecraft:crafting_shaped occultism:raw_silver_block
+occultism:crafting/raw_silver_ingot_from_block | minecraft:crafting_shapeless | c:storage_blocks/raw_silver minecraft:crafting_shapeless occultism:raw_silver
+occultism:crafting/sacrificial_bowl | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:otherstone occultism:sacrificial_bowl
+occultism:crafting/silver_block | minecraft:crafting_shaped | c:ingots/silver minecraft:crafting_shaped occultism:silver_block
+occultism:crafting/silver_ingot_from_block | minecraft:crafting_shapeless | c:storage_blocks/silver minecraft:crafting_shapeless occultism:silver_ingot
+occultism:crafting/silver_ingot_from_nuggets | minecraft:crafting_shaped | c:nuggets/silver minecraft:crafting_shaped occultism:silver_ingot
+occultism:crafting/silver_nugget | minecraft:crafting_shapeless | c:ingots/silver minecraft:crafting_shapeless occultism:silver_nugget
+occultism:crafting/silver_sacrificial_bowl | minecraft:crafting_shapeless | c:ingots/silver minecraft:crafting_shapeless occultism:sacrificial_bowl occultism:silver_sacrificial_bowl
+occultism:crafting/spirit_attuned_crystal | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:spirit_attuned_crystal occultism:spirit_attuned_gem
+occultism:crafting/spirit_attuned_pickaxe_head | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:spirit_attuned_gem occultism:spirit_attuned_pickaxe_head
+occultism:crafting/spirit_campfire | minecraft:crafting_shaped | c:crops/datura c:rods/wooden minecraft:crafting_shaped minecraft:logs occultism:spirit_campfire
+occultism:crafting/spirit_lantern | minecraft:crafting_shaped | c:nuggets/iron minecraft:crafting_shaped occultism:spirit_lantern occultism:spirit_torch
+occultism:crafting/spirit_torch | minecraft:crafting_shaped | c:crops/datura c:rods/wooden minecraft:coals minecraft:crafting_shaped occultism:spirit_torch
+occultism:crafting/storage_controller | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:dimensional_matrix occultism:storage_controller occultism:storage_controller_base
+occultism:crafting/storage_controller_dark | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:dimensional_matrix occultism:storage_controller_base_dark occultism:storage_controller_dark
+occultism:crafting/storage_remote_inert | minecraft:crafting_shaped | c:ingots/silver c:nuggets/iesnium minecraft:crafting_shaped occultism:otherstone_tablet occultism:spirit_attuned_gem occultism:storage_remote_inert
+occultism:crafting/storage_stabilizer_tier0 | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:otherstone_pedestal occultism:storage_stabilizer_tier0
+occultism:crafting/storage_stabilizer_tier0_dark | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:otherstone_pedestal_silver occultism:storage_stabilizer_tier0_dark
+occultism:crafting/stripped_otherworld_wood | minecraft:crafting_shaped | minecraft:crafting_shaped occultism:stripped_otherworld_log occultism:stripped_otherworld_wood
+occultism:crafting/tallow | minecraft:crafting_shapeless | minecraft:crafting_shapeless occultism:tallow occultism:tallow_block
+occultism:crafting/tallow_block | minecraft:crafting_shapeless | c:tallow minecraft:crafting_shapeless occultism:tallow_block
+occultism:crushing/adamant_dust_from_ingot | occultism:crushing | c:dusts/adamant c:ingots/adamant neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/allthemodium_dirty_dust_from_clump | occultism:crushing | c:clumps/allthemodium c:dirty_dusts/allthemodium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/allthemodium_dust_from_ingot | occultism:crushing | c:dusts/allthemodium c:ingots/allthemodium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/allthemodium_dust_from_ore | occultism:crushing | c:dusts/allthemodium c:ores/allthemodium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/allthemodium_dust_from_raw | occultism:crushing | c:dusts/allthemodium c:raw_materials/allthemodium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/allthemodium_dust_from_raw_block | occultism:crushing | c:dusts/allthemodium c:storage_blocks/raw_allthemodium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/aluminum_dirty_dust_from_clump | occultism:crushing | c:clumps/aluminum c:dirty_dusts/aluminum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/aluminum_dust_from_ingot | occultism:crushing | c:dusts/aluminum c:ingots/aluminum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/aluminum_dust_from_ore | occultism:crushing | c:dusts/aluminum c:ores/aluminum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/aluminum_dust_from_raw | occultism:crushing | c:dusts/aluminum c:raw_materials/aluminum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/aluminum_dust_from_raw_block | occultism:crushing | c:dusts/aluminum c:storage_blocks/raw_aluminum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/amber_dust_from_gem | occultism:crushing | c:dusts/amber c:gems/amber neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/amber_dust_from_ore | occultism:crushing | c:dusts/amber c:ores/amber neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/amethyst_dust_from_gem | occultism:crushing | c:dusts/amethyst c:gems/amethyst neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/annealed_copper_dust_from_ingot | occultism:crushing | c:dusts/annealed_copper c:ingots/annealed_copper neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/antimony_dirty_dust_from_clump | occultism:crushing | c:clumps/antimony c:dirty_dusts/antimony neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/antimony_dust_from_ingot | occultism:crushing | c:dusts/antimony c:ingots/antimony neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/antimony_dust_from_ore | occultism:crushing | c:dusts/antimony c:ores/antimony neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/antimony_dust_from_raw | occultism:crushing | c:dusts/antimony c:raw_materials/antimony neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/antimony_dust_from_raw_block | occultism:crushing | c:dusts/antimony c:storage_blocks/raw_antimony neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/apatite_dust_from_gem | occultism:crushing | c:dusts/apatite c:gems/apatite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/apatite_dust_from_ore | occultism:crushing | c:dusts/apatite c:ores/apatite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/arcane_crystal_dust_from_gem | occultism:crushing | c:dusts/arcane_crystal c:gems/arcane_crystal neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/arcane_crystal_dust_from_ore | occultism:crushing | c:dusts/arcane_crystal c:ores/arcane_crystal neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/azure_electrum_dust_from_ingot | occultism:crushing | c:dusts/azure_electrum c:ingots/azure_electrum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/azure_silver_dirty_dust_from_clump | occultism:crushing | c:clumps/azure_silver c:dirty_dusts/azure_silver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/azure_silver_dust_from_ingot | occultism:crushing | c:dusts/azure_silver c:ingots/azure_silver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/azure_silver_dust_from_ore | occultism:crushing | c:dusts/azure_silver c:ores/azure_silver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/azure_silver_dust_from_raw | occultism:crushing | c:dusts/azure_silver c:raw_materials/azure_silver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/azure_silver_dust_from_raw_block | occultism:crushing | c:dusts/azure_silver c:storage_blocks/raw_azure_silver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/battery_alloy_dust_from_ingot | occultism:crushing | c:dusts/battery_alloy c:ingots/battery_alloy neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/bauxite_dust_from_ore | occultism:crushing | c:dusts/bauxite c:ores/bauxite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/beryllium_dust_from_ingot | occultism:crushing | c:dusts/beryllium c:ingots/beryllium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/biosteel_dust_from_ingot | occultism:crushing | c:dusts/biosteel c:ingots/biosteel neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/black_quartz_dust_from_gem | occultism:crushing | c:dusts/black_quartz c:gems/black_quartz neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/black_quartz_dust_from_ore | occultism:crushing | c:dusts/black_quartz c:ores/black_quartz neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/blackstone_dust | occultism:crushing | c:dusts/blackstone minecraft:blackstone occultism:crushing occultism:tag
+occultism:crushing/blaze_gold_dust_from_ingot | occultism:crushing | c:dusts/blaze_gold c:ingots/blaze_gold neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/blaze_powder_from_rod | occultism:crushing | c:rods/blaze minecraft:blaze_powder occultism:crushing occultism:item
+occultism:crushing/blue_ice_dust | occultism:crushing | c:dusts/blue_ice minecraft:blue_ice occultism:crushing occultism:tag
+occultism:crushing/bone_meal_from_bone | occultism:crushing | c:bones minecraft:bone_meal occultism:crushing occultism:item
+occultism:crushing/brass_dust_from_ingot | occultism:crushing | c:dusts/brass c:ingots/brass neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/brick_dust | occultism:crushing | c:bricks/normal c:dusts/brick neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/bronze_dust_from_ingot | occultism:crushing | c:dusts/bronze c:ingots/bronze neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/cadmium_dust_from_ingot | occultism:crushing | c:dusts/cadmium c:ingots/cadmium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/calcite_dust | occultism:crushing | c:dusts/calcite minecraft:calcite occultism:crushing occultism:tag
+occultism:crushing/carbon_dust_from_plate | occultism:crushing | c:dusts/carbon c:plates/carbon neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/certus_quartz_dust_from_gem | occultism:crushing | c:dusts/certus_quartz c:gems/certus_quartz neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/charcoal_dust_from_item | occultism:crushing | c:dusts/charcoal minecraft:charcoal neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/chromium_dust_from_ingot | occultism:crushing | c:dusts/chromium c:ingots/chromium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/cinnabar_dust_from_gem | occultism:crushing | c:dusts/cinnabar c:gems/cinnabar neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/cinnabar_dust_from_ore | occultism:crushing | c:dusts/cinnabar c:ores/cinnabar neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/coal_coke_dust | occultism:crushing | c:coal_coke c:dusts/coal_coke neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/coal_dust_from_item | occultism:crushing | c:dusts/coal minecraft:coal neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/coal_dust_from_ore | occultism:crushing | c:dusts/coal c:ores/coal neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/cobalt_dirty_dust_from_clump | occultism:crushing | c:clumps/cobalt c:dirty_dusts/cobalt neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/cobalt_dust_from_ingot | occultism:crushing | c:dusts/cobalt c:ingots/cobalt neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/cobalt_dust_from_ore | occultism:crushing | c:dusts/cobalt c:ores/cobalt neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/cobalt_dust_from_raw | occultism:crushing | c:dusts/cobalt c:raw_materials/cobalt neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/cobalt_dust_from_raw_block | occultism:crushing | c:dusts/cobalt c:storage_blocks/raw_cobalt neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/constantan_dust_from_ingot | occultism:crushing | c:dusts/constantan c:ingots/constantan neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/copper_dirty_dust_from_clump | occultism:crushing | c:clumps/copper c:dirty_dusts/copper neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/copper_dust_from_ingot | occultism:crushing | c:dusts/copper c:ingots/copper neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/copper_dust_from_ore | occultism:crushing | c:dusts/copper c:ores/copper neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/copper_dust_from_raw | occultism:crushing | c:dusts/copper c:raw_materials/copper neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/copper_dust_from_raw_block | occultism:crushing | c:dusts/copper c:storage_blocks/raw_copper neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/crimson_iron_dirty_dust_from_clump | occultism:crushing | c:clumps/crimson_iron c:dirty_dusts/crimson_iron neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/crimson_iron_dust_from_ingot | occultism:crushing | c:dusts/crimson_iron c:ingots/crimson_iron neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/crimson_iron_dust_from_ore | occultism:crushing | c:dusts/crimson_iron c:ores/crimson_iron neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/crimson_iron_dust_from_raw | occultism:crushing | c:dusts/crimson_iron c:raw_materials/crimson_iron neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/crimson_iron_dust_from_raw_block | occultism:crushing | c:dusts/crimson_iron c:storage_blocks/raw_crimson_iron neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/crimson_steel_dust_from_ingot | occultism:crushing | c:dusts/crimson_steel c:ingots/crimson_steel neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/cupronickel_dust_from_ingot | occultism:crushing | c:dusts/cupronickel c:ingots/cupronickel neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/dark_gem_dust_from_gem | occultism:crushing | c:dusts/dark_gem c:gems/dark_gem neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/dark_gem_dust_from_ore | occultism:crushing | c:dusts/dark_gem c:ores/dark_gem neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/datura | occultism:crushing | c:crops/datura c:seeds/datura neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/diamond_dust_from_gem | occultism:crushing | c:dusts/diamond c:gems/diamond neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/diamond_dust_from_ore | occultism:crushing | c:dusts/diamond c:ores/diamond neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/duratium_dust_from_ingot | occultism:crushing | c:dusts/duratium c:ingots/duratium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/echo_dust | occultism:crushing | c:dusts/echo minecraft:echo_shard occultism:crushing occultism:tag
+occultism:crushing/electrum_dust_from_ingot | occultism:crushing | c:dusts/electrum c:ingots/electrum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/emerald_dust_from_gem | occultism:crushing | c:dusts/emerald c:gems/emerald neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/emerald_dust_from_ore | occultism:crushing | c:dusts/emerald c:ores/emerald neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/end_stone_dust | occultism:crushing | c:dusts/end_stone c:end_stones occultism:crushing occultism:tag
+occultism:crushing/ender_pearl_dust_from_tag | occultism:crushing | c:dusts/ender_pearl c:ender_pearls neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/enderium_dust_from_ingot | occultism:crushing | c:dusts/enderium c:ingots/enderium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/energite_dust_from_ingot | occultism:crushing | c:dusts/energite c:ingots/energite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/entro_dust_from_gem | occultism:crushing | c:dusts/entro c:gems/entro neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/fluix_dust_from_gem | occultism:crushing | c:dusts/fluix c:gems/fluix neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/fluorite_dust_from_gem | occultism:crushing | c:dusts/fluorite c:gems/fluorite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/fluorite_dust_from_ore | occultism:crushing | c:dusts/fluorite c:ores/fluorite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/gold_dirty_dust_from_clump | occultism:crushing | c:clumps/gold c:dirty_dusts/gold neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/gold_dust_from_ingot | occultism:crushing | c:dusts/gold c:ingots/gold neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/gold_dust_from_ore | occultism:crushing | c:dusts/gold c:ores/gold neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/gold_dust_from_raw | occultism:crushing | c:dusts/gold c:raw_materials/gold neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/gold_dust_from_raw_block | occultism:crushing | c:dusts/gold c:storage_blocks/raw_gold neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/graphite_dirty_dust_from_clump | occultism:crushing | c:clumps/graphite c:dirty_dusts/graphite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/graphite_dust_from_ingot | occultism:crushing | c:dusts/graphite c:ingots/graphite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/graphite_dust_from_ore | occultism:crushing | c:dusts/graphite c:ores/graphite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/graphite_dust_from_raw | occultism:crushing | c:dusts/graphite c:raw_materials/graphite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/graphite_dust_from_raw_block | occultism:crushing | c:dusts/graphite c:storage_blocks/raw_graphite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/he_mox_dust_from_ingot | occultism:crushing | c:dusts/he_mox c:ingots/he_mox neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/he_uranium_dust_from_ingot | occultism:crushing | c:dusts/he_uranium c:ingots/he_uranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/hop_graphite_dust_from_ingot | occultism:crushing | c:dusts/hop_graphite c:ingots/hop_graphite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/ice_dust | occultism:crushing | c:dusts/ice minecraft:ice occultism:crushing occultism:tag
+occultism:crushing/iesnium_dirty_dust_from_clump | occultism:crushing | c:clumps/iesnium c:dirty_dusts/iesnium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iesnium_dust_from_ingot | occultism:crushing | c:dusts/iesnium c:ingots/iesnium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iesnium_dust_from_ore | occultism:crushing | c:dusts/iesnium c:ores/iesnium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iesnium_dust_from_raw | occultism:crushing | c:dusts/iesnium c:raw_materials/iesnium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iesnium_dust_from_raw_block | occultism:crushing | c:dusts/iesnium c:storage_blocks/raw_iesnium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/invar_dust_from_ingot | occultism:crushing | c:dusts/invar c:ingots/invar neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iridium_dirty_dust_from_clump | occultism:crushing | c:clumps/iridium c:dirty_dusts/iridium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iridium_dust_from_ingot | occultism:crushing | c:dusts/iridium c:ingots/iridium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iridium_dust_from_ore | occultism:crushing | c:dusts/iridium c:ores/iridium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iridium_dust_from_raw | occultism:crushing | c:dusts/iridium c:raw_materials/iridium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iridium_dust_from_raw_block | occultism:crushing | c:dusts/iridium c:storage_blocks/raw_iridium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iron_dirty_dust_from_clump | occultism:crushing | c:clumps/iron c:dirty_dusts/iron neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iron_dust_from_ingot | occultism:crushing | c:dusts/iron c:ingots/iron neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iron_dust_from_ore | occultism:crushing | c:dusts/iron c:ores/iron neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iron_dust_from_raw | occultism:crushing | c:dusts/iron c:raw_materials/iron neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/iron_dust_from_raw_block | occultism:crushing | c:dusts/iron c:storage_blocks/raw_iron neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/kanthal_dust_from_ingot | occultism:crushing | c:dusts/kanthal c:ingots/kanthal neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/lapis_dust_from_gem | occultism:crushing | c:dusts/lapis c:gems/lapis neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/lapis_dust_from_ore | occultism:crushing | c:dusts/lapis c:ores/lapis neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/le_mox_dust_from_ingot | occultism:crushing | c:dusts/le_mox c:ingots/le_mox neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/le_uranium_dust_from_ingot | occultism:crushing | c:dusts/le_uranium c:ingots/le_uranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/lead_dirty_dust_from_clump | occultism:crushing | c:clumps/lead c:dirty_dusts/lead neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/lead_dust_from_ingot | occultism:crushing | c:dusts/lead c:ingots/lead neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/lead_dust_from_ore | occultism:crushing | c:dusts/lead c:ores/lead neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/lead_dust_from_raw | occultism:crushing | c:dusts/lead c:raw_materials/lead neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/lead_dust_from_raw_block | occultism:crushing | c:dusts/lead c:storage_blocks/raw_lead neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/lignite_coal_dust_from_ore | occultism:crushing | c:dusts/lignite_coal c:ores/lignite_coal neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/lumium_dust_from_ingot | occultism:crushing | c:dusts/lumium c:ingots/lumium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/mithril_dirty_dust_from_clump | occultism:crushing | c:clumps/mithril c:dirty_dusts/mithril neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/mithril_dust_from_ingot | occultism:crushing | c:dusts/mithril c:ingots/mithril neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/mithril_dust_from_ore | occultism:crushing | c:dusts/mithril c:ores/mithril neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/mithril_dust_from_raw | occultism:crushing | c:dusts/mithril c:raw_materials/mithril neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/mithril_dust_from_raw_block | occultism:crushing | c:dusts/mithril c:storage_blocks/raw_mithril neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/monazite_dust_from_ore | occultism:crushing | c:dusts/monazite c:ores/monazite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/netherite_dust_from_ingot | occultism:crushing | c:dusts/netherite c:ingots/netherite neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/netherite_scrap_dust_from_ore | occultism:crushing | c:dusts/netherite_scrap c:ores/netherite_scrap neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/netherite_scrap_dust_from_scrap | occultism:crushing | c:dusts/netherite_scrap minecraft:netherite_scrap neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/nickel_dirty_dust_from_clump | occultism:crushing | c:clumps/nickel c:dirty_dusts/nickel neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/nickel_dust_from_ingot | occultism:crushing | c:dusts/nickel c:ingots/nickel neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/nickel_dust_from_ore | occultism:crushing | c:dusts/nickel c:ores/nickel neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/nickel_dust_from_raw | occultism:crushing | c:dusts/nickel c:raw_materials/nickel neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/nickel_dust_from_raw_block | occultism:crushing | c:dusts/nickel c:storage_blocks/raw_nickel neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/obsidian_dust | occultism:crushing | c:dusts/obsidian c:obsidians occultism:crushing occultism:tag
+occultism:crushing/osmium_dirty_dust_from_clump | occultism:crushing | c:clumps/osmium c:dirty_dusts/osmium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/osmium_dust_from_ingot | occultism:crushing | c:dusts/osmium c:ingots/osmium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/osmium_dust_from_ore | occultism:crushing | c:dusts/osmium c:ores/osmium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/osmium_dust_from_raw | occultism:crushing | c:dusts/osmium c:raw_materials/osmium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/osmium_dust_from_raw_block | occultism:crushing | c:dusts/osmium c:storage_blocks/raw_osmium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/othercobblerock | occultism:crushing | occultism:crushing occultism:item occultism:othercobblerock occultism:otherrock
+occultism:crushing/othercobblestone | occultism:crushing | neoforge:not neoforge:tag_empty occultism:crushing occultism:othercobblestone occultism:otherstone occultism:tag
+occultism:crushing/packed_ice_dust | occultism:crushing | c:dusts/packed_ice minecraft:packed_ice occultism:crushing occultism:tag
+occultism:crushing/peridot_dust_from_gem | occultism:crushing | c:dusts/peridot c:gems/peridot neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/peridot_dust_from_ore | occultism:crushing | c:dusts/peridot c:ores/peridot neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/pewter_dirty_dust_from_clump | occultism:crushing | c:clumps/pewter c:dirty_dusts/pewter neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/pewter_dust_from_ingot | occultism:crushing | c:dusts/pewter c:ingots/pewter neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/pewter_dust_from_ore | occultism:crushing | c:dusts/pewter c:ores/pewter neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/pewter_dust_from_raw | occultism:crushing | c:dusts/pewter c:raw_materials/pewter neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/pewter_dust_from_raw_block | occultism:crushing | c:dusts/pewter c:storage_blocks/raw_pewter neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/platinum_dirty_dust_from_clump | occultism:crushing | c:clumps/platinum c:dirty_dusts/platinum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/platinum_dust_from_ingot | occultism:crushing | c:dusts/platinum c:ingots/platinum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/platinum_dust_from_ore | occultism:crushing | c:dusts/platinum c:ores/platinum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/platinum_dust_from_raw | occultism:crushing | c:dusts/platinum c:raw_materials/platinum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/platinum_dust_from_raw_block | occultism:crushing | c:dusts/platinum c:storage_blocks/raw_platinum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/plutonium_dust_from_ingot | occultism:crushing | c:dusts/plutonium c:ingots/plutonium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/quartz_dust_from_gem | occultism:crushing | c:dusts/quartz c:gems/quartz neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/quartz_dust_from_ore | occultism:crushing | c:dusts/quartz c:ores/quartz neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/quicksilver_dirty_dust_from_clump | occultism:crushing | c:clumps/quicksilver c:dirty_dusts/quicksilver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/quicksilver_dust_from_ingot | occultism:crushing | c:dusts/quicksilver c:ingots/quicksilver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/quicksilver_dust_from_ore | occultism:crushing | c:dusts/quicksilver c:ores/quicksilver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/quicksilver_dust_from_raw | occultism:crushing | c:dusts/quicksilver c:raw_materials/quicksilver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/quicksilver_dust_from_raw_block | occultism:crushing | c:dusts/quicksilver c:storage_blocks/raw_quicksilver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/redstone_dust_from_ore | occultism:crushing | c:dusts/redstone c:ores/redstone neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/refined_obsidian_dust_from_ingot | occultism:crushing | c:dusts/refined_obsidian c:ingots/refined_obsidian neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/ruby_dust_from_gem | occultism:crushing | c:dusts/ruby c:gems/ruby neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/ruby_dust_from_ore | occultism:crushing | c:dusts/ruby c:ores/ruby neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/salt_dust_from_ore | occultism:crushing | c:dusts/salt c:ores/salt neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/saltpeter_dust_from_ore | occultism:crushing | c:dusts/saltpeter c:ores/saltpeter neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/sapphire_dust_from_gem | occultism:crushing | c:dusts/sapphire c:gems/sapphire neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/sapphire_dust_from_ore | occultism:crushing | c:dusts/sapphire c:ores/sapphire neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/signalum_dust_from_ingot | occultism:crushing | c:dusts/signalum c:ingots/signalum neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/silicon_dust_from_ingot | occultism:crushing | c:dusts/silicon c:ingots/silicon neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/silver_dirty_dust_from_clump | occultism:crushing | c:clumps/silver c:dirty_dusts/silver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/silver_dust_from_ingot | occultism:crushing | c:dusts/silver c:ingots/silver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/silver_dust_from_ore | occultism:crushing | c:dusts/silver c:ores/silver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/silver_dust_from_raw | occultism:crushing | c:dusts/silver c:raw_materials/silver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/silver_dust_from_raw_block | occultism:crushing | c:dusts/silver c:storage_blocks/raw_silver neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/sky_stone_dust | occultism:crushing | c:dusts/sky_stone c:sky_stones neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/steel_dust_from_ingot | occultism:crushing | c:dusts/steel c:ingots/steel neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/sulfur_dust_from_gem | occultism:crushing | c:dusts/sulfur c:gems/sulfur neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/sulfur_dust_from_ore | occultism:crushing | c:dusts/sulfur c:ores/sulfur neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/superconductor_dust_from_ingot | occultism:crushing | c:dusts/superconductor c:ingots/superconductor neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/tin_dirty_dust_from_clump | occultism:crushing | c:clumps/tin c:dirty_dusts/tin neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/tin_dust_from_ingot | occultism:crushing | c:dusts/tin c:ingots/tin neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/tin_dust_from_ore | occultism:crushing | c:dusts/tin c:ores/tin neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/tin_dust_from_raw | occultism:crushing | c:dusts/tin c:raw_materials/tin neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/tin_dust_from_raw_block | occultism:crushing | c:dusts/tin c:storage_blocks/raw_tin neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/titanium_dirty_dust_from_clump | occultism:crushing | c:clumps/titanium c:dirty_dusts/titanium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/titanium_dust_from_ingot | occultism:crushing | c:dusts/titanium c:ingots/titanium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/titanium_dust_from_ore | occultism:crushing | c:dusts/titanium c:ores/titanium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/titanium_dust_from_raw | occultism:crushing | c:dusts/titanium c:raw_materials/titanium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/titanium_dust_from_raw_block | occultism:crushing | c:dusts/titanium c:storage_blocks/raw_titanium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/topaz_dust_from_gem | occultism:crushing | c:dusts/topaz c:gems/topaz neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/topaz_dust_from_ore | occultism:crushing | c:dusts/topaz c:ores/topaz neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/tungsten_dirty_dust_from_clump | occultism:crushing | c:clumps/tungsten c:dirty_dusts/tungsten neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/tungsten_dust_from_ingot | occultism:crushing | c:dusts/tungsten c:ingots/tungsten neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/tungsten_dust_from_ore | occultism:crushing | c:dusts/tungsten c:ores/tungsten neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/tungsten_dust_from_raw | occultism:crushing | c:dusts/tungsten c:raw_materials/tungsten neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/tungsten_dust_from_raw_block | occultism:crushing | c:dusts/tungsten c:storage_blocks/raw_tungsten neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/tyrian_steel_dust_from_ingot | occultism:crushing | c:dusts/tyrian_steel c:ingots/tyrian_steel neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/unobtainium_allthemodium_alloy_dust_from_ingot | occultism:crushing | c:dusts/unobtainium_allthemodium_alloy c:ingots/unobtainium_allthemodium_alloy neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/unobtainium_dirty_dust_from_clump | occultism:crushing | c:clumps/unobtainium c:dirty_dusts/unobtainium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/unobtainium_dust_from_ingot | occultism:crushing | c:dusts/unobtainium c:ingots/unobtainium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/unobtainium_dust_from_ore | occultism:crushing | c:dusts/unobtainium c:ores/unobtainium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/unobtainium_dust_from_raw | occultism:crushing | c:dusts/unobtainium c:raw_materials/unobtainium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/unobtainium_dust_from_raw_block | occultism:crushing | c:dusts/unobtainium c:storage_blocks/raw_unobtainium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/unobtainium_vibranium_alloy_dust_from_ingot | occultism:crushing | c:dusts/unobtainium_vibranium_alloy c:ingots/unobtainium_vibranium_alloy neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/uranium_235_dust_from_ingot | occultism:crushing | c:dusts/uranium_235 c:ingots/uranium_235 neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/uranium_238_dust_from_ingot | occultism:crushing | c:dusts/uranium_238 c:ingots/uranium_238 neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/uranium_dirty_dust_from_clump | occultism:crushing | c:clumps/uranium c:dirty_dusts/uranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/uranium_dust_from_ingot | occultism:crushing | c:dusts/uranium c:ingots/uranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/uranium_dust_from_ore | occultism:crushing | c:dusts/uranium c:ores/uranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/uranium_dust_from_raw | occultism:crushing | c:dusts/uranium c:raw_materials/uranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/uranium_dust_from_raw_block | occultism:crushing | c:dusts/uranium c:storage_blocks/raw_uranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/vibranium_allthemodium_alloy_dust_from_ingot | occultism:crushing | c:dusts/vibranium_allthemodium_alloy c:ingots/vibranium_allthemodium_alloy neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/vibranium_dirty_dust_from_clump | occultism:crushing | c:clumps/vibranium c:dirty_dusts/vibranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/vibranium_dust_from_ingot | occultism:crushing | c:dusts/vibranium c:ingots/vibranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/vibranium_dust_from_ore | occultism:crushing | c:dusts/vibranium c:ores/vibranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/vibranium_dust_from_raw | occultism:crushing | c:dusts/vibranium c:raw_materials/vibranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/vibranium_dust_from_raw_block | occultism:crushing | c:dusts/vibranium c:storage_blocks/raw_vibranium neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/wind_charge_from_rod | occultism:crushing | c:rods/breeze minecraft:wind_charge occultism:crushing occultism:item
+occultism:crushing/zinc_dirty_dust_from_clump | occultism:crushing | c:clumps/zinc c:dirty_dusts/zinc neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/zinc_dust_from_ingot | occultism:crushing | c:dusts/zinc c:ingots/zinc neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/zinc_dust_from_ore | occultism:crushing | c:dusts/zinc c:ores/zinc neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/zinc_dust_from_raw | occultism:crushing | c:dusts/zinc c:raw_materials/zinc neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crushing/zinc_dust_from_raw_block | occultism:crushing | c:dusts/zinc c:storage_blocks/raw_zinc neoforge:not neoforge:tag_empty occultism:crushing occultism:tag
+occultism:crystallize/amber_from_dust | occultism:crystallize | c:dusts/amber c:gems/amber neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/amber_from_ore | occultism:crystallize | c:gems/amber c:ores/amber neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/amethyst_from_block | occultism:crystallize | minecraft:amethyst_block minecraft:amethyst_shard occultism:crystallize occultism:item
+occultism:crystallize/amethyst_from_dust | occultism:crystallize | c:dusts/amethyst c:gems/amethyst neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/apatite_from_dust | occultism:crystallize | c:dusts/apatite c:gems/apatite neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/apatite_from_ore | occultism:crystallize | c:gems/apatite c:ores/apatite neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/arcane_crystal_from_dust | occultism:crystallize | c:dusts/arcane_crystal c:gems/arcane_crystal neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/arcane_crystal_from_ore | occultism:crystallize | c:gems/arcane_crystal c:ores/arcane_crystal neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/black_quartz_from_dust | occultism:crystallize | c:dusts/black_quartz c:gems/black_quartz neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/black_quartz_from_ore | occultism:crystallize | c:gems/black_quartz c:ores/black_quartz neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/blackstone | occultism:crystallize | c:dusts/blackstone minecraft:blackstone occultism:crystallize occultism:item
+occultism:crystallize/blue_ice | occultism:crystallize | c:dusts/blue_ice minecraft:blue_ice occultism:crystallize occultism:item
+occultism:crystallize/budding_amethyst | occultism:crystallize | minecraft:amethyst_cluster minecraft:budding_amethyst occultism:crystallize occultism:item
+occultism:crystallize/calcite | occultism:crystallize | c:dusts/calcite minecraft:calcite occultism:crystallize occultism:item
+occultism:crystallize/certus_quartz_from_dust | occultism:crystallize | c:dusts/certus_quartz c:gems/certus_quartz neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/charcoal | occultism:crystallize | c:dusts/charcoal minecraft:charcoal neoforge:not neoforge:tag_empty occultism:crystallize occultism:item
+occultism:crystallize/cinnabar_from_dust | occultism:crystallize | c:dusts/cinnabar c:gems/cinnabar neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/cinnabar_from_ore | occultism:crystallize | c:gems/cinnabar c:ores/cinnabar neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/coal | occultism:crystallize | c:dusts/coal minecraft:coal neoforge:not neoforge:tag_empty occultism:crystallize occultism:item
+occultism:crystallize/crying_obsidian | occultism:crystallize | minecraft:crying_obsidian minecraft:obsidian occultism:crystallize occultism:item
+occultism:crystallize/dark_gem_from_dust | occultism:crystallize | c:dusts/dark_gem c:gems/dark_gem neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/dark_gem_from_ore | occultism:crystallize | c:gems/dark_gem c:ores/dark_gem neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/diamond_from_dust | occultism:crystallize | c:dusts/diamond c:gems/diamond neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/diamond_from_ore | occultism:crystallize | c:gems/diamond c:ores/diamond neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/echo_shard | occultism:crystallize | c:dusts/echo minecraft:echo_shard neoforge:not neoforge:tag_empty occultism:crystallize occultism:item
+occultism:crystallize/emerald_from_dust | occultism:crystallize | c:dusts/emerald c:gems/emerald neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/emerald_from_ore | occultism:crystallize | c:gems/emerald c:ores/emerald neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/end_stone | occultism:crystallize | c:dusts/end_stone minecraft:end_stone occultism:crystallize occultism:item
+occultism:crystallize/ender_pearl | occultism:crystallize | c:dusts/ender_pearl c:ender_pearls neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/entro_from_dust | occultism:crystallize | c:dusts/entro c:gems/entro neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/fluix_from_dust | occultism:crystallize | c:dusts/fluix c:gems/fluix neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/fluorite_from_dust | occultism:crystallize | c:dusts/fluorite c:gems/fluorite neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/fluorite_from_ore | occultism:crystallize | c:gems/fluorite c:ores/fluorite neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/ice | occultism:crystallize | c:dusts/ice minecraft:ice occultism:crystallize occultism:item
+occultism:crystallize/lapis_from_dust | occultism:crystallize | c:dusts/lapis c:gems/lapis neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/lapis_from_ore | occultism:crystallize | c:gems/lapis c:ores/lapis neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/obsidian | occultism:crystallize | c:dusts/obsidian minecraft:obsidian occultism:crystallize occultism:item
+occultism:crystallize/otherrock | occultism:crystallize | c:dusts/otherrock occultism:crystallize occultism:item occultism:otherrock
+occultism:crystallize/otherstone | occultism:crystallize | c:dusts/otherstone occultism:crystallize occultism:item occultism:otherstone
+occultism:crystallize/packed_ice | occultism:crystallize | c:dusts/packed_ice minecraft:packed_ice occultism:crystallize occultism:item
+occultism:crystallize/peridot_from_dust | occultism:crystallize | c:dusts/peridot c:gems/peridot neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/peridot_from_ore | occultism:crystallize | c:gems/peridot c:ores/peridot neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/prismarine_crystal | occultism:crystallize | minecraft:prismarine_crystals minecraft:prismarine_shard occultism:crystallize occultism:item
+occultism:crystallize/quartz_from_block | occultism:crystallize | minecraft:quartz minecraft:quartz_block occultism:crystallize occultism:item
+occultism:crystallize/quartz_from_dust | occultism:crystallize | c:dusts/quartz c:gems/quartz neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/quartz_from_ore | occultism:crystallize | c:gems/quartz c:ores/quartz neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/ruby_from_dust | occultism:crystallize | c:dusts/ruby c:gems/ruby neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/ruby_from_ore | occultism:crystallize | c:gems/ruby c:ores/ruby neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/sapphire_from_dust | occultism:crystallize | c:dusts/sapphire c:gems/sapphire neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/sapphire_from_ore | occultism:crystallize | c:gems/sapphire c:ores/sapphire neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/sulfur_from_dust | occultism:crystallize | c:dusts/sulfur c:gems/sulfur neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/sulfur_from_ore | occultism:crystallize | c:gems/sulfur c:ores/sulfur neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/topaz_from_dust | occultism:crystallize | c:dusts/topaz c:gems/topaz neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:crystallize/topaz_from_ore | occultism:crystallize | c:gems/topaz c:ores/topaz neoforge:not neoforge:tag_empty occultism:crystallize occultism:tag
+occultism:miner/basic_resources/andesite | occultism:miner | minecraft:andesite occultism:miner occultism:miners/basic_resources occultism:weighted_item
+occultism:miner/basic_resources/basalt | occultism:miner | minecraft:basalt occultism:miner occultism:miners/basic_resources occultism:weighted_item
+occultism:miner/basic_resources/blackstone | occultism:miner | minecraft:blackstone occultism:miner occultism:miners/basic_resources occultism:weighted_item
+occultism:miner/basic_resources/deepslate | occultism:miner | minecraft:deepslate occultism:miner occultism:miners/basic_resources occultism:weighted_item
+occultism:miner/basic_resources/diorite | occultism:miner | minecraft:diorite occultism:miner occultism:miners/basic_resources occultism:weighted_item
+occultism:miner/basic_resources/end_stone | occultism:miner | minecraft:end_stone occultism:miner occultism:miners/basic_resources occultism:weighted_item
+occultism:miner/basic_resources/granite | occultism:miner | minecraft:granite occultism:miner occultism:miners/basic_resources occultism:weighted_item
+occultism:miner/basic_resources/mossy_cobblestone | occultism:miner | minecraft:mossy_cobblestone occultism:miner occultism:miners/basic_resources occultism:weighted_item
+occultism:miner/basic_resources/mossy_stone_bricks | occultism:miner | minecraft:mossy_stone_bricks occultism:miner occultism:miners/basic_resources occultism:weighted_item
+occultism:miner/basic_resources/netherrack | occultism:miner | minecraft:netherrack occultism:miner occultism:miners/basic_resources occultism:weighted_item
+occultism:miner/basic_resources/stone | occultism:miner | minecraft:stone occultism:miner occultism:miners/basic_resources occultism:weighted_item
+occultism:miner/debug_wand | occultism:miner | occultism:debug_wand occultism:miner occultism:otherstone occultism:weighted_item
+occultism:miner/debug_wand_2 | occultism:miner | occultism:debug_wand occultism:miner occultism:otherrock occultism:weighted_item
+occultism:miner/deeps/deepslate_coal_ore | occultism:miner | minecraft:deepslate_coal_ore occultism:miner occultism:miners/deeps occultism:weighted_item
+occultism:miner/deeps/deepslate_copper_ore | occultism:miner | minecraft:deepslate_copper_ore occultism:miner occultism:miners/deeps occultism:weighted_item
+occultism:miner/deeps/deepslate_diamond_ore | occultism:miner | minecraft:deepslate_diamond_ore occultism:miner occultism:miners/deeps occultism:weighted_item
+occultism:miner/deeps/deepslate_emerald_ore | occultism:miner | minecraft:deepslate_emerald_ore occultism:miner occultism:miners/deeps occultism:weighted_item
+occultism:miner/deeps/deepslate_gold_ore | occultism:miner | minecraft:deepslate_gold_ore occultism:miner occultism:miners/deeps occultism:weighted_item
+occultism:miner/deeps/deepslate_iron_ore | occultism:miner | minecraft:deepslate_iron_ore occultism:miner occultism:miners/deeps occultism:weighted_item
+occultism:miner/deeps/deepslate_lapis_ore | occultism:miner | minecraft:deepslate_lapis_ore occultism:miner occultism:miners/deeps occultism:weighted_item
+occultism:miner/deeps/deepslate_redstone_ore | occultism:miner | minecraft:deepslate_redstone_ore occultism:miner occultism:miners/deeps occultism:weighted_item
+occultism:miner/deeps/deepslate_silver_ore | occultism:miner | occultism:miner occultism:miners/deeps occultism:silver_ore_deepslate occultism:weighted_item
+occultism:miner/eldritch/amethyst | occultism:miner | c:gems/amethyst neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/ancient_debris | occultism:miner | c:ores/netherite_scrap occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/arcane_crystal | occultism:miner | c:storage_blocks/arcane_crystal neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/bauxite | occultism:miner | c:storage_blocks/bauxite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/black_quartz | occultism:miner | c:gems/black_quartz neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/clay | occultism:miner | c:clay occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/coal | occultism:miner | c:storage_blocks/coal neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/dark_gem | occultism:miner | c:storage_blocks/dark_gem neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/diamond | occultism:miner | c:storage_blocks/diamond neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/emerald | occultism:miner | c:storage_blocks/emerald neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/fluorite | occultism:miner | c:storage_blocks/fluorite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/glowstone_dust | occultism:miner | c:dusts/glowstone occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/inferium_essence | occultism:miner | c:storage_blocks/inferium_essence neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/jade | occultism:miner | c:storage_blocks/jade neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/lapis | occultism:miner | c:storage_blocks/lapis neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/lignite_coal | occultism:miner | c:storage_blocks/lignite_coal neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/mining_dim_core | occultism:miner | occultism:miner occultism:miners/eldritch occultism:mining_dim_core occultism:weighted_item
+occultism:miner/eldritch/monazite | occultism:miner | c:storage_blocks/monazite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/onyx | occultism:miner | c:storage_blocks/onyx neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/peridot | occultism:miner | c:storage_blocks/peridot neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/prosperity_shard | occultism:miner | c:storage_blocks/prosperity_shard neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/quartz | occultism:miner | c:gems/quartz neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_aethersent | occultism:miner | c:storage_blocks/raw_aethersent neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_allthemodium | occultism:miner | c:storage_blocks/raw_allthemodium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_aluminum | occultism:miner | c:storage_blocks/raw_aluminum neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_antimony | occultism:miner | c:storage_blocks/raw_antimony neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_azure_silver | occultism:miner | c:storage_blocks/raw_azure_silver neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_cloggrum | occultism:miner | c:storage_blocks/raw_cloggrum neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_cobalt | occultism:miner | c:storage_blocks/raw_cobalt neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_copper | occultism:miner | c:storage_blocks/raw_copper neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_crimson_iron | occultism:miner | c:storage_blocks/raw_crimson_iron neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_froststeel | occultism:miner | c:storage_blocks/raw_froststeel neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_gold | occultism:miner | c:storage_blocks/raw_gold neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_iesnium | occultism:miner | c:storage_blocks/raw_iesnium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_iridium | occultism:miner | c:storage_blocks/raw_iridium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_iron | occultism:miner | c:storage_blocks/raw_iron neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_lead | occultism:miner | c:storage_blocks/raw_lead neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_nickel | occultism:miner | c:storage_blocks/raw_nickel neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_osmium | occultism:miner | c:storage_blocks/raw_osmium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_platinum | occultism:miner | c:storage_blocks/raw_platinum neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_silver | occultism:miner | c:storage_blocks/raw_silver neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_tin | occultism:miner | c:storage_blocks/raw_tin neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_titanium | occultism:miner | c:storage_blocks/raw_titanium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_tungsten | occultism:miner | c:storage_blocks/raw_tungsten neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_unobtainium | occultism:miner | c:storage_blocks/raw_unobtainium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_uranium | occultism:miner | c:storage_blocks/raw_uranium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_vibranium | occultism:miner | c:storage_blocks/raw_vibranium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_yellorium | occultism:miner | c:storage_blocks/raw_yellorium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/raw_zinc | occultism:miner | c:storage_blocks/raw_zinc neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/redstone | occultism:miner | c:storage_blocks/redstone neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/ruby | occultism:miner | c:storage_blocks/ruby neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/rune | occultism:miner | c:storage_blocks/rune neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/sal_ammoniac | occultism:miner | c:gems/sal_ammoniac neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/salt | occultism:miner | c:storage_blocks/salt neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/sapphire | occultism:miner | c:storage_blocks/sapphire neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/soulium_dust | occultism:miner | c:storage_blocks/soulium_dust neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/stellarite | occultism:miner | c:storage_blocks/stellarite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/sulfur | occultism:miner | c:storage_blocks/sulfur neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/eldritch/uraninite | occultism:miner | c:storage_blocks/uraninite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/eldritch occultism:weighted_tag
+occultism:miner/master/ancient_debris | occultism:miner | minecraft:ancient_debris occultism:miner occultism:miners/master occultism:weighted_item
+occultism:miner/master/iesnium_ore | occultism:miner | occultism:iesnium_ore occultism:miner occultism:miners/master occultism:weighted_item
+occultism:miner/master/mining_dim_core | occultism:miner | occultism:miner occultism:miners/master occultism:mining_dim_core occultism:weighted_item
+occultism:miner/master/stella_arcanum | occultism:miner | c:ores/stella_arcanum neoforge:not neoforge:tag_empty occultism:miner occultism:miners/master occultism:weighted_tag
+occultism:miner/master/stellarite | occultism:miner | c:ores/stellarite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/master occultism:weighted_tag
+occultism:miner/ores/agate_ore | occultism:miner | c:ores/agate neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/aluminum_ore | occultism:miner | c:ores/aluminum neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/amber_ore | occultism:miner | c:ores/amber neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/amethyst_ore | occultism:miner | c:ores/amethyst neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/antimony_ore | occultism:miner | c:ores/antimony neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/aquamarine_ore | occultism:miner | c:ores/aquamarine neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/arcane_crystal | occultism:miner | c:ores/arcane_crystal neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/ardite_ore | occultism:miner | c:ores/ardite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/baronyte_ore | occultism:miner | c:ores/baronyte neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/bauxite_ore | occultism:miner | c:ores/bauxite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/beryl_ore | occultism:miner | c:ores/beryl neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/black_quartz_ore | occultism:miner | c:ores/black_quartz neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/blazium_ore | occultism:miner | c:ores/blazium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/bloodstone_ore | occultism:miner | c:ores/bloodstone neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/blue_gemstone_ore | occultism:miner | c:ores/blue_gemstone neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/bone_fragments_ore | occultism:miner | c:ores/bone_fragments neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/boron_ore | occultism:miner | c:ores/boron neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/certus_quartz_ore | occultism:miner | c:ores/certus_quartz neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/charged_runium_ore | occultism:miner | c:ores/charged_runium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/cinnabar_ore | occultism:miner | c:ores/cinnabar neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/clay | occultism:miner | minecraft:clay occultism:miner occultism:miners/ores occultism:weighted_item
+occultism:miner/ores/coal_ore | occultism:miner | c:ores/coal occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/cobalt_ore | occultism:miner | c:ores/cobalt neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/copper_ore | occultism:miner | c:ores/copper occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/crying_obsidian | occultism:miner | minecraft:crying_obsidian occultism:miner occultism:miners/ores occultism:weighted_item
+occultism:miner/ores/crystallite_ore | occultism:miner | c:ores/crystallite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/dark_gem_ore | occultism:miner | c:ores/dark_gem neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/diamond_ore | occultism:miner | c:ores/diamond occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/dimensional_shard_ore | occultism:miner | c:ores/dimensional_shard neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/draconium_ore | occultism:miner | c:ores/draconium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/elecanium_ore | occultism:miner | c:ores/elecanium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/electrotine_ore | occultism:miner | c:ores/electrotine neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/emberstone_ore | occultism:miner | c:ores/emberstone neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/emerald_ore | occultism:miner | c:ores/emerald occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/fluorite_ore | occultism:miner | c:ores/fluorite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/garnet_ore | occultism:miner | c:ores/garnet neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/gemenyte_ore | occultism:miner | c:ores/gemenyte neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/ghastly_ore | occultism:miner | c:ores/ghastly neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/ghoulish_ore | occultism:miner | c:ores/ghoulish neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/gilded_blackstone | occultism:miner | minecraft:gilded_blackstone occultism:miner occultism:miners/ores occultism:weighted_item
+occultism:miner/ores/glowstone | occultism:miner | minecraft:glowstone occultism:miner occultism:miners/ores occultism:weighted_item
+occultism:miner/ores/gold_ore | occultism:miner | c:ores/gold occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/gravel | occultism:miner | minecraft:gravel occultism:miner occultism:miners/ores occultism:weighted_item
+occultism:miner/ores/green_gemstone_ore | occultism:miner | c:ores/green_gemstone neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/heliodor_ore | occultism:miner | c:ores/heliodor neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/indicolite_ore | occultism:miner | c:ores/indicolite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/inferium_ore | occultism:miner | c:ores/inferium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/iolite_ore | occultism:miner | c:ores/iolite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/iridium_ore | occultism:miner | c:ores/iridium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/iron_ore | occultism:miner | c:ores/iron occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/jade_ore | occultism:miner | c:ores/jade neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/jewelyte_ore | occultism:miner | c:ores/jewelyte neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/lapis_ore | occultism:miner | c:ores/lapis occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/lead_ore | occultism:miner | c:ores/lead neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/lignite_coal_ore | occultism:miner | c:ores/lignite_coal neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/limonite_ore | occultism:miner | c:ores/limonite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/lithium_ore | occultism:miner | c:ores/lithium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/lyon_ore | occultism:miner | c:ores/lyon neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/magma_block | occultism:miner | minecraft:magma_block occultism:miner occultism:miners/ores occultism:weighted_item
+occultism:miner/ores/magnesium_ore | occultism:miner | c:ores/magnesium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/malachite_ore | occultism:miner | c:ores/malachite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/mithril_ore | occultism:miner | c:ores/mithril neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/monazite_ore | occultism:miner | c:ores/monazite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/morganite_ore | occultism:miner | c:ores/morganite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/mystite_ore | occultism:miner | c:ores/mystite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/nether_gold_ore | occultism:miner | minecraft:nether_gold_ore occultism:miner occultism:miners/ores occultism:weighted_item
+occultism:miner/ores/nether_quartz_ore | occultism:miner | minecraft:nether_quartz_ore occultism:miner occultism:miners/ores occultism:weighted_item
+occultism:miner/ores/nickel_ore | occultism:miner | c:ores/nickel neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/niter_ore | occultism:miner | c:ores/niter neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/obsidian | occultism:miner | minecraft:obsidian occultism:miner occultism:miners/ores occultism:weighted_item
+occultism:miner/ores/onyx_ore | occultism:miner | c:ores/onyx neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/opal_ore | occultism:miner | c:ores/opal neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/ornamyte_ore | occultism:miner | c:ores/ornamyte neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/osmium_ore | occultism:miner | c:ores/osmium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/otherrock | occultism:miner | occultism:miner occultism:miners/ores occultism:otherrock occultism:weighted_item
+occultism:miner/ores/otherstone | occultism:miner | occultism:miner occultism:miners/ores occultism:otherstone occultism:weighted_item
+occultism:miner/ores/peridot_ore | occultism:miner | c:ores/peridot neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/platinum_ore | occultism:miner | c:ores/platinum neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/prosperity_ore | occultism:miner | c:ores/prosperity neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/purple_gemstone_ore | occultism:miner | c:ores/purple_gemstone neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/red_gemstone_ore | occultism:miner | c:ores/red_gemstone neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/redstone_ore | occultism:miner | minecraft:redstone_ore occultism:miner occultism:miners/ores occultism:weighted_item
+occultism:miner/ores/ruby_ore | occultism:miner | c:ores/ruby neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/runic_stone | occultism:miner | forbidden_arcanus:runic_stones neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/runium_ore | occultism:miner | c:ores/runium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/sal_ammoniac_ore | occultism:miner | c:ores/sal_ammoniac neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/salt_ore | occultism:miner | c:ores/salt neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/sapphire_ore | occultism:miner | c:ores/sapphire neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/shyregem_ore | occultism:miner | c:ores/shyregem neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/shyrestone_ore | occultism:miner | c:ores/shyrestone neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/silver_ore | occultism:miner | c:ores/silver neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/sulfur_ore | occultism:miner | c:ores/sulfur neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/tanzanite_ore | occultism:miner | c:ores/tanzanite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/thorium_ore | occultism:miner | c:ores/thorium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/tin_ore | occultism:miner | c:ores/tin neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/titanium_ore | occultism:miner | c:ores/titanium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/topaz_ore | occultism:miner | c:ores/topaz neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/tungsten_ore | occultism:miner | c:ores/tungsten neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/uraninite_dense_ore | occultism:miner | c:ores/uraninite_dense neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/uraninite_ore | occultism:miner | c:ores/uraninite neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/uraninite_poor_ore | occultism:miner | c:ores/uraninite_poor neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/uraninite_regular_ore | occultism:miner | c:ores/uraninite_regular neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/uranium_ore | occultism:miner | c:ores/uranium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/varsium_ore | occultism:miner | c:ores/varsium neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/white_gemstone_ore | occultism:miner | c:ores/white_gemstone neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/xpetrified_ore | occultism:miner | c:ores/xpetrified_ore neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/yellow_gemstone_ore | occultism:miner | c:ores/yellow_gemstone neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:miner/ores/zinc_ore | occultism:miner | c:ores/zinc neoforge:not neoforge:tag_empty occultism:miner occultism:miners/ores occultism:weighted_tag
+occultism:ritual/craft_dark_iesnium_sacrificial_bowl | occultism:ritual | c:storage_blocks/iesnium occultism:afrit_essence occultism:book_of_binding_bound_afrit occultism:craft occultism:craft_afrit occultism:dark_golden_sacrificial_bowl occultism:dark_iesnium_sacrificial_bowl occultism:research_fragment_dust occultism:ritual occultism:ritual_dummy/craft_dark_iesnium_sacrificial_bowl occultism:spirit_attuned_crystal
+occultism:ritual/craft_dimensional_battlefield | occultism:ritual | c:ingots/netherite c:storage_blocks/iesnium neoforge:compound occultism:afrit_essence occultism:book_of_binding_bound_afrit occultism:craft occultism:craft_afrit occultism:dimensional_battlefield occultism:otherrock occultism:otherstone occultism:ritual occultism:ritual_dummy/craft_dimensional_battlefield occultism:spirit_attuned_crystal
+occultism:ritual/craft_dimensional_extractor | occultism:ritual | c:ingots/gold c:storage_blocks/iesnium minecraft:hopper neoforge:compound occultism:book_of_binding_bound_djinni occultism:craft occultism:craft_djinni occultism:dimensional_extractor occultism:otherstone_pedestal occultism:otherstone_pedestal_silver occultism:ritual occultism:ritual_dummy/craft_dimensional_extractor occultism:spirit_attuned_crystal
+occultism:ritual/craft_dimensional_matrix | occultism:ritual | c:ender_pearls minecraft:quartz_block occultism:book_of_binding_bound_djinni occultism:craft_djinni occultism:craft_with_spirit_name occultism:dimensional_matrix occultism:ritual occultism:ritual_dummy/craft_dimensional_matrix
+occultism:ritual/craft_dimensional_mineshaft | occultism:ritual | c:ingots/gold c:storage_blocks/iesnium neoforge:compound occultism:book_of_binding_bound_djinni occultism:craft occultism:craft_djinni occultism:dimensional_mineshaft occultism:otherrock occultism:otherstone occultism:ritual occultism:ritual_dummy/craft_dimensional_mineshaft occultism:spirit_attuned_crystal
+occultism:ritual/craft_dragonyst_dust | occultism:ritual | c:dusts/amethyst c:dusts/end_stone minecraft:dragon_breath minecraft:end_crystal occultism:book_of_binding_bound_marid occultism:craft occultism:craft_marid occultism:dragonyst_dust occultism:ritual occultism:ritual_dummy/craft_dragonyst_dust
+occultism:ritual/craft_ender_satchel | occultism:ritual | c:chests/ender c:ingots/gold c:ingots/silver c:leathers c:strings occultism:book_of_binding_bound_djinni occultism:craft_djinni occultism:craft_with_spirit_name occultism:ender_satchel occultism:ritual occultism:ritual_dummy/craft_ender_satchel
+occultism:ritual/craft_entity_wormhole | occultism:ritual | c:ender_pearls c:ingots/iesnium c:obsidians/crying occultism:book_of_binding_bound_djinni occultism:craft occultism:craft_djinni occultism:entity_wormhole occultism:otherstone_frame occultism:ritual occultism:ritual_dummy/craft_entity_wormhole
+occultism:ritual/craft_entity_wormhole_dark | occultism:ritual | c:ender_pearls c:ingots/iesnium c:obsidians/crying occultism:book_of_binding_bound_djinni occultism:craft occultism:craft_djinni occultism:entity_wormhole_dark occultism:otherrock_frame occultism:ritual occultism:ritual_dummy/craft_entity_wormhole_dark
+occultism:ritual/craft_familiar_ring | occultism:ritual | c:ingots/gold c:ingots/silver occultism:book_of_binding_bound_djinni occultism:craft occultism:craft_djinni occultism:familiar_ring occultism:ritual occultism:ritual_dummy/craft_familiar_ring occultism:soul_gem
+occultism:ritual/craft_fragile_soul_gem | occultism:ritual | c:eggs c:glass_blocks c:ingots/iron occultism:book_of_binding_bound_foliot occultism:craft occultism:craft_foliot occultism:fragile_soul_gem occultism:ritual occultism:ritual_dummy/craft_fragile_soul_gem
+occultism:ritual/craft_gray_paste | occultism:ritual | c:dyes/gray c:gunpowders minecraft:clay_ball minecraft:phantom_membrane occultism:book_of_binding_bound_djinni occultism:craft occultism:craft_djinni occultism:gray_paste occultism:ritual occultism:ritual_dummy/craft_gray_paste
+occultism:ritual/craft_iesnium_anvil | occultism:ritual | c:storage_blocks/iesnium minecraft:anvil occultism:book_of_binding_bound_marid occultism:craft occultism:craft_marid occultism:iesnium_anvil occultism:marid_essence occultism:ritual occultism:ritual_dummy/craft_iesnium_anvil
+occultism:ritual/craft_iesnium_butcher_knife | occultism:ritual | c:dusts/netherite c:ingots/iesnium occultism:afrit_essence occultism:book_of_binding_bound_afrit occultism:butcher_knife occultism:craft_afrit occultism:craft_with_spirit_name occultism:iesnium_butcher_knife occultism:ritual occultism:ritual_dummy/craft_iesnium_butcher_knife
+occultism:ritual/craft_iesnium_sacrificial_bowl | occultism:ritual | c:storage_blocks/iesnium occultism:afrit_essence occultism:book_of_binding_bound_afrit occultism:craft occultism:craft_afrit occultism:golden_sacrificial_bowl occultism:iesnium_sacrificial_bowl occultism:research_fragment_dust occultism:ritual occultism:ritual_dummy/craft_iesnium_sacrificial_bowl occultism:spirit_attuned_crystal
+occultism:ritual/craft_infused_lenses | occultism:ritual | c:ingots/gold c:ingots/silver occultism:book_of_binding_bound_foliot occultism:craft occultism:craft_foliot occultism:infused_lenses occultism:lenses occultism:ritual occultism:ritual_dummy/craft_infused_lenses
+occultism:ritual/craft_infused_pickaxe | occultism:ritual | c:ingots/silver c:rods/wooden occultism:book_of_binding_bound_djinni occultism:craft_djinni occultism:craft_with_spirit_name occultism:infused_pickaxe occultism:ritual occultism:ritual_dummy/craft_infused_pickaxe occultism:spirit_attuned_pickaxe_head
+occultism:ritual/craft_knowledge_tablet | occultism:ritual | c:dusts/research c:ender_pearls occultism:book_of_binding_bound_foliot occultism:craft_foliot occultism:craft_with_spirit_name occultism:knowledge_tablet occultism:otherstone_tablet occultism:ritual occultism:ritual_dummy/craft_knowledge_tablet occultism:spirit_attuned_gem
+occultism:ritual/craft_miner_afrit_deeps | occultism:ritual | minecraft:crying_obsidian minecraft:echo_shard occultism:afrit_essence occultism:book_of_binding_bound_afrit occultism:craft_afrit occultism:craft_miner_spirit occultism:iesnium_pickaxe occultism:miner_afrit_deeps occultism:miner_djinni_ores occultism:ritual occultism:ritual_dummy/craft_miner_afrit_deeps occultism:spirit_attuned_crystal
+occultism:ritual/craft_miner_djinni_ores | occultism:ritual | c:gems/lapis c:ingots/gold occultism:book_of_binding_bound_djinni occultism:craft_djinni occultism:craft_miner_spirit occultism:iesnium_pickaxe occultism:miner_djinni_ores occultism:miner_foliot_unspecialized occultism:ritual occultism:ritual_dummy/craft_miner_djinni_ores occultism:spirit_attuned_crystal
+occultism:ritual/craft_miner_foliot_unspecialized | occultism:ritual | c:gravels c:ingots/iron occultism:book_of_binding_bound_foliot occultism:craft_foliot occultism:craft_miner_spirit occultism:iesnium_pickaxe occultism:magic_lamp_empty occultism:miner_foliot_unspecialized occultism:ritual occultism:ritual_dummy/craft_miner_foliot_unspecialized
+occultism:ritual/craft_miner_marid_master | occultism:ritual | minecraft:dragon_breath minecraft:nether_star minecraft:netherite_pickaxe minecraft:totem_of_undying occultism:book_of_binding_bound_marid occultism:craft_marid occultism:craft_miner_spirit occultism:iesnium_pickaxe occultism:marid_essence occultism:miner_afrit_deeps occultism:miner_marid_master occultism:ritual occultism:ritual_dummy/craft_miner_marid_master occultism:spirit_attuned_crystal
+occultism:ritual/craft_nature_paste | occultism:ritual | c:seeds minecraft:leaves minecraft:saplings occultism:book_of_binding_bound_foliot occultism:craft occultism:craft_foliot occultism:nature_paste occultism:ritual occultism:ritual_dummy/craft_nature_paste
+occultism:ritual/craft_research_fragment_dust | occultism:ritual | c:dusts/emerald minecraft:experience_bottle occultism:book_of_binding_bound_foliot occultism:craft occultism:craft_foliot occultism:research_fragment_dust occultism:ritual occultism:ritual_dummy/craft_research_fragment_dust
+occultism:ritual/craft_ritual_satchel_t1 | occultism:ritual | c:ingots/silver c:leathers c:strings minecraft:dispenser minecraft:hopper minecraft:wool occultism:book_of_binding_bound_foliot occultism:craft_foliot occultism:craft_with_spirit_name occultism:ritual occultism:ritual_dummy/craft_ritual_satchel_t1 occultism:ritual_satchel_t1
+occultism:ritual/craft_ritual_satchel_t2 | occultism:ritual | c:ender_pearls c:ingots/silver c:leathers c:strings minecraft:dispenser minecraft:hopper minecraft:wool occultism:afrit_essence occultism:book_of_binding_bound_afrit occultism:craft_afrit occultism:craft_with_spirit_name occultism:ritual occultism:ritual_dummy/craft_ritual_satchel_t2 occultism:ritual_satchel_t2
+occultism:ritual/craft_satchel | occultism:ritual | c:chests/wooden c:ingots/silver c:leathers c:strings occultism:book_of_binding_bound_foliot occultism:craft_foliot occultism:craft_with_spirit_name occultism:ritual occultism:ritual_dummy/craft_satchel occultism:satchel
+occultism:ritual/craft_soul_gem | occultism:ritual | c:gems/diamond c:ingots/copper c:ingots/gold c:ingots/silver minecraft:soul_fire_base_blocks occultism:book_of_binding_bound_djinni occultism:craft occultism:craft_djinni occultism:fragile_soul_gem occultism:ritual occultism:ritual_dummy/craft_soul_gem occultism:soul_gem
+occultism:ritual/craft_spirit_grindstone | occultism:ritual | c:gems/prismarine c:glass_blocks minecraft:grindstone occultism:book_of_binding_bound_djinni occultism:craft occultism:craft_djinni occultism:ritual occultism:ritual_dummy/craft_spirit_grindstone occultism:spirit_attuned_crystal occultism:spirit_grindstone
+occultism:ritual/craft_stabilizer_tier1 | occultism:ritual | c:dusts/blaze c:storage_blocks/copper occultism:book_of_binding_bound_foliot occultism:craft occultism:craft_foliot occultism:ritual occultism:ritual_dummy/craft_stabilizer_tier1 occultism:spirit_attuned_gem occultism:storage_stabilizer_tier0 occultism:storage_stabilizer_tier1
+occultism:ritual/craft_stabilizer_tier1_dark | occultism:ritual | c:dusts/blaze c:storage_blocks/copper occultism:book_of_binding_bound_foliot occultism:craft occultism:craft_foliot occultism:ritual occultism:ritual_dummy/craft_stabilizer_tier1_dark occultism:spirit_attuned_gem occultism:storage_stabilizer_tier0_dark occultism:storage_stabilizer_tier1_dark
+occultism:ritual/craft_stabilizer_tier2 | occultism:ritual | c:storage_blocks/silver minecraft:ghast_tear occultism:book_of_binding_bound_djinni occultism:craft occultism:craft_djinni occultism:ritual occultism:ritual_dummy/craft_stabilizer_tier2 occultism:spirit_attuned_gem occultism:storage_stabilizer_tier1 occultism:storage_stabilizer_tier2
+occultism:ritual/craft_stabilizer_tier2_dark | occultism:ritual | c:storage_blocks/silver minecraft:ghast_tear occultism:book_of_binding_bound_djinni occultism:craft occultism:craft_djinni occultism:ritual occultism:ritual_dummy/craft_stabilizer_tier2_dark occultism:spirit_attuned_gem occultism:storage_stabilizer_tier1_dark occultism:storage_stabilizer_tier2_dark
+occultism:ritual/craft_stabilizer_tier3 | occultism:ritual | c:storage_blocks/gold minecraft:totem_of_undying occultism:afrit_essence occultism:book_of_binding_bound_afrit occultism:craft occultism:craft_afrit occultism:ritual occultism:ritual_dummy/craft_stabilizer_tier3 occultism:spirit_attuned_crystal occultism:storage_stabilizer_tier2 occultism:storage_stabilizer_tier3
+occultism:ritual/craft_stabilizer_tier3_dark | occultism:ritual | c:storage_blocks/gold minecraft:totem_of_undying occultism:afrit_essence occultism:book_of_binding_bound_afrit occultism:craft occultism:craft_afrit occultism:ritual occultism:ritual_dummy/craft_stabilizer_tier3_dark occultism:spirit_attuned_crystal occultism:storage_stabilizer_tier2_dark occultism:storage_stabilizer_tier3_dark
+occultism:ritual/craft_stabilizer_tier4 | occultism:ritual | c:storage_blocks/iesnium minecraft:beacon occultism:book_of_binding_bound_marid occultism:craft occultism:craft_marid occultism:marid_essence occultism:ritual occultism:ritual_dummy/craft_stabilizer_tier4 occultism:spirit_attuned_crystal occultism:storage_stabilizer_tier3 occultism:storage_stabilizer_tier4
+occultism:ritual/craft_stabilizer_tier4_dark | occultism:ritual | c:storage_blocks/iesnium minecraft:beacon occultism:book_of_binding_bound_marid occultism:craft occultism:craft_marid occultism:marid_essence occultism:ritual occultism:ritual_dummy/craft_stabilizer_tier4_dark occultism:spirit_attuned_crystal occultism:storage_stabilizer_tier3_dark occultism:storage_stabilizer_tier4_dark
+occultism:ritual/craft_stable_wormhole | occultism:ritual | c:ender_pearls c:gems/quartz c:ingots/gold occultism:book_of_binding_bound_foliot occultism:craft occultism:craft_foliot occultism:otherstone_frame occultism:ritual occultism:ritual_dummy/craft_stable_wormhole occultism:stable_wormhole
+occultism:ritual/craft_stable_wormhole_dark | occultism:ritual | c:ender_pearls c:gems/quartz c:ingots/gold occultism:book_of_binding_bound_foliot occultism:craft occultism:craft_foliot occultism:otherrock_frame occultism:ritual occultism:ritual_dummy/craft_stable_wormhole_dark occultism:stable_wormhole_dark
+occultism:ritual/craft_storage_controller_base | occultism:ritual | c:ingots/copper c:ingots/gold occultism:book_of_binding_bound_foliot occultism:craft occultism:craft_foliot occultism:otherstone_pedestal occultism:ritual occultism:ritual_dummy/craft_storage_controller_base occultism:storage_controller_base
+occultism:ritual/craft_storage_controller_base_dark | occultism:ritual | c:ingots/copper c:ingots/gold occultism:book_of_binding_bound_foliot occultism:craft occultism:craft_foliot occultism:otherstone_pedestal_silver occultism:ritual occultism:ritual_dummy/craft_storage_controller_base_dark occultism:storage_controller_base_dark
+occultism:ritual/craft_storage_remote | occultism:ritual | c:ender_pearls c:gems/quartz occultism:book_of_binding_bound_djinni occultism:craft_djinni occultism:craft_with_spirit_name occultism:ritual occultism:ritual_dummy/craft_storage_remote occultism:storage_remote occultism:storage_remote_inert
+occultism:ritual/craft_true_sight_staff | occultism:ritual | c:ingots/netherite occultism:book_of_binding_bound_marid occultism:craft occultism:craft_marid occultism:divination_rod occultism:iesnium_pickaxe occultism:marid_essence occultism:otherworld_essence occultism:otherworld_goggles occultism:ritual occultism:ritual_dummy/craft_true_sight_staff occultism:true_sight_staff
+occultism:ritual/craft_upgrade_ritual_satchel | occultism:ritual | c:ender_pearls occultism:afrit_essence occultism:book_of_binding_bound_afrit occultism:craft_afrit occultism:ritual occultism:ritual_dummy/craft_upgrade_ritual_satchel occultism:ritual_satchel_t1 occultism:ritual_satchel_t2 occultism:upgrade
+occultism:ritual/craft_vitality_compass | occultism:ritual | c:gems/amethyst minecraft:compass occultism:book_of_binding_bound_foliot occultism:craft occultism:craft_foliot occultism:ritual occultism:ritual_dummy/craft_vitality_compass occultism:spirit_attuned_gem occultism:vitality_compass
+occultism:ritual/craft_witherite_dust | occultism:ritual | c:dusts/blackstone c:dusts/netherite minecraft:wither_rose minecraft:wither_skeleton_skull occultism:book_of_binding_bound_afrit occultism:craft occultism:craft_afrit occultism:ritual occultism:ritual_dummy/craft_witherite_dust occultism:witherite_dust
+occultism:ritual/familiar_bat | occultism:ritual | c:bats c:dusts/glowstone minecraft:golden_carrot minecraft:lava_bucket minecraft:spider_eye minecraft:torch occultism:bat_familiar occultism:book_of_binding_bound_djinni occultism:possess_djinni occultism:ritual occultism:ritual_dummy/familiar_bat occultism:spawn_egg/familiar_bat occultism:summon_tamed
+occultism:ritual/familiar_beaver | occultism:ritual | c:pigs minecraft:logs occultism:beaver_familiar occultism:book_of_binding_bound_foliot occultism:possess_foliot occultism:ritual occultism:ritual_dummy/familiar_beaver occultism:spawn_egg/familiar_beaver occultism:summon_tamed
+occultism:ritual/familiar_beholder | occultism:ritual | c:dusts/glowstone c:spiders minecraft:spider_eye occultism:beholder_familiar occultism:book_of_binding_bound_djinni occultism:possess_djinni occultism:ritual occultism:ritual_dummy/familiar_beholder occultism:spawn_egg/familiar_beholder occultism:summon_tamed
+occultism:ritual/familiar_blacksmith | occultism:ritual | c:stones minecraft:anvil minecraft:iron_axe minecraft:iron_pickaxe minecraft:iron_shovel minecraft:zombies occultism:blacksmith_familiar occultism:book_of_binding_bound_foliot occultism:possess_foliot occultism:ritual occultism:ritual_dummy/familiar_blacksmith occultism:spawn_egg/familiar_blacksmith occultism:summon_tamed
+occultism:ritual/familiar_chimera | occultism:ritual | c:bones c:feathers c:leathers c:sheep c:strings minecraft:beef minecraft:chicken minecraft:mutton minecraft:porkchop minecraft:wool occultism:book_of_binding_bound_djinni occultism:chimera_familiar occultism:possess_djinni occultism:ritual occultism:ritual_dummy/familiar_chimera occultism:spawn_egg/familiar_chimera occultism:summon_tamed
+occultism:ritual/familiar_cthulhu | occultism:ritual | c:squids minecraft:fishes occultism:book_of_binding_bound_djinni occultism:cthulhu_familiar occultism:possess_djinni occultism:ritual occultism:ritual_dummy/familiar_cthulhu occultism:spawn_egg/familiar_cthulhu occultism:summon_tamed
+occultism:ritual/familiar_deer | occultism:ritual | c:cows c:rods/wooden c:strings occultism:book_of_binding_bound_foliot occultism:deer_familiar occultism:possess_foliot occultism:ritual occultism:ritual_dummy/familiar_deer occultism:spawn_egg/familiar_deer occultism:summon_tamed
+occultism:ritual/familiar_devil | occultism:ritual | c:bones c:horses c:magma minecraft:lava_bucket occultism:book_of_binding_bound_djinni occultism:devil_familiar occultism:possess_djinni occultism:ritual occultism:ritual_dummy/familiar_devil occultism:spawn_egg/familiar_devil occultism:summon_tamed
+occultism:ritual/familiar_dragon | occultism:ritual | c:gunpowders c:horses c:storage_blocks/gold minecraft:coals minecraft:flint_and_steel minecraft:lava_bucket minecraft:obsidian minecraft:quartz_block occultism:book_of_binding_bound_djinni occultism:dragon_familiar occultism:possess_djinni occultism:ritual occultism:ritual_dummy/familiar_dragon occultism:spawn_egg/familiar_dragon occultism:summon_tamed
+occultism:ritual/familiar_fairy | occultism:ritual | c:buckets/milk c:gunpowders c:horses minecraft:ghast_tear minecraft:golden_apple occultism:book_of_binding_bound_djinni occultism:fairy_familiar occultism:possess_djinni occultism:ritual occultism:ritual_dummy/familiar_fairy occultism:spawn_egg/familiar_fairy occultism:summon_tamed
+occultism:ritual/familiar_greedy | occultism:ritual | c:chests c:storage_blocks/iron minecraft:dispenser minecraft:hopper minecraft:zombies occultism:book_of_binding_bound_foliot occultism:greedy_familiar occultism:possess_foliot occultism:ritual occultism:ritual_dummy/familiar_greedy occultism:spawn_egg/familiar_greedy occultism:summon_tamed
+occultism:ritual/familiar_guardian | occultism:ritual | c:gems/diamond minecraft:golden_apple occultism:book_of_binding_bound_afrit occultism:guardian_familiar occultism:humans occultism:possess_afrit occultism:ritual occultism:ritual_dummy/familiar_guardian occultism:spawn_egg/familiar_guardian occultism:summon_tamed
+occultism:ritual/familiar_headless | occultism:ritual | c:crops/wheat c:golems/snow c:rods/wooden minecraft:carved_pumpkin minecraft:hay_block occultism:book_of_binding_bound_djinni occultism:headless_familiar occultism:possess_djinni occultism:ritual occultism:ritual_dummy/familiar_headless occultism:spawn_egg/familiar_headless occultism:summon_tamed
+occultism:ritual/familiar_mummy | occultism:ritual | c:llamas c:slime_balls minecraft:paper minecraft:wool occultism:book_of_binding_bound_djinni occultism:mummy_familiar occultism:possess_djinni occultism:ritual occultism:ritual_dummy/familiar_mummy occultism:spawn_egg/familiar_mummy occultism:summon_tamed
+occultism:ritual/familiar_otherworld_bird | occultism:ritual | c:eggs c:feathers c:parrots c:strings minecraft:leaves occultism:book_of_binding_bound_djinni occultism:otherworld_bird occultism:possess_djinni occultism:ritual occultism:ritual_dummy/familiar_otherworld_bird occultism:spawn_egg/otherworld_bird occultism:summon_tamed
+occultism:ritual/familiar_parrot | occultism:ritual | c:chickens c:dyes/blue c:dyes/green c:dyes/red c:dyes/yellow c:feathers c:strings minecraft:parrot minecraft:parrot_spawn_egg occultism:book_of_binding_bound_foliot occultism:possess_foliot occultism:ritual occultism:ritual_dummy/familiar_parrot occultism:summon_with_chance_of_chicken_tamed
+occultism:ritual/misc_bee_nest | occultism:ritual | c:bees minecraft:bee_nest minecraft:beehive minecraft:honeycomb_block occultism:contact_wild_spirit occultism:craft occultism:ritual occultism:ritual_dummy/misc_bee_nest
+occultism:ritual/misc_bell | occultism:ritual | c:goats c:nuggets/gold c:stones c:storage_blocks/gold minecraft:bell minecraft:chain minecraft:logs occultism:contact_wild_spirit occultism:craft occultism:ritual occultism:ritual_dummy/misc_bell
+occultism:ritual/misc_budding_amethyst | occultism:ritual | c:dusts/amethyst c:pigs minecraft:amethyst_block minecraft:budding_amethyst occultism:contact_wild_spirit occultism:craft occultism:ritual occultism:ritual_dummy/misc_budding_amethyst
+occultism:ritual/misc_celestial_chalice | occultism:ritual | c:ravagers c:storage_blocks/iesnium c:storage_blocks/netherite minecraft:bell minecraft:budding_amethyst minecraft:chorus_flower minecraft:end_stone_bricks minecraft:heavy_core minecraft:reinforced_deepslate minecraft:respawn_anchor minecraft:sculk_catalyst minecraft:soul_lantern minecraft:sponge occultism:celestial_chalice occultism:contact_eldritch_spirit occultism:craft occultism:iesnium_sacrificial_bowl occultism:ritual occultism:ritual_dummy/misc_celestial_chalice
+occultism:ritual/misc_chalk_rainbow | occultism:ritual | c:sheep occultism:brush occultism:chalk_blue occultism:chalk_brown occultism:chalk_cyan occultism:chalk_gold occultism:chalk_green occultism:chalk_light_blue occultism:chalk_lime occultism:chalk_magenta occultism:chalk_orange occultism:chalk_pink occultism:chalk_purple occultism:chalk_rainbow occultism:chalk_red occultism:contact_eldritch_spirit occultism:craft occultism:ritual occultism:ritual_dummy/misc_chalk_rainbow
+occultism:ritual/misc_chalk_void | occultism:ritual | occultism:brush occultism:chalk_black occultism:chalk_gray occultism:chalk_light_gray occultism:chalk_void occultism:chalk_white occultism:contact_eldritch_spirit occultism:craft occultism:humans occultism:ritual occultism:ritual_dummy/misc_chalk_void
+occultism:ritual/misc_diamond_horse_armor | occultism:ritual | c:armadillos c:gems/diamond minecraft:diamond_horse_armor minecraft:leather_horse_armor occultism:contact_wild_spirit occultism:craft occultism:ritual occultism:ritual_dummy/misc_diamond_horse_armor
+occultism:ritual/misc_eldritch_chalice | occultism:ritual | c:ravagers c:storage_blocks/iesnium c:storage_blocks/netherite minecraft:bell minecraft:budding_amethyst minecraft:chorus_flower minecraft:end_stone_bricks minecraft:heavy_core minecraft:reinforced_deepslate minecraft:respawn_anchor minecraft:sculk_catalyst minecraft:soul_lantern minecraft:sponge occultism:contact_eldritch_spirit occultism:craft occultism:dark_iesnium_sacrificial_bowl occultism:eldritch_chalice occultism:ritual occultism:ritual_dummy/misc_eldritch_chalice
+occultism:ritual/misc_golden_horse_armor | occultism:ritual | c:armadillos c:ingots/gold minecraft:golden_horse_armor minecraft:leather_horse_armor occultism:contact_wild_spirit occultism:craft occultism:ritual occultism:ritual_dummy/misc_golden_horse_armor
+occultism:ritual/misc_iron_horse_armor | occultism:ritual | c:armadillos c:ingots/iron minecraft:iron_horse_armor minecraft:leather_horse_armor occultism:contact_wild_spirit occultism:craft occultism:ritual occultism:ritual_dummy/misc_iron_horse_armor
+occultism:ritual/misc_miner_ancient_eldritch | occultism:ritual | occultism:contact_eldritch_spirit occultism:craft_miner_spirit occultism:humans occultism:miner_ancient_eldritch occultism:miner_marid_master occultism:mining_dim_core occultism:ritual occultism:ritual_dummy/misc_miner_ancient_eldritch
+occultism:ritual/misc_reinforced_deepslate | occultism:ritual | c:ingots/iesnium c:obsidians c:wardens minecraft:deepslate minecraft:iron_bars minecraft:reinforced_deepslate occultism:contact_wild_spirit occultism:craft occultism:ritual occultism:ritual_dummy/misc_reinforced_deepslate
+occultism:ritual/misc_stabilized_storage | occultism:ritual | c:dusts/echo c:shulkers minecraft:calibrated_sculk_sensor neoforge:compound occultism:contact_eldritch_spirit occultism:ritual occultism:ritual_dummy/misc_stabilized_storage occultism:storage_controller occultism:storage_controller_stabilized occultism:storage_stabilizer_tier5 occultism:storage_stabilizer_tier5_dark occultism:upgrade
+occultism:ritual/misc_stabilized_storage_dark | occultism:ritual | c:dusts/echo c:shulkers minecraft:calibrated_sculk_sensor neoforge:compound occultism:contact_eldritch_spirit occultism:ritual occultism:ritual_dummy/misc_stabilized_storage_dark occultism:storage_controller_dark occultism:storage_controller_stabilized_dark occultism:storage_stabilizer_tier5 occultism:storage_stabilizer_tier5_dark occultism:upgrade
+occultism:ritual/misc_stabilizer_tier5 | occultism:ritual | c:dusts/dragonyst c:endermen c:obsidians/crying c:storage_blocks/iesnium c:storage_blocks/netherite minecraft:enchanted_golden_apple minecraft:sculk_shrieker occultism:contact_eldritch_spirit occultism:craft occultism:ritual occultism:ritual_dummy/misc_stabilizer_tier5 occultism:spirit_attuned_crystal occultism:storage_stabilizer_tier4 occultism:storage_stabilizer_tier5
+occultism:ritual/misc_stabilizer_tier5_dark | occultism:ritual | c:dusts/dragonyst c:endermen c:obsidians/crying c:storage_blocks/iesnium c:storage_blocks/netherite minecraft:enchanted_golden_apple minecraft:sculk_shrieker occultism:contact_eldritch_spirit occultism:craft occultism:ritual occultism:ritual_dummy/misc_stabilizer_tier5_dark occultism:spirit_attuned_crystal occultism:storage_stabilizer_tier4_dark occultism:storage_stabilizer_tier5_dark
+occultism:ritual/misc_trinity_gem | occultism:ritual | c:dusts/dragonyst c:dusts/echo c:dusts/iesnium c:dusts/witherite occultism:afrit_essence occultism:contact_eldritch_spirit occultism:craft occultism:cruelty_essence occultism:humans occultism:marid_essence occultism:ritual occultism:ritual_dummy/misc_trinity_gem occultism:soul_gem occultism:trinity_gem
+occultism:ritual/misc_wild_trim | occultism:ritual | c:llamas minecraft:bamboo minecraft:diamond_block minecraft:glistering_melon_slice minecraft:jungle_sapling minecraft:mossy_cobblestone minecraft:wild_armor_trim_smithing_template occultism:contact_wild_spirit occultism:craft occultism:ritual occultism:ritual_dummy/misc_wild_trim
+occultism:ritual/possess_bee | occultism:ritual | c:chickens minecraft:honey_block minecraft:honey_bottle minecraft:honeycomb minecraft:honeycomb_block occultism:book_of_binding_bound_djinni occultism:cursed_honey occultism:possess_djinni occultism:possessed_bee occultism:ritual occultism:ritual_dummy/possess_bee occultism:summon
+occultism:ritual/possess_blaze | occultism:ritual | c:chickens c:ingots/copper c:ingots/gold minecraft:candles minecraft:fire_charge minecraft:firework_star minecraft:torch occultism:book_of_binding_bound_djinni occultism:possess_djinni occultism:possessed_blaze occultism:ritual occultism:ritual_dummy/possess_blaze occultism:spawn_egg/possessed_blaze occultism:summon
+occultism:ritual/possess_elder_guardian | occultism:ritual | c:buckets/water c:fish c:gems/emerald minecraft:dark_prismarine minecraft:prismarine_bricks minecraft:sea_lantern occultism:book_of_binding_bound_afrit occultism:possess_afrit occultism:possessed_elder_guardian occultism:ritual occultism:ritual_dummy/possess_elder_guardian occultism:spawn_egg/possessed_elder_guardian occultism:summon
+occultism:ritual/possess_enderman | occultism:ritual | c:bones c:end_stones c:pigs c:strings minecraft:rotten_flesh occultism:book_of_binding_bound_djinni occultism:possess_djinni occultism:possessed_enderman occultism:ritual occultism:ritual_dummy/possess_enderman occultism:spawn_egg/possessed_enderman occultism:summon
+occultism:ritual/possess_endermite | occultism:ritual | c:stones minecraft:dirt minecraft:egg occultism:book_of_binding_bound_foliot occultism:possess_foliot occultism:possessed_endermite occultism:ritual occultism:ritual_dummy/possess_endermite occultism:spawn_egg/possessed_endermite occultism:summon
+occultism:ritual/possess_ghast | occultism:ritual | c:cows c:gems/diamond c:magma c:netherracks minecraft:lava_bucket minecraft:soul_fire_base_blocks occultism:book_of_binding_bound_djinni occultism:possess_djinni occultism:possessed_ghast occultism:ritual occultism:ritual_dummy/possess_ghast occultism:spawn_egg/possessed_ghast occultism:summon
+occultism:ritual/possess_goat | occultism:ritual | minecraft:armadillo_scute minecraft:pointed_dripstone minecraft:rabbit_foot minecraft:wool occultism:book_of_binding_bound_marid occultism:cruelty_essence occultism:humans occultism:mercy_goat occultism:possess_marid occultism:ritual occultism:ritual_dummy/possess_goat occultism:summon
+occultism:ritual/possess_guardian | occultism:ritual | c:buckets/water c:fish c:storage_blocks/lapis minecraft:seagrass minecraft:tropical_fish minecraft:turtle_scute occultism:book_of_binding_bound_afrit occultism:possess_unbound_afrit occultism:possessed_guardian occultism:ritual occultism:ritual_dummy/possess_guardian occultism:spawn_egg/possessed_guardian occultism:summon
+occultism:ritual/possess_hoglin | occultism:ritual | c:leathers c:netherracks c:pigs minecraft:netherite_scrap minecraft:porkchop occultism:book_of_binding_bound_afrit occultism:possess_afrit occultism:possessed_hoglin occultism:ritual occultism:ritual_dummy/possess_hoglin occultism:spawn_egg/possessed_hoglin occultism:spirit_attuned_crystal occultism:summon
+occultism:ritual/possess_iesnium_golem | occultism:ritual | c:golems/iron c:nether_stars c:storage_blocks/iesnium occultism:book_of_binding_bound_marid occultism:iesnium_golem occultism:marid_essence occultism:possess_marid occultism:ritual occultism:ritual_dummy/possess_iesnium_golem occultism:soul_gem occultism:spawn_egg/iesnium_golem occultism:spirit_attuned_crystal occultism:summon
+occultism:ritual/possess_phantom | occultism:ritual | c:feathers c:leathers occultism:book_of_binding_bound_foliot occultism:flying_passive occultism:possess_foliot occultism:possessed_phantom occultism:ritual occultism:ritual_dummy/possess_phantom occultism:spawn_egg/possessed_phantom occultism:summon
+occultism:ritual/possess_random_animal_common | occultism:ritual | c:crops c:seeds minecraft:egg occultism:book_of_binding_bound_foliot occultism:mysterious_egg_icon occultism:possess_foliot occultism:random_animals_common occultism:ritual occultism:ritual_dummy/possess_random_animal_common occultism:summon
+occultism:ritual/possess_random_animal_rideable | occultism:ritual | c:crops/cactus c:storage_blocks/wheat minecraft:apple minecraft:carrot minecraft:experience_bottle minecraft:golden_apple minecraft:golden_carrot minecraft:warped_fungus occultism:book_of_binding_bound_djinni occultism:mysterious_egg_icon occultism:possess_djinni occultism:random_animals_rideable occultism:ritual occultism:ritual_dummy/possess_random_animal_rideable occultism:summon
+occultism:ritual/possess_random_animal_small | occultism:ritual | c:feathers c:nuggets/iron c:strings minecraft:egg minecraft:sugar occultism:book_of_binding_bound_foliot occultism:mysterious_egg_icon occultism:possess_foliot occultism:random_animals_small occultism:ritual occultism:ritual_dummy/possess_random_animal_small occultism:summon
+occultism:ritual/possess_random_animal_special | occultism:ritual | c:mushroom_blocks c:storage_blocks/iron minecraft:bamboo_block minecraft:moss_block minecraft:packed_ice minecraft:terracotta minecraft:wind_charge minecraft:wool occultism:book_of_binding_bound_djinni occultism:mysterious_egg_icon occultism:possess_djinni occultism:random_animals_special occultism:ritual occultism:ritual_dummy/possess_random_animal_special occultism:summon
+occultism:ritual/possess_random_animal_water | occultism:ritual | minecraft:clay minecraft:kelp minecraft:mud minecraft:seagrass minecraft:snowball occultism:book_of_binding_bound_foliot occultism:mysterious_egg_icon occultism:possess_foliot occultism:random_animals_water occultism:ritual occultism:ritual_dummy/possess_random_animal_water occultism:summon
+occultism:ritual/possess_shulker | occultism:ritual | c:end_stones minecraft:dragon_breath minecraft:purple_glazed_terracotta occultism:book_of_binding_bound_afrit occultism:cubemob occultism:possess_afrit occultism:possessed_shulker occultism:ritual occultism:ritual_dummy/possess_shulker occultism:spawn_egg/possessed_shulker occultism:summon
+occultism:ritual/possess_skeleton | occultism:ritual | c:bones c:chickens occultism:book_of_binding_bound_foliot occultism:possess_foliot occultism:possessed_skeleton occultism:ritual occultism:ritual_dummy/possess_skeleton occultism:spawn_egg/possessed_skeleton occultism:summon
+occultism:ritual/possess_unbound_otherworld_bird | occultism:ritual | c:feathers c:parrots minecraft:egg minecraft:leaves occultism:book_of_binding_bound_djinni occultism:otherworld_bird occultism:possess_djinni occultism:ritual occultism:ritual_dummy/possess_unbound_otherworld_bird occultism:spawn_egg/otherworld_bird occultism:summon
+occultism:ritual/possess_unbound_parrot | occultism:ritual | c:chickens c:dyes/blue c:dyes/green c:dyes/red c:dyes/yellow c:feathers minecraft:parrot minecraft:parrot_spawn_egg occultism:book_of_binding_bound_foliot occultism:possess_foliot occultism:ritual occultism:ritual_dummy/possess_unbound_parrot occultism:summon
+occultism:ritual/possess_villager | occultism:ritual | c:foods/pie c:villagers minecraft:beds minecraft:campfire minecraft:experience_bottle occultism:book_of_binding_bound_djinni occultism:mysterious_egg_icon occultism:possess_djinni occultism:ritual occultism:ritual_dummy/possess_villager occultism:summon
+occultism:ritual/possess_warden | occultism:ritual | c:cows minecraft:sculk occultism:book_of_binding_bound_afrit occultism:possess_afrit occultism:possessed_warden occultism:ritual occultism:ritual_dummy/possess_warden occultism:spawn_egg/possessed_warden occultism:summon
+occultism:ritual/possess_weak_shulker | occultism:ritual | c:end_stones c:ender_pearls minecraft:purple_concrete occultism:book_of_binding_bound_djinni occultism:cubemob occultism:possess_djinni occultism:possessed_weak_shulker occultism:ritual occultism:ritual_dummy/possess_weak_shulker occultism:spawn_egg/possessed_weak_shulker occultism:summon
+occultism:ritual/possess_witch | occultism:ritual | c:chickens c:dusts/redstone minecraft:brown_mushroom minecraft:glass_bottle minecraft:red_mushroom occultism:book_of_binding_bound_foliot occultism:possess_foliot occultism:possessed_witch occultism:ritual occultism:ritual_dummy/possess_witch occultism:spawn_egg/possessed_witch occultism:summon
+occultism:ritual/possess_zombie_piglin | occultism:ritual | c:pigs minecraft:crimson_fungus minecraft:gilded_blackstone minecraft:quartz minecraft:warped_fungus occultism:book_of_binding_bound_afrit occultism:possess_unbound_afrit occultism:possessed_zombie_piglin occultism:ritual occultism:ritual_dummy/possess_zombie_piglin occultism:spawn_egg/possessed_zombie_piglin occultism:summon
+occultism:ritual/repair_armors | occultism:ritual | c:armors occultism:craft_afrit occultism:otherworld_essence occultism:repair occultism:repair_icon occultism:ritual occultism:ritual_dummy/repair_armors occultism:spirit_attuned_gem
+occultism:ritual/repair_chalks | occultism:ritual | occultism:craft_djinni occultism:otherworld_essence occultism:repair occultism:repair_icon occultism:ritual occultism:ritual_dummy/repair_chalks occultism:spirit_attuned_gem occultism:tools/chalk
+occultism:ritual/repair_miners | occultism:ritual | occultism:craft_afrit occultism:miners occultism:otherworld_essence occultism:repair occultism:repair_icon occultism:ritual occultism:ritual_dummy/repair_miners occultism:spirit_attuned_gem
+occultism:ritual/repair_tools | occultism:ritual | c:tools occultism:craft_afrit occultism:otherworld_essence occultism:repair occultism:repair_icon occultism:ritual occultism:ritual_dummy/repair_tools occultism:spirit_attuned_gem
+occultism:ritual/resurrect_allay | occultism:ritual | c:dusts/glowstone c:dusts/gold c:dusts/redstone c:dusts/silver c:vex minecraft:allay minecraft:allay_spawn_egg minecraft:sugar occultism:resurrect_spirit occultism:ritual occultism:ritual_dummy/resurrect_allay occultism:summon
+occultism:ritual/resurrect_familiar | occultism:ritual | occultism:otherworld_essence occultism:resurrect_familiar occultism:resurrect_icon occultism:resurrect_spirit occultism:ritual occultism:ritual_dummy/resurrect_familiar occultism:soul_shard
+occultism:ritual/resurrect_mob | occultism:ritual | minecraft:ghast_tear occultism:otherworld_essence occultism:resurrect_familiar occultism:resurrect_icon occultism:resurrect_spirit occultism:ritual occultism:ritual_dummy/resurrect_mob occultism:soul_shattered occultism:spirit_attuned_crystal occultism:tallow_block
+occultism:ritual/summon_afrit_crusher | occultism:ritual | c:dusts/amethyst c:dusts/emerald c:dusts/iesnium c:dusts/lapis c:dusts/obsidian occultism:afrit occultism:book_of_binding_bound_afrit occultism:crush_tier3 occultism:ritual occultism:ritual_dummy/summon_afrit_crusher occultism:spawn_egg/afrit occultism:summon_afrit occultism:summon_spirit_with_job
+occultism:ritual/summon_afrit_crystallizer | occultism:ritual | c:storage_blocks/lapis minecraft:amethyst_block minecraft:dripstone_block minecraft:quartz_block occultism:afrit occultism:book_of_binding_bound_afrit occultism:crystal_tier3 occultism:gray_paste occultism:ritual occultism:ritual_dummy/summon_afrit_crystallizer occultism:spawn_egg/afrit occultism:summon_afrit occultism:summon_spirit_with_job
+occultism:ritual/summon_afrit_rain_weather | occultism:ritual | c:cows c:sands minecraft:cactus minecraft:dead_bush minecraft:dried_kelp occultism:afrit occultism:book_of_binding_bound_afrit occultism:rain_weather occultism:ritual occultism:ritual_dummy/summon_afrit_rain_weather occultism:spawn_egg/afrit occultism:summon_afrit occultism:summon_spirit_with_job
+occultism:ritual/summon_afrit_smelter | occultism:ritual | c:buckets/lava c:rods/blaze minecraft:magma_block minecraft:red_nether_bricks minecraft:soul_campfire occultism:afrit occultism:book_of_binding_bound_afrit occultism:ritual occultism:ritual_dummy/summon_afrit_smelter occultism:smelt_tier3 occultism:spawn_egg/afrit occultism:summon_afrit occultism:summon_spirit_with_job
+occultism:ritual/summon_afrit_thunder_weather | occultism:ritual | c:bones c:cows c:gunpowders minecraft:ghast_tear occultism:afrit occultism:book_of_binding_bound_afrit occultism:ritual occultism:ritual_dummy/summon_afrit_thunder_weather occultism:spawn_egg/afrit occultism:summon_afrit occultism:summon_spirit_with_job occultism:thunder_weather
+occultism:ritual/summon_demonic_husband | occultism:ritual | c:chickens c:gems/emerald c:gunpowders c:ingots/gold minecraft:glass_bottle minecraft:porkchop minecraft:swords occultism:book_of_binding_bound_djinni occultism:demonic_husband occultism:ritual occultism:ritual_dummy/summon_demonic_husband occultism:spawn_egg/demonic_husband occultism:summon_djinni occultism:summon_tamed
+occultism:ritual/summon_demonic_wife | occultism:ritual | c:chickens c:gems/diamond c:gunpowders c:ingots/gold minecraft:glass_bottle minecraft:porkchop minecraft:swords occultism:book_of_binding_bound_djinni occultism:demonic_wife occultism:ritual occultism:ritual_dummy/summon_demonic_wife occultism:spawn_egg/demonic_wife occultism:summon_djinni occultism:summon_tamed
+occultism:ritual/summon_djinni_clear_weather | occultism:ritual | c:crops/beetroot c:crops/carrot c:crops/potato c:crops/wheat occultism:book_of_binding_bound_djinni occultism:clear_weather occultism:djinni occultism:ritual occultism:ritual_dummy/summon_djinni_clear_weather occultism:spawn_egg/djinni occultism:summon_djinni occultism:summon_spirit_with_job
+occultism:ritual/summon_djinni_crusher | occultism:ritual | c:dusts/copper c:dusts/gold c:dusts/iron c:dusts/silver occultism:book_of_binding_bound_djinni occultism:crush_tier2 occultism:djinni occultism:ritual occultism:ritual_dummy/summon_djinni_crusher occultism:spawn_egg/djinni occultism:summon_djinni occultism:summon_spirit_with_job
+occultism:ritual/summon_djinni_crystallizer | occultism:ritual | c:gems/amethyst c:gems/emerald c:gems/lapis occultism:book_of_binding_bound_djinni occultism:crystal_tier2 occultism:djinni occultism:gray_paste occultism:ritual occultism:ritual_dummy/summon_djinni_crystallizer occultism:spawn_egg/djinni occultism:summon_djinni occultism:summon_spirit_with_job
+occultism:ritual/summon_djinni_day_time | occultism:ritual | c:dyes/yellow minecraft:saplings minecraft:torch minecraft:wheat occultism:book_of_binding_bound_djinni occultism:day_time occultism:djinni occultism:ritual occultism:ritual_dummy/summon_djinni_day_time occultism:spawn_egg/djinni occultism:summon_djinni occultism:summon_spirit_with_job
+occultism:ritual/summon_djinni_gambler | occultism:ritual | c:gems/emerald c:ingots/gold c:storage_blocks/diamond c:storage_blocks/silver occultism:book_of_binding_bound_djinni occultism:djinni occultism:gambler occultism:ritual occultism:ritual_dummy/summon_djinni_gambler occultism:spawn_egg/djinni occultism:summon_djinni occultism:summon_spirit_with_job
+occultism:ritual/summon_djinni_manage_machine | occultism:ritual | c:ingots/gold c:ingots/iron c:storage_blocks/coal minecraft:furnace occultism:book_of_binding_bound_djinni occultism:book_of_calling_djinni_manage_machine occultism:djinni occultism:manage_machine occultism:ritual occultism:ritual_dummy/summon_djinni_manage_machine occultism:summon_djinni occultism:summon_spirit_with_job
+occultism:ritual/summon_djinni_night_time | occultism:ritual | c:bones c:dyes/black c:gunpowders minecraft:rotten_flesh occultism:book_of_binding_bound_djinni occultism:djinni occultism:night_time occultism:ritual occultism:ritual_dummy/summon_djinni_night_time occultism:spawn_egg/djinni occultism:summon_djinni occultism:summon_spirit_with_job
+occultism:ritual/summon_djinni_smelter | occultism:ritual | c:tools/igniter minecraft:blast_furnace minecraft:fire_charge minecraft:smoker occultism:book_of_binding_bound_djinni occultism:djinni occultism:ritual occultism:ritual_dummy/summon_djinni_smelter occultism:smelt_tier2 occultism:spawn_egg/djinni occultism:summon_djinni occultism:summon_spirit_with_job
+occultism:ritual/summon_foliot_cleaner | occultism:ritual | c:chests minecraft:dispenser minecraft:hopper occultism:book_of_binding_bound_foliot occultism:book_of_calling_foliot_cleaner occultism:brush occultism:cleaner occultism:foliot occultism:ritual occultism:ritual_dummy/summon_foliot_cleaner occultism:summon_foliot occultism:summon_spirit_with_job
+occultism:ritual/summon_foliot_crusher | occultism:ritual | c:ingots/copper c:ingots/gold c:ingots/iron c:ingots/silver occultism:book_of_binding_bound_foliot occultism:crush_tier1 occultism:foliot occultism:ritual occultism:ritual_dummy/summon_foliot_crusher occultism:spawn_egg/foliot occultism:summon_foliot occultism:summon_spirit_with_job
+occultism:ritual/summon_foliot_crystallizer | occultism:ritual | c:dusts/amethyst c:dusts/emerald c:dusts/lapis occultism:book_of_binding_bound_foliot occultism:crystal_tier1 occultism:foliot occultism:ritual occultism:ritual_dummy/summon_foliot_crystallizer occultism:spawn_egg/foliot occultism:spirit_attuned_crystal occultism:summon_foliot occultism:summon_spirit_with_job
+occultism:ritual/summon_foliot_farmer | occultism:ritual | minecraft:carrot minecraft:hoes minecraft:potato minecraft:wheat occultism:book_of_binding_bound_foliot occultism:book_of_calling_foliot_farmer occultism:datura occultism:farmer occultism:foliot occultism:ritual occultism:ritual_dummy/summon_foliot_farmer occultism:summon_foliot occultism:summon_spirit_with_job
+occultism:ritual/summon_foliot_lumberjack | occultism:ritual | minecraft:axes minecraft:birch_sapling minecraft:oak_sapling minecraft:spruce_sapling occultism:book_of_binding_bound_foliot occultism:book_of_calling_foliot_lumberjack occultism:foliot occultism:lumberjack occultism:otherworld_sapling occultism:ritual occultism:ritual_dummy/summon_foliot_lumberjack occultism:summon_foliot occultism:summon_spirit_with_job
+occultism:ritual/summon_foliot_otherrock_trader | occultism:ritual | minecraft:calcite minecraft:deepslate minecraft:dripstone_block minecraft:magma_block occultism:book_of_binding_bound_foliot occultism:foliot occultism:ritual occultism:ritual_dummy/summon_foliot_otherrock_trader occultism:spawn_egg/foliot occultism:summon_foliot occultism:summon_spirit_with_job occultism:trader_otherrock
+occultism:ritual/summon_foliot_otherstone_trader | occultism:ritual | minecraft:andesite minecraft:diorite minecraft:granite minecraft:stone occultism:book_of_binding_bound_foliot occultism:foliot occultism:ritual occultism:ritual_dummy/summon_foliot_otherstone_trader occultism:spawn_egg/foliot occultism:summon_foliot occultism:summon_spirit_with_job occultism:trader_otherstone
+occultism:ritual/summon_foliot_sapling_trader | occultism:ritual | minecraft:birch_sapling minecraft:jungle_sapling minecraft:oak_sapling minecraft:spruce_sapling occultism:book_of_binding_bound_foliot occultism:foliot occultism:ritual occultism:ritual_dummy/summon_foliot_sapling_trader occultism:spawn_egg/foliot occultism:summon_foliot occultism:summon_spirit_with_job occultism:trader_otherworld_saplings
+occultism:ritual/summon_foliot_smelter | occultism:ritual | minecraft:campfire minecraft:coals minecraft:furnace occultism:book_of_binding_bound_foliot occultism:foliot occultism:ritual occultism:ritual_dummy/summon_foliot_smelter occultism:smelt_tier1 occultism:spawn_egg/foliot occultism:summon_foliot occultism:summon_spirit_with_job
+occultism:ritual/summon_foliot_transport_items | occultism:ritual | c:chests minecraft:dispenser minecraft:hopper minecraft:minecart occultism:book_of_binding_bound_foliot occultism:book_of_calling_foliot_transport_items occultism:foliot occultism:ritual occultism:ritual_dummy/summon_foliot_transport_items occultism:summon_foliot occultism:summon_spirit_with_job occultism:transport_items
+occultism:ritual/summon_marid_crusher | occultism:ritual | c:storage_blocks/diamond c:storage_blocks/emerald c:storage_blocks/iesnium c:storage_blocks/netherite minecraft:ghast_tear occultism:book_of_binding_bound_marid occultism:crush_tier4 occultism:marid occultism:ritual occultism:ritual_dummy/summon_marid_crusher occultism:spawn_egg/marid occultism:summon_marid occultism:summon_spirit_with_job
+occultism:ritual/summon_marid_crystallizer | occultism:ritual | c:storage_blocks/iesnium minecraft:budding_amethyst minecraft:sculk_catalyst minecraft:sea_lantern occultism:book_of_binding_bound_marid occultism:crystal_tier4 occultism:gray_paste occultism:marid occultism:ritual occultism:ritual_dummy/summon_marid_crystallizer occultism:spawn_egg/marid occultism:summon_marid occultism:summon_spirit_with_job
+occultism:ritual/summon_marid_smelter | occultism:ritual | c:storage_blocks/coal c:storage_blocks/gold c:storage_blocks/iesnium minecraft:crying_obsidian minecraft:dragon_breath occultism:book_of_binding_bound_marid occultism:marid occultism:ritual occultism:ritual_dummy/summon_marid_smelter occultism:smelt_tier4 occultism:spawn_egg/marid occultism:spirit_campfire occultism:summon_marid occultism:summon_spirit_with_job
+occultism:ritual/summon_unbound_afrit | occultism:ritual | c:cows c:gunpowders c:ingots/iesnium c:netherracks minecraft:flint_and_steel occultism:afrit_essence occultism:afrit_wild occultism:book_of_binding_bound_afrit occultism:ritual occultism:ritual_dummy/summon_unbound_afrit occultism:summon occultism:summon_unbound_afrit
+occultism:ritual/summon_unbound_marid | occultism:ritual | c:gems/prismarine minecraft:conduit minecraft:ghast_tear minecraft:prismarine_shard minecraft:trident occultism:book_of_binding_bound_marid occultism:marid_essence occultism:marid_unbound occultism:ritual occultism:ritual_dummy/summon_unbound_marid occultism:summon occultism:summon_unbound_marid
+occultism:ritual/summon_wondering_trader | occultism:ritual | c:gems/emerald occultism:book_of_binding_bound_djinni occultism:otherworld_essence occultism:ritual occultism:ritual_dummy/summon_wondering_trader occultism:spawn_egg/wondering_trader occultism:summon occultism:summon_djinni occultism:wondering_trader
+occultism:ritual/wild_breeze | occultism:ritual | minecraft:copper_bulb minecraft:trial_key minecraft:tuff_bricks occultism:contact_wild_spirit occultism:humans occultism:possessed_breeze occultism:ritual occultism:ritual_dummy/wild_breeze occultism:spawn_egg/wild_breeze occultism:summon_wild
+occultism:ritual/wild_creeper | occultism:ritual | c:pigs minecraft:flint_and_steel minecraft:leaves minecraft:moss_block minecraft:tnt occultism:contact_wild_spirit occultism:ritual occultism:ritual_dummy/wild_creeper occultism:spawn_egg/wild_horde_creeper occultism:summon_wild occultism:wild_horde_creeper
+occultism:ritual/wild_drowned | occultism:ritual | c:fish minecraft:dried_kelp_block minecraft:fishing_rod minecraft:gravel minecraft:pufferfish occultism:contact_wild_spirit occultism:ritual occultism:ritual_dummy/wild_drowned occultism:spawn_egg/wild_horde_drowned occultism:summon_wild occultism:wild_horde_drowned
+occultism:ritual/wild_horde_illager | occultism:ritual | c:dusts/emerald minecraft:dark_oak_log minecraft:golden_apple occultism:contact_wild_spirit occultism:humans occultism:possessed_evoker occultism:ritual occultism:ritual_dummy/wild_horde_illager occultism:spawn_egg/wild_evoker occultism:summon_wild
+occultism:ritual/wild_hunt | occultism:ritual | c:gems/diamond c:netherracks c:storage_blocks/copper c:storage_blocks/gold c:storage_blocks/silver minecraft:skeleton_skull minecraft:soul_fire_base_blocks occultism:contact_wild_spirit occultism:humans occultism:ritual occultism:ritual_dummy/wild_hunt occultism:spawn_egg/wild_hunt_wither_skeleton occultism:summon_wild occultism:wild_hunt_wither_skeleton
+occultism:ritual/wild_husk | occultism:ritual | c:camels minecraft:dead_bush minecraft:gold_ingot minecraft:pickaxes minecraft:rotten_flesh minecraft:sandstone occultism:contact_wild_spirit occultism:ritual occultism:ritual_dummy/wild_husk occultism:spawn_egg/wild_horde_husk occultism:summon_wild occultism:wild_horde_husk
+occultism:ritual/wild_random_animal_common | occultism:ritual | c:crops c:seeds minecraft:egg occultism:contact_wild_spirit occultism:mysterious_egg_icon occultism:random_animals_common occultism:ritual occultism:ritual_dummy/wild_random_animal_common occultism:spirit_attuned_gem occultism:summon_wild
+occultism:ritual/wild_random_animal_rideable | occultism:ritual | c:crops/cactus c:storage_blocks/wheat minecraft:apple minecraft:carrot minecraft:experience_bottle minecraft:golden_apple minecraft:golden_carrot minecraft:warped_fungus occultism:contact_wild_spirit occultism:mysterious_egg_icon occultism:random_animals_rideable occultism:ritual occultism:ritual_dummy/wild_random_animal_rideable occultism:spirit_attuned_gem occultism:summon_wild
+occultism:ritual/wild_random_animal_small | occultism:ritual | c:feathers c:nuggets/iron c:strings minecraft:egg minecraft:sugar occultism:contact_wild_spirit occultism:mysterious_egg_icon occultism:random_animals_small occultism:ritual occultism:ritual_dummy/wild_random_animal_small occultism:spirit_attuned_gem occultism:summon_wild
+occultism:ritual/wild_random_animal_special | occultism:ritual | c:mushroom_blocks c:storage_blocks/iron minecraft:bamboo_block minecraft:moss_block minecraft:packed_ice minecraft:terracotta minecraft:wind_charge minecraft:wool occultism:contact_wild_spirit occultism:mysterious_egg_icon occultism:random_animals_special occultism:ritual occultism:ritual_dummy/wild_random_animal_special occultism:spirit_attuned_gem occultism:summon_wild
+occultism:ritual/wild_random_animal_water | occultism:ritual | minecraft:clay minecraft:kelp minecraft:mud minecraft:seagrass minecraft:snowball occultism:contact_wild_spirit occultism:mysterious_egg_icon occultism:random_animals_water occultism:ritual occultism:ritual_dummy/wild_random_animal_water occultism:spirit_attuned_gem occultism:summon_wild
+occultism:ritual/wild_silverfish | occultism:ritual | minecraft:brush minecraft:egg minecraft:gravel minecraft:sand minecraft:terracotta occultism:contact_wild_spirit occultism:ritual occultism:ritual_dummy/wild_silverfish occultism:spawn_egg/wild_horde_silverfish occultism:summon_wild occultism:wild_horde_silverfish
+occultism:ritual/wild_strong_breeze | occultism:ritual | minecraft:breeze_rod minecraft:copper_bulb minecraft:ominous_bottle minecraft:ominous_trial_key minecraft:tuff_bricks occultism:contact_wild_spirit occultism:humans occultism:possessed_strong_breeze occultism:ritual occultism:ritual_dummy/wild_strong_breeze occultism:spawn_egg/wild_strong_breeze occultism:summon_wild
+occultism:ritual/wild_villager | occultism:ritual | c:foods/pie c:villagers minecraft:beds minecraft:campfire minecraft:experience_bottle occultism:contact_wild_spirit occultism:mysterious_egg_icon occultism:ritual occultism:ritual_dummy/wild_villager occultism:spirit_attuned_gem occultism:summon_wild
+occultism:ritual/wild_weak_breeze | occultism:ritual | c:storage_blocks/copper minecraft:honeycomb minecraft:tuff_bricks occultism:contact_wild_spirit occultism:humans occultism:possessed_weak_breeze occultism:ritual occultism:ritual_dummy/wild_weak_breeze occultism:spawn_egg/wild_weak_breeze occultism:summon_wild
+occultism:smelting/burnt_otherrock | minecraft:smelting | minecraft:smelting occultism:burnt_otherrock occultism:polished_otherrock
+occultism:smelting/burnt_otherstone | minecraft:smelting | minecraft:smelting occultism:burnt_otherstone occultism:polished_otherstone
+occultism:smelting/copper_ingot_from_dust | minecraft:smelting | c:dusts/copper minecraft:copper_ingot minecraft:smelting
+occultism:smelting/cracked_otherrock_bricks | minecraft:smelting | minecraft:smelting occultism:cracked_otherrock_bricks occultism:otherrock_bricks
+occultism:smelting/cracked_otherstone_bricks | minecraft:smelting | minecraft:smelting occultism:cracked_otherstone_bricks occultism:otherstone_bricks
+occultism:smelting/gold_ingot_from_dust | minecraft:smelting | c:dusts/gold minecraft:gold_ingot minecraft:smelting
+occultism:smelting/iesnium_ingot_from_dust | minecraft:smelting | c:dusts/iesnium minecraft:smelting occultism:iesnium_ingot
+occultism:smelting/iesnium_ingot_from_ore | minecraft:smelting | c:ores/iesnium minecraft:smelting occultism:iesnium_ingot
+occultism:smelting/iesnium_ingot_from_raw | minecraft:smelting | c:raw_materials/iesnium minecraft:smelting occultism:iesnium_ingot
+occultism:smelting/iron_ingot_from_dust | minecraft:smelting | c:dusts/iron minecraft:iron_ingot minecraft:smelting
+occultism:smelting/netherite_ingot_from_dust | minecraft:smelting | c:dusts/netherite minecraft:netherite_ingot minecraft:smelting
+occultism:smelting/netherite_scrap_from_dust | minecraft:smelting | c:dusts/netherite_scrap minecraft:netherite_scrap minecraft:smelting
+occultism:smelting/otherrock | minecraft:smelting | minecraft:smelting occultism:othercobblerock occultism:otherrock
+occultism:smelting/otherstone | minecraft:smelting | minecraft:smelting occultism:othercobblestone occultism:otherstone
+occultism:smelting/polished_otherrock | minecraft:smelting | minecraft:smelting occultism:otherrock occultism:polished_otherrock
+occultism:smelting/polished_otherstone | minecraft:smelting | minecraft:smelting occultism:otherstone occultism:polished_otherstone
+occultism:smelting/silver_ingot_from_dust | minecraft:smelting | c:dusts/silver minecraft:smelting occultism:silver_ingot
+occultism:smelting/silver_ingot_from_ore | minecraft:smelting | c:ores/silver minecraft:smelting occultism:silver_ingot
+occultism:smelting/silver_ingot_from_raw | minecraft:smelting | c:raw_materials/silver minecraft:smelting occultism:silver_ingot
+occultism:spirit_fire/awakened_feather | occultism:spirit_fire | c:feathers occultism:awakened_feather occultism:spirit_fire
+occultism:spirit_fire/book_of_binding_empty | occultism:spirit_fire | occultism:book_of_binding_empty occultism:books/books_for_empty occultism:spirit_fire
+occultism:spirit_fire/chalk_black | occultism:spirit_fire | occultism:chalk_black occultism:chalk_black_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_blue | occultism:spirit_fire | occultism:chalk_blue occultism:chalk_blue_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_brown | occultism:spirit_fire | occultism:chalk_brown occultism:chalk_brown_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_cyan | occultism:spirit_fire | occultism:chalk_cyan occultism:chalk_cyan_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_gold | occultism:spirit_fire | occultism:chalk_gold occultism:chalk_yellow_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_gray | occultism:spirit_fire | occultism:chalk_gray occultism:chalk_gray_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_green | occultism:spirit_fire | occultism:chalk_green occultism:chalk_green_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_light_blue | occultism:spirit_fire | occultism:chalk_light_blue occultism:chalk_light_blue_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_light_gray | occultism:spirit_fire | occultism:chalk_light_gray occultism:chalk_light_gray_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_lime | occultism:spirit_fire | occultism:chalk_lime occultism:chalk_lime_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_magenta | occultism:spirit_fire | occultism:chalk_magenta occultism:chalk_magenta_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_orange | occultism:spirit_fire | occultism:chalk_orange occultism:chalk_orange_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_pink | occultism:spirit_fire | occultism:chalk_pink occultism:chalk_pink_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_purple | occultism:spirit_fire | occultism:chalk_purple occultism:chalk_purple_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_red | occultism:spirit_fire | occultism:chalk_red occultism:chalk_red_impure occultism:spirit_fire
+occultism:spirit_fire/chalk_white | occultism:spirit_fire | occultism:chalk_white occultism:chalk_white_impure occultism:spirit_fire
+occultism:spirit_fire/otherflower | occultism:spirit_fire | minecraft:flowers occultism:otherflower occultism:spirit_fire
+occultism:spirit_fire/otherrock | occultism:spirit_fire | minecraft:diorite occultism:otherrock occultism:spirit_fire
+occultism:spirit_fire/otherstone | occultism:spirit_fire | minecraft:andesite occultism:otherstone occultism:spirit_fire
+occultism:spirit_fire/otherworld_ashes | occultism:spirit_fire | occultism:otherworld_ashes occultism:otherworld_logs occultism:spirit_fire
+occultism:spirit_fire/otherworld_essence | occultism:spirit_fire | occultism:demons_dream_essence occultism:otherworld_essence occultism:spirit_fire
+occultism:spirit_fire/otherworld_sapling_natural | occultism:spirit_fire | minecraft:oak_sapling occultism:otherworld_sapling_natural occultism:spirit_fire
+occultism:spirit_fire/purified_ink | occultism:spirit_fire | c:dyes/black occultism:purified_ink occultism:spirit_fire
+occultism:spirit_fire/spirit_attuned_gem | occultism:spirit_fire | c:gems/diamond occultism:spirit_attuned_gem occultism:spirit_fire
+occultism:spirit_fire/taboo_book | occultism:spirit_fire | minecraft:book occultism:spirit_fire occultism:taboo_book
+occultism:spirit_trade/gambler_amethyst | occultism:spirit_trade | c:gems minecraft:amethyst_shard occultism:gambler occultism:spirit_trade occultism:weighted_item
+occultism:spirit_trade/gambler_diamond | occultism:spirit_trade | c:gems minecraft:diamond occultism:gambler occultism:spirit_trade occultism:weighted_item
+occultism:spirit_trade/gambler_emerald | occultism:spirit_trade | c:gems minecraft:emerald occultism:gambler occultism:spirit_trade occultism:weighted_item
+occultism:spirit_trade/gambler_gold | occultism:spirit_trade | c:gems minecraft:gold_nugget occultism:gambler occultism:spirit_trade occultism:weighted_item
+occultism:spirit_trade/gambler_iesnium | occultism:spirit_trade | c:gems occultism:gambler occultism:iesnium_nugget occultism:spirit_trade occultism:weighted_item
+occultism:spirit_trade/gambler_iron | occultism:spirit_trade | c:gems minecraft:iron_nugget occultism:gambler occultism:spirit_trade occultism:weighted_item
+occultism:spirit_trade/gambler_lazuli | occultism:spirit_trade | c:gems minecraft:lapis_lazuli occultism:gambler occultism:spirit_trade occultism:weighted_item
+occultism:spirit_trade/gambler_prismarine | occultism:spirit_trade | c:gems minecraft:prismarine_crystals occultism:gambler occultism:spirit_trade occultism:weighted_item
+occultism:spirit_trade/gambler_quartz | occultism:spirit_trade | c:gems minecraft:quartz occultism:gambler occultism:spirit_trade occultism:weighted_item
+occultism:spirit_trade/gambler_silver | occultism:spirit_trade | c:gems occultism:gambler occultism:silver_nugget occultism:spirit_trade occultism:weighted_item
+occultism:spirit_trade/gambler_spirit | occultism:spirit_trade | c:gems occultism:gambler occultism:spirit_attuned_gem occultism:spirit_trade occultism:weighted_item
+occultism:spirit_trade/otherworld_sapling | occultism:spirit_trade | occultism:otherworld_sapling occultism:saplings/otherworld_natural occultism:spirit_trade occultism:trader_otherworld_saplings occultism:weighted_item
+occultism:spirit_trade/stone_to_otherrock | occultism:spirit_trade | c:stones occultism:otherrock occultism:spirit_trade occultism:trader_otherrock occultism:weighted_item
+occultism:spirit_trade/stone_to_otherstone | occultism:spirit_trade | c:stones occultism:otherstone occultism:spirit_trade occultism:trader_otherstone occultism:weighted_item
+occultism:stonecutting/othercobblerock_slab_from_othercobblerock | minecraft:stonecutting | minecraft:stonecutting occultism:othercobblerock occultism:othercobblerock_slab
+occultism:stonecutting/othercobblerock_stairs_from_othercobblerock | minecraft:stonecutting | minecraft:stonecutting occultism:othercobblerock occultism:othercobblerock_stairs
+occultism:stonecutting/othercobblerock_wall_from_othercobblerock | minecraft:stonecutting | minecraft:stonecutting occultism:othercobblerock occultism:othercobblerock_wall
+occultism:stonecutting/othercobblestone_slab_from_othercobblestone | minecraft:stonecutting | minecraft:stonecutting occultism:othercobblestone occultism:othercobblestone_slab
+occultism:stonecutting/othercobblestone_stairs_from_othercobblestone | minecraft:stonecutting | minecraft:stonecutting occultism:othercobblestone occultism:othercobblestone_stairs
+occultism:stonecutting/othercobblestone_wall_from_othercobblestone | minecraft:stonecutting | minecraft:stonecutting occultism:othercobblestone occultism:othercobblestone_wall
+occultism:stonecutting/otherrock_bricks_from_otherrock | minecraft:stonecutting | minecraft:stonecutting occultism:otherrock occultism:otherrock_bricks
+occultism:stonecutting/otherrock_bricks_slab_from_otherrock | minecraft:stonecutting | minecraft:stonecutting occultism:otherrock occultism:otherrock_bricks_slab
+occultism:stonecutting/otherrock_bricks_slab_from_otherrock_bricks | minecraft:stonecutting | minecraft:stonecutting occultism:otherrock_bricks occultism:otherrock_bricks_slab
+occultism:stonecutting/otherrock_bricks_stairs_from_otherrock | minecraft:stonecutting | minecraft:stonecutting occultism:otherrock occultism:otherrock_bricks_stairs
+occultism:stonecutting/otherrock_bricks_stairs_from_otherrock_bricks | minecraft:stonecutting | minecraft:stonecutting occultism:otherrock_bricks occultism:otherrock_bricks_stairs
+occultism:stonecutting/otherrock_bricks_wall_from_otherrock | minecraft:stonecutting | minecraft:stonecutting occultism:otherrock occultism:otherrock_bricks_wall
+occultism:stonecutting/otherrock_bricks_wall_from_otherrock_bricks | minecraft:stonecutting | minecraft:stonecutting occultism:otherrock_bricks occultism:otherrock_bricks_wall
+occultism:stonecutting/otherrock_slab_from_otherrock | minecraft:stonecutting | minecraft:stonecutting occultism:otherrock occultism:otherrock_slab
+occultism:stonecutting/otherrock_stairs_from_otherrock | minecraft:stonecutting | minecraft:stonecutting occultism:otherrock occultism:otherrock_stairs
+occultism:stonecutting/otherrock_wall_from_otherrock | minecraft:stonecutting | minecraft:stonecutting occultism:otherrock occultism:otherrock_wall
+occultism:stonecutting/otherstone_bricks_from_otherstone | minecraft:stonecutting | minecraft:stonecutting occultism:otherstone occultism:otherstone_bricks
+occultism:stonecutting/otherstone_bricks_slab_from_otherstone | minecraft:stonecutting | minecraft:stonecutting occultism:otherstone occultism:otherstone_bricks_slab
+occultism:stonecutting/otherstone_bricks_slab_from_otherstone_bricks | minecraft:stonecutting | minecraft:stonecutting occultism:otherstone_bricks occultism:otherstone_bricks_slab
+occultism:stonecutting/otherstone_bricks_stairs_from_otherstone | minecraft:stonecutting | minecraft:stonecutting occultism:otherstone occultism:otherstone_bricks_stairs
+occultism:stonecutting/otherstone_bricks_stairs_from_otherstone_bricks | minecraft:stonecutting | minecraft:stonecutting occultism:otherstone_bricks occultism:otherstone_bricks_stairs
+occultism:stonecutting/otherstone_bricks_wall_from_otherstone | minecraft:stonecutting | minecraft:stonecutting occultism:otherstone occultism:otherstone_bricks_wall
+occultism:stonecutting/otherstone_bricks_wall_from_otherstone_bricks | minecraft:stonecutting | minecraft:stonecutting occultism:otherstone_bricks occultism:otherstone_bricks_wall
+occultism:stonecutting/otherstone_slab_from_otherstone | minecraft:stonecutting | minecraft:stonecutting occultism:otherstone occultism:otherstone_slab
+occultism:stonecutting/otherstone_stairs_from_otherstone | minecraft:stonecutting | minecraft:stonecutting occultism:otherstone occultism:otherstone_stairs
+occultism:stonecutting/otherstone_wall_from_otherstone | minecraft:stonecutting | minecraft:stonecutting occultism:otherstone occultism:otherstone_wall
+occultism:stonecutting/polished_otherrock_slab_from_polished_otherrock | minecraft:stonecutting | minecraft:stonecutting occultism:polished_otherrock occultism:polished_otherrock_slab
+occultism:stonecutting/polished_otherrock_stairs_from_polished_otherrock | minecraft:stonecutting | minecraft:stonecutting occultism:polished_otherrock occultism:polished_otherrock_stairs
+occultism:stonecutting/polished_otherrock_wall_from_polished_otherrock | minecraft:stonecutting | minecraft:stonecutting occultism:polished_otherrock occultism:polished_otherrock_wall
+occultism:stonecutting/polished_otherstone_slab_from_polished_otherstone | minecraft:stonecutting | minecraft:stonecutting occultism:polished_otherstone occultism:polished_otherstone_slab
+occultism:stonecutting/polished_otherstone_stairs_from_polished_otherstone | minecraft:stonecutting | minecraft:stonecutting occultism:polished_otherstone occultism:polished_otherstone_stairs
+occultism:stonecutting/polished_otherstone_wall_from_polished_otherstone | minecraft:stonecutting | minecraft:stonecutting occultism:polished_otherstone occultism:polished_otherstone_wall

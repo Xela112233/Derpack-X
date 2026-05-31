@@ -1,0 +1,21 @@
+# Controlling-neoforge-1.21.1-19.0.5
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "controlling"
+version = "19.0.5"
+displayName = "Controlling"
+modId = "neoforge"
+versionRange = "[21.1.94,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "searchables"
+versionRange = "[1.0.1,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,19 @@
+# resourcefullib-neoforge-1.21-3.0.12
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "resourcefullib"
+version = "3.0.12"
+displayName = "Resourceful Lib"
+modId = "neoforge"
+versionRange = "[21.0.0-beta,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

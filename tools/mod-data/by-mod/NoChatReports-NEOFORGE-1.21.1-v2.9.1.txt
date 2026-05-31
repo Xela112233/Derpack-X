@@ -1,0 +1,19 @@
+# NoChatReports-NEOFORGE-1.21.1-v2.9.1
+
+## mod metadata (id / version / deps)
+license="WTFPL"
+modId="nochatreports"
+version="1.21.1-v2.9.1"
+displayName="No Chat Reports"
+modId="neoforge"
+versionRange="[21.0.0,)"
+modId="minecraft"
+versionRange="[1.21,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

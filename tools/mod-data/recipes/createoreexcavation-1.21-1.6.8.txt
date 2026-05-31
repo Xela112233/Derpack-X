@@ -1,0 +1,42 @@
+createoreexcavation:crushing/redstone_crushing | create:crushing | create:crushing createoreexcavation:raw_redstone minecraft:redstone
+createoreexcavation:cutting/diamond_cutting | create:cutting | create:cutting createoreexcavation:raw_diamond minecraft:diamond
+createoreexcavation:cutting/emerald_cutting | create:cutting | create:cutting createoreexcavation:raw_emerald minecraft:emerald
+createoreexcavation:diamond_drill | minecraft:crafting_shaped | c:gems/diamond c:storage_blocks/diamond createoreexcavation:diamond_drill createoreexcavation:drill minecraft:crafting_shaped
+createoreexcavation:drill | minecraft:crafting_shaped | c:ingots/iron c:storage_blocks/iron createoreexcavation:drill minecraft:crafting_shaped
+createoreexcavation:drilling/coal | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/coal minecraft:coal
+createoreexcavation:drilling/copper | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/copper minecraft:raw_copper
+createoreexcavation:drilling/diamond | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/diamond createoreexcavation:raw_diamond
+createoreexcavation:drilling/emerald | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/emerald createoreexcavation:raw_emerald
+createoreexcavation:drilling/glowstone | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/glowstone minecraft:glowstone_dust
+createoreexcavation:drilling/gold | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/gold minecraft:raw_gold
+createoreexcavation:drilling/hardened_diamond | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:netherite_drill createoreexcavation:ore_vein_type/hardened_diamond createoreexcavation:raw_diamond minecraft:diamond minecraft:lava
+createoreexcavation:drilling/iron | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/iron minecraft:raw_iron
+createoreexcavation:drilling/lapis | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/lapis minecraft:lapis_lazuli
+createoreexcavation:drilling/nether_gold | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/nether_gold minecraft:gold_nugget
+createoreexcavation:drilling/netherite | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:netherite_drill createoreexcavation:ore_vein_type/netherite minecraft:ancient_debris minecraft:gold_nugget minecraft:lava minecraft:magma_block minecraft:netherrack
+createoreexcavation:drilling/quartz | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/quartz minecraft:quartz
+createoreexcavation:drilling/redstone | createoreexcavation:drilling | createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/redstone createoreexcavation:raw_redstone
+createoreexcavation:drilling/zinc | createoreexcavation:drilling | create:raw_zinc createoreexcavation:drilling createoreexcavation:drills createoreexcavation:ore_vein_type/zinc
+createoreexcavation:drilling_machine | create:mechanical_crafting | c:plates/brass c:storage_blocks/brass create:brass_casing create:brass_tunnel create:copper_casing create:electron_tube create:mechanical_crafting create:mechanical_drill create:precision_mechanism create:spout create:sturdy_sheet createoreexcavation:drilling_machine
+createoreexcavation:extractor | create:mechanical_crafting | c:plates/brass c:storage_blocks/brass create:brass_casing create:electron_tube create:hose_pulley create:mechanical_crafting create:mechanical_drill create:mechanical_pump create:precision_mechanism create:sturdy_sheet createoreexcavation:extractor
+createoreexcavation:extractor/water | createoreexcavation:extracting | createoreexcavation:drills createoreexcavation:extracting createoreexcavation:ore_vein_type/water minecraft:water
+createoreexcavation:milling/redstone_milling | create:milling | create:milling createoreexcavation:raw_redstone minecraft:redstone
+createoreexcavation:ore_vein_type/coal | createoreexcavation:vein | createoreexcavation:vein minecraft:coal minecraft:is_overworld
+createoreexcavation:ore_vein_type/copper | createoreexcavation:vein | createoreexcavation:vein minecraft:is_overworld minecraft:raw_copper
+createoreexcavation:ore_vein_type/diamond | createoreexcavation:vein | createoreexcavation:raw_diamond createoreexcavation:vein minecraft:is_overworld
+createoreexcavation:ore_vein_type/emerald | createoreexcavation:vein | createoreexcavation:raw_emerald createoreexcavation:vein minecraft:is_overworld
+createoreexcavation:ore_vein_type/glowstone | createoreexcavation:vein | createoreexcavation:vein minecraft:glowstone_dust minecraft:is_nether
+createoreexcavation:ore_vein_type/gold | createoreexcavation:vein | createoreexcavation:vein minecraft:is_overworld minecraft:raw_gold
+createoreexcavation:ore_vein_type/hardened_diamond | createoreexcavation:vein | createoreexcavation:raw_diamond createoreexcavation:vein minecraft:is_overworld
+createoreexcavation:ore_vein_type/iron | createoreexcavation:vein | createoreexcavation:vein minecraft:is_overworld minecraft:raw_iron
+createoreexcavation:ore_vein_type/lapis | createoreexcavation:vein | createoreexcavation:vein minecraft:is_overworld minecraft:lapis_lazuli
+createoreexcavation:ore_vein_type/nether_gold | createoreexcavation:vein | createoreexcavation:vein minecraft:gold_nugget minecraft:is_nether
+createoreexcavation:ore_vein_type/netherite | createoreexcavation:vein | createoreexcavation:vein minecraft:ancient_debris minecraft:is_nether
+createoreexcavation:ore_vein_type/quartz | createoreexcavation:vein | createoreexcavation:vein minecraft:is_nether minecraft:quartz
+createoreexcavation:ore_vein_type/redstone | createoreexcavation:vein | createoreexcavation:raw_redstone createoreexcavation:vein minecraft:is_overworld
+createoreexcavation:ore_vein_type/water | createoreexcavation:vein | createoreexcavation:vein minecraft:is_overworld minecraft:water_bucket
+createoreexcavation:ore_vein_type/zinc | createoreexcavation:vein | create:raw_zinc createoreexcavation:vein minecraft:is_overworld
+createoreexcavation:sample_drill | create:mechanical_crafting | c:plates/brass create:brass_casing create:electron_tube create:mechanical_crafting create:mechanical_drill create:precision_mechanism create:sturdy_sheet createoreexcavation:sample_drill
+createoreexcavation:vein_atlas | minecraft:crafting_shaped | c:chests c:gems/amethyst createoreexcavation:vein_atlas minecraft:crafting_shaped minecraft:map minecraft:writable_book
+createoreexcavation:vein_finder | minecraft:crafting_shaped | c:gems/amethyst c:ores/redstone c:rods/wooden createoreexcavation:vein_finder minecraft:crafting_shaped minecraft:ender_eye
+minecraft:netherite_drill_smithing | minecraft:smithing_transform | createoreexcavation:diamond_drill createoreexcavation:netherite_drill minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform

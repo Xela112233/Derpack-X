@@ -1,0 +1,17 @@
+# TerraBlender-neoforge-1.21.1-4.1.0.8
+
+## mod metadata (id / version / deps)
+license="LGPLv3"
+modId="terrablender"
+version="${file.jarVersion}"
+displayName="TerraBlender"
+modId="neoforge"
+versionRange="[20.4,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

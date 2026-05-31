@@ -1,0 +1,74 @@
+# mffs-5.4.27
+
+## mod metadata (id / version / deps)
+license="Code: MIT, Assets: All Rights Reserved"
+modId="mffs"
+version="${file.jarVersion}"
+displayName="Modular Force Field System"
+modId="neoforge"
+versionRange="[21.1.29, 22)"
+modId="minecraft"
+versionRange="[1.21,1.22)"
+modId="theoneprobe"
+versionRange="[1.21_neo-12.0.0, )"
+
+## blocks
+mffs:biometric_identifier
+mffs:coercion_deriver
+mffs:force_field
+mffs:fortron_capacitor
+mffs:interdiction_matrix
+mffs:projector
+
+## items
+mffs:anti_friendly_module
+mffs:anti_hostile_module
+mffs:anti_personnel_module
+mffs:anti_spawn_module
+mffs:battery
+mffs:biometric_identifier
+mffs:blank_card
+mffs:block_access_module
+mffs:block_alter_module
+mffs:camouflage_module
+mffs:capacity_module
+mffs:coercion_deriver
+mffs:collection_module
+mffs:confiscation_module
+mffs:cube_mode
+mffs:custom_mode
+mffs:cylinder_mode
+mffs:disintegration_module
+mffs:dome_module
+mffs:focus_matrix
+mffs:fortron_capacitor
+mffs:frequency_card
+mffs:fusion_module
+mffs:glow_module
+mffs:handbook
+mffs:id_card
+mffs:infinite_power_card
+mffs:interdiction_matrix
+mffs:inverter_module
+mffs:projector
+mffs:pyramid_mode
+mffs:redstone_torch_off
+mffs:remote_controller
+mffs:rotation_module
+mffs:scale_module
+mffs:shock_module
+mffs:silence_module
+mffs:speed_module
+mffs:sphere_mode
+mffs:sponge_module
+mffs:stabilization_module
+mffs:steel_compound
+mffs:steel_ingot
+mffs:translation_module
+mffs:tube_mode
+mffs:warn_module
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+item/ingots/steel.json :: { "values": [ "mffs:steel_ingot" ]}

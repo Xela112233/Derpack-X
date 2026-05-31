@@ -1,0 +1,15 @@
+mutantmonsters:blocks/mutant_skeleton_skull | minecraft:block | minecraft:block minecraft:copy_components minecraft:custom_name minecraft:damage minecraft:enchantments minecraft:item minecraft:repair_cost minecraft:survives_explosion mutantmonsters:blocks/mutant_skeleton_skull mutantmonsters:mutant_skeleton_skull
+mutantmonsters:entities/creeper_minion | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:gunpowder minecraft:item minecraft:looting minecraft:set_count minecraft:uniform mutantmonsters:entities/creeper_minion
+mutantmonsters:entities/endersoul_clone | minecraft:entity | minecraft:entity mutantmonsters:entities/endersoul_clone
+mutantmonsters:entities/mutant_creeper | minecraft:entity | minecraft:entity mutantmonsters:entities/mutant_creeper
+mutantmonsters:entities/mutant_enderman | minecraft:entity | minecraft:entity mutantmonsters:entities/mutant_enderman
+mutantmonsters:entities/mutant_enderman_continuous | minecraft:entity | minecraft:ender_eye minecraft:ender_pearl minecraft:entity minecraft:item mutantmonsters:entities/mutant_enderman_continuous
+mutantmonsters:entities/mutant_skeleton | minecraft:entity | minecraft:entity mutantmonsters:entities/mutant_skeleton
+mutantmonsters:entities/mutant_skeleton/limb | mutantmonsters:body_part | minecraft:item minecraft:set_count mutantmonsters:body_part mutantmonsters:entities/mutant_skeleton/limb mutantmonsters:mutant_skeleton_limb
+mutantmonsters:entities/mutant_skeleton/pelvis | mutantmonsters:body_part | minecraft:item minecraft:set_count mutantmonsters:body_part mutantmonsters:entities/mutant_skeleton/pelvis mutantmonsters:mutant_skeleton_pelvis
+mutantmonsters:entities/mutant_skeleton/rib | mutantmonsters:body_part | minecraft:item minecraft:set_count mutantmonsters:body_part mutantmonsters:entities/mutant_skeleton/rib mutantmonsters:mutant_skeleton_rib
+mutantmonsters:entities/mutant_skeleton/shoulder_pad | mutantmonsters:body_part | minecraft:item minecraft:set_count mutantmonsters:body_part mutantmonsters:entities/mutant_skeleton/shoulder_pad mutantmonsters:mutant_skeleton_shoulder_pad
+mutantmonsters:entities/mutant_skeleton/skull | mutantmonsters:body_part | minecraft:item minecraft:set_count mutantmonsters:body_part mutantmonsters:entities/mutant_skeleton/skull mutantmonsters:mutant_skeleton_skull
+mutantmonsters:entities/mutant_snow_golem | minecraft:entity | minecraft:entity minecraft:item minecraft:set_count minecraft:snowball minecraft:uniform mutantmonsters:entities/mutant_snow_golem
+mutantmonsters:entities/mutant_zombie | minecraft:entity | minecraft:entity minecraft:item mutantmonsters:entities/mutant_zombie mutantmonsters:hulk_hammer
+mutantmonsters:entities/spider_pig | minecraft:entity | minecraft:entities/pig minecraft:entities/spider minecraft:entity minecraft:loot_table mutantmonsters:entities/spider_pig

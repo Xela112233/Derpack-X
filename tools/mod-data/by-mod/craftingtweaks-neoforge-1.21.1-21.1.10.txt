@@ -1,0 +1,21 @@
+# craftingtweaks-neoforge-1.21.1-21.1.10
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="craftingtweaks"
+version="21.1.10"
+displayName="Crafting Tweaks"
+modId="neoforge"
+versionRange="[21-beta,)"
+modId="minecraft"
+versionRange="[1.21,)"
+modId="balm"
+versionRange="[21.0.48,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

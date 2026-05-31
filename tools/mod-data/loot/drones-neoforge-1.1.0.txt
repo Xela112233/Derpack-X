@@ -1,0 +1,6 @@
+drones:blocks/controller | minecraft:block | drones:controller minecraft:block minecraft:item minecraft:survives_explosion
+drones:blocks/drill | minecraft:block | drones:drill minecraft:block minecraft:item minecraft:survives_explosion
+drones:blocks/frame | minecraft:block | drones:frame minecraft:block minecraft:item minecraft:survives_explosion
+drones:blocks/ion_thruster | minecraft:block | drones:ion_thruster minecraft:block minecraft:item minecraft:survives_explosion
+drones:blocks/iron_rotor | minecraft:block | drones:iron_rotor minecraft:block minecraft:item minecraft:survives_explosion
+drones:blocks/wood_rotor | minecraft:block | drones:wood_rotor minecraft:block minecraft:item minecraft:survives_explosion

@@ -1,0 +1,25 @@
+# cmpackagepipebomb-neoforge-2.1.0
+
+## mod metadata (id / version / deps)
+license="Lambda License"
+modId="cmpackagepipebomb"
+version="2.1.0"
+displayName="Create More: Pipe Bombs in Packages"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+modId="create"
+versionRange="[6.0.0,)"
+
+## blocks
+
+## items
+cmpackagepipebomb:pipebomb
+cmpackagepipebomb:pipebomb_rigged
+cmpackagepipebomb:pipebomb_white
+cmpackagepipebomb:tnt_rigged
+
+## neoforge biome_modifiers
+
+## c: common tag membership

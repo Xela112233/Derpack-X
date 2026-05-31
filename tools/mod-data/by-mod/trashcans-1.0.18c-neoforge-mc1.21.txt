@@ -1,0 +1,31 @@
+# trashcans-1.0.18c-neoforge-mc1.21
+
+## mod metadata (id / version / deps)
+license = "All rights reserved" #mandatory
+modId = "trashcans" #mandatory
+version = "1.0.18+c" #mandatory
+displayName = "Trash Cans" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.0.78-beta,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21,1.21.2)"
+modId = "supermartijn642corelib"
+versionRange = "[1.1.17,1.2.0)"
+modId = "supermartijn642configlib"
+versionRange = "[1.1.6,)"
+
+## blocks
+trashcans:energy_trash_can
+trashcans:item_trash_can
+trashcans:liquid_trash_can
+trashcans:ultimate_trash_can
+
+## items
+trashcans:energy_trash_can
+trashcans:item_trash_can
+trashcans:liquid_trash_can
+trashcans:ultimate_trash_can
+
+## neoforge biome_modifiers
+
+## c: common tag membership

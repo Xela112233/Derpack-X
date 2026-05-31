@@ -1,0 +1,6 @@
+tacz:blocks/gun_smith_table | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion tacz:gun_smith_table
+tacz:blocks/statue | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion tacz:statue
+tacz:blocks/target | minecraft:block | minecraft:block minecraft:block_state_property minecraft:copy_name minecraft:item minecraft:survives_explosion tacz:target
+tacz:blocks/workbench_a | minecraft:block | minecraft:block minecraft:block_state_property minecraft:copy_custom_data minecraft:item minecraft:survives_explosion tacz:workbench_a
+tacz:blocks/workbench_b | minecraft:block | minecraft:block minecraft:block_state_property minecraft:copy_custom_data minecraft:item minecraft:survives_explosion tacz:workbench_b
+tacz:blocks/workbench_c | minecraft:block | minecraft:block minecraft:block_state_property minecraft:copy_custom_data minecraft:item minecraft:survives_explosion tacz:workbench_c

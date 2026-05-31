@@ -1,0 +1,119 @@
+# undergroundworlds-neoforge-3.0.1-1.21.1
+
+## mod metadata (id / version / deps)
+license = "CC BY-NC-ND 4.0"
+modId = "undergroundworlds"
+version = "3.0.1"
+displayName = "Underground Worlds"
+modId = "neoforge"
+versionRange = "[21.1.172,)"
+modId = "minecraft"
+versionRange = "[1.21.1, 1.22)"
+
+## blocks
+undergroundworlds:chiseled_temple_bricks
+undergroundworlds:cracked_pyramid_bricks
+undergroundworlds:cracked_temple_bricks
+undergroundworlds:ice_brick_slab
+undergroundworlds:ice_brick_stairs
+undergroundworlds:ice_brick_wall
+undergroundworlds:ice_bricks
+undergroundworlds:ice_chest
+undergroundworlds:icicle
+undergroundworlds:jungle_grass
+undergroundworlds:jungle_vines
+undergroundworlds:jungle_vines_plant
+undergroundworlds:mossy_temple_bricks
+undergroundworlds:pyramid_brick_slab
+undergroundworlds:pyramid_brick_stairs
+undergroundworlds:pyramid_brick_wall
+undergroundworlds:pyramid_bricks
+undergroundworlds:quicksand
+undergroundworlds:sandstone_pressure_plate
+undergroundworlds:spider_egg
+undergroundworlds:temple_brick_slab
+undergroundworlds:temple_brick_stairs
+undergroundworlds:temple_brick_tile_slab
+undergroundworlds:temple_brick_tile_stairs
+undergroundworlds:temple_brick_tile_wall
+undergroundworlds:temple_brick_tiles
+undergroundworlds:temple_brick_wall
+undergroundworlds:temple_bricks
+undergroundworlds:temple_chest
+undergroundworlds:web_covered_chest
+
+## items
+undergroundworlds:antidote_flask
+undergroundworlds:ashan_spawn_egg
+undergroundworlds:axe_of_regrowth
+undergroundworlds:black_recluse_spawn_egg
+undergroundworlds:blade_of_the_jungle
+undergroundworlds:chiseled_temple_bricks
+undergroundworlds:cracked_pyramid_bricks
+undergroundworlds:cracked_temple_bricks
+undergroundworlds:desert_banner_pattern
+undergroundworlds:desert_charm
+undergroundworlds:freezing_axe
+undergroundworlds:freezing_hoe
+undergroundworlds:freezing_pickaxe
+undergroundworlds:freezing_shovel
+undergroundworlds:freezing_sword
+undergroundworlds:frost_banner_pattern
+undergroundworlds:frozen_core
+undergroundworlds:frozen_zombie_spawn_egg
+undergroundworlds:ice_brick_slab
+undergroundworlds:ice_brick_stairs
+undergroundworlds:ice_brick_wall
+undergroundworlds:ice_bricks
+undergroundworlds:ice_chest
+undergroundworlds:icicle
+undergroundworlds:icy_creeper_spawn_egg
+undergroundworlds:jungle_bee_spawn_egg
+undergroundworlds:jungle_grass
+undergroundworlds:jungle_spores
+undergroundworlds:jungle_vines
+undergroundworlds:jungle_zombie_spawn_egg
+undergroundworlds:mossy_skeleton_spawn_egg
+undergroundworlds:mossy_temple_bricks
+undergroundworlds:music_disc_abbeyence
+undergroundworlds:pyramid_brick_slab
+undergroundworlds:pyramid_brick_stairs
+undergroundworlds:pyramid_brick_wall
+undergroundworlds:pyramid_bricks
+undergroundworlds:quicksand
+undergroundworlds:quicksand_bucket
+undergroundworlds:sandstone_pressure_plate
+undergroundworlds:spider_boots
+undergroundworlds:spider_chestplate
+undergroundworlds:spider_egg
+undergroundworlds:spider_fang
+undergroundworlds:spider_hatchling_spawn_egg
+undergroundworlds:spider_helmet
+undergroundworlds:spider_leggings
+undergroundworlds:temple_axe
+undergroundworlds:temple_brick_slab
+undergroundworlds:temple_brick_stairs
+undergroundworlds:temple_brick_tile_slab
+undergroundworlds:temple_brick_tile_stairs
+undergroundworlds:temple_brick_tile_wall
+undergroundworlds:temple_brick_tiles
+undergroundworlds:temple_brick_wall
+undergroundworlds:temple_bricks
+undergroundworlds:temple_chest
+undergroundworlds:temple_hoe
+undergroundworlds:temple_key
+undergroundworlds:temple_pickaxe
+undergroundworlds:temple_shovel
+undergroundworlds:temple_sword
+undergroundworlds:web_covered_chest
+undergroundworlds:winter_boots
+undergroundworlds:winter_chestplate
+undergroundworlds:winter_helmet
+undergroundworlds:winter_leggings
+undergroundworlds:wrapped_spawn_egg
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+item/buckets.json :: { "replace": false, "values": [ "undergroundworlds:quicksand_bucket" ]}
+block/chests.json :: { "replace": false, "values": [ "undergroundworlds:temple_chest", "undergroundworlds:web_covered_chest", "undergroundworlds:ice_chest" ]}

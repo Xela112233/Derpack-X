@@ -1,0 +1,24 @@
+# voicechat-neoforge-1.21.1-2.6.16
+
+## mod metadata (id / version / deps)
+license = "All rights reserved"
+modId = "voicechat"
+version = "1.21.1-2.6.16"
+displayName = "Simple Voice Chat"
+modId = "voicechat_api"
+version = "2.6.13"
+displayName = "Simple Voice Chat API"
+modId = "neoforge"
+versionRange = "[21.0.0-beta,)"
+modId = "minecraft"
+versionRange = "[1.21,1.21.1]"
+modId = "cloth_config"
+versionRange = "[15.0.127,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

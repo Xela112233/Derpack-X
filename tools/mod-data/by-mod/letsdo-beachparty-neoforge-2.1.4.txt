@@ -1,0 +1,171 @@
+# letsdo-beachparty-neoforge-2.1.4
+
+## mod metadata (id / version / deps)
+license = "All Rights Reserved"
+modId = "beachparty"
+version="2.1.4"
+displayName = "[Let's Do] Beachparty"
+modId = "neoforge"
+versionRange = "[21.1.0,)"
+modId = "minecraft"
+versionRange = "[1.21.1,)"
+modId = "architectury"
+versionRange = "[13.0.0,)"
+
+## blocks
+beachparty:beach_chair
+beachparty:beach_goal
+beachparty:beach_parasol
+beachparty:beach_sun_lounger
+beachparty:beach_towel
+beachparty:beachparty_banner
+beachparty:beachparty_wall_banner
+beachparty:cocoa_cocktail
+beachparty:coconut_block
+beachparty:coconut_cocktail
+beachparty:hanging_coconut
+beachparty:honey_cocktail
+beachparty:hooded_beach_chair
+beachparty:melon_cocktail
+beachparty:message_in_a_bottle
+beachparty:mini_fridge
+beachparty:palm_bar
+beachparty:palm_bar_stool
+beachparty:palm_button
+beachparty:palm_cabinet
+beachparty:palm_chair
+beachparty:palm_door
+beachparty:palm_fence
+beachparty:palm_fence_gate
+beachparty:palm_floorboard
+beachparty:palm_glass
+beachparty:palm_glass_pane
+beachparty:palm_hanging_sign
+beachparty:palm_leaves
+beachparty:palm_log
+beachparty:palm_planks
+beachparty:palm_pressure_plate
+beachparty:palm_sign
+beachparty:palm_slab
+beachparty:palm_sprout
+beachparty:palm_stairs
+beachparty:palm_table
+beachparty:palm_torch
+beachparty:palm_trapdoor
+beachparty:palm_wall_hanging_sign
+beachparty:palm_wall_sign
+beachparty:palm_wall_torch
+beachparty:palm_wood
+beachparty:pumpkin_cocktail
+beachparty:radio
+beachparty:sand_bucket_block_empty
+beachparty:sand_bucket_block_filled
+beachparty:sand_pile
+beachparty:sand_seastars
+beachparty:sandcastle
+beachparty:sandwaves
+beachparty:seashell_block
+beachparty:stripped_palm_log
+beachparty:stripped_palm_wood
+beachparty:sweetberries_cocktail
+beachparty:tall_beach_goal
+beachparty:tall_palm_torch
+beachparty:thatch
+beachparty:thatch_slab
+beachparty:thatch_stairs
+beachparty:wet_hay_block
+
+## items
+beachparty:beach_ball
+beachparty:beach_chair
+beachparty:beach_goal
+beachparty:beach_hat
+beachparty:beach_parasol
+beachparty:beach_sun_lounger
+beachparty:beach_towel
+beachparty:beachparty_banner
+beachparty:bikini
+beachparty:cocoa_cocktail
+beachparty:coconut
+beachparty:coconut_cocktail
+beachparty:coconut_hanging
+beachparty:coconut_open
+beachparty:cooked_mussel_meat
+beachparty:crocs
+beachparty:floaty_boat
+beachparty:floaty_chest_boat
+beachparty:honey_cocktail
+beachparty:hooded_beach_chair
+beachparty:melon_cocktail
+beachparty:message_in_a_bottle
+beachparty:mini_fridge
+beachparty:music_disc_beachparty
+beachparty:music_disc_caribbean_beach
+beachparty:music_disc_pridelands
+beachparty:music_disc_vocalista
+beachparty:music_disc_wild_veins
+beachparty:overgrown_disc
+beachparty:palm_bar
+beachparty:palm_bar_stool
+beachparty:palm_boat
+beachparty:palm_button
+beachparty:palm_cabinet
+beachparty:palm_chair
+beachparty:palm_chest_boat
+beachparty:palm_door
+beachparty:palm_fence
+beachparty:palm_fence_gate
+beachparty:palm_floorboard
+beachparty:palm_glass
+beachparty:palm_glass_pane
+beachparty:palm_hanging_sign
+beachparty:palm_leaves
+beachparty:palm_log
+beachparty:palm_planks
+beachparty:palm_pressure_plate
+beachparty:palm_sign
+beachparty:palm_slab
+beachparty:palm_sprout
+beachparty:palm_stairs
+beachparty:palm_table
+beachparty:palm_torch_item
+beachparty:palm_trapdoor
+beachparty:palm_wood
+beachparty:pool_noodle
+beachparty:pumpkin_cocktail
+beachparty:radio
+beachparty:raw_mussel_meat
+beachparty:rubber_ring_axolotl
+beachparty:rubber_ring_blue
+beachparty:rubber_ring_pelican
+beachparty:rubber_ring_pink
+beachparty:rubber_ring_stripped
+beachparty:sand_bucket_empty
+beachparty:sand_bucket_filled
+beachparty:sand_seastars
+beachparty:sandwaves
+beachparty:seashell
+beachparty:stripped_palm_log
+beachparty:stripped_palm_wood
+beachparty:sunglasses
+beachparty:sweetberries_cocktail
+beachparty:swim_wings
+beachparty:tall_palm_torch
+beachparty:thatch
+beachparty:thatch_slab
+beachparty:thatch_stairs
+beachparty:trunks
+beachparty:wet_hay_block
+
+## neoforge biome_modifiers
+add_palm_tree.json :: { "type": "neoforge:add_features", "biomes": "minecraft:beach", "features": "beachparty:palm_tree", "step": "vegetal_decoration"}
+add_sandwaves.json :: { "type": "neoforge:add_features", "biomes": "minecraft:beach", "features": "beachparty:sandwaves", "step": "vegetal_decoration"}
+add_seashells.json :: { "type": "neoforge:add_features", "biomes": "minecraft:beach", "features": "beachparty:seashells", "step": "vegetal_decoration"}
+
+## c: common tag membership
+block/palm_logs.json :: { "replace": false, "values": [ "beachparty:palm_log", "beachparty:stripped_palm_log", "beachparty:palm_wood", "beachparty:stripped_palm_wood" ]}
+block/palm_planks.json :: { "replace": false, "values": [ "beachparty:palm_planks" ]}
+item/palm_logs.json :: { "replace": false, "values": [ "beachparty:palm_log", "beachparty:stripped_palm_log", "beachparty:palm_wood", "beachparty:stripped_palm_wood" ]}
+item/palm_planks.json :: { "replace": false, "values": [ "beachparty:palm_planks" ]}
+item/stripped_logs.json :: { "replace": false, "values": [ "beachparty:stripped_palm_log" ]}
+item/stripped_wood.json :: { "replace": false, "values": [ "beachparty:stripped_palm_wood" ]}

@@ -1,0 +1,4 @@
+trashcans:blocks/energy_trash_can | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion trashcans:energy_trash_can
+trashcans:blocks/item_trash_can | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion trashcans:item_trash_can
+trashcans:blocks/liquid_trash_can | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion trashcans:liquid_trash_can
+trashcans:blocks/ultimate_trash_can | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion trashcans:ultimate_trash_can

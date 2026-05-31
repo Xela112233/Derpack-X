@@ -1,0 +1,1 @@
+create_tweaked_controllers:blocks/tweaked_lectern_controller | minecraft:block | create_tweaked_controllers:blocks/tweaked_lectern_controller minecraft:block minecraft:item minecraft:lectern minecraft:survives_explosion

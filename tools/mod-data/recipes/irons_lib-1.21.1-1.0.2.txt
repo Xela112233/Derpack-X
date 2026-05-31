@@ -1,0 +1,1 @@
+irons_lib:transmog_table | minecraft:crafting_shaped | irons_lib:transmog_table minecraft:crafting_shaped minecraft:gold_ingot minecraft:smithing_table

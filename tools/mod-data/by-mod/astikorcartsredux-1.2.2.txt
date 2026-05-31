@@ -1,0 +1,86 @@
+# astikorcartsredux-1.2.2
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="astikorcartsredux" #mandatory
+version="1.2.2" #mandatory
+displayName="AstikorCarts Redux" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.167,)" #mandatory
+modId="minecraft"
+versionRange="[1.21]"
+
+## blocks
+
+## items
+astikorcartsredux:acacia_animal_cart
+astikorcartsredux:acacia_hand_cart
+astikorcartsredux:acacia_plow
+astikorcartsredux:acacia_reaper
+astikorcartsredux:acacia_seed_drill
+astikorcartsredux:acacia_supply_cart
+astikorcartsredux:bamboo_animal_cart
+astikorcartsredux:bamboo_hand_cart
+astikorcartsredux:bamboo_plow
+astikorcartsredux:bamboo_reaper
+astikorcartsredux:bamboo_seed_drill
+astikorcartsredux:bamboo_supply_cart
+astikorcartsredux:birch_animal_cart
+astikorcartsredux:birch_hand_cart
+astikorcartsredux:birch_plow
+astikorcartsredux:birch_reaper
+astikorcartsredux:birch_seed_drill
+astikorcartsredux:birch_supply_cart
+astikorcartsredux:cherry_animal_cart
+astikorcartsredux:cherry_hand_cart
+astikorcartsredux:cherry_plow
+astikorcartsredux:cherry_reaper
+astikorcartsredux:cherry_seed_drill
+astikorcartsredux:cherry_supply_cart
+astikorcartsredux:crimson_animal_cart
+astikorcartsredux:crimson_hand_cart
+astikorcartsredux:crimson_plow
+astikorcartsredux:crimson_reaper
+astikorcartsredux:crimson_seed_drill
+astikorcartsredux:crimson_supply_cart
+astikorcartsredux:dark_oak_animal_cart
+astikorcartsredux:dark_oak_hand_cart
+astikorcartsredux:dark_oak_plow
+astikorcartsredux:dark_oak_reaper
+astikorcartsredux:dark_oak_seed_drill
+astikorcartsredux:dark_oak_supply_cart
+astikorcartsredux:jungle_animal_cart
+astikorcartsredux:jungle_hand_cart
+astikorcartsredux:jungle_plow
+astikorcartsredux:jungle_reaper
+astikorcartsredux:jungle_seed_drill
+astikorcartsredux:jungle_supply_cart
+astikorcartsredux:mangrove_animal_cart
+astikorcartsredux:mangrove_hand_cart
+astikorcartsredux:mangrove_plow
+astikorcartsredux:mangrove_reaper
+astikorcartsredux:mangrove_seed_drill
+astikorcartsredux:mangrove_supply_cart
+astikorcartsredux:oak_animal_cart
+astikorcartsredux:oak_hand_cart
+astikorcartsredux:oak_plow
+astikorcartsredux:oak_reaper
+astikorcartsredux:oak_seed_drill
+astikorcartsredux:oak_supply_cart
+astikorcartsredux:spruce_animal_cart
+astikorcartsredux:spruce_hand_cart
+astikorcartsredux:spruce_plow
+astikorcartsredux:spruce_reaper
+astikorcartsredux:spruce_seed_drill
+astikorcartsredux:spruce_supply_cart
+astikorcartsredux:warped_animal_cart
+astikorcartsredux:warped_hand_cart
+astikorcartsredux:warped_plow
+astikorcartsredux:warped_reaper
+astikorcartsredux:warped_seed_drill
+astikorcartsredux:warped_supply_cart
+astikorcartsredux:wheel
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,19 @@
+# DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="dungeons_arise_seven_seas"
+version="1.0.4"
+displayName="When Dungeons Arise: Seven Seas"
+modId="neoforge"
+versionRange="[21,)"
+modId="minecraft"
+versionRange="[1.20, 1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

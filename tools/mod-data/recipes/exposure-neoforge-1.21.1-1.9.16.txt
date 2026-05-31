@@ -1,0 +1,21 @@
+create:sequenced_assembly/black_and_white_film_developing | create:sequenced_assembly | create:filling create:sequenced_assembly exposure:black_and_white_film exposure:developed_black_and_white_film minecraft:water
+create:sequenced_assembly/color_film_developing | create:sequenced_assembly | create:filling create:potion create:sequenced_assembly exposure:color_film exposure:developed_color_film minecraft:awkward minecraft:mundane minecraft:thick
+create:sequenced_assembly/high_sensitivity_black_and_white_film_developing | create:sequenced_assembly | create:filling create:sequenced_assembly exposure:developed_black_and_white_film exposure:high_sensitivity_black_and_white_film minecraft:water
+create:sequenced_assembly/high_sensitivity_color_film_developing | create:sequenced_assembly | create:filling create:potion create:sequenced_assembly exposure:developed_color_film exposure:high_sensitivity_color_film minecraft:awkward minecraft:mundane minecraft:thick
+exposure:album | minecraft:crafting_shapeless | exposure:album minecraft:crafting_shapeless minecraft:phantom_membrane minecraft:writable_book
+exposure:black_and_white_film | minecraft:crafting_shaped | c:ingots/iron c:nuggets/iron exposure:black_and_white_film minecraft:bone_meal minecraft:crafting_shaped minecraft:dried_kelp minecraft:gunpowder
+exposure:black_and_white_film_developing | exposure:film_developing | exposure:black_and_white_film_rolls exposure:developed_black_and_white_film exposure:film_developing minecraft:potion minecraft:water neoforge:components
+exposure:broken_interplanar_projector_fixing | exposure:component_transferring | exposure:broken_interplanar_projector exposure:component_transferring exposure:interplanar_projector minecraft:ender_eye
+exposure:camera | minecraft:crafting_shaped | c:glass_panes/colorless c:ingots/iron exposure:camera minecraft:buttons minecraft:crafting_shaped minecraft:lever
+exposure:camera_stand | minecraft:crafting_shaped | c:ingots/iron exposure:camera_stand minecraft:crafting_shaped minecraft:smooth_stone_slab minecraft:stick
+exposure:color_film | minecraft:crafting_shaped | c:ingots/gold c:nuggets/gold exposure:color_film minecraft:crafting_shaped minecraft:dried_kelp minecraft:gunpowder minecraft:lapis_lazuli
+exposure:color_film_developing | exposure:film_developing | exposure:color_film_rolls exposure:developed_color_film exposure:film_developing minecraft:awkward minecraft:mundane minecraft:potion minecraft:thick neoforge:components
+exposure:glass_photograph_frame | minecraft:crafting_shaped | exposure:glass_photograph_frame exposure:photograph_frame minecraft:crafting_shaped minecraft:glass_pane
+exposure:high_sensitivity_black_and_white_film | minecraft:crafting_shaped | c:ingots/iron c:nuggets/iron exposure:high_sensitivity_black_and_white_film minecraft:bone_meal minecraft:crafting_shaped minecraft:dried_kelp minecraft:prismarine_crystals
+exposure:high_sensitivity_color_film | minecraft:crafting_shaped | c:ingots/gold c:nuggets/gold exposure:high_sensitivity_color_film minecraft:crafting_shaped minecraft:dried_kelp minecraft:lapis_lazuli minecraft:prismarine_crystals
+exposure:interplanar_projector | minecraft:crafting_shaped | exposure:interplanar_projector minecraft:crafting_shaped minecraft:ender_eye minecraft:redstone minecraft:tinted_glass
+exposure:lightroom | minecraft:crafting_shaped | exposure:lightroom minecraft:crafting_shaped minecraft:iron_trapdoor minecraft:planks minecraft:redstone_torch
+exposure:photograph_aging | exposure:photograph_aging | exposure:aged_photograph exposure:photo_agers exposure:photograph exposure:photograph_aging minecraft:brush
+exposure:photograph_copying_black_and_white | exposure:photograph_copying | exposure:black_printing_dyes exposure:photo_papers exposure:photograph exposure:photograph_copying neoforge:components
+exposure:photograph_copying_color | exposure:photograph_copying | exposure:black_printing_dyes exposure:cyan_printing_dyes exposure:magenta_printing_dyes exposure:photo_papers exposure:photograph exposure:photograph_copying exposure:yellow_printing_dyes
+exposure:photograph_frame | minecraft:crafting_shaped | exposure:photograph_frame minecraft:crafting_shaped minecraft:item_frame minecraft:planks minecraft:stick

@@ -1,0 +1,20 @@
+# formations-1.0.4-neoforge-mc1.21
+
+## mod metadata (id / version / deps)
+license = "All rights reserved" #mandatory
+modId = "formations" #mandatory
+version = "1.0.4" #mandatory
+displayName = "Formations" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.0.113-beta,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21,1.22)"
+
+## blocks
+
+## items
+formations:template_editor
+
+## neoforge biome_modifiers
+
+## c: common tag membership

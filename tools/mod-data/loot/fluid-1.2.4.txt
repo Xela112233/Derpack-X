@@ -1,0 +1,10 @@
+fluid:blocks/centrifugal_pump | minecraft:block | fluid:blocks/centrifugal_pump fluid:centrifugal_pump minecraft:block minecraft:item minecraft:survives_explosion
+fluid:blocks/copper_sink | minecraft:block | fluid:blocks/copper_sink fluid:copper_sink minecraft:block minecraft:item minecraft:survives_explosion
+fluid:blocks/copper_tap | minecraft:block | fluid:blocks/copper_tap fluid:copper_tap minecraft:block minecraft:item minecraft:survives_explosion
+fluid:blocks/fluid_interface | minecraft:block | fluid:blocks/fluid_interface fluid:fluid_interface minecraft:block minecraft:item minecraft:survives_explosion
+fluid:blocks/gutter_outlet | minecraft:block | fluid:blocks/gutter_outlet fluid:gutter_outlet minecraft:block minecraft:item minecraft:survives_explosion
+fluid:blocks/pipette | minecraft:block | fluid:blocks/pipette fluid:pipette minecraft:block minecraft:item minecraft:survives_explosion
+fluid:blocks/redstone_triple_valve | minecraft:block | fluid:blocks/redstone_triple_valve fluid:redstone_triple_valve minecraft:block minecraft:item minecraft:survives_explosion
+fluid:blocks/redstone_valve | minecraft:block | fluid:blocks/redstone_valve fluid:redstone_valve minecraft:block minecraft:item minecraft:survives_explosion
+fluid:blocks/smart_fluid_interface | minecraft:block | fluid:blocks/smart_fluid_interface fluid:smart_fluid_interface minecraft:block minecraft:item minecraft:survives_explosion
+fluid:blocks/smart_gutter_outlet | minecraft:block | fluid:blocks/smart_gutter_outlet fluid:smart_gutter_outlet minecraft:block minecraft:item minecraft:survives_explosion

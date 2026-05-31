@@ -1,0 +1,42 @@
+# jakes-build-tools-2.0.1.5
+
+## mod metadata (id / version / deps)
+license = 'LicenseRef-JBT-License'
+
+## blocks
+
+## items
+minecraft:bundle
+minecraft:carved_pumpkin
+minecraft:cobblestone
+minecraft:diamond_chisel
+minecraft:diamond_trowel
+minecraft:experience_flask_0
+minecraft:experience_flask_1
+minecraft:experience_flask_2
+minecraft:experience_flask_3
+minecraft:foreman_hard_hat
+minecraft:foreman_hardhat
+minecraft:grass_starter
+minecraft:hammer
+minecraft:hard_hat
+minecraft:iron_chisel
+minecraft:iron_pickaxe
+minecraft:iron_trowel
+minecraft:item_magnet
+minecraft:ladder
+minecraft:mob_bag_empty
+minecraft:mob_bag_full
+minecraft:rabbit_foot
+minecraft:rope_ladder
+minecraft:selection
+minecraft:tape_measure_in
+minecraft:tape_measure_out
+minecraft:void_bucket
+minecraft:void_bundle
+minecraft:warped_fungus_on_a_stick
+minecraft:wrench
+
+## neoforge biome_modifiers
+
+## c: common tag membership

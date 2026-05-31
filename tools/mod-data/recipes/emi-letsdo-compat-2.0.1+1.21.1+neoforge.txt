@@ -1,0 +1,15 @@
+emi_letsdo_compat:bread_to_cheese_stick | emi_letsdo_compat:fondue_use | emi_letsdo_compat:fondue_use meadow:cheese_stick minecraft:bread
+emi_letsdo_compat:cake_cut/apple_pie_cake_cut | emi_letsdo_compat:cake_cut | bakery:apple_pie bakery:apple_pie_slice emi_letsdo_compat:cake_cut
+emi_letsdo_compat:cake_cut/bundt_cake_cake_cut | emi_letsdo_compat:cake_cut | bakery:bundt_cake bakery:bundt_cake_slice emi_letsdo_compat:cake_cut
+emi_letsdo_compat:cake_cut/cheese_tart_cake_cut | emi_letsdo_compat:cake_cut | emi_letsdo_compat:cake_cut meadow:cheese_tart meadow:cheese_tart_slice
+emi_letsdo_compat:cake_cut/cheesecake_cake_cut | emi_letsdo_compat:cake_cut | emi_letsdo_compat:cake_cut meadow:cheesecake meadow:cheesecake_slice
+emi_letsdo_compat:cake_cut/chocolate_cake_cake_cut | emi_letsdo_compat:cake_cut | bakery:chocolate_cake bakery:chocolate_cake_slice emi_letsdo_compat:cake_cut
+emi_letsdo_compat:cake_cut/chocolate_gateau_cake_cut | emi_letsdo_compat:cake_cut | bakery:chocolate_gateau bakery:chocolate_gateau_slice emi_letsdo_compat:cake_cut
+emi_letsdo_compat:cake_cut/chocolate_tart_cake_cut | emi_letsdo_compat:cake_cut | bakery:chocolate_tart bakery:chocolate_tart_slice emi_letsdo_compat:cake_cut
+emi_letsdo_compat:cake_cut/glowberry_tart_cake_cut | emi_letsdo_compat:cake_cut | bakery:glowberry_pie_slice bakery:glowberry_tart emi_letsdo_compat:cake_cut
+emi_letsdo_compat:cake_cut/linzer_tart_cake_cut | emi_letsdo_compat:cake_cut | bakery:linzer_tart bakery:linzer_tart_slice emi_letsdo_compat:cake_cut
+emi_letsdo_compat:cake_cut/pudding_cake_cut | emi_letsdo_compat:cake_cut | bakery:pudding bakery:pudding_slice emi_letsdo_compat:cake_cut
+emi_letsdo_compat:cake_cut/strawberry_cake_cake_cut | emi_letsdo_compat:cake_cut | bakery:strawberry_cake bakery:strawberry_cake_slice emi_letsdo_compat:cake_cut
+emi_letsdo_compat:cake_cut/sweetberry_cake_cake_cut | emi_letsdo_compat:cake_cut | bakery:sweetberry_cake bakery:sweetberry_cake_slice emi_letsdo_compat:cake_cut
+emi_letsdo_compat:cheese_blocks_fondue_fill | emi_letsdo_compat:fondue_fill | emi_letsdo_compat:fondue_fill meadow:cheese_blocks
+emi_letsdo_compat:cheese_fondue_fill | emi_letsdo_compat:fondue_fill | emi_letsdo_compat:fondue_fill meadow:cheese

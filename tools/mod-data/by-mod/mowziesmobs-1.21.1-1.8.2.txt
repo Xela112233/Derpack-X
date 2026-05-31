@@ -1,0 +1,115 @@
+# mowziesmobs-1.21.1-1.8.2
+
+## mod metadata (id / version / deps)
+license = "custom"
+modId = "mowziesmobs"
+version = "1.8.2"
+displayName = "Mowzie's Mobs"
+modId = "neoforge"
+versionRange = "[21.1.1,21.2)"
+modId = "minecraft"
+versionRange = "[1.21, 1.21.2)"
+modId = "geckolib"
+versionRange = "[4.8.3,)"
+
+## blocks
+mowziesmobs:clawed_log
+mowziesmobs:gong
+mowziesmobs:gong_part
+mowziesmobs:grottol
+mowziesmobs:painted_acacia
+mowziesmobs:painted_acacia_slab
+mowziesmobs:raked_sand
+mowziesmobs:red_raked_sand
+mowziesmobs:thatch_block
+
+## items
+mowziesmobs:blowgun
+mowziesmobs:blowgun_using
+mowziesmobs:bluff_rod
+mowziesmobs:bluff_spawn_egg
+mowziesmobs:captured_grottol
+mowziesmobs:clawed_log
+mowziesmobs:dart
+mowziesmobs:earthrend_gauntlet
+mowziesmobs:earthrend_gauntlet_in_hand
+mowziesmobs:elokosa_howler_spawn_egg
+mowziesmobs:elokosa_paw
+mowziesmobs:elokosa_paw_closed
+mowziesmobs:elokosa_paw_crescent
+mowziesmobs:elokosa_paw_full
+mowziesmobs:elokosa_paw_gibbous
+mowziesmobs:elokosa_paw_half
+mowziesmobs:elokosa_paw_new
+mowziesmobs:elokosa_paw_new_closed
+mowziesmobs:elokosa_spawn_egg
+mowziesmobs:foliaath_seed
+mowziesmobs:foliaath_spawn_egg
+mowziesmobs:frostmaw_plushie
+mowziesmobs:frostmaw_spawn_egg
+mowziesmobs:geomancer_beads
+mowziesmobs:geomancer_belt
+mowziesmobs:geomancer_robe
+mowziesmobs:geomancer_sandals
+mowziesmobs:glowing_jelly
+mowziesmobs:gong
+mowziesmobs:grant_suns_blessing
+mowziesmobs:grottol_spawn_egg
+mowziesmobs:ice_crystal
+mowziesmobs:lantern_spawn_egg
+mowziesmobs:logo
+mowziesmobs:mob_remover
+mowziesmobs:music_disc_petiole
+mowziesmobs:naga_fang
+mowziesmobs:naga_fang_dagger
+mowziesmobs:naga_spawn_egg
+mowziesmobs:painted_acacia
+mowziesmobs:painted_acacia_slab
+mowziesmobs:raked_sand
+mowziesmobs:red_raked_sand
+mowziesmobs:sand_rake
+mowziesmobs:sculptor_spawn_egg
+mowziesmobs:sculptor_staff
+mowziesmobs:sculptor_staff_in_hand
+mowziesmobs:sol_visage
+mowziesmobs:sol_visage_frame
+mowziesmobs:spear
+mowziesmobs:spear_in_hand
+mowziesmobs:sunblock_staff
+mowziesmobs:thatch_block
+mowziesmobs:umvuthana_crane_spawn_egg
+mowziesmobs:umvuthana_mask
+mowziesmobs:umvuthana_mask_bliss
+mowziesmobs:umvuthana_mask_bliss_frame
+mowziesmobs:umvuthana_mask_faith
+mowziesmobs:umvuthana_mask_faith_frame
+mowziesmobs:umvuthana_mask_fear
+mowziesmobs:umvuthana_mask_fear_frame
+mowziesmobs:umvuthana_mask_frame
+mowziesmobs:umvuthana_mask_fury
+mowziesmobs:umvuthana_mask_fury_frame
+mowziesmobs:umvuthana_mask_misery
+mowziesmobs:umvuthana_mask_misery_frame
+mowziesmobs:umvuthana_mask_rage
+mowziesmobs:umvuthana_mask_rage_frame
+mowziesmobs:umvuthana_raptor_spawn_egg
+mowziesmobs:umvuthana_spawn_egg
+mowziesmobs:umvuthi_spawn_egg
+mowziesmobs:wrought_axe
+mowziesmobs:wrought_axe_in_hand
+mowziesmobs:wrought_helmet
+mowziesmobs:wroughtnaut_spawn_egg
+
+## neoforge biome_modifiers
+mowzie_mob_spawns.json :: { "type": "mowziesmobs:mowzie_mob_spawns"}
+
+## c: common tag membership
+block/sands/colorless.json :: { "values": [ "mowziesmobs:raked_sand" ]}
+block/sands/red.json :: { "values": [ "mowziesmobs:red_raked_sand" ]}
+entity_type/bosses.json :: { "values": [ "mowziesmobs:frostmaw", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:umvuthi", "mowziesmobs:sculptor" ]}
+entity_type/capturing_not_supported.json :: { "values": [ "mowziesmobs:frostmaw", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:umvuthi", "mowziesmobs:sculptor" ]}
+entity_type/teleporting_not_supported.json :: { "values": [ "mowziesmobs:umvuthi", "mowziesmobs:sculptor" ]}
+item/music_discs.json :: { "values": [ "mowziesmobs:music_disc_petiole" ]}
+item/seeds.json :: { "values": [ "mowziesmobs:foliaath_seed" ]}
+item/slime_balls.json :: { "values": [ "mowziesmobs:glowing_jelly" ]}
+item/tools/spear.json :: { "values": [ "mowziesmobs:spear" ]}

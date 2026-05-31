@@ -1,0 +1,21 @@
+# kambrik-neoforge-8.0.0-beta.2
+
+## mod metadata (id / version / deps)
+license = "MPL 2.0"
+modId = "kambrik"
+version = "8.0.0-beta.2"
+displayName = "Kambrik"
+modId = "neoforge"
+versionRange = "[21.1.194,)"
+modId = "kotlinforforge"
+versionRange = "[5,)"
+modId = "minecraft"
+versionRange = "[1.21, 1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

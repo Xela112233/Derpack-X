@@ -1,0 +1,52 @@
+# create_train_parts-0.3.6-1.21.1-6.0.9-216
+
+## mod metadata (id / version / deps)
+license="MIT License"
+modId="create_train_parts"
+version="0.3.6"
+displayName="Create Train Parts"
+modId="neoforge" #mandatory
+versionRange="[21.1.0,)" #mandatory
+modId="create"
+versionRange="[6.0.4,6.1.0)"
+modId="minecraft"
+versionRange="[1.21.1,1.22)"
+
+## blocks
+create_train_parts:andesite_sliding_window
+create_train_parts:arm_extender
+create_train_parts:brass_sliding_window
+create_train_parts:copper_sliding_window
+create_train_parts:crossing
+create_train_parts:glass_sliding_window
+create_train_parts:train_slide_andesite
+create_train_parts:train_slide_brass
+create_train_parts:train_slide_copper
+create_train_parts:train_slide_train
+create_train_parts:train_sliding_window
+create_train_parts:train_step_andesite
+create_train_parts:train_step_andesite_old
+create_train_parts:train_step_brass
+create_train_parts:train_step_copper
+create_train_parts:train_step_train
+
+## items
+create_train_parts:andesite_sliding_window
+create_train_parts:arm_extender
+create_train_parts:brass_sliding_window
+create_train_parts:copper_sliding_window
+create_train_parts:crossing
+create_train_parts:glass_sliding_window
+create_train_parts:train_slide_andesite
+create_train_parts:train_slide_brass
+create_train_parts:train_slide_copper
+create_train_parts:train_slide_train
+create_train_parts:train_sliding_window
+create_train_parts:train_step_andesite
+create_train_parts:train_step_brass
+create_train_parts:train_step_copper
+create_train_parts:train_step_train
+
+## neoforge biome_modifiers
+
+## c: common tag membership

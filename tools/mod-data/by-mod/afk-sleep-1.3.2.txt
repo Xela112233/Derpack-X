@@ -1,0 +1,12 @@
+# afk-sleep-1.3.2
+
+## mod metadata (id / version / deps)
+license = 'MIT'
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

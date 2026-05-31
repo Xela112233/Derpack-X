@@ -1,0 +1,43 @@
+# SereneSeasons-neoforge-1.21.1-10.1.0.3
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="sereneseasons"
+version="10.1.0.3"
+displayName="Serene Seasons"
+modId="neoforge"
+versionRange="[21.1,)"
+modId="glitchcore"
+versionRange="[2.1.0.0,)"
+
+## blocks
+sereneseasons:season_sensor
+
+## items
+sereneseasons:calendar
+sereneseasons:calendar_00
+sereneseasons:calendar_01
+sereneseasons:calendar_02
+sereneseasons:calendar_03
+sereneseasons:calendar_04
+sereneseasons:calendar_05
+sereneseasons:calendar_06
+sereneseasons:calendar_07
+sereneseasons:calendar_08
+sereneseasons:calendar_09
+sereneseasons:calendar_10
+sereneseasons:calendar_11
+sereneseasons:calendar_null
+sereneseasons:season_sensor
+sereneseasons:ss_icon
+sereneseasons:tropical_calendar_00
+sereneseasons:tropical_calendar_01
+sereneseasons:tropical_calendar_02
+sereneseasons:tropical_calendar_03
+sereneseasons:tropical_calendar_04
+sereneseasons:tropical_calendar_05
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+block/glass_blocks.json :: { "replace": false, "values": [ ]}

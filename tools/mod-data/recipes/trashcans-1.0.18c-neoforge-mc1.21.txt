@@ -1,0 +1,4 @@
+trashcans:energy_trash_can | minecraft:crafting_shaped | c:cobblestones c:dusts/redstone c:stones minecraft:crafting_shaped trashcans:energy_trash_can
+trashcans:item_trash_can | minecraft:crafting_shaped | c:chests/wooden c:cobblestones c:stones minecraft:crafting_shaped trashcans:item_trash_can
+trashcans:liquid_trash_can | minecraft:crafting_shaped | c:buckets/empty c:cobblestones c:stones minecraft:crafting_shaped trashcans:liquid_trash_can
+trashcans:ultimate_trash_can | minecraft:crafting_shapeless | minecraft:crafting_shapeless trashcans:energy_trash_can trashcans:item_trash_can trashcans:liquid_trash_can trashcans:ultimate_trash_can

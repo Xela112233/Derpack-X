@@ -1,0 +1,6 @@
+terralith:cobblestone_from_stone_slab | minecraft:crafting_shaped | minecraft:cobblestone minecraft:crafting_shaped minecraft:stone_slab
+terralith:dispenser_alt | minecraft:crafting_shaped | minecraft:bow minecraft:crafting_shaped minecraft:dispenser minecraft:redstone minecraft:stone_crafting_materials
+terralith:dropper_alt | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dropper minecraft:redstone minecraft:stone_crafting_materials
+terralith:lever_alt | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:lever minecraft:stick minecraft:stone_crafting_materials
+terralith:observer_alt | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:observer minecraft:quartz minecraft:redstone minecraft:stone_crafting_materials
+terralith:piston_alt | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:iron_ingot minecraft:piston minecraft:planks minecraft:redstone minecraft:stone_crafting_materials

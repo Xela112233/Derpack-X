@@ -1,0 +1,13 @@
+alcohol_industry:boiling/beer_boiling | alcohol_industry:alcohol_boiling | alcohol_industry:alcohol_base_fluid alcohol_industry:alcohol_boiling alcohol_industry:beer create:wheat_flour minecraft:wheat_seeds
+alcohol_industry:boiling/tequila_boiling | alcohol_industry:alcohol_boiling | alcohol_industry:alcohol_base_fluid alcohol_industry:alcohol_boiling alcohol_industry:tequila minecraft:sugar minecraft:sugar_cane
+alcohol_industry:boiling/vodka_boiling | alcohol_industry:alcohol_boiling | alcohol_industry:alcohol_base_fluid alcohol_industry:alcohol_boiling alcohol_industry:vodka minecraft:potato minecraft:sugar
+alcohol_industry:boiling/whiskey_boiling | alcohol_industry:alcohol_boiling | alcohol_industry:alcohol_base_fluid alcohol_industry:alcohol_boiling alcohol_industry:whiskey create:wheat_flour minecraft:sugar
+alcohol_industry:crafting/alcohol_boiler_crafting | minecraft:crafting_shaped | alcohol_industry:alcohol_boiler alcohol_industry:glass_tube alcohol_industry:temperature_controller create:fluid_tank minecraft:copper_ingot minecraft:crafting_shaped
+alcohol_industry:crafting/glass_tube | minecraft:crafting_shaped | alcohol_industry:glass_tube minecraft:crafting_shaped minecraft:glass
+alcohol_industry:crafting/temperature_controller | minecraft:crafting_shaped | alcohol_industry:temperature_controller minecraft:blaze_powder minecraft:copper_ingot minecraft:crafting_shaped minecraft:redstone
+alcohol_industry:filling/alcohol_base_bottle | create:filling | alcohol_industry:alcohol_base alcohol_industry:alcohol_base_fluid create:filling minecraft:glass_bottle
+alcohol_industry:filling/beer_bottle | create:filling | alcohol_industry:beer create:filling minecraft:glass_bottle
+alcohol_industry:filling/tequila_bottle | create:filling | alcohol_industry:tequila create:filling minecraft:glass_bottle
+alcohol_industry:filling/vodka_bottle | create:filling | alcohol_industry:vodka create:filling minecraft:glass_bottle
+alcohol_industry:filling/whiskey_bottle | create:filling | alcohol_industry:whiskey create:filling minecraft:glass_bottle
+alcohol_industry:mixing/alcohol_base_mixing | create:mixing | alcohol_industry:alcohol_base_fluid create:mixing minecraft:fermented_spider_eye minecraft:sugar minecraft:sweet_berries minecraft:water neoforge:single

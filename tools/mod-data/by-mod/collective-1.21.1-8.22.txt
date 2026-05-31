@@ -1,0 +1,17 @@
+# collective-1.21.1-8.22
+
+## mod metadata (id / version / deps)
+license="All rights reserved"
+modId="collective"
+version="8.22"
+displayName="Collective"
+modId="minecraft"
+versionRange="[1.21,1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

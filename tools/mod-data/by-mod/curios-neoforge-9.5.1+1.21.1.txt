@@ -1,0 +1,19 @@
+# curios-neoforge-9.5.1+1.21.1
+
+## mod metadata (id / version / deps)
+license="LGPL-3.0-or-later"
+modId="curios"
+version="9.5.1+1.21.1"
+displayName="Curios API"
+modId="neoforge"
+versionRange="[21.1.60,)"
+modId="minecraft"
+versionRange="[1.21, 1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

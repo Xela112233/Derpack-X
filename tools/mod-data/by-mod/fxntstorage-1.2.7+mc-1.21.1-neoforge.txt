@@ -1,0 +1,138 @@
+# fxntstorage-1.2.7+mc-1.21.1-neoforge
+
+## mod metadata (id / version / deps)
+license = "GNU GPL 3.0"
+modId = "fxntstorage"
+version = "1.2.7"
+displayName = "Create: Storage"
+modId = "neoforge"
+versionRange = "[21.1.181,)"
+modId = "minecraft"
+versionRange = "[1.21.1, 1.22)"
+modId = "create"
+versionRange = "[6.0.7,6.1.0)"
+modId = "curios"
+versionRange = "[9.2.0,10)"
+modId = "vanillabackport"
+versionRange = "[1,2)"
+modId = "constructionstick"
+versionRange = "[1.3.0,)"
+modId = "sable"
+versionRange = "[1.1.0,)"
+
+## blocks
+fxntstorage:acacia_simple_storage_box
+fxntstorage:acacia_storage_trim
+fxntstorage:andesite_backpack
+fxntstorage:andesite_storage_box
+fxntstorage:backpack
+fxntstorage:bamboo_simple_storage_box
+fxntstorage:bamboo_storage_trim
+fxntstorage:birch_simple_storage_box
+fxntstorage:birch_storage_trim
+fxntstorage:brass_backpack
+fxntstorage:brass_storage_box
+fxntstorage:cardboard_storage_box
+fxntstorage:cherry_simple_storage_box
+fxntstorage:cherry_storage_trim
+fxntstorage:copper_backpack
+fxntstorage:copper_storage_box
+fxntstorage:crimson_simple_storage_box
+fxntstorage:crimson_storage_trim
+fxntstorage:dark_oak_simple_storage_box
+fxntstorage:dark_oak_storage_trim
+fxntstorage:hardened_backpack
+fxntstorage:hardened_storage_box
+fxntstorage:jungle_simple_storage_box
+fxntstorage:jungle_storage_trim
+fxntstorage:mangrove_simple_storage_box
+fxntstorage:mangrove_storage_trim
+fxntstorage:oak_simple_storage_box
+fxntstorage:oak_storage_trim
+fxntstorage:pale_oak_simple_storage_box
+fxntstorage:pale_oak_storage_trim
+fxntstorage:passer_block
+fxntstorage:smart_passer_block
+fxntstorage:spruce_simple_storage_box
+fxntstorage:spruce_storage_trim
+fxntstorage:storage_box
+fxntstorage:storage_controller
+fxntstorage:storage_interface
+fxntstorage:storage_interface_filtered
+fxntstorage:warped_simple_storage_box
+fxntstorage:warped_storage_trim
+fxntstorage:weathered_storage_box
+
+## items
+fxntstorage:acacia_simple_storage_box
+fxntstorage:acacia_storage_trim
+fxntstorage:andesite_backpack
+fxntstorage:andesite_storage_box
+fxntstorage:backpack
+fxntstorage:backpack_blank_upgrade
+fxntstorage:backpack_falldamage_upgrade
+fxntstorage:backpack_falldamage_upgrade_deactivated
+fxntstorage:backpack_feeder_upgrade
+fxntstorage:backpack_feeder_upgrade_deactivated
+fxntstorage:backpack_flight_upgrade
+fxntstorage:backpack_flight_upgrade_deactivated
+fxntstorage:backpack_health_upgrade
+fxntstorage:backpack_health_upgrade_deactivated
+fxntstorage:backpack_itempickup_upgrade
+fxntstorage:backpack_itempickup_upgrade_deactivated
+fxntstorage:backpack_jukebox_upgrade
+fxntstorage:backpack_jukebox_upgrade_deactivated
+fxntstorage:backpack_magnet_upgrade
+fxntstorage:backpack_magnet_upgrade_deactivated
+fxntstorage:backpack_oremining_upgrade
+fxntstorage:backpack_oremining_upgrade_deactivated
+fxntstorage:backpack_pickblock_upgrade
+fxntstorage:backpack_pickblock_upgrade_deactivated
+fxntstorage:backpack_refill_upgrade
+fxntstorage:backpack_refill_upgrade_deactivated
+fxntstorage:backpack_toolswap_upgrade
+fxntstorage:backpack_toolswap_upgrade_deactivated
+fxntstorage:backpack_torchdeployer_upgrade
+fxntstorage:backpack_torchdeployer_upgrade_deactivated
+fxntstorage:bamboo_simple_storage_box
+fxntstorage:bamboo_storage_trim
+fxntstorage:birch_simple_storage_box
+fxntstorage:birch_storage_trim
+fxntstorage:brass_backpack
+fxntstorage:brass_storage_box
+fxntstorage:cardboard_storage_box
+fxntstorage:cherry_simple_storage_box
+fxntstorage:cherry_storage_trim
+fxntstorage:copper_backpack
+fxntstorage:copper_storage_box
+fxntstorage:crimson_simple_storage_box
+fxntstorage:crimson_storage_trim
+fxntstorage:dark_oak_simple_storage_box
+fxntstorage:dark_oak_storage_trim
+fxntstorage:hardened_backpack
+fxntstorage:hardened_storage_box
+fxntstorage:jungle_simple_storage_box
+fxntstorage:jungle_storage_trim
+fxntstorage:mangrove_simple_storage_box
+fxntstorage:mangrove_storage_trim
+fxntstorage:oak_simple_storage_box
+fxntstorage:oak_storage_trim
+fxntstorage:pale_oak_simple_storage_box
+fxntstorage:pale_oak_storage_trim
+fxntstorage:passer_block
+fxntstorage:smart_passer_block
+fxntstorage:spruce_simple_storage_box
+fxntstorage:spruce_storage_trim
+fxntstorage:storage_box
+fxntstorage:storage_box_capacity_upgrade
+fxntstorage:storage_box_void_upgrade
+fxntstorage:storage_controller
+fxntstorage:storage_interface
+fxntstorage:storage_interface_filtered
+fxntstorage:warped_simple_storage_box
+fxntstorage:warped_storage_trim
+fxntstorage:weathered_storage_box
+
+## neoforge biome_modifiers
+
+## c: common tag membership

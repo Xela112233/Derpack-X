@@ -1,0 +1,347 @@
+# letsdo-vinery-neoforge-1.5.3
+
+## mod metadata (id / version / deps)
+license = "Custom"
+modId = "vinery"
+version = "1.5.3"
+displayName = "[Let's Do] Vinery"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+modId = "architectury"
+versionRange = "[13.0.8,)"
+modId = "copperative"
+modId = "nethervinery"
+versionRange = "<1.2.14"
+
+## blocks
+vinery:acacia_lattice
+vinery:acacia_wine_rack_big
+vinery:acacia_wine_rack_mid
+vinery:acacia_wine_rack_small
+vinery:aegis_wine
+vinery:apple_bag
+vinery:apple_cider
+vinery:apple_juice
+vinery:apple_leaves
+vinery:apple_log
+vinery:apple_press
+vinery:apple_tree_sapling
+vinery:apple_wine
+vinery:apple_wood
+vinery:bamboo_lattice
+vinery:bamboo_wine_rack_big
+vinery:bamboo_wine_rack_mid
+vinery:bamboo_wine_rack_small
+vinery:birch_lattice
+vinery:birch_wine_rack_big
+vinery:birch_wine_rack_mid
+vinery:birch_wine_rack_small
+vinery:bolvar_wine
+vinery:bottle_mojang_noir
+vinery:chenet_wine
+vinery:cherry_bag
+vinery:cherry_lattice
+vinery:cherry_wine
+vinery:cherry_wine_rack_big
+vinery:cherry_wine_rack_mid
+vinery:cherry_wine_rack_small
+vinery:chorus_wine
+vinery:clark_wine
+vinery:coarse_dirt_slab
+vinery:creepers_crush
+vinery:cristel_wine
+vinery:dark_cherry_barrel
+vinery:dark_cherry_beam
+vinery:dark_cherry_big_table
+vinery:dark_cherry_button
+vinery:dark_cherry_cabinet
+vinery:dark_cherry_chair
+vinery:dark_cherry_door
+vinery:dark_cherry_drawer
+vinery:dark_cherry_fence
+vinery:dark_cherry_fence_gate
+vinery:dark_cherry_floorboard
+vinery:dark_cherry_hanging_sign
+vinery:dark_cherry_lattice
+vinery:dark_cherry_leaves
+vinery:dark_cherry_log
+vinery:dark_cherry_planks
+vinery:dark_cherry_pressure_plate
+vinery:dark_cherry_sapling
+vinery:dark_cherry_shelf
+vinery:dark_cherry_sign
+vinery:dark_cherry_slab
+vinery:dark_cherry_stairs
+vinery:dark_cherry_table
+vinery:dark_cherry_trapdoor
+vinery:dark_cherry_wall_hanging_sign
+vinery:dark_cherry_wall_sign
+vinery:dark_cherry_wine_rack_big
+vinery:dark_cherry_wine_rack_mid
+vinery:dark_cherry_wine_rack_small
+vinery:dark_cherry_wood
+vinery:dark_oak_lattice
+vinery:dark_oak_wine_rack_big
+vinery:dark_oak_wine_rack_mid
+vinery:dark_oak_wine_rack_small
+vinery:dirt_path_slab
+vinery:dirt_slab
+vinery:eiswein
+vinery:empty_red_vine
+vinery:fermentation_barrel
+vinery:glowing_wine
+vinery:grapevine_leaves
+vinery:grapevine_pot
+vinery:grapevine_stem
+vinery:grass_slab
+vinery:jellie_wine
+vinery:jo_special_mixture
+vinery:jungle_grape_bush_red
+vinery:jungle_grape_bush_white
+vinery:jungle_lattice
+vinery:jungle_wine_rack_big
+vinery:jungle_wine_rack_mid
+vinery:jungle_wine_rack_small
+vinery:kelp_cider
+vinery:lilitu_wine
+vinery:magnetic_wine
+vinery:mangrove_lattice
+vinery:mangrove_wine_rack_big
+vinery:mangrove_wine_rack_mid
+vinery:mangrove_wine_rack_small
+vinery:mead
+vinery:mellohi_wine
+vinery:noir_wine
+vinery:oak_lattice
+vinery:oak_wine_rack_big
+vinery:oak_wine_rack_mid
+vinery:oak_wine_rack_small
+vinery:potted_apple_tree_sapling
+vinery:potted_dark_cherry_tree_sapling
+vinery:red_grape_bag
+vinery:red_grape_bush
+vinery:red_grapejuice
+vinery:red_jungle_grape_bag
+vinery:red_savanna_grape_bag
+vinery:red_taiga_grape_bag
+vinery:red_wine
+vinery:savanna_grape_bush_red
+vinery:savanna_grape_bush_white
+vinery:solaris_wine
+vinery:spruce_lattice
+vinery:spruce_wine_rack_big
+vinery:spruce_wine_rack_mid
+vinery:spruce_wine_rack_small
+vinery:stackable_log
+vinery:stal_wine
+vinery:storage_pot
+vinery:strad_wine
+vinery:stripped_dark_cherry_log
+vinery:stripped_dark_cherry_wood
+vinery:taiga_grape_bush_red
+vinery:taiga_grape_bush_white
+vinery:villagers_fright
+vinery:vinery_standard
+vinery:vinery_wall_standard
+vinery:white_grape_bag
+vinery:white_grape_bush
+vinery:white_grapejuice
+vinery:white_jungle_grape_bag
+vinery:white_savanna_grape_bag
+vinery:white_taiga_grape_bag
+vinery:window
+vinery:window_block
+vinery:wine_bottle
+vinery:wine_box
+
+## items
+vinery:acacia_lattice
+vinery:acacia_wine_rack_big
+vinery:acacia_wine_rack_mid
+vinery:acacia_wine_rack_small
+vinery:aegis_wine
+vinery:apple_bag
+vinery:apple_cider
+vinery:apple_juice
+vinery:apple_leaves
+vinery:apple_log
+vinery:apple_mash
+vinery:apple_press
+vinery:apple_tree_sapling
+vinery:apple_wine
+vinery:apple_wood
+vinery:applesauce
+vinery:bamboo_lattice
+vinery:bamboo_wine_rack_big
+vinery:bamboo_wine_rack_mid
+vinery:bamboo_wine_rack_small
+vinery:basket
+vinery:big_bottle
+vinery:birch_lattice
+vinery:birch_wine_rack_big
+vinery:birch_wine_rack_mid
+vinery:birch_wine_rack_small
+vinery:bolvar_wine
+vinery:bottle_mojang_noir
+vinery:chenet_wine
+vinery:cherry
+vinery:cherry_bag
+vinery:cherry_lattice
+vinery:cherry_wine
+vinery:cherry_wine_rack_big
+vinery:cherry_wine_rack_mid
+vinery:cherry_wine_rack_small
+vinery:chorus_wine
+vinery:clark_wine
+vinery:coarse_dirt_slab
+vinery:creepers_crush
+vinery:crimson_lattice
+vinery:cristel_wine
+vinery:dark_cherry_barrel
+vinery:dark_cherry_beam
+vinery:dark_cherry_big_table
+vinery:dark_cherry_boat
+vinery:dark_cherry_button
+vinery:dark_cherry_cabinet
+vinery:dark_cherry_chair
+vinery:dark_cherry_chest_boat
+vinery:dark_cherry_door
+vinery:dark_cherry_drawer
+vinery:dark_cherry_fence
+vinery:dark_cherry_fence_gate
+vinery:dark_cherry_floorboard
+vinery:dark_cherry_hanging_sign
+vinery:dark_cherry_lattice
+vinery:dark_cherry_leaves
+vinery:dark_cherry_log
+vinery:dark_cherry_planks
+vinery:dark_cherry_pressure_plate
+vinery:dark_cherry_sapling
+vinery:dark_cherry_shelf
+vinery:dark_cherry_sign
+vinery:dark_cherry_slab
+vinery:dark_cherry_stairs
+vinery:dark_cherry_table
+vinery:dark_cherry_trapdoor
+vinery:dark_cherry_wine_rack_big
+vinery:dark_cherry_wine_rack_mid
+vinery:dark_cherry_wine_rack_small
+vinery:dark_cherry_wood
+vinery:dark_oak_lattice
+vinery:dark_oak_wine_rack_big
+vinery:dark_oak_wine_rack_mid
+vinery:dark_oak_wine_rack_small
+vinery:dirt_path_slab
+vinery:dirt_slab
+vinery:eiswein
+vinery:fermentation_barrel
+vinery:flower_box
+vinery:flower_pot_big
+vinery:glowing_wine
+vinery:grapevine_leaves
+vinery:grapevine_pot
+vinery:grapevine_stem
+vinery:grass_slab
+vinery:jellie_wine
+vinery:jo_special_mixture
+vinery:jungle_grape_seeds_red
+vinery:jungle_grape_seeds_white
+vinery:jungle_grapes_red
+vinery:jungle_grapes_white
+vinery:jungle_lattice
+vinery:jungle_wine_rack_big
+vinery:jungle_wine_rack_mid
+vinery:jungle_wine_rack_small
+vinery:kelp_cider
+vinery:lilitu_wine
+vinery:magnetic_wine
+vinery:mangrove_lattice
+vinery:mangrove_wine_rack_big
+vinery:mangrove_wine_rack_mid
+vinery:mangrove_wine_rack_small
+vinery:mead
+vinery:mellohi_wine
+vinery:mule_spawn_egg
+vinery:noir_wine
+vinery:oak_lattice
+vinery:oak_wine_rack_big
+vinery:oak_wine_rack_mid
+vinery:oak_wine_rack_small
+vinery:red_grape
+vinery:red_grape_bag
+vinery:red_grape_bush
+vinery:red_grape_seeds
+vinery:red_grapejuice
+vinery:red_jungle_grape_bag
+vinery:red_jungle_grapejuice
+vinery:red_savanna_grape_bag
+vinery:red_savanna_grapejuice
+vinery:red_taiga_grape_bag
+vinery:red_taiga_grapejuice
+vinery:red_vine
+vinery:red_wine
+vinery:rotten_cherry
+vinery:savanna_grape_seeds_red
+vinery:savanna_grape_seeds_white
+vinery:savanna_grapes_red
+vinery:savanna_grapes_white
+vinery:solaris_wine
+vinery:spruce_lattice
+vinery:spruce_wine_rack_big
+vinery:spruce_wine_rack_mid
+vinery:spruce_wine_rack_small
+vinery:stackable_log
+vinery:stal_wine
+vinery:storage_pot
+vinery:strad_wine
+vinery:straw_hat
+vinery:stripped_dark_cherry_log
+vinery:stripped_dark_cherry_wood
+vinery:taiga_grape_seeds_red
+vinery:taiga_grape_seeds_white
+vinery:taiga_grapes_red
+vinery:taiga_grapes_white
+vinery:villagers_fright
+vinery:vinery_standard
+vinery:wandering_winemaker_spawn_egg
+vinery:warped_lattice
+vinery:white_grape
+vinery:white_grape_bag
+vinery:white_grape_seeds
+vinery:white_grapejuice
+vinery:white_jungle_grape_bag
+vinery:white_jungle_grapejuice
+vinery:white_savanna_grape_bag
+vinery:white_savanna_grapejuice
+vinery:white_taiga_grape_bag
+vinery:white_taiga_grapejuice
+vinery:white_vine
+vinery:window
+vinery:window_block
+vinery:wine_bottle
+vinery:wine_box
+vinery:winemaker_apron
+vinery:winemaker_boots
+vinery:winemaker_leggings
+
+## neoforge biome_modifiers
+add_apple_tree.json :: { "type": "neoforge:add_features", "biomes": "#vinery:spawns_cherry_tree", "features": "vinery:tree_apple", "step": "vegetal_decoration"}
+add_cherry_tree.json :: { "type": "neoforge:add_features", "biomes": "#vinery:spawns_cherry_tree", "features": "vinery:tree_cherry", "step": "vegetal_decoration"}
+add_jungle_red_grape.json :: { "type": "neoforge:add_features", "biomes": "#vinery:spawns_jungle_grape", "features": "vinery:jungle_red_grape_bush_chance", "step": "vegetal_decoration"}
+add_jungle_white_grape.json :: { "type": "neoforge:add_features", "biomes": "#vinery:spawns_jungle_grape", "features": "vinery:jungle_white_grape_bush_chance", "step": "vegetal_decoration"}
+add_red_grape.json :: { "type": "neoforge:add_features", "biomes": "#vinery:spawns_grape", "features": "vinery:red_grape_bush_chance", "step": "vegetal_decoration"}
+add_savanna_red_grape.json :: { "type": "neoforge:add_features", "biomes": "#vinery:spawns_savanna_grape", "features": "vinery:savanna_red_grape_bush_chance", "step": "vegetal_decoration"}
+add_savanna_white_grape.json :: { "type": "neoforge:add_features", "biomes": "#vinery:spawns_savanna_grape", "features": "vinery:savanna_white_grape_bush_chance", "step": "vegetal_decoration"}
+add_taiga_red_grape.json :: { "type": "neoforge:add_features", "biomes": "#vinery:spawns_taiga_grape", "features": "vinery:taiga_red_grape_bush_chance", "step": "vegetal_decoration"}
+add_taiga_white_grape.json :: { "type": "neoforge:add_features", "biomes": "#vinery:spawns_taiga_grape", "features": "vinery:taiga_white_grape_bush_chance", "step": "vegetal_decoration"}
+add_white_grape.json :: { "type": "neoforge:add_features", "biomes": "#vinery:spawns_grape", "features": "vinery:white_grape_bush_chance", "step": "vegetal_decoration"}
+
+## c: common tag membership
+items/berries.json :: { "replace": false, "values": [ {"id":"vinery:cherry","required":false} ]}
+items/grapes.json :: { "replace": false, "values": [ "vinery:red_grape", "vinery:white_grape", "vinery:savanna_grapes_red", "vinery:savanna_grapes_white", "vinery:taiga_grapes_red", "vinery:taiga_grapes_white", "vinery:jungle_grapes_red", "vinery:jungle_grapes_white" ]}
+items/milk.json :: { "replace": false, "values": [ "minecraft:milk_bucket" ]}
+items/seeds.json :: { "replace": false, "values": [ "vinery:red_grape_seeds", "vinery:white_grape_seeds", "vinery:savanna_grape_seeds_red", "vinery:savanna_grape_seeds_white", "vinery:taiga_grape_seeds_red", "vinery:taiga_grape_seeds_white", "vinery:jungle_grape_seeds_red", "vinery:jungle_grape_seeds_white" ]}
+items/stripped_logs.json :: { "replace": false, "values": [ "vinery:stripped_dark_cherry_log" ]}
+items/stripped_wood.json :: { "replace": false, "values": [ "vinery:stripped_dark_cherry_wood" ]}

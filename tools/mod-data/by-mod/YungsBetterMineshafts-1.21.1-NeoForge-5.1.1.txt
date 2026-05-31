@@ -1,0 +1,21 @@
+# YungsBetterMineshafts-1.21.1-NeoForge-5.1.1
+
+## mod metadata (id / version / deps)
+license="LGPLv3"
+modId="bettermineshafts"
+version="1.21.1-NeoForge-5.1.1"
+displayName="YUNG's Better Mineshafts"
+modId="minecraft"
+versionRange="[1.21, 1.22)"
+modId="neoforge"
+versionRange="[21.0.0,)"
+modId="yungsapi"
+versionRange="[1.21.1-NeoForge-5.1.2,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

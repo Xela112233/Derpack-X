@@ -1,0 +1,19 @@
+# supermartijn642configlib-1.1.8-neoforge-mc1.21
+
+## mod metadata (id / version / deps)
+license="All rights reserved" #mandatory
+modId="supermartijn642configlib" #mandatory
+version="1.1.8" #mandatory
+displayName="SuperMartijn642's Config Library" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.78-beta,)" #mandatory
+modId="minecraft"
+versionRange="[1.21,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

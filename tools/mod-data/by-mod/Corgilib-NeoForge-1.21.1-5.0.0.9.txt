@@ -1,0 +1,19 @@
+# Corgilib-NeoForge-1.21.1-5.0.0.9
+
+## mod metadata (id / version / deps)
+license="LGPLv3"
+modId="corgilib"
+version="5.0.0.9" #mandatory
+displayName="CorgiLib" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

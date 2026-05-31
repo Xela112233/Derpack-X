@@ -1,0 +1,19 @@
+# mysterious_mountain_lib-1.2.15-1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT License"
+modId="mysterious_mountain_lib"
+version="1.2.15-1.21.1" 
+displayName="Mysterious Mountain Lib"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

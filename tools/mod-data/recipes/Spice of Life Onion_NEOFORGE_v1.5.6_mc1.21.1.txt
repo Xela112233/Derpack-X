@@ -1,0 +1,4 @@
+solonion:food_book | minecraft:crafting_shapeless | minecraft:book minecraft:crafting_shapeless minecraft:potato solonion:food_book
+solonion:golden_lunchbox | solonion:upgrade_food_container | minecraft:gold_block solonion:golden_lunchbox solonion:lunchbox solonion:upgrade_food_container
+solonion:lunchbag | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:paper solonion:lunchbag
+solonion:lunchbox | solonion:upgrade_food_container | minecraft:iron_block solonion:lunchbag solonion:lunchbox solonion:upgrade_food_container

@@ -1,0 +1,317 @@
+handcrafted:acacia_bench | minecraft:crafting_shaped | handcrafted:acacia_bench minecraft:acacia_planks minecraft:acacia_slab minecraft:crafting_shaped
+handcrafted:acacia_chair | minecraft:crafting_shaped | handcrafted:acacia_chair minecraft:acacia_planks minecraft:acacia_slab minecraft:crafting_shaped minecraft:stick
+handcrafted:acacia_corner_trim | minecraft:crafting_shaped | handcrafted:acacia_corner_trim minecraft:acacia_planks minecraft:crafting_shaped
+handcrafted:acacia_couch | minecraft:crafting_shaped | handcrafted:acacia_couch handcrafted:cushions minecraft:acacia_planks minecraft:crafting_shaped minecraft:wool
+handcrafted:acacia_counter | minecraft:crafting_shaped | handcrafted:acacia_counter handcrafted:chests minecraft:acacia_planks minecraft:calcite minecraft:crafting_shaped
+handcrafted:acacia_cupboard | minecraft:crafting_shaped | handcrafted:acacia_cupboard handcrafted:chests minecraft:acacia_planks minecraft:crafting_shaped
+handcrafted:acacia_desk | minecraft:crafting_shaped | handcrafted:acacia_desk handcrafted:chests minecraft:acacia_planks minecraft:acacia_slab minecraft:crafting_shaped
+handcrafted:acacia_dining_bench | minecraft:crafting_shaped | handcrafted:acacia_dining_bench minecraft:acacia_planks minecraft:acacia_slab minecraft:crafting_shaped
+handcrafted:acacia_drawer | minecraft:crafting_shaped | handcrafted:acacia_drawer handcrafted:chests minecraft:acacia_planks minecraft:acacia_slab minecraft:crafting_shaped
+handcrafted:acacia_fancy_bed | minecraft:crafting_shaped | handcrafted:acacia_fancy_bed handcrafted:cushions handcrafted:sheets minecraft:acacia_planks minecraft:crafting_shaped minecraft:wool
+handcrafted:acacia_nightstand | minecraft:crafting_shaped | handcrafted:acacia_nightstand handcrafted:chests minecraft:acacia_planks minecraft:crafting_shaped
+handcrafted:acacia_pillar_trim | minecraft:crafting_shaped | handcrafted:acacia_pillar_trim minecraft:acacia_planks minecraft:crafting_shaped
+handcrafted:acacia_shelf | minecraft:crafting_shaped | handcrafted:acacia_shelf handcrafted:chests minecraft:acacia_planks minecraft:acacia_slab minecraft:crafting_shaped
+handcrafted:acacia_side_table | minecraft:crafting_shaped | handcrafted:acacia_side_table handcrafted:chests minecraft:acacia_planks minecraft:acacia_slab minecraft:crafting_shaped
+handcrafted:acacia_table | minecraft:crafting_shaped | handcrafted:acacia_table minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick
+handcrafted:andesite_corner_trim | minecraft:crafting_shaped | handcrafted:andesite_corner_trim minecraft:andesite minecraft:crafting_shaped
+handcrafted:andesite_pillar_trim | minecraft:crafting_shaped | handcrafted:andesite_pillar_trim minecraft:andesite minecraft:crafting_shaped
+handcrafted:bamboo_bench | minecraft:crafting_shaped | handcrafted:bamboo_bench minecraft:bamboo_planks minecraft:bamboo_slab minecraft:crafting_shaped
+handcrafted:bamboo_chair | minecraft:crafting_shaped | handcrafted:bamboo_chair minecraft:bamboo_planks minecraft:bamboo_slab minecraft:crafting_shaped minecraft:stick
+handcrafted:bamboo_corner_trim | minecraft:crafting_shaped | handcrafted:bamboo_corner_trim minecraft:bamboo_planks minecraft:crafting_shaped
+handcrafted:bamboo_couch | minecraft:crafting_shaped | handcrafted:bamboo_couch handcrafted:cushions minecraft:bamboo_planks minecraft:crafting_shaped minecraft:wool
+handcrafted:bamboo_counter | minecraft:crafting_shaped | handcrafted:bamboo_counter handcrafted:chests minecraft:bamboo_planks minecraft:calcite minecraft:crafting_shaped
+handcrafted:bamboo_cupboard | minecraft:crafting_shaped | handcrafted:bamboo_cupboard handcrafted:chests minecraft:bamboo_planks minecraft:crafting_shaped
+handcrafted:bamboo_desk | minecraft:crafting_shaped | handcrafted:bamboo_desk handcrafted:chests minecraft:bamboo_planks minecraft:bamboo_slab minecraft:crafting_shaped
+handcrafted:bamboo_dining_bench | minecraft:crafting_shaped | handcrafted:bamboo_dining_bench minecraft:bamboo_planks minecraft:bamboo_slab minecraft:crafting_shaped
+handcrafted:bamboo_drawer | minecraft:crafting_shaped | handcrafted:bamboo_drawer handcrafted:chests minecraft:bamboo_planks minecraft:bamboo_slab minecraft:crafting_shaped
+handcrafted:bamboo_fancy_bed | minecraft:crafting_shaped | handcrafted:bamboo_fancy_bed handcrafted:cushions handcrafted:sheets minecraft:bamboo_planks minecraft:crafting_shaped minecraft:wool
+handcrafted:bamboo_nightstand | minecraft:crafting_shaped | handcrafted:bamboo_nightstand handcrafted:chests minecraft:bamboo_planks minecraft:crafting_shaped
+handcrafted:bamboo_pillar_trim | minecraft:crafting_shaped | handcrafted:bamboo_pillar_trim minecraft:bamboo_planks minecraft:crafting_shaped
+handcrafted:bamboo_shelf | minecraft:crafting_shaped | handcrafted:bamboo_shelf handcrafted:chests minecraft:bamboo_planks minecraft:bamboo_slab minecraft:crafting_shaped
+handcrafted:bamboo_side_table | minecraft:crafting_shaped | handcrafted:bamboo_side_table handcrafted:chests minecraft:bamboo_planks minecraft:bamboo_slab minecraft:crafting_shaped
+handcrafted:bamboo_table | minecraft:crafting_shaped | handcrafted:bamboo_table minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick
+handcrafted:bear_trophy | minecraft:crafting_shaped | handcrafted:bear_trophy minecraft:cod minecraft:crafting_shaped minecraft:planks
+handcrafted:bench | minecraft:crafting_shaped | handcrafted:bench minecraft:crafting_shaped minecraft:iron_bars minecraft:iron_ingot
+handcrafted:berry_jam_jar | minecraft:crafting_shapeless | handcrafted:berry_jam_jar minecraft:crafting_shapeless minecraft:glass_bottle minecraft:sweet_berries
+handcrafted:birch_bench | minecraft:crafting_shaped | handcrafted:birch_bench minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped
+handcrafted:birch_chair | minecraft:crafting_shaped | handcrafted:birch_chair minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped minecraft:stick
+handcrafted:birch_corner_trim | minecraft:crafting_shaped | handcrafted:birch_corner_trim minecraft:birch_planks minecraft:crafting_shaped
+handcrafted:birch_couch | minecraft:crafting_shaped | handcrafted:birch_couch handcrafted:cushions minecraft:birch_planks minecraft:crafting_shaped minecraft:wool
+handcrafted:birch_counter | minecraft:crafting_shaped | handcrafted:birch_counter handcrafted:chests minecraft:birch_planks minecraft:calcite minecraft:crafting_shaped
+handcrafted:birch_cupboard | minecraft:crafting_shaped | handcrafted:birch_cupboard handcrafted:chests minecraft:birch_planks minecraft:crafting_shaped
+handcrafted:birch_desk | minecraft:crafting_shaped | handcrafted:birch_desk handcrafted:chests minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped
+handcrafted:birch_dining_bench | minecraft:crafting_shaped | handcrafted:birch_dining_bench minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped
+handcrafted:birch_drawer | minecraft:crafting_shaped | handcrafted:birch_drawer handcrafted:chests minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped
+handcrafted:birch_fancy_bed | minecraft:crafting_shaped | handcrafted:birch_fancy_bed handcrafted:cushions handcrafted:sheets minecraft:birch_planks minecraft:crafting_shaped minecraft:wool
+handcrafted:birch_nightstand | minecraft:crafting_shaped | handcrafted:birch_nightstand handcrafted:chests minecraft:birch_planks minecraft:crafting_shaped
+handcrafted:birch_pillar_trim | minecraft:crafting_shaped | handcrafted:birch_pillar_trim minecraft:birch_planks minecraft:crafting_shaped
+handcrafted:birch_shelf | minecraft:crafting_shaped | handcrafted:birch_shelf handcrafted:chests minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped
+handcrafted:birch_side_table | minecraft:crafting_shaped | handcrafted:birch_side_table handcrafted:chests minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped
+handcrafted:birch_table | minecraft:crafting_shaped | handcrafted:birch_table minecraft:birch_planks minecraft:crafting_shaped minecraft:stick
+handcrafted:black_cushion | minecraft:crafting_shaped | handcrafted:black_cushion minecraft:black_wool minecraft:crafting_shaped minecraft:feather
+handcrafted:black_sheet | minecraft:crafting_shapeless | handcrafted:black_sheet minecraft:black_wool minecraft:crafting_shapeless
+handcrafted:blackstone_corner_trim | minecraft:crafting_shaped | handcrafted:blackstone_corner_trim minecraft:blackstone minecraft:crafting_shaped
+handcrafted:blackstone_pillar_trim | minecraft:crafting_shaped | handcrafted:blackstone_pillar_trim minecraft:blackstone minecraft:crafting_shaped
+handcrafted:blaze_trophy | minecraft:crafting_shaped | handcrafted:blaze_trophy minecraft:blaze_rod minecraft:crafting_shaped minecraft:planks
+handcrafted:blue_bowl | minecraft:crafting_shapeless | handcrafted:blue_bowl handcrafted:terracotta_bowl minecraft:blue_dye minecraft:crafting_shapeless
+handcrafted:blue_crockery_combo | minecraft:crafting_shapeless | handcrafted:blue_crockery_combo handcrafted:terracotta_crockery_combo minecraft:blue_dye minecraft:crafting_shapeless
+handcrafted:blue_cup | minecraft:crafting_shapeless | handcrafted:blue_cup handcrafted:terracotta_cup minecraft:blue_dye minecraft:crafting_shapeless
+handcrafted:blue_cushion | minecraft:crafting_shaped | handcrafted:blue_cushion minecraft:blue_wool minecraft:crafting_shaped minecraft:feather
+handcrafted:blue_glazed_medium_pot | minecraft:crafting_shapeless | handcrafted:blue_glazed_medium_pot handcrafted:terracotta_medium_pot minecraft:blue_glazed_terracotta minecraft:crafting_shapeless
+handcrafted:blue_glazed_thick_pot | minecraft:crafting_shapeless | handcrafted:blue_glazed_thick_pot handcrafted:terracotta_thick_pot minecraft:blue_glazed_terracotta minecraft:crafting_shapeless
+handcrafted:blue_glazed_thin_pot | minecraft:crafting_shapeless | handcrafted:blue_glazed_thin_pot handcrafted:terracotta_thin_pot minecraft:blue_glazed_terracotta minecraft:crafting_shapeless
+handcrafted:blue_glazed_wide_pot | minecraft:crafting_shapeless | handcrafted:blue_glazed_wide_pot handcrafted:terracotta_wide_pot minecraft:blue_glazed_terracotta minecraft:crafting_shapeless
+handcrafted:blue_plate | minecraft:crafting_shapeless | handcrafted:blue_plate handcrafted:terracotta_plate minecraft:blue_dye minecraft:crafting_shapeless
+handcrafted:blue_sheet | minecraft:crafting_shapeless | handcrafted:blue_sheet minecraft:blue_wool minecraft:crafting_shapeless
+handcrafted:bricks_corner_trim | minecraft:crafting_shaped | handcrafted:bricks_corner_trim minecraft:bricks minecraft:crafting_shaped
+handcrafted:bricks_pillar_trim | minecraft:crafting_shaped | handcrafted:bricks_pillar_trim minecraft:bricks minecraft:crafting_shaped
+handcrafted:brown_cushion | minecraft:crafting_shaped | handcrafted:brown_cushion minecraft:brown_wool minecraft:crafting_shaped minecraft:feather
+handcrafted:brown_sheet | minecraft:crafting_shapeless | handcrafted:brown_sheet minecraft:brown_wool minecraft:crafting_shapeless
+handcrafted:calcite_corner_trim | minecraft:crafting_shaped | handcrafted:calcite_corner_trim minecraft:calcite minecraft:crafting_shaped
+handcrafted:calcite_pillar_trim | minecraft:crafting_shaped | handcrafted:calcite_pillar_trim minecraft:calcite minecraft:crafting_shaped
+handcrafted:cherry_bench | minecraft:crafting_shaped | handcrafted:cherry_bench minecraft:cherry_planks minecraft:cherry_slab minecraft:crafting_shaped
+handcrafted:cherry_chair | minecraft:crafting_shaped | handcrafted:cherry_chair minecraft:cherry_planks minecraft:cherry_slab minecraft:crafting_shaped minecraft:stick
+handcrafted:cherry_corner_trim | minecraft:crafting_shaped | handcrafted:cherry_corner_trim minecraft:cherry_planks minecraft:crafting_shaped
+handcrafted:cherry_couch | minecraft:crafting_shaped | handcrafted:cherry_couch handcrafted:cushions minecraft:cherry_planks minecraft:crafting_shaped minecraft:wool
+handcrafted:cherry_counter | minecraft:crafting_shaped | handcrafted:cherry_counter handcrafted:chests minecraft:calcite minecraft:cherry_planks minecraft:crafting_shaped
+handcrafted:cherry_cupboard | minecraft:crafting_shaped | handcrafted:cherry_cupboard handcrafted:chests minecraft:cherry_planks minecraft:crafting_shaped
+handcrafted:cherry_desk | minecraft:crafting_shaped | handcrafted:cherry_desk handcrafted:chests minecraft:cherry_planks minecraft:cherry_slab minecraft:crafting_shaped
+handcrafted:cherry_dining_bench | minecraft:crafting_shaped | handcrafted:cherry_dining_bench minecraft:cherry_planks minecraft:cherry_slab minecraft:crafting_shaped
+handcrafted:cherry_drawer | minecraft:crafting_shaped | handcrafted:cherry_drawer handcrafted:chests minecraft:cherry_planks minecraft:cherry_slab minecraft:crafting_shaped
+handcrafted:cherry_fancy_bed | minecraft:crafting_shaped | handcrafted:cherry_fancy_bed handcrafted:cushions handcrafted:sheets minecraft:cherry_planks minecraft:crafting_shaped minecraft:wool
+handcrafted:cherry_nightstand | minecraft:crafting_shaped | handcrafted:cherry_nightstand handcrafted:chests minecraft:cherry_planks minecraft:crafting_shaped
+handcrafted:cherry_pillar_trim | minecraft:crafting_shaped | handcrafted:cherry_pillar_trim minecraft:cherry_planks minecraft:crafting_shaped
+handcrafted:cherry_shelf | minecraft:crafting_shaped | handcrafted:cherry_shelf handcrafted:chests minecraft:cherry_planks minecraft:cherry_slab minecraft:crafting_shaped
+handcrafted:cherry_side_table | minecraft:crafting_shaped | handcrafted:cherry_side_table handcrafted:chests minecraft:cherry_planks minecraft:cherry_slab minecraft:crafting_shaped
+handcrafted:cherry_table | minecraft:crafting_shaped | handcrafted:cherry_table minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick
+handcrafted:creeper_trophy | minecraft:crafting_shaped | handcrafted:creeper_trophy minecraft:crafting_shaped minecraft:creeper_head minecraft:stone
+handcrafted:crimson_bench | minecraft:crafting_shaped | handcrafted:crimson_bench minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_slab
+handcrafted:crimson_chair | minecraft:crafting_shaped | handcrafted:crimson_chair minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_slab minecraft:stick
+handcrafted:crimson_corner_trim | minecraft:crafting_shaped | handcrafted:crimson_corner_trim minecraft:crafting_shaped minecraft:crimson_planks
+handcrafted:crimson_couch | minecraft:crafting_shaped | handcrafted:crimson_couch handcrafted:cushions minecraft:crafting_shaped minecraft:crimson_planks minecraft:wool
+handcrafted:crimson_counter | minecraft:crafting_shaped | handcrafted:chests handcrafted:crimson_counter minecraft:calcite minecraft:crafting_shaped minecraft:crimson_planks
+handcrafted:crimson_cupboard | minecraft:crafting_shaped | handcrafted:chests handcrafted:crimson_cupboard minecraft:crafting_shaped minecraft:crimson_planks
+handcrafted:crimson_desk | minecraft:crafting_shaped | handcrafted:chests handcrafted:crimson_desk minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_slab
+handcrafted:crimson_dining_bench | minecraft:crafting_shaped | handcrafted:crimson_dining_bench minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_slab
+handcrafted:crimson_drawer | minecraft:crafting_shaped | handcrafted:chests handcrafted:crimson_drawer minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_slab
+handcrafted:crimson_fancy_bed | minecraft:crafting_shaped | handcrafted:crimson_fancy_bed handcrafted:cushions handcrafted:sheets minecraft:crafting_shaped minecraft:crimson_planks minecraft:wool
+handcrafted:crimson_nightstand | minecraft:crafting_shaped | handcrafted:chests handcrafted:crimson_nightstand minecraft:crafting_shaped minecraft:crimson_planks
+handcrafted:crimson_pillar_trim | minecraft:crafting_shaped | handcrafted:crimson_pillar_trim minecraft:crafting_shaped minecraft:crimson_planks
+handcrafted:crimson_shelf | minecraft:crafting_shaped | handcrafted:chests handcrafted:crimson_shelf minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_slab
+handcrafted:crimson_side_table | minecraft:crafting_shaped | handcrafted:chests handcrafted:crimson_side_table minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_slab
+handcrafted:crimson_table | minecraft:crafting_shaped | handcrafted:crimson_table minecraft:crafting_shaped minecraft:crimson_planks minecraft:stick
+handcrafted:cyan_cushion | minecraft:crafting_shaped | handcrafted:cyan_cushion minecraft:crafting_shaped minecraft:cyan_wool minecraft:feather
+handcrafted:cyan_sheet | minecraft:crafting_shapeless | handcrafted:cyan_sheet minecraft:crafting_shapeless minecraft:cyan_wool
+handcrafted:dark_oak_bench | minecraft:crafting_shaped | handcrafted:dark_oak_bench minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab
+handcrafted:dark_oak_chair | minecraft:crafting_shaped | handcrafted:dark_oak_chair minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab minecraft:stick
+handcrafted:dark_oak_corner_trim | minecraft:crafting_shaped | handcrafted:dark_oak_corner_trim minecraft:crafting_shaped minecraft:dark_oak_planks
+handcrafted:dark_oak_couch | minecraft:crafting_shaped | handcrafted:cushions handcrafted:dark_oak_couch minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:wool
+handcrafted:dark_oak_counter | minecraft:crafting_shaped | handcrafted:chests handcrafted:dark_oak_counter minecraft:calcite minecraft:crafting_shaped minecraft:dark_oak_planks
+handcrafted:dark_oak_cupboard | minecraft:crafting_shaped | handcrafted:chests handcrafted:dark_oak_cupboard minecraft:crafting_shaped minecraft:dark_oak_planks
+handcrafted:dark_oak_desk | minecraft:crafting_shaped | handcrafted:chests handcrafted:dark_oak_desk minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab
+handcrafted:dark_oak_dining_bench | minecraft:crafting_shaped | handcrafted:dark_oak_dining_bench minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab
+handcrafted:dark_oak_drawer | minecraft:crafting_shaped | handcrafted:chests handcrafted:dark_oak_drawer minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab
+handcrafted:dark_oak_fancy_bed | minecraft:crafting_shaped | handcrafted:cushions handcrafted:dark_oak_fancy_bed handcrafted:sheets minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:wool
+handcrafted:dark_oak_nightstand | minecraft:crafting_shaped | handcrafted:chests handcrafted:dark_oak_nightstand minecraft:crafting_shaped minecraft:dark_oak_planks
+handcrafted:dark_oak_pillar_trim | minecraft:crafting_shaped | handcrafted:dark_oak_pillar_trim minecraft:crafting_shaped minecraft:dark_oak_planks
+handcrafted:dark_oak_shelf | minecraft:crafting_shaped | handcrafted:chests handcrafted:dark_oak_shelf minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab
+handcrafted:dark_oak_side_table | minecraft:crafting_shaped | handcrafted:chests handcrafted:dark_oak_side_table minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab
+handcrafted:dark_oak_table | minecraft:crafting_shaped | handcrafted:dark_oak_table minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:stick
+handcrafted:deepslate_corner_trim | minecraft:crafting_shaped | handcrafted:deepslate_corner_trim minecraft:crafting_shaped minecraft:deepslate
+handcrafted:deepslate_pillar_trim | minecraft:crafting_shaped | handcrafted:deepslate_pillar_trim minecraft:crafting_shaped minecraft:deepslate
+handcrafted:diorite_corner_trim | minecraft:crafting_shaped | handcrafted:diorite_corner_trim minecraft:crafting_shaped minecraft:diorite
+handcrafted:diorite_pillar_trim | minecraft:crafting_shaped | handcrafted:diorite_pillar_trim minecraft:crafting_shaped minecraft:diorite
+handcrafted:dripstone_corner_trim | minecraft:crafting_shaped | handcrafted:dripstone_corner_trim minecraft:crafting_shaped minecraft:dripstone_block
+handcrafted:dripstone_pillar_trim | minecraft:crafting_shaped | handcrafted:dripstone_pillar_trim minecraft:crafting_shaped minecraft:dripstone_block
+handcrafted:evoker_trophy | minecraft:crafting_shaped | handcrafted:evoker_trophy minecraft:crafting_shaped minecraft:stone minecraft:totem_of_undying
+handcrafted:fancy_painting | minecraft:crafting_shapeless | handcrafted:fancy_painting minecraft:crafting_shapeless minecraft:gold_ingot minecraft:painting
+handcrafted:fox_trophy | minecraft:crafting_shaped | handcrafted:fox_trophy minecraft:crafting_shaped minecraft:planks minecraft:sweet_berries
+handcrafted:frozen_bench | minecraft:crafting_shapeless | handcrafted:bench handcrafted:frozen_bench minecraft:crafting_shapeless minecraft:snowball
+handcrafted:goat_trophy | minecraft:crafting_shaped | handcrafted:goat_trophy minecraft:crafting_shaped minecraft:goat_horn minecraft:planks
+handcrafted:golden_medium_pot | minecraft:crafting_shapeless | handcrafted:golden_medium_pot handcrafted:terracotta_medium_pot minecraft:crafting_shapeless minecraft:gold_block
+handcrafted:golden_thick_pot | minecraft:crafting_shapeless | handcrafted:golden_thick_pot handcrafted:terracotta_thick_pot minecraft:crafting_shapeless minecraft:gold_block
+handcrafted:golden_thin_pot | minecraft:crafting_shapeless | handcrafted:golden_thin_pot handcrafted:terracotta_thin_pot minecraft:crafting_shapeless minecraft:gold_block
+handcrafted:golden_wide_pot | minecraft:crafting_shapeless | handcrafted:golden_wide_pot handcrafted:terracotta_wide_pot minecraft:crafting_shapeless minecraft:gold_block
+handcrafted:granite_corner_trim | minecraft:crafting_shaped | handcrafted:granite_corner_trim minecraft:crafting_shaped minecraft:granite
+handcrafted:granite_pillar_trim | minecraft:crafting_shaped | handcrafted:granite_pillar_trim minecraft:crafting_shaped minecraft:granite
+handcrafted:gray_cushion | minecraft:crafting_shaped | handcrafted:gray_cushion minecraft:crafting_shaped minecraft:feather minecraft:gray_wool
+handcrafted:gray_sheet | minecraft:crafting_shapeless | handcrafted:gray_sheet minecraft:crafting_shapeless minecraft:gray_wool
+handcrafted:green_cushion | minecraft:crafting_shaped | handcrafted:green_cushion minecraft:crafting_shaped minecraft:feather minecraft:green_wool
+handcrafted:green_sheet | minecraft:crafting_shapeless | handcrafted:green_sheet minecraft:crafting_shapeless minecraft:green_wool
+handcrafted:hammer | minecraft:crafting_shaped | handcrafted:hammer minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+handcrafted:jungle_bench | minecraft:crafting_shaped | handcrafted:jungle_bench minecraft:crafting_shaped minecraft:jungle_planks minecraft:jungle_slab
+handcrafted:jungle_chair | minecraft:crafting_shaped | handcrafted:jungle_chair minecraft:crafting_shaped minecraft:jungle_planks minecraft:jungle_slab minecraft:stick
+handcrafted:jungle_corner_trim | minecraft:crafting_shaped | handcrafted:jungle_corner_trim minecraft:crafting_shaped minecraft:jungle_planks
+handcrafted:jungle_couch | minecraft:crafting_shaped | handcrafted:cushions handcrafted:jungle_couch minecraft:crafting_shaped minecraft:jungle_planks minecraft:wool
+handcrafted:jungle_counter | minecraft:crafting_shaped | handcrafted:chests handcrafted:jungle_counter minecraft:calcite minecraft:crafting_shaped minecraft:jungle_planks
+handcrafted:jungle_cupboard | minecraft:crafting_shaped | handcrafted:chests handcrafted:jungle_cupboard minecraft:crafting_shaped minecraft:jungle_planks
+handcrafted:jungle_desk | minecraft:crafting_shaped | handcrafted:chests handcrafted:jungle_desk minecraft:crafting_shaped minecraft:jungle_planks minecraft:jungle_slab
+handcrafted:jungle_dining_bench | minecraft:crafting_shaped | handcrafted:jungle_dining_bench minecraft:crafting_shaped minecraft:jungle_planks minecraft:jungle_slab
+handcrafted:jungle_drawer | minecraft:crafting_shaped | handcrafted:chests handcrafted:jungle_drawer minecraft:crafting_shaped minecraft:jungle_planks minecraft:jungle_slab
+handcrafted:jungle_fancy_bed | minecraft:crafting_shaped | handcrafted:cushions handcrafted:jungle_fancy_bed handcrafted:sheets minecraft:crafting_shaped minecraft:jungle_planks minecraft:wool
+handcrafted:jungle_nightstand | minecraft:crafting_shaped | handcrafted:chests handcrafted:jungle_nightstand minecraft:crafting_shaped minecraft:jungle_planks
+handcrafted:jungle_pillar_trim | minecraft:crafting_shaped | handcrafted:jungle_pillar_trim minecraft:crafting_shaped minecraft:jungle_planks
+handcrafted:jungle_shelf | minecraft:crafting_shaped | handcrafted:chests handcrafted:jungle_shelf minecraft:crafting_shaped minecraft:jungle_planks minecraft:jungle_slab
+handcrafted:jungle_side_table | minecraft:crafting_shaped | handcrafted:chests handcrafted:jungle_side_table minecraft:crafting_shaped minecraft:jungle_planks minecraft:jungle_slab
+handcrafted:jungle_table | minecraft:crafting_shaped | handcrafted:jungle_table minecraft:crafting_shaped minecraft:jungle_planks minecraft:stick
+handcrafted:kitchen_hood | minecraft:crafting_shaped | handcrafted:kitchen_hood handcrafted:kitchen_hood_pipe minecraft:crafting_shaped minecraft:iron_bars
+handcrafted:kitchen_hood_pipe | minecraft:crafting_shaped | handcrafted:kitchen_hood_pipe minecraft:crafting_shaped minecraft:iron_bars
+handcrafted:light_blue_cushion | minecraft:crafting_shaped | handcrafted:light_blue_cushion minecraft:crafting_shaped minecraft:feather minecraft:light_blue_wool
+handcrafted:light_blue_sheet | minecraft:crafting_shapeless | handcrafted:light_blue_sheet minecraft:crafting_shapeless minecraft:light_blue_wool
+handcrafted:light_gray_cushion | minecraft:crafting_shaped | handcrafted:light_gray_cushion minecraft:crafting_shaped minecraft:feather minecraft:light_gray_wool
+handcrafted:light_gray_sheet | minecraft:crafting_shapeless | handcrafted:light_gray_sheet minecraft:crafting_shapeless minecraft:light_gray_wool
+handcrafted:lime_cushion | minecraft:crafting_shaped | handcrafted:lime_cushion minecraft:crafting_shaped minecraft:feather minecraft:lime_wool
+handcrafted:lime_sheet | minecraft:crafting_shapeless | handcrafted:lime_sheet minecraft:crafting_shapeless minecraft:lime_wool
+handcrafted:magenta_cushion | minecraft:crafting_shaped | handcrafted:magenta_cushion minecraft:crafting_shaped minecraft:feather minecraft:magenta_wool
+handcrafted:magenta_sheet | minecraft:crafting_shapeless | handcrafted:magenta_sheet minecraft:crafting_shapeless minecraft:magenta_wool
+handcrafted:mangrove_bench | minecraft:crafting_shaped | handcrafted:mangrove_bench minecraft:crafting_shaped minecraft:mangrove_planks minecraft:mangrove_slab
+handcrafted:mangrove_chair | minecraft:crafting_shaped | handcrafted:mangrove_chair minecraft:crafting_shaped minecraft:mangrove_planks minecraft:mangrove_slab minecraft:stick
+handcrafted:mangrove_corner_trim | minecraft:crafting_shaped | handcrafted:mangrove_corner_trim minecraft:crafting_shaped minecraft:mangrove_planks
+handcrafted:mangrove_couch | minecraft:crafting_shaped | handcrafted:cushions handcrafted:mangrove_couch minecraft:crafting_shaped minecraft:mangrove_planks minecraft:wool
+handcrafted:mangrove_counter | minecraft:crafting_shaped | handcrafted:chests handcrafted:mangrove_counter minecraft:calcite minecraft:crafting_shaped minecraft:mangrove_planks
+handcrafted:mangrove_cupboard | minecraft:crafting_shaped | handcrafted:chests handcrafted:mangrove_cupboard minecraft:crafting_shaped minecraft:mangrove_planks
+handcrafted:mangrove_desk | minecraft:crafting_shaped | handcrafted:chests handcrafted:mangrove_desk minecraft:crafting_shaped minecraft:mangrove_planks minecraft:mangrove_slab
+handcrafted:mangrove_dining_bench | minecraft:crafting_shaped | handcrafted:mangrove_dining_bench minecraft:crafting_shaped minecraft:mangrove_planks minecraft:mangrove_slab
+handcrafted:mangrove_drawer | minecraft:crafting_shaped | handcrafted:chests handcrafted:mangrove_drawer minecraft:crafting_shaped minecraft:mangrove_planks minecraft:mangrove_slab
+handcrafted:mangrove_fancy_bed | minecraft:crafting_shaped | handcrafted:cushions handcrafted:mangrove_fancy_bed handcrafted:sheets minecraft:crafting_shaped minecraft:mangrove_planks minecraft:wool
+handcrafted:mangrove_nightstand | minecraft:crafting_shaped | handcrafted:chests handcrafted:mangrove_nightstand minecraft:crafting_shaped minecraft:mangrove_planks
+handcrafted:mangrove_pillar_trim | minecraft:crafting_shaped | handcrafted:mangrove_pillar_trim minecraft:crafting_shaped minecraft:mangrove_planks
+handcrafted:mangrove_shelf | minecraft:crafting_shaped | handcrafted:chests handcrafted:mangrove_shelf minecraft:crafting_shaped minecraft:mangrove_planks minecraft:mangrove_slab
+handcrafted:mangrove_side_table | minecraft:crafting_shaped | handcrafted:chests handcrafted:mangrove_side_table minecraft:crafting_shaped minecraft:mangrove_planks minecraft:mangrove_slab
+handcrafted:mangrove_table | minecraft:crafting_shaped | handcrafted:mangrove_table minecraft:crafting_shaped minecraft:mangrove_planks minecraft:stick
+handcrafted:oak_bench | minecraft:crafting_shaped | handcrafted:oak_bench minecraft:crafting_shaped minecraft:oak_planks minecraft:oak_slab
+handcrafted:oak_chair | minecraft:crafting_shaped | handcrafted:oak_chair minecraft:crafting_shaped minecraft:oak_planks minecraft:oak_slab minecraft:stick
+handcrafted:oak_corner_trim | minecraft:crafting_shaped | handcrafted:oak_corner_trim minecraft:crafting_shaped minecraft:oak_planks
+handcrafted:oak_couch | minecraft:crafting_shaped | handcrafted:cushions handcrafted:oak_couch minecraft:crafting_shaped minecraft:oak_planks minecraft:wool
+handcrafted:oak_counter | minecraft:crafting_shaped | handcrafted:chests handcrafted:oak_counter minecraft:calcite minecraft:crafting_shaped minecraft:oak_planks
+handcrafted:oak_cupboard | minecraft:crafting_shaped | handcrafted:chests handcrafted:oak_cupboard minecraft:crafting_shaped minecraft:oak_planks
+handcrafted:oak_desk | minecraft:crafting_shaped | handcrafted:chests handcrafted:oak_desk minecraft:crafting_shaped minecraft:oak_planks minecraft:oak_slab
+handcrafted:oak_dining_bench | minecraft:crafting_shaped | handcrafted:oak_dining_bench minecraft:crafting_shaped minecraft:oak_planks minecraft:oak_slab
+handcrafted:oak_drawer | minecraft:crafting_shaped | handcrafted:chests handcrafted:oak_drawer minecraft:crafting_shaped minecraft:oak_planks minecraft:oak_slab
+handcrafted:oak_fancy_bed | minecraft:crafting_shaped | handcrafted:cushions handcrafted:oak_fancy_bed handcrafted:sheets minecraft:crafting_shaped minecraft:oak_planks minecraft:wool
+handcrafted:oak_nightstand | minecraft:crafting_shaped | handcrafted:chests handcrafted:oak_nightstand minecraft:crafting_shaped minecraft:oak_planks
+handcrafted:oak_pillar_trim | minecraft:crafting_shaped | handcrafted:oak_pillar_trim minecraft:crafting_shaped minecraft:oak_planks
+handcrafted:oak_shelf | minecraft:crafting_shaped | handcrafted:chests handcrafted:oak_shelf minecraft:crafting_shaped minecraft:oak_planks minecraft:oak_slab
+handcrafted:oak_side_table | minecraft:crafting_shaped | handcrafted:chests handcrafted:oak_side_table minecraft:crafting_shaped minecraft:oak_planks minecraft:oak_slab
+handcrafted:oak_table | minecraft:crafting_shaped | handcrafted:oak_table minecraft:crafting_shaped minecraft:oak_planks minecraft:stick
+handcrafted:orange_cushion | minecraft:crafting_shaped | handcrafted:orange_cushion minecraft:crafting_shaped minecraft:feather minecraft:orange_wool
+handcrafted:orange_sheet | minecraft:crafting_shapeless | handcrafted:orange_sheet minecraft:crafting_shapeless minecraft:orange_wool
+handcrafted:oven | minecraft:crafting_shaped | handcrafted:oven minecraft:brick minecraft:crafting_shaped minecraft:iron_bars minecraft:smoker
+handcrafted:phantom_trophy | minecraft:crafting_shaped | handcrafted:phantom_trophy minecraft:chain minecraft:crafting_shaped minecraft:phantom_membrane minecraft:planks
+handcrafted:pillager_trophy | minecraft:crafting_shaped | handcrafted:pillager_trophy minecraft:crafting_shaped minecraft:crossbow minecraft:stone
+handcrafted:pink_cushion | minecraft:crafting_shaped | handcrafted:pink_cushion minecraft:crafting_shaped minecraft:feather minecraft:pink_wool
+handcrafted:pink_sheet | minecraft:crafting_shapeless | handcrafted:pink_sheet minecraft:crafting_shapeless minecraft:pink_wool
+handcrafted:pufferfish_trophy | minecraft:crafting_shaped | handcrafted:pufferfish_trophy minecraft:crafting_shaped minecraft:planks minecraft:pufferfish
+handcrafted:purple_cushion | minecraft:crafting_shaped | handcrafted:purple_cushion minecraft:crafting_shaped minecraft:feather minecraft:purple_wool
+handcrafted:purple_sheet | minecraft:crafting_shapeless | handcrafted:purple_sheet minecraft:crafting_shapeless minecraft:purple_wool
+handcrafted:quartz_corner_trim | minecraft:crafting_shaped | handcrafted:quartz_corner_trim minecraft:crafting_shaped minecraft:quartz_block
+handcrafted:quartz_pillar_trim | minecraft:crafting_shaped | handcrafted:quartz_pillar_trim minecraft:crafting_shaped minecraft:quartz_block
+handcrafted:red_cushion | minecraft:crafting_shaped | handcrafted:red_cushion minecraft:crafting_shaped minecraft:feather minecraft:red_wool
+handcrafted:red_sandstone_corner_trim | minecraft:crafting_shaped | handcrafted:red_sandstone_corner_trim minecraft:crafting_shaped minecraft:red_sandstone
+handcrafted:red_sandstone_pillar_trim | minecraft:crafting_shaped | handcrafted:red_sandstone_pillar_trim minecraft:crafting_shaped minecraft:red_sandstone
+handcrafted:red_sheet | minecraft:crafting_shapeless | handcrafted:red_sheet minecraft:crafting_shapeless minecraft:red_wool
+handcrafted:salmon_trophy | minecraft:crafting_shaped | handcrafted:salmon_trophy minecraft:crafting_shaped minecraft:planks minecraft:salmon
+handcrafted:sandstone_corner_trim | minecraft:crafting_shaped | handcrafted:sandstone_corner_trim minecraft:crafting_shaped minecraft:sandstone
+handcrafted:sandstone_pillar_trim | minecraft:crafting_shaped | handcrafted:sandstone_pillar_trim minecraft:crafting_shaped minecraft:sandstone
+handcrafted:silverfish_trophy | minecraft:crafting_shaped | handcrafted:silverfish_trophy minecraft:chiseled_stone_bricks minecraft:crafting_shaped minecraft:planks
+handcrafted:skeleton_horse_trophy | minecraft:crafting_shaped | handcrafted:skeleton_horse_trophy minecraft:crafting_shaped minecraft:planks minecraft:saddle
+handcrafted:skeleton_trophy | minecraft:crafting_shaped | handcrafted:skeleton_trophy minecraft:crafting_shaped minecraft:skeleton_skull minecraft:stone
+handcrafted:spider_trophy | minecraft:crafting_shaped | handcrafted:spider_trophy minecraft:crafting_shaped minecraft:planks minecraft:spider_eye
+handcrafted:spruce_bench | minecraft:crafting_shaped | handcrafted:spruce_bench minecraft:crafting_shaped minecraft:spruce_planks minecraft:spruce_slab
+handcrafted:spruce_chair | minecraft:crafting_shaped | handcrafted:spruce_chair minecraft:crafting_shaped minecraft:spruce_planks minecraft:spruce_slab minecraft:stick
+handcrafted:spruce_corner_trim | minecraft:crafting_shaped | handcrafted:spruce_corner_trim minecraft:crafting_shaped minecraft:spruce_planks
+handcrafted:spruce_couch | minecraft:crafting_shaped | handcrafted:cushions handcrafted:spruce_couch minecraft:crafting_shaped minecraft:spruce_planks minecraft:wool
+handcrafted:spruce_counter | minecraft:crafting_shaped | handcrafted:chests handcrafted:spruce_counter minecraft:calcite minecraft:crafting_shaped minecraft:spruce_planks
+handcrafted:spruce_cupboard | minecraft:crafting_shaped | handcrafted:chests handcrafted:spruce_cupboard minecraft:crafting_shaped minecraft:spruce_planks
+handcrafted:spruce_desk | minecraft:crafting_shaped | handcrafted:chests handcrafted:spruce_desk minecraft:crafting_shaped minecraft:spruce_planks minecraft:spruce_slab
+handcrafted:spruce_dining_bench | minecraft:crafting_shaped | handcrafted:spruce_dining_bench minecraft:crafting_shaped minecraft:spruce_planks minecraft:spruce_slab
+handcrafted:spruce_drawer | minecraft:crafting_shaped | handcrafted:chests handcrafted:spruce_drawer minecraft:crafting_shaped minecraft:spruce_planks minecraft:spruce_slab
+handcrafted:spruce_fancy_bed | minecraft:crafting_shaped | handcrafted:cushions handcrafted:sheets handcrafted:spruce_fancy_bed minecraft:crafting_shaped minecraft:spruce_planks minecraft:wool
+handcrafted:spruce_nightstand | minecraft:crafting_shaped | handcrafted:chests handcrafted:spruce_nightstand minecraft:crafting_shaped minecraft:spruce_planks
+handcrafted:spruce_pillar_trim | minecraft:crafting_shaped | handcrafted:spruce_pillar_trim minecraft:crafting_shaped minecraft:spruce_planks
+handcrafted:spruce_shelf | minecraft:crafting_shaped | handcrafted:chests handcrafted:spruce_shelf minecraft:crafting_shaped minecraft:spruce_planks minecraft:spruce_slab
+handcrafted:spruce_side_table | minecraft:crafting_shaped | handcrafted:chests handcrafted:spruce_side_table minecraft:crafting_shaped minecraft:spruce_planks minecraft:spruce_slab
+handcrafted:spruce_table | minecraft:crafting_shaped | handcrafted:spruce_table minecraft:crafting_shaped minecraft:spruce_planks minecraft:stick
+handcrafted:stackable_book | minecraft:crafting_shapeless | handcrafted:stackable_book minecraft:book minecraft:crafting_shapeless
+handcrafted:stone_corner_trim | minecraft:crafting_shaped | handcrafted:stone_corner_trim minecraft:crafting_shaped minecraft:stone
+handcrafted:stone_pillar_trim | minecraft:crafting_shaped | handcrafted:stone_pillar_trim minecraft:crafting_shaped minecraft:stone
+handcrafted:terracotta_bowl | minecraft:crafting_shaped | handcrafted:terracotta_bowl minecraft:crafting_shaped minecraft:terracotta
+handcrafted:terracotta_crockery_combo | minecraft:crafting_shapeless | handcrafted:terracotta_crockery_combo handcrafted:terracotta_cup handcrafted:terracotta_plate minecraft:crafting_shapeless
+handcrafted:terracotta_cup | minecraft:crafting_shaped | handcrafted:terracotta_cup minecraft:crafting_shaped minecraft:terracotta
+handcrafted:terracotta_medium_pot | minecraft:crafting_shaped | handcrafted:terracotta_medium_pot minecraft:crafting_shaped minecraft:terracotta
+handcrafted:terracotta_plate | minecraft:crafting_shaped | handcrafted:terracotta_plate minecraft:crafting_shaped minecraft:terracotta
+handcrafted:terracotta_thick_pot | minecraft:crafting_shaped | handcrafted:terracotta_thick_pot minecraft:crafting_shaped minecraft:terracotta
+handcrafted:terracotta_thin_pot | minecraft:crafting_shaped | handcrafted:terracotta_thin_pot minecraft:crafting_shaped minecraft:terracotta
+handcrafted:terracotta_wide_pot | minecraft:crafting_shaped | handcrafted:terracotta_wide_pot minecraft:crafting_shaped minecraft:terracotta
+handcrafted:tropical_fish_trophy | minecraft:crafting_shaped | handcrafted:tropical_fish_trophy minecraft:crafting_shaped minecraft:planks minecraft:tropical_fish
+handcrafted:vindicator_trophy | minecraft:crafting_shaped | handcrafted:vindicator_trophy minecraft:crafting_shaped minecraft:iron_axe minecraft:stone
+handcrafted:warped_bench | minecraft:crafting_shaped | handcrafted:warped_bench minecraft:crafting_shaped minecraft:warped_planks minecraft:warped_slab
+handcrafted:warped_chair | minecraft:crafting_shaped | handcrafted:warped_chair minecraft:crafting_shaped minecraft:stick minecraft:warped_planks minecraft:warped_slab
+handcrafted:warped_corner_trim | minecraft:crafting_shaped | handcrafted:warped_corner_trim minecraft:crafting_shaped minecraft:warped_planks
+handcrafted:warped_couch | minecraft:crafting_shaped | handcrafted:cushions handcrafted:warped_couch minecraft:crafting_shaped minecraft:warped_planks minecraft:wool
+handcrafted:warped_counter | minecraft:crafting_shaped | handcrafted:chests handcrafted:warped_counter minecraft:calcite minecraft:crafting_shaped minecraft:warped_planks
+handcrafted:warped_cupboard | minecraft:crafting_shaped | handcrafted:chests handcrafted:warped_cupboard minecraft:crafting_shaped minecraft:warped_planks
+handcrafted:warped_desk | minecraft:crafting_shaped | handcrafted:chests handcrafted:warped_desk minecraft:crafting_shaped minecraft:warped_planks minecraft:warped_slab
+handcrafted:warped_dining_bench | minecraft:crafting_shaped | handcrafted:warped_dining_bench minecraft:crafting_shaped minecraft:warped_planks minecraft:warped_slab
+handcrafted:warped_drawer | minecraft:crafting_shaped | handcrafted:chests handcrafted:warped_drawer minecraft:crafting_shaped minecraft:warped_planks minecraft:warped_slab
+handcrafted:warped_fancy_bed | minecraft:crafting_shaped | handcrafted:cushions handcrafted:sheets handcrafted:warped_fancy_bed minecraft:crafting_shaped minecraft:warped_planks minecraft:wool
+handcrafted:warped_nightstand | minecraft:crafting_shaped | handcrafted:chests handcrafted:warped_nightstand minecraft:crafting_shaped minecraft:warped_planks
+handcrafted:warped_pillar_trim | minecraft:crafting_shaped | handcrafted:warped_pillar_trim minecraft:crafting_shaped minecraft:warped_planks
+handcrafted:warped_shelf | minecraft:crafting_shaped | handcrafted:chests handcrafted:warped_shelf minecraft:crafting_shaped minecraft:warped_planks minecraft:warped_slab
+handcrafted:warped_side_table | minecraft:crafting_shaped | handcrafted:chests handcrafted:warped_side_table minecraft:crafting_shaped minecraft:warped_planks minecraft:warped_slab
+handcrafted:warped_table | minecraft:crafting_shaped | handcrafted:warped_table minecraft:crafting_shaped minecraft:stick minecraft:warped_planks
+handcrafted:white_bowl | minecraft:crafting_shapeless | handcrafted:terracotta_bowl handcrafted:white_bowl minecraft:crafting_shapeless minecraft:white_dye
+handcrafted:white_crockery_combo | minecraft:crafting_shapeless | handcrafted:terracotta_crockery_combo handcrafted:white_crockery_combo minecraft:crafting_shapeless minecraft:white_dye
+handcrafted:white_cup | minecraft:crafting_shapeless | handcrafted:terracotta_cup handcrafted:white_cup minecraft:crafting_shapeless minecraft:white_dye
+handcrafted:white_cushion | minecraft:crafting_shaped | handcrafted:white_cushion minecraft:crafting_shaped minecraft:feather minecraft:white_wool
+handcrafted:white_glazed_medium_pot | minecraft:crafting_shapeless | handcrafted:terracotta_medium_pot handcrafted:white_glazed_medium_pot minecraft:crafting_shapeless minecraft:white_glazed_terracotta
+handcrafted:white_glazed_thick_pot | minecraft:crafting_shapeless | handcrafted:terracotta_thick_pot handcrafted:white_glazed_thick_pot minecraft:crafting_shapeless minecraft:white_glazed_terracotta
+handcrafted:white_glazed_thin_pot | minecraft:crafting_shapeless | handcrafted:terracotta_thin_pot handcrafted:white_glazed_thin_pot minecraft:crafting_shapeless minecraft:white_glazed_terracotta
+handcrafted:white_glazed_wide_pot | minecraft:crafting_shapeless | handcrafted:terracotta_wide_pot handcrafted:white_glazed_wide_pot minecraft:crafting_shapeless minecraft:white_glazed_terracotta
+handcrafted:white_plate | minecraft:crafting_shapeless | handcrafted:terracotta_plate handcrafted:white_plate minecraft:crafting_shapeless minecraft:white_dye
+handcrafted:white_sheet | minecraft:crafting_shapeless | handcrafted:white_sheet minecraft:crafting_shapeless minecraft:white_wool
+handcrafted:witch_trophy | minecraft:crafting_shaped | handcrafted:witch_trophy minecraft:crafting_shaped minecraft:glass_bottle minecraft:stone
+handcrafted:wither_skeleton_trophy | minecraft:crafting_shaped | handcrafted:wither_skeleton_trophy minecraft:crafting_shaped minecraft:planks minecraft:wither_skeleton_skull
+handcrafted:wolf_trophy | minecraft:crafting_shaped | handcrafted:wolf_trophy minecraft:bone minecraft:crafting_shaped minecraft:planks
+handcrafted:wood_bowl | minecraft:crafting_shaped | handcrafted:wood_bowl minecraft:crafting_shaped minecraft:planks minecraft:wooden_slabs
+handcrafted:wood_crockery_combo | minecraft:crafting_shapeless | handcrafted:wood_crockery_combo handcrafted:wood_cup handcrafted:wood_plate minecraft:crafting_shapeless
+handcrafted:wood_cup | minecraft:crafting_shaped | handcrafted:wood_cup minecraft:crafting_shaped minecraft:wooden_slabs
+handcrafted:wood_plate | minecraft:crafting_shaped | handcrafted:wood_plate minecraft:crafting_shaped minecraft:wooden_slabs
+handcrafted:yellow_bowl | minecraft:crafting_shapeless | handcrafted:terracotta_bowl handcrafted:yellow_bowl minecraft:crafting_shapeless minecraft:yellow_dye
+handcrafted:yellow_crockery_combo | minecraft:crafting_shapeless | handcrafted:terracotta_crockery_combo handcrafted:yellow_crockery_combo minecraft:crafting_shapeless minecraft:yellow_dye
+handcrafted:yellow_cup | minecraft:crafting_shapeless | handcrafted:terracotta_cup handcrafted:yellow_cup minecraft:crafting_shapeless minecraft:yellow_dye
+handcrafted:yellow_cushion | minecraft:crafting_shaped | handcrafted:yellow_cushion minecraft:crafting_shaped minecraft:feather minecraft:yellow_wool
+handcrafted:yellow_plate | minecraft:crafting_shapeless | handcrafted:terracotta_plate handcrafted:yellow_plate minecraft:crafting_shapeless minecraft:yellow_dye
+handcrafted:yellow_sheet | minecraft:crafting_shapeless | handcrafted:yellow_sheet minecraft:crafting_shapeless minecraft:yellow_wool
+minecraft:black_cushion_from_black_dye | minecraft:crafting_shapeless | handcrafted:black_cushion handcrafted:cushions minecraft:black_dye minecraft:crafting_shapeless
+minecraft:black_sheet_from_black_dye | minecraft:crafting_shapeless | handcrafted:black_sheet handcrafted:sheets minecraft:black_dye minecraft:crafting_shapeless
+minecraft:blue_cushion_from_blue_dye | minecraft:crafting_shapeless | handcrafted:blue_cushion handcrafted:cushions minecraft:blue_dye minecraft:crafting_shapeless
+minecraft:blue_sheet_from_blue_dye | minecraft:crafting_shapeless | handcrafted:blue_sheet handcrafted:sheets minecraft:blue_dye minecraft:crafting_shapeless
+minecraft:brown_cushion_from_brown_dye | minecraft:crafting_shapeless | handcrafted:brown_cushion handcrafted:cushions minecraft:brown_dye minecraft:crafting_shapeless
+minecraft:brown_sheet_from_brown_dye | minecraft:crafting_shapeless | handcrafted:brown_sheet handcrafted:sheets minecraft:brown_dye minecraft:crafting_shapeless
+minecraft:cyan_cushion_from_cyan_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:cyan_cushion minecraft:crafting_shapeless minecraft:cyan_dye
+minecraft:cyan_sheet_from_cyan_dye | minecraft:crafting_shapeless | handcrafted:cyan_sheet handcrafted:sheets minecraft:crafting_shapeless minecraft:cyan_dye
+minecraft:gray_cushion_from_gray_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:gray_cushion minecraft:crafting_shapeless minecraft:gray_dye
+minecraft:gray_sheet_from_gray_dye | minecraft:crafting_shapeless | handcrafted:gray_sheet handcrafted:sheets minecraft:crafting_shapeless minecraft:gray_dye
+minecraft:green_cushion_from_green_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:green_cushion minecraft:crafting_shapeless minecraft:green_dye
+minecraft:green_sheet_from_green_dye | minecraft:crafting_shapeless | handcrafted:green_sheet handcrafted:sheets minecraft:crafting_shapeless minecraft:green_dye
+minecraft:light_blue_cushion_from_light_blue_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:light_blue_cushion minecraft:crafting_shapeless minecraft:light_blue_dye
+minecraft:light_blue_sheet_from_light_blue_dye | minecraft:crafting_shapeless | handcrafted:light_blue_sheet handcrafted:sheets minecraft:crafting_shapeless minecraft:light_blue_dye
+minecraft:light_gray_cushion_from_light_gray_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:light_gray_cushion minecraft:crafting_shapeless minecraft:light_gray_dye
+minecraft:light_gray_sheet_from_light_gray_dye | minecraft:crafting_shapeless | handcrafted:light_gray_sheet handcrafted:sheets minecraft:crafting_shapeless minecraft:light_gray_dye
+minecraft:lime_cushion_from_lime_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:lime_cushion minecraft:crafting_shapeless minecraft:lime_dye
+minecraft:lime_sheet_from_lime_dye | minecraft:crafting_shapeless | handcrafted:lime_sheet handcrafted:sheets minecraft:crafting_shapeless minecraft:lime_dye
+minecraft:magenta_cushion_from_magenta_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:magenta_cushion minecraft:crafting_shapeless minecraft:magenta_dye
+minecraft:magenta_sheet_from_magenta_dye | minecraft:crafting_shapeless | handcrafted:magenta_sheet handcrafted:sheets minecraft:crafting_shapeless minecraft:magenta_dye
+minecraft:orange_cushion_from_orange_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:orange_cushion minecraft:crafting_shapeless minecraft:orange_dye
+minecraft:orange_sheet_from_orange_dye | minecraft:crafting_shapeless | handcrafted:orange_sheet handcrafted:sheets minecraft:crafting_shapeless minecraft:orange_dye
+minecraft:pink_cushion_from_pink_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:pink_cushion minecraft:crafting_shapeless minecraft:pink_dye
+minecraft:pink_sheet_from_pink_dye | minecraft:crafting_shapeless | handcrafted:pink_sheet handcrafted:sheets minecraft:crafting_shapeless minecraft:pink_dye
+minecraft:purple_cushion_from_purple_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:purple_cushion minecraft:crafting_shapeless minecraft:purple_dye
+minecraft:purple_sheet_from_purple_dye | minecraft:crafting_shapeless | handcrafted:purple_sheet handcrafted:sheets minecraft:crafting_shapeless minecraft:purple_dye
+minecraft:red_cushion_from_red_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:red_cushion minecraft:crafting_shapeless minecraft:red_dye
+minecraft:red_sheet_from_red_dye | minecraft:crafting_shapeless | handcrafted:red_sheet handcrafted:sheets minecraft:crafting_shapeless minecraft:red_dye
+minecraft:white_cushion_from_white_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:white_cushion minecraft:crafting_shapeless minecraft:white_dye
+minecraft:white_sheet_from_white_dye | minecraft:crafting_shapeless | handcrafted:sheets handcrafted:white_sheet minecraft:crafting_shapeless minecraft:white_dye
+minecraft:yellow_cushion_from_yellow_dye | minecraft:crafting_shapeless | handcrafted:cushions handcrafted:yellow_cushion minecraft:crafting_shapeless minecraft:yellow_dye
+minecraft:yellow_sheet_from_yellow_dye | minecraft:crafting_shapeless | handcrafted:sheets handcrafted:yellow_sheet minecraft:crafting_shapeless minecraft:yellow_dye

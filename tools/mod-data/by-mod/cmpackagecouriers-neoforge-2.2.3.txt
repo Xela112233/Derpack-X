@@ -1,0 +1,33 @@
+# cmpackagecouriers-neoforge-2.2.3
+
+## mod metadata (id / version / deps)
+license="Lambda License"
+modId="cmpackagecouriers"
+version="2.2.3"
+displayName="Create More: Package Couriers"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+modId="create"
+versionRange="[6.0.10,)"
+modId="supplementaries"
+versionRange="[1.21-3.5.14,)"
+
+## blocks
+
+## items
+cmpackagecouriers:address_sign
+cmpackagecouriers:cardboard_plane
+cmpackagecouriers:cardboard_plane_parts
+cmpackagecouriers:location_transmitter
+cmpackagecouriers:location_transmitter_enabled
+cmpackagecouriers:portable_stock_ticker
+cmpackagecouriers:rope_10x12
+cmpackagecouriers:rope_10x8
+cmpackagecouriers:rope_12x10
+cmpackagecouriers:rope_12x12
+
+## neoforge biome_modifiers
+
+## c: common tag membership

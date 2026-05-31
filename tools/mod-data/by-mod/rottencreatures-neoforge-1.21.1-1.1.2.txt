@@ -1,0 +1,71 @@
+# rottencreatures-neoforge-1.21.1-1.1.2
+
+## mod metadata (id / version / deps)
+license = "ARR"
+modId = "rottencreatures"
+version = "1.1.2"
+displayName = "RottenCreatures"
+modId = "neoforge"
+versionRange = "[21.1,)"
+modId = "minecraft"
+versionRange = "[1.21.1,)"
+modId = "platform"
+versionRange = "[1.2.10.2,)"
+
+## blocks
+rottencreatures:burned_head
+rottencreatures:burned_wall_head
+rottencreatures:dead_beard_head
+rottencreatures:dead_beard_wall_head
+rottencreatures:frostbitten_head
+rottencreatures:frostbitten_wall_head
+rottencreatures:glacial_hunter_head
+rottencreatures:glacial_hunter_wall_head
+rottencreatures:immortal_head
+rottencreatures:immortal_wall_head
+rottencreatures:mummy_head
+rottencreatures:mummy_wall_head
+rottencreatures:swampy_head
+rottencreatures:swampy_wall_head
+rottencreatures:tnt_barrel
+rottencreatures:treasure_chest
+rottencreatures:undead_miner_head
+rottencreatures:undead_miner_wall_head
+rottencreatures:zap_head
+rottencreatures:zap_wall_head
+
+## items
+rottencreatures:burned_head
+rottencreatures:burned_spawn_egg
+rottencreatures:corrupted_wart
+rottencreatures:dead_beard_head
+rottencreatures:dead_beard_spawn_egg
+rottencreatures:frostbitten_head
+rottencreatures:frostbitten_spawn_egg
+rottencreatures:frozen_rotten_flesh
+rottencreatures:glacial_hunter_head
+rottencreatures:glacial_hunter_spawn_egg
+rottencreatures:hunter_wolf_spawn_egg
+rottencreatures:immortal_head
+rottencreatures:immortal_spawn_egg
+rottencreatures:magma_rotten_flesh
+rottencreatures:mummy_head
+rottencreatures:mummy_spawn_egg
+rottencreatures:scarab_spawn_egg
+rottencreatures:skeleton_lackey_spawn_egg
+rottencreatures:spear
+rottencreatures:spear_in_hand
+rottencreatures:spear_inventory
+rottencreatures:swampy_head
+rottencreatures:swampy_spawn_egg
+rottencreatures:tnt_barrel
+rottencreatures:treasure_chest
+rottencreatures:undead_miner_head
+rottencreatures:undead_miner_spawn_egg
+rottencreatures:zap_head
+rottencreatures:zap_spawn_egg
+rottencreatures:zombie_lackey_spawn_egg
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,21 @@
+# [Neoforge]ctov-3.6.3
+
+## mod metadata (id / version / deps)
+license="BY-NC-ND-4.0"
+modId="ctov" #mandatory
+version="3.6.3" #mandatory
+displayName="ChoiceTheorem's Overhauled Village" #mandatory
+modId= "lithostitched"
+versionRange="[1.5,)"
+modId="neoforge" #mandatory
+versionRange="[21.0.0,)" #mandatory
+modId="minecraft"
+versionRange="[1.21,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

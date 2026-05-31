@@ -1,0 +1,17 @@
+fluid:centrifugal_pump | minecraft:crafting_shaped | c:storage_blocks/copper create:propeller create:shaft fluid:centrifugal_pump minecraft:crafting_shaped
+fluid:compacting/honey_comb | create:compacting | create:compacting create:honey fluid:honeycomb_mold minecraft:honeycomb
+fluid:compacting/powder_snow_melt | create:compacting | create:compacting fluid:powder_snow minecraft:snow_block
+fluid:copper_sink | minecraft:crafting_shaped | c:plates/copper fluid:copper_sink minecraft:crafting_shaped minecraft:water_bucket
+fluid:copper_tap | minecraft:crafting_shaped | c:ingots/copper c:plates/copper fluid:copper_tap minecraft:crafting_shaped minecraft:dried_kelp
+fluid:deploying/honeycomb_mold | create:deploying | c:plates/iron create:deploying fluid:honeycomb_mold minecraft:shears
+fluid:fluid_interface | minecraft:crafting_shaped | c:ingots/copper c:nuggets/copper fluid:fluid_interface minecraft:crafting_shaped
+fluid:gutter_outlet | minecraft:crafting_shaped | c:plates/copper create:copper_casing fluid:gutter_outlet minecraft:crafting_shaped
+fluid:mechanical_crafting/baton | create:mechanical_crafting | c:glass_blocks c:ingots/brass c:obsidians create:electron_tube create:mechanical_crafting fluid:baton
+fluid:mechanical_pipette | minecraft:crafting_shaped | c:ingots/copper c:plates/brass create:brass_casing create:precision_mechanism fluid:pipette minecraft:crafting_shaped
+fluid:mixing/powder_snow_melt | create:mixing | create:mixing fluid:powder_snow minecraft:water
+fluid:mixing/snow_ball_to_powder_snow | create:mixing | create:mixing fluid:powder_snow minecraft:snowball
+fluid:mixing/snow_to_powder_snow | create:mixing | create:mixing fluid:powder_snow minecraft:snow_block
+fluid:redstone_triple_valve | minecraft:crafting_shapeless | create:fluid_pipe fluid:redstone_triple_valve fluid:redstone_valve minecraft:crafting_shapeless
+fluid:redstone_valve | minecraft:crafting_shapeless | c:dusts/redstone create:fluid_pipe fluid:redstone_valve minecraft:crafting_shapeless
+fluid:smart_fluid_interface | minecraft:crafting_shaped | c:plates/brass create:electron_tube fluid:fluid_interface fluid:smart_fluid_interface minecraft:crafting_shaped
+fluid:smart_gutter_outlet | minecraft:crafting_shaped | c:plates/brass create:electron_tube fluid:gutter_outlet fluid:smart_gutter_outlet minecraft:crafting_shaped

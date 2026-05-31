@@ -1,0 +1,30 @@
+# everycomp-1.21-2.11.40-neoforge
+
+## mod metadata (id / version / deps)
+license = "Supplementaries Team License v.1.1"
+modId = "everycomp"
+version = "1.21-2.11.40"
+displayName = "Every Compat"
+modId = "neoforge"
+versionRange = "[4,)"
+modId = "minecraft"
+versionRange = "[1.21,1.21.2)"
+modId = "moonlight"
+versionRange = "[1.21-2.29.0,]"
+modId = "create"
+versionRange = "[1.21.1-6.0.2,]"
+modId = "mcwdoors"
+versionRange = "[1.1.2,]"
+modId = "mcwtrpdoors"
+versionRange = "[1.1.4,]"
+modId = "blockus"
+versionRange = "[2.9.11,]"
+
+## blocks
+
+## items
+everycomp:all_woods
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,292 @@
+# GrimoireOfGaia4-1.21.1-6.0.0-alpha.9
+
+## mod metadata (id / version / deps)
+license="Assets: ARR, Code: Creative Commons 0"
+modId="grimoireofgaia"
+version="${file.jarVersion}"
+displayName="Grimoire of Gaia 4"
+modId="neoforge"
+versionRange="[21.0.110-beta,)"
+
+## blocks
+grimoireofgaia:bust_gorgon
+grimoireofgaia:bust_minotaur
+grimoireofgaia:bust_sphinx
+grimoireofgaia:bust_valkyrie
+grimoireofgaia:bust_vampire
+grimoireofgaia:deco_garden_gnome
+grimoireofgaia:deco_mandragora_pot
+grimoireofgaia:deco_nest_harpy
+grimoireofgaia:doll_creeper_girl
+grimoireofgaia:doll_dryad
+grimoireofgaia:doll_dullahan
+grimoireofgaia:doll_ender_girl
+grimoireofgaia:doll_maid
+grimoireofgaia:doll_mermaid
+grimoireofgaia:doll_nine_tails
+grimoireofgaia:doll_slime_girl
+grimoireofgaia:pearl_block
+
+## items
+grimoireofgaia:ant_hill_spawn_egg
+grimoireofgaia:ant_salvager_spawn_egg
+grimoireofgaia:ant_spawn_egg
+grimoireofgaia:anubis_spawn_egg
+grimoireofgaia:arachne_spawn_egg
+grimoireofgaia:bag_arrows
+grimoireofgaia:bag_book
+grimoireofgaia:bag_record
+grimoireofgaia:banshee_spawn_egg
+grimoireofgaia:bee_spawn_egg
+grimoireofgaia:behender_spawn_egg
+grimoireofgaia:bone_knight_spawn_egg
+grimoireofgaia:bone_shield
+grimoireofgaia:bone_shield_blocking
+grimoireofgaia:book_of_memory
+grimoireofgaia:box_diamond
+grimoireofgaia:box_egg
+grimoireofgaia:box_end
+grimoireofgaia:box_gold
+grimoireofgaia:box_hat
+grimoireofgaia:box_iron
+grimoireofgaia:box_nether
+grimoireofgaia:box_old
+grimoireofgaia:box_overworld
+grimoireofgaia:broom
+grimoireofgaia:bust_gorgon
+grimoireofgaia:bust_minotaur
+grimoireofgaia:bust_sphinx
+grimoireofgaia:bust_valkyrie
+grimoireofgaia:bust_vampire
+grimoireofgaia:cave_spider_staff
+grimoireofgaia:cecaelia_spawn_egg
+grimoireofgaia:centaur_spawn_egg
+grimoireofgaia:chest
+grimoireofgaia:chest_desert
+grimoireofgaia:chest_dungeon
+grimoireofgaia:chest_jungle
+grimoireofgaia:chest_spawn_egg
+grimoireofgaia:cobble_golem_spawn_egg
+grimoireofgaia:cobblestone_golem_spawn_egg
+grimoireofgaia:creep_spawn_egg
+grimoireofgaia:cursed_metal_sword
+grimoireofgaia:cyan_flower_spawn_egg
+grimoireofgaia:cyclops_spawn_egg
+grimoireofgaia:deathword_spawn_egg
+grimoireofgaia:deco_garden_gnome
+grimoireofgaia:deco_mandragora_pot
+grimoireofgaia:deco_nest_harpy
+grimoireofgaia:diamond_shard
+grimoireofgaia:doll_creeper_girl
+grimoireofgaia:doll_dryad
+grimoireofgaia:doll_dullahan
+grimoireofgaia:doll_ender_girl
+grimoireofgaia:doll_maid
+grimoireofgaia:doll_mermaid
+grimoireofgaia:doll_nine_tails
+grimoireofgaia:doll_slime_girl
+grimoireofgaia:dryad_spawn_egg
+grimoireofgaia:dullahan_spawn_egg
+grimoireofgaia:dwarf_spawn_egg
+grimoireofgaia:elytra_fragment
+grimoireofgaia:emerald_shard
+grimoireofgaia:ender_dragon_girl_spawn_egg
+grimoireofgaia:ender_eye_spawn_egg
+grimoireofgaia:experience_diamond
+grimoireofgaia:experience_gold
+grimoireofgaia:experience_iron
+grimoireofgaia:fan
+grimoireofgaia:fan_fire
+grimoireofgaia:fan_ice
+grimoireofgaia:fireshard
+grimoireofgaia:flesh_lich_spawn_egg
+grimoireofgaia:fur
+grimoireofgaia:gelatinous_slime_spawn_egg
+grimoireofgaia:giga_gear
+grimoireofgaia:goblin_feral_spawn_egg
+grimoireofgaia:goblin_spawn_egg
+grimoireofgaia:gold_shield
+grimoireofgaia:gold_shield_blocking
+grimoireofgaia:golden_apple_pie
+grimoireofgaia:golden_apple_pie_slice
+grimoireofgaia:gravemite_spawn_egg
+grimoireofgaia:gryphon_spawn_egg
+grimoireofgaia:harpy_spawn_egg
+grimoireofgaia:headgear_arrow
+grimoireofgaia:headgear_bolt
+grimoireofgaia:headgear_book
+grimoireofgaia:headgear_doll
+grimoireofgaia:headgear_ears_elf
+grimoireofgaia:headgear_mob
+grimoireofgaia:heavy_barbell
+grimoireofgaia:holstaurus_token
+grimoireofgaia:honeydew
+grimoireofgaia:horse_spawn_egg
+grimoireofgaia:hunter_spawn_egg
+grimoireofgaia:iron_shield
+grimoireofgaia:iron_shield_blocking
+grimoireofgaia:knuckles
+grimoireofgaia:kobold_spawn_egg
+grimoireofgaia:magic_staff
+grimoireofgaia:mandragora_spawn_egg
+grimoireofgaia:mandrake
+grimoireofgaia:matango_spawn_egg
+grimoireofgaia:meat
+grimoireofgaia:mermaid_spawn_egg
+grimoireofgaia:metal_club
+grimoireofgaia:metal_dagger
+grimoireofgaia:mimic_spawn_egg
+grimoireofgaia:minotaur_hammer
+grimoireofgaia:minotaur_spawn_egg
+grimoireofgaia:minotaurus_spawn_egg
+grimoireofgaia:monster_feed
+grimoireofgaia:mummy_spawn_egg
+grimoireofgaia:naga_spawn_egg
+grimoireofgaia:nether_wart_jam
+grimoireofgaia:nine_tails_spawn_egg
+grimoireofgaia:oni_spawn_egg
+grimoireofgaia:orc_spawn_egg
+grimoireofgaia:pearl_block
+grimoireofgaia:premium_monster_feed
+grimoireofgaia:projectile_bomb
+grimoireofgaia:projectile_bubble
+grimoireofgaia:projectile_magic
+grimoireofgaia:projectile_poison
+grimoireofgaia:projectile_random_magic
+grimoireofgaia:projectile_web
+grimoireofgaia:quill
+grimoireofgaia:ring_of_haste
+grimoireofgaia:ring_of_jump
+grimoireofgaia:ring_of_night
+grimoireofgaia:ring_of_speed
+grimoireofgaia:rotten_heart
+grimoireofgaia:satyress_spawn_egg
+grimoireofgaia:seashell_hairpin
+grimoireofgaia:seashell_hairpin_available
+grimoireofgaia:seashell_hairpin_unavailable
+grimoireofgaia:shaman_spawn_egg
+grimoireofgaia:sharko_spawn_egg
+grimoireofgaia:shield
+grimoireofgaia:shiny_pearl
+grimoireofgaia:siren_spawn_egg
+grimoireofgaia:skeleton_staff
+grimoireofgaia:sludge_girl_spawn_egg
+grimoireofgaia:soulfire
+grimoireofgaia:spawn_creeper_girl
+grimoireofgaia:spawn_ender_girl
+grimoireofgaia:spawn_slime_girl
+grimoireofgaia:spawn_trader
+grimoireofgaia:sphinx_spawn_egg
+grimoireofgaia:sporeling_spawn_egg
+grimoireofgaia:spriggan_spawn_egg
+grimoireofgaia:stone_coal
+grimoireofgaia:stone_shield
+grimoireofgaia:stone_shield_blocking
+grimoireofgaia:succubus_spawn_egg
+grimoireofgaia:taproot
+grimoireofgaia:toad_spawn_egg
+grimoireofgaia:totem_of_undying_fragment
+grimoireofgaia:trader_token
+grimoireofgaia:valkyrie_spawn_egg
+grimoireofgaia:weapon_book
+grimoireofgaia:weapon_book_battle
+grimoireofgaia:weapon_book_buff
+grimoireofgaia:weapon_book_ender
+grimoireofgaia:weapon_book_freezing
+grimoireofgaia:weapon_book_hunger
+grimoireofgaia:weapon_book_metal
+grimoireofgaia:weapon_book_nature
+grimoireofgaia:weapon_book_nightmare
+grimoireofgaia:weapon_book_wither
+grimoireofgaia:weapon_prop_enchanted
+grimoireofgaia:werecat_spawn_egg
+grimoireofgaia:weresheep_token
+grimoireofgaia:witch_spawn_egg
+grimoireofgaia:wither_cow_spawn_egg
+grimoireofgaia:withered_brain
+grimoireofgaia:wizard_harpy_spawn_egg
+grimoireofgaia:yuki_onna_spawn_egg
+grimoireofgaia:zombie_staff
+
+## neoforge biome_modifiers
+add_ant_hill.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:is_badlands" ], "spawners": { "type": "grimoireofgaia:ant_hill", "maxCount": 1, "minCount": 1, "weight": 20 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_sandy" ]}
+add_ant_salvager.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:is_badlands" ], "spawners": { "type": "grimoireofgaia:ant_salvager", "maxCount": 5, "minCount": 2, "weight": 20 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_sandy" ]}
+add_anubis.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:is_badlands" ], "spawners": { "type": "grimoireofgaia:anubis", "maxCount": 4, "minCount": 2, "weight": 20 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_sandy" ]}
+add_arachne.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:has_structure/ancient_city", "#c:is_mushroom", "#c:no_default_monsters" ], "spawners": { "type": "grimoireofgaia:arachne", "maxCount": 2, "minCount": 1, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld" ]}
+add_badlands_centaur.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:centaur", "maxCount": 6, "minCount": 4, "weight": 20 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_badlands" ]}
+add_badlands_harpy.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:harpy", "maxCount": 4, "minCount": 2, "weight": 100 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_badlands" ]}
+add_badlands_minotaur.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:minotaur", "maxCount": 1, "minCount": 1, "weight": 10 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_badlands" ]}
+add_badlands_minotaurus.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:minotaurus", "maxCount": 4, "minCount": 2, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_badlands" ]}
+add_badlands_satyress.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:satyress", "maxCount": 4, "minCount": 2, "weight": 20 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_badlands" ]}
+add_banshee.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_cold", "#c:is_hot", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:banshee", "maxCount": 4, "minCount": 2, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_plateau" ]}
+add_bee.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_tree/coniferous", "#c:is_cold/overworld", "#c:is_hot/overworld", "#c:is_sparse_vegetation", "#c:is_spooky", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:bee", "maxCount": 4, "minCount": 2, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest" ]}
+add_behender.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:behender", "maxCount": 1, "minCount": 1, "weight": 1 }, "whitelist": [ "#minecraft:is_end", "#c:is_cold/end", "#c:is_dry/end" ]}
+add_bone_knight.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:has_structure/ancient_city", "#c:is_mushroom", "#c:no_default_monsters" ], "spawners": { "type": "grimoireofgaia:bone_knight", "maxCount": 2, "minCount": 1, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld" ]}
+add_cecaelia.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:cecaelia", "maxCount": 6, "minCount": 4, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_beach" ]}
+add_cobblestone_golem.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:cobblestone_golem", "maxCount": 4, "minCount": 2, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_jungle" ]}
+add_cobble_golem.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:cobble_golem", "maxCount": 4, "minCount": 2, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_jungle" ]}
+add_coniferous_forest_mandragora.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_snowy" ], "spawners": { "type": "grimoireofgaia:cyan_flower", "maxCount": 2, "minCount": 1, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_tree/coniferous" ]}
+add_creep.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:has_structure/ancient_city", "#c:is_mushroom", "#c:no_default_monsters" ], "spawners": { "type": "grimoireofgaia:creep", "maxCount": 4, "minCount": 2, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld" ]}
+add_cyclops.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_snowy" ], "spawners": { "type": "grimoireofgaia:cyclops", "maxCount": 6, "minCount": 4, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_tree/coniferous" ]}
+add_deathword.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:has_structure/ancient_city", "#c:is_mushroom", "#c:no_default_monsters" ], "spawners": { "type": "grimoireofgaia:deathword", "maxCount": 2, "minCount": 1, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld" ]}
+add_dense_forest_bee.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_tree/coniferous", "#c:is_cold", "#c:is_hot", "#c:is_sparse_vegetation", "#c:is_spooky" ], "spawners": { "type": "grimoireofgaia:bee", "maxCount": 4, "minCount": 2, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_dense_vegetation", "#c:is_rare" ]}
+add_dense_forest_dryad.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_tree/coniferous", "#c:is_cold", "#c:is_hot", "#c:is_sparse_vegetation", "#c:is_spooky" ], "spawners": { "type": "grimoireofgaia:dryad", "maxCount": 6, "minCount": 4, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_dense_vegetation", "#c:is_rare" ]}
+add_dense_forest_mandragora.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_tree/coniferous", "#c:is_cold", "#c:is_hot", "#c:is_sparse_vegetation", "#c:is_spooky" ], "spawners": { "type": "grimoireofgaia:cyan_flower", "maxCount": 2, "minCount": 1, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_dense_vegetation", "#c:is_rare" ]}
+add_dense_forest_spriggan.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_tree/coniferous", "#c:is_cold", "#c:is_hot", "#c:is_sparse_vegetation", "#c:is_spooky" ], "spawners": { "type": "grimoireofgaia:spriggan", "maxCount": 4, "minCount": 2, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_dense_vegetation", "#c:is_rare" ]}
+add_dense_forest_werecat.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_tree/coniferous", "#c:is_cold", "#c:is_hot", "#c:is_sparse_vegetation", "#c:is_spooky" ], "spawners": { "type": "grimoireofgaia:werecat", "maxCount": 6, "minCount": 4, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_dense_vegetation", "#c:is_rare" ]}
+add_dryad.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_tree/coniferous", "#c:is_cold/overworld", "#c:is_hot/overworld", "#c:is_sparse_vegetation", "#c:is_spooky", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:dryad", "maxCount": 6, "minCount": 4, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest" ]}
+add_dullahan.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_cold", "#c:is_hot", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:dullahan", "maxCount": 6, "minCount": 4, "weight": 100 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_plateau" ]}
+add_dwarf.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_cold", "#c:is_hot", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:dwarf", "maxCount": 6, "minCount": 4, "weight": 30 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_plateau" ]}
+add_ender_dragon_girl.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:ender_dragon_girl", "maxCount": 1, "minCount": 1, "weight": 1 }, "whitelist": [ "#minecraft:is_end", "#c:is_cold/end", "#c:is_dry/end" ]}
+add_ender_eye.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:has_structure/ancient_city", "#c:is_mushroom", "#c:no_default_monsters" ], "spawners": { "type": "grimoireofgaia:ender_eye", "maxCount": 4, "minCount": 2, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld" ]}
+add_flesh_lich.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:has_structure/ancient_city", "#c:is_mushroom", "#c:no_default_monsters" ], "spawners": { "type": "grimoireofgaia:flesh_lich", "maxCount": 2, "minCount": 1, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld" ]}
+add_forest_harpy.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:harpy", "maxCount": 4, "minCount": 2, "weight": 100 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_spooky" ]}
+add_forest_mandragora.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_tree/coniferous", "#c:is_cold/overworld", "#c:is_hot/overworld", "#c:is_sparse_vegetation", "#c:is_spooky", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:cyan_flower", "maxCount": 2, "minCount": 1, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest" ]}
+add_forest_minotaur.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:minotaur", "maxCount": 1, "minCount": 1, "weight": 10 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_spooky" ]}
+add_forest_minotaurus.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:minotaurus", "maxCount": 4, "minCount": 2, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_spooky" ]}
+add_gelatinous_slime.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:gelatinous_slime", "maxCount": 2, "minCount": 1, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_swamp" ]}
+add_goblin.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:goblin", "maxCount": 6, "minCount": 2, "weight": 30 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_savanna" ]}
+add_gryphon.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_cold", "#c:is_hot", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:gryphon", "maxCount": 2, "minCount": 1, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_plateau" ]}
+add_hunter.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:hunter", "maxCount": 4, "minCount": 2, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_jungle" ]}
+add_kobold.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:is_ocean", "#minecraft:is_river", "#minecraft:is_beach", "#minecraft:is_forest" ], "spawners": { "type": "grimoireofgaia:kobold", "maxCount": 6, "minCount": 4, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_snowy" ]}
+add_matango.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:matango", "maxCount": 4, "minCount": 2, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_spooky" ]}
+add_mermaid.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:mermaid", "maxCount": 4, "minCount": 2, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_beach" ]}
+add_mimic.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:has_structure/ancient_city", "#c:is_mushroom", "#c:no_default_monsters" ], "spawners": { "type": "grimoireofgaia:mimic", "maxCount": 1, "minCount": 1, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld" ]}
+add_mountain_banshee.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_hot", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:banshee", "maxCount": 4, "minCount": 2, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_mountain" ]}
+add_mountain_dullahan.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_hot", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:dullahan", "maxCount": 6, "minCount": 4, "weight": 100 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_mountain" ]}
+add_mountain_dwarf.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_hot", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:dwarf", "maxCount": 6, "minCount": 4, "weight": 30 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_mountain" ]}
+add_mountain_gryphon.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_hot", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:gryphon", "maxCount": 2, "minCount": 1, "weight": 100 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_mountain" ]}
+add_mountain_valkyrie.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_hot", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:valkyrie", "maxCount": 2, "minCount": 1, "weight": 10 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_mountain" ]}
+add_mummy.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:is_badlands" ], "spawners": { "type": "grimoireofgaia:mummy", "maxCount": 4, "minCount": 2, "weight": 100 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_sandy" ]}
+add_naga.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:naga", "maxCount": 2, "minCount": 1, "weight": 30 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_swamp" ]}
+add_nine_tails.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_snowy" ], "spawners": { "type": "grimoireofgaia:nine_tails", "maxCount": 4, "minCount": 2, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_tree/coniferous" ]}
+add_oni.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_snowy" ], "spawners": { "type": "grimoireofgaia:oni", "maxCount": 6, "minCount": 4, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_tree/coniferous" ]}
+add_orc.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:orc", "maxCount": 6, "minCount": 2, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_savanna" ]}
+add_plains_centaur.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:is_savanna" ], "spawners": { "type": "grimoireofgaia:centaur", "maxCount": 6, "minCount": 4, "weight": 20 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_plains" ]}
+add_plains_harpy.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:is_savanna" ], "spawners": { "type": "grimoireofgaia:harpy", "maxCount": 4, "minCount": 2, "weight": 100 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_plains" ]}
+add_plains_minotaur.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:is_savanna" ], "spawners": { "type": "grimoireofgaia:minotaur", "maxCount": 1, "minCount": 1, "weight": 10 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_plains" ]}
+add_plains_minotaurus.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:is_savanna" ], "spawners": { "type": "grimoireofgaia:minotaurus", "maxCount": 4, "minCount": 2, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_plains" ]}
+add_plains_satyress.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:is_savanna" ], "spawners": { "type": "grimoireofgaia:satyress", "maxCount": 4, "minCount": 2, "weight": 20 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_plains" ]}
+add_shaman.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:shaman", "maxCount": 4, "minCount": 2, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_jungle" ]}
+add_sharko.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:sharko", "maxCount": 4, "minCount": 2, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_beach" ]}
+add_siren.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:siren", "maxCount": 6, "minCount": 4, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_swamp" ]}
+add_sludge_girl.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:sludge_girl", "maxCount": 4, "minCount": 2, "weight": 100 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_swamp" ]}
+add_sphinx.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#minecraft:is_badlands" ], "spawners": { "type": "grimoireofgaia:sphinx", "maxCount": 1, "minCount": 1, "weight": 10 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_sandy" ]}
+add_spriggan.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_tree/coniferous", "#c:is_cold/overworld", "#c:is_hot/overworld", "#c:is_sparse_vegetation", "#c:is_spooky", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:spriggan", "maxCount": 4, "minCount": 2, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest" ]}
+add_succubus.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:succubus", "maxCount": 4, "minCount": 2, "weight": 16 }, "whitelist": [ "#minecraft:is_nether" ]}
+add_toad.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:toad", "maxCount": 4, "minCount": 2, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_spooky" ]}
+add_valkyrie.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_cold", "#c:is_hot", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:valkyrie", "maxCount": 2, "minCount": 1, "weight": 10 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_plateau" ]}
+add_water_cecaelia.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:cecaelia", "maxCount": 6, "minCount": 4, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_aquatic" ]}
+add_water_mermaid.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:mermaid", "maxCount": 4, "minCount": 2, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_aquatic" ]}
+add_water_sharko.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:sharko", "maxCount": 4, "minCount": 2, "weight": 40 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_aquatic" ]}
+add_werecat.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_tree/coniferous", "#c:is_cold/overworld", "#c:is_hot/overworld", "#c:is_sparse_vegetation", "#c:is_spooky", "#c:is_dense_vegetation" ], "spawners": { "type": "grimoireofgaia:werecat", "maxCount": 6, "minCount": 4, "weight": 80 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest" ]}
+add_witch.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:witch", "maxCount": 4, "minCount": 2, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_spooky" ]}
+add_wither_cow.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:wither_cow", "maxCount": 4, "minCount": 2, "weight": 12 }, "whitelist": [ "#minecraft:is_nether" ]}
+add_wizard_harpy.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [], "spawners": { "type": "grimoireofgaia:wizard_harpy", "maxCount": 2, "minCount": 1, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#minecraft:is_forest", "#c:is_spooky" ]}
+add_yuki_onna.json :: { "type": "grimoireofgaia:add_configured_spawns", "blacklist": [ "#c:is_snowy" ], "spawners": { "type": "grimoireofgaia:yuki_onna", "maxCount": 4, "minCount": 2, "weight": 60 }, "whitelist": [ "#minecraft:is_overworld", "#c:is_tree/coniferous" ]}
+
+## c: common tag membership
+item/nuggets/diamond.json :: { "values": [ "grimoireofgaia:diamond_shard" ]}
+item/nuggets/emerald.json :: { "values": [ "grimoireofgaia:emerald_shard" ]}
+item/nuggets.json :: { "values": [ "#c:nuggets/diamond", "#c:nuggets/emerald" ]}
+item/records.json :: { "values": [ "minecraft:music_disc_13", "minecraft:music_disc_cat", "minecraft:music_disc_blocks", "minecraft:music_disc_chirp", "minecraft:music_disc_far", "minecraft:music_disc_mall", "minecraft:music_disc_mellohi", "minecraft:music_disc_stal", "minecraft:music_disc_strad", "minecraft:music_disc_ward", "minecraft:music_disc_11", "minecraft:music_disc_wait", "minecraft:music_disc_otherside", "minecraft:music_disc_pigstep" ]}

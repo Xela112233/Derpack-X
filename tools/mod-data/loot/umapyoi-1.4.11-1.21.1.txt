@@ -1,0 +1,32 @@
+umapyoi:blocks/disassembly_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/disassembly_block umapyoi:disassembly_block
+umapyoi:blocks/factor_decompose_table | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/factor_decompose_table umapyoi:factor_decompose_table
+umapyoi:blocks/factor_research_table | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/factor_research_table umapyoi:factor_research_table
+umapyoi:blocks/gate | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion umapyoi:blocks/gate umapyoi:gate
+umapyoi:blocks/gate_door | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/gate_door umapyoi:gate_door
+umapyoi:blocks/race_register | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/race_register umapyoi:race_register
+umapyoi:blocks/register_lectern | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/register_lectern umapyoi:register_lectern
+umapyoi:blocks/silver_support_album_pedestal | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/silver_support_album_pedestal umapyoi:silver_uma_pedestal
+umapyoi:blocks/silver_uma_pedestal | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/silver_uma_pedestal umapyoi:silver_uma_pedestal
+umapyoi:blocks/skill_learning_table | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/skill_learning_table umapyoi:skill_learning_table
+umapyoi:blocks/support_album_pedestal | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/support_album_pedestal umapyoi:uma_pedestal
+umapyoi:blocks/three_goddess | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/three_goddess umapyoi:three_goddess
+umapyoi:blocks/training_facility | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/training_facility umapyoi:training_facility
+umapyoi:blocks/uma_pedestal | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/uma_pedestal umapyoi:uma_pedestal
+umapyoi:blocks/uma_select_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/uma_select_block umapyoi:uma_select_block
+umapyoi:blocks/uma_statues | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion umapyoi:blocks/uma_statues umapyoi:uma_statue
+umapyoi:complex_skills | minecraft:chest | minecraft:chest minecraft:item minecraft:uniform umapyoi:complex_skills umapyoi:skill_book umapyoi:umaskill_with_level
+umapyoi:grant_book_on_first_join | advancement_reward | patchouli:guide_book umapyoi:trainers_manual
+umapyoi:race/generic/race_debut | minecraft:generic | minecraft:copper_ingot minecraft:generic minecraft:iron_ingot
+umapyoi:race/generic/race_gi | minecraft:generic | minecraft:diamond minecraft:emerald minecraft:generic umapyoi:jewel
+umapyoi:race/generic/race_gii | minecraft:generic | minecraft:diamond minecraft:generic minecraft:gold_ingot minecraft:iron_ingot umapyoi:jewel
+umapyoi:race/generic/race_giii | minecraft:generic | minecraft:generic minecraft:gold_ingot minecraft:iron_ingot umapyoi:jewel
+umapyoi:race/generic/race_op | minecraft:generic | minecraft:copper_ingot minecraft:generic minecraft:iron_ingot
+umapyoi:race/generic/race_preop | minecraft:generic | minecraft:copper_ingot minecraft:generic minecraft:iron_ingot
+umapyoi:race/ticket/race_ticket_end | minecraft:chest | minecraft:chest minecraft:item minecraft:uniform umapyoi:race_ticket umapyoi:race_ticket_random
+umapyoi:race/ticket/race_ticket_up_to_gi | minecraft:chest | minecraft:chest minecraft:item minecraft:uniform umapyoi:race_ticket umapyoi:race_ticket_random
+umapyoi:race/ticket/race_ticket_up_to_gii | minecraft:chest | minecraft:chest minecraft:item minecraft:uniform umapyoi:race_ticket umapyoi:race_ticket_random
+umapyoi:race/ticket/race_ticket_up_to_giii | minecraft:chest | minecraft:chest minecraft:item minecraft:uniform umapyoi:race_ticket umapyoi:race_ticket_random
+umapyoi:race/ticket/race_ticket_up_to_op | minecraft:chest | minecraft:chest minecraft:item minecraft:uniform umapyoi:race_ticket umapyoi:race_ticket_random
+umapyoi:race/ticket/race_ticket_up_to_op_gameplay | minecraft:gift | minecraft:gift minecraft:item umapyoi:race/ticket/race_ticket_up_to_op_gameplay umapyoi:race_ticket umapyoi:race_ticket_random
+umapyoi:simple_skills | minecraft:chest | minecraft:chest minecraft:item minecraft:uniform umapyoi:simple_skills umapyoi:skill_book umapyoi:umaskill_with_level
+umapyoi:supply_book | minecraft:chest | minecraft:chest minecraft:item minecraft:random_chance minecraft:set_count umapyoi:mentality_high_item umapyoi:mentality_low_item umapyoi:mentality_mid_item umapyoi:speed_high_item umapyoi:speed_low_item umapyoi:speed_mid_item umapyoi:stamina_high_item umapyoi:stamina_low_item umapyoi:stamina_mid_item umapyoi:strength_high_item umapyoi:strength_low_item umapyoi:strength_mid_item umapyoi:wisdom_high_item umapyoi:wisdom_low_item umapyoi:wisdom_mid_item

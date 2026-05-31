@@ -1,0 +1,24 @@
+# create_pattern_schematics-2.0.10
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="create_pattern_schematics" #mandatory
+version="2.0.10" #mandatory
+displayName="Create: Pattern Schematics" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.0,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="create"
+versionRange="[6.0.1,6.1.0)"
+
+## blocks
+
+## items
+create_pattern_schematics:empty_pattern_schematic
+create_pattern_schematics:pattern_schematic
+create_pattern_schematics:pattern_schematic_and_quill
+
+## neoforge biome_modifiers
+
+## c: common tag membership

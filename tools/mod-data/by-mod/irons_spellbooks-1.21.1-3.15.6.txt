@@ -1,0 +1,402 @@
+# irons_spellbooks-1.21.1-3.15.6
+
+## mod metadata (id / version / deps)
+license = "All Rights Reserved"
+modId = "irons_spellbooks" #mandatory
+version = "1.21.1-3.15.6" #mandatory
+displayName = "Iron's Spells 'n Spellbooks" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.0.0-beta,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1,1.21.2)"
+modId = "geckolib"
+versionRange = "[4.7.5.1,)"
+modId = "playeranimator"
+versionRange = "[2.0.1+1.21.1,)"
+modId = "curios"
+versionRange = "[9.0.5+1.21.0,)"
+modId="irons_lib"
+versionRange="[1.21.1-1,1.21.1-2)"
+
+## blocks
+irons_spellbooks:alchemist_cauldron
+irons_spellbooks:arcane_anvil
+irons_spellbooks:arcane_debris
+irons_spellbooks:armor_pile
+irons_spellbooks:blood_cauldron
+irons_spellbooks:book_stack
+irons_spellbooks:brazier
+irons_spellbooks:brazier_soul
+irons_spellbooks:cinderous_soul_rune
+irons_spellbooks:deepslate_mithril_ore
+irons_spellbooks:firefly_jar
+irons_spellbooks:grimy_tiles
+irons_spellbooks:ice_spider_egg
+irons_spellbooks:inscription_table
+irons_spellbooks:inscription_table_placeholder
+irons_spellbooks:mithril_ore
+irons_spellbooks:nether_brick_pillar
+irons_spellbooks:pedestal
+irons_spellbooks:pocket_dimension_portal_frame
+irons_spellbooks:portal_frame
+irons_spellbooks:scroll_forge
+irons_spellbooks:tyros_statue
+irons_spellbooks:voidstone
+irons_spellbooks:wisewood_bookshelf
+irons_spellbooks:wisewood_chiseled_bookshelf
+irons_spellbooks:wisewood_planks
+
+## items
+apotheosis:gems/blood
+apotheosis:gems/cast_time
+apotheosis:gems/cooldown
+apotheosis:gems/ender
+apotheosis:gems/evocation
+apotheosis:gems/fire
+apotheosis:gems/holy
+apotheosis:gems/ice
+apotheosis:gems/intelligent
+apotheosis:gems/lightning
+apotheosis:gems/nature
+apotheosis:gems/spell_resist
+apotheosis:gems/summoning
+irons_spellbooks:affinity_ring
+irons_spellbooks:affinity_ring_blood
+irons_spellbooks:affinity_ring_eldritch
+irons_spellbooks:affinity_ring_ender
+irons_spellbooks:affinity_ring_evocation
+irons_spellbooks:affinity_ring_fire
+irons_spellbooks:affinity_ring_holy
+irons_spellbooks:affinity_ring_ice
+irons_spellbooks:affinity_ring_lightning
+irons_spellbooks:affinity_ring_nature
+irons_spellbooks:alchemist_cauldron
+irons_spellbooks:amethyst_rapier
+irons_spellbooks:amethyst_resonance_charm
+irons_spellbooks:ancient_knowledge_fragment
+irons_spellbooks:apothecarist_spawn_egg
+irons_spellbooks:arcane_anvil
+irons_spellbooks:arcane_debris
+irons_spellbooks:arcane_essence
+irons_spellbooks:arcane_ingot
+irons_spellbooks:arcane_rune
+irons_spellbooks:arcane_salvage
+irons_spellbooks:archevoker_boots
+irons_spellbooks:archevoker_chestplate
+irons_spellbooks:archevoker_helmet
+irons_spellbooks:archevoker_leggings
+irons_spellbooks:archevoker_logbook_translated
+irons_spellbooks:archevoker_logbook_untranslated
+irons_spellbooks:archevoker_spawn_egg
+irons_spellbooks:armor_pile
+irons_spellbooks:artificer_cane
+irons_spellbooks:autoloader_crossbow
+irons_spellbooks:autoloader_crossbow_arrow
+irons_spellbooks:autoloader_crossbow_firework
+irons_spellbooks:autoloader_crossbow_pulling_0
+irons_spellbooks:autoloader_crossbow_pulling_1
+irons_spellbooks:autoloader_crossbow_pulling_2
+irons_spellbooks:autoloader_crossbow_pulling_3
+irons_spellbooks:autoloader_crossbow_pulling_4
+irons_spellbooks:autoloader_crossbow_pulling_5
+irons_spellbooks:autoloader_crossbow_pulling_6
+irons_spellbooks:betrayer_signet
+irons_spellbooks:blank_rune
+irons_spellbooks:blaze_spell_book
+irons_spellbooks:blood_rune
+irons_spellbooks:blood_staff
+irons_spellbooks:blood_upgrade_orb
+irons_spellbooks:blood_vial
+irons_spellbooks:bloody_vellum
+irons_spellbooks:book_stack
+irons_spellbooks:boreal_blade
+irons_spellbooks:brazier
+irons_spellbooks:brazier_soul
+irons_spellbooks:cast_time_ring
+irons_spellbooks:casters_tea
+irons_spellbooks:chained_book
+irons_spellbooks:chronicle
+irons_spellbooks:chronicle_open
+irons_spellbooks:cinder_essence
+irons_spellbooks:cinderous_soul_rune
+irons_spellbooks:cinderous_soulcaller
+irons_spellbooks:claymore
+irons_spellbooks:cloth
+irons_spellbooks:common_ink
+irons_spellbooks:compass/wayward_compass_00
+irons_spellbooks:compass/wayward_compass_01
+irons_spellbooks:compass/wayward_compass_02
+irons_spellbooks:compass/wayward_compass_03
+irons_spellbooks:compass/wayward_compass_04
+irons_spellbooks:compass/wayward_compass_05
+irons_spellbooks:compass/wayward_compass_06
+irons_spellbooks:compass/wayward_compass_07
+irons_spellbooks:compass/wayward_compass_08
+irons_spellbooks:compass/wayward_compass_09
+irons_spellbooks:compass/wayward_compass_10
+irons_spellbooks:compass/wayward_compass_11
+irons_spellbooks:compass/wayward_compass_12
+irons_spellbooks:compass/wayward_compass_13
+irons_spellbooks:compass/wayward_compass_14
+irons_spellbooks:compass/wayward_compass_15
+irons_spellbooks:compass/wayward_compass_16
+irons_spellbooks:compass/wayward_compass_17
+irons_spellbooks:compass/wayward_compass_18
+irons_spellbooks:compass/wayward_compass_19
+irons_spellbooks:compass/wayward_compass_20
+irons_spellbooks:compass/wayward_compass_21
+irons_spellbooks:compass/wayward_compass_22
+irons_spellbooks:compass/wayward_compass_23
+irons_spellbooks:compass/wayward_compass_24
+irons_spellbooks:compass/wayward_compass_25
+irons_spellbooks:compass/wayward_compass_26
+irons_spellbooks:compass/wayward_compass_27
+irons_spellbooks:compass/wayward_compass_28
+irons_spellbooks:compass/wayward_compass_29
+irons_spellbooks:compass/wayward_compass_30
+irons_spellbooks:compass/wayward_compass_31
+irons_spellbooks:concentration_amulet
+irons_spellbooks:conjurers_talisman
+irons_spellbooks:cooldown_ring
+irons_spellbooks:cooldown_rune
+irons_spellbooks:cooldown_upgrade_orb
+irons_spellbooks:copper_spell_book
+irons_spellbooks:copper_spell_book_model
+irons_spellbooks:cryomancer_boots
+irons_spellbooks:cryomancer_chestplate
+irons_spellbooks:cryomancer_helmet
+irons_spellbooks:cryomancer_leggings
+irons_spellbooks:cryomancer_spawn_egg
+irons_spellbooks:cultist_boots
+irons_spellbooks:cultist_chestplate
+irons_spellbooks:cultist_helmet
+irons_spellbooks:cultist_leggings
+irons_spellbooks:cursed_doll_spell_book
+irons_spellbooks:dead_king.geo
+irons_spellbooks:dead_king_corpse_spawn_egg
+irons_spellbooks:decrepit_key
+irons_spellbooks:decrepit_scythe
+irons_spellbooks:deepslate_mithril_ore
+irons_spellbooks:dev_staff
+irons_spellbooks:diamond_spell_book
+irons_spellbooks:disc_fragment_flame_still_burns
+irons_spellbooks:divine_pearl
+irons_spellbooks:divine_soulshard
+irons_spellbooks:dragonskin
+irons_spellbooks:dragonskin_spell_book
+irons_spellbooks:dreadsword
+irons_spellbooks:druidic_spell_book
+irons_spellbooks:eldritch_manuscript
+irons_spellbooks:electromancer_boots
+irons_spellbooks:electromancer_chestplate
+irons_spellbooks:electromancer_helmet
+irons_spellbooks:electromancer_leggings
+irons_spellbooks:emerald_stoneplate_ring
+irons_spellbooks:enchanted_ward_amulet
+irons_spellbooks:ender_rune
+irons_spellbooks:ender_upgrade_orb
+irons_spellbooks:energized_core
+irons_spellbooks:epic_ink
+irons_spellbooks:evasion_elixir
+irons_spellbooks:evocation_rune
+irons_spellbooks:evocation_upgrade_orb
+irons_spellbooks:evoker_spell_book
+irons_spellbooks:evoker_spell_book_model
+irons_spellbooks:example_regular_scroll
+irons_spellbooks:expulsion_ring
+irons_spellbooks:fiery_dagger
+irons_spellbooks:fire_ale
+irons_spellbooks:fire_cloth
+irons_spellbooks:fire_rune
+irons_spellbooks:fire_upgrade_orb
+irons_spellbooks:firebrand
+irons_spellbooks:firebrand_gui
+irons_spellbooks:firebrand_normal
+irons_spellbooks:firefly_jar
+irons_spellbooks:fireward_ring
+irons_spellbooks:frosted_helve
+irons_spellbooks:frostward_ring
+irons_spellbooks:frozen_bone
+irons_spellbooks:furled_map
+irons_spellbooks:furled_map_ancient
+irons_spellbooks:furled_map_citadel
+irons_spellbooks:furled_map_ice_spider_den
+irons_spellbooks:gold_crown
+irons_spellbooks:gold_spell_book
+irons_spellbooks:graybeard_staff
+irons_spellbooks:greater_conjurers_talisman
+irons_spellbooks:greater_evasion_elixir
+irons_spellbooks:greater_healing_potion
+irons_spellbooks:greater_invisibility_elixir
+irons_spellbooks:greater_oakskin_elixir
+irons_spellbooks:heavy_chain_necklace
+irons_spellbooks:hellrazor
+irons_spellbooks:hither_thither_wand
+irons_spellbooks:hogskin
+irons_spellbooks:holy_rune
+irons_spellbooks:holy_upgrade_orb
+irons_spellbooks:ice_rune
+irons_spellbooks:ice_spell_book
+irons_spellbooks:ice_spider_egg
+irons_spellbooks:ice_spider_pheromones
+irons_spellbooks:ice_spider_spawn_egg
+irons_spellbooks:ice_staff
+irons_spellbooks:ice_upgrade_orb
+irons_spellbooks:ice_venom_vial
+irons_spellbooks:icy_fang
+irons_spellbooks:infernal_sorcerer_chestplate
+irons_spellbooks:inscription_table
+irons_spellbooks:invisibility_elixir
+irons_spellbooks:invisibility_ring
+irons_spellbooks:iron_spell_book
+irons_spellbooks:keeper_flamberge
+irons_spellbooks:keeper_spawn_egg
+irons_spellbooks:legendary_ink
+irons_spellbooks:legendary_spell_book
+irons_spellbooks:legionnaire_flamberge
+irons_spellbooks:lesser_spell_slot_upgrade
+irons_spellbooks:lightning_bottle
+irons_spellbooks:lightning_rod
+irons_spellbooks:lightning_rune
+irons_spellbooks:lightning_upgrade_orb
+irons_spellbooks:lurker_ring
+irons_spellbooks:magehunter
+irons_spellbooks:magic_cloth
+irons_spellbooks:mana_ring
+irons_spellbooks:mana_upgrade_orb
+irons_spellbooks:misery
+irons_spellbooks:mithril_ingot
+irons_spellbooks:mithril_ore
+irons_spellbooks:mithril_scrap
+irons_spellbooks:mithril_weave
+irons_spellbooks:music_disc_dead_king_lullaby
+irons_spellbooks:music_disc_flame_still_burns
+irons_spellbooks:music_disc_whispers_of_ice
+irons_spellbooks:nature_rune
+irons_spellbooks:nature_upgrade_orb
+irons_spellbooks:necromancer_spawn_egg
+irons_spellbooks:necronomicon_spell_book
+irons_spellbooks:nether_brick_pillar
+irons_spellbooks:netherite_mage_boots
+irons_spellbooks:netherite_mage_chestplate
+irons_spellbooks:netherite_mage_helmet
+irons_spellbooks:netherite_mage_leggings
+irons_spellbooks:netherite_spell_book
+irons_spellbooks:netherward_tincture
+irons_spellbooks:oakskin_elixir
+irons_spellbooks:obsidian_katana
+irons_spellbooks:paladin_chestplate
+irons_spellbooks:patchouli_book
+irons_spellbooks:pedestal
+irons_spellbooks:permafrost_shard
+irons_spellbooks:plagued_boots
+irons_spellbooks:plagued_chestplate
+irons_spellbooks:plagued_helmet
+irons_spellbooks:plagued_leggings
+irons_spellbooks:poisonward_ring
+irons_spellbooks:portal_frame
+irons_spellbooks:priest_boots
+irons_spellbooks:priest_chestplate
+irons_spellbooks:priest_helmet
+irons_spellbooks:priest_leggings
+irons_spellbooks:priest_spawn_egg
+irons_spellbooks:protection_rune
+irons_spellbooks:protection_upgrade_orb
+irons_spellbooks:pumpkin_boots
+irons_spellbooks:pumpkin_chestplate
+irons_spellbooks:pumpkin_helmet
+irons_spellbooks:pumpkin_leggings
+irons_spellbooks:pyrium_ingot
+irons_spellbooks:pyrium_staff
+irons_spellbooks:pyrium_staff_haft
+irons_spellbooks:pyromancer_boots
+irons_spellbooks:pyromancer_chestplate
+irons_spellbooks:pyromancer_helmet
+irons_spellbooks:pyromancer_leggings
+irons_spellbooks:pyromancer_spawn_egg
+irons_spellbooks:rare_ink
+irons_spellbooks:raw_mithril
+irons_spellbooks:ring
+irons_spellbooks:rotten_spell_book
+irons_spellbooks:ruined_book
+irons_spellbooks:scroll
+irons_spellbooks:scroll_blood
+irons_spellbooks:scroll_eldritch
+irons_spellbooks:scroll_ender
+irons_spellbooks:scroll_evocation
+irons_spellbooks:scroll_fire
+irons_spellbooks:scroll_forge
+irons_spellbooks:scroll_holy
+irons_spellbooks:scroll_ice
+irons_spellbooks:scroll_lightning
+irons_spellbooks:scroll_nature
+irons_spellbooks:shadowwalker_boots
+irons_spellbooks:shadowwalker_chestplate
+irons_spellbooks:shadowwalker_helmet
+irons_spellbooks:shadowwalker_leggings
+irons_spellbooks:shriving_stone
+irons_spellbooks:silver_ring
+irons_spellbooks:speed_boots
+irons_spellbooks:spell_book
+irons_spellbooks:spellbreaker
+irons_spellbooks:staff_of_the_nines
+irons_spellbooks:stone_scythe
+irons_spellbooks:tarnished_helmet
+irons_spellbooks:teleportation_amulet
+irons_spellbooks:template_large_sword
+irons_spellbooks:template_spell_book_model
+irons_spellbooks:template_spell_book_model_open
+irons_spellbooks:template_verylarge_sword
+irons_spellbooks:timeless_slurry
+irons_spellbooks:truthseeker
+irons_spellbooks:twilight_gale
+irons_spellbooks:twilight_gale_handheld
+irons_spellbooks:twilight_gale_throwing
+irons_spellbooks:tyros_statue
+irons_spellbooks:unchained_book
+irons_spellbooks:uncommon_ink
+irons_spellbooks:upgrade_orb
+irons_spellbooks:villager_spell_book
+irons_spellbooks:visibility_ring
+irons_spellbooks:wandering_magician_boots
+irons_spellbooks:wandering_magician_chestplate
+irons_spellbooks:wandering_magician_helmet
+irons_spellbooks:wandering_magician_leggings
+irons_spellbooks:wayward_compass
+irons_spellbooks:weapon_parts
+irons_spellbooks:weapon_schematics
+irons_spellbooks:wimpy_spell_book
+irons_spellbooks:wisewood_bookshelf
+irons_spellbooks:wisewood_chiseled_bookshelf
+irons_spellbooks:wisewood_planks
+irons_spellbooks:wizard_boots
+irons_spellbooks:wizard_chestplate
+irons_spellbooks:wizard_hat
+irons_spellbooks:wizard_helmet
+irons_spellbooks:wizard_helmet_hat
+irons_spellbooks:wizard_leggings
+
+## neoforge biome_modifiers
+add_mithril_ore.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_overworld", "features": "irons_spellbooks:ore_mithril_placement", "step": "underground_ores"}
+necromancer_spawns.json :: { "type": "neoforge:add_spawns", "biomes": "#minecraft:is_overworld", "spawners": [ { "type": "irons_spellbooks:necromancer", "weight": 18, "minCount": 1, "maxCount": 1 } ]}
+
+## c: common tag membership
+block/bookshelves.json :: { "replace": false, "values": [ "irons_spellbooks:wisewood_bookshelf" ]}
+block/ores/mithril.json :: { "replace": false, "values": [ "irons_spellbooks:mithril_ore", "irons_spellbooks:deepslate_mithril_ore" ]}
+block/ores.json :: { "replace": false, "values": [ "#c:ores/mithril" ]}
+block/ores_in_ground/deepslate.json :: { "values": [ "irons_spellbooks:deepslate_mithril_ore" ]}
+block/ores_in_ground/stone.json :: { "values": [ "irons_spellbooks:mithril_ore" ]}
+entity_type/bosses.json :: { "replace": false, "values": [ "irons_spellbooks:dead_king", "irons_spellbooks:fire_boss" ]}
+item/bookshelves.json :: { "replace": false, "values": [ "irons_spellbooks:wisewood_bookshelf" ]}
+item/ingots/mithril.json :: { "replace": false, "values": [ "irons_spellbooks:mithril_ingot" ]}
+item/ingots/pyrium.json :: { "replace": false, "values": [ "irons_spellbooks:pyrium_ingot" ]}
+item/ingots.json :: { "replace": false, "values": [ "#c:ingots/mithril", "#c:ingots/pyrium", "irons_spellbooks:arcane_ingot" ]}
+item/ores/mithril.json :: { "replace": false, "values": [ "irons_spellbooks:mithril_ore", "irons_spellbooks:deepslate_mithril_ore" ]}
+item/ores.json :: { "replace": false, "values": [ "#c:ores/mithril" ]}
+item/ores_in_ground/deepslate.json :: { "values": [ "irons_spellbooks:deepslate_mithril_ore" ]}
+item/ores_in_ground/stone.json :: { "values": [ "irons_spellbooks:mithril_ore" ]}
+item/raw_materials/mithril.json :: { "replace": false, "values": [ "irons_spellbooks:raw_mithril" ]}
+item/raw_materials.json :: { "replace": false, "values": [ "#c:raw_materials/mithril" ]}
+item/tools/crossbow.json :: { "replace": false, "values": [ "irons_spellbooks:autoloader_crossbow" ]}
+item/tools/melee_weapon.json :: { "replace": false, "values": [ "irons_spellbooks:magehunter", "irons_spellbooks:keeper_flamberge", "irons_spellbooks:spellbreaker", "irons_spellbooks:amethyst_rapier", "irons_spellbooks:claymore", "irons_spellbooks:misery", "irons_spellbooks:legionnaire_flamberge", "irons_spellbooks:hellrazor", "irons_spellbooks:decrepit_scythe" ]}
+item/tools/ranged_weapon.json :: { "replace": false, "values": [ "irons_spellbooks:autoloader_crossbow" ]}

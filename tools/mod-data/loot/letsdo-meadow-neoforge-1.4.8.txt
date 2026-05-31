@@ -1,0 +1,154 @@
+meadow:advancements/completionist | minecraft:block | meadow:meadow_banner minecraft:block minecraft:item minecraft:set_count
+meadow:blocks/alpine_birch_leaves | minecraft:block | meadow:alpine_birch_leaves meadow:alpine_birch_sapling minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform
+meadow:blocks/alpine_birch_log | minecraft:block | meadow:alpine_birch_log minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/alpine_birch_sapling | minecraft:block | meadow:alpine_birch_sapling minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/alpine_coal_ore | minecraft:block | meadow:alpine_coal_ore minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:coal minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:silk_touch
+meadow:blocks/alpine_copper_ore | minecraft:block | meadow:alpine_copper_ore minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:raw_copper minecraft:silk_touch
+meadow:blocks/alpine_diamond_ore | minecraft:block | meadow:alpine_diamond_ore minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:diamond minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:silk_touch
+meadow:blocks/alpine_emerald_ore | minecraft:block | meadow:alpine_emerald_ore minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:emerald minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:silk_touch
+meadow:blocks/alpine_gold_ore | minecraft:block | meadow:alpine_gold_ore minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:raw_gold minecraft:silk_touch
+meadow:blocks/alpine_iron_ore | minecraft:block | meadow:alpine_iron_ore minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:raw_iron minecraft:silk_touch
+meadow:blocks/alpine_lapis_ore | minecraft:block | meadow:alpine_lapis_ore minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:lapis_lazuli minecraft:match_tool minecraft:ore_drops minecraft:silk_touch
+meadow:blocks/alpine_oak_log | minecraft:block | minecraft:block minecraft:item minecraft:oak_log minecraft:survives_explosion
+meadow:blocks/alpine_poppy | minecraft:block | meadow:alpine_poppy minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/alpine_redstone_ore | minecraft:block | meadow:alpine_coal_ore minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:redstone minecraft:silk_touch
+meadow:blocks/alpine_salt_ore | minecraft:block | meadow:alpine_salt meadow:alpine_salt_ore meadow:blocks/alpine_salt_ore minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:silk_touch
+meadow:blocks/artisan_glass_window | minecraft:block | meadow:artisan_glass_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+meadow:blocks/artisan_glass_window_pane | minecraft:block | meadow:artisan_glass_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+meadow:blocks/camera | minecraft:block | meadow:camera minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/chambray_bed | minecraft:block | meadow:chambray_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+meadow:blocks/chambray_carpet | minecraft:block | meadow:chambray_carpet minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/chambray_wool | minecraft:block | meadow:chambray_wool minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/cheese_form | minecraft:block | meadow:cheese_form minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/chiseled_limestone | minecraft:block | meadow:chiseled_limestone minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/climbing_rope_topmount | minecraft:block | meadow:climbing_rope minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/cobbled_limestone | minecraft:block | meadow:cobbled_limestone minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/cobbled_limestone_slab | minecraft:block | meadow:cobbled_limestone_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+meadow:blocks/cobbled_limestone_stairs | minecraft:block | meadow:cobbled_limestone_stairs minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/cobbled_limestone_wall | minecraft:block | meadow:cobbled_limestone_wall minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/cooking_frame | minecraft:block | meadow:cooking_frame minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/cookpot | minecraft:block | meadow:cookpot minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/cracked_limestone_bricks | minecraft:block | meadow:cracked_limestone_bricks minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/delphinium | minecraft:block | meadow:delphinium minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/doormat | minecraft:block | meadow:doormat minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/enzian | minecraft:block | meadow:enzian minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/eriophorum | minecraft:block | meadow:eriophorum minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/fire_lily | minecraft:block | meadow:fire_lily minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/firewood | minecraft:block | meadow:firewood minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+meadow:blocks/fondue_pot | minecraft:block | meadow:fondue_pot minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/jacquard_bed | minecraft:block | meadow:jacquard_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+meadow:blocks/jacquard_carpet | minecraft:block | meadow:jacquard_carpet minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/jacquard_wool | minecraft:block | meadow:jacquard_wool minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/limestone | minecraft:block | meadow:cobbled_limestone meadow:limestone minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:survives_explosion
+meadow:blocks/limestone_brick_slab | minecraft:block | meadow:limestone_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+meadow:blocks/limestone_brick_stairs | minecraft:block | meadow:limestone_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/limestone_brick_wall | minecraft:block | meadow:limestone_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/limestone_bricks | minecraft:block | meadow:limestone_bricks minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/limestone_slab | minecraft:block | meadow:limestone_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+meadow:blocks/limestone_stairs | minecraft:block | meadow:limestone_stairs minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/limestone_wall | minecraft:block | meadow:limestone_wall minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/linen | minecraft:block | meadow:linen minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/linen_bed | minecraft:block | meadow:linen_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+meadow:blocks/linen_carpet | minecraft:block | meadow:linen_carpet minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/meadow_banner | minecraft:block | meadow:meadow_banner minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/meadow_wall_banner | minecraft:block | meadow:meadow_banner minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/milk_can | minecraft:block | meadow:milk_can minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/mossy_cobbled_limestone | minecraft:block | meadow:mossy_cobbled_limestone minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/mossy_cobbled_limestone_slab | minecraft:block | meadow:mossy_cobbled_limestone_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+meadow:blocks/mossy_cobbled_limestone_stairs | minecraft:block | meadow:mossy_cobbled_limestone_stairs minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/mossy_cobbled_limestone_wall | minecraft:block | meadow:mossy_cobbled_limestone_wall minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/mossy_limestone_brick_slab | minecraft:block | meadow:mossy_limestone_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+meadow:blocks/mossy_limestone_brick_stairs | minecraft:block | meadow:mossy_limestone_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/mossy_limestone_brick_wall | minecraft:block | meadow:mossy_limestone_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/mossy_limestone_bricks | minecraft:block | meadow:mossy_limestone_bricks minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/oil_lantern | minecraft:block | meadow:oil_lantern minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/ornate_glass_window | minecraft:block | meadow:ornate_glass_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+meadow:blocks/ornate_glass_window_pane | minecraft:block | meadow:ornate_glass_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+meadow:blocks/pine_beam | minecraft:block | meadow:pine_beam minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_bench | minecraft:block | meadow:pine_bench minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_button | minecraft:block | meadow:pine_button minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_cabinet | minecraft:block | meadow:pine_cabinet minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_chair | minecraft:block | meadow:pine_chair minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_cheese_rack | minecraft:block | meadow:pine_cheese_rack minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_door | minecraft:block | meadow:pine_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_dresser | minecraft:block | meadow:pine_dresser minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_fence | minecraft:block | meadow:pine_fence minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_fence_gate | minecraft:block | meadow:pine_fence_gate minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_hanging_sign | minecraft:block | meadow:blocks/pine_hanging_sign meadow:pine_hanging_sign minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_leaves | minecraft:block | meadow:pine_leaves meadow:pine_sapling minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform
+meadow:blocks/pine_log | minecraft:block | meadow:pine_log minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_planks | minecraft:block | meadow:pine_planks minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_pressure_plate | minecraft:block | meadow:pine_pressure_plate minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_railing | minecraft:block | meadow:pine_railing minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_sapling | minecraft:block | meadow:pine_sapling minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_shutter | minecraft:block | meadow:pine_shutter minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_sign | minecraft:block | meadow:blocks/pine_sign meadow:pine_sign minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_slab | minecraft:block | meadow:pine_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+meadow:blocks/pine_sofa_chambray | minecraft:block | meadow:pine_sofa_chambray minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_sofa_jacquard | minecraft:block | meadow:pine_sofa_jacquard minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_sofa_linen | minecraft:block | meadow:pine_sofa_linen minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_sofa_plaid | minecraft:block | meadow:pine_sofa_plaid minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_sofa_rustic | minecraft:block | meadow:pine_sofa_rustic minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_sofa_tweed | minecraft:block | meadow:pine_sofa_tweed minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_sofa_warped | minecraft:block | meadow:pine_sofa_warped minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_stairs | minecraft:block | meadow:pine_stairs minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_table | minecraft:block | meadow:pine_table minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_trapdoor | minecraft:block | meadow:pine_trapdoor minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_wall_cabinet | minecraft:block | meadow:pine_wall_cabinet minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_wall_hanging_sign | minecraft:block | meadow:pine_hanging_sign minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_wall_sign | minecraft:block | meadow:pine_sign minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_wardrobe | minecraft:block | meadow:pine_wardrobe minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/pine_window | minecraft:block | meadow:pine_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+meadow:blocks/pine_window_pane | minecraft:block | meadow:pine_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+meadow:blocks/pine_wood | minecraft:block | meadow:pine_wood minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/plaid_bed | minecraft:block | meadow:plaid_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+meadow:blocks/plaid_carpet | minecraft:block | meadow:plaid_carpet minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/plaid_wool | minecraft:block | meadow:plaid_wool minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/polished_limestone | minecraft:block | meadow:polished_limestone minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/potted_alpine_poppy | minecraft:block | meadow:alpine_poppy minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion
+meadow:blocks/potted_delphinium | minecraft:block | meadow:delphinium minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion
+meadow:blocks/potted_enzian | minecraft:block | meadow:enzian minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion
+meadow:blocks/potted_eriophorum | minecraft:block | meadow:eriophorum minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion
+meadow:blocks/potted_fire_lily | minecraft:block | meadow:fire_lily minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion
+meadow:blocks/potted_pine_sapling | minecraft:block | meadow:pine_sapling minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion
+meadow:blocks/potted_saxifrage | minecraft:block | meadow:saxifrage minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion
+meadow:blocks/reclaimed_pine_door | minecraft:block | meadow:reclaimed_pine_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+meadow:blocks/reclaimed_pine_planks | minecraft:block | meadow:reclaimed_pine_planks minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/reclaimed_pine_slab | minecraft:block | meadow:reclaimed_pine_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+meadow:blocks/reclaimed_pine_stairs | minecraft:block | meadow:reclaimed_pine_stairs minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/reclaimed_pine_trapdoor | minecraft:block | meadow:reclaimed_pine_trapdoor minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/rustic_bed | minecraft:block | meadow:rustic_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+meadow:blocks/rustic_carpet | minecraft:block | meadow:rustic_carpet minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/rustic_wool | minecraft:block | meadow:rustic_wool minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/saxifrage | minecraft:block | meadow:saxifrage minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/small_fir | minecraft:block | meadow:small_fir minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:blocks/fern minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:random_chance minecraft:shears minecraft:uniform_bonus_count minecraft:wheat_seeds
+meadow:blocks/stone_bench | minecraft:block | meadow:stone_bench minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/stone_table | minecraft:block | meadow:stone_table minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/stove_tiles | minecraft:block | meadow:stove_tiles minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/stove_tiles_bench | minecraft:block | meadow:stove_tiles_bench minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/stove_tiles_lid | minecraft:block | meadow:stove_tiles_lid minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/stove_tiles_wood | minecraft:block | meadow:stove_tiles_wood minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/straw_bed | minecraft:block | meadow:straw_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+meadow:blocks/stripped_pine_log | minecraft:block | meadow:stripped_pine_log minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/stripped_pine_wood | minecraft:block | meadow:stripped_pine_wood minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/tall_eriophorum | minecraft:block | meadow:tall_eriophorum minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+meadow:blocks/tweed_bed | minecraft:block | meadow:tweed_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+meadow:blocks/tweed_carpet | minecraft:block | meadow:tweed_carpet minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/tweed_wool | minecraft:block | meadow:tweed_wool minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/warped_bed | minecraft:block | meadow:warped_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+meadow:blocks/warped_carpet | minecraft:block | meadow:warped_carpet minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/warped_wool | minecraft:block | meadow:warped_wool minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/wheelbarrow | minecraft:block | meadow:wheelbarrow minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/woodcutter | minecraft:block | meadow:woodcutter minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/wooden_cauldron | minecraft:block | meadow:wooden_cauldron minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/wooden_flower_box | minecraft:block | meadow:wooden_flower_box minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/wooden_flower_pot_big | minecraft:block | meadow:wooden_flower_pot_big minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/wooden_flower_pot_small | minecraft:block | meadow:wooden_flower_pot_small minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/wooden_powder_snow_cauldron | minecraft:block | meadow:wooden_cauldron minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/wooden_water_cauldron | minecraft:block | meadow:wooden_cauldron minecraft:block minecraft:item minecraft:survives_explosion
+meadow:blocks/yellow_pine_leaves | minecraft:block | meadow:yellow_pine_leaves meadow:yellow_pine_sapling minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform
+meadow:blocks/yellow_pine_sapling | minecraft:block | meadow:yellow_pine_sapling minecraft:block minecraft:item minecraft:survives_explosion
+meadow:entities/highland_cattle | minecraft:entity | minecraft:beef minecraft:enchanted_count_increase minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:leather minecraft:looting minecraft:set_count minecraft:uniform
+meadow:entities/umbra_cow | minecraft:entity | minecraft:beef minecraft:enchanted_count_increase minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:leather minecraft:looting minecraft:set_count minecraft:uniform
+meadow:entities/warped_cow | minecraft:entity | minecraft:beef minecraft:enchanted_count_increase minecraft:entities/cow minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:leather minecraft:looting minecraft:set_count minecraft:uniform
+meadow:entities/water_buffalo | minecraft:entity | meadow:raw_buffalo_meat minecraft:enchanted_count_increase minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:leather minecraft:looting minecraft:set_count minecraft:uniform

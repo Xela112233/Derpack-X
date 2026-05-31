@@ -1,0 +1,139 @@
+alexsmobs:blocks/banana_peel | minecraft:block | alexsmobs:banana_peel minecraft:block minecraft:item
+alexsmobs:blocks/banana_slug_slime_block | minecraft:block | alexsmobs:banana_slug_slime_block minecraft:block minecraft:item
+alexsmobs:blocks/bison_carpet | minecraft:block | alexsmobs:bison_carpet minecraft:block minecraft:item
+alexsmobs:blocks/bison_fur_block | minecraft:block | alexsmobs:bison_fur_block minecraft:block minecraft:item
+alexsmobs:blocks/caiman_egg | minecraft:block | alexsmobs:caiman_egg minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+alexsmobs:blocks/capsid | minecraft:block | alexsmobs:capsid minecraft:block minecraft:item
+alexsmobs:blocks/crocodile_egg | minecraft:block | alexsmobs:crocodile_egg minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+alexsmobs:blocks/crystalized_banana_slug_mucus | minecraft:block | alexsmobs:crystalized_banana_slug_mucus minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+alexsmobs:blocks/ender_residue | minecraft:block | minecraft:block
+alexsmobs:blocks/gustmaker | minecraft:block | alexsmobs:gustmaker minecraft:block minecraft:item
+alexsmobs:blocks/hummingbird_feeder | minecraft:block | alexsmobs:hummingbird_feeder minecraft:block minecraft:item
+alexsmobs:blocks/leafcutter_ant_chamber | minecraft:block | alexsmobs:leafcutter_ant_chamber alexsmobs:leafcutter_ant_pupa minecraft:alternatives minecraft:block minecraft:fortune minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:survives_explosion minecraft:table_bonus
+alexsmobs:blocks/leafcutter_anthill | minecraft:block | alexsmobs:leafcutter_anthill minecraft:block minecraft:copy_components minecraft:custom_data minecraft:item minecraft:match_tool minecraft:silk_touch
+alexsmobs:blocks/platypus_egg | minecraft:block | alexsmobs:platypus_egg minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+alexsmobs:blocks/rainbow_glass | minecraft:block | alexsmobs:rainbow_glass minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+alexsmobs:blocks/red_sand_circle | minecraft:block | minecraft:block minecraft:item minecraft:red_sand
+alexsmobs:blocks/sand_circle | minecraft:block | minecraft:block minecraft:item minecraft:sand
+alexsmobs:blocks/sculk_boomer | minecraft:block | alexsmobs:sculk_boomer minecraft:block minecraft:item
+alexsmobs:blocks/skunk_spray | minecraft:block | minecraft:block
+alexsmobs:blocks/straddlite_block | minecraft:block | alexsmobs:straddlite_block minecraft:block minecraft:item
+alexsmobs:blocks/terrapin_egg | minecraft:block | minecraft:block
+alexsmobs:blocks/transmutation_table | minecraft:block | alexsmobs:transmutation_table minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:nether_star minecraft:silk_touch
+alexsmobs:blocks/triops_eggs | minecraft:block | alexsmobs:triops_eggs minecraft:block minecraft:item
+alexsmobs:blocks/void_worm_beak | minecraft:block | alexsmobs:void_worm_beak minecraft:block minecraft:item
+alexsmobs:blocks/void_worm_effigy | minecraft:block | alexsmobs:void_worm_effigy minecraft:block minecraft:item
+alexsmobs:entities/anaconda | ? | 
+alexsmobs:entities/anteater | ? | 
+alexsmobs:entities/bald_eagle | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:item minecraft:looting
+alexsmobs:entities/banana_slug | ? | alexsmobs:banana_slug_slime minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/bison | ? | alexsmobs:bison_fur minecraft:beef minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:looting
+alexsmobs:entities/blobfish | minecraft:entity | alexsmobs:blobfish minecraft:bone_meal minecraft:entity minecraft:item minecraft:random_chance minecraft:set_count
+alexsmobs:entities/blue_jay | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:item minecraft:looting
+alexsmobs:entities/bone_serpent | ? | alexsmobs:bone_serpent_tooth minecraft:bone minecraft:bone_block minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/bunfungus | ? | minecraft:item minecraft:red_mushroom
+alexsmobs:entities/cachalot_whale | ? | 
+alexsmobs:entities/caiman | ? | 
+alexsmobs:entities/capuchin_monkey | ? | 
+alexsmobs:entities/catfish | ? | alexsmobs:raw_catfish minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:looting
+alexsmobs:entities/catfish_large | ? | alexsmobs:raw_catfish minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:looting
+alexsmobs:entities/catfish_medium | ? | alexsmobs:raw_catfish minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:looting
+alexsmobs:entities/centipede_body | ? | 
+alexsmobs:entities/centipede_head | ? | alexsmobs:centipede_leg minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/centipede_tail | ? | 
+alexsmobs:entities/cockroach | ? | alexsmobs:cockroach_wing_fragment minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/cockroach_maracas | ? | alexsmobs:cockroach_wing_fragment alexsmobs:maraca alexsmobs:sombrero minecraft:enchanted_count_increase minecraft:item minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus
+alexsmobs:entities/cockroach_maracas_headless | ? | alexsmobs:cockroach_wing_fragment alexsmobs:maraca minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/comb_jelly | ? | alexsmobs:rainbow_jelly minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/cosmaw | ? | minecraft:chorus_fruit minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/cosmic_cod | minecraft:entity | alexsmobs:cosmic_cod minecraft:bone_meal minecraft:entity minecraft:item minecraft:random_chance minecraft:set_count
+alexsmobs:entities/crimson_mosquito | ? | alexsmobs:mosquito_proboscis minecraft:item minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus
+alexsmobs:entities/crimson_mosquito_fly | ? | alexsmobs:blood_sac alexsmobs:mosquito_proboscis minecraft:item minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus
+alexsmobs:entities/crimson_mosquito_fly_full | ? | alexsmobs:blood_sac alexsmobs:mosquito_proboscis minecraft:item minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus
+alexsmobs:entities/crimson_mosquito_full | ? | alexsmobs:blood_sac alexsmobs:mosquito_proboscis minecraft:item minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus
+alexsmobs:entities/crocodile | minecraft:entity | alexsmobs:crocodile_egg alexsmobs:crocodile_scute minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count minecraft:uniform
+alexsmobs:entities/crow | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:item minecraft:looting
+alexsmobs:entities/devils_hole_pupfish | ? | 
+alexsmobs:entities/dropbear | ? | alexsmobs:dropbear_claw minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/elephant | ? | 
+alexsmobs:entities/emu | ? | alexsmobs:emu_feather minecraft:enchanted_count_increase minecraft:feather minecraft:item minecraft:looting
+alexsmobs:entities/endergrade | ? | 
+alexsmobs:entities/enderiophage | minecraft:entity | alexsmobs:capsid minecraft:entity minecraft:item minecraft:set_count
+alexsmobs:entities/farseer | ? | alexsmobs:farseer_arm minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/flutter | ? | minecraft:enchanted_count_increase minecraft:item minecraft:looting minecraft:spore_blossom
+alexsmobs:entities/fly | ? | alexsmobs:maggot minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/flying_fish | minecraft:entity | alexsmobs:flying_fish minecraft:bone_meal minecraft:entity minecraft:item minecraft:random_chance minecraft:set_count
+alexsmobs:entities/frilled_shark | ? | 
+alexsmobs:entities/froststalker | ? | alexsmobs:froststalker_horn minecraft:item minecraft:killed_by_player minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus
+alexsmobs:entities/froststalker_spikes | ? | alexsmobs:froststalker_horn minecraft:blue_ice minecraft:enchanted_count_increase minecraft:item minecraft:linear minecraft:looting minecraft:packed_ice minecraft:random_chance_with_enchanted_bonus
+alexsmobs:entities/gazelle | ? | alexsmobs:gazelle_horn minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:looting minecraft:mutton
+alexsmobs:entities/gelada_monkey | ? | 
+alexsmobs:entities/ghost_miner | ? | 
+alexsmobs:entities/giant_squid | ? | minecraft:ink_sac minecraft:item
+alexsmobs:entities/gorilla | ? | 
+alexsmobs:entities/grizzly_bear | minecraft:entity | alexsmobs:bear_fur minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count minecraft:uniform
+alexsmobs:entities/guster | ? | alexsmobs:guster_eye minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus minecraft:sand
+alexsmobs:entities/guster_red | ? | alexsmobs:guster_eye minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus minecraft:red_sand
+alexsmobs:entities/guster_soul | ? | alexsmobs:guster_eye minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus minecraft:soul_sand
+alexsmobs:entities/hammerhead_shark | ? | 
+alexsmobs:entities/hummingbird | ? | 
+alexsmobs:entities/jerboa | ? | 
+alexsmobs:entities/kangaroo | ? | alexsmobs:kangaroo_hide alexsmobs:kangaroo_meat minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:looting
+alexsmobs:entities/komodo_dragon | ? | 
+alexsmobs:entities/laviathan | ? | minecraft:blackstone minecraft:enchanted_count_increase minecraft:item minecraft:looting minecraft:magma_block
+alexsmobs:entities/laviathan_obsidian | ? | minecraft:blackstone minecraft:enchanted_count_increase minecraft:item minecraft:looting minecraft:obsidian
+alexsmobs:entities/leafcutter_ant | ? | 
+alexsmobs:entities/leafcutter_ant_queen | ? | alexsmobs:leafcutter_ant_pupa minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/lobster | ? | alexsmobs:lobster_tail minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:looting
+alexsmobs:entities/maned_wolf | ? | 
+alexsmobs:entities/mimic_octopus | ? | minecraft:enchanted_count_increase minecraft:ink_sac minecraft:item minecraft:looting
+alexsmobs:entities/mimicube | ? | alexsmobs:mimicream minecraft:item
+alexsmobs:entities/moose | ? | alexsmobs:moose_ribs minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:looting
+alexsmobs:entities/mudskipper | minecraft:entity | minecraft:entity minecraft:item minecraft:set_count minecraft:tropical_fish
+alexsmobs:entities/mungus | ? | 
+alexsmobs:entities/murmur | ? | alexsmobs:elastic_tendon alexsmobs:unsettling_kimono minecraft:enchanted_count_increase minecraft:item minecraft:looting minecraft:red_wool
+alexsmobs:entities/orca | ? | 
+alexsmobs:entities/platypus | ? | 
+alexsmobs:entities/potoo | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:item minecraft:looting
+alexsmobs:entities/raccoon | ? | alexsmobs:raccoon_tail minecraft:item
+alexsmobs:entities/rain_frog | ? | 
+alexsmobs:entities/rattlesnake | ? | alexsmobs:rattlesnake_rattle minecraft:item
+alexsmobs:entities/rhinoceros | ? | 
+alexsmobs:entities/roadrunner | ? | alexsmobs:roadrunner_feather minecraft:enchanted_count_increase minecraft:feather minecraft:item minecraft:looting
+alexsmobs:entities/rocky_roller | ? | alexsmobs:rocky_shell minecraft:enchanted_count_increase minecraft:item minecraft:linear minecraft:looting minecraft:pointed_dripstone minecraft:random_chance_with_enchanted_bonus minecraft:tuff
+alexsmobs:entities/sea_bear | ? | 
+alexsmobs:entities/seagull | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:item minecraft:looting
+alexsmobs:entities/seal | ? | 
+alexsmobs:entities/shoebill | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:item minecraft:looting
+alexsmobs:entities/skelewag | ? | alexsmobs:fish_bones alexsmobs:novelty_hat alexsmobs:skelewag_sword minecraft:bone minecraft:enchanted_count_increase minecraft:item minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus
+alexsmobs:entities/skreecher | ? | alexsmobs:skreecher_soul minecraft:item
+alexsmobs:entities/skunk | ? | 
+alexsmobs:entities/snow_leopard | ? | 
+alexsmobs:entities/soul_vulture | ? | minecraft:bone minecraft:coal minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/soul_vulture_heart | ? | alexsmobs:soul_heart minecraft:bone minecraft:coal minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/spectre | ? | 
+alexsmobs:entities/straddler | ? | alexsmobs:straddlite minecraft:basalt minecraft:enchanted_count_increase minecraft:item minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus
+alexsmobs:entities/stradpole | ? | 
+alexsmobs:entities/sugar_glider | ? | 
+alexsmobs:entities/sunbird | ? | 
+alexsmobs:entities/tarantula_hawk | ? | alexsmobs:tarantula_hawk_wing_fragment minecraft:enchanted_count_increase minecraft:item minecraft:looting
+alexsmobs:entities/tasmanian_devil | ? | 
+alexsmobs:entities/terrapin | ? | 
+alexsmobs:entities/tiger | ? | 
+alexsmobs:entities/toucan | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:item minecraft:looting
+alexsmobs:entities/triops | ? | 
+alexsmobs:entities/tusklin | ? | minecraft:enchanted_count_increase minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:looting minecraft:porkchop minecraft:snowball
+alexsmobs:entities/void_worm | minecraft:entity | alexsmobs:void_worm_eye alexsmobs:void_worm_mandible minecraft:entity minecraft:item minecraft:set_count
+alexsmobs:entities/void_worm_splitter | ? | 
+alexsmobs:entities/warped_mosco | ? | alexsmobs:hemolymph_sac alexsmobs:warped_muscle minecraft:enchanted_count_increase minecraft:item minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus
+alexsmobs:entities/warped_toad | ? | minecraft:enchanted_count_increase minecraft:item minecraft:looting minecraft:nether_wart minecraft:shroomlight
+alexsmobs:gameplay/anteater_reward | minecraft:barter | alexsmobs:leafcutter_ant_pupa alexsmobs:maggot minecraft:barter minecraft:beetroot minecraft:coarse_dirt minecraft:dirt minecraft:hanging_roots minecraft:item minecraft:potato minecraft:rooted_dirt
+alexsmobs:gameplay/platypus_reward | minecraft:barter | alexsmobs:maggot minecraft:barter minecraft:clay_ball minecraft:item
+alexsmobs:gameplay/platypus_supercharged_reward | minecraft:barter | alexsmobs:fedora alexsmobs:maggot minecraft:barter minecraft:clay_ball minecraft:item minecraft:set_count minecraft:uniform
+alexsmobs:gameplay/pupfish_reward | minecraft:barter | minecraft:barter minecraft:item minecraft:slime_ball
+alexsmobs:gameplay/seal_reward | minecraft:barter | alexsmobs:fish_bones alexsmobs:lobster_bucket alexsmobs:music_disc_thime alexsmobs:serrated_shark_tooth alexsmobs:shark_tooth minecraft:barter minecraft:brain_coral minecraft:brain_coral_block minecraft:bubble_coral minecraft:bubble_coral_block minecraft:clay_ball minecraft:fire_coral minecraft:fire_coral_block minecraft:gravel minecraft:horn_coral minecraft:horn_coral_block minecraft:ink_sac minecraft:item minecraft:kelp minecraft:nautilus_shell minecraft:potion minecraft:prismarine_crystals minecraft:prismarine_shard minecraft:sand minecraft:set_components minecraft:set_count minecraft:tube_coral minecraft:tube_coral_block minecraft:turtle_egg minecraft:turtle_scute minecraft:uniform minecraft:water minecraft:wet_sponge
+alexsmobs:gameplay/sugar_glider_reward | minecraft:barter | alexsmobs:bear_fur alexsmobs:cockroach_ootheca alexsmobs:cockroach_wing alexsmobs:maggot alexsmobs:moose_antler minecraft:arrow minecraft:bamboo minecraft:barter minecraft:cobweb minecraft:egg minecraft:feather minecraft:fern minecraft:glow_berries minecraft:hanging_roots minecraft:honeycomb minecraft:item minecraft:moss_carpet minecraft:stick minecraft:sweet_berries minecraft:vine minecraft:wheat_seeds
+alexsmobs:gameplay/trader_elephant_chest | ? | alexsmobs:acacia_blossom alexsmobs:animal_dictionary alexsmobs:banana alexsmobs:centipede_leg alexsmobs:cockroach_wing_fragment alexsmobs:crocodile_scute alexsmobs:emu_egg alexsmobs:emu_feather alexsmobs:maggot alexsmobs:mosquito_larva alexsmobs:shark_tooth alexsmobs:tarantula_hawk_wing_fragment minecraft:cobweb minecraft:emerald minecraft:sand minecraft:stick
+alexsmobs:gameplay/transmutation_table_common | ? | minecraft:andesite minecraft:clay_ball minecraft:cobbled_deepslate minecraft:cobblestone minecraft:diorite minecraft:dirt minecraft:granite minecraft:item minecraft:kelp minecraft:netherrack minecraft:red_sand minecraft:sand minecraft:snowball minecraft:stick minecraft:torch
+alexsmobs:gameplay/transmutation_table_rare | ? | alexsmobs:mimicream minecraft:amethyst_shard minecraft:blaze_rod minecraft:diamond minecraft:emerald minecraft:end_rod minecraft:ender_pearl minecraft:ghast_tear minecraft:gilded_blackstone minecraft:item minecraft:lapis_lazuli minecraft:nautilus_shell minecraft:prismarine_crystals minecraft:prismarine_shard minecraft:quartz minecraft:raw_copper minecraft:shulker_shell
+alexsmobs:gameplay/transmutation_table_uncommon | ? | alexsmobs:acacia_blossom alexsmobs:capsid minecraft:book minecraft:coal minecraft:feather minecraft:flint minecraft:glowstone_dust minecraft:gunpowder minecraft:item minecraft:melon_slice minecraft:pumpkin minecraft:raw_copper minecraft:raw_gold minecraft:raw_iron minecraft:redstone minecraft:slime_ball minecraft:wheat

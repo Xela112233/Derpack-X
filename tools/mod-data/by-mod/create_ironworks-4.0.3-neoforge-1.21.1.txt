@@ -1,0 +1,155 @@
+# create_ironworks-4.0.3-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="create_ironworks"
+version="4.0.3"
+displayName="Create: Ironworks"
+modId="neoforge"
+versionRange="[21.1.190,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+
+## blocks
+create_ironworks:bronze_block
+create_ironworks:deepslate_tin_ore
+create_ironworks:raw_tin_block
+create_ironworks:rose_quartz_block
+create_ironworks:steel_block
+create_ironworks:sturdy_sheet_block
+create_ironworks:tin_block
+create_ironworks:tin_ore
+
+## items
+create_ironworks:brass_armor_boots
+create_ironworks:brass_armor_chestplate
+create_ironworks:brass_armor_helmet
+create_ironworks:brass_armor_leggings
+create_ironworks:brass_axe
+create_ironworks:brass_hammer
+create_ironworks:brass_hoe
+create_ironworks:brass_paxel
+create_ironworks:brass_pickaxe
+create_ironworks:brass_shovel
+create_ironworks:brass_sword
+create_ironworks:bronze_armor_boots
+create_ironworks:bronze_armor_chestplate
+create_ironworks:bronze_armor_helmet
+create_ironworks:bronze_armor_leggings
+create_ironworks:bronze_axe
+create_ironworks:bronze_block
+create_ironworks:bronze_hammer
+create_ironworks:bronze_hoe
+create_ironworks:bronze_ingot
+create_ironworks:bronze_nugget
+create_ironworks:bronze_paxel
+create_ironworks:bronze_pickaxe
+create_ironworks:bronze_sheet
+create_ironworks:bronze_shovel
+create_ironworks:bronze_sword
+create_ironworks:charcoal_dust
+create_ironworks:coal_dust
+create_ironworks:copper_armor_boots
+create_ironworks:copper_armor_chestplate
+create_ironworks:copper_armor_helmet
+create_ironworks:copper_armor_leggings
+create_ironworks:copper_axe
+create_ironworks:copper_hammer
+create_ironworks:copper_hoe
+create_ironworks:copper_paxel
+create_ironworks:copper_pickaxe
+create_ironworks:copper_shovel
+create_ironworks:copper_sword
+create_ironworks:crushed_raw_tin
+create_ironworks:deepslate_tin_ore
+create_ironworks:diamond_hammer
+create_ironworks:diamond_paxel
+create_ironworks:gold_hammer
+create_ironworks:gold_paxel
+create_ironworks:iron_hammer
+create_ironworks:iron_paxel
+create_ironworks:netherite_hammer
+create_ironworks:netherite_paxel
+create_ironworks:raw_tin
+create_ironworks:raw_tin_block
+create_ironworks:rose_quartz_armor_boots
+create_ironworks:rose_quartz_armor_chestplate
+create_ironworks:rose_quartz_armor_helmet
+create_ironworks:rose_quartz_armor_leggings
+create_ironworks:rose_quartz_block
+create_ironworks:steel_armor_boots
+create_ironworks:steel_armor_chestplate
+create_ironworks:steel_armor_helmet
+create_ironworks:steel_armor_leggings
+create_ironworks:steel_axe
+create_ironworks:steel_block
+create_ironworks:steel_hammer
+create_ironworks:steel_hoe
+create_ironworks:steel_ingot
+create_ironworks:steel_nugget
+create_ironworks:steel_paxel
+create_ironworks:steel_pickaxe
+create_ironworks:steel_sheet
+create_ironworks:steel_shovel
+create_ironworks:steel_sword
+create_ironworks:sturdy_armor_boots
+create_ironworks:sturdy_armor_chestplate
+create_ironworks:sturdy_armor_helmet
+create_ironworks:sturdy_armor_leggings
+create_ironworks:sturdy_sheet_block
+create_ironworks:tin_block
+create_ironworks:tin_ingot
+create_ironworks:tin_nugget
+create_ironworks:tin_ore
+create_ironworks:tin_sheet
+
+## neoforge biome_modifiers
+deepslate_tin_ore_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": { "type": "neoforge:any" }, "features": "create_ironworks:deepslate_tin_ore", "step": "underground_ores"}
+raw_tin_block_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": { "type": "neoforge:any" }, "features": "create_ironworks:raw_tin_block", "step": "underground_ores"}
+tin_ore_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": { "type": "neoforge:any" }, "features": "create_ironworks:tin_ore", "step": "underground_ores"}
+
+## c: common tag membership
+block/ores.json :: { "replace": false, "values": [ "create_ironworks:deepslate_tin_ore", "create_ironworks:tin_ore" ]}
+block/storage_blocks.json :: { "replace": false, "values": [ "create_ironworks:tin_block", "create_ironworks:steel_block", "create_ironworks:raw_tin_block", "create_ironworks:sturdy_sheet_block", "create_ironworks:rose_quartz_block", "create_ironworks:bronze_block" ]}
+block/ore_rates/dense.json :: { "replace": false, "values": [ "create_ironworks:deepslate_tin_ore", "create_ironworks:tin_ore" ]}
+block/ores/tin.json :: { "replace": false, "values": [ "create_ironworks:deepslate_tin_ore", "create_ironworks:tin_ore" ]}
+block/ores_in_ground/deepslate.json :: { "replace": false, "values": [ "create_ironworks:deepslate_tin_ore" ]}
+block/ores_in_ground/stone.json :: { "replace": false, "values": [ "create_ironworks:tin_ore" ]}
+block/storage_blocks/bronze.json :: { "replace": false, "values": [ "create_ironworks:bronze_block" ]}
+block/storage_blocks/raw_tin.json :: { "replace": false, "values": [ "create_ironworks:raw_tin_block" ]}
+block/storage_blocks/steel.json :: { "replace": false, "values": [ "create_ironworks:steel_block" ]}
+block/storage_blocks/tin.json :: { "replace": false, "values": [ "create_ironworks:tin_block" ]}
+item/axes.json :: { "replace": false, "values": [ "create_ironworks:brass_axe", "create_ironworks:copper_axe", "create_ironworks:steel_axe", "create_ironworks:bronze_axe" ]}
+item/dusts.json :: { "replace": false, "values": [ "create_ironworks:coal_dust", "create_ironworks:charcoal_dust" ]}
+item/hoes.json :: { "replace": false, "values": [ "create_ironworks:brass_hoe", "create_ironworks:copper_hoe", "create_ironworks:steel_hoe", "create_ironworks:bronze_hoe" ]}
+item/ingots.json :: { "replace": false, "values": [ "create_ironworks:steel_ingot", "create_ironworks:tin_ingot", "create_ironworks:bronze_ingot" ]}
+item/nuggets.json :: { "replace": false, "values": [ "create_ironworks:steel_nugget", "create_ironworks:tin_nugget", "create_ironworks:bronze_nugget" ]}
+item/ores.json :: { "replace": false, "values": [ "create_ironworks:deepslate_tin_ore", "create_ironworks:tin_ore" ]}
+item/pickaxes.json :: { "replace": false, "values": [ "create_ironworks:gold_paxel", "create_ironworks:diamond_hammer", "create_ironworks:steel_pickaxe", "create_ironworks:netherite_hammer", "create_ironworks:brass_hammer", "create_ironworks:bronze_pickaxe", "create_ironworks:iron_paxel", "create_ironworks:iron_hammer", "create_ironworks:bronze_hammer", "create_ironworks:netherite_paxel", "create_ironworks:steel_hammer", "create_ironworks:copper_pickaxe", "create_ironworks:brass_pickaxe", "create_ironworks:brass_paxel", "create_ironworks:diamond_paxel", "create_ironworks:gold_hammer", "create_ironworks:steel_paxel", "create_ironworks:copper_hammer", "create_ironworks:bronze_paxel", "create_ironworks:copper_paxel" ]}
+item/plates.json :: { "replace": false, "values": [ "create_ironworks:tin_sheet", "create_ironworks:bronze_sheet", "create_ironworks:steel_sheet" ]}
+item/raw_materials.json :: { "replace": false, "values": [ "create_ironworks:raw_tin" ]}
+item/shovels.json :: { "replace": false, "values": [ "create_ironworks:steel_shovel", "create_ironworks:copper_shovel", "create_ironworks:bronze_shovel", "create_ironworks:brass_shovel" ]}
+item/storage_blocks.json :: { "replace": false, "values": [ "create_ironworks:tin_block", "create_ironworks:steel_block", "create_ironworks:raw_tin_block", "create_ironworks:sturdy_sheet_block", "create_ironworks:rose_quartz_block", "create_ironworks:bronze_block" ]}
+item/swords.json :: { "replace": false, "values": [ "create_ironworks:bronze_sword", "create_ironworks:steel_sword", "create_ironworks:brass_sword", "create_ironworks:copper_sword" ]}
+item/tools.json :: { "replace": false, "values": [ "create_ironworks:gold_paxel", "create_ironworks:diamond_hammer", "create_ironworks:brass_axe", "create_ironworks:netherite_hammer", "create_ironworks:steel_pickaxe", "create_ironworks:steel_shovel", "create_ironworks:bronze_hammer", "create_ironworks:steel_hammer", "create_ironworks:steel_hoe", "create_ironworks:bronze_shovel", "create_ironworks:copper_pickaxe", "create_ironworks:brass_pickaxe", "create_ironworks:brass_paxel", "create_ironworks:gold_hammer", "create_ironworks:steel_paxel", "create_ironworks:copper_hammer", "create_ironworks:copper_axe", "create_ironworks:copper_shovel", "create_ironworks:bronze_paxel", "create_ironworks:bronze_hoe", "create_ironworks:copper_paxel", "create_ironworks:brass_hammer", "create_ironworks:bronze_pickaxe", "create_ironworks:copper_hoe", "create_ironworks:iron_paxel", "create_ironworks:iron_hammer", "create_ironworks:netherite_paxel", "create_ironworks:bronze_axe", "create_ironworks:bronze_sword", "create_ironworks:brass_hoe", "create_ironworks:diamond_paxel", "create_ironworks:steel_sword", "create_ironworks:brass_sword", "create_ironworks:steel_axe", "create_ironworks:copper_sword", "create_ironworks:brass_shovel" ]}
+item/dusts/coal.json :: { "replace": false, "values": [ "create_ironworks:coal_dust", "create_ironworks:charcoal_dust" ]}
+item/ingots/bronze.json :: { "replace": false, "values": [ "create_ironworks:bronze_ingot" ]}
+item/ingots/steel.json :: { "replace": false, "values": [ "create_ironworks:steel_ingot" ]}
+item/ingots/tin.json :: { "replace": false, "values": [ "create_ironworks:tin_ingot" ]}
+item/nuggets/bronze.json :: { "replace": false, "values": [ "create_ironworks:bronze_nugget" ]}
+item/nuggets/steel.json :: { "replace": false, "values": [ "create_ironworks:steel_nugget" ]}
+item/nuggets/tin.json :: { "replace": false, "values": [ "create_ironworks:tin_nugget" ]}
+item/ore_rates/dense.json :: { "replace": false, "values": [ "create_ironworks:deepslate_tin_ore", "create_ironworks:tin_ore" ]}
+item/ores/tin.json :: { "replace": false, "values": [ "create_ironworks:deepslate_tin_ore", "create_ironworks:tin_ore" ]}
+item/ores_in_ground/deepslate.json :: { "replace": false, "values": [ "create_ironworks:deepslate_tin_ore" ]}
+item/ores_in_ground/stone.json :: { "replace": false, "values": [ "create_ironworks:tin_ore" ]}
+item/plates/bronze.json :: { "replace": false, "values": [ "create_ironworks:bronze_sheet" ]}
+item/plates/steel.json :: { "replace": false, "values": [ "create_ironworks:steel_sheet" ]}
+item/plates/tin.json :: { "replace": false, "values": [ "create_ironworks:tin_sheet" ]}
+item/raw_materials/tin.json :: { "replace": false, "values": [ "create_ironworks:raw_tin" ]}
+item/storage_blocks/bronze.json :: { "replace": false, "values": [ "create_ironworks:bronze_block" ]}
+item/storage_blocks/raw_tin.json :: { "replace": false, "values": [ "create_ironworks:raw_tin_block" ]}
+item/storage_blocks/steel.json :: { "replace": false, "values": [ "create_ironworks:steel_block" ]}
+item/storage_blocks/tin.json :: { "replace": false, "values": [ "create_ironworks:tin_block" ]}
+item/tools/melee_weapon.json :: { "replace": false, "values": [ "create_ironworks:bronze_sword", "create_ironworks:brass_axe", "create_ironworks:steel_sword", "create_ironworks:copper_axe", "create_ironworks:brass_sword", "create_ironworks:steel_axe", "create_ironworks:copper_sword", "create_ironworks:bronze_axe" ]}
+item/tools/mining_tool.json :: { "replace": false, "values": [ "create_ironworks:gold_paxel", "create_ironworks:diamond_hammer", "create_ironworks:steel_pickaxe", "create_ironworks:netherite_hammer", "create_ironworks:brass_hammer", "create_ironworks:bronze_pickaxe", "create_ironworks:iron_paxel", "create_ironworks:iron_hammer", "create_ironworks:bronze_hammer", "create_ironworks:netherite_paxel", "create_ironworks:steel_hammer", "create_ironworks:copper_pickaxe", "create_ironworks:brass_pickaxe", "create_ironworks:brass_paxel", "create_ironworks:diamond_paxel", "create_ironworks:gold_hammer", "create_ironworks:steel_paxel", "create_ironworks:copper_hammer", "create_ironworks:bronze_paxel", "create_ironworks:copper_paxel" ]}

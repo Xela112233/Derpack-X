@@ -1,0 +1,19 @@
+# ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge
+
+## mod metadata (id / version / deps)
+license = "MIT License"
+modId = "ritchiesprojectilelib"
+version = "2.1.2"
+displayName = "Ritchie's Projectile Library"
+modId = "neoforge"
+versionRange = "[21.1.206,)"
+modId = "minecraft"
+versionRange = "1.21.1"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

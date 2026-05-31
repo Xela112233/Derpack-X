@@ -1,0 +1,1 @@
+freefbible:freef_bible_recipe | minecraft:crafting_shaped | freefbible:freef_bible minecraft:apple minecraft:bookshelf minecraft:crafting_shaped minecraft:diamond_sword minecraft:gold_ingot minecraft:mutton minecraft:torch

@@ -1,0 +1,50 @@
+# fluid-1.2.4
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="fluid"
+version="1.2.4"
+displayName="Create: Fluid"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+modId="create"
+versionRange="[6.0.4,)"
+
+## blocks
+fluid:aqueduct
+fluid:centrifugal_pump
+fluid:copper_sink
+fluid:copper_tap
+fluid:fluid_interface
+fluid:gutter_outlet
+fluid:pipette
+fluid:redstone_triple_valve
+fluid:redstone_valve
+fluid:smart_fluid_interface
+fluid:smart_gutter_outlet
+
+## items
+fluid:baton
+fluid:baton_base
+fluid:baton_highlight
+fluid:baton_highlight_base
+fluid:baton_model
+fluid:baton_original
+fluid:centrifugal_pump
+fluid:copper_sink
+fluid:copper_tap
+fluid:fluid_interface
+fluid:gutter_outlet
+fluid:honeycomb_mold
+fluid:neon_tube
+fluid:pipette
+fluid:redstone_triple_valve
+fluid:redstone_valve
+fluid:smart_fluid_interface
+fluid:smart_gutter_outlet
+
+## neoforge biome_modifiers
+
+## c: common tag membership

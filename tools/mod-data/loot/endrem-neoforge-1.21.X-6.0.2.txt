@@ -1,0 +1,16 @@
+endrem:minecraft/chests/abandoned_mineshaft | ? | endrem:lost_eye
+endrem:minecraft/chests/bastion_treasure | ? | endrem:cursed_eye
+endrem:minecraft/chests/buried_treasure | ? | endrem:black_eye
+endrem:minecraft/chests/desert_pyramid | ? | endrem:old_eye
+endrem:minecraft/chests/igloo_chest | ? | endrem:cold_eye
+endrem:minecraft/chests/jungle_temple | ? | endrem:rogue_eye
+endrem:minecraft/chests/nether_bridge | ? | endrem:nether_eye
+endrem:minecraft/chests/pillager_outpost | ? | endrem:corrupted_eye
+endrem:minecraft/chests/shipwreck_treasure | ? | endrem:black_eye
+endrem:minecraft/chests/simple_dungeon | ? | endrem:lost_eye endrem:old_eye
+endrem:minecraft/chests/woodland_mansion | ? | endrem:magical_eye
+endrem:minecraft/entities/elder_guardian | ? | endrem:guardian_eye
+endrem:minecraft/entities/evoker | ? | endrem:magical_eye
+endrem:minecraft/entities/skeleton_horse | ? | endrem:undead_soul
+endrem:minecraft/entities/witch | ? | endrem:witch_pupil
+endrem:minecraft/entities/wither | ? | endrem:wither_eye

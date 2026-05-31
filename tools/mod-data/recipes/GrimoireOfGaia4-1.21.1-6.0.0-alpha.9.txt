@@ -1,0 +1,18 @@
+grimoireofgaia:compat/create/fireshard_to_lava | create:emptying | create:emptying grimoireofgaia:fireshard minecraft:lava neoforge:mod_loaded
+grimoireofgaia:compat/farmersdelight/slice_golden_apple_pie | farmersdelight:cutting | c:tools/knife farmersdelight:cutting grimoireofgaia:golden_apple_pie grimoireofgaia:golden_apple_pie_slice neoforge:mod_loaded
+grimoireofgaia:diamond_shard_to_diamond | minecraft:crafting_shaped | grimoireofgaia:diamond_shard minecraft:crafting_shaped minecraft:diamond
+grimoireofgaia:emerald_shard_to_emerald | minecraft:crafting_shaped | grimoireofgaia:emerald_shard minecraft:crafting_shaped minecraft:emerald
+grimoireofgaia:experience_diamond | minecraft:smelting | grimoireofgaia:box_diamond grimoireofgaia:experience_diamond minecraft:smelting
+grimoireofgaia:experience_gold | minecraft:smelting | grimoireofgaia:box_gold grimoireofgaia:experience_gold minecraft:smelting
+grimoireofgaia:experience_iron | minecraft:smelting | grimoireofgaia:box_iron grimoireofgaia:experience_iron minecraft:smelting
+grimoireofgaia:fragment_to_elytra | minecraft:crafting_shapeless | grimoireofgaia:elytra_fragment minecraft:crafting_shapeless minecraft:elytra minecraft:popped_chorus_fruit
+grimoireofgaia:fur_to_leather | minecraft:smelting | grimoireofgaia:fur minecraft:leather minecraft:smelting
+grimoireofgaia:gaiapedia | minecraft:crafting_shapeless | grimoireofgaia:gaiapedia minecraft:book minecraft:crafting_shapeless minecraft:iron_nugget patchouli:guide_book
+grimoireofgaia:golden_apple_pie | minecraft:crafting_shapeless | grimoireofgaia:golden_apple_pie grimoireofgaia:golden_apple_pie_slice minecraft:crafting_shapeless
+grimoireofgaia:headgear_doll | minecraft:crafting_shapeless | grimoireofgaia:doll_maid grimoireofgaia:headgear_doll minecraft:crafting_shapeless
+grimoireofgaia:monster_feed | minecraft:crafting_shapeless | c:seeds/wheat grimoireofgaia:experience_iron grimoireofgaia:monster_feed minecraft:crafting_shapeless
+grimoireofgaia:monster_feed_1 | minecraft:crafting_shapeless | c:seeds/wheat grimoireofgaia:experience_gold grimoireofgaia:monster_feed minecraft:crafting_shapeless
+grimoireofgaia:monster_feed_2 | minecraft:crafting_shapeless | c:seeds/wheat grimoireofgaia:experience_diamond grimoireofgaia:monster_feed minecraft:crafting_shapeless
+grimoireofgaia:pearl_block | minecraft:crafting_shapeless | grimoireofgaia:pearl_block grimoireofgaia:shiny_pearl minecraft:crafting_shapeless
+grimoireofgaia:quill | minecraft:crafting_shapeless | c:feathers c:gems/diamond grimoireofgaia:quill minecraft:crafting_shapeless
+grimoireofgaia:stone_coal_to_coal_block | minecraft:crafting_shaped | grimoireofgaia:stone_coal minecraft:coal_block minecraft:crafting_shaped

@@ -1,0 +1,19 @@
+# supermartijn642corelib-1.1.21-neoforge-mc1.21
+
+## mod metadata (id / version / deps)
+license="All rights reserved" #mandatory
+modId="supermartijn642corelib" #mandatory
+version="1.1.21" #mandatory
+displayName="SuperMartijn642's Core Lib" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.102-beta,)" #mandatory
+modId="minecraft"
+versionRange="[1.21,1.21.2)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,54 @@
+create_new_age:compacting/blank_circuit | create:compacting | c:dusts/redstone c:ingots/iron c:stones create:compacting create_new_age:blank_circuit minecraft:quartz
+create_new_age:crushing/radioactive_thorium | create:crushing | create:crushing create:experience_nugget create_new_age:radioactive_thorium create_new_age:thorium minecraft:iron_nugget
+create_new_age:cutting/copper_wire | create:cutting | c:plates/copper create:cutting create_new_age:copper_wire
+create_new_age:cutting/overcharged_golden_wire | create:cutting | create:cutting create_new_age:overcharged_golden_sheet create_new_age:overcharged_golden_wire
+create_new_age:cutting/overcharged_iron_wire | create:cutting | create:cutting create_new_age:overcharged_iron_sheet create_new_age:overcharged_iron_wire
+create_new_age:deploying/copper_circuit | create:deploying | create:deploying create_new_age:blank_circuit create_new_age:copper_circuit create_new_age:copper_wire
+create_new_age:energising/experience_bottle | create_new_age:energising | create_new_age:energising minecraft:experience_bottle minecraft:glass_bottle
+create_new_age:energising/overcharged_diamond | create_new_age:energising | c:gems/diamond create_new_age:energising create_new_age:overcharged_diamond
+create_new_age:energising/overcharged_gold | create_new_age:energising | c:ingots/gold create_new_age:energising create_new_age:overcharged_gold
+create_new_age:energising/overcharged_golden_sheet | create_new_age:energising | c:plates/gold create_new_age:energising create_new_age:overcharged_golden_sheet
+create_new_age:energising/overcharged_iron | create_new_age:energising | c:ingots/iron create_new_age:energising create_new_age:overcharged_iron
+create_new_age:energising/overcharged_iron_sheet | create_new_age:energising | c:plates/iron create_new_age:energising create_new_age:overcharged_iron_sheet
+create_new_age:mechanical_crafting/advanced_motor_extension | create:mechanical_crafting | create:mechanical_crafting create_new_age:advanced_motor_extension create_new_age:copper_circuit create_new_age:overcharged_diamond create_new_age:overcharged_iron_sheet create_new_age:reinforced_motor
+create_new_age:mechanical_crafting/reactor_rod | create:mechanical_crafting | c:plates/gold create:mechanical_crafting create_new_age:nuclear_fuel create_new_age:reactor_casing create_new_age:reactor_glass create_new_age:reactor_rod
+create_new_age:mechanical_crafting/reinforced_motor | create:mechanical_crafting | c:gems/diamond c:plates/iron c:storage_blocks/redstone create:brass_casing create:mechanical_crafting create:shaft create_new_age:overcharged_diamond create_new_age:reinforced_motor
+create_new_age:mixing/thorium | create:mixing | c:stones create:mixing create_new_age:thorium minecraft:clay minecraft:water neoforge:single
+create_new_age:pressing/overcharged_golden_sheet | create:pressing | create:pressing create_new_age:overcharged_gold create_new_age:overcharged_golden_sheet
+create_new_age:pressing/overcharged_iron_sheet | create:pressing | create:pressing create_new_age:overcharged_iron create_new_age:overcharged_iron_sheet
+create_new_age:sequenced_assembly/enchanted_golden_apple | create:sequenced_assembly | c:storage_blocks/gold create:deploying create:sequenced_assembly create_new_age:energising create_new_age:incomplete_enchanted_golden_apple minecraft:apple minecraft:enchanted_golden_apple
+create_new_age:sequenced_assembly/nuclear_fuel | create:sequenced_assembly | c:plates/iron create:deploying create:pressing create:sequenced_assembly create_new_age:incomplete_fuel create_new_age:nuclear_fuel create_new_age:radioactive_thorium
+create_new_age:sequenced_assembly/overcharged_diamond_wire | create:sequenced_assembly | create:cutting create:sequenced_assembly create_new_age:energising create_new_age:incomplete_wire create_new_age:overcharged_diamond create_new_age:overcharged_diamond_wire
+create_new_age:sequenced_assembly/reactor_casing | create:sequenced_assembly | c:plates/iron create:deploying create:pressing create:sequenced_assembly create_new_age:energising create_new_age:incomplete_reactor_casing create_new_age:reactor_casing minecraft:bricks
+create_new_age:shaped/advanced_energiser | minecraft:crafting_shaped | create_new_age:advanced_energiser create_new_age:basic_energiser create_new_age:overcharged_gold minecraft:crafting_shaped minecraft:lightning_rod
+create_new_age:shaped/advanced_motor | minecraft:crafting_shaped | c:nuggets/gold create:brass_casing create:shaft create_new_age:advanced_motor create_new_age:overcharged_iron minecraft:crafting_shaped
+create_new_age:shaped/advanced_solar_heating_plate | minecraft:crafting_shaped | create_new_age:advanced_solar_heating_plate create_new_age:heat_pipe create_new_age:overcharged_iron minecraft:crafting_shaped minecraft:glass
+create_new_age:shaped/basic_motor | minecraft:crafting_shaped | c:nuggets/iron create:andesite_casing create:shaft create_new_age:basic_motor create_new_age:magnetite_block minecraft:crafting_shaped
+create_new_age:shaped/basic_motor_extension | minecraft:crafting_shaped | create_new_age:basic_motor create_new_age:basic_motor_extension create_new_age:copper_circuit create_new_age:overcharged_iron minecraft:crafting_shaped
+create_new_age:shaped/basic_solar_heating_plate | minecraft:crafting_shaped | c:ingots/iron create_new_age:basic_solar_heating_plate create_new_age:heat_pipe minecraft:crafting_shaped minecraft:glass
+create_new_age:shaped/carbon_brushes | minecraft:crafting_shaped | create:andesite_alloy create:shaft create_new_age:carbon_brushes minecraft:coal minecraft:crafting_shaped
+create_new_age:shaped/copper_wire_block | minecraft:crafting_shaped | create_new_age:copper_wire create_new_age:copper_wire_block minecraft:crafting_shaped
+create_new_age:shaped/electrical_connector | minecraft:crafting_shaped | c:nuggets/copper create:andesite_alloy create_new_age:electrical_connector minecraft:crafting_shaped
+create_new_age:shaped/electrical_connector_mirrored | minecraft:crafting_shaped | c:nuggets/copper create:andesite_alloy create_new_age:electrical_connector minecraft:crafting_shaped
+create_new_age:shaped/fluxuated_magnetite | minecraft:crafting_shaped | create_new_age:fluxuated_magnetite create_new_age:magnetite_block create_new_age:overcharged_diamond create_new_age:overcharged_gold minecraft:crafting_shaped
+create_new_age:shaped/generator_coil | minecraft:crafting_shaped | c:ingots/copper create:andesite_alloy_block create_new_age:generator_coil minecraft:crafting_shaped
+create_new_age:shaped/heat_pipe | minecraft:crafting_shaped | c:nuggets/zinc c:plates/copper create_new_age:heat_pipe minecraft:crafting_shaped minecraft:terracotta
+create_new_age:shaped/heat_pipe_mirrored | minecraft:crafting_shaped | c:nuggets/zinc c:plates/copper create_new_age:heat_pipe minecraft:crafting_shaped minecraft:terracotta
+create_new_age:shaped/heat_pump | minecraft:crafting_shaped | create_new_age:heat_pipe create_new_age:heat_pump create_new_age:thorium minecraft:crafting_shaped
+create_new_age:shaped/heater | minecraft:crafting_shaped | c:nuggets/iron create:empty_blaze_burner create_new_age:heat_pipe create_new_age:heater create_new_age:overcharged_iron minecraft:crafting_shaped
+create_new_age:shaped/layered_magnet | minecraft:crafting_shaped | create_new_age:layered_magnet create_new_age:overcharged_gold create_new_age:overcharged_iron minecraft:crafting_shaped
+create_new_age:shaped/netherite_magnet | minecraft:crafting_shaped | create_new_age:netherite_magnet create_new_age:overcharged_diamond minecraft:crafting_shaped minecraft:netherite_scrap
+create_new_age:shaped/overcharged_diamond_wire_block | minecraft:crafting_shaped | create_new_age:overcharged_diamond_wire create_new_age:overcharged_diamond_wire_block minecraft:crafting_shaped
+create_new_age:shaped/overcharged_golden_wire_block | minecraft:crafting_shaped | create_new_age:overcharged_golden_wire create_new_age:overcharged_golden_wire_block minecraft:crafting_shaped
+create_new_age:shaped/overcharged_iron_wire_block | minecraft:crafting_shaped | create_new_age:overcharged_iron_wire create_new_age:overcharged_iron_wire_block minecraft:crafting_shaped
+create_new_age:shaped/reactor_fuel_acceptor | minecraft:crafting_shaped | create:andesite_funnel create:brass_funnel create_new_age:reactor_casing create_new_age:reactor_fuel_acceptor minecraft:crafting_shaped
+create_new_age:shaped/reactor_glass | minecraft:crafting_shaped | c:glass_blocks create_new_age:reactor_casing create_new_age:reactor_glass minecraft:crafting_shaped
+create_new_age:shaped/redstone_magnet | minecraft:crafting_shaped | c:nuggets/iron c:storage_blocks/redstone create_new_age:redstone_magnet minecraft:crafting_shaped
+create_new_age:shaped/reinforced_energiser | minecraft:crafting_shaped | c:gems/diamond c:ingots/copper c:storage_blocks/copper create_new_age:advanced_energiser create_new_age:overcharged_diamond create_new_age:reinforced_energiser minecraft:crafting_shaped
+create_new_age:shaped/stirling_engine | minecraft:crafting_shaped | c:nuggets/iron c:storage_blocks/copper create:shaft create_new_age:heat_pipe create_new_age:stirling_engine minecraft:crafting_shaped
+create_new_age:shapeless/basic_energiser | minecraft:crafting_shapeless | create:andesite_casing create_new_age:basic_energiser minecraft:crafting_shapeless minecraft:lightning_rod
+create_new_age:shapeless/copper_wire | minecraft:crafting_shapeless | create_new_age:copper_wire create_new_age:copper_wire_block minecraft:crafting_shapeless
+create_new_age:shapeless/overcharged_diamond_wire | minecraft:crafting_shapeless | create_new_age:overcharged_diamond_wire create_new_age:overcharged_diamond_wire_block minecraft:crafting_shapeless
+create_new_age:shapeless/overcharged_golden_wire | minecraft:crafting_shapeless | create_new_age:overcharged_golden_wire create_new_age:overcharged_golden_wire_block minecraft:crafting_shapeless
+create_new_age:shapeless/overcharged_iron_wire | minecraft:crafting_shapeless | create_new_age:overcharged_iron_wire create_new_age:overcharged_iron_wire_block minecraft:crafting_shapeless
+create_new_age:shapeless/reactor_heat_vent | minecraft:crafting_shapeless | create_new_age:heat_pipe create_new_age:reactor_casing create_new_age:reactor_heat_vent minecraft:crafting_shapeless

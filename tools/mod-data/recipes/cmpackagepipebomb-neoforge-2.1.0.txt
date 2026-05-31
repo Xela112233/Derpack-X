@@ -1,0 +1,3 @@
+cmpackagepipebomb:pipebomb | minecraft:crafting_shapeless | cmpackagepipebomb:pipebomb create:fluid_pipe minecraft:crafting_shapeless minecraft:gunpowder
+cmpackagepipebomb:pipebomb_rigged | minecraft:crafting_shapeless | cmpackagepipebomb:pipebomb cmpackagepipebomb:pipebomb_rigged minecraft:buttons minecraft:crafting_shapeless
+cmpackagepipebomb:tnt_rigged | minecraft:crafting_shapeless | cmpackagepipebomb:tnt_rigged minecraft:buttons minecraft:crafting_shapeless minecraft:tnt

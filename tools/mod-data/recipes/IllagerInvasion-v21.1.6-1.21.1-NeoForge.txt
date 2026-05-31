@@ -1,0 +1,4 @@
+illagerinvasion:hallowed_gem | minecraft:crafting_shaped | illagerinvasion:hallowed_gem illagerinvasion:illusionary_dust illagerinvasion:unusual_dust minecraft:amethyst_shard minecraft:crafting_shaped minecraft:diamond
+illagerinvasion:horn_of_sight | minecraft:crafting_shaped | illagerinvasion:hallowed_gem illagerinvasion:horn_of_sight minecraft:crafting_shaped minecraft:goat_horn minecraft:gold_ingot
+illagerinvasion:imbuing_table | minecraft:crafting_shaped | illagerinvasion:imbuing_table illagerinvasion:primal_essence minecraft:copper_block minecraft:crafting_shaped minecraft:dark_oak_log minecraft:experience_bottle minecraft:paper
+illagerinvasion:platinum_sheet | minecraft:crafting_shapeless | illagerinvasion:platinum_chunk illagerinvasion:platinum_sheet minecraft:crafting_shapeless

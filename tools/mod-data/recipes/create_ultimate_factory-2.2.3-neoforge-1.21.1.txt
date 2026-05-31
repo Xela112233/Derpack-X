@@ -1,0 +1,35 @@
+create_ultimate_factory:compacting_asurine | create:compacting | create:asurine create:compacting create:zinc_nugget minecraft:gravel minecraft:water
+create_ultimate_factory:compacting_blazepowder | create:compacting | create:compacting minecraft:blaze_powder minecraft:blaze_rod
+create_ultimate_factory:compacting_calcite | create:compacting | create:compacting minecraft:bone_meal minecraft:calcite minecraft:gravel
+create_ultimate_factory:compacting_coalblock | create:compacting | create:compacting minecraft:coal_block minecraft:diamond minecraft:lava
+create_ultimate_factory:compacting_crimsite | create:compacting | create:compacting create:crimsite minecraft:gravel minecraft:iron_nugget minecraft:lava
+create_ultimate_factory:compacting_deepslate | create:compacting | create:compacting minecraft:deepslate minecraft:lava minecraft:stone
+create_ultimate_factory:compacting_ochrum | create:compacting | create:compacting create:ochrum minecraft:gold_nugget minecraft:gravel minecraft:lava
+create_ultimate_factory:compacting_tuff | create:compacting | create:compacting minecraft:cobblestone minecraft:lava minecraft:tuff
+create_ultimate_factory:compacting_veridium | create:compacting | create:compacting create:copper_nugget create:veridium minecraft:gravel minecraft:lava
+create_ultimate_factory:compat/tfmg_crushing_limestone | create:crushing | create:crushing create:limestone minecraft:lapis_lazuli minecraft:quartz neoforge:mod_loaded tfmg:limesand
+create_ultimate_factory:compat/wst_crushing_blackstone | create:crushing | create:crushing minecraft:blackstone neoforge:mod_loaded wstweaks:fragment
+create_ultimate_factory:crushing_blackstone | create:crushing | create:crushing minecraft:blackstone minecraft:wither_skeleton_skull neoforge:mod_loaded neoforge:not
+create_ultimate_factory:crushing_brownmushroom | create:crushing | create:crushing minecraft:brown_mushroom minecraft:brown_mushroom_block minecraft:red_mushroom
+create_ultimate_factory:crushing_coral | create:crushing | create:crushing create_ultimate_factory:corals minecraft:heart_of_the_sea
+create_ultimate_factory:crushing_cryingobsidian | create:crushing | create:crushing create:powdered_obsidian minecraft:amethyst_shard minecraft:crying_obsidian
+create_ultimate_factory:crushing_deadcorals | create:crushing | create:crushing create_ultimate_factory:dead_corals minecraft:bone_meal
+create_ultimate_factory:crushing_endstone | create:crushing | create:crushing minecraft:end_stone minecraft:ender_pearl
+create_ultimate_factory:crushing_limestone | create:crushing | create:crushing create:limestone minecraft:lapis_lazuli minecraft:quartz neoforge:mod_loaded neoforge:not
+create_ultimate_factory:crushing_netherite | create:crushing | create:crushing minecraft:nether_brick minecraft:nether_bricks minecraft:netherite_scrap
+create_ultimate_factory:crushing_redmushroom | create:crushing | create:crushing minecraft:brown_mushroom minecraft:red_mushroom minecraft:red_mushroom_block
+create_ultimate_factory:crushing_redsandstone | create:crushing | create:crushing minecraft:nautilus_shell minecraft:red_sand minecraft:red_sandstone
+create_ultimate_factory:crushing_scoria | create:crushing | create:crushing create:scoria minecraft:blaze_powder minecraft:blaze_rod
+create_ultimate_factory:crushing_soulsand | create:crushing | create:crushing minecraft:glowstone_dust minecraft:soul_sand
+create_ultimate_factory:haunting_apple | create:haunting | create:haunting minecraft:apple minecraft:chorus_fruit
+create_ultimate_factory:haunting_charcoal | create:haunting | create:haunting minecraft:charcoal minecraft:coal
+create_ultimate_factory:haunting_netherrack | create:haunting | create:haunting minecraft:basalt minecraft:netherrack
+create_ultimate_factory:haunting_obsidian | create:haunting | create:haunting minecraft:crying_obsidian minecraft:obsidian
+create_ultimate_factory:haunting_spidereye | create:haunting | create:haunting minecraft:fermented_spider_eye minecraft:spider_eye
+create_ultimate_factory:haunting_witherrose | create:haunting | create:haunting minecraft:poppy minecraft:wither_rose
+create_ultimate_factory:mixing_dripstone | create:mixing | create:mixing minecraft:calcite minecraft:dripstone_block minecraft:water
+create_ultimate_factory:mixing_gunpowder | create:mixing | create:mixing minecraft:blaze_powder minecraft:coals minecraft:gunpowder
+create_ultimate_factory:mixing_redstone | create:mixing | create:mixing minecraft:flint minecraft:lava minecraft:netherrack minecraft:redstone
+create_ultimate_factory:splashing_magma_cream | create:splashing | create:splashing minecraft:magma_cream minecraft:slime_ball
+create_ultimate_factory:splashing_packed_ice | create:splashing | create:splashing minecraft:blue_ice minecraft:packed_ice
+create_ultimate_factory:splashing_terracotta | create:splashing | create:splashing minecraft:terracotta

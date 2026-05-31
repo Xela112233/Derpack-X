@@ -1,0 +1,1 @@
+createtreadmill:blocks/treadmill | minecraft:block | createtreadmill:treadmill_item minecraft:block minecraft:item minecraft:survives_explosion

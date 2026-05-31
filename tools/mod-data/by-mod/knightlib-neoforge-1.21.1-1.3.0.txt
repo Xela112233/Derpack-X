@@ -1,0 +1,26 @@
+# knightlib-neoforge-1.21.1-1.3.0
+
+## mod metadata (id / version / deps)
+license = "GNU GPL v3.0" # Review your options at https://choosealicense.com/.
+modId = "knightlib" #mandatory
+version = "1.3.0" #mandatory
+displayName = "Knight Lib" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.1.80,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1, 1.22)"
+
+## blocks
+knightlib:great_chalice
+
+## items
+knightlib:empty_grail
+knightlib:filled_grail
+knightlib:great_chalice
+knightlib:great_essence
+knightlib:homunculus
+knightlib:small_essence
+
+## neoforge biome_modifiers
+
+## c: common tag membership

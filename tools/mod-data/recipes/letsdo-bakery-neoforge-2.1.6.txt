@@ -1,0 +1,73 @@
+bakery:baking_station | minecraft:crafting_shaped | bakery:baker_station minecraft:bricks minecraft:crafting_shaped minecraft:sugar minecraft:wooden_slabs
+bakery:banner_from_smithing_table | minecraft:smithing_transform | bakery:bakery_banner minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+bakery:blank_cake_interaction/apple_cupcake | bakery:blank_cake_interaction | bakery:apple_cupcake_block bakery:apple_jam bakery:blank_cake_interaction bakery:jar minecraft:slime_block_place
+bakery:blank_cake_interaction/chocolate_cake | bakery:blank_cake_interaction | bakery:blank_cake_interaction bakery:chocolate_cake bakery:chocolate_jam bakery:jar minecraft:slime_block_place
+bakery:blank_cake_interaction/chocolate_cookie | bakery:blank_cake_interaction | bakery:blank_cake_interaction bakery:chocolate_cookie_block bakery:chocolate_jam bakery:jar minecraft:slime_block_place
+bakery:blank_cake_interaction/chocolate_gateau | bakery:blank_cake_interaction | bakery:blank_cake_interaction bakery:chocolate_gateau bakery:chocolate_truffle minecraft:slime_block_place
+bakery:blank_cake_interaction/knife_cut | bakery:blank_cake_interaction | bakery:blank_cake_interaction bakery:cake_cut bakery:knives
+bakery:blank_cake_interaction/rolling_pin | bakery:blank_cake_interaction | bakery:blank_cake_interaction bakery:rolling_pin minecraft:entity.generic.big_fall
+bakery:blank_cake_interaction/strawberry_cake | bakery:blank_cake_interaction | bakery:blank_cake_interaction bakery:jar bakery:strawberry_cake bakery:strawberry_jam minecraft:slime_block_place
+bakery:blank_cake_interaction/strawberry_cookie | bakery:blank_cake_interaction | bakery:blank_cake_interaction bakery:jar bakery:strawberry_cookie_block bakery:strawberry_jam minecraft:slime_block_place
+bakery:blank_cake_interaction/strawberry_cupcake | bakery:blank_cake_interaction | bakery:blank_cake_interaction bakery:jar bakery:strawberry_cupcake_block bakery:strawberry_jam minecraft:slime_block_place
+bakery:blank_cake_interaction/sweetberry_cake | bakery:blank_cake_interaction | bakery:blank_cake_interaction bakery:jar bakery:sweetberry_cake bakery:sweetberry_jam minecraft:slime_block_place
+bakery:blank_cake_interaction/sweetberry_cookie | bakery:blank_cake_interaction | bakery:blank_cake_interaction bakery:jar bakery:sweetberry_cookie_block bakery:sweetberry_jam minecraft:slime_block_place
+bakery:blank_cake_interaction/sweetberry_cupcake | bakery:blank_cake_interaction | bakery:blank_cake_interaction bakery:jar bakery:sweetberry_cupcake_block bakery:sweetberry_jam minecraft:slime_block_place
+bakery:bread_crate | minecraft:crafting_shaped | bakery:baguette bakery:braided_bread bakery:bread bakery:bread_crate bakery:bun bakery:tray minecraft:crafting_shaped
+bakery:bread_knife | minecraft:crafting_shaped | bakery:bread_knife minecraft:crafting_shaped minecraft:iron_ingot minecraft:planks
+bakery:bread_with_jam | minecraft:crafting_shapeless | bakery:bread bakery:bread_with_jam bakery:jam minecraft:crafting_shapeless
+bakery:breadbox | minecraft:crafting_shaped | bakery:breadbox minecraft:crafting_shaped minecraft:stick minecraft:wooden_slabs
+bakery:brick_counter | minecraft:crafting_shaped | bakery:brick_counter minecraft:bricks minecraft:crafting_shaped minecraft:wooden_slabs
+bakery:brown_dye_from_chocolate | minecraft:crafting_shapeless | bakery:chocolate_truffle minecraft:brown_dye minecraft:crafting_shapeless
+bakery:cabinet | minecraft:crafting_shaped | bakery:cabinet minecraft:barrel minecraft:crafting_shaped minecraft:planks
+bakery:cake_display | minecraft:crafting_shaped | bakery:cake_display minecraft:crafting_shaped minecraft:glass_pane minecraft:planks minecraft:wooden_slabs
+bakery:cake_stand | minecraft:crafting_shaped | bakery:cake_stand minecraft:brick minecraft:crafting_shaped minecraft:glass_pane minecraft:white_dye
+bakery:chocolate_box | minecraft:crafting_shaped | bakery:chocolate_box bakery:chocolate_truffle minecraft:chest minecraft:crafting_shaped
+bakery:cupcake_display | minecraft:crafting_shaped | bakery:cupcake_display minecraft:crafting_shaped minecraft:iron_nugget minecraft:wooden_slabs
+bakery:drawer | minecraft:crafting_shaped | bakery:drawer minecraft:barrel minecraft:crafting_shaped minecraft:planks
+bakery:iron_bench | minecraft:crafting_shaped | bakery:iron_bench minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_nugget
+bakery:iron_chair | minecraft:crafting_shaped | bakery:iron_chair minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_nugget
+bakery:iron_table | minecraft:crafting_shaped | bakery:iron_table minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_nugget
+bakery:jar | minecraft:crafting_shaped | bakery:jar minecraft:crafting_shaped minecraft:glass_pane minecraft:wooden_slabs
+bakery:kitchen_sink | minecraft:crafting_shaped | bakery:kitchen_sink minecraft:bricks minecraft:crafting_shaped minecraft:iron_ingot
+bakery:rolling_pin | minecraft:crafting_shaped | bakery:rolling_pin minecraft:crafting_shaped minecraft:planks minecraft:wooden_slabs
+bakery:sandwich | minecraft:crafting_shapeless | bakery:bread bakery:cooked_beef bakery:sandwich farm_and_charm:cabbage minecraft:crafting_shapeless
+bakery:small_cooking_pot | minecraft:crafting_shaped | bakery:small_cooking_pot minecraft:crafting_shaped minecraft:iron_ingot minecraft:wooden_slabs
+bakery:street_sign | minecraft:crafting_shaped | bakery:street_sign minecraft:crafting_shaped minecraft:paper minecraft:planks
+bakery:tray | minecraft:crafting_shaped | bakery:tray minecraft:crafting_shaped minecraft:planks minecraft:wooden_slabs
+bakery:vegetable_sandwich | minecraft:crafting_shapeless | bakery:bread bakery:vegetable_sandwich farm_and_charm:cabbage farm_and_charm:tomato minecraft:beetroot minecraft:carrot minecraft:crafting_shapeless
+bakery:wall_cabinet | minecraft:crafting_shaped | bakery:wall_cabinet minecraft:barrel minecraft:crafting_shaped minecraft:wooden_slabs
+bakery:wall_display | minecraft:crafting_shaped | bakery:wall_display minecraft:crafting_shaped minecraft:stick minecraft:wooden_slabs
+farm_and_charm:crafting_bowl/cake_dough | farm_and_charm:crafting_bowl | bakery:cake_dough bakery:eggs bakery:milk farm_and_charm:crafting_bowl farm_and_charm:flour minecraft:sugar
+farm_and_charm:crafting_bowl/sweet_dough | farm_and_charm:crafting_bowl | bakery:eggs bakery:sweet_dough bakery:water_bottles farm_and_charm:crafting_bowl farm_and_charm:flour minecraft:sugar
+farm_and_charm:pot_cooking/apple_jam | farm_and_charm:pot_cooking | bakery:apple_jam bakery:jar farm_and_charm:pot_cooking minecraft:apple minecraft:sugar
+farm_and_charm:pot_cooking/beetroot_soup | farm_and_charm:pot_cooking | farm_and_charm:pot_cooking minecraft:beetroot minecraft:beetroot_soup minecraft:bowl
+farm_and_charm:pot_cooking/chocolate | farm_and_charm:pot_cooking | bakery:chocolate_truffle bakery:jar bakery:milk farm_and_charm:pot_cooking minecraft:cocoa_beans minecraft:sugar
+farm_and_charm:pot_cooking/chocolate_jam | farm_and_charm:pot_cooking | bakery:chocolate bakery:chocolate_jam bakery:jar bakery:milk farm_and_charm:pot_cooking minecraft:sugar
+farm_and_charm:pot_cooking/glowberry_jam | farm_and_charm:pot_cooking | bakery:glowberry_jam bakery:jar farm_and_charm:pot_cooking minecraft:glow_berries minecraft:sugar
+farm_and_charm:pot_cooking/pudding | farm_and_charm:pot_cooking | bakery:eggs bakery:jam bakery:jar bakery:milk bakery:pudding farm_and_charm:pot_cooking
+farm_and_charm:pot_cooking/rabbit_stew | farm_and_charm:pot_cooking | farm_and_charm:pot_cooking minecraft:bowl minecraft:brown_mushroom minecraft:carrot minecraft:potato minecraft:rabbit minecraft:rabbit_stew
+farm_and_charm:pot_cooking/strawberry_jam | farm_and_charm:pot_cooking | bakery:jar bakery:strawberry_jam farm_and_charm:pot_cooking farm_and_charm:strawberry minecraft:sugar
+farm_and_charm:pot_cooking/sweetberry_jam | farm_and_charm:pot_cooking | bakery:jar bakery:sweetberry_jam farm_and_charm:pot_cooking minecraft:sugar minecraft:sweet_berries
+farm_and_charm:stove/apple_pie | farm_and_charm:stove | bakery:apple_pie bakery:sweet_dough farm_and_charm:stove minecraft:apple minecraft:sugar
+farm_and_charm:stove/baguette | farm_and_charm:stove | bakery:baguette bakery:dough bakery:sweet_dough farm_and_charm:stove farm_and_charm:yeast
+farm_and_charm:stove/braided_bread | farm_and_charm:stove | bakery:braided_bread bakery:dough bakery:sweet_dough farm_and_charm:stove minecraft:sugar
+farm_and_charm:stove/bread | farm_and_charm:stove | bakery:bread bakery:dough bakery:water_bottles farm_and_charm:stove minecraft:sugar
+farm_and_charm:stove/bun | farm_and_charm:stove | bakery:bun bakery:eggs farm_and_charm:dough farm_and_charm:stove farm_and_charm:yeast
+farm_and_charm:stove/bundt_cake | farm_and_charm:stove | bakery:bundt_cake bakery:eggs farm_and_charm:stove farm_and_charm:yeast minecraft:sugar
+farm_and_charm:stove/chocolate_tart | farm_and_charm:stove | bakery:chocolate bakery:chocolate_tart bakery:sweet_dough farm_and_charm:stove farm_and_charm:yeast
+farm_and_charm:stove/cornet | farm_and_charm:stove | bakery:cornet bakery:sweet_dough farm_and_charm:stove minecraft:milk_bucket minecraft:sugar
+farm_and_charm:stove/croissant | farm_and_charm:stove | bakery:croissant bakery:sweet_dough farm_and_charm:stove farm_and_charm:yeast minecraft:sugar
+farm_and_charm:stove/crusty_bread | farm_and_charm:stove | bakery:crusty_bread bakery:dough bakery:water_bottles farm_and_charm:stove farm_and_charm:yeast
+farm_and_charm:stove/glowberry_tart | farm_and_charm:stove | bakery:glowberry_tart bakery:sweet_dough farm_and_charm:stove minecraft:glow_berries minecraft:sugar
+farm_and_charm:stove/grilled_bacon_sandwich | farm_and_charm:stove | bakery:bread bakery:grilled_bacon_sandwich farm_and_charm:raw_bacon farm_and_charm:stove
+farm_and_charm:stove/grilled_salmon_sandwich | farm_and_charm:stove | bakery:bread bakery:grilled_salmon_sandwich farm_and_charm:cabbage farm_and_charm:stove minecraft:salmon
+farm_and_charm:stove/improved_bread | farm_and_charm:stove | bakery:wheat farm_and_charm:stove minecraft:bread
+farm_and_charm:stove/jam_roll | farm_and_charm:stove | bakery:jam bakery:jam_roll bakery:sweet_dough farm_and_charm:stove minecraft:sugar
+farm_and_charm:stove/linzer_tart | farm_and_charm:stove | bakery:linzer_tart bakery:sweet_dough farm_and_charm:stove farm_and_charm:strawberry minecraft:sugar
+farm_and_charm:stove/misslilitu_biscuit | farm_and_charm:stove | bakery:misslilitu_biscuit bakery:sweet_dough farm_and_charm:stove minecraft:red_dye minecraft:white_dye
+farm_and_charm:stove/toast | farm_and_charm:stove | bakery:dough bakery:milk bakery:toast farm_and_charm:stove minecraft:sugar
+farm_and_charm:stove/waffle | farm_and_charm:stove | bakery:eggs bakery:sweet_dough bakery:waffle farm_and_charm:stove minecraft:sugar
+minecraft:bread | minecraft:crafting_shaped | bakery:wheat minecraft:bread minecraft:crafting_shaped
+minecraft:cake | minecraft:crafting_shaped | bakery:eggs bakery:milk bakery:wheat minecraft:cake minecraft:crafting_shaped minecraft:sugar
+minecraft:cookie | minecraft:crafting_shaped | bakery:wheat minecraft:cocoa_beans minecraft:cookie minecraft:crafting_shaped
+minecraft:packed_mud | minecraft:crafting_shapeless | bakery:wheat minecraft:crafting_shapeless minecraft:mud minecraft:packed_mud

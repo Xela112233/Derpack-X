@@ -1,0 +1,25 @@
+# titanium-1.21-4.0.43
+
+## mod metadata (id / version / deps)
+license = "GNU LESSER GENERAL PUBLIC LICENSE"
+modId = "titanium" #mandatory
+version = "${file.jarVersion}" #mandatory
+displayName = "Titanium" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.0,)" #mandatory
+
+## blocks
+titanium:creative_fe_generator
+titanium:diamond
+titanium:gold
+titanium:iron
+titanium:lapis
+titanium:obsidian
+titanium:smashing_table
+
+## items
+titanium:creative_fe_generator
+
+## neoforge biome_modifiers
+
+## c: common tag membership

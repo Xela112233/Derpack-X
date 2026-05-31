@@ -1,0 +1,51 @@
+# NaturesCompass-1.21.1-3.4.0-neoforge
+
+## mod metadata (id / version / deps)
+license="CC BY-NC-SA 4.0"
+modId="naturescompass"
+version="1.21.1-3.4.0-neoforge"
+displayName="Nature's Compass"
+modId="neoforge"
+versionRange="[21.0.0-beta,)"
+modId="minecraft"
+versionRange="[1.21,1.21.1)"
+
+## blocks
+
+## items
+naturescompass:naturescompass
+naturescompass:naturescompass_00
+naturescompass:naturescompass_01
+naturescompass:naturescompass_02
+naturescompass:naturescompass_03
+naturescompass:naturescompass_04
+naturescompass:naturescompass_05
+naturescompass:naturescompass_06
+naturescompass:naturescompass_07
+naturescompass:naturescompass_08
+naturescompass:naturescompass_09
+naturescompass:naturescompass_10
+naturescompass:naturescompass_11
+naturescompass:naturescompass_12
+naturescompass:naturescompass_13
+naturescompass:naturescompass_14
+naturescompass:naturescompass_15
+naturescompass:naturescompass_17
+naturescompass:naturescompass_18
+naturescompass:naturescompass_19
+naturescompass:naturescompass_20
+naturescompass:naturescompass_21
+naturescompass:naturescompass_22
+naturescompass:naturescompass_23
+naturescompass:naturescompass_24
+naturescompass:naturescompass_25
+naturescompass:naturescompass_26
+naturescompass:naturescompass_27
+naturescompass:naturescompass_28
+naturescompass:naturescompass_29
+naturescompass:naturescompass_30
+naturescompass:naturescompass_31
+
+## neoforge biome_modifiers
+
+## c: common tag membership

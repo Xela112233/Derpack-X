@@ -1,0 +1,73 @@
+# CreateNumismatics-1.0.20+neoforge-mc1.21.1
+
+## mod metadata (id / version / deps)
+license = "LGPL"
+modId = "numismatics"
+version = "1.0.20+neoforge-mc1.21.1"
+displayName = "Create: Numismatics"
+modId = "neoforge"
+versionRange = "[21.1.206,)"
+modId = "minecraft"
+versionRange = "1.21.1"
+modId = "create"
+versionRange = "[6.0.9,6.1.0)"
+
+## blocks
+numismatics:andesite_depositor
+numismatics:bank_terminal
+numismatics:blaze_banker
+numismatics:brass_depositor
+numismatics:creative_vendor
+numismatics:vendor
+
+## items
+numismatics:andesite_depositor
+numismatics:bank_terminal
+numismatics:banking_guide
+numismatics:bevel
+numismatics:black_card
+numismatics:black_id_card
+numismatics:blaze_banker
+numismatics:blue_card
+numismatics:blue_id_card
+numismatics:brass_depositor
+numismatics:brown_card
+numismatics:brown_id_card
+numismatics:cog
+numismatics:creative_vendor
+numismatics:crown
+numismatics:cyan_card
+numismatics:cyan_id_card
+numismatics:gray_card
+numismatics:gray_id_card
+numismatics:green_card
+numismatics:green_id_card
+numismatics:light_blue_card
+numismatics:light_blue_id_card
+numismatics:light_gray_card
+numismatics:light_gray_id_card
+numismatics:lime_card
+numismatics:lime_id_card
+numismatics:magenta_card
+numismatics:magenta_id_card
+numismatics:orange_card
+numismatics:orange_id_card
+numismatics:pink_card
+numismatics:pink_id_card
+numismatics:purple_card
+numismatics:purple_id_card
+numismatics:red_card
+numismatics:red_id_card
+numismatics:sprocket
+numismatics:spur
+numismatics:sun
+numismatics:vendor
+numismatics:white_card
+numismatics:white_id_card
+numismatics:yellow_card
+numismatics:yellow_id_card
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+block/relocation_not_supported.json :: { "values": [ "numismatics:andesite_depositor", "numismatics:brass_depositor", "numismatics:blaze_banker" ]}

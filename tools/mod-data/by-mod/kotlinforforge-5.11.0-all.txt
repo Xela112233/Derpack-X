@@ -1,0 +1,11 @@
+# kotlinforforge-5.11.0-all
+
+## mod metadata (id / version / deps)
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

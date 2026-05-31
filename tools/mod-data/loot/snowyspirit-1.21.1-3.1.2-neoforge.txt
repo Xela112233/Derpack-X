@@ -1,0 +1,54 @@
+snowyspirit:blocks/candy_cane_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:candy_cane_block
+snowyspirit:blocks/ginger | minecraft:block | minecraft:alternatives minecraft:apply_bonus minecraft:binomial_with_bonus_count minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item snowyspirit:ginger snowyspirit:ginger_flower
+snowyspirit:blocks/ginger_crate | minecraft:block | minecraft:block minecraft:survives_explosion moonlight:optional_item snowyspirit:ginger_crate
+snowyspirit:blocks/gingerbread | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gingerbread
+snowyspirit:blocks/gingerbread_door | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion snowyspirit:gingerbread_door
+snowyspirit:blocks/gingerbread_frosted | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gingerbread_frosted
+snowyspirit:blocks/gingerbread_slab | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gingerbread_slab
+snowyspirit:blocks/gingerbread_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gingerbread_stairs
+snowyspirit:blocks/gingerbread_trapdoor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gingerbread_trapdoor
+snowyspirit:blocks/glow_lights_black | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_black
+snowyspirit:blocks/glow_lights_blue | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_blue
+snowyspirit:blocks/glow_lights_brown | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_brown
+snowyspirit:blocks/glow_lights_cyan | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_cyan
+snowyspirit:blocks/glow_lights_gray | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_gray
+snowyspirit:blocks/glow_lights_green | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_green
+snowyspirit:blocks/glow_lights_light_blue | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_light_blue
+snowyspirit:blocks/glow_lights_light_gray | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_light_gray
+snowyspirit:blocks/glow_lights_lime | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_lime
+snowyspirit:blocks/glow_lights_magenta | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_magenta
+snowyspirit:blocks/glow_lights_orange | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_orange
+snowyspirit:blocks/glow_lights_pink | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_pink
+snowyspirit:blocks/glow_lights_prismatic | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_prismatic
+snowyspirit:blocks/glow_lights_purple | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_purple
+snowyspirit:blocks/glow_lights_red | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_red
+snowyspirit:blocks/glow_lights_white | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_white
+snowyspirit:blocks/glow_lights_yellow | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:glow_lights_yellow
+snowyspirit:blocks/gumdrop_black | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_black
+snowyspirit:blocks/gumdrop_blue | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_blue
+snowyspirit:blocks/gumdrop_brown | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_brown
+snowyspirit:blocks/gumdrop_cyan | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_cyan
+snowyspirit:blocks/gumdrop_gray | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_gray
+snowyspirit:blocks/gumdrop_green | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_green
+snowyspirit:blocks/gumdrop_light_blue | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_light_blue
+snowyspirit:blocks/gumdrop_light_gray | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_light_gray
+snowyspirit:blocks/gumdrop_lime | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_lime
+snowyspirit:blocks/gumdrop_magenta | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_magenta
+snowyspirit:blocks/gumdrop_orange | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_orange
+snowyspirit:blocks/gumdrop_pink | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_pink
+snowyspirit:blocks/gumdrop_purple | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_purple
+snowyspirit:blocks/gumdrop_red | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_red
+snowyspirit:blocks/gumdrop_white | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_white
+snowyspirit:blocks/gumdrop_yellow | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:gumdrop_yellow
+snowyspirit:blocks/potted_ginger | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion snowyspirit:ginger_flower
+snowyspirit:blocks/snow_globe | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:snow_globe
+snowyspirit:blocks/wild_ginger | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:uniform_bonus_count neoforge:can_item_perform_ability snowyspirit:ginger_flower snowyspirit:wild_ginger
+snowyspirit:blocks/wreath | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion snowyspirit:wreath
+snowyspirit:chests/igloo_sled | minecraft:chest | minecraft:bone minecraft:chest minecraft:cod minecraft:cod_bucket minecraft:enchant_with_levels minecraft:fishing_rod minecraft:item minecraft:lead minecraft:leather_boots minecraft:salmon minecraft:salmon_bucket minecraft:set_count minecraft:set_damage minecraft:set_enchantments minecraft:uniform snowyspirit:candy_cane snowyspirit:ginger snowyspirit:music_disc_a_carol
+snowyspirit:chests/present_villager | minecraft:chest | fabric:mod_loaded minecraft:charcoal minecraft:chest minecraft:emerald minecraft:enchant_randomly minecraft:enchant_with_levels minecraft:item minecraft:set_count minecraft:set_enchantments minecraft:set_name minecraft:spyglass minecraft:totem_of_undying minecraft:uniform neoforge:mod_loaded snowyspirit:candy_cane snowyspirit:music_disc_a_carol snowyspirit:sled_acacia snowyspirit:sled_dark_oak snowyspirit:sled_jungle snowyspirit:sled_oak snowyspirit:sled_spruce snowyspirit:snow_globe supplementaries:bubble_blower supplementaries:candy supplementaries:flute supplementaries:globe supplementaries:globe_sepia supplementaries:slingshot supplementaries:speaker_block supplementaries:statue supplementaries:wrench
+snowyspirit:entities/gingerbread_golem | minecraft:entity | minecraft:air minecraft:entity minecraft:item minecraft:loot_table snowyspirit:entities/gingerbread_golem snowyspirit:entities/gingerbread_golem_loot/gingerbread_golem_loot
+snowyspirit:entities/gingerbread_golem_loot/gingerbread | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:uniform snowyspirit:entities/gingerbread_golem_loot/gingerbread snowyspirit:gingerbread
+snowyspirit:entities/gingerbread_golem_loot/gingerbread_cookie | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count minecraft:uniform snowyspirit:entities/gingerbread_golem_loot/gingerbread_cookie snowyspirit:gingerbread_cookie
+snowyspirit:entities/gingerbread_golem_loot/gingerbread_frosted | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:uniform snowyspirit:entities/gingerbread_golem_loot/gingerbread_frosted snowyspirit:gingerbread_frosted
+snowyspirit:entities/gingerbread_golem_loot/gingerbread_golem_loot | minecraft:entity | minecraft:entity minecraft:loot_table snowyspirit:entities/gingerbread_golem_loot/gingerbread snowyspirit:entities/gingerbread_golem_loot/gingerbread_cookie snowyspirit:entities/gingerbread_golem_loot/gingerbread_frosted snowyspirit:entities/gingerbread_golem_loot/gingerbread_golem_loot
+snowyspirit:injects/ginger_sniffer | minecraft:gift | minecraft:gameplay/sniffer_digging_2 minecraft:gift minecraft:item snowyspirit:ginger_flower

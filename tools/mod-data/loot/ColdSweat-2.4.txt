@@ -1,0 +1,14 @@
+cold_sweat:blocks/boiler | ? | cold_sweat:boiler minecraft:item
+cold_sweat:blocks/hearth_bottom | ? | cold_sweat:hearth minecraft:item
+cold_sweat:blocks/hearth_top | ? | cold_sweat:hearth minecraft:item
+cold_sweat:blocks/icebox | ? | cold_sweat:icebox minecraft:item
+cold_sweat:blocks/sewing_table | ? | cold_sweat:sewing_table minecraft:item
+cold_sweat:blocks/smokestack | ? | cold_sweat:smokestack minecraft:item
+cold_sweat:blocks/soul_stalk | minecraft:block | cold_sweat:soul_sprout cold_sweat:soul_stalk minecraft:any_of minecraft:block minecraft:block_state_property minecraft:item
+cold_sweat:blocks/special/blue_ice | minecraft:block | minecraft:block minecraft:blocks/blue_ice minecraft:blue_ice minecraft:item
+cold_sweat:blocks/special/ice | minecraft:block | minecraft:block minecraft:blocks/ice minecraft:ice minecraft:item
+cold_sweat:blocks/special/packed_ice | minecraft:block | minecraft:block minecraft:blocks/packed_ice minecraft:item minecraft:packed_ice
+cold_sweat:blocks/thermolith | ? | cold_sweat:thermolith minecraft:item
+cold_sweat:entities/chameleon | minecraft:entity | cold_sweat:chameleon_molt cold_sweat:entities/chameleon minecraft:entity minecraft:entity_properties minecraft:item
+cold_sweat:entities/chameleon_shedding | minecraft:entity | cold_sweat:chameleon_molt minecraft:entity minecraft:item minecraft:set_count
+cold_sweat:entities/goat_shearing | minecraft:entity | cold_sweat:goat_fur minecraft:entity minecraft:item minecraft:set_count

@@ -1,0 +1,19 @@
+# YungsApi-1.21.1-NeoForge-5.1.6
+
+## mod metadata (id / version / deps)
+license="LGPLv3"
+modId="yungsapi"
+version="1.21.1-NeoForge-5.1.6"
+displayName="YUNG's API"
+modId="minecraft"
+versionRange="[1.21, 1.22)"
+modId="neoforge"
+versionRange="[21.0.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

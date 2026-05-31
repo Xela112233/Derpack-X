@@ -1,0 +1,39 @@
+cold_sweat:boiler | minecraft:crafting_shaped | c:cobblestones/normal cold_sweat:boiler cold_sweat:boiler_craftable_deepslate minecraft:crafting_shaped
+cold_sweat:chameleon_boots | minecraft:crafting_shaped | c:scales/chameleon cold_sweat:chameleon_boots minecraft:crafting_shaped
+cold_sweat:chameleon_chestplate | minecraft:crafting_shaped | c:scales/chameleon cold_sweat:chameleon_chestplate minecraft:crafting_shaped
+cold_sweat:chameleon_helmet | minecraft:crafting_shaped | c:scales/chameleon cold_sweat:chameleon_helmet minecraft:crafting_shaped
+cold_sweat:chameleon_leggings | minecraft:crafting_shaped | c:scales/chameleon cold_sweat:chameleon_leggings minecraft:crafting_shaped
+cold_sweat:compat/create/waterskin_filling | create:filling | cold_sweat:filled_waterskin cold_sweat:waterskin create:filling minecraft:water neoforge:mod_loaded
+cold_sweat:compat/jeed/frigidness | jeed:effect_provider | cold_sweat:frigidness cold_sweat:hearth cold_sweat:icebox jeed:effect_provider neoforge:mod_loaded
+cold_sweat:compat/jeed/warmth | jeed:effect_provider | cold_sweat:boiler cold_sweat:hearth cold_sweat:warmth jeed:effect_provider neoforge:mod_loaded
+cold_sweat:compat/thirst/waterskin_acceptable_campfire | minecraft:campfire_cooking | cold_sweat:filled_waterskin minecraft:campfire_cooking neoforge:components neoforge:mod_loaded
+cold_sweat:compat/thirst/waterskin_acceptable_furnace | minecraft:smelting | cold_sweat:filled_waterskin minecraft:smelting neoforge:components neoforge:mod_loaded
+cold_sweat:compat/thirst/waterskin_purified_campfire | minecraft:campfire_cooking | cold_sweat:filled_waterskin minecraft:campfire_cooking neoforge:components neoforge:mod_loaded
+cold_sweat:compat/thirst/waterskin_purified_furnace | minecraft:smelting | cold_sweat:filled_waterskin minecraft:smelting neoforge:components neoforge:mod_loaded
+cold_sweat:compat/thirst/waterskin_slightly_dirty_campfire | minecraft:campfire_cooking | cold_sweat:filled_waterskin minecraft:campfire_cooking neoforge:components neoforge:mod_loaded
+cold_sweat:compat/toughasnails/waterskin_acceptable_purifying | toughasnails:water_purifying | cold_sweat:filled_waterskin neoforge:components neoforge:mod_loaded toughasnails:water_purifying
+cold_sweat:compat/toughasnails/waterskin_purified_purifying_1 | toughasnails:water_purifying | cold_sweat:filled_waterskin neoforge:components neoforge:mod_loaded toughasnails:water_purifying
+cold_sweat:compat/toughasnails/waterskin_purified_purifying_2 | toughasnails:water_purifying | cold_sweat:filled_waterskin neoforge:components neoforge:mod_loaded toughasnails:water_purifying
+cold_sweat:goat_fur_boots | minecraft:crafting_shaped | c:furs/goat cold_sweat:goat_fur_boots minecraft:crafting_shaped
+cold_sweat:goat_fur_cap | minecraft:crafting_shaped | c:furs/goat cold_sweat:goat_fur_helmet minecraft:crafting_shaped
+cold_sweat:goat_fur_pants | minecraft:crafting_shaped | c:furs/goat cold_sweat:goat_fur_leggings minecraft:crafting_shaped
+cold_sweat:goat_fur_parka | minecraft:crafting_shaped | c:furs/goat cold_sweat:goat_fur_chestplate minecraft:crafting_shaped
+cold_sweat:hearth | minecraft:crafting_shaped | c:ingots/iron c:ingots/nether_brick cold_sweat:hearth cold_sweat:smokestack minecraft:crafting_shaped minecraft:soul_fire_base_blocks
+cold_sweat:hoglin_headpiece | minecraft:crafting_shaped | c:leathers/hoglin cold_sweat:hoglin_helmet minecraft:crafting_shaped
+cold_sweat:hoglin_hooves | minecraft:crafting_shaped | c:leathers/hoglin cold_sweat:hoglin_boots minecraft:crafting_shaped
+cold_sweat:hoglin_to_leather | minecraft:crafting_shapeless | c:leathers/hoglin minecraft:crafting_shapeless minecraft:leather
+cold_sweat:hoglin_trousers | minecraft:crafting_shaped | c:leathers/hoglin cold_sweat:hoglin_leggings minecraft:crafting_shaped
+cold_sweat:hoglin_tunic | minecraft:crafting_shaped | c:leathers/hoglin cold_sweat:hoglin_chestplate minecraft:crafting_shaped
+cold_sweat:icebox | minecraft:crafting_shaped | c:cobblestones/normal cold_sweat:icebox minecraft:crafting_shaped minecraft:planks
+cold_sweat:insul_minecart | minecraft:crafting_shaped | cold_sweat:insulated_minecart cold_sweat:minecart_insulation minecraft:crafting_shaped minecraft:minecart
+cold_sweat:insul_minecart_raw | minecraft:crafting_shaped | c:leathers cold_sweat:insulated_minecart minecraft:crafting_shaped minecraft:minecart minecraft:wool
+cold_sweat:insul_minecart_raw_goat | minecraft:crafting_shaped | c:furs/goat c:leathers cold_sweat:insulated_minecart minecraft:crafting_shaped minecraft:minecart
+cold_sweat:minecart_insulation | minecraft:crafting_shaped | c:leathers cold_sweat:minecart_insulation minecraft:crafting_shaped minecraft:wool
+cold_sweat:minecart_insulation_goat | minecraft:crafting_shaped | c:furs/goat c:leathers cold_sweat:minecart_insulation minecraft:crafting_shaped
+cold_sweat:sewing_table | minecraft:crafting_shaped | cold_sweat:sewing_table minecraft:crafting_shaped minecraft:planks minecraft:wool
+cold_sweat:smokestack | minecraft:crafting_shaped | c:cobblestones/normal cold_sweat:smokestack minecraft:crafting_shaped
+cold_sweat:soulspring_lamp | minecraft:crafting_shaped | c:chains c:ingots/iron c:nuggets/gold cold_sweat:soulspring_lamp minecraft:crafting_shaped minecraft:heart_of_the_sea
+cold_sweat:thermolith | minecraft:crafting_shaped | c:scales/chameleon cold_sweat:thermolith minecraft:crafting_shaped minecraft:terracotta
+cold_sweat:thermometer | minecraft:crafting_shaped | c:dusts/redstone c:ingots/gold cold_sweat:thermometer minecraft:crafting_shaped
+cold_sweat:waterskin | minecraft:crafting_shaped | c:leathers c:strings cold_sweat:waterskin minecraft:crafting_shaped
+cold_sweat:waterskin_campfire | minecraft:campfire_cooking | cold_sweat:filled_waterskin minecraft:campfire_cooking

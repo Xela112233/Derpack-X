@@ -1,0 +1,22 @@
+# YungsBetterDungeons-1.21.1-NeoForge-5.1.4
+
+## mod metadata (id / version / deps)
+license="LGPLv3"
+modId="betterdungeons"
+version="1.21.1-NeoForge-5.1.4"
+displayName="YUNG's Better Dungeons"
+modId="minecraft"
+versionRange="[1.21, 1.22)"
+modId="neoforge"
+versionRange="[21.0.0,)"
+modId="yungsapi"
+versionRange="[1.21.1-NeoForge-5.1.3,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+vanilla_dungeon_removal.json :: { "type": "neoforge:remove_features", "biomes": "#betterdungeons:has_structure/small_dungeon", "features": [ "minecraft:monster_room", "minecraft:monster_room_deep" ], "steps": "underground_structures"}
+
+## c: common tag membership

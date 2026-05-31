@@ -1,0 +1,174 @@
+spawn:archaeology/ant_mount_common | minecraft:archaeology | minecraft:archaeology minecraft:beetroot_seeds minecraft:bone_meal minecraft:brown_dye minecraft:brown_mushroom minecraft:clay minecraft:coal minecraft:dead_bush minecraft:emerald minecraft:gold_nugget minecraft:item minecraft:leather minecraft:oak_hanging_sign minecraft:potato minecraft:red_mushroom minecraft:string minecraft:wheat_seeds spawn:archaeology/ant_mount_common spawn:fallen_leaves
+spawn:archaeology/ant_mount_epic | minecraft:archaeology | minecraft:archaeology minecraft:item spawn:ant_pupa spawn:archaeology/ant_mount_epic spawn:crown_pottery_sherd spawn:music_disc_rot spawn:spade_pottery_sherd
+spawn:archaeology/ant_mount_rare | minecraft:archaeology | minecraft:archaeology minecraft:bone minecraft:emerald minecraft:golden_shovel minecraft:item minecraft:leather minecraft:melon_seeds minecraft:plenty_pottery_sherd minecraft:pumpkin_seeds minecraft:raw_copper minecraft:raw_iron minecraft:shelter_pottery_sherd minecraft:string spawn:ant_pupa spawn:archaeology/ant_mount_rare
+spawn:archaeology/anthill | minecraft:archaeology | minecraft:archaeology minecraft:brown_mushroom minecraft:clay minecraft:item minecraft:leather minecraft:red_mushroom minecraft:string spawn:ant_pupa spawn:archaeology/anthill spawn:fallen_leaves
+spawn:archaeology/coastal_crab_sand | minecraft:archaeology | minecraft:archaeology minecraft:item minecraft:set_count minecraft:uniform spawn:archaeology/coastal_crab_sand spawn:barnacle spawn:coastal_crab_claw spawn:shell_fragments
+spawn:archaeology/item_in_a_bottle_beach | minecraft:archaeology | minecraft:archaeology minecraft:cocoa_beans minecraft:experience_bottle minecraft:exploration_map minecraft:glass_bottle minecraft:gold_nugget minecraft:gunpowder minecraft:iron_nugget minecraft:item minecraft:map minecraft:paper minecraft:redstone minecraft:sand minecraft:set_count minecraft:set_custom_data minecraft:set_name minecraft:sugar minecraft:uniform minecraft:wheat_seeds spawn:archaeology/item_in_a_bottle_beach spawn:barnacle spawn:captured_octopus spawn:dates spawn:dodo_island spawn:octopus spawn:shell_fragments spawn:sunflower_seeds
+spawn:archaeology/item_in_a_bottle_dodo_island | minecraft:archaeology | minecraft:archaeology minecraft:item spawn:archaeology/item_in_a_bottle_dodo_island spawn:music_disc_dally
+spawn:archaeology/item_in_a_bottle_ocean | minecraft:archaeology | minecraft:archaeology minecraft:bamboo_raft minecraft:black_banner minecraft:cocoa_beans minecraft:experience_bottle minecraft:exploration_map minecraft:gunpowder minecraft:honey_bottle minecraft:item minecraft:jungle_boat minecraft:map minecraft:nautilus_shell minecraft:paper minecraft:prismarine_crystals minecraft:prismarine_shard minecraft:redstone minecraft:sand minecraft:set_components minecraft:set_count minecraft:set_name minecraft:skull minecraft:sugar minecraft:turtle_scute minecraft:uniform minecraft:wheat_seeds spawn:archaeology/item_in_a_bottle_ocean spawn:dates spawn:dodo_island spawn:sunflower_seeds spawn:suspicious_stick
+spawn:archaeology/sea_cow_common | minecraft:archaeology | minecraft:angler_pottery_sherd minecraft:archaeology minecraft:bone minecraft:coast_armor_trim_smithing_template minecraft:dead_bubble_coral minecraft:dead_bubble_coral_block minecraft:dead_bubble_coral_fan minecraft:dead_fire_coral minecraft:dead_fire_coral_block minecraft:dead_fire_coral_fan minecraft:dead_horn_coral minecraft:dead_horn_coral_block minecraft:dead_horn_coral_fan minecraft:dead_tube_coral minecraft:dead_tube_coral_block minecraft:dead_tube_coral_fan minecraft:ink_sac minecraft:item minecraft:sea_pickle minecraft:set_count minecraft:sheaf_pottery_sherd spawn:archaeology/sea_cow_common spawn:big_sea_pickle spawn:shell_fragments
+spawn:archaeology/sea_cow_rare | minecraft:archaeology | minecraft:archaeology minecraft:copper_ingot minecraft:gold_ingot minecraft:item minecraft:nautilus_shell minecraft:set_count minecraft:tide_armor_trim_smithing_template minecraft:turtle_scute minecraft:wet_sponge spawn:archaeology/sea_cow_rare spawn:school_pottery_sherd spawn:shell_pottery_sherd
+spawn:blocks/algal_reefstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:algal_reefstone
+spawn:blocks/algal_reefstone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:algal_reefstone_slab
+spawn:blocks/algal_reefstone_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:algal_reefstone_stairs
+spawn:blocks/algal_reefstone_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:algal_reefstone_wall
+spawn:blocks/algal_sand | minecraft:block | minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:sand minecraft:silk_touch minecraft:survives_explosion spawn:algal_sand spawn:blocks/algal_sand
+spawn:blocks/ant_farm | minecraft:block | minecraft:alternatives minecraft:block minecraft:copy_state minecraft:item minecraft:match_tool minecraft:silk_touch spawn:ant_farm spawn:blocks/ant_farm
+spawn:blocks/ant_mound | minecraft:block | minecraft:block spawn:blocks/ant_mound
+spawn:blocks/anthill | minecraft:block | minecraft:block minecraft:copy_state minecraft:item minecraft:match_tool minecraft:silk_touch spawn:anthill spawn:blocks/anthill
+spawn:blocks/barnacle | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:barnacle spawn:blocks/barnacle
+spawn:blocks/barnacle_cluster | minecraft:block | minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:survives_explosion spawn:barnacle_cluster spawn:blocks/barnacle_cluster spawn:reefstone
+spawn:blocks/big_sea_pickle | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:big_sea_pickle
+spawn:blocks/big_snail_shell | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:big_snail_shell
+spawn:blocks/blasted_sand | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blasted_sand spawn:blocks/blasted_sand
+spawn:blocks/blasted_sandstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blasted_sandstone spawn:blocks/blasted_sandstone
+spawn:blocks/blasted_sandstone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:blasted_sandstone_slab spawn:blocks/blasted_sandstone_slab
+spawn:blocks/blasted_sandstone_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blasted_sandstone_stairs spawn:blocks/blasted_sandstone_stairs
+spawn:blocks/blasted_sandstone_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blasted_sandstone_wall spawn:blocks/blasted_sandstone_wall
+spawn:blocks/broad_grass | minecraft:block | minecraft:alternatives minecraft:block minecraft:item neoforge:can_item_perform_ability spawn:blocks/broad_grass spawn:broad_grass
+spawn:blocks/chiseled_blasted_sandstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blocks/chiseled_blasted_sandstone spawn:chiseled_blasted_sandstone
+spawn:blocks/clam_case_purple | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion spawn:clam_case_purple
+spawn:blocks/clam_case_red | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion spawn:clam_case_red
+spawn:blocks/clam_case_white | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion spawn:clam_case_white
+spawn:blocks/clam_case_yellow | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion spawn:clam_case_yellow
+spawn:blocks/crab_boil_block | minecraft:block | minecraft:block minecraft:block_state_property minecraft:bone_meal minecraft:bowl minecraft:inverted minecraft:item spawn:crab_boil_block
+spawn:blocks/cracked_rotten_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:cracked_rotten_planks
+spawn:blocks/cut_blasted_sandstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blocks/cut_blasted_sandstone spawn:cut_blasted_sandstone
+spawn:blocks/cut_blasted_sandstone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:blocks/cut_blasted_sandstone_slab spawn:cut_blasted_sandstone_slab
+spawn:blocks/dangling_date_leaves | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch neoforge:can_item_perform_ability spawn:blocks/dangling_date_leaves spawn:dangling_date_leaves
+spawn:blocks/date_bunch | minecraft:block | minecraft:block minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:survives_explosion minecraft:uniform spawn:date_bunch spawn:dates
+spawn:blocks/date_button | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:date_button
+spawn:blocks/date_door | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion spawn:date_door
+spawn:blocks/date_fence | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:date_fence
+spawn:blocks/date_fence_gate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:date_fence_gate
+spawn:blocks/date_hanging_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blocks/date_hanging_sign spawn:date_hanging_sign
+spawn:blocks/date_leaves | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:stick minecraft:table_bonus minecraft:uniform neoforge:can_item_perform_ability spawn:blocks/date_leaves spawn:date_leaves
+spawn:blocks/date_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:date_log
+spawn:blocks/date_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:date_planks
+spawn:blocks/date_pressure_plate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:date_pressure_plate
+spawn:blocks/date_sapling | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:date_seed
+spawn:blocks/date_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:date_sign
+spawn:blocks/date_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:date_slab
+spawn:blocks/date_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:date_stairs
+spawn:blocks/date_trapdoor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:date_trapdoor
+spawn:blocks/dead_heart_coral | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/dead_heart_coral spawn:dead_heart_coral
+spawn:blocks/dead_heart_coral_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blocks/dead_heart_coral_block spawn:dead_heart_coral_block
+spawn:blocks/dead_heart_coral_fan | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/dead_heart_coral_fan spawn:dead_heart_coral_fan
+spawn:blocks/dead_reed_coral | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/dead_reed_coral spawn:dead_reed_coral
+spawn:blocks/dead_reed_coral_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blocks/dead_reed_coral_block spawn:dead_reed_coral_block
+spawn:blocks/dead_reed_coral_fan | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/dead_reed_coral_fan spawn:dead_reed_coral_fan
+spawn:blocks/dead_sea_star | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:dead_sea_star
+spawn:blocks/dead_sea_urchin | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:dead_sea_urchin
+spawn:blocks/dead_spike_coral | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/dead_spike_coral spawn:dead_spike_coral
+spawn:blocks/dead_spike_coral_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blocks/dead_spike_coral_block spawn:dead_spike_coral_block
+spawn:blocks/dead_spike_coral_fan | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/dead_spike_coral_fan spawn:dead_spike_coral_fan
+spawn:blocks/dead_thorn_coral | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/dead_thorn_coral spawn:dead_thorn_coral
+spawn:blocks/dead_thorn_coral_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blocks/dead_thorn_coral_block spawn:dead_thorn_coral_block
+spawn:blocks/dead_thorn_coral_fan | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/dead_thorn_coral_fan spawn:dead_thorn_coral_fan
+spawn:blocks/dead_wax_coral | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/dead_wax_coral spawn:dead_wax_coral
+spawn:blocks/dead_wax_coral_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blocks/dead_wax_coral_block spawn:dead_wax_coral_block
+spawn:blocks/dead_wax_coral_fan | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/dead_wax_coral_fan spawn:dead_wax_coral_fan
+spawn:blocks/fall_dragon_reeds | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion spawn:fall_dragon_reeds
+spawn:blocks/fallen_leaves | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:blocks/fallen_leaves spawn:fallen_leaves
+spawn:blocks/ghostly_mucus_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:ghostly_mucus_block
+spawn:blocks/hamster_wheel | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:hamster_wheel
+spawn:blocks/hazy_algae_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:hazy_algae_block
+spawn:blocks/heart_coral | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/heart_coral spawn:heart_coral
+spawn:blocks/heart_coral_block | minecraft:block | minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:survives_explosion spawn:blocks/heart_coral_block spawn:dead_heart_coral_block spawn:heart_coral_block
+spawn:blocks/heart_coral_fan | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/heart_coral_fan spawn:heart_coral_fan
+spawn:blocks/heliostone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:heliostone
+spawn:blocks/heliostone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:heliostone_slab
+spawn:blocks/heliostone_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:heliostone_stairs
+spawn:blocks/heliostone_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:heliostone_wall
+spawn:blocks/iguana_egg | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/iguana_egg spawn:iguana_egg
+spawn:blocks/magmatic_splatter | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch spawn:blocks/magmatic_splatter spawn:magmatic_splatter
+spawn:blocks/marine_iguana_egg | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/marine_iguana_egg spawn:marine_iguana_egg
+spawn:blocks/moonstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:moonstone
+spawn:blocks/moray_crevice | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion spawn:moray_crevice
+spawn:blocks/mucus | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:mucus
+spawn:blocks/mucus_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:mucus_block
+spawn:blocks/octoduct | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:octoduct
+spawn:blocks/pigment_shifter | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:pigment_shifter
+spawn:blocks/potted_date_sapling | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion spawn:blocks/potted_date_sapling spawn:date_seed
+spawn:blocks/potted_sweet_berry_bush | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:snail_shell
+spawn:blocks/red_algae | minecraft:block | minecraft:alternatives minecraft:block minecraft:item neoforge:can_item_perform_ability spawn:blocks/red_algae spawn:red_algae
+spawn:blocks/red_algae_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:red_algae_block
+spawn:blocks/red_algae_carpet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:red_algae_carpet
+spawn:blocks/reed_coral | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/reed_coral spawn:reed_coral
+spawn:blocks/reed_coral_block | minecraft:block | minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:survives_explosion spawn:blocks/reed_coral_block spawn:dead_reed_coral_block spawn:reed_coral_block
+spawn:blocks/reed_coral_fan | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/reed_coral_fan spawn:reed_coral_fan
+spawn:blocks/reefstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:reefstone
+spawn:blocks/reefstone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:reefstone_slab
+spawn:blocks/reefstone_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:reefstone_stairs
+spawn:blocks/reefstone_tile_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:reefstone_tile_slab
+spawn:blocks/reefstone_tile_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:reefstone_tile_stairs
+spawn:blocks/reefstone_tile_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:reefstone_tile_wall
+spawn:blocks/reefstone_tiles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:reefstone_tiles
+spawn:blocks/reefstone_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:reefstone_wall
+spawn:blocks/rotten_button | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:rotten_button
+spawn:blocks/rotten_door | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion spawn:rotten_door
+spawn:blocks/rotten_fence | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:rotten_fence
+spawn:blocks/rotten_fence_gate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:rotten_fence_gate
+spawn:blocks/rotten_hanging_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blocks/rotten_hanging_sign spawn:rotten_hanging_sign
+spawn:blocks/rotten_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:rotten_log
+spawn:blocks/rotten_log_anthill | minecraft:block | minecraft:block minecraft:copy_state minecraft:item minecraft:match_tool minecraft:silk_touch spawn:anthill spawn:blocks/rotten_log_anthill spawn:rotten_log_anthill
+spawn:blocks/rotten_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:rotten_planks
+spawn:blocks/rotten_pressure_plate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:rotten_pressure_plate
+spawn:blocks/rotten_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:rotten_sign
+spawn:blocks/rotten_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:rotten_slab
+spawn:blocks/rotten_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:rotten_stairs
+spawn:blocks/rotten_trapdoor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:rotten_trapdoor
+spawn:blocks/rotten_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:rotten_wood
+spawn:blocks/sea_bunny | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion spawn:sea_bunny
+spawn:blocks/sea_star | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion spawn:sea_star
+spawn:blocks/sea_urchin | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion spawn:sea_urchin
+spawn:blocks/short_windswept_grass | minecraft:block | minecraft:alternatives minecraft:block minecraft:item neoforge:can_item_perform_ability spawn:blocks/short_windswept_grass spawn:short_windswept_grass
+spawn:blocks/smooth_blasted_sandstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blocks/smooth_blasted_sandstone spawn:smooth_blasted_sandstone
+spawn:blocks/smooth_blasted_sandstone_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:blocks/smooth_blasted_sandstone_slab spawn:smooth_blasted_sandstone_slab
+spawn:blocks/smooth_blasted_sandstone_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:blocks/smooth_blasted_sandstone_stairs spawn:smooth_blasted_sandstone_stairs
+spawn:blocks/snail_eggs | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears spawn:snail_eggs
+spawn:blocks/snail_shell | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:snail_shell
+spawn:blocks/snail_shell_tile_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:snail_shell_tile_slab
+spawn:blocks/snail_shell_tile_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:snail_shell_tile_stairs
+spawn:blocks/snail_shell_tiles | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:snail_shell_tiles
+spawn:blocks/spike_coral | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/spike_coral spawn:spike_coral
+spawn:blocks/spike_coral_block | minecraft:block | minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:survives_explosion spawn:blocks/spike_coral_block spawn:dead_spike_coral_block spawn:spike_coral_block
+spawn:blocks/spike_coral_fan | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/spike_coral_fan spawn:spike_coral_fan
+spawn:blocks/spring_dragon_reeds | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion spawn:spring_dragon_reeds
+spawn:blocks/stripped_date_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:stripped_date_log
+spawn:blocks/stripped_rotten_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:stripped_rotten_log
+spawn:blocks/stripped_rotten_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:stripped_rotten_wood
+spawn:blocks/summer_dragon_reeds | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion spawn:summer_dragon_reeds
+spawn:blocks/sunflower | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion spawn:sunflower
+spawn:blocks/sunflower_plant | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:sunflower_seeds
+spawn:blocks/sunstone | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion spawn:sunstone
+spawn:blocks/tall_windswept_grass | minecraft:block | minecraft:alternatives minecraft:block minecraft:block_state_property minecraft:item minecraft:location_check minecraft:set_count neoforge:can_item_perform_ability spawn:blocks/tall_windswept_grass spawn:short_windswept_grass spawn:tall_windswept_grass
+spawn:blocks/thorn_coral | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/thorn_coral spawn:thorn_coral
+spawn:blocks/thorn_coral_block | minecraft:block | minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:survives_explosion spawn:blocks/thorn_coral_block spawn:dead_thorn_coral_block spawn:thorn_coral_block
+spawn:blocks/thorn_coral_fan | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/thorn_coral_fan spawn:thorn_coral_fan
+spawn:blocks/trimmed_seagrass | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:seagrass minecraft:shears spawn:blocks/trimmed_seagrass
+spawn:blocks/tropical_wildflowers | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count spawn:blocks/tropical_wildflowers spawn:tropical_wildflowers
+spawn:blocks/unstable_heliostone | minecraft:block | minecraft:block minecraft:diamond minecraft:group minecraft:inverted minecraft:item minecraft:match_tool minecraft:raw_copper minecraft:raw_gold minecraft:raw_iron minecraft:set_count minecraft:silk_touch minecraft:uniform spawn:blocks/unstable_heliostone spawn:unstable_heliostone
+spawn:blocks/wax_coral | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/wax_coral spawn:wax_coral
+spawn:blocks/wax_coral_block | minecraft:block | minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:survives_explosion spawn:blocks/wax_coral_block spawn:dead_wax_coral_block spawn:wax_coral_block
+spawn:blocks/wax_coral_fan | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch spawn:blocks/wax_coral_fan spawn:wax_coral_fan
+spawn:blocks/winter_dragon_reeds | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion spawn:winter_dragon_reeds
+spawn:blocks/zombified_flower | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion spawn:zombified_flower
+spawn:chests/ant_mount_common | minecraft:chest | minecraft:bone_meal minecraft:chest minecraft:gold_nugget minecraft:golden_shovel minecraft:item minecraft:leather minecraft:raw_copper minecraft:raw_iron minecraft:set_count minecraft:string
+spawn:chests/ant_mount_rare | minecraft:chest | minecraft:chest minecraft:copper_ingot minecraft:gold_ingot minecraft:gunpowder minecraft:iron_ingot minecraft:iron_shovel minecraft:item minecraft:melon_seeds minecraft:pumpkin_seeds minecraft:set_count spawn:ant_pupa
+spawn:entities/angler_fish | minecraft:entity | minecraft:entity minecraft:item spawn:angler_fish
+spawn:entities/barbed | minecraft:entity | minecraft:bone minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:looting minecraft:set_count minecraft:uniform spawn:dead_sea_urchin spawn:entities/barbed
+spawn:entities/blenny | minecraft:entity | minecraft:bone_meal minecraft:entity minecraft:item minecraft:random_chance spawn:entities/blenny
+spawn:entities/bluefish | minecraft:entity | minecraft:bone_meal minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:random_chance spawn:bluefish spawn:entities/bluefish
+spawn:entities/booby | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:feather minecraft:item minecraft:looting minecraft:set_count minecraft:uniform spawn:entities/booby
+spawn:entities/booby_egg | minecraft:entity | minecraft:entity minecraft:item minecraft:set_count minecraft:uniform spawn:booby_egg_shard spawn:entities/booby_egg
+spawn:entities/dodo | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:entity_properties minecraft:feather minecraft:furnace_smelt minecraft:item minecraft:looting minecraft:set_count minecraft:uniform spawn:dodo spawn:entities/dodo
+spawn:entities/firekeeper | minecraft:entity | minecraft:entity minecraft:item minecraft:random_chance spawn:sunstone
+spawn:entities/flukeshroom | minecraft:entity | minecraft:beef minecraft:enchanted_count_increase minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:leather minecraft:looting minecraft:set_count minecraft:uniform spawn:entities/flukeshroom
+spawn:entities/herring | minecraft:entity | minecraft:bone_meal minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:random_chance spawn:entities/herring spawn:herring
+spawn:entities/pilot_fish | minecraft:entity | minecraft:bone_meal minecraft:entity minecraft:item minecraft:random_chance spawn:entities/pilot_fish
+spawn:entities/sea_cow | minecraft:entity | minecraft:beef minecraft:enchanted_count_increase minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:leather minecraft:looting minecraft:set_count minecraft:uniform spawn:entities/sea_cow
+spawn:entities/spider_crab | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:killed_by_player minecraft:looting minecraft:set_count minecraft:spider_eye minecraft:uniform spawn:entities/spider_crab
+spawn:entities/stickbug | minecraft:entity | minecraft:damage_source_properties minecraft:entity minecraft:is_lightning minecraft:item minecraft:stick spawn:entities/stickbug spawn:music_disc_rain
+spawn:entities/stranded | minecraft:entity | minecraft:entity minecraft:iron_ingot minecraft:item minecraft:set_count minecraft:uniform spawn:barnacle spawn:dead_sea_star spawn:entities/stranded
+spawn:entities/tuna | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:looting minecraft:set_count minecraft:uniform spawn:entities/tuna spawn:tuna_chunk

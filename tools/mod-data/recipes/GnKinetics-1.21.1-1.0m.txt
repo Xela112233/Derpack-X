@@ -1,0 +1,42 @@
+gnkinetics:crafting/andesite_cogwheel | minecraft:crafting_shapeless | create:andesite_alloy create:shaft gnkinetics:andesite_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/andesite_cogwheel_from_conversion | minecraft:crafting_shapeless | gnkinetics:andesite_cogwheel gnkinetics:shaftless_andesite_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/brass_gear | minecraft:crafting_shapeless | c:ingots/brass create:shaft gnkinetics:brass_gear minecraft:crafting_shapeless
+gnkinetics:crafting/brass_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:brass_gear gnkinetics:hollow_brass_gear minecraft:crafting_shapeless
+gnkinetics:crafting/chainable_cogwheel | minecraft:crafting_shapeless | c:nuggets/iron create:andesite_casing create:large_cogwheel gnkinetics:chainable_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/chainable_cogwheel_from_zinc | minecraft:crafting_shapeless | c:nuggets/zinc create:andesite_casing create:large_cogwheel gnkinetics:chainable_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/cog_crank | minecraft:crafting_shapeless | create:cogwheel create:hand_crank gnkinetics:cog_crank minecraft:crafting_shapeless
+gnkinetics:crafting/cog_crank_to_large | minecraft:crafting_shapeless | gnkinetics:cog_crank gnkinetics:large_cog_crank minecraft:crafting_shapeless minecraft:planks
+gnkinetics:crafting/cogstone | minecraft:crafting_shapeless | c:stones create:shaft gnkinetics:cogstone minecraft:crafting_shapeless
+gnkinetics:crafting/cogstone_from_conversion | minecraft:crafting_shapeless | gnkinetics:cogstone gnkinetics:shaftless_cogstone minecraft:crafting_shapeless
+gnkinetics:crafting/cogwheel_from_conversion | minecraft:crafting_shapeless | create:cogwheel gnkinetics:hollow_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/hollow_brass_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:hollow_brass_gear gnkinetics:shaftless_brass_gear minecraft:crafting_shapeless
+gnkinetics:crafting/hollow_cogwheel_from_conversion | minecraft:crafting_shapeless | gnkinetics:hollow_cogwheel gnkinetics:shaftless_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/hollow_large_brass_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:hollow_large_brass_gear gnkinetics:shaftless_large_brass_gear minecraft:crafting_shapeless
+gnkinetics:crafting/hollow_large_cogwheel_from_conversion | minecraft:crafting_shapeless | gnkinetics:hollow_large_cogwheel gnkinetics:shaftless_large_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/industrial_gear | minecraft:crafting_shapeless | create:industrial_iron_block create:shaft gnkinetics:industrial_gear minecraft:crafting_shapeless
+gnkinetics:crafting/industrial_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:industrial_gear gnkinetics:shaftless_industrial_gear minecraft:crafting_shapeless
+gnkinetics:crafting/large_brass_gear | minecraft:crafting_shapeless | c:ingots/brass create:shaft gnkinetics:large_brass_gear minecraft:crafting_shapeless
+gnkinetics:crafting/large_brass_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:hollow_large_brass_gear gnkinetics:large_brass_gear minecraft:crafting_shapeless
+gnkinetics:crafting/large_cog_crank | minecraft:crafting_shapeless | create:hand_crank create:large_cogwheel gnkinetics:large_cog_crank minecraft:crafting_shapeless
+gnkinetics:crafting/large_cogwheel_from_conversion | minecraft:crafting_shapeless | create:large_cogwheel gnkinetics:hollow_large_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/large_industrial_gear | minecraft:crafting_shapeless | create:industrial_iron_block create:shaft gnkinetics:large_industrial_gear minecraft:crafting_shapeless
+gnkinetics:crafting/large_industrial_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:large_industrial_gear gnkinetics:shaftless_large_industrial_gear minecraft:crafting_shapeless
+gnkinetics:crafting/large_magnet_gear | minecraft:crafting_shapeless | create:transmitter gnkinetics:large_industrial_gear gnkinetics:large_magnet_gear gnkinetics:shaftless_large_industrial_gear minecraft:crafting_shapeless
+gnkinetics:crafting/magnet_gear | minecraft:crafting_shapeless | create:transmitter gnkinetics:industrial_gear gnkinetics:magnet_gear gnkinetics:shaftless_industrial_gear minecraft:crafting_shapeless
+gnkinetics:crafting/planetary_gear | minecraft:crafting_shaped | c:ingots/brass gnkinetics:planetary_gear gnkinetics:ring_gear minecraft:crafting_shaped
+gnkinetics:crafting/ring_gear | minecraft:crafting_shaped | c:ingots/brass gnkinetics:hollow_large_brass_gear gnkinetics:ring_gear minecraft:crafting_shaped
+gnkinetics:crafting/shaftless_andesite_cogwheel_from_conversion | minecraft:crafting_shapeless | gnkinetics:andesite_cogwheel gnkinetics:shaftless_andesite_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/shaftless_brass_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:brass_gear gnkinetics:shaftless_brass_gear minecraft:crafting_shapeless
+gnkinetics:crafting/shaftless_cogstone_from_conversion | minecraft:crafting_shapeless | gnkinetics:cogstone gnkinetics:shaftless_cogstone minecraft:crafting_shapeless
+gnkinetics:crafting/shaftless_cogwheel_from_conversion | minecraft:crafting_shapeless | create:cogwheel gnkinetics:shaftless_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/shaftless_industrial_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:industrial_gear gnkinetics:shaftless_industrial_gear minecraft:crafting_shapeless
+gnkinetics:crafting/shaftless_large_brass_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:large_brass_gear gnkinetics:shaftless_large_brass_gear minecraft:crafting_shapeless
+gnkinetics:crafting/shaftless_large_cogwheel_from_conversion | minecraft:crafting_shapeless | create:large_cogwheel gnkinetics:shaftless_large_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/shaftless_large_industrial_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:large_industrial_gear gnkinetics:shaftless_large_industrial_gear minecraft:crafting_shapeless
+gnkinetics:crafting/shaftless_tiny_brass_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:shaftless_tiny_brass_gear gnkinetics:tiny_brass_gear minecraft:crafting_shapeless
+gnkinetics:crafting/shaftless_tiny_cogwheel_from_conversion | minecraft:crafting_shapeless | gnkinetics:shaftless_tiny_cogwheel gnkinetics:tiny_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/tiny_brass_gear | minecraft:crafting_shapeless | c:nuggets/brass create:shaft gnkinetics:tiny_brass_gear minecraft:crafting_shapeless
+gnkinetics:crafting/tiny_brass_gear_from_conversion | minecraft:crafting_shapeless | gnkinetics:shaftless_tiny_brass_gear gnkinetics:tiny_brass_gear minecraft:crafting_shapeless
+gnkinetics:crafting/tiny_cogwheel | minecraft:crafting_shapeless | create:shaft gnkinetics:tiny_cogwheel minecraft:crafting_shapeless minecraft:wooden_slabs
+gnkinetics:crafting/tiny_cogwheel_from_conversion | minecraft:crafting_shapeless | gnkinetics:shaftless_tiny_cogwheel gnkinetics:tiny_cogwheel minecraft:crafting_shapeless
+gnkinetics:crafting/worm_gear | minecraft:crafting_shaped | c:plates/iron create:andesite_alloy gnkinetics:worm_gear minecraft:crafting_shaped

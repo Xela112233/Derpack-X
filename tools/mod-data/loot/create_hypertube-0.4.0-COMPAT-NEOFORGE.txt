@@ -1,0 +1,3 @@
+create_hypertube:blocks/hypertube | minecraft:block | create_hypertube:blocks/hypertube create_hypertube:hypertube minecraft:block minecraft:item minecraft:survives_explosion
+create_hypertube:blocks/hypertube_accelerator | minecraft:block | create_hypertube:blocks/hypertube_accelerator create_hypertube:hypertube_accelerator minecraft:block minecraft:item minecraft:survives_explosion
+create_hypertube:blocks/hypertube_entrance | minecraft:block | create_hypertube:blocks/hypertube_entrance create_hypertube:hypertube_entrance minecraft:block minecraft:item minecraft:survives_explosion

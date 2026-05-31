@@ -1,0 +1,212 @@
+# expandeddelight-0.1.4
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="expandeddelight"
+version="0.1.4"
+displayName="Expanded Delight"
+modId="neoforge"
+versionRange="[21.1.93,)"
+modId="minecraft"
+versionRange="[1.21.1,)"
+modId="farmersdelight"
+versionRange="1.21-1.2.4"
+
+## blocks
+expandeddelight:asparagus_crate
+expandeddelight:asparagus_crop
+expandeddelight:cask
+expandeddelight:cheese_cask
+expandeddelight:cheese_wheel
+expandeddelight:chili_pepper_crate
+expandeddelight:chili_pepper_crop
+expandeddelight:cinnamon_button
+expandeddelight:cinnamon_cabinet
+expandeddelight:cinnamon_ceiling_hanging_sign
+expandeddelight:cinnamon_door
+expandeddelight:cinnamon_fence
+expandeddelight:cinnamon_fence_gate
+expandeddelight:cinnamon_leaves
+expandeddelight:cinnamon_log
+expandeddelight:cinnamon_planks
+expandeddelight:cinnamon_pressure_plate
+expandeddelight:cinnamon_sapling
+expandeddelight:cinnamon_sign
+expandeddelight:cinnamon_slab
+expandeddelight:cinnamon_stairs
+expandeddelight:cinnamon_trapdoor
+expandeddelight:cinnamon_wall_hanging_sign
+expandeddelight:cinnamon_wall_sign
+expandeddelight:cinnamon_wood
+expandeddelight:cranberry_bag
+expandeddelight:cranberry_cobbler
+expandeddelight:cranberry_plant
+expandeddelight:deepslate_salt_ore
+expandeddelight:goat_cheese_cask
+expandeddelight:goat_cheese_wheel
+expandeddelight:goat_milk_cask
+expandeddelight:honeyed_goat_cheese_tart
+expandeddelight:juicer
+expandeddelight:milk_cask
+expandeddelight:peanut_crop
+expandeddelight:salt_ore
+expandeddelight:stripped_cinnamon_log
+expandeddelight:stripped_cinnamon_wood
+expandeddelight:sweet_potato_crate
+expandeddelight:sweet_potato_crop
+expandeddelight:wild_asparagus
+expandeddelight:wild_chili_pepper
+expandeddelight:wild_peanuts
+expandeddelight:wild_sweet_potato
+
+## items
+expandeddelight:apple_juice
+expandeddelight:asparagus
+expandeddelight:asparagus_and_bacon_cheesy
+expandeddelight:asparagus_crate
+expandeddelight:asparagus_frittata
+expandeddelight:asparagus_mushroom_pasta
+expandeddelight:asparagus_seeds
+expandeddelight:asparagus_soup
+expandeddelight:asparagus_soup_creamy
+expandeddelight:baked_sweet_potato
+expandeddelight:berry_sweet_roll
+expandeddelight:cask
+expandeddelight:cheese_cask
+expandeddelight:cheese_sandwich
+expandeddelight:cheese_slice
+expandeddelight:cheese_wheel
+expandeddelight:chili_pepper
+expandeddelight:chili_pepper_crate
+expandeddelight:chili_pepper_salmon
+expandeddelight:chili_pepper_seeds
+expandeddelight:chocolate_cookie
+expandeddelight:cinnamon
+expandeddelight:cinnamon_apples
+expandeddelight:cinnamon_boat
+expandeddelight:cinnamon_button
+expandeddelight:cinnamon_cabinet
+expandeddelight:cinnamon_chest_boat
+expandeddelight:cinnamon_door
+expandeddelight:cinnamon_fence
+expandeddelight:cinnamon_fence_gate
+expandeddelight:cinnamon_hanging_sign
+expandeddelight:cinnamon_leaves
+expandeddelight:cinnamon_log
+expandeddelight:cinnamon_planks
+expandeddelight:cinnamon_pressure_plate
+expandeddelight:cinnamon_rice
+expandeddelight:cinnamon_sapling
+expandeddelight:cinnamon_sign
+expandeddelight:cinnamon_slab
+expandeddelight:cinnamon_stairs
+expandeddelight:cinnamon_stick
+expandeddelight:cinnamon_trapdoor
+expandeddelight:cinnamon_wood
+expandeddelight:cranberries
+expandeddelight:cranberry_bag
+expandeddelight:cranberry_chicken
+expandeddelight:cranberry_cobbler
+expandeddelight:cranberry_cobbler_slice
+expandeddelight:cranberry_goat_cheese_toast
+expandeddelight:cranberry_jelly
+expandeddelight:cranberry_jelly_sandwich
+expandeddelight:cranberry_juice
+expandeddelight:cranberry_plant
+expandeddelight:crushing_mallet
+expandeddelight:deepslate_salt_ore
+expandeddelight:glass_jar
+expandeddelight:glow_berry_jelly
+expandeddelight:glow_berry_jelly_sandwich
+expandeddelight:glow_berry_juice
+expandeddelight:glow_berry_sweet_roll
+expandeddelight:goat_cheese_beetroot_salad
+expandeddelight:goat_cheese_cask
+expandeddelight:goat_cheese_slice
+expandeddelight:goat_cheese_wheel
+expandeddelight:goat_milk_bottle
+expandeddelight:goat_milk_bucket
+expandeddelight:goat_milk_cask
+expandeddelight:grilled_cheese
+expandeddelight:honeyed_goat_cheese_tart
+expandeddelight:honeyed_goat_cheese_tart_slice
+expandeddelight:juicer
+expandeddelight:mac_and_cheese
+expandeddelight:milk_cask
+expandeddelight:peanut
+expandeddelight:peanut_butter
+expandeddelight:peanut_butter_honey_sandwich
+expandeddelight:peanut_butter_sandwich
+expandeddelight:peanut_honey_soup
+expandeddelight:peanut_salad
+expandeddelight:peperonata
+expandeddelight:salt
+expandeddelight:salt_ore
+expandeddelight:salt_rock
+expandeddelight:snickerdoodle
+expandeddelight:stripped_cinnamon_log
+expandeddelight:stripped_cinnamon_wood
+expandeddelight:sugar_cookie
+expandeddelight:sweet_berry_jelly
+expandeddelight:sweet_berry_jelly_sandwich
+expandeddelight:sweet_berry_juice
+expandeddelight:sweet_potato
+expandeddelight:sweet_potato_casserole
+expandeddelight:sweet_potato_crate
+expandeddelight:sweet_potato_salad
+expandeddelight:sweet_roll
+expandeddelight:wild_asparagus
+expandeddelight:wild_chili_pepper
+expandeddelight:wild_peanuts
+expandeddelight:wild_sweet_potato
+
+## neoforge biome_modifiers
+cinnamon_tree.json :: { "type": "neoforge:add_features", "biomes": "#c:is_jungle", "features": "expandeddelight:cinnamon_tree", "step": "vegetal_decoration"}
+cranberries.json :: { "type": "neoforge:add_features", "biomes": "#c:is_swamp", "features": "expandeddelight:patch_cranberries", "step": "vegetal_decoration"}
+salt_ore.json :: { "type": "neoforge:add_features", "biomes": "#c:is_ocean", "features": "expandeddelight:salt_ore", "step": "underground_ores"}
+wild_asparagus.json :: { "type": "neoforge:add_features", "biomes": "#c:is_plains", "features": "expandeddelight:patch_wild_asparagus", "step": "vegetal_decoration"}
+wild_chili_pepper.json :: { "type": "neoforge:add_features", "biomes": "#c:is_desert", "features": "expandeddelight:patch_wild_chili_pepper", "step": "vegetal_decoration"}
+wild_peanuts.json :: { "type": "neoforge:add_features", "biomes": "#c:is_savanna", "features": "expandeddelight:patch_wild_peanuts", "step": "vegetal_decoration"}
+wild_sweet_potato.json :: { "type": "neoforge:add_features", "biomes": "#c:is_jungle", "features": "expandeddelight:patch_wild_sweet_potato", "step": "vegetal_decoration"}
+
+## c: common tag membership
+block/fence_gates/wooden.json :: { "values": [ "expandeddelight:cinnamon_fence_gate" ]}
+block/stripped_logs.json :: { "values": [ "expandeddelight:stripped_cinnamon_log" ]}
+block/stripped_woods.json :: { "values": [ "expandeddelight:stripped_cinnamon_wood" ]}
+item/buckets/milk.json :: { "values": [ "expandeddelight:goat_milk_bucket" ]}
+item/crops/asparagus.json :: { "values": [ "expandeddelight:asparagus" ]}
+item/crops/chili_pepper.json :: { "values": [ "expandeddelight:chili_pepper" ]}
+item/crops/peanut.json :: { "values": [ "expandeddelight:peanut" ]}
+item/crops/sweet_potato.json :: { "values": [ "expandeddelight:sweet_potato" ]}
+item/crops.json :: { "values": [ "#c:crops/asparagus", "#c:crops/sweet_potato", "#c:crops/chili_pepper", { "id": "#c:crops/peanut", "required": false } ]}
+item/dusts/cinnamon.json :: { "values": [ "expandeddelight:cinnamon" ]}
+item/dusts/salt.json :: { "values": [ "expandeddelight:salt" ]}
+item/dusts.json :: { "values": [ "#c:dusts/salt", "#c:dusts/cinnamon" ]}
+item/fence_gates/wooden.json :: { "values": [ "expandeddelight:cinnamon_fence_gate" ]}
+item/foods/asparagus.json :: { "values": [ "expandeddelight:asparagus" ]}
+item/foods/berry.json :: { "values": [ "expandeddelight:cranberries" ]}
+item/foods/cheese.json :: { "values": [ "expandeddelight:cheese_slice" ]}
+item/foods/chili_pepper.json :: { "values": [ "expandeddelight:chili_pepper" ]}
+item/foods/cookie.json :: { "values": [ "expandeddelight:chocolate_cookie", "expandeddelight:sugar_cookie", "expandeddelight:snickerdoodle" ]}
+item/foods/edible_when_placed.json :: { "values": [ "expandeddelight:cheese_wheel", "expandeddelight:goat_cheese_wheel", "expandeddelight:cranberry_cobbler", "expandeddelight:honeyed_goat_cheese_tart" ]}
+item/foods/goat_cheese.json :: { "values": [ "expandeddelight:goat_cheese_slice", { "id": "hearthandharvest:goat_cheese_slice", "required": false } ]}
+item/foods/milk.json :: { "values": [ "expandeddelight:goat_milk_bucket", "expandeddelight:goat_milk_bottle" ]}
+item/foods/peanut.json :: { "values": [ "expandeddelight:peanut" ]}
+item/foods/soup.json :: { "values": [ "expandeddelight:asparagus_soup", "expandeddelight:asparagus_soup_creamy", "expandeddelight:peanut_honey_soup" ]}
+item/foods/sweet_potato.json :: { "values": [ "expandeddelight:sweet_potato" ]}
+item/foods/vegetable.json :: { "values": [ "#c:foods/asparagus", "#c:foods/sweet_potato", "#c:foods/chili_pepper" ]}
+item/foods.json :: { "values": [ "#c:foods/cheese", "#c:foods/goat_cheese" ]}
+item/jams/cranberry.json :: { "values": [ "expandeddelight:cranberry_jelly" ]}
+item/jams/glow_berry.json :: { "values": [ "expandeddelight:glow_berry_jelly" ]}
+item/jams/sweet_berry.json :: { "values": [ "expandeddelight:sweet_berry_jelly" ]}
+item/jams.json :: { "values": [ "#c:jams/sweet_berry", "#c:jams/glow_berry", "#c:jams/cranberry" ]}
+item/juices/apple.json :: { "values": [ "expandeddelight:apple_juice" ]}
+item/juices/cranberry.json :: { "values": [ "expandeddelight:cranberry_juice" ]}
+item/juices/glow_berry.json :: { "values": [ "expandeddelight:glow_berry_juice" ]}
+item/juices/sweet_berry.json :: { "values": [ "expandeddelight:sweet_berry_juice" ]}
+item/juices.json :: { "values": [ "#c:juices/apple", "#c:juices/sweet_berry", "#c:juices/glow_berry", "#c:juices/cranberry" ]}
+item/ores/salt.json :: { "values": [ "expandeddelight:salt_ore", "expandeddelight:deepslate_salt_ore" ]}
+item/ores.json :: { "values": [ "#c:ores/salt" ]}
+item/seeds.json :: { "values": [ "expandeddelight:asparagus_seeds", "expandeddelight:chili_pepper_seeds" ]}
+item/stripped_logs.json :: { "values": [ "expandeddelight:stripped_cinnamon_log" ]}
+item/stripped_woods.json :: { "values": [ "expandeddelight:stripped_cinnamon_wood" ]}

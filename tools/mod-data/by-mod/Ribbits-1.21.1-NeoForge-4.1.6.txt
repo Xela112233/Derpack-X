@@ -1,0 +1,58 @@
+# Ribbits-1.21.1-NeoForge-4.1.6
+
+## mod metadata (id / version / deps)
+license="LGPLv3"
+modId="ribbits"
+version="1.21.1-NeoForge-4.1.6"
+displayName="Ribbits"
+modId="minecraft"
+versionRange="[1.21, 1.22)"
+modId="neoforge"
+versionRange="[21.0.0,)"
+modId="yungsapi"
+versionRange="[1.21.1-NeoForge-5.1.5,)"
+modId="geckolib"
+versionRange="[4.7.5.1,)"
+
+## blocks
+ribbits:brown_toadstool
+ribbits:giant_lilypad
+ribbits:mossy_oak_door
+ribbits:mossy_oak_planks
+ribbits:mossy_oak_planks_fence
+ribbits:mossy_oak_planks_fence_gate
+ribbits:mossy_oak_planks_slab
+ribbits:mossy_oak_planks_stairs
+ribbits:red_toadstool
+ribbits:swamp_daisy
+ribbits:swamp_lantern
+ribbits:toadstool
+ribbits:toadstool_stem
+ribbits:umbrella_leaf
+
+## items
+ribbits:brown_toadstool
+ribbits:giant_lilypad
+ribbits:maraca
+ribbits:maraca_in_hand
+ribbits:mossy_oak_door
+ribbits:mossy_oak_planks
+ribbits:mossy_oak_planks_fence
+ribbits:mossy_oak_planks_fence_gate
+ribbits:mossy_oak_planks_slab
+ribbits:mossy_oak_planks_stairs
+ribbits:red_toadstool
+ribbits:ribbit_fisherman_spawn_egg
+ribbits:ribbit_gardener_spawn_egg
+ribbits:ribbit_merchant_spawn_egg
+ribbits:ribbit_nitwit_spawn_egg
+ribbits:ribbit_sorcerer_spawn_egg
+ribbits:swamp_daisy
+ribbits:swamp_lantern
+ribbits:toadstool
+ribbits:toadstool_stem
+ribbits:umbrella_leaf
+
+## neoforge biome_modifiers
+
+## c: common tag membership

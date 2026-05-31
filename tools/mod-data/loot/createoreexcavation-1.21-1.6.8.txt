@@ -1,0 +1,3 @@
+createoreexcavation:blocks/drilling_machine | minecraft:block | createoreexcavation:blocks/drilling_machine createoreexcavation:drilling_machine minecraft:block minecraft:item minecraft:survives_explosion
+createoreexcavation:blocks/extractor | minecraft:block | createoreexcavation:blocks/extractor createoreexcavation:extractor minecraft:block minecraft:item minecraft:survives_explosion
+createoreexcavation:blocks/sample_drill | minecraft:block | createoreexcavation:blocks/sample_drill createoreexcavation:sample_drill minecraft:block minecraft:item minecraft:survives_explosion

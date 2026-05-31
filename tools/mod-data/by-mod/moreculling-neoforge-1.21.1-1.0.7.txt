@@ -1,0 +1,23 @@
+# moreculling-neoforge-1.21.1-1.0.7
+
+## mod metadata (id / version / deps)
+license="GPL-3.0-only"
+modId="moreculling" #mandatory
+version="1.0.7" #mandatory
+displayName="More Culling" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.0-beta,)" #mandatory
+modId="minecraft"
+versionRange="[1.21,1.21.1)"
+modId="cloth_config"
+versionRange="[15.0.0, )"
+modId="sodium"
+versionRange="[, 0.6.7)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

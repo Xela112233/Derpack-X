@@ -1,0 +1,27 @@
+# modonomicon-1.21.1-neoforge-1.120.1
+
+## mod metadata (id / version / deps)
+license = "MIT AND CC-BY-4.0"
+modId = "modonomicon" #mandatory
+version = "1.120.1" #mandatory
+displayName = "Modonomicon" #mandatory
+modId = "neoforge"
+versionRange = "[21.0.110-beta,)"
+modId = "jei"
+versionRange = "[19.8.2.0,)"
+modId = "patchouli"
+versionRange = "TODO"
+
+## blocks
+
+## items
+modonomicon:leaflet
+modonomicon:modonomicon
+modonomicon:modonomicon_blue
+modonomicon:modonomicon_green
+modonomicon:modonomicon_purple
+modonomicon:modonomicon_red
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,11 @@
+ribbits:mossy_oak_door | minecraft:crafting_shaped | minecraft:crafting_shaped ribbits:mossy_oak_door ribbits:mossy_oak_planks
+ribbits:mossy_oak_planks_fence | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick ribbits:mossy_oak_planks ribbits:mossy_oak_planks_fence
+ribbits:mossy_oak_planks_fence_from_moss_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:moss_block minecraft:oak_fence ribbits:mossy_oak_planks_fence
+ribbits:mossy_oak_planks_fence_gate | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick ribbits:mossy_oak_planks ribbits:mossy_oak_planks_fence_gate
+ribbits:mossy_oak_planks_fence_gate_from_moss_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:moss_block minecraft:oak_fence_gate ribbits:mossy_oak_planks_fence_gate
+ribbits:mossy_oak_planks_from_moss_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:moss_block minecraft:oak_planks ribbits:mossy_oak_planks
+ribbits:mossy_oak_planks_from_vine | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:oak_planks minecraft:vine ribbits:mossy_oak_planks
+ribbits:mossy_oak_planks_slab | minecraft:crafting_shaped | minecraft:crafting_shaped ribbits:mossy_oak_planks ribbits:mossy_oak_planks_slab
+ribbits:mossy_oak_planks_slab_from_moss_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:moss_block minecraft:oak_slab ribbits:mossy_oak_planks_slab
+ribbits:mossy_oak_planks_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped ribbits:mossy_oak_planks ribbits:mossy_oak_planks_stairs
+ribbits:mossy_oak_planks_stairs_from_moss_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:moss_block minecraft:oak_stairs ribbits:mossy_oak_planks_stairs

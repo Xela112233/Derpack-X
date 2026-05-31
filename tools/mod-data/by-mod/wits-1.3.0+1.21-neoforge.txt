@@ -1,0 +1,17 @@
+# wits-1.3.0+1.21-neoforge
+
+## mod metadata (id / version / deps)
+license="https://github.com/TelepathicGrunt/WITS/blob/latest-released/LICENSE"
+modId="wits" #mandatory
+version="1.3.0+1.21-neoforge" #mandatory
+displayName="WITS" #mandatory
+modId="minecraft"
+versionRange="[1.21,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

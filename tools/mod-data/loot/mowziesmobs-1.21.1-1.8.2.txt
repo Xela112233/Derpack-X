@@ -1,0 +1,26 @@
+mowziesmobs:blocks/clawed_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion mowziesmobs:clawed_log
+mowziesmobs:blocks/gong | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion mowziesmobs:blocks/gong mowziesmobs:gong
+mowziesmobs:blocks/painted_acacia | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion mowziesmobs:painted_acacia
+mowziesmobs:blocks/painted_acacia_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count mowziesmobs:painted_acacia_slab
+mowziesmobs:blocks/raked_sand | minecraft:block | minecraft:block minecraft:item minecraft:sand minecraft:survives_explosion mowziesmobs:blocks/raked_sand
+mowziesmobs:blocks/red_raked_sand | minecraft:block | minecraft:block minecraft:item minecraft:red_sand minecraft:survives_explosion mowziesmobs:blocks/red_raked_sand
+mowziesmobs:blocks/thatch_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion mowziesmobs:thatch_block
+mowziesmobs:chests/monastery_chest | minecraft:chest | minecraft:amethyst_shard minecraft:apple minecraft:book minecraft:chest minecraft:cobweb minecraft:cooked_mutton minecraft:diorite minecraft:emerald minecraft:item minecraft:mushroom_stew minecraft:paper minecraft:rabbit_foot minecraft:set_count minecraft:stone minecraft:sugar minecraft:torch minecraft:uniform mowziesmobs:geomancer_beads mowziesmobs:geomancer_belt mowziesmobs:geomancer_robe mowziesmobs:geomancer_sandals mowziesmobs:sand_rake mowziesmobs:sculptor_staff
+mowziesmobs:chests/umvuthana_grove_chest | minecraft:chest | minecraft:acacia_sapling minecraft:bone minecraft:chest minecraft:cooked_porkchop minecraft:feather minecraft:gold_nugget minecraft:item minecraft:set_count minecraft:short_grass minecraft:tall_grass minecraft:torch minecraft:uniform mowziesmobs:umvuthana_mask_bliss mowziesmobs:umvuthana_mask_faith mowziesmobs:umvuthana_mask_fear mowziesmobs:umvuthana_mask_fury mowziesmobs:umvuthana_mask_misery mowziesmobs:umvuthana_mask_rage
+mowziesmobs:entities/bluff | minecraft:entity | minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:killed_by_player minecraft:looting minecraft:set_count minecraft:uniform mowziesmobs:bluff_rod mowziesmobs:entities/bluff
+mowziesmobs:entities/elokosa | ? | minecraft:inverted minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus mowziesmobs:elokosa_paw_crescent mowziesmobs:elokosa_paw_full mowziesmobs:elokosa_paw_gibbous mowziesmobs:elokosa_paw_half mowziesmobs:elokosa_paw_new mowziesmobs:moon_phase mowziesmobs:night_form
+mowziesmobs:entities/ferrous_wroughtnaut | ? | mowziesmobs:wrought_axe mowziesmobs:wrought_helmet
+mowziesmobs:entities/foliaath | ? | minecraft:enchanted_count_increase minecraft:looting mowziesmobs:foliaath_seed
+mowziesmobs:entities/frostmaw | ? | minecraft:inverted minecraft:weather_check mowziesmobs:has_crystal mowziesmobs:ice_crystal mowziesmobs:music_disc_petiole
+mowziesmobs:entities/grottol | ? | minecraft:diamond mowziesmobs:grottol_death_type
+mowziesmobs:entities/lantern | ? | minecraft:enchanted_count_increase minecraft:looting mowziesmobs:glowing_jelly
+mowziesmobs:entities/naga | ? | minecraft:enchanted_count_increase minecraft:looting mowziesmobs:naga_fang
+mowziesmobs:entities/sculptor | ? | mowziesmobs:geomancer_beads mowziesmobs:geomancer_belt mowziesmobs:geomancer_robe mowziesmobs:geomancer_sandals mowziesmobs:sculptor_staff
+mowziesmobs:entities/sculptor_test | ? | mowziesmobs:earthrend_gauntlet
+mowziesmobs:entities/umvuthana_bliss | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus mowziesmobs:umvuthana_mask_bliss
+mowziesmobs:entities/umvuthana_faith | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus mowziesmobs:umvuthana_mask_faith
+mowziesmobs:entities/umvuthana_fear | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus mowziesmobs:umvuthana_mask_fear
+mowziesmobs:entities/umvuthana_fury | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus mowziesmobs:umvuthana_mask_fury
+mowziesmobs:entities/umvuthana_misery | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus mowziesmobs:umvuthana_mask_misery
+mowziesmobs:entities/umvuthana_rage | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:linear minecraft:looting minecraft:random_chance_with_enchanted_bonus mowziesmobs:umvuthana_mask_rage
+mowziesmobs:entities/umvuthi | ? | minecraft:enchanted_count_increase minecraft:feather minecraft:looting mowziesmobs:sol_visage

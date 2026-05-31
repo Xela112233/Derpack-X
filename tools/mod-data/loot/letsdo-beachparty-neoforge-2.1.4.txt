@@ -1,0 +1,66 @@
+beachparty:advancements/completionist | minecraft:block | beachparty:beachparty_banner minecraft:block minecraft:item minecraft:set_count
+beachparty:blocks/beach_chair | minecraft:block | beachparty:beach_chair minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/beach_goal | minecraft:block | beachparty:beach_goal minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/beach_parasol | minecraft:block | beachparty:beach_parasol minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+beachparty:blocks/beach_sun_lounger | minecraft:block | beachparty:beach_sun_lounger minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+beachparty:blocks/beach_towel | minecraft:block | beachparty:beach_towel minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+beachparty:blocks/beachparty_banner | minecraft:block | beachparty:beachparty_banner minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/beachparty_wall_banner | minecraft:block | beachparty:beachparty_banner minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/cocoa_cocktail | minecraft:block | beachparty:cocoa_cocktail minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+beachparty:blocks/coconut_cocktail | minecraft:block | beachparty:coconut_cocktail minecraft:block minecraft:block_state_property minecraft:item minecraft:set_components minecraft:survives_explosion
+beachparty:blocks/hanging_coconut | minecraft:block | beachparty:coconut minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/honey_cocktail | minecraft:block | beachparty:honey_cocktail minecraft:block minecraft:block_state_property minecraft:item minecraft:set_components minecraft:survives_explosion
+beachparty:blocks/hooded_beach_chair | minecraft:block | beachparty:hooded_beach_chair minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+beachparty:blocks/melon_cocktail | minecraft:block | beachparty:melon_cocktail minecraft:block minecraft:block_state_property minecraft:item minecraft:set_components minecraft:survives_explosion
+beachparty:blocks/message_in_a_bottle | minecraft:block | beachparty:message_in_a_bottle minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/mini_fridge | minecraft:block | beachparty:mini_fridge minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_bar | minecraft:block | beachparty:palm_bar minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_bar_stool | minecraft:block | beachparty:palm_bar_stool minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_button | minecraft:block | beachparty:palm_button minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_cabinet | minecraft:block | beachparty:palm_cabinet minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_chair | minecraft:block | beachparty:palm_chair minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_door | minecraft:block | beachparty:palm_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_fence | minecraft:block | beachparty:palm_fence minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_fence_gate | minecraft:block | beachparty:palm_fence_gate minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_floorboard | minecraft:block | beachparty:palm_floorboard minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_glass | minecraft:block | beachparty:palm_glass minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+beachparty:blocks/palm_glass_pane | minecraft:block | beachparty:palm_glass_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+beachparty:blocks/palm_hanging_sign | minecraft:block | beachparty:palm_hanging_sign minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_leaves | minecraft:block | beachparty:palm_leaves beachparty:palm_sprout minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform
+beachparty:blocks/palm_log | minecraft:block | beachparty:palm_log minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_planks | minecraft:block | beachparty:palm_planks minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_pressure_plate | minecraft:block | beachparty:palm_pressure_plate minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_sign | minecraft:block | beachparty:palm_sign minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_slab | minecraft:block | beachparty:palm_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+beachparty:blocks/palm_sprout | minecraft:block | beachparty:palm_sprout minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_stairs | minecraft:block | beachparty:palm_stairs minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_table | minecraft:block | beachparty:palm_table minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_torch | minecraft:block | beachparty:palm_torch_item minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_trapdoor | minecraft:block | beachparty:palm_trapdoor minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_wall_hanging_sign | minecraft:block | beachparty:palm_hanging_sign minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_wall_sign | minecraft:block | beachparty:palm_sign minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_wall_torch | minecraft:block | beachparty:palm_torch_item minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/palm_wood | minecraft:block | beachparty:palm_wood minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/pumpkin_cocktail | minecraft:block | beachparty:pumpkin_cocktail minecraft:block minecraft:block_state_property minecraft:item minecraft:set_components minecraft:survives_explosion
+beachparty:blocks/radio | minecraft:block | beachparty:radio minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/sand_bucket_block_empty | minecraft:block | beachparty:sand_bucket_empty minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/sand_bucket_block_filled | minecraft:block | beachparty:sand_bucket_empty minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/sandwaves | minecraft:block | beachparty:sandwaves minecraft:alternatives minecraft:block minecraft:blocks/stone minecraft:item minecraft:match_tool minecraft:sand minecraft:silk_touch minecraft:survives_explosion
+beachparty:blocks/seashell_block | minecraft:block | beachparty:seashell minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/stripped_palm_log | minecraft:block | beachparty:stripped_palm_log minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/stripped_palm_wood | minecraft:block | beachparty:stripped_palm_wood minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/sweetberries_cocktail | minecraft:block | beachparty:sweetberries_cocktail minecraft:block minecraft:block_state_property minecraft:item minecraft:set_components minecraft:survives_explosion
+beachparty:blocks/tall_palm_torch | minecraft:block | beachparty:tall_palm_torch minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+beachparty:blocks/thatch | minecraft:block | beachparty:thatch minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/thatch_slab | minecraft:block | beachparty:thatch_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+beachparty:blocks/thatch_stairs | minecraft:block | beachparty:thatch_stairs minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:blocks/wet_hay_block | minecraft:block | beachparty:wet_hay_block minecraft:block minecraft:item minecraft:survives_explosion
+beachparty:chests/buried_treasure | ? | beachparty:beach_ball beachparty:beach_hat beachparty:bikini beachparty:coconut beachparty:crocs beachparty:floaty_boat beachparty:music_disc_beachparty beachparty:music_disc_caribbean_beach beachparty:music_disc_pridelands beachparty:music_disc_vocalista beachparty:music_disc_wild_veins beachparty:overgrown_disc beachparty:palm_sprout beachparty:palm_torch_item beachparty:pool_noodle beachparty:radio beachparty:rubber_ring_axolotl beachparty:rubber_ring_blue beachparty:rubber_ring_pelican beachparty:rubber_ring_pink beachparty:rubber_ring_stripped beachparty:sunglasses beachparty:swim_wings beachparty:trunks minecraft:empty minecraft:item minecraft:set_components minecraft:set_count minecraft:uniform
+beachparty:chests/desert_pyramid | ? | beachparty:overgrown_disc minecraft:empty minecraft:item minecraft:set_count minecraft:uniform
+beachparty:chests/shipwreck_supply | ? | beachparty:beach_ball beachparty:beach_hat beachparty:bikini beachparty:coconut beachparty:crocs beachparty:floaty_boat beachparty:overgrown_disc beachparty:palm_sprout beachparty:palm_torch_item beachparty:pool_noodle beachparty:radio beachparty:rubber_ring_axolotl beachparty:rubber_ring_blue beachparty:rubber_ring_pelican beachparty:rubber_ring_pink beachparty:rubber_ring_stripped beachparty:sunglasses beachparty:swim_wings beachparty:trunks minecraft:empty minecraft:item minecraft:set_components minecraft:set_count minecraft:uniform
+beachparty:chests/shipwreck_treasure | ? | beachparty:beach_ball beachparty:beach_hat beachparty:bikini beachparty:coconut beachparty:crocs beachparty:floaty_boat beachparty:overgrown_disc beachparty:palm_sprout beachparty:palm_torch_item beachparty:pool_noodle beachparty:radio beachparty:rubber_ring_axolotl beachparty:rubber_ring_blue beachparty:rubber_ring_pelican beachparty:rubber_ring_pink beachparty:rubber_ring_stripped beachparty:sunglasses beachparty:swim_wings beachparty:trunks minecraft:empty minecraft:item minecraft:set_components minecraft:set_count minecraft:uniform
+beachparty:chests/simple_dungeon | ? | beachparty:overgrown_disc beachparty:pool_noodle minecraft:empty minecraft:item minecraft:set_components minecraft:set_count minecraft:uniform
+beachparty:chests/underwater_ruin_big | ? | beachparty:beach_ball beachparty:beach_hat beachparty:bikini beachparty:coconut beachparty:crocs beachparty:floaty_boat beachparty:overgrown_disc beachparty:palm_sprout beachparty:palm_torch_item beachparty:pool_noodle beachparty:radio beachparty:rubber_ring_axolotl beachparty:rubber_ring_blue beachparty:rubber_ring_pelican beachparty:rubber_ring_pink beachparty:rubber_ring_stripped beachparty:sunglasses beachparty:swim_wings beachparty:trunks minecraft:empty minecraft:item minecraft:set_components minecraft:set_count minecraft:uniform
+beachparty:chests/underwater_ruin_small | ? | beachparty:beach_ball beachparty:beach_hat beachparty:bikini beachparty:coconut beachparty:crocs beachparty:floaty_boat beachparty:overgrown_disc beachparty:palm_sprout beachparty:palm_torch_item beachparty:pool_noodle beachparty:radio beachparty:rubber_ring_axolotl beachparty:rubber_ring_blue beachparty:rubber_ring_pelican beachparty:rubber_ring_pink beachparty:rubber_ring_stripped beachparty:sunglasses beachparty:swim_wings beachparty:trunks minecraft:empty minecraft:item minecraft:set_components minecraft:set_count minecraft:uniform
+beachparty:chests/woodland_mansion | ? | beachparty:overgrown_disc minecraft:empty minecraft:item minecraft:set_count minecraft:uniform
+beachparty:gameplay/seashell | minecraft:generic | beachparty:raw_mussel_meat minecraft:diamond minecraft:emerald minecraft:generic minecraft:gold_ingot minecraft:item

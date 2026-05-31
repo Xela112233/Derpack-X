@@ -1,0 +1,17 @@
+# player-animation-lib-forge-2.0.4+1.21.1
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "playeranimator"
+version = "2.0.4+1.21.1"
+displayName = "Player Animator"
+modId = "minecraft"
+versionRange = "[1.21,1.21.2)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

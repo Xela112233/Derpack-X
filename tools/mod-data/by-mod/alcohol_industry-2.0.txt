@@ -1,0 +1,37 @@
+# alcohol_industry-2.0
+
+## mod metadata (id / version / deps)
+license="Custom Licence"
+modId="alcohol_industry"
+version="2.0"
+displayName="Create: Alcohol Industry"
+modId="neoforge"
+versionRange="(21,)"
+modId="minecraft"
+versionRange="1.21.1"
+modId="create"
+versionRange="[6.0.9,6.1.0)"
+modId="jei"
+versionRange="[19.0.0,)"
+
+## blocks
+alcohol_industry:alcohol_boiler
+
+## items
+alcohol_industry:alcohol_base
+alcohol_industry:alcohol_base_bucket
+alcohol_industry:alcohol_boiler
+alcohol_industry:beer
+alcohol_industry:beer_bucket
+alcohol_industry:glass_tube
+alcohol_industry:temperature_controller
+alcohol_industry:tequila
+alcohol_industry:tequila_bucket
+alcohol_industry:vodka
+alcohol_industry:vodka_bucket
+alcohol_industry:whiskey
+alcohol_industry:whiskey_bucket
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,45 @@
+umapyoi:blank_ticket | minecraft:crafting_shapeless | c:gems/lapis minecraft:crafting_shapeless minecraft:paper umapyoi:blank_ticket umapyoi:jewel
+umapyoi:card_ticket | minecraft:crafting_shapeless | minecraft:crafting_shapeless umapyoi:blank_ticket umapyoi:card_ticket umapyoi:horseshoe_silver
+umapyoi:cupcake | minecraft:crafting_shapeless | c:crops/carrot c:crops/wheat c:eggs c:milk c:sugar minecraft:crafting_shapeless umapyoi:cupcake
+umapyoi:disassembly_block | minecraft:crafting_shaped | c:ingots/iron minecraft:blast_furnace minecraft:crafting_shaped umapyoi:blank_ticket umapyoi:disassembly_block
+umapyoi:factor_decompose_table | minecraft:crafting_shaped | c:stones minecraft:crafting_shaped minecraft:paper umapyoi:factor_decompose_table umapyoi:jewel umapyoi:uma_factor_item
+umapyoi:factor_research_table | minecraft:crafting_shaped | c:stones minecraft:book minecraft:crafting_shaped umapyoi:factor_research_table umapyoi:jewel umapyoi:uma_factor_item
+umapyoi:gate | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:green_concrete minecraft:iron_bars minecraft:yellow_concrete umapyoi:gate
+umapyoi:gate_door | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:iron_bars umapyoi:gate_door
+umapyoi:hachimi_big | minecraft:crafting_shapeless | c:sugar c:water minecraft:crafting_shapeless minecraft:honey_bottle umapyoi:hachimi_big
+umapyoi:hachimi_mid | minecraft:crafting_shapeless | c:sugar c:water minecraft:crafting_shapeless minecraft:honey_bottle umapyoi:hachimi_mid
+umapyoi:jewel | minecraft:crafting_shapeless | c:crops/carrot c:gems/diamond c:gems/emerald minecraft:crafting_shapeless umapyoi:jewel
+umapyoi:large_energy_drink | minecraft:crafting_shapeless | c:crops/carrot c:crops/nether_wart c:dusts/glowstone c:dusts/redstone c:sugar c:water minecraft:crafting_shapeless umapyoi:large_energy_drink
+umapyoi:medium_energy_drink | minecraft:crafting_shapeless | c:crops/carrot c:crops/nether_wart c:dusts/redstone c:sugar c:water minecraft:crafting_shapeless umapyoi:medium_energy_drink
+umapyoi:race_register | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:crafting_table umapyoi:race_register umapyoi:race_ticket
+umapyoi:race_select_block | minecraft:crafting_shaped | c:ingots/gold minecraft:crafting_shaped minecraft:lectern minecraft:nether_star umapyoi:race_select_block
+umapyoi:race_ticket | minecraft:crafting_shapeless | c:gems/emerald minecraft:crafting_shapeless umapyoi:blank_ticket umapyoi:make_debut umapyoi:race_ticket
+umapyoi:register_lectern | minecraft:crafting_shaped | c:ingots/gold minecraft:crafting_shaped minecraft:lectern umapyoi:jewel umapyoi:register_lectern
+umapyoi:royal_bitter | minecraft:crafting_shapeless | c:crops/nether_wart c:dusts/redstone c:seeds/wheat c:water minecraft:crafting_shapeless minecraft:glistering_melon_slice umapyoi:royal_bitter
+umapyoi:silver_uma_pedestal | minecraft:crafting_shaped | c:ingots/iron c:stones minecraft:crafting_shaped umapyoi:jewel umapyoi:silver_uma_pedestal
+umapyoi:skill_learning_table | minecraft:crafting_shaped | c:bookshelves minecraft:crafting_shaped umapyoi:jewel umapyoi:skill_learning_table
+umapyoi:small_energy_drink | minecraft:crafting_shapeless | c:crops/carrot c:crops/nether_wart c:sugar c:water minecraft:crafting_shapeless umapyoi:small_energy_drink
+umapyoi:sr_card_ticket | minecraft:crafting_shapeless | minecraft:crafting_shapeless umapyoi:blank_ticket umapyoi:horseshoe_gold umapyoi:sr_card_ticket
+umapyoi:sr_uma_ticket | minecraft:crafting_shapeless | minecraft:crafting_shapeless umapyoi:blank_ticket umapyoi:crystal_gold umapyoi:sr_uma_ticket
+umapyoi:ssr_card_ticket | minecraft:crafting_shapeless | minecraft:crafting_shapeless umapyoi:blank_ticket umapyoi:horseshoe_rainbow umapyoi:ssr_card_ticket
+umapyoi:ssr_uma_ticket | minecraft:crafting_shapeless | minecraft:crafting_shapeless umapyoi:blank_ticket umapyoi:crystal_rainbow umapyoi:ssr_uma_ticket
+umapyoi:summer_uniform | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:purple_wool minecraft:white_wool umapyoi:jewel umapyoi:summer_uniform
+umapyoi:sweet_cupcake | minecraft:crafting_shapeless | c:crops/carrot c:crops/wheat c:eggs c:milk c:sugar minecraft:crafting_shapeless umapyoi:sweet_cupcake
+umapyoi:swimsuit | minecraft:crafting_shaped | c:dyes/blue c:leathers minecraft:crafting_shaped umapyoi:jewel umapyoi:swimsuit
+umapyoi:three_goddess | minecraft:crafting_shaped | c:stones minecraft:crafting_shaped minecraft:quartz_block umapyoi:jewel umapyoi:three_goddess
+umapyoi:trainers_manual | minecraft:crafting_shapeless | minecraft:bookshelf_books minecraft:crafting_shapeless neoforge:mod_loaded patchouli:guide_book umapyoi:jewel umapyoi:trainers_manual
+umapyoi:training_facility | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:crafting_table umapyoi:jewel umapyoi:training_facility
+umapyoi:trainning_suit | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_wool minecraft:white_wool umapyoi:jewel umapyoi:trainning_suit
+umapyoi:uma_pedestal | minecraft:crafting_shaped | c:ingots/gold minecraft:crafting_shaped umapyoi:crystal_gold umapyoi:horseshoe_gold umapyoi:silver_uma_pedestal umapyoi:uma_pedestal
+umapyoi:uma_select_block | minecraft:crafting_shaped | c:gems/diamond minecraft:crafting_shaped minecraft:lectern minecraft:nether_star umapyoi:blank_ticket umapyoi:uma_select_block
+umapyoi:uma_statue | minecraft:crafting_shaped | c:stones minecraft:crafting_shaped umapyoi:jewel umapyoi:uma_statue
+umapyoi:uma_ticket | minecraft:crafting_shapeless | minecraft:crafting_shapeless umapyoi:blank_ticket umapyoi:crystal_silver umapyoi:uma_ticket
+umapyoi:winter_uniform | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:purple_wool umapyoi:jewel umapyoi:winter_uniform
+umapyoi:integration/create/mixing/cupcake_from_mixing | create:mixing | create:mixing forge:crops/carrot forge:crops/wheat forge:eggs forge:flour forge:milk forge:mod_loaded forge:sugar umapyoi:cupcake
+umapyoi:integration/create/mixing/hachimi_big_from_mixing | create:mixing | create:mixing forge:honey forge:mod_loaded forge:sugar minecraft:water umapyoi:hachimi_big
+umapyoi:integration/create/mixing/hachimi_from_mixing | create:mixing | create:mixing forge:honey forge:mod_loaded forge:sugar minecraft:water umapyoi:hachimi_mid
+umapyoi:integration/create/mixing/large_vital_from_mixing | create:mixing | create:mixing forge:crops/carrot forge:crops/nether_wart forge:dusts/glowstone forge:dusts/redstone forge:mod_loaded forge:sugar minecraft:water umapyoi:large_energy_drink
+umapyoi:integration/create/mixing/medium_vital_from_mixing | create:mixing | create:mixing forge:crops/carrot forge:crops/nether_wart forge:dusts/redstone forge:mod_loaded forge:sugar minecraft:water umapyoi:medium_energy_drink
+umapyoi:integration/create/mixing/royal_bitter_from_mixing | create:mixing | create:mixing forge:crops/nether_wart forge:dusts/redstone forge:mod_loaded forge:seeds/wheat forge:sugar minecraft:glistering_melon_slice minecraft:water umapyoi:royal_bitter
+umapyoi:integration/create/mixing/small_vital_from_mixing | create:mixing | create:mixing forge:crops/carrot forge:crops/nether_wart forge:mod_loaded forge:sugar minecraft:water umapyoi:small_energy_drink
+umapyoi:integration/create/mixing/sweetcupcake_from_mixing | create:mixing | create:mixing forge:crops/carrot forge:crops/wheat forge:eggs forge:flour forge:milk forge:mod_loaded forge:sugar umapyoi:sweet_cupcake

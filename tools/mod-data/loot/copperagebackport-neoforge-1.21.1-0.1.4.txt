@@ -1,0 +1,70 @@
+copperagebackport:blocks/copper_button | minecraft:block | copperagebackport:copper_button minecraft:block minecraft:item minecraft:survives_explosion
+copperagebackport:blocks/exposed_copper_button | minecraft:block | copperagebackport:exposed_copper_button minecraft:block minecraft:item minecraft:survives_explosion
+copperagebackport:blocks/oxidized_copper_button | minecraft:block | copperagebackport:oxidized_copper_button minecraft:block minecraft:item minecraft:survives_explosion
+copperagebackport:blocks/waxed_copper_button | minecraft:block | copperagebackport:waxed_copper_button minecraft:block minecraft:item minecraft:survives_explosion
+copperagebackport:blocks/waxed_exposed_copper_button | minecraft:block | copperagebackport:waxed_exposed_copper_button minecraft:block minecraft:item minecraft:survives_explosion
+copperagebackport:blocks/waxed_oxidized_copper_button | minecraft:block | copperagebackport:waxed_oxidized_copper_button minecraft:block minecraft:item minecraft:survives_explosion
+copperagebackport:blocks/waxed_weathered_copper_button | minecraft:block | copperagebackport:waxed_weathered_copper_button minecraft:block minecraft:item minecraft:survives_explosion
+copperagebackport:blocks/weathered_copper_button | minecraft:block | copperagebackport:weathered_copper_button minecraft:block minecraft:item minecraft:survives_explosion
+minecraft:blocks/acacia_shelf | minecraft:block | minecraft:acacia_shelf minecraft:block minecraft:item minecraft:survives_explosion
+minecraft:blocks/bamboo_shelf | minecraft:block | minecraft:bamboo_shelf minecraft:block minecraft:item minecraft:survives_explosion
+minecraft:blocks/birch_shelf | minecraft:block | minecraft:birch_shelf minecraft:block minecraft:item minecraft:survives_explosion
+minecraft:blocks/cherry_shelf | minecraft:block | minecraft:block minecraft:cherry_shelf minecraft:item minecraft:survives_explosion
+minecraft:blocks/copper_bars | minecraft:block | minecraft:block minecraft:copper_bars minecraft:item minecraft:survives_explosion
+minecraft:blocks/copper_chain | minecraft:block | minecraft:block minecraft:copper_chain minecraft:item minecraft:survives_explosion
+minecraft:blocks/copper_chest | minecraft:block | minecraft:block minecraft:blocks/copper_chest minecraft:copper_chest minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+minecraft:blocks/copper_golem_statue | minecraft:block | minecraft:block minecraft:blocks/copper_golem_statue minecraft:copper_golem_statue minecraft:copy_components minecraft:copy_state minecraft:custom_name minecraft:item minecraft:survives_explosion
+minecraft:blocks/copper_lantern | minecraft:block | minecraft:block minecraft:copper_lantern minecraft:item minecraft:survives_explosion
+minecraft:blocks/copper_torch | minecraft:block | minecraft:block minecraft:copper_torch minecraft:item minecraft:survives_explosion
+minecraft:blocks/crimson_shelf | minecraft:block | minecraft:block minecraft:crimson_shelf minecraft:item minecraft:survives_explosion
+minecraft:blocks/dark_oak_shelf | minecraft:block | minecraft:block minecraft:dark_oak_shelf minecraft:item minecraft:survives_explosion
+minecraft:blocks/exposed_copper_bars | minecraft:block | minecraft:block minecraft:exposed_copper_bars minecraft:item minecraft:survives_explosion
+minecraft:blocks/exposed_copper_chain | minecraft:block | minecraft:block minecraft:exposed_copper_chain minecraft:item minecraft:survives_explosion
+minecraft:blocks/exposed_copper_chest | minecraft:block | minecraft:block minecraft:blocks/exposed_copper_chest minecraft:copy_components minecraft:custom_name minecraft:exposed_copper_chest minecraft:item minecraft:survives_explosion
+minecraft:blocks/exposed_copper_golem_statue | minecraft:block | minecraft:block minecraft:blocks/exposed_copper_golem_statue minecraft:copy_components minecraft:copy_state minecraft:custom_name minecraft:exposed_copper_golem_statue minecraft:item minecraft:survives_explosion
+minecraft:blocks/exposed_copper_lantern | minecraft:block | minecraft:block minecraft:exposed_copper_lantern minecraft:item minecraft:survives_explosion
+minecraft:blocks/exposed_lightning_rod | minecraft:block | minecraft:block minecraft:exposed_lightning_rod minecraft:item minecraft:survives_explosion
+minecraft:blocks/jungle_shelf | minecraft:block | minecraft:block minecraft:item minecraft:jungle_shelf minecraft:survives_explosion
+minecraft:blocks/lightning_rod | minecraft:block | minecraft:block minecraft:item minecraft:lightning_rod minecraft:survives_explosion
+minecraft:blocks/mangrove_shelf | minecraft:block | minecraft:block minecraft:item minecraft:mangrove_shelf minecraft:survives_explosion
+minecraft:blocks/oak_shelf | minecraft:block | minecraft:block minecraft:item minecraft:oak_shelf minecraft:survives_explosion
+minecraft:blocks/oxidized_copper_bars | minecraft:block | minecraft:block minecraft:item minecraft:oxidized_copper_bars minecraft:survives_explosion
+minecraft:blocks/oxidized_copper_chain | minecraft:block | minecraft:block minecraft:item minecraft:oxidized_copper_chain minecraft:survives_explosion
+minecraft:blocks/oxidized_copper_chest | minecraft:block | minecraft:block minecraft:blocks/oxidized_copper_chest minecraft:copy_components minecraft:custom_name minecraft:item minecraft:oxidized_copper_chest minecraft:survives_explosion
+minecraft:blocks/oxidized_copper_golem_statue | minecraft:block | minecraft:block minecraft:blocks/oxidized_copper_golem_statue minecraft:copy_components minecraft:copy_state minecraft:custom_name minecraft:item minecraft:oxidized_copper_golem_statue minecraft:survives_explosion
+minecraft:blocks/oxidized_copper_lantern | minecraft:block | minecraft:block minecraft:item minecraft:oxidized_copper_lantern minecraft:survives_explosion
+minecraft:blocks/oxidized_lightning_rod | minecraft:block | minecraft:block minecraft:item minecraft:oxidized_lightning_rod minecraft:survives_explosion
+minecraft:blocks/pale_oak_shelf | minecraft:block | fabric:all_mods_loaded minecraft:block minecraft:item minecraft:pale_oak_shelf minecraft:survives_explosion neoforge:mod_loaded
+minecraft:blocks/spruce_shelf | minecraft:block | minecraft:block minecraft:item minecraft:spruce_shelf minecraft:survives_explosion
+minecraft:blocks/warped_shelf | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:warped_shelf
+minecraft:blocks/waxed_copper_bars | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_copper_bars
+minecraft:blocks/waxed_copper_chain | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_copper_chain
+minecraft:blocks/waxed_copper_chest | minecraft:block | minecraft:block minecraft:blocks/waxed_copper_chest minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion minecraft:waxed_copper_chest
+minecraft:blocks/waxed_copper_golem_statue | minecraft:block | minecraft:block minecraft:blocks/waxed_copper_golem_statue minecraft:copy_components minecraft:copy_state minecraft:custom_name minecraft:item minecraft:survives_explosion minecraft:waxed_copper_golem_statue
+minecraft:blocks/waxed_copper_lantern | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_copper_lantern
+minecraft:blocks/waxed_exposed_copper_bars | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_exposed_copper_bars
+minecraft:blocks/waxed_exposed_copper_chain | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_exposed_copper_chain
+minecraft:blocks/waxed_exposed_copper_chest | minecraft:block | minecraft:block minecraft:blocks/waxed_exposed_copper_chest minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion minecraft:waxed_exposed_copper_chest
+minecraft:blocks/waxed_exposed_copper_golem_statue | minecraft:block | minecraft:block minecraft:blocks/waxed_exposed_copper_golem_statue minecraft:copy_components minecraft:copy_state minecraft:custom_name minecraft:item minecraft:survives_explosion minecraft:waxed_exposed_copper_golem_statue
+minecraft:blocks/waxed_exposed_copper_lantern | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_exposed_copper_lantern
+minecraft:blocks/waxed_exposed_lightning_rod | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_exposed_lightning_rod
+minecraft:blocks/waxed_lightning_rod | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_lightning_rod
+minecraft:blocks/waxed_oxidized_copper_bars | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_oxidized_copper_bars
+minecraft:blocks/waxed_oxidized_copper_chain | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_oxidized_copper_chain
+minecraft:blocks/waxed_oxidized_copper_chest | minecraft:block | minecraft:block minecraft:blocks/waxed_oxidized_copper_chest minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion minecraft:waxed_oxidized_copper_chest
+minecraft:blocks/waxed_oxidized_copper_golem_statue | minecraft:block | minecraft:block minecraft:blocks/waxed_oxidized_copper_golem_statue minecraft:copy_components minecraft:copy_state minecraft:custom_name minecraft:item minecraft:survives_explosion minecraft:waxed_oxidized_copper_golem_statue
+minecraft:blocks/waxed_oxidized_copper_lantern | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_oxidized_copper_lantern
+minecraft:blocks/waxed_oxidized_lightning_rod | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_oxidized_lightning_rod
+minecraft:blocks/waxed_weathered_copper_bars | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_weathered_copper_bars
+minecraft:blocks/waxed_weathered_copper_chain | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_weathered_copper_chain
+minecraft:blocks/waxed_weathered_copper_chest | minecraft:block | minecraft:block minecraft:blocks/waxed_weathered_copper_chest minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion minecraft:waxed_weathered_copper_chest
+minecraft:blocks/waxed_weathered_copper_golem_statue | minecraft:block | minecraft:block minecraft:blocks/waxed_weathered_copper_golem_statue minecraft:copy_components minecraft:copy_state minecraft:custom_name minecraft:item minecraft:survives_explosion minecraft:waxed_weathered_copper_golem_statue
+minecraft:blocks/waxed_weathered_copper_lantern | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_weathered_copper_lantern
+minecraft:blocks/waxed_weathered_lightning_rod | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:waxed_weathered_lightning_rod
+minecraft:blocks/weathered_copper_bars | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:weathered_copper_bars
+minecraft:blocks/weathered_copper_chain | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:weathered_copper_chain
+minecraft:blocks/weathered_copper_chest | minecraft:block | minecraft:block minecraft:blocks/weathered_copper_chest minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion minecraft:weathered_copper_chest
+minecraft:blocks/weathered_copper_golem_statue | minecraft:block | minecraft:block minecraft:blocks/weathered_copper_golem_statue minecraft:copy_components minecraft:copy_state minecraft:custom_name minecraft:item minecraft:survives_explosion minecraft:weathered_copper_golem_statue
+minecraft:blocks/weathered_copper_lantern | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:weathered_copper_lantern
+minecraft:blocks/weathered_lightning_rod | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion minecraft:weathered_lightning_rod
+minecraft:entities/copper_golem | minecraft:entity | minecraft:copper_ingot minecraft:enchanted_count_increase minecraft:entities/copper_golem minecraft:entity minecraft:item minecraft:looting minecraft:set_count minecraft:uniform

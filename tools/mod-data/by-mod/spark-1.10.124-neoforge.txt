@@ -1,0 +1,17 @@
+# spark-1.10.124-neoforge
+
+## mod metadata (id / version / deps)
+license="GPLv3"
+modId="spark"
+displayName="spark"
+version="1.10.124"
+modId = "neoforge"
+versionRange = "[20,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

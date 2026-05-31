@@ -1,0 +1,403 @@
+# createbigcannons-5.11.3-mc.1.21.1
+
+## mod metadata (id / version / deps)
+license = "MIT and CC BY-NC-SA (see github for details)"
+modId = "createbigcannons"
+version = "5.11.3"
+displayName = "Create Big Cannons"
+modId = "neoforge"
+versionRange = "21.1.225"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "create"
+versionRange="[6.0.7,6.1.0)"
+modId = "ritchiesprojectilelib"
+versionRange="[2.1.2,)"
+modId = "copycats"
+versionRange = "[3.0.0,)"
+modId = "framedblocks"
+versionRange = "[10.0.0,)"
+modId = "curios"
+versionRange = "[9.2.0,)"
+modId = "sable"
+versionRange = "[1.1.0,)"
+
+## blocks
+createbigcannons:ap_shell
+createbigcannons:ap_shot
+createbigcannons:autocannon_ammo_container
+createbigcannons:autocannon_barrel_cast_mould
+createbigcannons:autocannon_breech_cast_mould
+createbigcannons:autocannon_recoil_spring_cast_mould
+createbigcannons:bag_of_grapeshot
+createbigcannons:basin_foundry_lid
+createbigcannons:big_cartridge
+createbigcannons:bronze_autocannon_barrel
+createbigcannons:bronze_autocannon_breech
+createbigcannons:bronze_autocannon_recoil_spring
+createbigcannons:bronze_block
+createbigcannons:bronze_cannon_barrel
+createbigcannons:bronze_cannon_chamber
+createbigcannons:bronze_cannon_end
+createbigcannons:bronze_quickfiring_breech
+createbigcannons:bronze_sliding_breech
+createbigcannons:built_up_cannon
+createbigcannons:built_up_nethersteel_cannon_barrel
+createbigcannons:built_up_nethersteel_cannon_chamber
+createbigcannons:built_up_steel_cannon_barrel
+createbigcannons:built_up_steel_cannon_chamber
+createbigcannons:cannon_builder
+createbigcannons:cannon_builder_head
+createbigcannons:cannon_carriage
+createbigcannons:cannon_cast
+createbigcannons:cannon_drill
+createbigcannons:cannon_drill_bit
+createbigcannons:cannon_end_cast_mould
+createbigcannons:cannon_loader
+createbigcannons:cannon_mount
+createbigcannons:cannon_mount_extension
+createbigcannons:cast_iron_autocannon_barrel
+createbigcannons:cast_iron_autocannon_breech
+createbigcannons:cast_iron_autocannon_recoil_spring
+createbigcannons:cast_iron_block
+createbigcannons:cast_iron_cannon_barrel
+createbigcannons:cast_iron_cannon_chamber
+createbigcannons:cast_iron_cannon_end
+createbigcannons:cast_iron_quickfiring_breech
+createbigcannons:cast_iron_sliding_breech
+createbigcannons:casting_sand
+createbigcannons:creative_autocannon_ammo_container
+createbigcannons:drop_mortar_shell
+createbigcannons:finished_cannon_cast
+createbigcannons:fixed_cannon_mount
+createbigcannons:fluid_shell
+createbigcannons:he_shell
+createbigcannons:incomplete_bronze_autocannon_breech
+createbigcannons:incomplete_bronze_autocannon_recoil_spring
+createbigcannons:incomplete_bronze_sliding_breech
+createbigcannons:incomplete_cast_iron_autocannon_breech
+createbigcannons:incomplete_cast_iron_autocannon_recoil_spring
+createbigcannons:incomplete_cast_iron_sliding_breech
+createbigcannons:incomplete_nethersteel_screw_breech
+createbigcannons:incomplete_steel_autocannon_breech
+createbigcannons:incomplete_steel_autocannon_recoil_spring
+createbigcannons:incomplete_steel_screw_breech
+createbigcannons:incomplete_steel_sliding_breech
+createbigcannons:large_cast_mould
+createbigcannons:large_nethersteel_cannon_layer
+createbigcannons:large_steel_cannon_layer
+createbigcannons:log_cannon_chamber
+createbigcannons:log_cannon_end
+createbigcannons:medium_cast_mould
+createbigcannons:medium_nethersteel_cannon_layer
+createbigcannons:medium_steel_cannon_layer
+createbigcannons:molten_bronze
+createbigcannons:molten_cast_iron
+createbigcannons:molten_nethersteel
+createbigcannons:molten_steel
+createbigcannons:mortar_stone
+createbigcannons:mortar_stone_projectile
+createbigcannons:nethersteel_block
+createbigcannons:nethersteel_cannon_barrel
+createbigcannons:nethersteel_cannon_chamber
+createbigcannons:nethersteel_screw_breech
+createbigcannons:powder_charge
+createbigcannons:ram_head
+createbigcannons:screw_breech_cast_mould
+createbigcannons:shrapnel_shell
+createbigcannons:sliding_breech_cast_mould
+createbigcannons:small_cast_mould
+createbigcannons:small_nethersteel_cannon_layer
+createbigcannons:small_steel_cannon_layer
+createbigcannons:smoke_shell
+createbigcannons:solid_shot
+createbigcannons:steel_autocannon_barrel
+createbigcannons:steel_autocannon_breech
+createbigcannons:steel_autocannon_recoil_spring
+createbigcannons:steel_block
+createbigcannons:steel_cannon_barrel
+createbigcannons:steel_cannon_chamber
+createbigcannons:steel_quickfiring_breech
+createbigcannons:steel_screw_breech
+createbigcannons:steel_sliding_breech
+createbigcannons:thick_nethersteel_cannon_chamber
+createbigcannons:thick_steel_cannon_chamber
+createbigcannons:traffic_cone
+createbigcannons:unbored_bronze_autocannon_barrel
+createbigcannons:unbored_bronze_autocannon_breech
+createbigcannons:unbored_bronze_autocannon_recoil_spring
+createbigcannons:unbored_bronze_cannon_barrel
+createbigcannons:unbored_bronze_cannon_chamber
+createbigcannons:unbored_bronze_sliding_breech
+createbigcannons:unbored_cast_iron_autocannon_barrel
+createbigcannons:unbored_cast_iron_autocannon_breech
+createbigcannons:unbored_cast_iron_autocannon_recoil_spring
+createbigcannons:unbored_cast_iron_cannon_barrel
+createbigcannons:unbored_cast_iron_cannon_chamber
+createbigcannons:unbored_cast_iron_sliding_breech
+createbigcannons:unbored_large_nethersteel_cannon_layer
+createbigcannons:unbored_large_steel_cannon_layer
+createbigcannons:unbored_medium_nethersteel_cannon_layer
+createbigcannons:unbored_medium_steel_cannon_layer
+createbigcannons:unbored_nethersteel_screw_breech
+createbigcannons:unbored_small_nethersteel_cannon_layer
+createbigcannons:unbored_small_steel_cannon_layer
+createbigcannons:unbored_steel_autocannon_barrel
+createbigcannons:unbored_steel_autocannon_breech
+createbigcannons:unbored_steel_autocannon_recoil_spring
+createbigcannons:unbored_steel_screw_breech
+createbigcannons:unbored_steel_sliding_breech
+createbigcannons:unbored_very_large_nethersteel_cannon_layer
+createbigcannons:unbored_very_large_steel_cannon_layer
+createbigcannons:unbored_very_small_nethersteel_cannon_layer
+createbigcannons:unbored_very_small_steel_cannon_layer
+createbigcannons:very_large_cast_mould
+createbigcannons:very_large_nethersteel_cannon_layer
+createbigcannons:very_large_steel_cannon_layer
+createbigcannons:very_small_cast_mould
+createbigcannons:very_small_nethersteel_cannon_layer
+createbigcannons:very_small_steel_cannon_layer
+createbigcannons:worm_head
+createbigcannons:wrought_iron_cannon_chamber
+createbigcannons:wrought_iron_cannon_end
+createbigcannons:wrought_iron_drop_mortar_end
+createbigcannons:yaw_controller
+
+## items
+createbigcannons:ap_autocannon_round
+createbigcannons:ap_shell
+createbigcannons:ap_shell_base_fuze
+createbigcannons:ap_shell_head_fuze
+createbigcannons:ap_shot
+createbigcannons:autocannon_ammo_container
+createbigcannons:autocannon_barrel_cast_mould
+createbigcannons:autocannon_breech_cast_mould
+createbigcannons:autocannon_cartridge
+createbigcannons:autocannon_cartridge_sheet
+createbigcannons:autocannon_recoil_spring_cast_mould
+createbigcannons:bag_of_grapeshot
+createbigcannons:basin_foundry_lid
+createbigcannons:big_cartridge
+createbigcannons:big_cartridge_sheet
+createbigcannons:block_armor_inspection_tool
+createbigcannons:bronze_autocannon_barrel
+createbigcannons:bronze_autocannon_breech
+createbigcannons:bronze_autocannon_breech_extractor
+createbigcannons:bronze_autocannon_recoil_spring
+createbigcannons:bronze_block
+createbigcannons:bronze_cannon_barrel
+createbigcannons:bronze_cannon_chamber
+createbigcannons:bronze_cannon_end
+createbigcannons:bronze_ingot
+createbigcannons:bronze_quickfiring_breech
+createbigcannons:bronze_scrap
+createbigcannons:bronze_sliding_breech
+createbigcannons:bronze_sliding_breechblock
+createbigcannons:built_up_nethersteel_cannon_barrel
+createbigcannons:built_up_nethersteel_cannon_chamber
+createbigcannons:built_up_steel_cannon_barrel
+createbigcannons:built_up_steel_cannon_chamber
+createbigcannons:cannon_builder
+createbigcannons:cannon_carriage
+createbigcannons:cannon_crafting_wand
+createbigcannons:cannon_drill
+createbigcannons:cannon_end_cast_mould
+createbigcannons:cannon_loader
+createbigcannons:cannon_mount
+createbigcannons:cannon_mount_extension
+createbigcannons:cannon_welder
+createbigcannons:cast_iron_autocannon_barrel
+createbigcannons:cast_iron_autocannon_breech
+createbigcannons:cast_iron_autocannon_breech_extractor
+createbigcannons:cast_iron_autocannon_recoil_spring
+createbigcannons:cast_iron_block
+createbigcannons:cast_iron_cannon_barrel
+createbigcannons:cast_iron_cannon_chamber
+createbigcannons:cast_iron_cannon_end
+createbigcannons:cast_iron_ingot
+createbigcannons:cast_iron_nugget
+createbigcannons:cast_iron_quickfiring_breech
+createbigcannons:cast_iron_sliding_breech
+createbigcannons:cast_iron_sliding_breechblock
+createbigcannons:casting_sand
+createbigcannons:congealed_nitro
+createbigcannons:creative_autocannon_ammo_container
+createbigcannons:delayed_impact_fuze
+createbigcannons:delayed_inertia_fuze
+createbigcannons:drop_mortar_shell
+createbigcannons:empty_autocannon_cartridge
+createbigcannons:empty_machine_gun_round
+createbigcannons:empty_powder_charge
+createbigcannons:filled_autocannon_cartridge
+createbigcannons:fixed_cannon_mount
+createbigcannons:flak_autocannon_round
+createbigcannons:fluid_shell
+createbigcannons:fluid_shell_base_fuze
+createbigcannons:fluid_shell_head_fuze
+createbigcannons:gas_mask
+createbigcannons:guncotton
+createbigcannons:gunpowder_pinch
+createbigcannons:hardened_nitro
+createbigcannons:he_shell
+createbigcannons:he_shell_base_fuze
+createbigcannons:he_shell_head_fuze
+createbigcannons:impact_fuze
+createbigcannons:incomplete_bronze_autocannon_breech
+createbigcannons:incomplete_bronze_autocannon_recoil_spring
+createbigcannons:incomplete_bronze_sliding_breech
+createbigcannons:incomplete_cast_iron_autocannon_breech
+createbigcannons:incomplete_cast_iron_autocannon_recoil_spring
+createbigcannons:incomplete_cast_iron_sliding_breech
+createbigcannons:incomplete_nethersteel_screw_breech
+createbigcannons:incomplete_steel_autocannon_breech
+createbigcannons:incomplete_steel_autocannon_recoil_spring
+createbigcannons:incomplete_steel_screw_breech
+createbigcannons:incomplete_steel_sliding_breech
+createbigcannons:inertia_fuze
+createbigcannons:large_cast_mould
+createbigcannons:large_nethersteel_cannon_layer
+createbigcannons:large_steel_cannon_layer
+createbigcannons:log_cannon_chamber
+createbigcannons:log_cannon_end
+createbigcannons:machine_gun_round
+createbigcannons:medium_cast_mould
+createbigcannons:medium_nethersteel_cannon_layer
+createbigcannons:medium_steel_cannon_layer
+createbigcannons:molten_bronze_bucket
+createbigcannons:molten_cast_iron_bucket
+createbigcannons:molten_nethersteel_bucket
+createbigcannons:molten_steel_bucket
+createbigcannons:mortar_stone
+createbigcannons:mortar_stone_projectile
+createbigcannons:nethersteel_block
+createbigcannons:nethersteel_cannon_barrel
+createbigcannons:nethersteel_cannon_chamber
+createbigcannons:nethersteel_ingot
+createbigcannons:nethersteel_nugget
+createbigcannons:nethersteel_screw_breech
+createbigcannons:nethersteel_screw_lock
+createbigcannons:nitropowder
+createbigcannons:packed_guncotton
+createbigcannons:packed_gunpowder
+createbigcannons:pair_of_cannon_wheels
+createbigcannons:partial_bronze_autocannon_breech_extractor
+createbigcannons:partial_cast_iron_autocannon_breech_extractor
+createbigcannons:partial_recoil_spring
+createbigcannons:partial_steel_autocannon_breech_extractor
+createbigcannons:partially_assembled_machine_gun_round
+createbigcannons:partially_filled_autocannon_cartridge
+createbigcannons:partially_formed_autocannon_cartridge
+createbigcannons:partially_formed_autocannon_cartridge1
+createbigcannons:partially_formed_autocannon_cartridge2
+createbigcannons:partially_formed_autocannon_cartridge3
+createbigcannons:partially_formed_autocannon_cartridge4
+createbigcannons:partially_formed_big_cartridge
+createbigcannons:partially_formed_big_cartridge1
+createbigcannons:partially_formed_big_cartridge2
+createbigcannons:partially_formed_big_cartridge3
+createbigcannons:powder_charge
+createbigcannons:proximity_fuze
+createbigcannons:quickfiring_mechanism
+createbigcannons:ram_head
+createbigcannons:ram_rod
+createbigcannons:recoil_spring
+createbigcannons:screw_breech_cast_mould
+createbigcannons:screw_lock
+createbigcannons:shot_balls
+createbigcannons:shrapnel_shell
+createbigcannons:shrapnel_shell_base_fuze
+createbigcannons:shrapnel_shell_head_fuze
+createbigcannons:sliding_breech_cast_mould
+createbigcannons:sliding_breechblock
+createbigcannons:small_cast_mould
+createbigcannons:small_nethersteel_cannon_layer
+createbigcannons:small_steel_cannon_layer
+createbigcannons:smoke_shell
+createbigcannons:smoke_shell_base_fuze
+createbigcannons:smoke_shell_head_fuze
+createbigcannons:solid_shot
+createbigcannons:spring_wire
+createbigcannons:steel_autocannon_barrel
+createbigcannons:steel_autocannon_breech
+createbigcannons:steel_autocannon_breech_extractor
+createbigcannons:steel_autocannon_recoil_spring
+createbigcannons:steel_block
+createbigcannons:steel_cannon_barrel
+createbigcannons:steel_cannon_chamber
+createbigcannons:steel_ingot
+createbigcannons:steel_quickfiring_breech
+createbigcannons:steel_scrap
+createbigcannons:steel_screw_breech
+createbigcannons:steel_screw_lock
+createbigcannons:steel_sliding_breech
+createbigcannons:steel_sliding_breechblock
+createbigcannons:thick_nethersteel_cannon_chamber
+createbigcannons:thick_steel_cannon_chamber
+createbigcannons:timed_fuze
+createbigcannons:tracer_tip
+createbigcannons:traffic_cone
+createbigcannons:unbored_bronze_autocannon_barrel
+createbigcannons:unbored_bronze_autocannon_breech
+createbigcannons:unbored_bronze_autocannon_recoil_spring
+createbigcannons:unbored_bronze_cannon_barrel
+createbigcannons:unbored_bronze_cannon_chamber
+createbigcannons:unbored_bronze_sliding_breech
+createbigcannons:unbored_cast_iron_autocannon_barrel
+createbigcannons:unbored_cast_iron_autocannon_breech
+createbigcannons:unbored_cast_iron_autocannon_recoil_spring
+createbigcannons:unbored_cast_iron_cannon_barrel
+createbigcannons:unbored_cast_iron_cannon_chamber
+createbigcannons:unbored_cast_iron_sliding_breech
+createbigcannons:unbored_large_nethersteel_cannon_layer
+createbigcannons:unbored_large_steel_cannon_layer
+createbigcannons:unbored_medium_nethersteel_cannon_layer
+createbigcannons:unbored_medium_steel_cannon_layer
+createbigcannons:unbored_nethersteel_screw_breech
+createbigcannons:unbored_small_nethersteel_cannon_layer
+createbigcannons:unbored_small_steel_cannon_layer
+createbigcannons:unbored_steel_autocannon_barrel
+createbigcannons:unbored_steel_autocannon_breech
+createbigcannons:unbored_steel_autocannon_recoil_spring
+createbigcannons:unbored_steel_screw_breech
+createbigcannons:unbored_steel_sliding_breech
+createbigcannons:unbored_very_large_nethersteel_cannon_layer
+createbigcannons:unbored_very_large_steel_cannon_layer
+createbigcannons:unbored_very_small_nethersteel_cannon_layer
+createbigcannons:unbored_very_small_steel_cannon_layer
+createbigcannons:very_large_cast_mould
+createbigcannons:very_large_nethersteel_cannon_layer
+createbigcannons:very_large_steel_cannon_layer
+createbigcannons:very_small_cast_mould
+createbigcannons:very_small_nethersteel_cannon_layer
+createbigcannons:very_small_steel_cannon_layer
+createbigcannons:wired_fuze
+createbigcannons:worm
+createbigcannons:worm_head
+createbigcannons:wrought_iron_cannon_chamber
+createbigcannons:wrought_iron_cannon_end
+createbigcannons:wrought_iron_drop_mortar_end
+createbigcannons:yaw_controller
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+fluid/molten_steel.json :: { "values": [ "createbigcannons:flowing_molten_steel", "createbigcannons:molten_steel" ]}
+fluid/molten_cast_iron.json :: { "values": [ "createbigcannons:flowing_molten_cast_iron", "createbigcannons:molten_cast_iron" ]}
+fluid/molten_bronze.json :: { "values": [ "createbigcannons:flowing_molten_bronze", "createbigcannons:molten_bronze" ]}
+fluid/molten_nethersteel.json :: { "values": [ "createbigcannons:flowing_molten_nethersteel", "createbigcannons:molten_nethersteel" ]}
+item/ingots/bronze.json :: { "values": [ "createbigcannons:bronze_ingot" ]}
+item/ingots/steel.json :: { "values": [ "createbigcannons:steel_ingot" ]}
+item/ingots/cast_iron.json :: { "values": [ "createbigcannons:cast_iron_ingot" ]}
+item/ingots/nethersteel.json :: { "values": [ "createbigcannons:nethersteel_ingot" ]}
+item/nuggets/bronze.json :: { "values": [ "createbigcannons:bronze_scrap" ]}
+item/nuggets/steel.json :: { "values": [ "createbigcannons:steel_scrap" ]}
+item/nuggets/cast_iron.json :: { "values": [ "createbigcannons:cast_iron_nugget" ]}
+item/nuggets/nethersteel.json :: { "values": [ "createbigcannons:nethersteel_nugget" ]}
+item/storage_blocks/bronze.json :: { "values": [ "createbigcannons:bronze_block" ]}
+item/storage_blocks/steel.json :: { "values": [ "createbigcannons:steel_block" ]}
+item/storage_blocks/cast_iron.json :: { "values": [ "createbigcannons:cast_iron_block" ]}
+item/storage_blocks/nethersteel.json :: { "values": [ "createbigcannons:nethersteel_block" ]}
+block/storage_blocks/bronze.json :: { "values": [ "createbigcannons:bronze_block" ]}
+block/storage_blocks/steel.json :: { "values": [ "createbigcannons:steel_block" ]}
+block/storage_blocks/cast_iron.json :: { "values": [ "createbigcannons:cast_iron_block" ]}
+block/storage_blocks/nethersteel.json :: { "values": [ "createbigcannons:nethersteel_block" ]}

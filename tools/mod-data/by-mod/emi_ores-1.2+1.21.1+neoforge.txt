@@ -1,0 +1,21 @@
+# emi_ores-1.2+1.21.1+neoforge
+
+## mod metadata (id / version / deps)
+license = "LGPL-3.0-only"
+modId = "emi_ores"
+version = "1.2+1.21.1+neoforge"
+displayName = "EMI Ores"
+modId = "neoforge"
+versionRange = "[21,)"
+modId = "minecraft"
+versionRange = "1.21.1"
+modId = "emi"
+versionRange = "[1.1.18,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

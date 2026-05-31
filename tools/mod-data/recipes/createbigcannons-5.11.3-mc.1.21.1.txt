@@ -1,0 +1,151 @@
+createbigcannons:ap_autocannon_round | minecraft:crafting_shaped | c:ingots/cast_iron c:ingots/iron createbigcannons:ap_autocannon_round minecraft:crafting_shaped
+createbigcannons:ap_shell | create:mechanical_crafting | c:ingots/cast_iron c:ingots/iron create:mechanical_crafting createbigcannons:ap_shell createbigcannons:high_explosive_materials minecraft:wooden_slabs
+createbigcannons:ap_shot | minecraft:crafting_shaped | c:ingots/cast_iron c:ingots/iron createbigcannons:ap_shot minecraft:crafting_shaped minecraft:wooden_slabs
+createbigcannons:autocannon_ammo_container | minecraft:crafting_shaped | c:ingots/brass c:plates/iron createbigcannons:autocannon_ammo_container minecraft:crafting_shaped
+createbigcannons:autocannon_ammo_container_filling_deployer | createbigcannons:autocannon_ammo_container_filling_deployer | createbigcannons:autocannon_ammo_container_filling_deployer
+createbigcannons:bag_of_grapeshot | minecraft:crafting_shaped | createbigcannons:bag_of_grapeshot createbigcannons:shot_balls minecraft:crafting_shaped minecraft:string minecraft:wooden_slabs minecraft:wool
+createbigcannons:basin_foundry_lid | minecraft:crafting_shaped | create:andesite_alloy createbigcannons:basin_foundry_lid minecraft:crafting_shaped
+createbigcannons:big_cartridge_filling | createbigcannons:big_cartridge_filling | createbigcannons:big_cartridge_filling
+createbigcannons:big_cartridge_filling_deployer | createbigcannons:big_cartridge_filling_deployer | createbigcannons:big_cartridge_filling_deployer
+createbigcannons:big_cartridge_sheet | minecraft:crafting_shaped | c:plates/brass createbigcannons:big_cartridge_sheet minecraft:crafting_shaped
+createbigcannons:block_armor_inspection_tool | minecraft:crafting_shaped | create:precision_mechanism createbigcannons:block_armor_inspection_tool createbigcannons:recoil_spring minecraft:crafting_shaped minecraft:iron_bars
+createbigcannons:bronze_block | minecraft:crafting_shaped | createbigcannons:bronze_block createbigcannons:bronze_ingot minecraft:crafting_shaped
+createbigcannons:bronze_ingot_from_block | minecraft:crafting_shapeless | createbigcannons:bronze_block createbigcannons:bronze_ingot minecraft:crafting_shapeless
+createbigcannons:bronze_ingot_from_nuggets | minecraft:crafting_shaped | createbigcannons:bronze_ingot createbigcannons:bronze_scrap minecraft:crafting_shaped
+createbigcannons:bronze_scrap | minecraft:crafting_shapeless | createbigcannons:bronze_ingot createbigcannons:bronze_scrap minecraft:crafting_shapeless
+createbigcannons:bronze_sliding_breechblock | minecraft:crafting_shaped | c:ingots/bronze create:cogwheel createbigcannons:bronze_sliding_breechblock minecraft:crafting_shaped
+createbigcannons:cannon_builder | minecraft:crafting_shaped | c:nuggets/iron c:plates/iron create:andesite_casing create:piston_extension_pole createbigcannons:cannon_builder minecraft:crafting_shaped
+createbigcannons:cannon_carriage | minecraft:crafting_shaped | create:shaft createbigcannons:cannon_carriage createbigcannons:pair_of_cannon_wheels minecraft:crafting_shaped minecraft:planks
+createbigcannons:cannon_drill | minecraft:crafting_shaped | c:ingots/iron create:andesite_casing create:fluid_pipe create:piston_extension_pole createbigcannons:cannon_drill minecraft:crafting_shaped
+createbigcannons:cannon_loader | minecraft:crafting_shaped | create:andesite_casing create:piston_extension_pole createbigcannons:cannon_loader createbigcannons:gunpowder minecraft:crafting_shaped
+createbigcannons:cannon_mount | minecraft:crafting_shaped | c:plates/iron create:andesite_casing create:shaft createbigcannons:cannon_mount createbigcannons:gunpowder minecraft:crafting_shaped
+createbigcannons:cannon_mount_extension | minecraft:crafting_shaped | create:andesite_casing create:shaft createbigcannons:cannon_mount_extension createbigcannons:gunpowder minecraft:crafting_shaped
+createbigcannons:cannon_welder | minecraft:crafting_shaped | c:plates/brass c:plates/iron create:blaze_burner create:valve_handles createbigcannons:cannon_welder minecraft:crafting_shaped
+createbigcannons:cartridge_assembly | createbigcannons:cartridge_assembly | createbigcannons:cartridge_assembly
+createbigcannons:cartridge_assembly_deployer | createbigcannons:cartridge_assembly_deployer | createbigcannons:cartridge_assembly_deployer
+createbigcannons:cast_iron_block | minecraft:crafting_shaped | createbigcannons:cast_iron_block createbigcannons:cast_iron_ingot minecraft:crafting_shaped
+createbigcannons:cast_iron_ingot_from_block | minecraft:crafting_shapeless | createbigcannons:cast_iron_block createbigcannons:cast_iron_ingot minecraft:crafting_shapeless
+createbigcannons:cast_iron_ingot_from_nuggets | minecraft:crafting_shaped | createbigcannons:cast_iron_ingot createbigcannons:cast_iron_nugget minecraft:crafting_shaped
+createbigcannons:cast_iron_nugget | minecraft:crafting_shapeless | createbigcannons:cast_iron_ingot createbigcannons:cast_iron_nugget minecraft:crafting_shapeless
+createbigcannons:cast_iron_sliding_breechblock | minecraft:crafting_shaped | c:ingots/cast_iron create:cogwheel createbigcannons:cast_iron_sliding_breechblock minecraft:crafting_shaped
+createbigcannons:casting_sand | minecraft:crafting_shapeless | createbigcannons:casting_sand minecraft:clay_ball minecraft:crafting_shapeless minecraft:dirt minecraft:sand
+createbigcannons:compacting/forge_bronze_block | create:compacting | c:molten_bronze create:compacting createbigcannons:bronze_block neoforge:tag
+createbigcannons:compacting/forge_bronze_ingot | create:compacting | c:molten_bronze create:compacting createbigcannons:bronze_ingot neoforge:tag
+createbigcannons:compacting/forge_bronze_nugget | create:compacting | c:molten_bronze create:compacting createbigcannons:bronze_scrap neoforge:tag
+createbigcannons:compacting/forge_cast_iron_block | create:compacting | c:molten_cast_iron create:compacting createbigcannons:cast_iron_block neoforge:tag
+createbigcannons:compacting/forge_cast_iron_ingot | create:compacting | c:molten_cast_iron create:compacting createbigcannons:cast_iron_ingot neoforge:tag
+createbigcannons:compacting/forge_cast_iron_nugget | create:compacting | c:molten_cast_iron create:compacting createbigcannons:cast_iron_nugget neoforge:tag
+createbigcannons:compacting/forge_nethersteel_block | create:compacting | create:compacting createbigcannons:molten_nethersteel createbigcannons:nethersteel_block neoforge:single
+createbigcannons:compacting/forge_nethersteel_ingot | create:compacting | create:compacting createbigcannons:molten_nethersteel createbigcannons:nethersteel_ingot neoforge:single
+createbigcannons:compacting/forge_nethersteel_nugget | create:compacting | create:compacting createbigcannons:molten_nethersteel createbigcannons:nethersteel_nugget neoforge:single
+createbigcannons:compacting/forge_steel_block | create:compacting | c:molten_steel create:compacting createbigcannons:steel_block neoforge:tag
+createbigcannons:compacting/forge_steel_ingot | create:compacting | c:molten_steel create:compacting createbigcannons:steel_ingot neoforge:tag
+createbigcannons:compacting/forge_steel_nugget | create:compacting | c:molten_steel create:compacting createbigcannons:steel_scrap neoforge:tag
+createbigcannons:compacting/iron_to_cast_iron_block | create:compacting | c:storage_blocks/coal c:storage_blocks/iron create:compacting createbigcannons:cast_iron_block
+createbigcannons:compacting/iron_to_cast_iron_ingot | create:compacting | c:ingots/iron create:compacting createbigcannons:cast_iron_ingot minecraft:coals
+createbigcannons:compacting/packed_guncotton | create:compacting | create:compacting createbigcannons:guncotton createbigcannons:packed_guncotton
+createbigcannons:compacting/packed_gunpowder | create:compacting | create:compacting createbigcannons:gunpowder createbigcannons:packed_gunpowder
+createbigcannons:cutting/autocannon_barrel_cast_mould | create:cutting | create:cutting createbigcannons:autocannon_barrel_cast_mould minecraft:logs
+createbigcannons:cutting/autocannon_breech_cast_mould | create:cutting | create:cutting createbigcannons:autocannon_breech_cast_mould minecraft:logs
+createbigcannons:cutting/autocannon_cartridge_sheet_brass | create:cutting | c:plates/brass create:cutting createbigcannons:autocannon_cartridge_sheet
+createbigcannons:cutting/autocannon_cartridge_sheet_copper | create:cutting | c:plates/copper create:cutting createbigcannons:autocannon_cartridge_sheet
+createbigcannons:cutting/autocannon_cartridge_sheet_gold | create:cutting | c:plates/gold create:cutting createbigcannons:autocannon_cartridge_sheet
+createbigcannons:cutting/autocannon_cartridge_sheet_iron | create:cutting | c:plates/iron create:cutting createbigcannons:autocannon_cartridge_sheet
+createbigcannons:cutting/autocannon_recoil_spring_cast_mould | create:cutting | create:cutting createbigcannons:autocannon_recoil_spring_cast_mould minecraft:logs
+createbigcannons:cutting/cannon_end_cast_mould | create:cutting | create:cutting createbigcannons:cannon_end_cast_mould minecraft:logs
+createbigcannons:cutting/empty_machine_gun_round | create:cutting | create:cutting createbigcannons:autocannon_cartridge_sheet createbigcannons:empty_machine_gun_round
+createbigcannons:cutting/large_cast_mould | create:cutting | create:cutting createbigcannons:large_cast_mould minecraft:logs
+createbigcannons:cutting/medium_cast_mould | create:cutting | create:cutting createbigcannons:medium_cast_mould minecraft:logs
+createbigcannons:cutting/screw_breech_cast_mould | create:cutting | create:cutting createbigcannons:screw_breech_cast_mould minecraft:logs
+createbigcannons:cutting/sliding_breech_cast_mould | create:cutting | create:cutting createbigcannons:sliding_breech_cast_mould minecraft:logs
+createbigcannons:cutting/small_cast_mould | create:cutting | create:cutting createbigcannons:small_cast_mould minecraft:logs
+createbigcannons:cutting/spring_wire_iron | create:cutting | c:plates/iron create:cutting createbigcannons:spring_wire
+createbigcannons:cutting/spring_wire_steel | create:cutting | c:plates/steel create:cutting createbigcannons:spring_wire
+createbigcannons:cutting/very_large_cast_mould | create:cutting | create:cutting createbigcannons:very_large_cast_mould minecraft:logs
+createbigcannons:cutting/very_small_cast_mould | create:cutting | create:cutting createbigcannons:very_small_cast_mould minecraft:logs
+createbigcannons:delayed_impact_fuze | minecraft:crafting_shapeless | createbigcannons:delayed_impact_fuze createbigcannons:impact_fuze createbigcannons:timed_fuze minecraft:crafting_shapeless
+createbigcannons:delayed_inertia_fuze | minecraft:crafting_shapeless | createbigcannons:delayed_inertia_fuze createbigcannons:inertia_fuze createbigcannons:timed_fuze minecraft:crafting_shapeless
+createbigcannons:drop_mortar_shell | minecraft:crafting_shaped | c:plates/iron create:shaft createbigcannons:drop_mortar_shell createbigcannons:high_explosive_materials createbigcannons:powder_charge minecraft:crafting_shaped
+createbigcannons:empty_powder_charge | minecraft:crafting_shaped | createbigcannons:empty_powder_charge minecraft:crafting_shaped minecraft:string minecraft:wool
+createbigcannons:fixed_cannon_mount | minecraft:crafting_shaped | c:plates/iron create:andesite_casing createbigcannons:fixed_cannon_mount createbigcannons:gunpowder minecraft:crafting_shaped
+createbigcannons:flak_autocannon_round | minecraft:crafting_shaped | c:plates/iron createbigcannons:flak_autocannon_round createbigcannons:gunpowder createbigcannons:shot_balls minecraft:crafting_shaped
+createbigcannons:fluid_shell | create:mechanical_crafting | c:ingots/iron create:fluid_pipe create:mechanical_crafting createbigcannons:fluid_shell minecraft:wooden_slabs
+createbigcannons:fuze_removal | createbigcannons:fuze_removal | createbigcannons:fuze_removal
+createbigcannons:gas_mask | minecraft:crafting_shaped | createbigcannons:gas_mask createbigcannons:glass minecraft:crafting_shaped minecraft:leather minecraft:wool
+createbigcannons:gunpowder_from_pinches | minecraft:crafting_shaped | createbigcannons:gunpowder createbigcannons:gunpowder_pinch minecraft:crafting_shaped minecraft:gunpowder
+createbigcannons:gunpowder_pinch | minecraft:crafting_shapeless | createbigcannons:gunpowder_pinch minecraft:crafting_shapeless minecraft:gunpowder
+createbigcannons:hardened_nitro | minecraft:smelting | createbigcannons:congealed_nitro createbigcannons:hardened_nitro minecraft:smelting
+createbigcannons:he_shell | create:mechanical_crafting | c:ingots/iron create:mechanical_crafting createbigcannons:he_shell createbigcannons:high_explosive_materials minecraft:wooden_slabs
+createbigcannons:impact_fuze | minecraft:crafting_shaped | createbigcannons:dusts_redstone createbigcannons:impact_fuze createbigcannons:impact_fuze_head minecraft:crafting_shaped
+createbigcannons:inertia_fuze | minecraft:crafting_shaped | createbigcannons:dusts_redstone createbigcannons:impact_fuze_head createbigcannons:inertia_fuze createbigcannons:recoil_spring minecraft:crafting_shaped
+createbigcannons:log_cannon_chamber | minecraft:crafting_shaped | createbigcannons:gunpowder createbigcannons:log_cannon_chamber minecraft:crafting_shaped minecraft:logs
+createbigcannons:log_cannon_end | minecraft:crafting_shaped | createbigcannons:gunpowder createbigcannons:log_cannon_end minecraft:crafting_shaped minecraft:logs minecraft:wooden_buttons
+createbigcannons:machine_gun_round | minecraft:crafting_shaped | c:nuggets/copper createbigcannons:empty_machine_gun_round createbigcannons:gunpowder createbigcannons:machine_gun_round minecraft:crafting_shaped
+createbigcannons:melting/melt_bronze_block | createbigcannons:melting | c:storage_blocks/bronze createbigcannons:melting createbigcannons:molten_bronze neoforge:not neoforge:tag_empty
+createbigcannons:melting/melt_bronze_ingot | createbigcannons:melting | c:ingots/bronze createbigcannons:melting createbigcannons:molten_bronze neoforge:not neoforge:tag_empty
+createbigcannons:melting/melt_bronze_nugget | createbigcannons:melting | c:nuggets/bronze createbigcannons:melting createbigcannons:molten_bronze neoforge:not neoforge:tag_empty
+createbigcannons:melting/melt_cast_iron_block | createbigcannons:melting | c:storage_blocks/cast_iron createbigcannons:melting createbigcannons:molten_cast_iron neoforge:not neoforge:tag_empty
+createbigcannons:melting/melt_cast_iron_ingot | createbigcannons:melting | c:ingots/cast_iron createbigcannons:melting createbigcannons:molten_cast_iron neoforge:not neoforge:tag_empty
+createbigcannons:melting/melt_cast_iron_nugget | createbigcannons:melting | c:nuggets/cast_iron createbigcannons:melting createbigcannons:molten_cast_iron neoforge:not neoforge:tag_empty
+createbigcannons:melting/melt_nethersteel_block | createbigcannons:melting | c:storage_blocks/nethersteel createbigcannons:melting createbigcannons:molten_nethersteel neoforge:not neoforge:tag_empty
+createbigcannons:melting/melt_nethersteel_ingot | createbigcannons:melting | c:ingots/nethersteel createbigcannons:melting createbigcannons:molten_nethersteel neoforge:not neoforge:tag_empty
+createbigcannons:melting/melt_nethersteel_nugget | createbigcannons:melting | c:nuggets/nethersteel createbigcannons:melting createbigcannons:molten_nethersteel neoforge:not neoforge:tag_empty
+createbigcannons:melting/melt_steel_block | createbigcannons:melting | c:storage_blocks/steel createbigcannons:melting createbigcannons:molten_steel neoforge:not neoforge:tag_empty
+createbigcannons:melting/melt_steel_ingot | createbigcannons:melting | c:ingots/steel createbigcannons:melting createbigcannons:molten_steel neoforge:not neoforge:tag_empty
+createbigcannons:melting/melt_steel_nugget | createbigcannons:melting | c:nuggets/steel createbigcannons:melting createbigcannons:molten_steel neoforge:not neoforge:tag_empty
+createbigcannons:milling/nitropowder | create:milling | create:milling createbigcannons:hardened_nitro createbigcannons:nitropowder
+createbigcannons:mixing/alloy_bronze_brass | create:mixing | c:ingots/brass create:cinder_flour create:mixing createbigcannons:bronze_ingot
+createbigcannons:mixing/alloy_bronze_tin | create:mixing | c:ingots/copper c:ingots/tin create:mixing createbigcannons:bronze_ingot neoforge:not neoforge:tag_empty
+createbigcannons:mixing/alloy_bronze_tinless | create:mixing | c:ingots/copper c:ingots/zinc create:cinder_flour create:mixing createbigcannons:bronze_ingot
+createbigcannons:mixing/alloy_nethersteel_cast_iron | create:mixing | c:ingots/cast_iron create:mixing createbigcannons:nethersteel_ingot minecraft:netherite_scrap
+createbigcannons:mixing/alloy_nethersteel_steel | create:mixing | c:ingots/steel create:mixing createbigcannons:nethersteel_ingot minecraft:netherite_scrap
+createbigcannons:mixing/alloy_steel | create:mixing | c:ingots/iron create:mixing createbigcannons:steel_ingot minecraft:coals
+createbigcannons:mixing/congealed_nitro | create:mixing | create:mixing createbigcannons:congealed_nitro createbigcannons:gunpowder minecraft:blaze_powder minecraft:magma_cream
+createbigcannons:mixing/congealed_nitro_no_nether | create:mixing | create:mixing createbigcannons:congealed_nitro createbigcannons:gelatinizers createbigcannons:guncotton createbigcannons:nitro_acidifiers minecraft:water neoforge:single
+createbigcannons:mixing/guncotton | create:mixing | create:mixing createbigcannons:can_be_nitrated createbigcannons:guncotton createbigcannons:gunpowder createbigcannons:nitro_acidifiers minecraft:water neoforge:single
+createbigcannons:mortar_stone | minecraft:crafting_shaped | createbigcannons:mortar_stone createbigcannons:stone minecraft:crafting_shaped minecraft:wooden_slabs
+createbigcannons:munition_fuzing | createbigcannons:munition_fuzing | createbigcannons:munition_fuzing
+createbigcannons:munition_fuzing_deployer | createbigcannons:munition_fuzing_deployer | createbigcannons:munition_fuzing_deployer
+createbigcannons:nethersteel_block | minecraft:crafting_shaped | createbigcannons:nethersteel_block createbigcannons:nethersteel_ingot minecraft:crafting_shaped
+createbigcannons:nethersteel_ingot_from_block | minecraft:crafting_shapeless | createbigcannons:nethersteel_block createbigcannons:nethersteel_ingot minecraft:crafting_shapeless
+createbigcannons:nethersteel_ingot_from_nuggets | minecraft:crafting_shaped | createbigcannons:nethersteel_ingot createbigcannons:nethersteel_nugget minecraft:crafting_shaped
+createbigcannons:nethersteel_nugget | minecraft:crafting_shapeless | createbigcannons:nethersteel_ingot createbigcannons:nethersteel_nugget minecraft:crafting_shapeless
+createbigcannons:nethersteel_screw_lock | minecraft:crafting_shaped | create:shaft createbigcannons:nethersteel_ingot createbigcannons:nethersteel_screw_lock minecraft:crafting_shaped
+createbigcannons:pair_of_cannon_wheels | minecraft:crafting_shaped | c:plates/iron createbigcannons:pair_of_cannon_wheels minecraft:crafting_shaped minecraft:logs
+createbigcannons:powder_charge | minecraft:crafting_shapeless | createbigcannons:empty_powder_charge createbigcannons:packed_gunpowder createbigcannons:powder_charge minecraft:crafting_shapeless
+createbigcannons:proximity_fuze | minecraft:crafting_shaped | c:ingots/iron createbigcannons:dusts_redstone createbigcannons:gems_quartz createbigcannons:proximity_fuze minecraft:crafting_shaped minecraft:iron_bars
+createbigcannons:quickfiring_mechanism | minecraft:crafting_shaped | create:cogwheel create:large_cogwheel createbigcannons:quickfiring_mechanism minecraft:crafting_shaped minecraft:lever
+createbigcannons:ram_head | minecraft:crafting_shaped | create:piston_extension_pole createbigcannons:ram_head minecraft:crafting_shaped minecraft:planks
+createbigcannons:ram_rod | minecraft:crafting_shaped | createbigcannons:ram_head createbigcannons:ram_rod minecraft:crafting_shaped minecraft:stick
+createbigcannons:sequenced_assembly/assembling_machine_gun_round | create:sequenced_assembly | c:nuggets/copper create:deploying create:sequenced_assembly createbigcannons:empty_machine_gun_round createbigcannons:gunpowder_pinch createbigcannons:machine_gun_round createbigcannons:partially_assembled_machine_gun_round
+createbigcannons:sequenced_assembly/bronze_autocannon_breech_extractor | create:sequenced_assembly | c:ingots/bronze create:cutting create:sequenced_assembly createbigcannons:bronze_autocannon_breech_extractor createbigcannons:partial_bronze_autocannon_breech_extractor
+createbigcannons:sequenced_assembly/cast_iron_autocannon_breech_extractor | create:sequenced_assembly | c:ingots/cast_iron create:cutting create:sequenced_assembly createbigcannons:cast_iron_autocannon_breech_extractor createbigcannons:partial_cast_iron_autocannon_breech_extractor
+createbigcannons:sequenced_assembly/filling_autocannon_cartridge | create:sequenced_assembly | create:deploying create:sequenced_assembly createbigcannons:empty_autocannon_cartridge createbigcannons:filled_autocannon_cartridge createbigcannons:gunpowder createbigcannons:partially_filled_autocannon_cartridge
+createbigcannons:sequenced_assembly/pressing_autocannon_cartridge | create:sequenced_assembly | create:pressing create:sequenced_assembly createbigcannons:autocannon_cartridge_sheet createbigcannons:empty_autocannon_cartridge createbigcannons:partially_formed_autocannon_cartridge
+createbigcannons:sequenced_assembly/pressing_big_cartridge | create:sequenced_assembly | create:pressing create:sequenced_assembly createbigcannons:big_cartridge createbigcannons:big_cartridge_sheet createbigcannons:partially_formed_big_cartridge
+createbigcannons:sequenced_assembly/recoil_spring | create:sequenced_assembly | create:pressing create:sequenced_assembly createbigcannons:partial_recoil_spring createbigcannons:recoil_spring createbigcannons:spring_wire
+createbigcannons:sequenced_assembly/steel_autocannon_breech_extractor | create:sequenced_assembly | c:ingots/steel create:cutting create:sequenced_assembly createbigcannons:partial_steel_autocannon_breech_extractor createbigcannons:steel_autocannon_breech_extractor
+createbigcannons:shot_balls | minecraft:crafting_shaped | c:ingots/iron c:nuggets/iron createbigcannons:shot_balls minecraft:crafting_shaped
+createbigcannons:shrapnel_shell | create:mechanical_crafting | c:ingots/iron create:mechanical_crafting createbigcannons:gunpowder createbigcannons:shot_balls createbigcannons:shrapnel_shell minecraft:wooden_slabs
+createbigcannons:smoke_shell | minecraft:crafting_shaped | c:ingots/iron c:plates/iron createbigcannons:smoke_shell minecraft:crafting_shaped minecraft:hay_block
+createbigcannons:solid_shot | minecraft:crafting_shaped | c:ingots/iron c:nuggets/iron createbigcannons:solid_shot minecraft:crafting_shaped minecraft:wooden_slabs
+createbigcannons:steel_block | minecraft:crafting_shaped | createbigcannons:steel_block createbigcannons:steel_ingot minecraft:crafting_shaped
+createbigcannons:steel_ingot_from_block | minecraft:crafting_shapeless | createbigcannons:steel_block createbigcannons:steel_ingot minecraft:crafting_shapeless
+createbigcannons:steel_ingot_from_nuggets | minecraft:crafting_shaped | createbigcannons:steel_ingot createbigcannons:steel_scrap minecraft:crafting_shaped
+createbigcannons:steel_scrap | minecraft:crafting_shapeless | createbigcannons:steel_ingot createbigcannons:steel_scrap minecraft:crafting_shapeless
+createbigcannons:steel_screw_lock | minecraft:crafting_shaped | c:ingots/steel create:shaft createbigcannons:steel_screw_lock minecraft:crafting_shaped
+createbigcannons:steel_sliding_breechblock | minecraft:crafting_shaped | c:ingots/steel create:cogwheel createbigcannons:steel_sliding_breechblock minecraft:crafting_shaped
+createbigcannons:timed_fuze | minecraft:crafting_shaped | c:ingots/iron createbigcannons:dusts_redstone createbigcannons:timed_fuze minecraft:clock minecraft:crafting_shaped
+createbigcannons:tracer_application | createbigcannons:tracer_application | createbigcannons:tracer_application
+createbigcannons:tracer_application_deployer | createbigcannons:tracer_application_deployer | createbigcannons:tracer_application_deployer
+createbigcannons:tracer_removal | createbigcannons:tracer_removal | createbigcannons:tracer_removal
+createbigcannons:tracer_tip | minecraft:crafting_shapeless | createbigcannons:dust_glowstone createbigcannons:tracer_tip minecraft:blaze_powder minecraft:crafting_shapeless
+createbigcannons:wired_fuze | minecraft:crafting_shaped | c:ingots/copper createbigcannons:dusts_redstone createbigcannons:wired_fuze minecraft:crafting_shaped
+createbigcannons:worm | minecraft:crafting_shaped | createbigcannons:worm createbigcannons:worm_head minecraft:crafting_shaped minecraft:stick
+createbigcannons:worm_head | minecraft:crafting_shaped | create:piston_extension_pole createbigcannons:worm_head minecraft:crafting_shaped minecraft:iron_bars
+createbigcannons:wrought_iron_cannon_chamber | minecraft:crafting_shaped | c:plates/iron createbigcannons:gunpowder createbigcannons:wrought_iron_cannon_chamber minecraft:crafting_shaped
+createbigcannons:wrought_iron_cannon_end | minecraft:crafting_shaped | c:ingots/iron c:plates/iron createbigcannons:gunpowder createbigcannons:wrought_iron_cannon_end minecraft:crafting_shaped
+createbigcannons:wrought_iron_drop_mortar_end | minecraft:crafting_shaped | createbigcannons:wrought_iron_cannon_end createbigcannons:wrought_iron_drop_mortar_end minecraft:crafting_shaped minecraft:iron_bars
+minecraft:big_cannon_sheet_inexpensive | minecraft:crafting_shaped | createbigcannons:big_cartridge_sheet createbigcannons:inexpensive_big_cartridge_sheet minecraft:crafting_shaped
+minecraft:cannon_welder_mirrored | minecraft:crafting_shaped | c:plates/brass c:plates/iron create:blaze_burner create:valve_handles createbigcannons:cannon_welder minecraft:crafting_shaped
+minecraft:wrought_iron_drop_mortar_end_mirrored | minecraft:crafting_shaped | createbigcannons:wrought_iron_cannon_end createbigcannons:wrought_iron_drop_mortar_end minecraft:crafting_shaped minecraft:iron_bars

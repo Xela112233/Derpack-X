@@ -1,0 +1,61 @@
+# ctl-neoforge-1.1.1
+
+## mod metadata (id / version / deps)
+license = "AGPL-3"
+modId = "ctl"
+version = "1.1.1"
+displayName = "Create: Train Lights"
+modId = "neoforge"
+versionRange = "[21.1,)"
+modId = "minecraft"
+versionRange = "[1.21.1,)"
+modId = "architectury"
+versionRange = "[13.0.8,)"
+modId = "create"
+versionRange = "[6.0.6,]"
+
+## blocks
+ctl:grid_ilb
+ctl:halfpanel_htlb
+ctl:halfpanel_ilb
+ctl:htlb_block
+ctl:ilb_block
+ctl:panel_htlb
+ctl:panel_ilb
+ctl:quarter_htlb
+ctl:quarter_ilb
+ctl:slab_ilb
+ctl:sloped_ilb
+ctl:step_htlb
+ctl:step_ilb
+ctl:vertical_halfpanel_htlb
+ctl:vertical_halfpanel_ilb
+ctl:vertical_slab_htlb
+ctl:vertical_step_htlb
+ctl:vertical_step_ilb
+
+## items
+ctl:grid_ilb
+ctl:halfpanel_htlb
+ctl:halfpanel_ilb
+ctl:htlb_block
+ctl:ic_htlb_block
+ctl:ic_ilb_block
+ctl:ilb_block
+ctl:panel_htlb
+ctl:panel_ilb
+ctl:quarter_htlb
+ctl:quarter_ilb
+ctl:slab_ilb
+ctl:sloped_ilb
+ctl:step_htlb
+ctl:step_ilb
+ctl:vertical_halfpanel_htlb
+ctl:vertical_halfpanel_ilb
+ctl:vertical_slab_htlb
+ctl:vertical_step_htlb
+ctl:vertical_step_ilb
+
+## neoforge biome_modifiers
+
+## c: common tag membership

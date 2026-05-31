@@ -1,0 +1,20 @@
+# geckolib-neoforge-1.21.1-4.8.4
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="geckolib"
+version="4.8.4"
+displayName="GeckoLib 4"
+modId="neoforge"
+versionRange="[21.1.150,)"
+modId="minecraft"
+versionRange="[1.21,)"
+modId="geckoanimfix"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

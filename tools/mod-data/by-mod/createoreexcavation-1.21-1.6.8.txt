@@ -1,0 +1,42 @@
+# createoreexcavation-1.21-1.6.8
+
+## mod metadata (id / version / deps)
+license="MIT License"
+modId="createoreexcavation" #mandatory
+version="1.6.8" #mandatory
+displayName="Create Ore Excavation" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.1,)" #mandatory
+modId="create"
+versionRange="[6.0.7,)"
+modId="minecraft"
+versionRange="[1.21,1.21.1]"
+modId="kubejs"
+versionRange="[2101.7.2-build.295,)"
+modId="kubejs_create"
+versionRange="[2101.3.1-build.14,)"
+
+## blocks
+createoreexcavation:drilling_machine
+createoreexcavation:extractor
+createoreexcavation:io_block
+createoreexcavation:kinetic_input
+createoreexcavation:multiblock
+createoreexcavation:sample_drill
+
+## items
+createoreexcavation:diamond_drill
+createoreexcavation:drill
+createoreexcavation:drilling_machine
+createoreexcavation:extractor
+createoreexcavation:netherite_drill
+createoreexcavation:raw_diamond
+createoreexcavation:raw_emerald
+createoreexcavation:raw_redstone
+createoreexcavation:sample_drill
+createoreexcavation:vein_atlas
+createoreexcavation:vein_finder
+
+## neoforge biome_modifiers
+
+## c: common tag membership

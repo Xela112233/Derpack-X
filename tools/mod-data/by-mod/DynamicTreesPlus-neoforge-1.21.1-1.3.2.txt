@@ -1,0 +1,42 @@
+# DynamicTreesPlus-neoforge-1.21.1-1.3.2
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="dynamictreesplus"
+version="1.3.2"
+displayName="Dynamic Trees Plus"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1,1.22)"
+modId="dynamictrees"
+versionRange="[1.6.0,)"
+
+## blocks
+dynamictreesplus:brown_mushroom_cap
+dynamictreesplus:brown_mushroom_cap_center
+dynamictreesplus:brown_mushroom_sapling
+dynamictreesplus:cactus_branch
+dynamictreesplus:mushroom_branch
+dynamictreesplus:pillar_cactus_sapling
+dynamictreesplus:pipe_cactus_sapling
+dynamictreesplus:red_mushroom_cap
+dynamictreesplus:red_mushroom_cap_center
+dynamictreesplus:red_mushroom_sapling
+dynamictreesplus:rooty_deepslate
+dynamictreesplus:rooty_stone
+dynamictreesplus:saguaro_cactus_sapling
+dynamictreesplus:saguaro_fruit
+
+## items
+dynamictreesplus:brown_mushroom_seed
+dynamictreesplus:cactus_branch
+dynamictreesplus:mushroom_branch
+dynamictreesplus:pillar_cactus_seed
+dynamictreesplus:pipe_cactus_seed
+dynamictreesplus:red_mushroom_seed
+dynamictreesplus:saguaro_cactus_seed
+
+## neoforge biome_modifiers
+
+## c: common tag membership

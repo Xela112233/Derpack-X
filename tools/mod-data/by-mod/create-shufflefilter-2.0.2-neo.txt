@@ -1,0 +1,23 @@
+# create-shufflefilter-2.0.2-neo
+
+## mod metadata (id / version / deps)
+license="MIT License"
+modId="createshufflefilter"
+version="2.0.2"
+displayName="Create Shuffle Filter"
+modId="neoforge" 
+versionRange="[21.1.209,)" 
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="create"
+versionRange="[6.0.7,6.1.0)"
+
+## blocks
+
+## items
+createshufflefilter:shuffle_filter
+createshufflefilter:weighted_shuffle_filter
+
+## neoforge biome_modifiers
+
+## c: common tag membership

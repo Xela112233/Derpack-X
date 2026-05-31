@@ -1,0 +1,3 @@
+createblockchain:blocks/currency_miner | minecraft:block | createblockchain:blocks/currency_miner createblockchain:currency_miner minecraft:block minecraft:item minecraft:survives_explosion
+createblockchain:blocks/mining_core_geode | minecraft:block | createblockchain:blocks/mining_core_geode createblockchain:mining_core minecraft:block minecraft:item minecraft:survives_explosion
+createblockchain:blocks/piggy_bank | minecraft:block | createblockchain:blocks/piggy_bank minecraft:block minecraft:item minecraft:random_chance minecraft:set_count minecraft:uniform numismatics:spur

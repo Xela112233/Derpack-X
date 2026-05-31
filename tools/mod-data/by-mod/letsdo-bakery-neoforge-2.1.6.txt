@@ -1,0 +1,166 @@
+# letsdo-bakery-neoforge-2.1.6
+
+## mod metadata (id / version / deps)
+license = "Custom"
+modId = "bakery"
+version = "2.1.6"
+displayName = "[Let's Do] Bakery"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+modId = "architectury"
+versionRange = "[9.0.8,)"
+modId = "farm_and_charm"
+versionRange = "[0.0.1,)"
+
+## blocks
+bakery:apple_cupcake_block
+bakery:apple_jam
+bakery:apple_pie
+bakery:baguette_block
+bakery:baker_station
+bakery:bakery_banner
+bakery:bakery_wall_banner
+bakery:blank_cake
+bakery:braided_bread_block
+bakery:bread_block
+bakery:bread_crate
+bakery:breadbox
+bakery:brick_counter
+bakery:bun_block
+bakery:bundt_cake
+bakery:cabinet
+bakery:cake_display
+bakery:cake_stand
+bakery:chocolate_box
+bakery:chocolate_cake
+bakery:chocolate_cookie_block
+bakery:chocolate_gateau
+bakery:chocolate_jam
+bakery:chocolate_tart
+bakery:crusty_bread_block
+bakery:cupcake_display
+bakery:drawer
+bakery:glowberry_jam
+bakery:glowberry_tart
+bakery:iron_bench
+bakery:iron_chair
+bakery:iron_table
+bakery:jar
+bakery:kitchen_sink
+bakery:linzer_tart
+bakery:pudding
+bakery:small_cooking_pot
+bakery:strawberry_cake
+bakery:strawberry_cookie_block
+bakery:strawberry_cupcake_block
+bakery:strawberry_jam
+bakery:street_sign
+bakery:sweetberry_cake
+bakery:sweetberry_cookie_block
+bakery:sweetberry_cupcake_block
+bakery:sweetberry_jam
+bakery:toast_block
+bakery:tray
+bakery:waffle_block
+bakery:wall_cabinet
+bakery:wall_display
+
+## items
+bakery:apple_cupcake
+bakery:apple_jam
+bakery:apple_pie
+bakery:apple_pie_slice
+bakery:baguette
+bakery:baker_station
+bakery:bakery_banner
+bakery:blank_cake
+bakery:braided_bread
+bakery:bread
+bakery:bread_crate
+bakery:bread_knife
+bakery:bread_with_jam
+bakery:breadbox
+bakery:brick_counter
+bakery:bun
+bakery:bundt_cake
+bakery:bundt_cake_slice
+bakery:cabinet
+bakery:cake_display
+bakery:cake_dough
+bakery:cake_stand
+bakery:cake_tower
+bakery:chocolate_box
+bakery:chocolate_bread
+bakery:chocolate_cake
+bakery:chocolate_cake_slice
+bakery:chocolate_gateau
+bakery:chocolate_gateau_slice
+bakery:chocolate_glazed_cookie
+bakery:chocolate_jam
+bakery:chocolate_tart
+bakery:chocolate_tart_slice
+bakery:chocolate_truffle
+bakery:cornet
+bakery:croissant
+bakery:crusty_bread
+bakery:cupcake_display
+bakery:donut
+bakery:dough
+bakery:drawer
+bakery:faucet
+bakery:glowberry_jam
+bakery:glowberry_pie_slice
+bakery:glowberry_tart
+bakery:grilled_bacon_sandwich
+bakery:grilled_salmon_sandwich
+bakery:iron_bench
+bakery:iron_chair
+bakery:iron_table
+bakery:jam_roll
+bakery:jam_sandwich
+bakery:jar
+bakery:kitchen_sink
+bakery:linzer_tart
+bakery:linzer_tart_slice
+bakery:milk_bread
+bakery:misslilitu_biscuit
+bakery:pancake
+bakery:pudding
+bakery:pudding_slice
+bakery:rolling_pin
+bakery:sandwich
+bakery:shelf
+bakery:small_cooking_pot
+bakery:strawberry_cake
+bakery:strawberry_cake_slice
+bakery:strawberry_cupcake
+bakery:strawberry_glazed_cookie
+bakery:strawberry_jam
+bakery:street_sign
+bakery:sweet_dough
+bakery:sweetberry_cake
+bakery:sweetberry_cake_slice
+bakery:sweetberry_cupcake
+bakery:sweetberry_glazed_cookie
+bakery:sweetberry_jam
+bakery:toast
+bakery:tray
+bakery:vegetable_sandwich
+bakery:waffle
+bakery:wall_cabinet
+bakery:wall_display
+bakery:wandering_baker_spawn_egg
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+item/bread.json :: { "replace": false, "values": [ "bakery:crusty_bread", "bakery:baguette", "bakery:braided_bread", "bakery:bun", "bakery:toast", "bakery:bread", "minecraft:bread" ]}
+item/chocolate.json :: { "replace": false, "values": [ "bakery:chocolate_truffle" ]}
+item/container.json :: { "replace": false, "values": [ "bakery:jar" ]}
+item/eggs.json :: { "replace": false, "values": [ "minecraft:egg" ]}
+item/jams.json :: { "replace": false, "values": [ "bakery:strawberry_jam", "bakery:sweetberry_jam", "bakery:glowberry_jam", "bakery:apple_jam", "bakery:chocolate_jam" ]}
+item/milk.json :: { "replace": false, "values": [ "minecraft:milk_bucket" ]}
+item/water_bottles.json :: { "replace": false, "values": [ "minecraft:water_bucket" ]}
+item/wheat.json :: { "replace": false, "values": [ "minecraft:wheat" ]}

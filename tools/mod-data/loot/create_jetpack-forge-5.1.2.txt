@@ -1,0 +1,2 @@
+create_jetpack:blocks/jetpack | minecraft:block | create:banktank_air create_jetpack:blocks/jetpack create_jetpack:jetpack minecraft:block minecraft:copy_components minecraft:item minecraft:survives_explosion
+create_jetpack:blocks/netherite_jetpack | minecraft:block | create:banktank_air create_jetpack:blocks/netherite_jetpack create_jetpack:netherite_jetpack minecraft:block minecraft:copy_components minecraft:item minecraft:survives_explosion

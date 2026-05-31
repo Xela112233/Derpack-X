@@ -1,0 +1,19 @@
+# chat_heads-0.15.1-neoforge-1.21
+
+## mod metadata (id / version / deps)
+license = "MPL-2.0"
+modId = "chat_heads"
+version = "0.15.1"
+displayName = "Chat Heads"
+modId = "neoforge"
+versionRange = "[21.0.110-beta,)"
+modId = "minecraft"
+versionRange = "[1.21, 1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

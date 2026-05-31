@@ -1,0 +1,17 @@
+# appleskin-neoforge-mc1.21-3.0.9
+
+## mod metadata (id / version / deps)
+license="The Unlicense"
+modId="appleskin"
+version="${file.jarVersion}"
+displayName="AppleSkin"
+modId="neoforge"
+versionRange="[21.0.0-beta,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

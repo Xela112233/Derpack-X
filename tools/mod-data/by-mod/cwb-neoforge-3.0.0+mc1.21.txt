@@ -1,0 +1,19 @@
+# cwb-neoforge-3.0.0+mc1.21
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "cubes_without_borders"
+version = "3.0.0+mc1.21"
+displayName = "Cubes Without Borders"
+modId = "neoforge"
+versionRange = "*"
+modId = "minecraft"
+versionRange = "[1.21,1.21.2)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,12 @@
+# create_ltab-3.9.2
+
+## mod metadata (id / version / deps)
+license = 'Common Development and Distribution License (CDDL)'
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

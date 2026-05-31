@@ -1,0 +1,19 @@
+# sky_whale_ship-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="sky_whale_ship"
+version="1.0.3"
+displayName="Sky Whale Ship"
+modId="neoforge"
+versionRange="[21,)"
+modId="minecraft"
+versionRange="[1.21,1.21.2)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

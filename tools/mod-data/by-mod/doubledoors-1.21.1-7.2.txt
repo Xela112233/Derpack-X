@@ -1,0 +1,19 @@
+# doubledoors-1.21.1-7.2
+
+## mod metadata (id / version / deps)
+license="All rights reserved"
+modId="doubledoors"
+version="7.2"
+displayName="Double Doors"
+modId="collective"
+versionRange="[8.12,)"
+modId="minecraft"
+versionRange="[1.21,1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

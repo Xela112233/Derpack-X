@@ -1,0 +1,2 @@
+gravestone:blocks/gravestone | minecraft:block | gravestone:gravestone minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+gravestone:entities/player_ghost | ? | 

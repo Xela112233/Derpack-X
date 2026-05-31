@@ -1,0 +1,267 @@
+handcrafted:blocks/acacia_bench | minecraft:block | handcrafted:acacia_bench handcrafted:blocks/acacia_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_chair | minecraft:block | handcrafted:acacia_chair handcrafted:blocks/acacia_chair minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_corner_trim | minecraft:block | handcrafted:acacia_corner_trim handcrafted:blocks/acacia_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_couch | minecraft:block | handcrafted:acacia_couch handcrafted:blocks/acacia_couch minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_counter | minecraft:block | handcrafted:acacia_counter handcrafted:blocks/acacia_counter minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_cupboard | minecraft:block | handcrafted:acacia_cupboard handcrafted:blocks/acacia_cupboard minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_desk | minecraft:block | handcrafted:acacia_desk handcrafted:blocks/acacia_desk minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_dining_bench | minecraft:block | handcrafted:acacia_dining_bench handcrafted:blocks/acacia_dining_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_drawer | minecraft:block | handcrafted:acacia_drawer handcrafted:blocks/acacia_drawer minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_fancy_bed | minecraft:block | handcrafted:acacia_fancy_bed handcrafted:blocks/acacia_fancy_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_nightstand | minecraft:block | handcrafted:acacia_nightstand handcrafted:blocks/acacia_nightstand minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_pillar_trim | minecraft:block | handcrafted:acacia_pillar_trim handcrafted:blocks/acacia_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_shelf | minecraft:block | handcrafted:acacia_shelf handcrafted:blocks/acacia_shelf minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_side_table | minecraft:block | handcrafted:acacia_side_table handcrafted:blocks/acacia_side_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/acacia_table | minecraft:block | handcrafted:acacia_table handcrafted:blocks/acacia_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/andesite_corner_trim | minecraft:block | handcrafted:andesite_corner_trim handcrafted:blocks/andesite_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/andesite_pillar_trim | minecraft:block | handcrafted:andesite_pillar_trim handcrafted:blocks/andesite_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_bench | minecraft:block | handcrafted:bamboo_bench handcrafted:blocks/bamboo_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_chair | minecraft:block | handcrafted:bamboo_chair handcrafted:blocks/bamboo_chair minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_corner_trim | minecraft:block | handcrafted:bamboo_corner_trim handcrafted:blocks/bamboo_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_couch | minecraft:block | handcrafted:bamboo_couch handcrafted:blocks/bamboo_couch minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_counter | minecraft:block | handcrafted:bamboo_counter handcrafted:blocks/bamboo_counter minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_cupboard | minecraft:block | handcrafted:bamboo_cupboard handcrafted:blocks/bamboo_cupboard minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_desk | minecraft:block | handcrafted:bamboo_desk handcrafted:blocks/bamboo_desk minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_dining_bench | minecraft:block | handcrafted:bamboo_dining_bench handcrafted:blocks/bamboo_dining_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_drawer | minecraft:block | handcrafted:bamboo_drawer handcrafted:blocks/bamboo_drawer minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_fancy_bed | minecraft:block | handcrafted:bamboo_fancy_bed handcrafted:blocks/bamboo_fancy_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_nightstand | minecraft:block | handcrafted:bamboo_nightstand handcrafted:blocks/bamboo_nightstand minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_pillar_trim | minecraft:block | handcrafted:bamboo_pillar_trim handcrafted:blocks/bamboo_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_shelf | minecraft:block | handcrafted:bamboo_shelf handcrafted:blocks/bamboo_shelf minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_side_table | minecraft:block | handcrafted:bamboo_side_table handcrafted:blocks/bamboo_side_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bamboo_table | minecraft:block | handcrafted:bamboo_table handcrafted:blocks/bamboo_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bear_trophy | minecraft:block | handcrafted:bear_trophy handcrafted:blocks/bear_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bench | minecraft:block | handcrafted:bench handcrafted:blocks/bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/berry_jam_jar | minecraft:block | handcrafted:berry_jam_jar handcrafted:blocks/berry_jam_jar minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/birch_bench | minecraft:block | handcrafted:birch_bench handcrafted:blocks/birch_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_chair | minecraft:block | handcrafted:birch_chair handcrafted:blocks/birch_chair minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_corner_trim | minecraft:block | handcrafted:birch_corner_trim handcrafted:blocks/birch_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_couch | minecraft:block | handcrafted:birch_couch handcrafted:blocks/birch_couch minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_counter | minecraft:block | handcrafted:birch_counter handcrafted:blocks/birch_counter minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_cupboard | minecraft:block | handcrafted:birch_cupboard handcrafted:blocks/birch_cupboard minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_desk | minecraft:block | handcrafted:birch_desk handcrafted:blocks/birch_desk minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_dining_bench | minecraft:block | handcrafted:birch_dining_bench handcrafted:blocks/birch_dining_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_drawer | minecraft:block | handcrafted:birch_drawer handcrafted:blocks/birch_drawer minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_fancy_bed | minecraft:block | handcrafted:birch_fancy_bed handcrafted:blocks/birch_fancy_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_nightstand | minecraft:block | handcrafted:birch_nightstand handcrafted:blocks/birch_nightstand minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_pillar_trim | minecraft:block | handcrafted:birch_pillar_trim handcrafted:blocks/birch_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_shelf | minecraft:block | handcrafted:birch_shelf handcrafted:blocks/birch_shelf minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_side_table | minecraft:block | handcrafted:birch_side_table handcrafted:blocks/birch_side_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/birch_table | minecraft:block | handcrafted:birch_table handcrafted:blocks/birch_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/black_cushion | minecraft:block | handcrafted:black_cushion handcrafted:blocks/black_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/blackstone_corner_trim | minecraft:block | handcrafted:blackstone_corner_trim handcrafted:blocks/blackstone_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/blackstone_pillar_trim | minecraft:block | handcrafted:blackstone_pillar_trim handcrafted:blocks/blackstone_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/blaze_trophy | minecraft:block | handcrafted:blaze_trophy handcrafted:blocks/blaze_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/blue_bowl | minecraft:block | handcrafted:blocks/blue_bowl handcrafted:blue_bowl minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/blue_crockery_combo | minecraft:block | handcrafted:blocks/blue_crockery_combo handcrafted:blue_crockery_combo minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/blue_cup | minecraft:block | handcrafted:blocks/blue_cup handcrafted:blue_cup minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/blue_cushion | minecraft:block | handcrafted:blocks/blue_cushion handcrafted:blue_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/blue_glazed_medium_pot | minecraft:block | handcrafted:blocks/blue_glazed_medium_pot handcrafted:blue_glazed_medium_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/blue_glazed_thick_pot | minecraft:block | handcrafted:blocks/blue_glazed_thick_pot handcrafted:blue_glazed_thick_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/blue_glazed_thin_pot | minecraft:block | handcrafted:blocks/blue_glazed_thin_pot handcrafted:blue_glazed_thin_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/blue_glazed_wide_pot | minecraft:block | handcrafted:blocks/blue_glazed_wide_pot handcrafted:blue_glazed_wide_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/blue_plate | minecraft:block | handcrafted:blocks/blue_plate handcrafted:blue_plate minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/bricks_corner_trim | minecraft:block | handcrafted:blocks/bricks_corner_trim handcrafted:bricks_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/bricks_pillar_trim | minecraft:block | handcrafted:blocks/bricks_pillar_trim handcrafted:bricks_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/brown_cushion | minecraft:block | handcrafted:blocks/brown_cushion handcrafted:brown_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/calcite_corner_trim | minecraft:block | handcrafted:blocks/calcite_corner_trim handcrafted:calcite_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/calcite_pillar_trim | minecraft:block | handcrafted:blocks/calcite_pillar_trim handcrafted:calcite_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_bench | minecraft:block | handcrafted:blocks/cherry_bench handcrafted:cherry_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_chair | minecraft:block | handcrafted:blocks/cherry_chair handcrafted:cherry_chair minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_corner_trim | minecraft:block | handcrafted:blocks/cherry_corner_trim handcrafted:cherry_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_couch | minecraft:block | handcrafted:blocks/cherry_couch handcrafted:cherry_couch minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_counter | minecraft:block | handcrafted:blocks/cherry_counter handcrafted:cherry_counter minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_cupboard | minecraft:block | handcrafted:blocks/cherry_cupboard handcrafted:cherry_cupboard minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_desk | minecraft:block | handcrafted:blocks/cherry_desk handcrafted:cherry_desk minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_dining_bench | minecraft:block | handcrafted:blocks/cherry_dining_bench handcrafted:cherry_dining_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_drawer | minecraft:block | handcrafted:blocks/cherry_drawer handcrafted:cherry_drawer minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_fancy_bed | minecraft:block | handcrafted:blocks/cherry_fancy_bed handcrafted:cherry_fancy_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_nightstand | minecraft:block | handcrafted:blocks/cherry_nightstand handcrafted:cherry_nightstand minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_pillar_trim | minecraft:block | handcrafted:blocks/cherry_pillar_trim handcrafted:cherry_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_shelf | minecraft:block | handcrafted:blocks/cherry_shelf handcrafted:cherry_shelf minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_side_table | minecraft:block | handcrafted:blocks/cherry_side_table handcrafted:cherry_side_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cherry_table | minecraft:block | handcrafted:blocks/cherry_table handcrafted:cherry_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/creeper_trophy | minecraft:block | handcrafted:blocks/creeper_trophy handcrafted:creeper_trophy minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_bench | minecraft:block | handcrafted:blocks/crimson_bench handcrafted:crimson_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_chair | minecraft:block | handcrafted:blocks/crimson_chair handcrafted:crimson_chair minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_corner_trim | minecraft:block | handcrafted:blocks/crimson_corner_trim handcrafted:crimson_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_couch | minecraft:block | handcrafted:blocks/crimson_couch handcrafted:crimson_couch minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_counter | minecraft:block | handcrafted:blocks/crimson_counter handcrafted:crimson_counter minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_cupboard | minecraft:block | handcrafted:blocks/crimson_cupboard handcrafted:crimson_cupboard minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_desk | minecraft:block | handcrafted:blocks/crimson_desk handcrafted:crimson_desk minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_dining_bench | minecraft:block | handcrafted:blocks/crimson_dining_bench handcrafted:crimson_dining_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_drawer | minecraft:block | handcrafted:blocks/crimson_drawer handcrafted:crimson_drawer minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_fancy_bed | minecraft:block | handcrafted:blocks/crimson_fancy_bed handcrafted:crimson_fancy_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_nightstand | minecraft:block | handcrafted:blocks/crimson_nightstand handcrafted:crimson_nightstand minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_pillar_trim | minecraft:block | handcrafted:blocks/crimson_pillar_trim handcrafted:crimson_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_shelf | minecraft:block | handcrafted:blocks/crimson_shelf handcrafted:crimson_shelf minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_side_table | minecraft:block | handcrafted:blocks/crimson_side_table handcrafted:crimson_side_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/crimson_table | minecraft:block | handcrafted:blocks/crimson_table handcrafted:crimson_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/cyan_cushion | minecraft:block | handcrafted:blocks/cyan_cushion handcrafted:cyan_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_bench | minecraft:block | handcrafted:blocks/dark_oak_bench handcrafted:dark_oak_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_chair | minecraft:block | handcrafted:blocks/dark_oak_chair handcrafted:dark_oak_chair minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_corner_trim | minecraft:block | handcrafted:blocks/dark_oak_corner_trim handcrafted:dark_oak_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_couch | minecraft:block | handcrafted:blocks/dark_oak_couch handcrafted:dark_oak_couch minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_counter | minecraft:block | handcrafted:blocks/dark_oak_counter handcrafted:dark_oak_counter minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_cupboard | minecraft:block | handcrafted:blocks/dark_oak_cupboard handcrafted:dark_oak_cupboard minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_desk | minecraft:block | handcrafted:blocks/dark_oak_desk handcrafted:dark_oak_desk minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_dining_bench | minecraft:block | handcrafted:blocks/dark_oak_dining_bench handcrafted:dark_oak_dining_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_drawer | minecraft:block | handcrafted:blocks/dark_oak_drawer handcrafted:dark_oak_drawer minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_fancy_bed | minecraft:block | handcrafted:blocks/dark_oak_fancy_bed handcrafted:dark_oak_fancy_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_nightstand | minecraft:block | handcrafted:blocks/dark_oak_nightstand handcrafted:dark_oak_nightstand minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_pillar_trim | minecraft:block | handcrafted:blocks/dark_oak_pillar_trim handcrafted:dark_oak_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_shelf | minecraft:block | handcrafted:blocks/dark_oak_shelf handcrafted:dark_oak_shelf minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_side_table | minecraft:block | handcrafted:blocks/dark_oak_side_table handcrafted:dark_oak_side_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dark_oak_table | minecraft:block | handcrafted:blocks/dark_oak_table handcrafted:dark_oak_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/deepslate_corner_trim | minecraft:block | handcrafted:blocks/deepslate_corner_trim handcrafted:deepslate_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/deepslate_pillar_trim | minecraft:block | handcrafted:blocks/deepslate_pillar_trim handcrafted:deepslate_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/diorite_corner_trim | minecraft:block | handcrafted:blocks/diorite_corner_trim handcrafted:diorite_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/diorite_pillar_trim | minecraft:block | handcrafted:blocks/diorite_pillar_trim handcrafted:diorite_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dripstone_corner_trim | minecraft:block | handcrafted:blocks/dripstone_corner_trim handcrafted:dripstone_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/dripstone_pillar_trim | minecraft:block | handcrafted:blocks/dripstone_pillar_trim handcrafted:dripstone_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/evoker_trophy | minecraft:block | handcrafted:blocks/evoker_trophy handcrafted:evoker_trophy minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/fox_trophy | minecraft:block | handcrafted:blocks/fox_trophy handcrafted:fox_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/frozen_bench | minecraft:block | handcrafted:blocks/frozen_bench handcrafted:frozen_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/goat_trophy | minecraft:block | handcrafted:blocks/goat_trophy handcrafted:goat_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/golden_medium_pot | minecraft:block | handcrafted:blocks/golden_medium_pot handcrafted:golden_medium_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/golden_thick_pot | minecraft:block | handcrafted:blocks/golden_thick_pot handcrafted:golden_thick_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/golden_thin_pot | minecraft:block | handcrafted:blocks/golden_thin_pot handcrafted:golden_thin_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/golden_wide_pot | minecraft:block | handcrafted:blocks/golden_wide_pot handcrafted:golden_wide_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/granite_corner_trim | minecraft:block | handcrafted:blocks/granite_corner_trim handcrafted:granite_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/granite_pillar_trim | minecraft:block | handcrafted:blocks/granite_pillar_trim handcrafted:granite_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/gray_cushion | minecraft:block | handcrafted:blocks/gray_cushion handcrafted:gray_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/green_cushion | minecraft:block | handcrafted:blocks/green_cushion handcrafted:green_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_bench | minecraft:block | handcrafted:blocks/jungle_bench handcrafted:jungle_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_chair | minecraft:block | handcrafted:blocks/jungle_chair handcrafted:jungle_chair minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_corner_trim | minecraft:block | handcrafted:blocks/jungle_corner_trim handcrafted:jungle_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_couch | minecraft:block | handcrafted:blocks/jungle_couch handcrafted:jungle_couch minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_counter | minecraft:block | handcrafted:blocks/jungle_counter handcrafted:jungle_counter minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_cupboard | minecraft:block | handcrafted:blocks/jungle_cupboard handcrafted:jungle_cupboard minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_desk | minecraft:block | handcrafted:blocks/jungle_desk handcrafted:jungle_desk minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_dining_bench | minecraft:block | handcrafted:blocks/jungle_dining_bench handcrafted:jungle_dining_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_drawer | minecraft:block | handcrafted:blocks/jungle_drawer handcrafted:jungle_drawer minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_fancy_bed | minecraft:block | handcrafted:blocks/jungle_fancy_bed handcrafted:jungle_fancy_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_nightstand | minecraft:block | handcrafted:blocks/jungle_nightstand handcrafted:jungle_nightstand minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_pillar_trim | minecraft:block | handcrafted:blocks/jungle_pillar_trim handcrafted:jungle_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_shelf | minecraft:block | handcrafted:blocks/jungle_shelf handcrafted:jungle_shelf minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_side_table | minecraft:block | handcrafted:blocks/jungle_side_table handcrafted:jungle_side_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/jungle_table | minecraft:block | handcrafted:blocks/jungle_table handcrafted:jungle_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/kitchen_hood | minecraft:block | handcrafted:blocks/kitchen_hood handcrafted:kitchen_hood minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/kitchen_hood_pipe | minecraft:block | handcrafted:blocks/kitchen_hood_pipe handcrafted:kitchen_hood_pipe minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/light_blue_cushion | minecraft:block | handcrafted:blocks/light_blue_cushion handcrafted:light_blue_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/light_gray_cushion | minecraft:block | handcrafted:blocks/light_gray_cushion handcrafted:light_gray_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/lime_cushion | minecraft:block | handcrafted:blocks/lime_cushion handcrafted:lime_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/magenta_cushion | minecraft:block | handcrafted:blocks/magenta_cushion handcrafted:magenta_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_bench | minecraft:block | handcrafted:blocks/mangrove_bench handcrafted:mangrove_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_chair | minecraft:block | handcrafted:blocks/mangrove_chair handcrafted:mangrove_chair minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_corner_trim | minecraft:block | handcrafted:blocks/mangrove_corner_trim handcrafted:mangrove_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_couch | minecraft:block | handcrafted:blocks/mangrove_couch handcrafted:mangrove_couch minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_counter | minecraft:block | handcrafted:blocks/mangrove_counter handcrafted:mangrove_counter minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_cupboard | minecraft:block | handcrafted:blocks/mangrove_cupboard handcrafted:mangrove_cupboard minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_desk | minecraft:block | handcrafted:blocks/mangrove_desk handcrafted:mangrove_desk minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_dining_bench | minecraft:block | handcrafted:blocks/mangrove_dining_bench handcrafted:mangrove_dining_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_drawer | minecraft:block | handcrafted:blocks/mangrove_drawer handcrafted:mangrove_drawer minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_fancy_bed | minecraft:block | handcrafted:blocks/mangrove_fancy_bed handcrafted:mangrove_fancy_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_nightstand | minecraft:block | handcrafted:blocks/mangrove_nightstand handcrafted:mangrove_nightstand minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_pillar_trim | minecraft:block | handcrafted:blocks/mangrove_pillar_trim handcrafted:mangrove_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_shelf | minecraft:block | handcrafted:blocks/mangrove_shelf handcrafted:mangrove_shelf minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_side_table | minecraft:block | handcrafted:blocks/mangrove_side_table handcrafted:mangrove_side_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/mangrove_table | minecraft:block | handcrafted:blocks/mangrove_table handcrafted:mangrove_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_bench | minecraft:block | handcrafted:blocks/oak_bench handcrafted:oak_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_chair | minecraft:block | handcrafted:blocks/oak_chair handcrafted:oak_chair minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_corner_trim | minecraft:block | handcrafted:blocks/oak_corner_trim handcrafted:oak_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_couch | minecraft:block | handcrafted:blocks/oak_couch handcrafted:oak_couch minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_counter | minecraft:block | handcrafted:blocks/oak_counter handcrafted:oak_counter minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_cupboard | minecraft:block | handcrafted:blocks/oak_cupboard handcrafted:oak_cupboard minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_desk | minecraft:block | handcrafted:blocks/oak_desk handcrafted:oak_desk minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_dining_bench | minecraft:block | handcrafted:blocks/oak_dining_bench handcrafted:oak_dining_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_drawer | minecraft:block | handcrafted:blocks/oak_drawer handcrafted:oak_drawer minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_fancy_bed | minecraft:block | handcrafted:blocks/oak_fancy_bed handcrafted:oak_fancy_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_nightstand | minecraft:block | handcrafted:blocks/oak_nightstand handcrafted:oak_nightstand minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_pillar_trim | minecraft:block | handcrafted:blocks/oak_pillar_trim handcrafted:oak_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_shelf | minecraft:block | handcrafted:blocks/oak_shelf handcrafted:oak_shelf minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_side_table | minecraft:block | handcrafted:blocks/oak_side_table handcrafted:oak_side_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oak_table | minecraft:block | handcrafted:blocks/oak_table handcrafted:oak_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/orange_cushion | minecraft:block | handcrafted:blocks/orange_cushion handcrafted:orange_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/oven | minecraft:block | handcrafted:blocks/oven handcrafted:oven minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/phantom_trophy | minecraft:block | handcrafted:blocks/phantom_trophy handcrafted:phantom_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/pillager_trophy | minecraft:block | handcrafted:blocks/pillager_trophy handcrafted:pillager_trophy minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/pink_cushion | minecraft:block | handcrafted:blocks/pink_cushion handcrafted:pink_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/pufferfish_trophy | minecraft:block | handcrafted:blocks/pufferfish_trophy handcrafted:pufferfish_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/purple_cushion | minecraft:block | handcrafted:blocks/purple_cushion handcrafted:purple_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/quartz_corner_trim | minecraft:block | handcrafted:blocks/quartz_corner_trim handcrafted:quartz_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/quartz_pillar_trim | minecraft:block | handcrafted:blocks/quartz_pillar_trim handcrafted:quartz_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/red_cushion | minecraft:block | handcrafted:blocks/red_cushion handcrafted:red_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/red_sandstone_corner_trim | minecraft:block | handcrafted:blocks/red_sandstone_corner_trim handcrafted:red_sandstone_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/red_sandstone_pillar_trim | minecraft:block | handcrafted:blocks/red_sandstone_pillar_trim handcrafted:red_sandstone_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/salmon_trophy | minecraft:block | handcrafted:blocks/salmon_trophy handcrafted:salmon_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/sandstone_corner_trim | minecraft:block | handcrafted:blocks/sandstone_corner_trim handcrafted:sandstone_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/sandstone_pillar_trim | minecraft:block | handcrafted:blocks/sandstone_pillar_trim handcrafted:sandstone_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/silverfish_trophy | minecraft:block | handcrafted:blocks/silverfish_trophy handcrafted:silverfish_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/skeleton_horse_trophy | minecraft:block | handcrafted:blocks/skeleton_horse_trophy handcrafted:skeleton_horse_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/skeleton_trophy | minecraft:block | handcrafted:blocks/skeleton_trophy handcrafted:skeleton_trophy minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spider_trophy | minecraft:block | handcrafted:blocks/spider_trophy handcrafted:spider_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_bench | minecraft:block | handcrafted:blocks/spruce_bench handcrafted:spruce_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_chair | minecraft:block | handcrafted:blocks/spruce_chair handcrafted:spruce_chair minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_corner_trim | minecraft:block | handcrafted:blocks/spruce_corner_trim handcrafted:spruce_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_couch | minecraft:block | handcrafted:blocks/spruce_couch handcrafted:spruce_couch minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_counter | minecraft:block | handcrafted:blocks/spruce_counter handcrafted:spruce_counter minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_cupboard | minecraft:block | handcrafted:blocks/spruce_cupboard handcrafted:spruce_cupboard minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_desk | minecraft:block | handcrafted:blocks/spruce_desk handcrafted:spruce_desk minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_dining_bench | minecraft:block | handcrafted:blocks/spruce_dining_bench handcrafted:spruce_dining_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_drawer | minecraft:block | handcrafted:blocks/spruce_drawer handcrafted:spruce_drawer minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_fancy_bed | minecraft:block | handcrafted:blocks/spruce_fancy_bed handcrafted:spruce_fancy_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_nightstand | minecraft:block | handcrafted:blocks/spruce_nightstand handcrafted:spruce_nightstand minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_pillar_trim | minecraft:block | handcrafted:blocks/spruce_pillar_trim handcrafted:spruce_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_shelf | minecraft:block | handcrafted:blocks/spruce_shelf handcrafted:spruce_shelf minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_side_table | minecraft:block | handcrafted:blocks/spruce_side_table handcrafted:spruce_side_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/spruce_table | minecraft:block | handcrafted:blocks/spruce_table handcrafted:spruce_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/stackable_book | minecraft:block | handcrafted:blocks/stackable_book handcrafted:stackable_book minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/stone_corner_trim | minecraft:block | handcrafted:blocks/stone_corner_trim handcrafted:stone_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/stone_pillar_trim | minecraft:block | handcrafted:blocks/stone_pillar_trim handcrafted:stone_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/terracotta_bowl | minecraft:block | handcrafted:blocks/terracotta_bowl handcrafted:terracotta_bowl minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/terracotta_crockery_combo | minecraft:block | handcrafted:blocks/terracotta_crockery_combo handcrafted:terracotta_crockery_combo minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/terracotta_cup | minecraft:block | handcrafted:blocks/terracotta_cup handcrafted:terracotta_cup minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/terracotta_medium_pot | minecraft:block | handcrafted:blocks/terracotta_medium_pot handcrafted:terracotta_medium_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/terracotta_plate | minecraft:block | handcrafted:blocks/terracotta_plate handcrafted:terracotta_plate minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/terracotta_thick_pot | minecraft:block | handcrafted:blocks/terracotta_thick_pot handcrafted:terracotta_thick_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/terracotta_thin_pot | minecraft:block | handcrafted:blocks/terracotta_thin_pot handcrafted:terracotta_thin_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/terracotta_wide_pot | minecraft:block | handcrafted:blocks/terracotta_wide_pot handcrafted:terracotta_wide_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/tropical_fish_trophy | minecraft:block | handcrafted:blocks/tropical_fish_trophy handcrafted:tropical_fish_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/vindicator_trophy | minecraft:block | handcrafted:blocks/vindicator_trophy handcrafted:vindicator_trophy minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_bench | minecraft:block | handcrafted:blocks/warped_bench handcrafted:warped_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_chair | minecraft:block | handcrafted:blocks/warped_chair handcrafted:warped_chair minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_corner_trim | minecraft:block | handcrafted:blocks/warped_corner_trim handcrafted:warped_corner_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_couch | minecraft:block | handcrafted:blocks/warped_couch handcrafted:warped_couch minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_counter | minecraft:block | handcrafted:blocks/warped_counter handcrafted:warped_counter minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_cupboard | minecraft:block | handcrafted:blocks/warped_cupboard handcrafted:warped_cupboard minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_desk | minecraft:block | handcrafted:blocks/warped_desk handcrafted:warped_desk minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_dining_bench | minecraft:block | handcrafted:blocks/warped_dining_bench handcrafted:warped_dining_bench minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_drawer | minecraft:block | handcrafted:blocks/warped_drawer handcrafted:warped_drawer minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_fancy_bed | minecraft:block | handcrafted:blocks/warped_fancy_bed handcrafted:warped_fancy_bed minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_nightstand | minecraft:block | handcrafted:blocks/warped_nightstand handcrafted:warped_nightstand minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_pillar_trim | minecraft:block | handcrafted:blocks/warped_pillar_trim handcrafted:warped_pillar_trim minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_shelf | minecraft:block | handcrafted:blocks/warped_shelf handcrafted:warped_shelf minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_side_table | minecraft:block | handcrafted:blocks/warped_side_table handcrafted:warped_side_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/warped_table | minecraft:block | handcrafted:blocks/warped_table handcrafted:warped_table minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/white_bowl | minecraft:block | handcrafted:blocks/white_bowl handcrafted:white_bowl minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/white_crockery_combo | minecraft:block | handcrafted:blocks/white_crockery_combo handcrafted:white_crockery_combo minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/white_cup | minecraft:block | handcrafted:blocks/white_cup handcrafted:white_cup minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/white_cushion | minecraft:block | handcrafted:blocks/white_cushion handcrafted:white_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/white_glazed_medium_pot | minecraft:block | handcrafted:blocks/white_glazed_medium_pot handcrafted:white_glazed_medium_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/white_glazed_thick_pot | minecraft:block | handcrafted:blocks/white_glazed_thick_pot handcrafted:white_glazed_thick_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/white_glazed_thin_pot | minecraft:block | handcrafted:blocks/white_glazed_thin_pot handcrafted:white_glazed_thin_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/white_glazed_wide_pot | minecraft:block | handcrafted:blocks/white_glazed_wide_pot handcrafted:white_glazed_wide_pot minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/white_plate | minecraft:block | handcrafted:blocks/white_plate handcrafted:white_plate minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/witch_trophy | minecraft:block | handcrafted:blocks/witch_trophy handcrafted:witch_trophy minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+handcrafted:blocks/wither_skeleton_trophy | minecraft:block | handcrafted:blocks/wither_skeleton_trophy handcrafted:wither_skeleton_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/wolf_trophy | minecraft:block | handcrafted:blocks/wolf_trophy handcrafted:wolf_trophy minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/wood_bowl | minecraft:block | handcrafted:blocks/wood_bowl handcrafted:wood_bowl minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/wood_crockery_combo | minecraft:block | handcrafted:blocks/wood_crockery_combo handcrafted:wood_crockery_combo minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/wood_cup | minecraft:block | handcrafted:blocks/wood_cup handcrafted:wood_cup minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/wood_plate | minecraft:block | handcrafted:blocks/wood_plate handcrafted:wood_plate minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/yellow_bowl | minecraft:block | handcrafted:blocks/yellow_bowl handcrafted:yellow_bowl minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/yellow_crockery_combo | minecraft:block | handcrafted:blocks/yellow_crockery_combo handcrafted:yellow_crockery_combo minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/yellow_cup | minecraft:block | handcrafted:blocks/yellow_cup handcrafted:yellow_cup minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+handcrafted:blocks/yellow_cushion | minecraft:block | handcrafted:blocks/yellow_cushion handcrafted:yellow_cushion minecraft:block minecraft:item minecraft:survives_explosion
+handcrafted:blocks/yellow_plate | minecraft:block | handcrafted:blocks/yellow_plate handcrafted:yellow_plate minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count

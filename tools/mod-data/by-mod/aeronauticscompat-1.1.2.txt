@@ -1,0 +1,27 @@
+# aeronauticscompat-1.1.2
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "aeronauticscompat"
+version = "1.1.2"
+displayName = "AeronauticsCompat"
+modId = "neoforge"
+versionRange = "[21.1.0,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "sable"
+versionRange = "[1.0.0,)"
+modId = "etched"
+versionRange = "[5.0.0,6.0.0)"
+modId = "waterframes"
+versionRange = "[2.1.0,3.0.0)"
+modId = "citadel"
+versionRange = "[2.0.0,3.0.0)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

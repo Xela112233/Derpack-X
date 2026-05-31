@@ -1,0 +1,140 @@
+cookingforblockheads:blocks/black_cabinet | minecraft:block | cookingforblockheads:black_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/black_connector | minecraft:block | cookingforblockheads:black_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/black_cooking_table | minecraft:block | cookingforblockheads:black_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/black_counter | minecraft:block | cookingforblockheads:black_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/black_fridge | minecraft:block | cookingforblockheads:black_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/black_kitchen_floor | minecraft:block | cookingforblockheads:black_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/black_oven | minecraft:block | cookingforblockheads:black_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/black_sink | minecraft:block | cookingforblockheads:black_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/blue_cabinet | minecraft:block | cookingforblockheads:blue_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/blue_connector | minecraft:block | cookingforblockheads:blue_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/blue_cooking_table | minecraft:block | cookingforblockheads:blue_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/blue_counter | minecraft:block | cookingforblockheads:blue_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/blue_fridge | minecraft:block | cookingforblockheads:blue_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/blue_kitchen_floor | minecraft:block | cookingforblockheads:blue_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/blue_oven | minecraft:block | cookingforblockheads:blue_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/blue_sink | minecraft:block | cookingforblockheads:blue_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/brown_cabinet | minecraft:block | cookingforblockheads:brown_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/brown_connector | minecraft:block | cookingforblockheads:brown_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/brown_cooking_table | minecraft:block | cookingforblockheads:brown_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/brown_counter | minecraft:block | cookingforblockheads:brown_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/brown_fridge | minecraft:block | cookingforblockheads:brown_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/brown_kitchen_floor | minecraft:block | cookingforblockheads:brown_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/brown_oven | minecraft:block | cookingforblockheads:brown_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/brown_sink | minecraft:block | cookingforblockheads:brown_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cabinet | minecraft:block | cookingforblockheads:cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/connector | minecraft:block | cookingforblockheads:connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cooking_table | minecraft:block | cookingforblockheads:cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/counter | minecraft:block | cookingforblockheads:counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cow_jar | minecraft:block | cookingforblockheads:cow_jar minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cutting_board | minecraft:block | cookingforblockheads:cutting_board minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cyan_cabinet | minecraft:block | cookingforblockheads:cyan_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cyan_connector | minecraft:block | cookingforblockheads:cyan_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cyan_cooking_table | minecraft:block | cookingforblockheads:cyan_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cyan_counter | minecraft:block | cookingforblockheads:cyan_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cyan_fridge | minecraft:block | cookingforblockheads:cyan_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cyan_kitchen_floor | minecraft:block | cookingforblockheads:cyan_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cyan_oven | minecraft:block | cookingforblockheads:cyan_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/cyan_sink | minecraft:block | cookingforblockheads:cyan_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/fruit_basket | minecraft:block | cookingforblockheads:fruit_basket minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/gray_cabinet | minecraft:block | cookingforblockheads:gray_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/gray_connector | minecraft:block | cookingforblockheads:gray_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/gray_cooking_table | minecraft:block | cookingforblockheads:gray_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/gray_counter | minecraft:block | cookingforblockheads:gray_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/gray_fridge | minecraft:block | cookingforblockheads:gray_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/gray_kitchen_floor | minecraft:block | cookingforblockheads:gray_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/gray_oven | minecraft:block | cookingforblockheads:gray_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/gray_sink | minecraft:block | cookingforblockheads:gray_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/green_cabinet | minecraft:block | cookingforblockheads:green_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/green_connector | minecraft:block | cookingforblockheads:green_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/green_cooking_table | minecraft:block | cookingforblockheads:green_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/green_counter | minecraft:block | cookingforblockheads:green_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/green_fridge | minecraft:block | cookingforblockheads:green_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/green_kitchen_floor | minecraft:block | cookingforblockheads:green_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/green_oven | minecraft:block | cookingforblockheads:green_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/green_sink | minecraft:block | cookingforblockheads:green_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_blue_cabinet | minecraft:block | cookingforblockheads:light_blue_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_blue_connector | minecraft:block | cookingforblockheads:light_blue_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_blue_cooking_table | minecraft:block | cookingforblockheads:light_blue_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_blue_counter | minecraft:block | cookingforblockheads:light_blue_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_blue_fridge | minecraft:block | cookingforblockheads:light_blue_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_blue_kitchen_floor | minecraft:block | cookingforblockheads:light_blue_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_blue_oven | minecraft:block | cookingforblockheads:light_blue_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_blue_sink | minecraft:block | cookingforblockheads:light_blue_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_gray_cabinet | minecraft:block | cookingforblockheads:light_gray_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_gray_connector | minecraft:block | cookingforblockheads:light_gray_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_gray_cooking_table | minecraft:block | cookingforblockheads:light_gray_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_gray_counter | minecraft:block | cookingforblockheads:light_gray_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_gray_fridge | minecraft:block | cookingforblockheads:light_gray_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_gray_kitchen_floor | minecraft:block | cookingforblockheads:light_gray_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_gray_oven | minecraft:block | cookingforblockheads:light_gray_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/light_gray_sink | minecraft:block | cookingforblockheads:light_gray_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/lime_cabinet | minecraft:block | cookingforblockheads:lime_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/lime_connector | minecraft:block | cookingforblockheads:lime_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/lime_cooking_table | minecraft:block | cookingforblockheads:lime_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/lime_counter | minecraft:block | cookingforblockheads:lime_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/lime_fridge | minecraft:block | cookingforblockheads:lime_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/lime_kitchen_floor | minecraft:block | cookingforblockheads:lime_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/lime_oven | minecraft:block | cookingforblockheads:lime_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/lime_sink | minecraft:block | cookingforblockheads:lime_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/magenta_cabinet | minecraft:block | cookingforblockheads:magenta_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/magenta_connector | minecraft:block | cookingforblockheads:magenta_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/magenta_cooking_table | minecraft:block | cookingforblockheads:magenta_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/magenta_counter | minecraft:block | cookingforblockheads:magenta_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/magenta_fridge | minecraft:block | cookingforblockheads:magenta_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/magenta_kitchen_floor | minecraft:block | cookingforblockheads:magenta_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/magenta_oven | minecraft:block | cookingforblockheads:magenta_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/magenta_sink | minecraft:block | cookingforblockheads:magenta_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/milk_jar | minecraft:block | cookingforblockheads:milk_jar minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/orange_cabinet | minecraft:block | cookingforblockheads:orange_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/orange_connector | minecraft:block | cookingforblockheads:orange_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/orange_cooking_table | minecraft:block | cookingforblockheads:orange_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/orange_counter | minecraft:block | cookingforblockheads:orange_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/orange_fridge | minecraft:block | cookingforblockheads:orange_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/orange_kitchen_floor | minecraft:block | cookingforblockheads:orange_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/orange_oven | minecraft:block | cookingforblockheads:orange_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/orange_sink | minecraft:block | cookingforblockheads:orange_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/pink_cabinet | minecraft:block | cookingforblockheads:pink_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/pink_connector | minecraft:block | cookingforblockheads:pink_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/pink_cooking_table | minecraft:block | cookingforblockheads:pink_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/pink_counter | minecraft:block | cookingforblockheads:pink_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/pink_fridge | minecraft:block | cookingforblockheads:pink_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/pink_kitchen_floor | minecraft:block | cookingforblockheads:pink_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/pink_oven | minecraft:block | cookingforblockheads:pink_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/pink_sink | minecraft:block | cookingforblockheads:pink_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/purple_cabinet | minecraft:block | cookingforblockheads:purple_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/purple_connector | minecraft:block | cookingforblockheads:purple_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/purple_cooking_table | minecraft:block | cookingforblockheads:purple_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/purple_counter | minecraft:block | cookingforblockheads:purple_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/purple_fridge | minecraft:block | cookingforblockheads:purple_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/purple_kitchen_floor | minecraft:block | cookingforblockheads:purple_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/purple_oven | minecraft:block | cookingforblockheads:purple_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/purple_sink | minecraft:block | cookingforblockheads:purple_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/red_cabinet | minecraft:block | cookingforblockheads:red_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/red_connector | minecraft:block | cookingforblockheads:red_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/red_cooking_table | minecraft:block | cookingforblockheads:red_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/red_counter | minecraft:block | cookingforblockheads:red_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/red_fridge | minecraft:block | cookingforblockheads:red_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/red_kitchen_floor | minecraft:block | cookingforblockheads:red_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/red_oven | minecraft:block | cookingforblockheads:red_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/red_sink | minecraft:block | cookingforblockheads:red_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/sink | minecraft:block | cookingforblockheads:sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/spice_rack | minecraft:block | cookingforblockheads:spice_rack minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/toaster | minecraft:block | cookingforblockheads:toaster minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/tool_rack | minecraft:block | cookingforblockheads:tool_rack minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/white_cabinet | minecraft:block | cookingforblockheads:white_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/white_connector | minecraft:block | cookingforblockheads:white_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/white_cooking_table | minecraft:block | cookingforblockheads:white_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/white_counter | minecraft:block | cookingforblockheads:white_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/white_fridge | minecraft:block | cookingforblockheads:white_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/white_kitchen_floor | minecraft:block | cookingforblockheads:white_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/white_oven | minecraft:block | cookingforblockheads:white_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/white_sink | minecraft:block | cookingforblockheads:white_sink minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/yellow_cabinet | minecraft:block | cookingforblockheads:yellow_cabinet minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/yellow_connector | minecraft:block | cookingforblockheads:yellow_connector minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/yellow_cooking_table | minecraft:block | cookingforblockheads:yellow_cooking_table minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/yellow_counter | minecraft:block | cookingforblockheads:yellow_counter minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/yellow_fridge | minecraft:block | cookingforblockheads:yellow_fridge minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/yellow_kitchen_floor | minecraft:block | cookingforblockheads:yellow_kitchen_floor minecraft:block minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/yellow_oven | minecraft:block | cookingforblockheads:yellow_oven minecraft:block minecraft:copy_components minecraft:custom_name minecraft:item minecraft:survives_explosion
+cookingforblockheads:blocks/yellow_sink | minecraft:block | cookingforblockheads:yellow_sink minecraft:block minecraft:item minecraft:survives_explosion

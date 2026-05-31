@@ -1,0 +1,24 @@
+brazil_legends:alteration_spell_book_recipe | minecraft:smithing_transform | brazil_legends:amber_shard brazil_legends:blank_alteration_book minecraft:book minecraft:prismarine_shard minecraft:smithing_transform
+brazil_legends:amber_pearl_recipe | minecraft:crafting_shaped | brazil_legends:amber_pearl brazil_legends:amber_shard minecraft:crafting_shaped minecraft:magma_cream
+brazil_legends:bloodmoon_sickle_recipe | minecraft:crafting_shaped | brazil_legends:big_tongue brazil_legends:bloodmoon_sickle brazil_legends:capelobo_claw minecraft:bone minecraft:crafting_shaped
+brazil_legends:carved_mapinguari_fang_craft | minecraft:crafting_shaped | brazil_legends:carved_mapinguari_fang_helmet brazil_legends:mapinguari_fang minecraft:crafting_shaped minecraft:feather minecraft:gold_ingot minecraft:lapis_lazuli
+brazil_legends:cooked_tongue_slice_3 | minecraft:smelting | brazil_legends:cooked_tongue_slices brazil_legends:tongue_slices minecraft:smelting
+brazil_legends:cooked_tongue_slices_recipe | minecraft:campfire_cooking | brazil_legends:cooked_tongue_slices brazil_legends:tongue_slices minecraft:campfire_cooking
+brazil_legends:cooked_tongue_slices_recipe_2 | minecraft:smoking | brazil_legends:cooked_tongue_slices brazil_legends:tongue_slices minecraft:smoking
+brazil_legends:fire_breaker_recipe | minecraft:smithing_transform | brazil_legends:fire_breaker brazil_legends:flaming_leather brazil_legends:tooth_breaker minecraft:blaze_rod minecraft:smithing_transform
+brazil_legends:fire_spell_book_craft | minecraft:smithing_transform | brazil_legends:blank_fire_book brazil_legends:flaming_leather minecraft:book minecraft:fire_charge minecraft:smithing_transform
+brazil_legends:rage_spell_book_recipe | minecraft:smithing_transform | brazil_legends:blank_rage_book brazil_legends:capelobo_claw minecraft:book minecraft:phantom_membrane minecraft:smithing_transform
+brazil_legends:sieve_craft | minecraft:crafting_shaped | brazil_legends:sieve minecraft:crafting_shaped minecraft:stick minecraft:string
+brazil_legends:sieve_tresure | minecraft:crafting_shapeless | brazil_legends:sieve minecraft:crafting_shapeless minecraft:gold_nugget minecraft:sand
+brazil_legends:sieve_tresure_2 | minecraft:crafting_shapeless | brazil_legends:sieve minecraft:crafting_shapeless minecraft:flint minecraft:gravel
+brazil_legends:sieve_tresure_3 | minecraft:crafting_shapeless | brazil_legends:sieve minecraft:crafting_shapeless minecraft:dirt minecraft:hanging_roots
+brazil_legends:sieve_tresure_4 | minecraft:crafting_shapeless | brazil_legends:sieve minecraft:crafting_shapeless minecraft:iron_nugget minecraft:red_sand
+brazil_legends:sieve_tresure_5 | minecraft:crafting_shapeless | brazil_legends:sieve minecraft:bone_meal minecraft:crafting_shapeless minecraft:soul_sand
+brazil_legends:sieve_tresure_6 | minecraft:crafting_shapeless | brazil_legends:sieve minecraft:crafting_shapeless minecraft:red_dye minecraft:redstone
+brazil_legends:sieve_tresure_7 | minecraft:crafting_shaped | brazil_legends:sieve minecraft:amethyst_block minecraft:amethyst_shard minecraft:crafting_shaped
+brazil_legends:sieve_tresure_8 | minecraft:crafting_shaped | brazil_legends:sieve minecraft:bone_meal minecraft:crafting_shaped minecraft:rotten_flesh
+brazil_legends:tongue_slices_multiply_recipe | minecraft:crafting_shapeless | brazil_legends:dog_blood brazil_legends:tongue_slices minecraft:crafting_shapeless minecraft:pitcher_pod minecraft:sugar
+brazil_legends:tongue_slices_recipe | minecraft:crafting_shapeless | brazil_legends:big_tongue brazil_legends:tongue_slices minecraft:crafting_shapeless minecraft:stick
+brazil_legends:tooth_breaker_craft | minecraft:crafting_shaped | brazil_legends:mapinguari_fang brazil_legends:tooth_breaker minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_nugget minecraft:stick
+brazil_legends:upgrade_carved_craft | minecraft:smithing_transform | brazil_legends:carved_mapinguari_fang_helmet brazil_legends:upgraded_carved_mapinguari_fang_helmet minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+brazil_legends:vision_spell_book_recipe | minecraft:smithing_transform | brazil_legends:blank_vision_book brazil_legends:mapinguari_eye minecraft:book minecraft:ghast_tear minecraft:smithing_transform

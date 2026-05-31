@@ -1,0 +1,26 @@
+# almostunified-neoforge-1.21.1-1.4.1
+
+## mod metadata (id / version / deps)
+license = "All Rights Reserved"
+modId = "almostunified"
+version = "1.21.1-1.4.1"
+displayName = "AlmostUnified"
+modId = "neoforge"
+versionRange = "[21.1.37,)"
+modId = "minecraft"
+versionRange = "[1.21.1,)"
+modId = "jei"
+versionRange = "[19.10.0.126,)"
+modId = "roughlyenoughitems"
+versionRange = "[16.0.762,)"
+modId = "emi"
+versionRange = "[1.1.13,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+worldgen.json :: { "type": "almostunified:worldgen_unification"}
+
+## c: common tag membership

@@ -1,0 +1,313 @@
+supplementaries:altimeter | minecraft:crafting_shaped | c:ingots/copper minecraft:crafting_shaped minecraft:redstone supplementaries:altimeter supplementaries:flag
+supplementaries:antique_book | supplementaries:antique_book | supplementaries:antique_book supplementaries:antique_ink supplementaries:flag
+supplementaries:antique_book_clean | supplementaries:antique_book | supplementaries:antique_book supplementaries:flag supplementaries:soap
+supplementaries:antique_map | supplementaries:weathered_map | supplementaries:antique_ink supplementaries:flag supplementaries:weathered_map
+supplementaries:antique_map_clean | supplementaries:weathered_map | supplementaries:flag supplementaries:soap supplementaries:weathered_map
+supplementaries:ash_brick | minecraft:smelting | c:ash minecraft:smelting supplementaries:ash_brick supplementaries:flag
+supplementaries:ash_brick_slab | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:ash_bricks supplementaries:ash_bricks_slab supplementaries:flag
+supplementaries:ash_brick_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:ash_bricks supplementaries:ash_bricks_stairs supplementaries:flag
+supplementaries:ash_brick_wall | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:ash_bricks supplementaries:ash_bricks_wall supplementaries:flag
+supplementaries:ash_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:ash_brick supplementaries:ash_bricks supplementaries:flag
+supplementaries:ash_soot | minecraft:crafting_shapeless | fabric:mod_loaded immersive_weathering:soot minecraft:crafting_shapeless neoforge:mod_loaded supplementaries:ash supplementaries:flag
+supplementaries:awnings/awning | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped supplementaries:awning supplementaries:flag supplementaries:flax
+supplementaries:awnings/awning_black | minecraft:crafting_shapeless | c:dyes/black minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_black supplementaries:flag
+supplementaries:awnings/awning_black_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:black_carpet minecraft:crafting_shaped neoforge:not supplementaries:awning_black supplementaries:flag
+supplementaries:awnings/awning_blue | minecraft:crafting_shapeless | c:dyes/blue minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_blue supplementaries:flag
+supplementaries:awnings/awning_blue_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:blue_carpet minecraft:crafting_shaped neoforge:not supplementaries:awning_blue supplementaries:flag
+supplementaries:awnings/awning_brown | minecraft:crafting_shapeless | c:dyes/brown minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_brown supplementaries:flag
+supplementaries:awnings/awning_brown_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:brown_carpet minecraft:crafting_shaped neoforge:not supplementaries:awning_brown supplementaries:flag
+supplementaries:awnings/awning_cyan | minecraft:crafting_shapeless | c:dyes/cyan minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_cyan supplementaries:flag
+supplementaries:awnings/awning_cyan_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:cyan_carpet neoforge:not supplementaries:awning_cyan supplementaries:flag
+supplementaries:awnings/awning_gray | minecraft:crafting_shapeless | c:dyes/gray minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_gray supplementaries:flag
+supplementaries:awnings/awning_gray_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:gray_carpet neoforge:not supplementaries:awning_gray supplementaries:flag
+supplementaries:awnings/awning_green | minecraft:crafting_shapeless | c:dyes/green minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_green supplementaries:flag
+supplementaries:awnings/awning_green_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:green_carpet neoforge:not supplementaries:awning_green supplementaries:flag
+supplementaries:awnings/awning_light_blue | minecraft:crafting_shapeless | c:dyes/light_blue minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_light_blue supplementaries:flag
+supplementaries:awnings/awning_light_blue_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:light_blue_carpet neoforge:not supplementaries:awning_light_blue supplementaries:flag
+supplementaries:awnings/awning_light_gray | minecraft:crafting_shapeless | c:dyes/light_gray minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_light_gray supplementaries:flag
+supplementaries:awnings/awning_light_gray_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:light_gray_carpet neoforge:not supplementaries:awning_light_gray supplementaries:flag
+supplementaries:awnings/awning_lime | minecraft:crafting_shapeless | c:dyes/lime minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_lime supplementaries:flag
+supplementaries:awnings/awning_lime_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:lime_carpet neoforge:not supplementaries:awning_lime supplementaries:flag
+supplementaries:awnings/awning_magenta | minecraft:crafting_shapeless | c:dyes/magenta minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_magenta supplementaries:flag
+supplementaries:awnings/awning_magenta_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:magenta_carpet neoforge:not supplementaries:awning_magenta supplementaries:flag
+supplementaries:awnings/awning_orange | minecraft:crafting_shapeless | c:dyes/orange minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_orange supplementaries:flag
+supplementaries:awnings/awning_orange_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:orange_carpet neoforge:not supplementaries:awning_orange supplementaries:flag
+supplementaries:awnings/awning_pink | minecraft:crafting_shapeless | c:dyes/pink minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_pink supplementaries:flag
+supplementaries:awnings/awning_pink_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:pink_carpet neoforge:not supplementaries:awning_pink supplementaries:flag
+supplementaries:awnings/awning_purple | minecraft:crafting_shapeless | c:dyes/purple minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_purple supplementaries:flag
+supplementaries:awnings/awning_purple_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:purple_carpet neoforge:not supplementaries:awning_purple supplementaries:flag
+supplementaries:awnings/awning_red | minecraft:crafting_shapeless | c:dyes/red minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_red supplementaries:flag
+supplementaries:awnings/awning_red_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:red_carpet neoforge:not supplementaries:awning_red supplementaries:flag
+supplementaries:awnings/awning_white | minecraft:crafting_shapeless | c:dyes/white minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_white supplementaries:flag
+supplementaries:awnings/awning_white_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:white_carpet neoforge:not supplementaries:awning_white supplementaries:flag
+supplementaries:awnings/awning_yellow | minecraft:crafting_shapeless | c:dyes/yellow minecraft:crafting_shapeless supplementaries:awning supplementaries:awning_yellow supplementaries:flag
+supplementaries:awnings/awning_yellow_2 | minecraft:crafting_shaped | c:rods/wooden fabric:not minecraft:crafting_shaped minecraft:yellow_carpet neoforge:not supplementaries:awning_yellow supplementaries:flag
+supplementaries:bamboo_spikes | minecraft:crafting_shaped | minecraft:bamboo minecraft:crafting_shaped minecraft:wooden_slabs supplementaries:bamboo_spikes supplementaries:flag
+supplementaries:bamboo_spikes_tipped | supplementaries:bamboo_spikes_tipped | supplementaries:bamboo_spikes_tipped supplementaries:flag
+supplementaries:bed_from_feather_block | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:planks minecraft:white_bed supplementaries:feather_block supplementaries:flag
+supplementaries:bellows | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:leather minecraft:wooden_slabs supplementaries:bellows supplementaries:flag
+supplementaries:blackboard | minecraft:crafting_shaped | minecraft:blackstone minecraft:crafting_shaped minecraft:wooden_slabs supplementaries:blackboard supplementaries:blackboard_white supplementaries:flag
+supplementaries:blackboard_duplicate | supplementaries:blackboard_duplicate | supplementaries:blackboard_duplicate supplementaries:flag
+supplementaries:blackstone_lamp | minecraft:crafting_shaped | minecraft:blackstone minecraft:crafting_shaped minecraft:soul_torch supplementaries:blackstone_lamp supplementaries:flag
+supplementaries:blackstone_tile | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:polished_blackstone_bricks supplementaries:blackstone_tile supplementaries:flag
+supplementaries:blackstone_tile_slab | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:blackstone_tile supplementaries:blackstone_tile_slab supplementaries:flag
+supplementaries:blackstone_tile_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:blackstone_tile supplementaries:blackstone_tile_stairs supplementaries:flag
+supplementaries:blackstone_tile_wall | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:blackstone_tile supplementaries:blackstone_tile_wall supplementaries:flag
+supplementaries:blast_armor_trim_smithing_template | minecraft:crafting_shaped | minecraft:cobblestone minecraft:crafting_shaped minecraft:diamond supplementaries:blast_armor_trim_smithing_template
+supplementaries:blast_armor_trim_smithing_template_smithing_trim | minecraft:smithing_trim | minecraft:smithing_trim minecraft:trim_materials minecraft:trimmable_armor supplementaries:blast_armor_trim_smithing_template
+supplementaries:boat_jar | minecraft:crafting_shapeless | minecraft:boats minecraft:crafting_shapeless supplementaries:flag supplementaries:jar supplementaries:jar_boat
+supplementaries:bomb | minecraft:crafting_shaped | c:ingots/iron c:strings minecraft:crafting_shaped minecraft:tnt supplementaries:bomb supplementaries:flag
+supplementaries:bubble_blower | minecraft:crafting_shaped | c:ingots/iron c:nuggets/iron minecraft:crafting_shaped supplementaries:bubble_blower supplementaries:flag
+supplementaries:bubble_blower_charge | supplementaries:add_charges | supplementaries:add_charges supplementaries:bubble_blower supplementaries:flag supplementaries:soap
+supplementaries:buntings/bunting_black | minecraft:crafting_shapeless | c:dyes/black minecraft:crafting_shapeless supplementaries:bunting_black supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_black_2 | minecraft:crafting_shaped | c:strings minecraft:black_wool minecraft:crafting_shaped supplementaries:bunting_black supplementaries:flag
+supplementaries:buntings/bunting_blue | minecraft:crafting_shapeless | c:dyes/blue minecraft:crafting_shapeless supplementaries:bunting_blue supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_blue_2 | minecraft:crafting_shaped | c:strings minecraft:blue_wool minecraft:crafting_shaped supplementaries:bunting_blue supplementaries:flag
+supplementaries:buntings/bunting_brown | minecraft:crafting_shapeless | c:dyes/brown minecraft:crafting_shapeless supplementaries:bunting_brown supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_brown_2 | minecraft:crafting_shaped | c:strings minecraft:brown_wool minecraft:crafting_shaped supplementaries:bunting_brown supplementaries:flag
+supplementaries:buntings/bunting_cyan | minecraft:crafting_shapeless | c:dyes/cyan minecraft:crafting_shapeless supplementaries:bunting_cyan supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_cyan_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:cyan_wool supplementaries:bunting_cyan supplementaries:flag
+supplementaries:buntings/bunting_gray | minecraft:crafting_shapeless | c:dyes/gray minecraft:crafting_shapeless supplementaries:bunting_gray supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_gray_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:gray_wool supplementaries:bunting_gray supplementaries:flag
+supplementaries:buntings/bunting_green | minecraft:crafting_shapeless | c:dyes/green minecraft:crafting_shapeless supplementaries:bunting_green supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_green_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:green_wool supplementaries:bunting_green supplementaries:flag
+supplementaries:buntings/bunting_light_blue | minecraft:crafting_shapeless | c:dyes/light_blue minecraft:crafting_shapeless supplementaries:bunting_light_blue supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_light_blue_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:light_blue_wool supplementaries:bunting_light_blue supplementaries:flag
+supplementaries:buntings/bunting_light_gray | minecraft:crafting_shapeless | c:dyes/light_gray minecraft:crafting_shapeless supplementaries:bunting_light_gray supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_light_gray_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:light_gray_wool supplementaries:bunting_light_gray supplementaries:flag
+supplementaries:buntings/bunting_lime | minecraft:crafting_shapeless | c:dyes/lime minecraft:crafting_shapeless supplementaries:bunting_lime supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_lime_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:lime_wool supplementaries:bunting_lime supplementaries:flag
+supplementaries:buntings/bunting_magenta | minecraft:crafting_shapeless | c:dyes/magenta minecraft:crafting_shapeless supplementaries:bunting_magenta supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_magenta_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:magenta_wool supplementaries:bunting_magenta supplementaries:flag
+supplementaries:buntings/bunting_orange | minecraft:crafting_shapeless | c:dyes/orange minecraft:crafting_shapeless supplementaries:bunting_orange supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_orange_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:orange_wool supplementaries:bunting_orange supplementaries:flag
+supplementaries:buntings/bunting_pink | minecraft:crafting_shapeless | c:dyes/pink minecraft:crafting_shapeless supplementaries:bunting_pink supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_pink_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:pink_wool supplementaries:bunting_pink supplementaries:flag
+supplementaries:buntings/bunting_purple | minecraft:crafting_shapeless | c:dyes/purple minecraft:crafting_shapeless supplementaries:bunting_purple supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_purple_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:purple_wool supplementaries:bunting_purple supplementaries:flag
+supplementaries:buntings/bunting_red | minecraft:crafting_shapeless | c:dyes/red minecraft:crafting_shapeless supplementaries:bunting_red supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_red_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:red_wool supplementaries:bunting_red supplementaries:flag
+supplementaries:buntings/bunting_white | minecraft:crafting_shapeless | c:dyes/white minecraft:crafting_shapeless supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_white_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:white_wool supplementaries:bunting_white supplementaries:flag
+supplementaries:buntings/bunting_yellow | minecraft:crafting_shapeless | c:dyes/yellow minecraft:crafting_shapeless supplementaries:bunting_white supplementaries:bunting_yellow supplementaries:flag
+supplementaries:buntings/bunting_yellow_2 | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped minecraft:yellow_wool supplementaries:bunting_yellow supplementaries:flag
+supplementaries:cage | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:iron_bars minecraft:wooden_slabs supplementaries:cage supplementaries:flag
+supplementaries:candle_holders/candle_holder | minecraft:crafting_shaped | c:ingots/iron minecraft:candle minecraft:crafting_shaped supplementaries:candle_holder supplementaries:flag
+supplementaries:candle_holders/candle_holder_black | minecraft:crafting_shaped | c:ingots/iron minecraft:black_candle minecraft:crafting_shaped supplementaries:candle_holder_black supplementaries:flag
+supplementaries:candle_holders/candle_holder_black_dye | minecraft:crafting_shapeless | c:dyes/black minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_black supplementaries:flag
+supplementaries:candle_holders/candle_holder_blue | minecraft:crafting_shaped | c:ingots/iron minecraft:blue_candle minecraft:crafting_shaped supplementaries:candle_holder_blue supplementaries:flag
+supplementaries:candle_holders/candle_holder_blue_dye | minecraft:crafting_shapeless | c:dyes/blue minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_blue supplementaries:flag
+supplementaries:candle_holders/candle_holder_brown | minecraft:crafting_shaped | c:ingots/iron minecraft:brown_candle minecraft:crafting_shaped supplementaries:candle_holder_brown supplementaries:flag
+supplementaries:candle_holders/candle_holder_brown_dye | minecraft:crafting_shapeless | c:dyes/brown minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_brown supplementaries:flag
+supplementaries:candle_holders/candle_holder_cupric | minecraft:crafting_shaped | buzzier_bees:cupric_candle c:ingots/iron fabric:mod_loaded minecraft:crafting_shaped neoforge:mod_loaded supplementaries:candle_holder_cupric supplementaries:flag
+supplementaries:candle_holders/candle_holder_cyan | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:cyan_candle supplementaries:candle_holder_cyan supplementaries:flag
+supplementaries:candle_holders/candle_holder_cyan_dye | minecraft:crafting_shapeless | c:dyes/cyan minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_cyan supplementaries:flag
+supplementaries:candle_holders/candle_holder_ender | minecraft:crafting_shaped | buzzier_bees:ender_candle c:ingots/iron fabric:mod_loaded minecraft:crafting_shaped neoforge:mod_loaded supplementaries:candle_holder_ender supplementaries:flag
+supplementaries:candle_holders/candle_holder_gray | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:gray_candle supplementaries:candle_holder_gray supplementaries:flag
+supplementaries:candle_holders/candle_holder_gray_dye | minecraft:crafting_shapeless | c:dyes/gray minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_gray supplementaries:flag
+supplementaries:candle_holders/candle_holder_green | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:green_candle supplementaries:candle_holder_green supplementaries:flag
+supplementaries:candle_holders/candle_holder_green_dye | minecraft:crafting_shapeless | c:dyes/green minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_green supplementaries:flag
+supplementaries:candle_holders/candle_holder_light_blue | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:light_blue_candle supplementaries:candle_holder_light_blue supplementaries:flag
+supplementaries:candle_holders/candle_holder_light_blue_dye | minecraft:crafting_shapeless | c:dyes/light_blue minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_light_blue supplementaries:flag
+supplementaries:candle_holders/candle_holder_light_gray | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:light_gray_candle supplementaries:candle_holder_light_gray supplementaries:flag
+supplementaries:candle_holders/candle_holder_light_gray_dye | minecraft:crafting_shapeless | c:dyes/light_gray minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_light_gray supplementaries:flag
+supplementaries:candle_holders/candle_holder_lime | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:lime_candle supplementaries:candle_holder_lime supplementaries:flag
+supplementaries:candle_holders/candle_holder_lime_dye | minecraft:crafting_shapeless | c:dyes/lime minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_lime supplementaries:flag
+supplementaries:candle_holders/candle_holder_magenta | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:magenta_candle supplementaries:candle_holder_magenta supplementaries:flag
+supplementaries:candle_holders/candle_holder_magenta_dye | minecraft:crafting_shapeless | c:dyes/magenta minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_magenta supplementaries:flag
+supplementaries:candle_holders/candle_holder_orange | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:orange_candle supplementaries:candle_holder_orange supplementaries:flag
+supplementaries:candle_holders/candle_holder_orange_dye | minecraft:crafting_shapeless | c:dyes/orange minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_orange supplementaries:flag
+supplementaries:candle_holders/candle_holder_pink | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:pink_candle supplementaries:candle_holder_pink supplementaries:flag
+supplementaries:candle_holders/candle_holder_pink_dye | minecraft:crafting_shapeless | c:dyes/pink minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_pink supplementaries:flag
+supplementaries:candle_holders/candle_holder_purple | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:purple_candle supplementaries:candle_holder_purple supplementaries:flag
+supplementaries:candle_holders/candle_holder_purple_dye | minecraft:crafting_shapeless | c:dyes/purple minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_purple supplementaries:flag
+supplementaries:candle_holders/candle_holder_red | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:red_candle supplementaries:candle_holder_red supplementaries:flag
+supplementaries:candle_holders/candle_holder_red_dye | minecraft:crafting_shapeless | c:dyes/red minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_red supplementaries:flag
+supplementaries:candle_holders/candle_holder_soul | minecraft:crafting_shaped | buzzier_bees:soul_candle c:ingots/iron fabric:mod_loaded minecraft:crafting_shaped neoforge:mod_loaded supplementaries:candle_holder_soul supplementaries:flag
+supplementaries:candle_holders/candle_holder_spectacle | minecraft:crafting_shaped | c:ingots/iron cave_enhancements:spectacle_candle fabric:mod_loaded minecraft:crafting_shaped neoforge:mod_loaded supplementaries:candle_holder_spectacle supplementaries:flag
+supplementaries:candle_holders/candle_holder_white | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:white_candle supplementaries:candle_holder_white supplementaries:flag
+supplementaries:candle_holders/candle_holder_white_dye | minecraft:crafting_shapeless | c:dyes/white minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_white supplementaries:flag
+supplementaries:candle_holders/candle_holder_yellow | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:yellow_candle supplementaries:candle_holder_yellow supplementaries:flag
+supplementaries:candle_holders/candle_holder_yellow_dye | minecraft:crafting_shapeless | c:dyes/yellow minecraft:crafting_shapeless supplementaries:candle_holder supplementaries:candle_holder_yellow supplementaries:flag
+supplementaries:candy | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:honey_bottle minecraft:paper minecraft:sugar supplementaries:candy supplementaries:flag
+supplementaries:cannon | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:dispenser minecraft:planks supplementaries:cannon supplementaries:flag
+supplementaries:cannon_2 | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:planks minecraft:redstone supplementaries:cannon supplementaries:flag supplementaries:slingshot
+supplementaries:cannon_boat_bamboo | minecraft:crafting_shapeless | minecraft:bamboo_raft minecraft:crafting_shapeless supplementaries:cannon supplementaries:cannon_boat_bamboo supplementaries:flag
+supplementaries:cannon_boat_oak | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:oak_boat supplementaries:cannon supplementaries:cannon_boat_oak supplementaries:flag
+supplementaries:cannonball | minecraft:crafting_shaped | c:storage_blocks/lead fabric:tag_empty minecraft:crafting_shaped minecraft:iron_block neoforge:tag_empty supplementaries:cannonball supplementaries:flag
+supplementaries:cannonball_2 | minecraft:crafting_shaped | c:storage_blocks/lead fabric:not fabric:tag_empty minecraft:crafting_shaped neoforge:not neoforge:tag_empty supplementaries:cannonball supplementaries:flag
+supplementaries:checker | minecraft:crafting_shaped | minecraft:blackstone minecraft:cobblestone minecraft:crafting_shaped supplementaries:checker_block supplementaries:flag
+supplementaries:checker_slab | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:checker_block supplementaries:checker_slab supplementaries:flag
+supplementaries:clock_block | minecraft:crafting_shaped | minecraft:clock minecraft:crafting_shaped minecraft:planks supplementaries:clock_block supplementaries:flag
+supplementaries:cog_block | minecraft:crafting_shaped | c:ingots/copper minecraft:crafting_shaped minecraft:redstone_block supplementaries:cog_block supplementaries:flag
+supplementaries:confetti_popper | minecraft:crafting_shaped | c:dyes minecraft:crafting_shaped minecraft:gunpowder minecraft:paper supplementaries:confetti_popper supplementaries:flag
+supplementaries:confetti_popper_dye | supplementaries:confetti_dye | supplementaries:confetti_dye supplementaries:confetti_popper supplementaries:flag
+supplementaries:crank | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:stone supplementaries:crank supplementaries:flag
+supplementaries:crystal_display | minecraft:crafting_shaped | minecraft:amethyst_shard minecraft:crafting_shaped minecraft:deepslate supplementaries:crystal_display supplementaries:flag
+supplementaries:daub | minecraft:crafting_shaped | minecraft:clay_ball minecraft:crafting_shaped supplementaries:daub supplementaries:flag supplementaries:straw
+supplementaries:daub_brace | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped supplementaries:daub supplementaries:daub_brace supplementaries:flag
+supplementaries:daub_cross_brace | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped supplementaries:daub supplementaries:daub_cross_brace supplementaries:flag
+supplementaries:daub_frame | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped supplementaries:daub supplementaries:daub_frame supplementaries:flag
+supplementaries:deepslate_lamp | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:deepslate minecraft:torch supplementaries:deepslate_lamp supplementaries:flag
+supplementaries:dispenser_minecart | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:dispenser minecraft:minecart supplementaries:dispenser_minecart supplementaries:flag
+supplementaries:dispenser_minecart_quark | minecraft:crafting_shaped | c:ingots/iron fabric:mod_loaded minecraft:crafting_shaped minecraft:dispenser neoforge:mod_loaded supplementaries:dispenser_minecart supplementaries:flag
+supplementaries:doormat_2 | minecraft:crafting_shaped | c:crops/flax minecraft:crafting_shaped supplementaries:doormat supplementaries:flag
+supplementaries:dragon_banner_pattern | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:dragon_head minecraft:paper supplementaries:dragon_banner_pattern supplementaries:flag
+supplementaries:end_stone_lamp | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:end_rod minecraft:end_stone supplementaries:end_stone_lamp supplementaries:flag
+supplementaries:faucet | minecraft:crafting_shaped | c:ingots/iron c:rods/wooden minecraft:crafting_shaped supplementaries:faucet supplementaries:flag
+supplementaries:feather_block | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:feather supplementaries:feather_block supplementaries:flag
+supplementaries:feather_block_uncrafting | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:feather supplementaries:feather_block supplementaries:flag
+supplementaries:fine_wood | minecraft:crafting_shaped | fabric:mod_loaded fabric:not minecraft:crafting_shaped minecraft:honeycomb minecraft:logs neoforge:mod_loaded neoforge:not supplementaries:fine_wood supplementaries:flag
+supplementaries:fine_wood_2 | minecraft:crafting_shaped | fabric:mod_loaded minecraft:crafting_shaped minecraft:logs minecraft:resin_clump neoforge:mod_loaded supplementaries:fine_wood supplementaries:flag
+supplementaries:fine_wood_slab | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:fine_wood supplementaries:fine_wood_slab supplementaries:flag
+supplementaries:fine_wood_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:fine_wood supplementaries:fine_wood_stairs supplementaries:flag
+supplementaries:fire_pit | minecraft:crafting_shaped | c:ingots/copper minecraft:crafting_shaped supplementaries:fire_pit supplementaries:flag supplementaries:lumisene_bottle
+supplementaries:fire_pit_2 | minecraft:crafting_shaped | c:ingots/copper fabric:not minecraft:coals minecraft:crafting_shaped neoforge:not supplementaries:fire_pit supplementaries:flag
+supplementaries:flags/flag_black | minecraft:crafting_shaped | c:rods/wooden minecraft:black_wool minecraft:crafting_shaped supplementaries:flag supplementaries:flag_black
+supplementaries:flags/flag_blue | minecraft:crafting_shaped | c:rods/wooden minecraft:blue_wool minecraft:crafting_shaped supplementaries:flag supplementaries:flag_blue
+supplementaries:flags/flag_brown | minecraft:crafting_shaped | c:rods/wooden minecraft:brown_wool minecraft:crafting_shaped supplementaries:flag supplementaries:flag_brown
+supplementaries:flags/flag_cyan | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:cyan_wool supplementaries:flag supplementaries:flag_cyan
+supplementaries:flags/flag_from_banner | supplementaries:flag_from_banner | supplementaries:flag supplementaries:flag_from_banner
+supplementaries:flags/flag_gray | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:gray_wool supplementaries:flag supplementaries:flag_gray
+supplementaries:flags/flag_green | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:green_wool supplementaries:flag supplementaries:flag_green
+supplementaries:flags/flag_light_blue | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:light_blue_wool supplementaries:flag supplementaries:flag_light_blue
+supplementaries:flags/flag_light_gray | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:light_gray_wool supplementaries:flag supplementaries:flag_light_gray
+supplementaries:flags/flag_lime | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:lime_wool supplementaries:flag supplementaries:flag_lime
+supplementaries:flags/flag_magenta | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:magenta_wool supplementaries:flag supplementaries:flag_magenta
+supplementaries:flags/flag_orange | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:orange_wool supplementaries:flag supplementaries:flag_orange
+supplementaries:flags/flag_pink | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:pink_wool supplementaries:flag supplementaries:flag_pink
+supplementaries:flags/flag_purple | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:purple_wool supplementaries:flag supplementaries:flag_purple
+supplementaries:flags/flag_red | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:red_wool supplementaries:flag supplementaries:flag_red
+supplementaries:flags/flag_white | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:white_wool supplementaries:flag supplementaries:flag_white
+supplementaries:flags/flag_yellow | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:yellow_wool supplementaries:flag supplementaries:flag_yellow
+supplementaries:flax_block | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:flag supplementaries:flax supplementaries:flax_block
+supplementaries:flax_block_uncrafting | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:flag supplementaries:flax supplementaries:flax_block
+supplementaries:flint_block | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:flint supplementaries:flag supplementaries:flint_block
+supplementaries:flint_block_uncrafting | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:flint supplementaries:flag supplementaries:flint_block
+supplementaries:flower_box | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dirt minecraft:wooden_slabs supplementaries:flag supplementaries:flower_box
+supplementaries:flute | minecraft:crafting_shaped | minecraft:bamboo minecraft:crafting_shaped supplementaries:flag supplementaries:flute
+supplementaries:fodder | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:hay_block supplementaries:flag supplementaries:flax_block supplementaries:fodder
+supplementaries:globe_sepia | minecraft:crafting_shapeless | minecraft:crafting_shapeless supplementaries:antique_ink supplementaries:flag supplementaries:globe supplementaries:globe_sepia
+supplementaries:goblet | minecraft:crafting_shaped | c:ingots/iron c:nuggets/iron minecraft:crafting_shaped supplementaries:flag supplementaries:goblet
+supplementaries:gold_bars | minecraft:crafting_shaped | c:ingots/gold minecraft:crafting_shaped supplementaries:flag supplementaries:gold_bars
+supplementaries:gold_door | minecraft:crafting_shaped | c:ingots/gold minecraft:crafting_shaped supplementaries:flag supplementaries:gold_door
+supplementaries:gold_gate | minecraft:crafting_shaped | c:ingots/gold c:nuggets/gold fabric:mod_loaded fabric:or minecraft:crafting_shaped neoforge:mod_loaded neoforge:or supplementaries:flag supplementaries:gold_gate
+supplementaries:gold_trapdoor | minecraft:crafting_shaped | c:ingots/gold minecraft:crafting_shaped supplementaries:flag supplementaries:gold_trapdoor
+supplementaries:gravel_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:gravel supplementaries:flag supplementaries:gravel_bricks
+supplementaries:hat_stand | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:planks minecraft:smooth_stone_slab supplementaries:flag supplementaries:hat_stand
+supplementaries:hourglass | minecraft:crafting_shaped | c:ingots/gold minecraft:crafting_shaped minecraft:glass supplementaries:flag supplementaries:hourglass
+supplementaries:integration/lumisene_mixing | create:mixing | create:mixing fabric:mod_loaded minecraft:glow_berries neoforge:mod_loaded supplementaries:flag supplementaries:lumisene
+supplementaries:integration/pancake_fd | minecraft:crafting_shapeless | c:drinks/milk c:eggs c:foods/dough fabric:mod_loaded minecraft:crafting_shapeless minecraft:sugar neoforge:mod_loaded supplementaries:flag supplementaries:pancake
+supplementaries:integration/planter_rich_fd | minecraft:crafting_shaped | fabric:mod_loaded farmersdelight:rich_soil minecraft:bone_meal minecraft:brick minecraft:crafting_shaped neoforge:mod_loaded supplementaries:flag supplementaries:planter
+supplementaries:integration/quiver_fd | farmersdelight:cutting | fabric:mod_loaded farmersdelight:cutting farmersdelight:item_ability minecraft:leather minecraft:saddle neoforge:mod_loaded supplementaries:flag
+supplementaries:integration/sconce_haunting | create:haunting | create:haunting fabric:mod_loaded neoforge:mod_loaded supplementaries:flag supplementaries:sconce supplementaries:sconce_soul
+supplementaries:integration/tipped_spikes_washing | create:splashing | create:splashing fabric:mod_loaded neoforge:mod_loaded supplementaries:bamboo_spikes supplementaries:bamboo_spikes_tipped supplementaries:flag
+supplementaries:iron_gate | minecraft:crafting_shaped | c:ingots/iron c:nuggets/iron minecraft:crafting_shaped supplementaries:flag supplementaries:iron_gate
+supplementaries:item_lore | supplementaries:item_lore | minecraft:name_tag supplementaries:flag supplementaries:item_lore
+supplementaries:item_lore_clear | supplementaries:item_lore | supplementaries:flag supplementaries:item_lore supplementaries:soap
+supplementaries:item_shelf | minecraft:crafting_shaped | fabric:mod_loaded fabric:not minecraft:crafting_shaped minecraft:wooden_slabs neoforge:mod_loaded neoforge:not supplementaries:flag supplementaries:item_shelf
+supplementaries:jar | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glass minecraft:wooden_slabs supplementaries:flag supplementaries:jar
+supplementaries:jeed/flammable | jeed:effect_provider | fabric:mod_loaded jeed:effect_provider neoforge:mod_loaded supplementaries:flag supplementaries:flammable supplementaries:lumisene supplementaries:lumisene_bucket
+supplementaries:jeed/overencumbering | jeed:effect_provider | fabric:mod_loaded jeed:effect_provider neoforge:mod_loaded supplementaries:overencumbered supplementaries:overencumbering
+supplementaries:jeed/tipped_spikes_potion_provider | jeed:potion_provider | fabric:mod_loaded jeed:potion_provider neoforge:mod_loaded supplementaries:bamboo_spikes_tipped
+supplementaries:key | minecraft:crafting_shaped | c:ingots/gold c:nuggets/gold minecraft:crafting_shaped supplementaries:flag supplementaries:key
+supplementaries:lapis_brick_slab | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:flag supplementaries:lapis_bricks supplementaries:lapis_bricks_slab
+supplementaries:lapis_brick_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:flag supplementaries:lapis_bricks supplementaries:lapis_bricks_stairs
+supplementaries:lapis_brick_wall | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:flag supplementaries:lapis_bricks supplementaries:lapis_bricks_wall
+supplementaries:lapis_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:lapis_lazuli supplementaries:flag supplementaries:lapis_bricks
+supplementaries:lock_block | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:planks minecraft:redstone supplementaries:flag supplementaries:lock_block
+supplementaries:lumisene_bottle | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:glass_bottle minecraft:glow_berries supplementaries:flag supplementaries:lumisene_bottle
+supplementaries:lumisene_bucket | minecraft:crafting_shapeless | minecraft:bucket minecraft:crafting_shapeless minecraft:glow_berries supplementaries:flag supplementaries:lumisene_bucket
+supplementaries:lunch_basket | minecraft:crafting_shaped | minecraft:bamboo minecraft:crafting_shaped minecraft:wool_carpets supplementaries:flag supplementaries:lunch_basket
+supplementaries:netherite_door | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:netherite_scrap supplementaries:flag supplementaries:gold_door supplementaries:netherite_door
+supplementaries:netherite_trapdoor | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:netherite_scrap supplementaries:flag supplementaries:gold_trapdoor supplementaries:netherite_trapdoor
+supplementaries:notice_board | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:paper minecraft:planks supplementaries:flag supplementaries:notice_board
+supplementaries:pancake | minecraft:crafting_shapeless | c:crops/wheat c:drinks/milk c:eggs fabric:mod_loaded fabric:not minecraft:crafting_shapeless minecraft:sugar neoforge:mod_loaded neoforge:not supplementaries:flag supplementaries:pancake
+supplementaries:pedestal | minecraft:crafting_shaped | minecraft:chiseled_stone_bricks minecraft:crafting_shaped minecraft:stone_brick_slab minecraft:stone_bricks supplementaries:flag supplementaries:pedestal
+supplementaries:planter | minecraft:crafting_shaped | fabric:mod_loaded fabric:not fabric:or minecraft:bone_meal minecraft:brick minecraft:crafting_shaped minecraft:dirt neoforge:mod_loaded neoforge:not neoforge:or supplementaries:flag supplementaries:planter
+supplementaries:present | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:paper supplementaries:flag supplementaries:present
+supplementaries:present_2 | minecraft:crafting_shaped | create:cardboard fabric:mod_loaded minecraft:crafting_shaped neoforge:mod_loaded supplementaries:flag supplementaries:present
+supplementaries:present_dye | supplementaries:present_dye | supplementaries:flag supplementaries:present_dye
+supplementaries:pulley | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:planks minecraft:wooden_slabs supplementaries:flag supplementaries:pulley_block
+supplementaries:redstone_illuminator | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:redstone minecraft:sea_lantern supplementaries:flag supplementaries:redstone_illuminator
+supplementaries:relayer | minecraft:crafting_shaped | c:ingots/iron minecraft:cobblestone minecraft:crafting_shaped minecraft:redstone supplementaries:flag supplementaries:relayer
+supplementaries:rope | minecraft:crafting_shaped | c:crops/flax minecraft:crafting_shaped supplementaries:flag supplementaries:rope
+supplementaries:rope_2 | minecraft:crafting_shaped | c:strings fabric:not minecraft:crafting_shaped neoforge:not supplementaries:flag supplementaries:rope
+supplementaries:rope_arrow_add | supplementaries:add_charges | supplementaries:add_charges supplementaries:flag supplementaries:rope_arrow supplementaries:ropes
+supplementaries:rope_arrow_create | supplementaries:add_charges | minecraft:arrow supplementaries:add_charges supplementaries:flag supplementaries:rope_arrow supplementaries:ropes
+supplementaries:sack | minecraft:crafting_shaped | c:crops/flax c:strings minecraft:crafting_shaped supplementaries:flag supplementaries:sack
+supplementaries:sack_2 | minecraft:crafting_shaped | c:strings fabric:mod_loaded fabric:not minecraft:crafting_shaped minecraft:wheat neoforge:mod_loaded neoforge:not supplementaries:flag supplementaries:sack
+supplementaries:sack_3 | minecraft:crafting_shaped | fabric:mod_loaded farmersdelight:canvas minecraft:crafting_shaped minecraft:string neoforge:mod_loaded supplementaries:flag supplementaries:sack
+supplementaries:safe | supplementaries:safe | c:shulker_boxes minecraft:netherite_ingot supplementaries:flag supplementaries:safe
+supplementaries:sconce | minecraft:crafting_shaped | c:nuggets/iron minecraft:crafting_shaped minecraft:torch supplementaries:flag supplementaries:sconce
+supplementaries:sconce_ender | minecraft:crafting_shaped | c:nuggets/iron endergetic:ender_torch fabric:mod_loaded minecraft:crafting_shaped neoforge:mod_loaded supplementaries:flag supplementaries:sconce_ender
+supplementaries:sconce_glow | minecraft:crafting_shaped | c:nuggets/iron fabric:mod_loaded infernalexp:glowlight_torch minecraft:crafting_shaped neoforge:mod_loaded supplementaries:flag supplementaries:sconce_glow
+supplementaries:sconce_green | minecraft:crafting_shaped | c:nuggets/iron caverns_and_chasms:cupric_torch fabric:mod_loaded minecraft:crafting_shaped neoforge:mod_loaded supplementaries:flag supplementaries:sconce_green
+supplementaries:sconce_lever | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:redstone supplementaries:flag supplementaries:sconce supplementaries:sconce_lever
+supplementaries:sconce_nether_brass | minecraft:crafting_shaped | architects_palette:nether_brass_nugget architects_palette:nether_brass_torch fabric:mod_loaded minecraft:crafting_shaped neoforge:mod_loaded supplementaries:flag supplementaries:sconce_nether_brass
+supplementaries:sconce_soul | minecraft:crafting_shaped | c:nuggets/iron minecraft:crafting_shaped minecraft:soul_torch supplementaries:flag supplementaries:sconce_soul
+supplementaries:slice_map | minecraft:crafting_shapeless | fabric:not fabric:tag_empty minecraft:crafting_shapeless minecraft:map neoforge:not neoforge:tag_empty supplementaries:altimeters supplementaries:flag supplementaries:slice_map
+supplementaries:slidy_block | minecraft:crafting_shaped | c:nuggets/iron minecraft:crafting_shaped minecraft:tuff supplementaries:flag supplementaries:slidy_block
+supplementaries:slingshot | minecraft:crafting_shaped | c:rods/wooden c:slime_balls c:strings minecraft:crafting_shaped minecraft:rabbit_hide supplementaries:flag supplementaries:slingshot
+supplementaries:soap | minecraft:crafting_shapeless | c:ash minecraft:crafting_shapeless minecraft:porkchop minecraft:water_bucket supplementaries:flag supplementaries:soap
+supplementaries:soap/blackboard | minecraft:crafting_shapeless | minecraft:crafting_shapeless supplementaries:blackboard supplementaries:flag supplementaries:soap
+supplementaries:soap/cave_paintings | minecraft:crafting_shapeless | alexscaves:cave_paintings alexscaves:smooth_limestone fabric:mod_loaded minecraft:crafting_shapeless neoforge:mod_loaded supplementaries:flag supplementaries:soap
+supplementaries:soap/clear | supplementaries:soap_clearing | supplementaries:flag supplementaries:soap supplementaries:soap_clearing
+supplementaries:soap/dirty_glass | minecraft:crafting_shapeless | fabric:mod_loaded minecraft:crafting_shapeless minecraft:glass neoforge:mod_loaded quark:dirty_glass supplementaries:flag supplementaries:soap
+supplementaries:soap/dirty_glass_pane | minecraft:crafting_shapeless | fabric:mod_loaded minecraft:crafting_shapeless minecraft:glass_pane neoforge:mod_loaded quark:dirty_glass_pane supplementaries:flag supplementaries:soap
+supplementaries:soap/dirty_shard | minecraft:crafting_shapeless | fabric:mod_loaded minecraft:crafting_shapeless neoforge:mod_loaded quark:clear_shard quark:dirty_shard supplementaries:flag supplementaries:soap
+supplementaries:soap/globe_sepia | minecraft:crafting_shapeless | minecraft:crafting_shapeless supplementaries:flag supplementaries:globe supplementaries:globe_sepia supplementaries:soap
+supplementaries:soap/map | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:filled_map minecraft:map supplementaries:flag supplementaries:soap
+supplementaries:soap/piston | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:piston minecraft:sticky_piston supplementaries:flag supplementaries:soap
+supplementaries:soap/spike | minecraft:crafting_shapeless | minecraft:crafting_shapeless supplementaries:bamboo_spikes supplementaries:bamboo_spikes_tipped supplementaries:flag supplementaries:soap
+supplementaries:soap/tipped_arrow | minecraft:crafting_shapeless | minecraft:arrow minecraft:crafting_shapeless minecraft:tipped_arrow supplementaries:flag supplementaries:soap
+supplementaries:soap_block | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:flag supplementaries:soap supplementaries:soap_block
+supplementaries:soap_block_uncrafting | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:flag supplementaries:soap supplementaries:soap_block
+supplementaries:speaker_block | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:emerald minecraft:planks supplementaries:flag supplementaries:speaker_block
+supplementaries:spiky_bomb | minecraft:crafting_shaped | c:ingots/iron c:strings fabric:mod_loaded minecraft:crafting_shaped neoforge:mod_loaded oreganized:shrapnel_bomb supplementaries:bomb_spiky supplementaries:flag
+supplementaries:spiky_bomb_2 | minecraft:crafting_shaped | c:ingots/lead c:strings fabric:mod_loaded fabric:not fabric:tag_empty minecraft:crafting_shaped minecraft:tnt neoforge:mod_loaded neoforge:not neoforge:tag_empty supplementaries:bomb_spiky supplementaries:flag
+supplementaries:spring_launcher | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:gunpowder minecraft:slime_block minecraft:sticky_piston supplementaries:flag supplementaries:spring_launcher
+supplementaries:statue | minecraft:crafting_shaped | minecraft:clay minecraft:crafting_shaped minecraft:smooth_stone_slab supplementaries:flag supplementaries:statue
+supplementaries:stone_lamp | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stone minecraft:torch supplementaries:flag supplementaries:stone_lamp
+supplementaries:stone_tile | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stone_bricks supplementaries:flag supplementaries:stone_tile
+supplementaries:stone_tile_slab | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:flag supplementaries:stone_tile supplementaries:stone_tile_slab
+supplementaries:stone_tile_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:flag supplementaries:stone_tile supplementaries:stone_tile_stairs
+supplementaries:stone_tile_wall | minecraft:crafting_shaped | minecraft:crafting_shaped supplementaries:flag supplementaries:stone_tile supplementaries:stone_tile_wall
+supplementaries:stonecutting/ash_brick_slab_from_bricks | minecraft:stonecutting | minecraft:stonecutting supplementaries:ash_bricks supplementaries:ash_bricks_slab supplementaries:flag
+supplementaries:stonecutting/ash_brick_stairs_from_bricks | minecraft:stonecutting | minecraft:stonecutting supplementaries:ash_bricks supplementaries:ash_bricks_stairs supplementaries:flag
+supplementaries:stonecutting/ash_brick_wall_from_bricks | minecraft:stonecutting | minecraft:stonecutting supplementaries:ash_bricks supplementaries:ash_bricks_wall supplementaries:flag
+supplementaries:stonecutting/blackstone_tile | minecraft:stonecutting | minecraft:polished_blackstone_bricks minecraft:stonecutting supplementaries:blackstone_tile supplementaries:flag
+supplementaries:stonecutting/blackstone_tile_slab | minecraft:stonecutting | minecraft:stonecutting supplementaries:blackstone_tile supplementaries:blackstone_tile_slab supplementaries:flag
+supplementaries:stonecutting/blackstone_tile_stairs_from_bricks | minecraft:stonecutting | minecraft:stonecutting supplementaries:blackstone_tile supplementaries:blackstone_tile_stairs supplementaries:flag
+supplementaries:stonecutting/blackstone_tile_wall_from_bricks | minecraft:stonecutting | minecraft:stonecutting supplementaries:blackstone_tile supplementaries:blackstone_tile_wall supplementaries:flag
+supplementaries:stonecutting/checker_slab | minecraft:stonecutting | minecraft:stonecutting supplementaries:checker_block supplementaries:checker_slab supplementaries:flag
+supplementaries:stonecutting/lapis_brick_slab_from_bricks | minecraft:stonecutting | minecraft:stonecutting supplementaries:flag supplementaries:lapis_bricks supplementaries:lapis_bricks_slab
+supplementaries:stonecutting/lapis_brick_stairs_from_bricks | minecraft:stonecutting | minecraft:stonecutting supplementaries:flag supplementaries:lapis_bricks supplementaries:lapis_bricks_stairs
+supplementaries:stonecutting/lapis_brick_wall_from_bricks | minecraft:stonecutting | minecraft:stonecutting supplementaries:flag supplementaries:lapis_bricks supplementaries:lapis_bricks_wall
+supplementaries:stonecutting/stone_tile | minecraft:stonecutting | minecraft:stone_bricks minecraft:stonecutting supplementaries:flag supplementaries:stone_tile
+supplementaries:stonecutting/stone_tile_slab | minecraft:stonecutting | minecraft:stonecutting supplementaries:flag supplementaries:stone_tile supplementaries:stone_tile_slab
+supplementaries:stonecutting/stone_tile_stairs_from_bricks | minecraft:stonecutting | minecraft:stonecutting supplementaries:flag supplementaries:stone_tile supplementaries:stone_tile_stairs
+supplementaries:stonecutting/stone_tile_wall_from_bricks | minecraft:stonecutting | minecraft:stonecutting supplementaries:flag supplementaries:stone_tile supplementaries:stone_tile_wall
+supplementaries:stool_from_feather_block | minecraft:crafting_shaped | fabric:mod_loaded minecraft:crafting_shaped minecraft:wooden_slabs neoforge:mod_loaded quark:white_stool supplementaries:feather_block supplementaries:flag
+supplementaries:strings | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:string supplementaries:flag supplementaries:flax
+supplementaries:sugar_cube | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:sugar supplementaries:flag supplementaries:sugar_cube
+supplementaries:sugar_cube_uncrafting | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:sugar supplementaries:flag supplementaries:sugar_cube
+supplementaries:sus_bricks | supplementaries:sus_crafting | supplementaries:flag supplementaries:gravel_bricks supplementaries:sus_crafting supplementaries:suspicious_gravel_bricks
+supplementaries:sus_gravel | supplementaries:sus_crafting | minecraft:gravel minecraft:suspicious_gravel supplementaries:flag supplementaries:sus_crafting
+supplementaries:sus_sand | supplementaries:sus_crafting | minecraft:sand minecraft:suspicious_sand supplementaries:flag supplementaries:sus_crafting
+supplementaries:timber_brace | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped supplementaries:flag supplementaries:timber_brace
+supplementaries:timber_cross_brace | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped supplementaries:flag supplementaries:timber_cross_brace
+supplementaries:timber_frame | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped supplementaries:flag supplementaries:timber_frame
+supplementaries:trapped_present | supplementaries:trapped_present | minecraft:tripwire_hook supplementaries:flag supplementaries:trapped_present
+supplementaries:trapped_present_2 | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:paper minecraft:tripwire_hook supplementaries:flag supplementaries:trapped_present
+supplementaries:trapped_present_3 | minecraft:crafting_shaped | create:cardboard fabric:mod_loaded minecraft:crafting_shaped minecraft:tripwire_hook neoforge:mod_loaded supplementaries:flag supplementaries:trapped_present
+supplementaries:turn_table | minecraft:crafting_shaped | c:ingots/copper minecraft:cobblestone minecraft:crafting_shaped minecraft:planks minecraft:redstone supplementaries:flag supplementaries:turn_table
+supplementaries:way_sign_oak | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:oak_sign supplementaries:flag supplementaries:way_sign_oak
+supplementaries:wicker_fence | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:sugar_cane supplementaries:flag supplementaries:wicker_fence
+supplementaries:wind_vane | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:iron_bars minecraft:redstone supplementaries:flag supplementaries:wind_vane
+supplementaries:wrench | minecraft:crafting_shaped | c:ingots/copper minecraft:crafting_shaped supplementaries:flag supplementaries:wrench
+supplementaries:inspirations/blackboard_clear | neoforge:conditional | fabric:mod_loaded inspirations:config neoforge:conditional supplementaries:blackboard supplementaries:cauldron_blackboard supplementaries:flag
+supplementaries:inspirations/flag_clear | neoforge:conditional | fabric:mod_loaded inspirations:config neoforge:conditional supplementaries:cauldron_flag_clear supplementaries:flag
+supplementaries:inspirations/flag_dye | neoforge:conditional | fabric:mod_loaded inspirations:config neoforge:conditional supplementaries:cauldron_flag_dye supplementaries:flag supplementaries:flag_white
+supplementaries:neoforge/ash_bricks_fd | farmersdelight:cutting | fabric:mod_loaded farmersdelight:cutting farmersdelight:item_ability supplementaries:ash_brick supplementaries:ash_bricks supplementaries:flag
+supplementaries:neoforge/lapis_bricks_fd | farmersdelight:cutting | fabric:mod_loaded farmersdelight:cutting farmersdelight:item_ability minecraft:lapis_lazuli supplementaries:flag supplementaries:lapis_bricks

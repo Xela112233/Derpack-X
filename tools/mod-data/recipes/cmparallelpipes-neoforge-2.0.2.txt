@@ -1,0 +1,1 @@
+cmparallelpipes:pipe_wrench | minecraft:crafting_shaped | c:ingots/copper c:plates/gold cmparallelpipes:pipe_wrench create:cogwheel minecraft:crafting_shaped

@@ -1,0 +1,77 @@
+# occultengineering-1.21.1-0.12.3
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "occultengineering" #mandatory
+version = "0.12.3" #mandatory
+displayName = "Create: Occult Engineering" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.0.110-beta,)"
+modId = "occultism"
+versionRange = "[1.197.0,2.0.0)"
+modId = "create"
+versionRange = "[6.0.8,7.0.0)"
+modId = "createconnected"
+
+## blocks
+occultengineering:brass_chalk
+occultengineering:copper_chalk
+occultengineering:fan_enspirit_catalyst
+occultengineering:mechanical_chamber
+occultengineering:mechanical_pulverizer
+occultengineering:otherworld_detector
+occultengineering:pentacle_altar
+occultengineering:phlogiport
+occultengineering:pucalith
+occultengineering:spirit_solution
+occultengineering:sterling_silver_block
+occultengineering:zinc_chalk
+
+## items
+occultengineering:book_of_binding_bound_puca
+occultengineering:book_of_binding_puca
+occultengineering:brass_dust
+occultengineering:chalk_brass
+occultengineering:chalk_brass_impure
+occultengineering:chalk_copper
+occultengineering:chalk_copper_impure
+occultengineering:chalk_zinc
+occultengineering:chalk_zinc_impure
+occultengineering:combined_goggles
+occultengineering:empty_pentacle_schematic
+occultengineering:encyclopedia_of_souls
+occultengineering:fan_enspirit_catalyst
+occultengineering:mechanical_chamber
+occultengineering:mechanical_pulverizer
+occultengineering:mechanical_upgrade_afrit
+occultengineering:mechanical_upgrade_djinni
+occultengineering:mechanical_upgrade_empty
+occultengineering:mechanical_upgrade_marid
+occultengineering:otherworld_detector
+occultengineering:pentacle_altar
+occultengineering:pentacle_schematic
+occultengineering:phlogiport
+occultengineering:phlogiston
+occultengineering:puca_spawn_egg
+occultengineering:pucalith
+occultengineering:ritual_dummy_craft_mechanical_chamber
+occultengineering:ritual_dummy_craft_mechanical_upgrade_afrit
+occultengineering:ritual_dummy_craft_mechanical_upgrade_djinni
+occultengineering:ritual_dummy_craft_mechanical_upgrade_marid
+occultengineering:ritual_dummy_craft_otherworld_detector
+occultengineering:ritual_dummy_craft_phlogiport
+occultengineering:silver_phlogistate
+occultengineering:spirit_solution_bucket
+occultengineering:sterling_silver_block
+occultengineering:sterling_silver_ingot
+occultengineering:sterling_silver_nugget
+occultengineering:zinc_dust
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+item/ingots/sterling_silver.json :: { "values": [ "occultengineering:sterling_silver_ingot" ]}
+item/nuggets/sterling_silver.json :: { "values": [ "occultengineering:sterling_silver_nugget" ]}
+item/storage_blocks/sterling_silver.json :: { "values": [ "occultengineering:sterling_silver_block" ]}
+item/dusts/brass.json :: { "values": [ "occultengineering:brass_dust" ]}
+item/dusts/zinc.json :: { "values": [ "occultengineering:zinc_dust" ]}

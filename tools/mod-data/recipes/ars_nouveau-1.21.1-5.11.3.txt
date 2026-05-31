@@ -1,0 +1,702 @@
+ars_nouveau:agronomic_sourcelink | minecraft:crafting_shaped | ars_nouveau:agronomic_sourcelink c:gems/source c:ingots/gold minecraft:crafting_shaped minecraft:wheat
+ars_nouveau:air_essence_to_snow_bucket | minecraft:crafting_shapeless | ars_nouveau:air_essence minecraft:bucket minecraft:crafting_shapeless minecraft:powder_snow_bucket minecraft:snow_block
+ars_nouveau:alakarkinos/desert_pyramid | ars_nouveau:alakarkinos_conversion | ars_nouveau:alakarkinos_conversion minecraft:archaeology/desert_pyramid minecraft:sand
+ars_nouveau:alakarkinos/desert_well | ars_nouveau:alakarkinos_conversion | ars_nouveau:alakarkinos_conversion minecraft:archaeology/desert_well minecraft:sand
+ars_nouveau:alakarkinos/ocean_ruins_cold | ars_nouveau:alakarkinos_conversion | ars_nouveau:alakarkinos_conversion minecraft:archaeology/ocean_ruin_cold minecraft:gravel
+ars_nouveau:alakarkinos/ocean_ruins_warm | ars_nouveau:alakarkinos_conversion | ars_nouveau:alakarkinos_conversion minecraft:archaeology/ocean_ruin_warm minecraft:sand
+ars_nouveau:alakarkinos/trail_ruins_common | ars_nouveau:alakarkinos_conversion | ars_nouveau:alakarkinos_conversion minecraft:archaeology/trail_ruins_common minecraft:gravel
+ars_nouveau:alakarkinos/trail_ruins_rare | ars_nouveau:alakarkinos_conversion | ars_nouveau:alakarkinos_conversion minecraft:archaeology/trail_ruins_rare minecraft:gravel
+ars_nouveau:alakarkinos_charm | ars_nouveau:enchanting_apparatus | ars_nouveau:alakarkinos_charm ars_nouveau:alakarkinos_token ars_nouveau:enchanting_apparatus minecraft:brush minecraft:decorated_pot_sherds
+ars_nouveau:alchemical_sourcelink | minecraft:crafting_shaped | ars_nouveau:alchemical_sourcelink c:gems/source c:ingots/gold minecraft:brewing_stand minecraft:crafting_shaped
+ars_nouveau:alchemists_crown | ars_nouveau:enchanting_apparatus | ars_nouveau:alchemists_crown ars_nouveau:enchanting_apparatus minecraft:glass_bottle minecraft:golden_helmet
+ars_nouveau:allow_scroll | minecraft:crafting_shapeless | ars_nouveau:allow_scroll ars_nouveau:blank_parchment c:chests minecraft:crafting_shapeless
+ars_nouveau:alteration_table | minecraft:crafting_shaped | ars_nouveau:alteration_table ars_nouveau:magebloom_fiber ars_nouveau:scribes_table minecraft:crafting_shaped
+ars_nouveau:amulet_of_mana_boost | ars_nouveau:enchanting_apparatus | ars_nouveau:amulet_of_mana_boost ars_nouveau:dull_trinket ars_nouveau:enchanting_apparatus c:gems/diamond c:gems/source
+ars_nouveau:amulet_of_mana_regen | ars_nouveau:enchanting_apparatus | ars_nouveau:amulet_of_mana_regen ars_nouveau:dull_trinket ars_nouveau:enchanting_apparatus c:gems/diamond c:gems/source c:ingots/gold
+ars_nouveau:annotated_codex | minecraft:crafting_shapeless | ars_nouveau:annotated_codex ars_nouveau:blank_parchment minecraft:crafting_shapeless minecraft:leather
+ars_nouveau:apprentice_book_upgrade | ars_nouveau:book_upgrade | ars_nouveau:apprentice_spell_book ars_nouveau:book_upgrade ars_nouveau:novice_spell_book c:gems/diamond c:obsidians c:rods/blaze minecraft:quartz_block
+ars_nouveau:aqua_affinity_1 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:aqua_affinity minecraft:fishes
+ars_nouveau:arcane_core | minecraft:crafting_shaped | ars_nouveau:arcane_core ars_nouveau:sourcestone c:gems/source c:ingots/gold minecraft:crafting_shaped
+ars_nouveau:arcane_pedestal | minecraft:crafting_shaped | ars_nouveau:arcane_pedestal ars_nouveau:sourcestone c:gems/source c:nuggets/gold minecraft:crafting_shaped
+ars_nouveau:arcane_platform | minecraft:crafting_shapeless | ars_nouveau:arcane_pedestal ars_nouveau:arcane_platform minecraft:crafting_shapeless
+ars_nouveau:arcanist_boots | ars_nouveau:enchanting_apparatus | ars_nouveau:arcanist_boots ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber minecraft:iron_boots
+ars_nouveau:arcanist_hood | ars_nouveau:enchanting_apparatus | ars_nouveau:arcanist_hood ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber minecraft:iron_helmet
+ars_nouveau:arcanist_leggings | ars_nouveau:enchanting_apparatus | ars_nouveau:arcanist_leggings ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber minecraft:iron_leggings
+ars_nouveau:arcanist_robes | ars_nouveau:enchanting_apparatus | ars_nouveau:arcanist_robes ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber minecraft:iron_chestplate
+ars_nouveau:archmage_book_upgrade | ars_nouveau:book_upgrade | ars_nouveau:apprentice_spell_book ars_nouveau:archmage_spell_book ars_nouveau:book_upgrade ars_nouveau:wilden_tribute c:ender_pearls c:gems/emerald minecraft:nether_star minecraft:totem_of_undying
+ars_nouveau:archwood_boat | minecraft:crafting_shaped | ars_nouveau:archwood_boat ars_nouveau:archwood_planks minecraft:crafting_shaped
+ars_nouveau:archwood_button | minecraft:crafting_shapeless | ars_nouveau:archwood_button ars_nouveau:archwood_planks minecraft:crafting_shapeless
+ars_nouveau:archwood_chest | minecraft:crafting_shaped | ars_nouveau:archwood_chest ars_nouveau:archwood_planks minecraft:crafting_shaped minecraft:gold_nugget
+ars_nouveau:archwood_door | minecraft:crafting_shaped | ars_nouveau:archwood_door ars_nouveau:archwood_planks minecraft:crafting_shaped
+ars_nouveau:archwood_fence | minecraft:crafting_shaped | ars_nouveau:archwood_fence ars_nouveau:archwood_planks minecraft:crafting_shaped minecraft:stick
+ars_nouveau:archwood_fence_gate | minecraft:crafting_shaped | ars_nouveau:archwood_fence_gate ars_nouveau:archwood_planks minecraft:crafting_shaped minecraft:stick
+ars_nouveau:archwood_grate | minecraft:crafting_shaped | ars_nouveau:archwood_grate c:logs/archwood minecraft:crafting_shaped minecraft:iron_bars
+ars_nouveau:archwood_hanging_sign | minecraft:crafting_shaped | ars_nouveau:archwood_hanging_sign c:logs/archwood_stripped minecraft:chain minecraft:crafting_shaped
+ars_nouveau:archwood_planks | minecraft:crafting_shapeless | ars_nouveau:archwood_planks c:logs/archwood minecraft:crafting_shapeless
+ars_nouveau:archwood_pressure_plate | minecraft:crafting_shaped | ars_nouveau:archwood_planks ars_nouveau:archwood_pressure_plate minecraft:crafting_shaped
+ars_nouveau:archwood_sconce | minecraft:crafting_shapeless | ars_nouveau:archwood_planks ars_nouveau:archwood_sconce c:gems/source minecraft:crafting_shapeless
+ars_nouveau:archwood_sign | minecraft:crafting_shaped | ars_nouveau:archwood_planks ars_nouveau:archwood_sign minecraft:crafting_shaped minecraft:stick
+ars_nouveau:archwood_slab | minecraft:crafting_shaped | ars_nouveau:archwood_planks ars_nouveau:archwood_slab minecraft:crafting_shaped
+ars_nouveau:archwood_stairs | minecraft:crafting_shaped | ars_nouveau:archwood_planks ars_nouveau:archwood_stairs minecraft:crafting_shaped
+ars_nouveau:archwood_to_chest | minecraft:crafting_shapeless | ars_nouveau:archwood_chest minecraft:chest minecraft:crafting_shapeless
+ars_nouveau:archwood_trapdoor | minecraft:crafting_shaped | ars_nouveau:archwood_planks ars_nouveau:archwood_trapdoor minecraft:crafting_shaped
+ars_nouveau:ars_stencil | minecraft:crafting_shapeless | ars_nouveau:abjuration_essence ars_nouveau:ars_stencil minecraft:crafting_shapeless minecraft:paper
+ars_nouveau:bane_of_arthropods_1 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:bane_of_arthropods minecraft:spider_eye
+ars_nouveau:bane_of_arthropods_2 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:bane_of_arthropods minecraft:spider_eye
+ars_nouveau:bane_of_arthropods_3 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:bane_of_arthropods minecraft:fermented_spider_eye
+ars_nouveau:bane_of_arthropods_4 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:bane_of_arthropods minecraft:fermented_spider_eye
+ars_nouveau:bane_of_arthropods_5 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:bane_of_arthropods minecraft:fermented_spider_eye
+ars_nouveau:basic_spell_turret | minecraft:crafting_shaped | ars_nouveau:basic_spell_turret c:gems/source c:ingots/gold c:storage_blocks/redstone minecraft:crafting_shaped
+ars_nouveau:bastion_to_purple | minecraft:crafting_shapeless | ars_nouveau:bastion_pod minecraft:crafting_shapeless minecraft:purple_dye
+ars_nouveau:battlemage_boots | ars_nouveau:enchanting_apparatus | ars_nouveau:battlemage_boots ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber minecraft:diamond_boots
+ars_nouveau:battlemage_hood | ars_nouveau:enchanting_apparatus | ars_nouveau:battlemage_hood ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber minecraft:diamond_helmet
+ars_nouveau:battlemage_leggings | ars_nouveau:enchanting_apparatus | ars_nouveau:battlemage_leggings ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber minecraft:diamond_leggings
+ars_nouveau:battlemage_robes | ars_nouveau:enchanting_apparatus | ars_nouveau:battlemage_robes ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber minecraft:diamond_chestplate
+ars_nouveau:belt_of_levitation | ars_nouveau:enchanting_apparatus | ars_nouveau:air_essence ars_nouveau:belt_of_levitation ars_nouveau:enchanting_apparatus ars_nouveau:mundane_belt c:ingots/gold minecraft:feather
+ars_nouveau:belt_of_unstable_gifts | ars_nouveau:enchanting_apparatus | ars_nouveau:belt_of_unstable_gifts ars_nouveau:enchanting_apparatus ars_nouveau:mundane_belt c:crops/nether_wart c:dusts/glowstone c:dusts/redstone c:feathers c:rods/blaze minecraft:brewing_stand minecraft:fermented_spider_eye minecraft:sugar
+ars_nouveau:blank_parchment | minecraft:crafting_shaped | ars_nouveau:blank_parchment ars_nouveau:magebloom_fiber minecraft:crafting_shaped minecraft:paper
+ars_nouveau:blank_thread | minecraft:crafting_shaped | ars_nouveau:blank_thread ars_nouveau:magebloom_fiber c:nuggets/gold minecraft:crafting_shaped
+ars_nouveau:blast_protection_1 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/iron c:storage_blocks/source minecraft:blast_protection
+ars_nouveau:blast_protection_2 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/iron c:storage_blocks/lapis c:storage_blocks/source minecraft:blast_protection
+ars_nouveau:blast_protection_3 | ars_nouveau:enchantment | ars_nouveau:enchantment c:gems/diamond c:obsidians c:storage_blocks/source minecraft:blast_protection
+ars_nouveau:blast_protection_4 | ars_nouveau:enchantment | ars_nouveau:enchantment c:gems/diamond c:storage_blocks/gold c:storage_blocks/source minecraft:blast_protection
+ars_nouveau:blue_archwood_wood | minecraft:crafting_shaped | ars_nouveau:blue_archwood_log ars_nouveau:blue_archwood_wood minecraft:crafting_shaped
+ars_nouveau:blue_dye | ars_nouveau:crush | ars_nouveau:crush minecraft:blue_dye minecraft:cornflower
+ars_nouveau:blue_sbed | minecraft:crafting_shapeless | ars_nouveau:blue_sbed ars_nouveau:summon_bed c:dyes/blue minecraft:crafting_shapeless
+ars_nouveau:bombegranate_to_orange | minecraft:crafting_shapeless | ars_nouveau:bombegranate_pod minecraft:crafting_shapeless minecraft:orange_dye
+ars_nouveau:brazier_relay | ars_nouveau:enchanting_apparatus | ars_nouveau:brazier_relay ars_nouveau:enchanting_apparatus ars_nouveau:manipulation_essence ars_nouveau:ritual_brazier
+ars_nouveau:brown_dye | ars_nouveau:crush | ars_nouveau:crush minecraft:brown_dye minecraft:cocoa_beans
+ars_nouveau:budding_conversion/budding_amethyst | ars_nouveau:budding_conversion | ars_nouveau:budding_conversion minecraft:amethyst_block minecraft:budding_amethyst
+ars_nouveau:challenge_2 | minecraft:crafting_shapeless | ars_nouveau:purple_archwood_log ars_nouveau:ritual_challenge ars_nouveau:wilden_horn minecraft:crafting_shapeless minecraft:emerald
+ars_nouveau:clear_alakarkinos_charm | minecraft:crafting_shapeless | ars_nouveau:alakarkinos_charm minecraft:crafting_shapeless
+ars_nouveau:clear_allow | minecraft:crafting_shapeless | ars_nouveau:allow_scroll minecraft:crafting_shapeless
+ars_nouveau:clear_amethyst_golem_charm | minecraft:crafting_shapeless | ars_nouveau:amethyst_golem_charm minecraft:crafting_shapeless
+ars_nouveau:clear_bookwyrm_charm | minecraft:crafting_shapeless | ars_nouveau:bookwyrm_charm minecraft:crafting_shapeless
+ars_nouveau:clear_deny | minecraft:crafting_shapeless | ars_nouveau:deny_scroll minecraft:crafting_shapeless
+ars_nouveau:clear_drygmy_charm | minecraft:crafting_shapeless | ars_nouveau:drygmy_charm minecraft:crafting_shapeless
+ars_nouveau:clear_starbuncle_charm | minecraft:crafting_shapeless | ars_nouveau:starbuncle_charm minecraft:crafting_shapeless
+ars_nouveau:clear_starbuncle_shard | minecraft:crafting_shapeless | ars_nouveau:starbuncle_shards minecraft:crafting_shapeless
+ars_nouveau:clear_whirlisprig_charm | minecraft:crafting_shapeless | ars_nouveau:whirlisprig_charm minecraft:crafting_shapeless
+ars_nouveau:clear_wixie_charm | minecraft:crafting_shapeless | ars_nouveau:wixie_charm minecraft:crafting_shapeless
+ars_nouveau:cobblestone | ars_nouveau:crush | ars_nouveau:crush c:cobblestones minecraft:gravel
+ars_nouveau:conjuration_essence_to_end_stone | minecraft:crafting_shaped | ars_nouveau:conjuration_essence c:stones minecraft:crafting_shaped minecraft:end_stone
+ars_nouveau:conjuration_essence_to_soul_sand | minecraft:crafting_shaped | ars_nouveau:conjuration_essence c:sands minecraft:crafting_shaped minecraft:soul_sand
+ars_nouveau:decor_blossom | ars_nouveau:enchanting_apparatus | ars_nouveau:conjuration_essence ars_nouveau:decor_blossom ars_nouveau:enchanting_apparatus minecraft:spore_blossom
+ars_nouveau:deny_scroll | minecraft:crafting_shapeless | ars_nouveau:blank_parchment ars_nouveau:deny_scroll c:cobblestones minecraft:crafting_shapeless
+ars_nouveau:depth_strider_1 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:water_essence c:storage_blocks/source minecraft:depth_strider
+ars_nouveau:depth_strider_2 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:water_essence c:storage_blocks/source minecraft:depth_strider minecraft:prismarine_shard
+ars_nouveau:depth_strider_3 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:water_essence c:storage_blocks/source minecraft:depth_strider minecraft:nautilus_shell
+ars_nouveau:dispel_entity/blaze_powder | ars_nouveau:dispel_entity | ars_nouveau:dispel_entity minecraft:blaze minecraft:entities/blaze minecraft:entity_properties
+ars_nouveau:dispel_entity/wixie_shard | ars_nouveau:dispel_entity | ars_nouveau:dispel_entity ars_nouveau:dispel_witch ars_nouveau:percent_health_equal_or_lower minecraft:entity_properties minecraft:witch
+ars_nouveau:dominion_wand | ars_nouveau:enchanting_apparatus | ars_nouveau:dominion_wand ars_nouveau:enchanting_apparatus c:gems/source c:ingots/gold minecraft:stick
+ars_nouveau:dowsing_rod | minecraft:crafting_shaped | ars_nouveau:archwood_planks ars_nouveau:dowsing_rod c:ingots/gold minecraft:crafting_shaped
+ars_nouveau:drygmy_charm | ars_nouveau:enchanting_apparatus | ars_nouveau:drygmy_charm ars_nouveau:drygmy_shard ars_nouveau:enchanting_apparatus c:gems/source c:seeds minecraft:apple minecraft:carrot minecraft:fishes minecraft:wheat
+ars_nouveau:dull_trinket | minecraft:crafting_shaped | ars_nouveau:dull_trinket c:gems/source c:nuggets/iron minecraft:crafting_shaped
+ars_nouveau:dye_apprentice_spell_book | ars_nouveau:dye | ars_nouveau:apprentice_spell_book ars_nouveau:dye c:dyes
+ars_nouveau:dye_arcanist_boots | ars_nouveau:dye | ars_nouveau:arcanist_boots ars_nouveau:dye c:dyes
+ars_nouveau:dye_arcanist_hood | ars_nouveau:dye | ars_nouveau:arcanist_hood ars_nouveau:dye c:dyes
+ars_nouveau:dye_arcanist_leggings | ars_nouveau:dye | ars_nouveau:arcanist_leggings ars_nouveau:dye c:dyes
+ars_nouveau:dye_arcanist_robes | ars_nouveau:dye | ars_nouveau:arcanist_robes ars_nouveau:dye c:dyes
+ars_nouveau:dye_archmage_spell_book | ars_nouveau:dye | ars_nouveau:archmage_spell_book ars_nouveau:dye c:dyes
+ars_nouveau:dye_battlemage_boots | ars_nouveau:dye | ars_nouveau:battlemage_boots ars_nouveau:dye c:dyes
+ars_nouveau:dye_battlemage_hood | ars_nouveau:dye | ars_nouveau:battlemage_hood ars_nouveau:dye c:dyes
+ars_nouveau:dye_battlemage_leggings | ars_nouveau:dye | ars_nouveau:battlemage_leggings ars_nouveau:dye c:dyes
+ars_nouveau:dye_battlemage_robes | ars_nouveau:dye | ars_nouveau:battlemage_robes ars_nouveau:dye c:dyes
+ars_nouveau:dye_creative_spell_book | ars_nouveau:dye | ars_nouveau:creative_spell_book ars_nouveau:dye c:dyes
+ars_nouveau:dye_enchanters_eye | ars_nouveau:dye | ars_nouveau:dye ars_nouveau:enchanters_eye c:dyes
+ars_nouveau:dye_enchanters_sword | ars_nouveau:dye | ars_nouveau:dye ars_nouveau:enchanters_sword c:dyes
+ars_nouveau:dye_novice_spell_book | ars_nouveau:dye | ars_nouveau:dye ars_nouveau:novice_spell_book c:dyes
+ars_nouveau:dye_sorcerer_boots | ars_nouveau:dye | ars_nouveau:dye ars_nouveau:sorcerer_boots c:dyes
+ars_nouveau:dye_sorcerer_hood | ars_nouveau:dye | ars_nouveau:dye ars_nouveau:sorcerer_hood c:dyes
+ars_nouveau:dye_sorcerer_leggings | ars_nouveau:dye | ars_nouveau:dye ars_nouveau:sorcerer_leggings c:dyes
+ars_nouveau:dye_sorcerer_robes | ars_nouveau:dye | ars_nouveau:dye ars_nouveau:sorcerer_robes c:dyes
+ars_nouveau:dye_spell_bow | ars_nouveau:dye | ars_nouveau:dye ars_nouveau:spell_bow c:dyes
+ars_nouveau:dye_spell_crossbow | ars_nouveau:dye | ars_nouveau:dye ars_nouveau:spell_crossbow c:dyes
+ars_nouveau:dye_spell_parchment | ars_nouveau:dye | ars_nouveau:dye ars_nouveau:spell_parchment c:dyes
+ars_nouveau:dye_wand | ars_nouveau:dye | ars_nouveau:dye ars_nouveau:wand c:dyes
+ars_nouveau:efficiency_1 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/source minecraft:efficiency minecraft:iron_pickaxe minecraft:sugar
+ars_nouveau:efficiency_2 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/redstone c:storage_blocks/source minecraft:efficiency minecraft:golden_pickaxe
+ars_nouveau:efficiency_3 | ars_nouveau:enchantment | ars_nouveau:enchantment c:obsidians c:storage_blocks/redstone c:storage_blocks/source minecraft:efficiency minecraft:golden_pickaxe
+ars_nouveau:efficiency_4 | ars_nouveau:enchantment | ars_nouveau:enchantment c:obsidians c:storage_blocks/redstone c:storage_blocks/source minecraft:diamond_pickaxe minecraft:efficiency minecraft:iron_shovel
+ars_nouveau:efficiency_5 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/redstone c:storage_blocks/source minecraft:diamond_pickaxe minecraft:diamond_shovel minecraft:efficiency
+ars_nouveau:enchanters_eye | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanters_eye ars_nouveau:enchanting_apparatus ars_nouveau:scryers_crystal c:ender_pearls minecraft:blaze_powder
+ars_nouveau:enchanters_fishing_rod | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanters_fishing_rod ars_nouveau:enchanting_apparatus c:storage_blocks/gold c:storage_blocks/source minecraft:fishing_rod
+ars_nouveau:enchanters_gauntlet | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanters_gauntlet ars_nouveau:enchanting_apparatus c:gems/diamond c:leathers c:storage_blocks/gold c:storage_blocks/source
+ars_nouveau:enchanters_mirror | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanters_mirror ars_nouveau:enchanting_apparatus ars_nouveau:manipulation_essence c:glass_blocks c:ingots/gold c:logs/archwood c:storage_blocks/source
+ars_nouveau:enchanters_shield | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanters_shield ars_nouveau:enchanting_apparatus c:storage_blocks/gold c:storage_blocks/source minecraft:shield
+ars_nouveau:enchanters_sword | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanters_sword ars_nouveau:enchanting_apparatus c:gems/diamond c:storage_blocks/gold c:storage_blocks/source minecraft:diamond_sword
+ars_nouveau:enchanting_apparatus | minecraft:crafting_shaped | ars_nouveau:enchanting_apparatus ars_nouveau:sourcestone c:gems/diamond c:ingots/gold c:nuggets/gold minecraft:crafting_shaped
+ars_nouveau:experience_gem | minecraft:crafting_shapeless | ars_nouveau:experience_gem ars_nouveau:greater_experience_gem minecraft:crafting_shapeless
+ars_nouveau:falseweave | minecraft:crafting_shaped | ars_nouveau:air_essence ars_nouveau:falseweave ars_nouveau:magebloom_block minecraft:crafting_shaped
+ars_nouveau:feather_falling_1 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:slime_balls c:storage_blocks/source minecraft:feather_falling
+ars_nouveau:feather_falling_2 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:slime_balls c:storage_blocks/source minecraft:feather_falling
+ars_nouveau:feather_falling_3 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:slime_balls c:storage_blocks/lapis c:storage_blocks/source minecraft:feather_falling
+ars_nouveau:feather_falling_4 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:feather_falling
+ars_nouveau:fill_potion_flask_0 | ars_nouveau:potion_flask | ars_nouveau:potion_flask minecraft:potion
+ars_nouveau:fill_potion_flask_1 | ars_nouveau:potion_flask | ars_nouveau:potion_flask ars_nouveau:potion_flask_extend_time minecraft:potion
+ars_nouveau:fill_potion_flask_2 | ars_nouveau:potion_flask | ars_nouveau:potion_flask ars_nouveau:potion_flask_amplify minecraft:potion
+ars_nouveau:fire_aspect_1 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:fire_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:fire_aspect
+ars_nouveau:fire_aspect_2 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:fire_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:fire_aspect
+ars_nouveau:fire_essence_to_charge | minecraft:crafting_shapeless | ars_nouveau:fire_essence minecraft:coal minecraft:crafting_shapeless minecraft:fire_charge minecraft:gunpowder
+ars_nouveau:fire_essence_to_magma_block | minecraft:crafting_shaped | ars_nouveau:fire_essence c:stones minecraft:crafting_shaped minecraft:magma_block
+ars_nouveau:fire_protection_1 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:fire_essence c:storage_blocks/source minecraft:fire_protection
+ars_nouveau:fire_protection_2 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:fire_essence c:storage_blocks/source minecraft:fire_protection
+ars_nouveau:fire_protection_3 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:fire_essence c:rods/blaze c:storage_blocks/source minecraft:fire_protection
+ars_nouveau:fire_protection_4 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:fire_essence c:rods/blaze c:storage_blocks/source minecraft:fire_protection
+ars_nouveau:fire_protection_5 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:fire_essence c:rods/blaze c:storage_blocks/source minecraft:fire_protection
+ars_nouveau:first_armor_upgrade | ars_nouveau:armor_upgrade | ars_nouveau:armor_upgrade c:rods/blaze
+ars_nouveau:flame_1 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment ars_nouveau:fire_essence c:rods/blaze minecraft:flame
+ars_nouveau:fortune_1 | ars_nouveau:enchantment | ars_nouveau:earth_essence ars_nouveau:enchantment c:gems/diamond c:storage_blocks/source minecraft:fortune
+ars_nouveau:fortune_2 | ars_nouveau:enchantment | ars_nouveau:earth_essence ars_nouveau:enchantment c:gems/diamond c:storage_blocks/source minecraft:fortune
+ars_nouveau:fortune_3 | ars_nouveau:enchantment | ars_nouveau:earth_essence ars_nouveau:enchantment c:storage_blocks/diamond c:storage_blocks/lapis c:storage_blocks/source minecraft:fortune
+ars_nouveau:frostaya_to_light_blue | minecraft:crafting_shapeless | ars_nouveau:frostaya_pod minecraft:crafting_shapeless minecraft:light_blue_dye
+ars_nouveau:ghostweave | minecraft:crafting_shaped | ars_nouveau:abjuration_essence ars_nouveau:ghostweave ars_nouveau:magebloom_block minecraft:crafting_shaped
+ars_nouveau:gilded_sourcestone_alternating_slab | minecraft:crafting_shaped | ars_nouveau:gilded_sourcestone_alternating ars_nouveau:gilded_sourcestone_alternating_slab minecraft:crafting_shaped
+ars_nouveau:gilded_sourcestone_alternating_stairs | minecraft:crafting_shaped | ars_nouveau:gilded_sourcestone_alternating ars_nouveau:gilded_sourcestone_alternating_stairs minecraft:crafting_shaped
+ars_nouveau:gilded_sourcestone_alternating_stone_cutterslab | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_alternating ars_nouveau:gilded_sourcestone_alternating_slab minecraft:stonecutting
+ars_nouveau:gilded_sourcestone_alternating_stonecutter_stair | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_alternating ars_nouveau:gilded_sourcestone_alternating_stairs minecraft:stonecutting
+ars_nouveau:gilded_sourcestone_alternating_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:gilded_sourcestone_alternating ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:gilded_sourcestone_basketweave_slab | minecraft:crafting_shaped | ars_nouveau:gilded_sourcestone_basketweave ars_nouveau:gilded_sourcestone_basketweave_slab minecraft:crafting_shaped
+ars_nouveau:gilded_sourcestone_basketweave_stairs | minecraft:crafting_shaped | ars_nouveau:gilded_sourcestone_basketweave ars_nouveau:gilded_sourcestone_basketweave_stairs minecraft:crafting_shaped
+ars_nouveau:gilded_sourcestone_basketweave_stone_cutterslab | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_basketweave ars_nouveau:gilded_sourcestone_basketweave_slab minecraft:stonecutting
+ars_nouveau:gilded_sourcestone_basketweave_stonecutter_stair | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_basketweave ars_nouveau:gilded_sourcestone_basketweave_stairs minecraft:stonecutting
+ars_nouveau:gilded_sourcestone_basketweave_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:gilded_sourcestone_basketweave ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:gilded_sourcestone_large_bricks_slab | minecraft:crafting_shaped | ars_nouveau:gilded_sourcestone_large_bricks ars_nouveau:gilded_sourcestone_large_bricks_slab minecraft:crafting_shaped
+ars_nouveau:gilded_sourcestone_large_bricks_stairs | minecraft:crafting_shaped | ars_nouveau:gilded_sourcestone_large_bricks ars_nouveau:gilded_sourcestone_large_bricks_stairs minecraft:crafting_shaped
+ars_nouveau:gilded_sourcestone_large_bricks_stone_cutterslab | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_large_bricks ars_nouveau:gilded_sourcestone_large_bricks_slab minecraft:stonecutting
+ars_nouveau:gilded_sourcestone_large_bricks_stonecutter_stair | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_large_bricks ars_nouveau:gilded_sourcestone_large_bricks_stairs minecraft:stonecutting
+ars_nouveau:gilded_sourcestone_large_bricks_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:gilded_sourcestone_large_bricks ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:gilded_sourcestone_mosaic_slab | minecraft:crafting_shaped | ars_nouveau:gilded_sourcestone_mosaic ars_nouveau:gilded_sourcestone_mosaic_slab minecraft:crafting_shaped
+ars_nouveau:gilded_sourcestone_mosaic_stairs | minecraft:crafting_shaped | ars_nouveau:gilded_sourcestone_mosaic ars_nouveau:gilded_sourcestone_mosaic_stairs minecraft:crafting_shaped
+ars_nouveau:gilded_sourcestone_mosaic_stone_cutterslab | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_mosaic ars_nouveau:gilded_sourcestone_mosaic_slab minecraft:stonecutting
+ars_nouveau:gilded_sourcestone_mosaic_stonecutter_stair | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_mosaic ars_nouveau:gilded_sourcestone_mosaic_stairs minecraft:stonecutting
+ars_nouveau:gilded_sourcestone_mosaic_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:gilded_sourcestone_mosaic ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:gilded_sourcestone_small_bricks_slab | minecraft:crafting_shaped | ars_nouveau:gilded_sourcestone_small_bricks ars_nouveau:gilded_sourcestone_small_bricks_slab minecraft:crafting_shaped
+ars_nouveau:gilded_sourcestone_small_bricks_stairs | minecraft:crafting_shaped | ars_nouveau:gilded_sourcestone_small_bricks ars_nouveau:gilded_sourcestone_small_bricks_stairs minecraft:crafting_shaped
+ars_nouveau:gilded_sourcestone_small_bricks_stone_cutterslab | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_small_bricks ars_nouveau:gilded_sourcestone_small_bricks_slab minecraft:stonecutting
+ars_nouveau:gilded_sourcestone_small_bricks_stonecutter_stair | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_small_bricks ars_nouveau:gilded_sourcestone_small_bricks_stairs minecraft:stonecutting
+ars_nouveau:gilded_sourcestone_small_bricks_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:gilded_sourcestone_small_bricks ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:glowstone_block_to_dust | ars_nouveau:crush | ars_nouveau:crush minecraft:glowstone minecraft:glowstone_dust
+ars_nouveau:glyph_accelerate | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_accelerate minecraft:clock minecraft:powered_rail minecraft:sugar
+ars_nouveau:glyph_amplify | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_amplify minecraft:diamond_pickaxe
+ars_nouveau:glyph_animate_block | ars_nouveau:glyph | ars_nouveau:conjuration_essence ars_nouveau:glyph ars_nouveau:glyph_animate_block c:obsidians
+ars_nouveau:glyph_aoe | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_aoe minecraft:firework_star
+ars_nouveau:glyph_blink | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_blink ars_nouveau:manipulation_essence c:ender_pearls
+ars_nouveau:glyph_bounce | ars_nouveau:glyph | ars_nouveau:abjuration_essence ars_nouveau:glyph ars_nouveau:glyph_bounce c:slime_balls
+ars_nouveau:glyph_break | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_break minecraft:iron_pickaxe
+ars_nouveau:glyph_bubble | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_bubble ars_nouveau:water_essence c:feathers minecraft:boats minecraft:water_bucket
+ars_nouveau:glyph_burst | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_burst ars_nouveau:manipulation_essence minecraft:firework_star minecraft:tnt
+ars_nouveau:glyph_cold_snap | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_cold_snap ars_nouveau:water_essence minecraft:ice minecraft:powder_snow_bucket
+ars_nouveau:glyph_conjure_water | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_conjure_water ars_nouveau:water_essence minecraft:water_bucket
+ars_nouveau:glyph_craft | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_craft minecraft:crafting_table
+ars_nouveau:glyph_crush | ars_nouveau:glyph | ars_nouveau:earth_essence ars_nouveau:glyph ars_nouveau:glyph_crush minecraft:grindstone minecraft:piston
+ars_nouveau:glyph_cut | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_cut ars_nouveau:manipulation_essence minecraft:iron_sword minecraft:shears
+ars_nouveau:glyph_dampen | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_dampen minecraft:nether_brick
+ars_nouveau:glyph_decelerate | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_decelerate minecraft:clock minecraft:cobweb minecraft:soul_sand
+ars_nouveau:glyph_delay | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_delay ars_nouveau:manipulation_essence minecraft:clock minecraft:repeater
+ars_nouveau:glyph_dispel | ars_nouveau:glyph | ars_nouveau:abjuration_essence ars_nouveau:glyph ars_nouveau:glyph_dispel minecraft:milk_bucket
+ars_nouveau:glyph_duration_down | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_duration_down minecraft:clock minecraft:glowstone_dust
+ars_nouveau:glyph_ender_inventory | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_ender_inventory ars_nouveau:manipulation_essence minecraft:ender_chest
+ars_nouveau:glyph_evaporate | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_evaporate ars_nouveau:manipulation_essence minecraft:sponge
+ars_nouveau:glyph_exchange | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_exchange ars_nouveau:manipulation_essence c:ender_pearls minecraft:emerald_block
+ars_nouveau:glyph_explosion | ars_nouveau:glyph | ars_nouveau:fire_essence ars_nouveau:glyph ars_nouveau:glyph_explosion minecraft:fire_charge minecraft:tnt
+ars_nouveau:glyph_extend_time | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_extend_time c:storage_blocks/redstone minecraft:clock
+ars_nouveau:glyph_extract | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_extract minecraft:emerald
+ars_nouveau:glyph_fangs | ars_nouveau:glyph | ars_nouveau:conjuration_essence ars_nouveau:glyph ars_nouveau:glyph_fangs minecraft:prismarine_shard minecraft:totem_of_undying
+ars_nouveau:glyph_fell | ars_nouveau:glyph | ars_nouveau:earth_essence ars_nouveau:glyph ars_nouveau:glyph_fell minecraft:diamond_axe
+ars_nouveau:glyph_firework | ars_nouveau:glyph | ars_nouveau:fire_essence ars_nouveau:glyph ars_nouveau:glyph_firework minecraft:firework_rocket minecraft:firework_star
+ars_nouveau:glyph_flare | ars_nouveau:glyph | ars_nouveau:fire_essence ars_nouveau:glyph ars_nouveau:glyph_flare minecraft:blaze_rod minecraft:fire_charge minecraft:flint_and_steel
+ars_nouveau:glyph_fortune | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_fortune minecraft:rabbit_foot
+ars_nouveau:glyph_freeze | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_freeze ars_nouveau:water_essence minecraft:snow_block
+ars_nouveau:glyph_glide | ars_nouveau:glyph | ars_nouveau:air_essence ars_nouveau:glyph ars_nouveau:glyph_glide c:gems/diamond minecraft:elytra
+ars_nouveau:glyph_gravity | ars_nouveau:glyph | ars_nouveau:air_essence ars_nouveau:glyph ars_nouveau:glyph_gravity c:feathers minecraft:anvil
+ars_nouveau:glyph_grow | ars_nouveau:glyph | ars_nouveau:earth_essence ars_nouveau:glyph ars_nouveau:glyph_grow c:seeds minecraft:bone_block
+ars_nouveau:glyph_gust | ars_nouveau:glyph | ars_nouveau:air_essence ars_nouveau:glyph ars_nouveau:glyph_gust minecraft:piston
+ars_nouveau:glyph_harm | ars_nouveau:glyph | ars_nouveau:earth_essence ars_nouveau:glyph ars_nouveau:glyph_harm minecraft:iron_sword
+ars_nouveau:glyph_harvest | ars_nouveau:glyph | ars_nouveau:earth_essence ars_nouveau:glyph ars_nouveau:glyph_harvest minecraft:iron_hoe
+ars_nouveau:glyph_heal | ars_nouveau:glyph | ars_nouveau:abjuration_essence ars_nouveau:glyph ars_nouveau:glyph_heal minecraft:glistering_melon_slice minecraft:golden_apple
+ars_nouveau:glyph_hex | ars_nouveau:glyph | ars_nouveau:abjuration_essence ars_nouveau:glyph ars_nouveau:glyph_hex minecraft:blaze_rod minecraft:fermented_spider_eye minecraft:wither_rose
+ars_nouveau:glyph_ignite | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_ignite minecraft:coals minecraft:flint_and_steel
+ars_nouveau:glyph_infuse | ars_nouveau:glyph | ars_nouveau:abjuration_essence ars_nouveau:glyph ars_nouveau:glyph_infuse c:rods/blaze minecraft:glass_bottle
+ars_nouveau:glyph_intangible | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_intangible ars_nouveau:manipulation_essence c:ender_pearls minecraft:phantom_membrane
+ars_nouveau:glyph_interact | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_interact ars_nouveau:manipulation_essence minecraft:buttons minecraft:lever minecraft:wooden_pressure_plates
+ars_nouveau:glyph_invisibility | ars_nouveau:glyph | ars_nouveau:abjuration_essence ars_nouveau:glyph ars_nouveau:glyph_invisibility c:rods/blaze minecraft:fermented_spider_eye
+ars_nouveau:glyph_launch | ars_nouveau:glyph | ars_nouveau:air_essence ars_nouveau:glyph ars_nouveau:glyph_launch minecraft:rabbit_hide
+ars_nouveau:glyph_leap | ars_nouveau:glyph | ars_nouveau:air_essence ars_nouveau:glyph ars_nouveau:glyph_leap ars_nouveau:wilden_wing
+ars_nouveau:glyph_light | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_light minecraft:lantern minecraft:torch
+ars_nouveau:glyph_lightning | ars_nouveau:glyph | ars_nouveau:air_essence ars_nouveau:glyph ars_nouveau:glyph_lightning minecraft:heart_of_the_sea minecraft:lightning_rod
+ars_nouveau:glyph_linger | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_linger ars_nouveau:manipulation_essence c:rods/blaze c:storage_blocks/diamond minecraft:dragon_breath
+ars_nouveau:glyph_name | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_name ars_nouveau:manipulation_essence minecraft:name_tag
+ars_nouveau:glyph_orbit | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_orbit c:rods/blaze minecraft:compass minecraft:ender_eye
+ars_nouveau:glyph_pantomime | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_pantomime c:glass_blocks
+ars_nouveau:glyph_phantom_block | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_phantom_block c:glass_blocks
+ars_nouveau:glyph_pickup | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_pickup minecraft:hopper
+ars_nouveau:glyph_pierce | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_pierce ars_nouveau:wilden_spike minecraft:arrow
+ars_nouveau:glyph_place_block | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_place_block ars_nouveau:manipulation_essence minecraft:dispenser
+ars_nouveau:glyph_prestidigitation | ars_nouveau:glyph | ars_nouveau:conjuration_essence ars_nouveau:glyph ars_nouveau:glyph_prestidigitation
+ars_nouveau:glyph_projectile | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_projectile minecraft:arrow minecraft:fletching_table
+ars_nouveau:glyph_pull | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_pull minecraft:fishing_rod
+ars_nouveau:glyph_randomize | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_randomize minecraft:pink_carpet
+ars_nouveau:glyph_redstone_signal | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_redstone_signal ars_nouveau:manipulation_essence c:storage_blocks/redstone
+ars_nouveau:glyph_rotate | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_rotate ars_nouveau:manipulation_essence
+ars_nouveau:glyph_rune | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_rune ars_nouveau:manipulation_essence ars_nouveau:runic_chalk minecraft:tripwire_hook
+ars_nouveau:glyph_self | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_self minecraft:iron_chestplate minecraft:wooden_pressure_plates
+ars_nouveau:glyph_sense_magic | ars_nouveau:glyph | ars_nouveau:abjuration_essence ars_nouveau:dowsing_rod ars_nouveau:glyph ars_nouveau:glyph_sense_magic ars_nouveau:starbuncle_shards
+ars_nouveau:glyph_sensitive | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_sensitive minecraft:poppy minecraft:scaffolding minecraft:water_bucket
+ars_nouveau:glyph_slowfall | ars_nouveau:glyph | ars_nouveau:air_essence ars_nouveau:glyph ars_nouveau:glyph_slowfall ars_nouveau:wilden_wing c:crops/nether_wart c:rods/blaze minecraft:feather
+ars_nouveau:glyph_smelt | ars_nouveau:glyph | ars_nouveau:fire_essence ars_nouveau:glyph ars_nouveau:glyph_smelt c:rods/blaze minecraft:blast_furnace
+ars_nouveau:glyph_snare | ars_nouveau:glyph | ars_nouveau:earth_essence ars_nouveau:glyph ars_nouveau:glyph_snare minecraft:cobweb
+ars_nouveau:glyph_split | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_split ars_nouveau:relay_splitter ars_nouveau:wilden_spike minecraft:stonecutter
+ars_nouveau:glyph_summon_decoy | ars_nouveau:glyph | ars_nouveau:conjuration_essence ars_nouveau:glyph ars_nouveau:glyph_summon_decoy minecraft:armor_stand
+ars_nouveau:glyph_summon_steed | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_summon_steed minecraft:leather
+ars_nouveau:glyph_summon_undead | ars_nouveau:glyph | ars_nouveau:conjuration_essence ars_nouveau:glyph ars_nouveau:glyph_summon_undead minecraft:bone minecraft:wither_skeleton_skull
+ars_nouveau:glyph_summon_vex | ars_nouveau:glyph | ars_nouveau:conjuration_essence ars_nouveau:glyph ars_nouveau:glyph_summon_vex minecraft:totem_of_undying
+ars_nouveau:glyph_summon_wolves | ars_nouveau:glyph | ars_nouveau:conjuration_essence ars_nouveau:glyph ars_nouveau:glyph_summon_wolves ars_nouveau:wilden_wing minecraft:bone
+ars_nouveau:glyph_toss | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_toss ars_nouveau:manipulation_essence minecraft:dropper
+ars_nouveau:glyph_touch | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_touch minecraft:buttons
+ars_nouveau:glyph_underfoot | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_underfoot minecraft:iron_boots minecraft:wooden_pressure_plates
+ars_nouveau:glyph_wall | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:glyph_wall ars_nouveau:manipulation_essence c:rods/blaze c:storage_blocks/diamond minecraft:dragon_breath
+ars_nouveau:glyph_wind_burst | ars_nouveau:glyph | ars_nouveau:air_essence ars_nouveau:glyph ars_nouveau:glyph_wind_burst minecraft:wind_charge
+ars_nouveau:glyph_wind_shear | ars_nouveau:glyph | ars_nouveau:air_essence ars_nouveau:glyph ars_nouveau:glyph_wind_shear minecraft:iron_sword
+ars_nouveau:glyph_wither | ars_nouveau:glyph | ars_nouveau:abjuration_essence ars_nouveau:glyph ars_nouveau:glyph_wither minecraft:wither_skeleton_skull
+ars_nouveau:gold_grate | minecraft:crafting_shaped | ars_nouveau:gold_grate c:ingots/gold minecraft:crafting_shaped minecraft:iron_bars
+ars_nouveau:gravel | ars_nouveau:crush | ars_nouveau:crush c:gravels minecraft:flint minecraft:sand
+ars_nouveau:greater_experience_gem | minecraft:crafting_shapeless | ars_nouveau:experience_gem ars_nouveau:greater_experience_gem minecraft:crafting_shapeless
+ars_nouveau:green_archwood_wood | minecraft:crafting_shaped | ars_nouveau:green_archwood_log ars_nouveau:green_archwood_wood minecraft:crafting_shaped
+ars_nouveau:green_sbed | minecraft:crafting_shapeless | ars_nouveau:green_sbed ars_nouveau:summon_bed c:dyes/green minecraft:crafting_shapeless
+ars_nouveau:horn_to_bonemeal | minecraft:crafting_shapeless | ars_nouveau:wilden_horn minecraft:bone_meal minecraft:crafting_shapeless
+ars_nouveau:imbuement_abjuration_essence | ars_nouveau:imbuement | ars_nouveau:abjuration_essence ars_nouveau:imbuement c:gems/source minecraft:fermented_spider_eye minecraft:milk_bucket minecraft:sugar
+ars_nouveau:imbuement_air_essence | ars_nouveau:imbuement | ars_nouveau:air_essence ars_nouveau:imbuement ars_nouveau:wilden_wing c:gems/source minecraft:arrows minecraft:feather
+ars_nouveau:imbuement_amethyst | ars_nouveau:imbuement | ars_nouveau:imbuement ars_nouveau:source_gem minecraft:amethyst_shard
+ars_nouveau:imbuement_amethyst_block | ars_nouveau:imbuement | ars_nouveau:imbuement ars_nouveau:source_gem_block minecraft:amethyst_block
+ars_nouveau:imbuement_amplify_arrow | ars_nouveau:imbuement | ars_nouveau:air_essence ars_nouveau:amplify_arrow ars_nouveau:imbuement ars_nouveau:source_gem c:gems/diamond minecraft:arrows
+ars_nouveau:imbuement_chamber | minecraft:crafting_shaped | ars_nouveau:archwood_planks ars_nouveau:imbuement_chamber c:ingots/gold minecraft:crafting_shaped
+ars_nouveau:imbuement_conjuration_essence | ars_nouveau:imbuement | ars_nouveau:conjuration_essence ars_nouveau:imbuement ars_nouveau:starbuncle_shards ars_nouveau:wilden_horn c:gems/source minecraft:book
+ars_nouveau:imbuement_earth_essence | ars_nouveau:imbuement | ars_nouveau:earth_essence ars_nouveau:imbuement c:gems/source c:ingots/iron c:seeds minecraft:dirt
+ars_nouveau:imbuement_fire_essence | ars_nouveau:imbuement | ars_nouveau:fire_essence ars_nouveau:imbuement c:gems/source minecraft:flint_and_steel minecraft:gunpowder minecraft:torch
+ars_nouveau:imbuement_lapis | ars_nouveau:imbuement | ars_nouveau:imbuement ars_nouveau:source_gem c:gems/lapis
+ars_nouveau:imbuement_manipulation_essence | ars_nouveau:imbuement | ars_nouveau:imbuement ars_nouveau:manipulation_essence c:gems/source minecraft:clock minecraft:redstone minecraft:stone_button
+ars_nouveau:imbuement_pierce_arrow | ars_nouveau:imbuement | ars_nouveau:air_essence ars_nouveau:imbuement ars_nouveau:pierce_arrow ars_nouveau:source_gem ars_nouveau:wilden_spike minecraft:arrows
+ars_nouveau:imbuement_split_arrow | ars_nouveau:imbuement | ars_nouveau:air_essence ars_nouveau:imbuement ars_nouveau:source_gem ars_nouveau:split_arrow ars_nouveau:wilden_horn minecraft:arrows
+ars_nouveau:imbuement_water_essence | ars_nouveau:imbuement | ars_nouveau:imbuement ars_nouveau:water_essence c:gems/source minecraft:kelp minecraft:snow_block minecraft:water_bucket
+ars_nouveau:infinity_1 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/diamond minecraft:infinity
+ars_nouveau:item_detector | minecraft:crafting_shaped | ars_nouveau:archwood_planks ars_nouveau:item_detector c:glass_blocks minecraft:crafting_shaped minecraft:observer
+ars_nouveau:jar_of_light | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:jar_of_light c:glass_blocks minecraft:glass_bottle minecraft:glowstone minecraft:redstone_lamp
+ars_nouveau:jump_ring | ars_nouveau:enchanting_apparatus | ars_nouveau:air_essence ars_nouveau:enchanting_apparatus ars_nouveau:jump_ring ars_nouveau:ring_of_potential ars_nouveau:wilden_wing
+ars_nouveau:knockback_1 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/source minecraft:knockback
+ars_nouveau:knockback_2 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/source minecraft:knockback
+ars_nouveau:light_blue_dye | ars_nouveau:crush | ars_nouveau:crush minecraft:blue_orchid minecraft:light_blue_dye
+ars_nouveau:light_gray_dye_azure | ars_nouveau:crush | ars_nouveau:crush minecraft:azure_bluet minecraft:light_gray_dye
+ars_nouveau:light_gray_dye_oxeye | ars_nouveau:crush | ars_nouveau:crush minecraft:light_gray_dye minecraft:oxeye_daisy
+ars_nouveau:light_gray_dye_tulip | ars_nouveau:crush | ars_nouveau:crush minecraft:light_gray_dye minecraft:white_tulip
+ars_nouveau:lingering_flask_cannon | ars_nouveau:enchanting_apparatus | ars_nouveau:air_essence ars_nouveau:enchanting_apparatus ars_nouveau:lingering_flask_cannon ars_nouveau:splash_flask_cannon minecraft:dragon_breath
+ars_nouveau:looting_1 | ars_nouveau:enchantment | ars_nouveau:earth_essence ars_nouveau:enchantment c:gems/emerald c:storage_blocks/source minecraft:looting
+ars_nouveau:looting_2 | ars_nouveau:enchantment | ars_nouveau:earth_essence ars_nouveau:enchantment c:gems/emerald c:storage_blocks/source minecraft:looting
+ars_nouveau:looting_3 | ars_nouveau:enchantment | ars_nouveau:earth_essence ars_nouveau:enchantment c:storage_blocks/emerald c:storage_blocks/lapis c:storage_blocks/source minecraft:looting
+ars_nouveau:magebloom_block | minecraft:crafting_shaped | ars_nouveau:magebloom_block ars_nouveau:magebloom_fiber minecraft:crafting_shaped
+ars_nouveau:magebloom_block_to_magebloom | minecraft:crafting_shapeless | ars_nouveau:magebloom_block ars_nouveau:magebloom_fiber minecraft:crafting_shapeless
+ars_nouveau:magebloom_crop | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_crop c:gems/source c:seeds
+ars_nouveau:magebloom_fiber | minecraft:crafting_shapeless | ars_nouveau:magebloom ars_nouveau:magebloom_fiber minecraft:crafting_shapeless
+ars_nouveau:magebloom_to_pink | minecraft:crafting_shapeless | ars_nouveau:magebloom minecraft:crafting_shapeless minecraft:pink_dye
+ars_nouveau:magelight_torch | minecraft:crafting_shaped | ars_nouveau:magelight_torch c:gems/source c:nuggets/gold minecraft:crafting_shaped
+ars_nouveau:magenta_dye | ars_nouveau:crush | ars_nouveau:crush minecraft:allium minecraft:magenta_dye
+ars_nouveau:magenta_dye_lilac | ars_nouveau:crush | ars_nouveau:crush minecraft:lilac minecraft:magenta_dye
+ars_nouveau:mana_boost_1 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:mana_boost ars_nouveau:sourceberry_bush c:storage_blocks/source
+ars_nouveau:mana_boost_2 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:mana_boost ars_nouveau:sourceberry_bush c:gems/diamond c:storage_blocks/lapis c:storage_blocks/source
+ars_nouveau:mana_boost_3 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:mana_boost ars_nouveau:sourceberry_bush c:gems/diamond c:storage_blocks/lapis c:storage_blocks/source
+ars_nouveau:mana_regen_1 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:mana_regen ars_nouveau:sourceberry_bush c:storage_blocks/lapis c:storage_blocks/source
+ars_nouveau:mana_regen_2 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:mana_regen ars_nouveau:sourceberry_bush c:storage_blocks/lapis c:storage_blocks/source
+ars_nouveau:mana_regen_3 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:mana_regen ars_nouveau:sourceberry_bush c:storage_blocks/lapis c:storage_blocks/source
+ars_nouveau:manipulation_essence_to_andesite | minecraft:crafting_shaped | ars_nouveau:manipulation_essence minecraft:andesite minecraft:crafting_shaped minecraft:granite
+ars_nouveau:manipulation_essence_to_blazin_sapling | minecraft:crafting_shapeless | ars_nouveau:manipulation_essence ars_nouveau:purple_archwood_sapling ars_nouveau:red_archwood_sapling minecraft:crafting_shapeless
+ars_nouveau:manipulation_essence_to_calcite | minecraft:crafting_shaped | ars_nouveau:manipulation_essence minecraft:calcite minecraft:crafting_shaped minecraft:tuff
+ars_nouveau:manipulation_essence_to_cascading_sapling | minecraft:crafting_shapeless | ars_nouveau:blue_archwood_sapling ars_nouveau:manipulation_essence ars_nouveau:red_archwood_sapling minecraft:crafting_shapeless
+ars_nouveau:manipulation_essence_to_deepslate | minecraft:crafting_shaped | ars_nouveau:manipulation_essence minecraft:calcite minecraft:crafting_shaped minecraft:deepslate
+ars_nouveau:manipulation_essence_to_diorite | minecraft:crafting_shaped | ars_nouveau:manipulation_essence minecraft:andesite minecraft:crafting_shaped minecraft:diorite
+ars_nouveau:manipulation_essence_to_flourishing_sapling | minecraft:crafting_shapeless | ars_nouveau:blue_archwood_sapling ars_nouveau:green_archwood_sapling ars_nouveau:manipulation_essence minecraft:crafting_shapeless
+ars_nouveau:manipulation_essence_to_granite | minecraft:crafting_shaped | ars_nouveau:manipulation_essence minecraft:crafting_shaped minecraft:diorite minecraft:granite
+ars_nouveau:manipulation_essence_to_grass_block | minecraft:crafting_shaped | ars_nouveau:manipulation_essence minecraft:crafting_shaped minecraft:grass_block minecraft:moss_block
+ars_nouveau:manipulation_essence_to_moss_block | minecraft:crafting_shaped | ars_nouveau:manipulation_essence minecraft:crafting_shaped minecraft:moss_block minecraft:mycelium
+ars_nouveau:manipulation_essence_to_mycelium | minecraft:crafting_shaped | ars_nouveau:manipulation_essence minecraft:crafting_shaped minecraft:grass_block minecraft:mycelium
+ars_nouveau:manipulation_essence_to_tuff | minecraft:crafting_shaped | ars_nouveau:manipulation_essence minecraft:crafting_shaped minecraft:deepslate minecraft:tuff
+ars_nouveau:manipulation_essence_to_vexing_sapling | minecraft:crafting_shapeless | ars_nouveau:green_archwood_sapling ars_nouveau:manipulation_essence ars_nouveau:purple_archwood_sapling minecraft:crafting_shapeless
+ars_nouveau:mendosteen_to_lime | minecraft:crafting_shapeless | ars_nouveau:mendosteen_pod minecraft:crafting_shapeless minecraft:lime_dye
+ars_nouveau:mimic_scroll | minecraft:crafting_shapeless | ars_nouveau:allow_scroll ars_nouveau:mimic_scroll minecraft:chest minecraft:crafting_shapeless
+ars_nouveau:mirrorweave | minecraft:crafting_shaped | ars_nouveau:conjuration_essence ars_nouveau:magebloom_block ars_nouveau:mirrorweave minecraft:crafting_shaped
+ars_nouveau:mob_jar | minecraft:crafting_shaped | ars_nouveau:archwood_slab ars_nouveau:mob_jar c:glass_blocks minecraft:crafting_shaped
+ars_nouveau:moonfall_2 | minecraft:crafting_shapeless | ars_nouveau:blue_archwood_log ars_nouveau:ritual_moonfall ars_nouveau:wilden_wing minecraft:crafting_shapeless
+ars_nouveau:multishot_1 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/source minecraft:multishot
+ars_nouveau:mundane_belt | minecraft:crafting_shaped | ars_nouveau:mundane_belt c:gems/source c:leathers minecraft:crafting_shaped
+ars_nouveau:mycelial_sourcelink | minecraft:crafting_shaped | ars_nouveau:mycelial_sourcelink c:gems/source c:ingots/gold minecraft:crafting_shaped minecraft:mushroom_stew
+ars_nouveau:novice_spell_book | minecraft:crafting_shapeless | ars_nouveau:novice_spell_book minecraft:book minecraft:crafting_shapeless minecraft:iron_axe minecraft:iron_pickaxe minecraft:iron_shovel minecraft:iron_sword
+ars_nouveau:novice_spellbook_alt | minecraft:crafting_shapeless | ars_nouveau:novice_spell_book ars_nouveau:worn_notebook minecraft:crafting_shapeless minecraft:iron_axe minecraft:iron_pickaxe minecraft:iron_shovel minecraft:iron_sword
+ars_nouveau:orange_dye | ars_nouveau:crush | ars_nouveau:crush minecraft:orange_dye minecraft:orange_tulip
+ars_nouveau:orange_sbed | minecraft:crafting_shaped | ars_nouveau:magebloom_fiber ars_nouveau:orange_sbed minecraft:crafting_shaped minecraft:feather
+ars_nouveau:piercing_1 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:piercing
+ars_nouveau:piercing_2 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:piercing
+ars_nouveau:piercing_3 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:piercing
+ars_nouveau:piercing_4 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:piercing
+ars_nouveau:pink_dye | ars_nouveau:crush | ars_nouveau:crush minecraft:pink_dye minecraft:pink_tulip
+ars_nouveau:pink_dye_peony | ars_nouveau:crush | ars_nouveau:crush minecraft:peony minecraft:pink_dye
+ars_nouveau:planarium | ars_nouveau:enchanting_apparatus | ars_nouveau:conjuration_essence ars_nouveau:enchanting_apparatus ars_nouveau:mob_jar ars_nouveau:planarium ars_nouveau:stable_warp_scroll minecraft:diamond
+ars_nouveau:platform_to_pedestal | minecraft:crafting_shapeless | ars_nouveau:arcane_pedestal ars_nouveau:arcane_platform minecraft:crafting_shapeless
+ars_nouveau:polished_sconce | minecraft:crafting_shapeless | ars_nouveau:polished_sconce ars_nouveau:sourcestone_sconce minecraft:crafting_shapeless
+ars_nouveau:polished_source_sconce | minecraft:crafting_shapeless | ars_nouveau:polished_sconce ars_nouveau:sourcestone_sconce minecraft:crafting_shapeless
+ars_nouveau:potion_diffuser | ars_nouveau:enchanting_apparatus | ars_nouveau:archwood_planks ars_nouveau:enchanting_apparatus ars_nouveau:potion_diffuser c:ingots/gold minecraft:campfire
+ars_nouveau:potion_flask | ars_nouveau:enchanting_apparatus | ars_nouveau:abjuration_essence ars_nouveau:enchanting_apparatus ars_nouveau:potion_flask c:storage_blocks/gold c:storage_blocks/source minecraft:glass_bottle
+ars_nouveau:potion_flask_amplify | ars_nouveau:enchanting_apparatus | ars_nouveau:abjuration_essence ars_nouveau:enchanting_apparatus ars_nouveau:potion_flask ars_nouveau:potion_flask_amplify
+ars_nouveau:potion_flask_extend_time | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:manipulation_essence ars_nouveau:potion_flask ars_nouveau:potion_flask_extend_time
+ars_nouveau:potion_jar | minecraft:crafting_shapeless | ars_nouveau:abjuration_essence ars_nouveau:potion_jar ars_nouveau:source_jar minecraft:crafting_shapeless
+ars_nouveau:potion_jar_empty | minecraft:crafting_shapeless | ars_nouveau:potion_jar minecraft:crafting_shapeless
+ars_nouveau:potion_melder | ars_nouveau:enchanting_apparatus | ars_nouveau:abjuration_essence ars_nouveau:enchanting_apparatus ars_nouveau:potion_jar ars_nouveau:potion_melder c:rods/blaze c:storage_blocks/gold
+ars_nouveau:power_1 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:gems/diamond c:storage_blocks/source minecraft:power
+ars_nouveau:power_2 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:gems/diamond c:storage_blocks/source minecraft:power
+ars_nouveau:power_3 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:gems/diamond c:storage_blocks/lapis c:storage_blocks/source minecraft:power
+ars_nouveau:power_4 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:gems/diamond c:storage_blocks/lapis c:storage_blocks/source minecraft:power
+ars_nouveau:power_5 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:gems/diamond c:storage_blocks/lapis c:storage_blocks/source minecraft:power
+ars_nouveau:prestidigitation | ars_nouveau:prestidigitation | ars_nouveau:conjuration_essence ars_nouveau:prestidigitation ars_nouveau:spell_parchment
+ars_nouveau:projectile_protection_1 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/source minecraft:arrow minecraft:projectile_protection
+ars_nouveau:projectile_protection_2 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/source minecraft:arrow minecraft:projectile_protection
+ars_nouveau:projectile_protection_3 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/source minecraft:arrow minecraft:projectile_protection
+ars_nouveau:projectile_protection_4 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/source minecraft:arrow minecraft:projectile_protection
+ars_nouveau:projectile_protection_5 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/source minecraft:arrow minecraft:projectile_protection
+ars_nouveau:protection_1 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:protection
+ars_nouveau:protection_2 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:protection
+ars_nouveau:protection_3 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:protection
+ars_nouveau:protection_4 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:protection
+ars_nouveau:protection_5 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/diamond c:storage_blocks/source minecraft:protection
+ars_nouveau:punch_1 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/source minecraft:punch
+ars_nouveau:punch_2 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/source minecraft:punch
+ars_nouveau:purple_archwood_wood | minecraft:crafting_shaped | ars_nouveau:purple_archwood_log ars_nouveau:purple_archwood_wood minecraft:crafting_shaped
+ars_nouveau:purple_sbed | minecraft:crafting_shapeless | ars_nouveau:purple_sbed ars_nouveau:summon_bed c:dyes/purple minecraft:crafting_shapeless
+ars_nouveau:quartz_block_to_quartz | ars_nouveau:crush | ars_nouveau:crush c:storage_blocks/quartz minecraft:quartz
+ars_nouveau:quick_charge_1 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/source minecraft:quick_charge
+ars_nouveau:quick_charge_2 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/source minecraft:quick_charge
+ars_nouveau:quick_charge_3 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:air_essence ars_nouveau:enchantment c:storage_blocks/source minecraft:quick_charge
+ars_nouveau:reactive_1 | ars_nouveau:reactive_enchantment | ars_nouveau:reactive_enchantment ars_nouveau:spell_parchment c:storage_blocks/lapis c:storage_blocks/source
+ars_nouveau:reactive_2 | ars_nouveau:enchantment | ars_nouveau:air_essence ars_nouveau:earth_essence ars_nouveau:enchantment ars_nouveau:fire_essence ars_nouveau:reactive ars_nouveau:water_essence minecraft:blaze_powder
+ars_nouveau:reactive_3 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:conjuration_essence ars_nouveau:enchantment ars_nouveau:manipulation_essence ars_nouveau:reactive c:ender_pearls c:gems/emerald
+ars_nouveau:reactive_4 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:reactive ars_nouveau:wilden_tribute c:ender_pearls c:gems/diamond
+ars_nouveau:red_archwood_wood | minecraft:crafting_shaped | ars_nouveau:red_archwood_log ars_nouveau:red_archwood_wood minecraft:crafting_shaped
+ars_nouveau:red_dye_beetroot | ars_nouveau:crush | ars_nouveau:crush minecraft:beetroot minecraft:red_dye
+ars_nouveau:red_dye_poppy | ars_nouveau:crush | ars_nouveau:crush minecraft:poppy minecraft:red_dye
+ars_nouveau:red_dye_rose_bush | ars_nouveau:crush | ars_nouveau:crush minecraft:red_dye minecraft:rose_bush
+ars_nouveau:red_dye_tulip | ars_nouveau:crush | ars_nouveau:crush minecraft:red_dye minecraft:red_tulip
+ars_nouveau:red_sbed | minecraft:crafting_shapeless | ars_nouveau:red_sbed ars_nouveau:summon_bed c:dyes/red minecraft:crafting_shapeless
+ars_nouveau:redstone_relay | minecraft:crafting_shaped | ars_nouveau:redstone_relay c:dusts/redstone c:ingots/gold c:storage_blocks/source minecraft:crafting_shaped
+ars_nouveau:relay | minecraft:crafting_shaped | ars_nouveau:relay c:ingots/gold c:storage_blocks/source minecraft:crafting_shaped
+ars_nouveau:relay_collector | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:relay ars_nouveau:relay_collector c:chests
+ars_nouveau:relay_deposit | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:relay ars_nouveau:relay_deposit minecraft:hopper
+ars_nouveau:relay_splitter | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:relay ars_nouveau:relay_splitter c:gems/lapis c:gems/quartz
+ars_nouveau:relay_warp | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:relay ars_nouveau:relay_warp c:ender_pearls minecraft:popped_chorus_fruit
+ars_nouveau:repository | minecraft:crafting_shaped | ars_nouveau:repository c:logs/archwood c:nuggets/gold minecraft:crafting_shaped
+ars_nouveau:repository_controller | minecraft:crafting_shapeless | ars_nouveau:magebloom_fiber ars_nouveau:repository ars_nouveau:repository_controller minecraft:crafting_shapeless
+ars_nouveau:reset | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:reset minecraft:target
+ars_nouveau:reset_stable_warp_scroll | minecraft:crafting_shapeless | ars_nouveau:stable_warp_scroll minecraft:crafting_shapeless
+ars_nouveau:reset_warp_scroll | minecraft:crafting_shapeless | ars_nouveau:warp_scroll minecraft:crafting_shapeless
+ars_nouveau:respiration_1 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:water_essence c:storage_blocks/source minecraft:respiration
+ars_nouveau:respiration_2 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:water_essence c:storage_blocks/source minecraft:respiration
+ars_nouveau:respiration_3 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:water_essence c:storage_blocks/source minecraft:respiration
+ars_nouveau:rewind | ars_nouveau:glyph | ars_nouveau:glyph ars_nouveau:manipulation_essence ars_nouveau:rewind minecraft:clock
+ars_nouveau:ring_of_greater_discount | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:ring_of_greater_discount ars_nouveau:ring_of_lesser_discount c:gems/diamond c:gems/source c:rods/blaze
+ars_nouveau:ring_of_lesser_discount | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:ring_of_lesser_discount ars_nouveau:ring_of_potential c:ender_pearls c:gems/diamond c:gems/source
+ars_nouveau:ring_of_potential | minecraft:crafting_shaped | ars_nouveau:ring_of_potential c:gems/source c:nuggets/iron minecraft:crafting_shaped
+ars_nouveau:ritual_animal_summon | minecraft:crafting_shapeless | ars_nouveau:magic_shards ars_nouveau:purple_archwood_log ars_nouveau:ritual_animal_summon minecraft:crafting_shapeless minecraft:lapis_block
+ars_nouveau:ritual_awakening | minecraft:crafting_shapeless | ars_nouveau:blue_archwood_sapling ars_nouveau:green_archwood_log ars_nouveau:green_archwood_sapling ars_nouveau:purple_archwood_sapling ars_nouveau:red_archwood_sapling ars_nouveau:ritual_awakening c:gems/source minecraft:crafting_shapeless
+ars_nouveau:ritual_binding | minecraft:crafting_shapeless | ars_nouveau:blank_parchment ars_nouveau:purple_archwood_log ars_nouveau:ritual_binding c:gems/source minecraft:crafting_shapeless minecraft:ender_pearl
+ars_nouveau:ritual_brazier | minecraft:crafting_shapeless | ars_nouveau:arcane_pedestal ars_nouveau:ritual_brazier c:ingots/gold c:storage_blocks/source minecraft:crafting_shapeless
+ars_nouveau:ritual_burrowing | minecraft:crafting_shapeless | ars_nouveau:green_archwood_log ars_nouveau:ritual_burrowing c:storage_blocks/coal minecraft:crafting_shapeless minecraft:iron_pickaxe
+ars_nouveau:ritual_challenge | minecraft:crafting_shapeless | ars_nouveau:purple_archwood_log ars_nouveau:ritual_challenge minecraft:crafting_shapeless minecraft:emerald_block minecraft:ink_sac
+ars_nouveau:ritual_cloudshaping | minecraft:crafting_shapeless | ars_nouveau:blue_archwood_log ars_nouveau:ritual_cloudshaping c:storage_blocks/source minecraft:crafting_shapeless minecraft:feather
+ars_nouveau:ritual_conjure_island_desert | minecraft:crafting_shapeless | ars_nouveau:earth_essence ars_nouveau:red_archwood_log ars_nouveau:ritual_conjure_island_desert minecraft:crafting_shapeless minecraft:sand
+ars_nouveau:ritual_conjure_island_plains | minecraft:crafting_shapeless | ars_nouveau:earth_essence ars_nouveau:green_archwood_log ars_nouveau:ritual_conjure_island_plains minecraft:crafting_shapeless minecraft:grass_block
+ars_nouveau:ritual_containment | minecraft:crafting_shapeless | ars_nouveau:manipulation_essence ars_nouveau:purple_archwood_log ars_nouveau:ritual_containment minecraft:crafting_shapeless minecraft:glass_bottle
+ars_nouveau:ritual_disintegration | minecraft:crafting_shapeless | ars_nouveau:red_archwood_log ars_nouveau:ritual_disintegration minecraft:book minecraft:crafting_shapeless minecraft:golden_sword
+ars_nouveau:ritual_fertility | minecraft:crafting_shapeless | ars_nouveau:green_archwood_log ars_nouveau:ritual_fertility minecraft:blaze_powder minecraft:crafting_shapeless minecraft:golden_apple minecraft:wheat
+ars_nouveau:ritual_flight | minecraft:crafting_shapeless | ars_nouveau:purple_archwood_log ars_nouveau:ritual_flight ars_nouveau:wilden_wing c:gems/diamond minecraft:crafting_shapeless minecraft:ender_pearl
+ars_nouveau:ritual_flowering | minecraft:crafting_shapeless | ars_nouveau:earth_essence ars_nouveau:green_archwood_log ars_nouveau:ritual_flowering minecraft:crafting_shapeless minecraft:dandelion minecraft:poppy
+ars_nouveau:ritual_forestation | minecraft:crafting_shapeless | ars_nouveau:earth_essence ars_nouveau:green_archwood_log ars_nouveau:mendosteen_pod ars_nouveau:ritual_forestation minecraft:crafting_shapeless
+ars_nouveau:ritual_gravity | minecraft:crafting_shapeless | ars_nouveau:air_essence ars_nouveau:earth_essence ars_nouveau:green_archwood_log ars_nouveau:ritual_gravity minecraft:anvil minecraft:crafting_shapeless minecraft:feather
+ars_nouveau:ritual_harvest | minecraft:crafting_shapeless | ars_nouveau:earth_essence ars_nouveau:green_archwood_log ars_nouveau:ritual_harvest minecraft:crafting_shapeless minecraft:iron_hoe
+ars_nouveau:ritual_moonfall | minecraft:crafting_shapeless | ars_nouveau:blue_archwood_log ars_nouveau:ritual_moonfall c:storage_blocks/coal minecraft:clock minecraft:crafting_shapeless minecraft:ink_sac
+ars_nouveau:ritual_overgrowth | minecraft:crafting_shapeless | ars_nouveau:earth_essence ars_nouveau:green_archwood_log ars_nouveau:magebloom ars_nouveau:ritual_overgrowth minecraft:crafting_shapeless
+ars_nouveau:ritual_restoration | minecraft:crafting_shapeless | ars_nouveau:abjuration_essence ars_nouveau:green_archwood_log ars_nouveau:ritual_restoration minecraft:crafting_shapeless minecraft:golden_apple
+ars_nouveau:ritual_sanctuary | minecraft:crafting_shapeless | ars_nouveau:blue_archwood_log ars_nouveau:ritual_sanctuary ars_nouveau:water_essence minecraft:crafting_shapeless minecraft:sea_lantern
+ars_nouveau:ritual_scrying | minecraft:crafting_shapeless | ars_nouveau:purple_archwood_log ars_nouveau:ritual_scrying c:storage_blocks/source minecraft:crafting_shapeless minecraft:glowstone minecraft:spider_eye
+ars_nouveau:ritual_sunrise | minecraft:crafting_shapeless | ars_nouveau:red_archwood_log ars_nouveau:ritual_sunrise minecraft:clock minecraft:crafting_shapeless minecraft:dandelion
+ars_nouveau:ritual_warping | minecraft:crafting_shapeless | ars_nouveau:purple_archwood_log ars_nouveau:ritual_warping ars_nouveau:warp_scroll minecraft:crafting_shapeless
+ars_nouveau:ritual_wilden_summon | minecraft:crafting_shapeless | ars_nouveau:purple_archwood_log ars_nouveau:ritual_wilden_summon ars_nouveau:wilden_drop minecraft:crafting_shapeless minecraft:lapis_block
+ars_nouveau:rotating_spell_turret | minecraft:crafting_shapeless | ars_nouveau:basic_spell_turret ars_nouveau:rotating_spell_turret minecraft:crafting_shapeless
+ars_nouveau:rotating_turret_to_basic_spell_turret | minecraft:crafting_shapeless | ars_nouveau:basic_spell_turret ars_nouveau:rotating_spell_turret minecraft:crafting_shapeless
+ars_nouveau:runic_chalk | minecraft:crafting_shapeless | ars_nouveau:magebloom_fiber ars_nouveau:manipulation_essence ars_nouveau:runic_chalk minecraft:bone_meal minecraft:crafting_shapeless
+ars_nouveau:sandstone_to_sand | ars_nouveau:crush | ars_nouveau:crush minecraft:sand minecraft:sandstone
+ars_nouveau:sconce | minecraft:crafting_shapeless | ars_nouveau:sconce c:gems/source c:nuggets/gold minecraft:crafting_shapeless
+ars_nouveau:scribes_table | minecraft:crafting_shaped | ars_nouveau:archwood_slab ars_nouveau:scribes_table c:logs/archwood c:nuggets/gold minecraft:crafting_shaped
+ars_nouveau:scry_ritual/coal_ores | ars_nouveau:scry_ritual | ars_nouveau:scry_ritual c:ores/coal
+ars_nouveau:scry_ritual/copper_ores | ars_nouveau:scry_ritual | ars_nouveau:scry_ritual c:ores/copper
+ars_nouveau:scry_ritual/diamond_ores | ars_nouveau:scry_ritual | ars_nouveau:scry_ritual c:ores/diamond
+ars_nouveau:scry_ritual/emerald_ores | ars_nouveau:scry_ritual | ars_nouveau:scry_ritual c:ores/emerald
+ars_nouveau:scry_ritual/gold_ores | ars_nouveau:scry_ritual | ars_nouveau:scry_ritual c:ores/gold
+ars_nouveau:scry_ritual/iron_ores | ars_nouveau:scry_ritual | ars_nouveau:scry_ritual c:ores/iron
+ars_nouveau:scry_ritual/lapis_ores | ars_nouveau:scry_ritual | ars_nouveau:scry_ritual c:ores/lapis
+ars_nouveau:scry_ritual/netherite_scrap_ores | ars_nouveau:scry_ritual | ars_nouveau:scry_ritual c:ores/netherite_scrap
+ars_nouveau:scry_ritual/quartz_ores | ars_nouveau:scry_ritual | ars_nouveau:scry_ritual c:ores/quartz
+ars_nouveau:scry_ritual/redstone_ores | ars_nouveau:scry_ritual | ars_nouveau:scry_ritual c:ores/redstone
+ars_nouveau:scry_to_blank_parchment | minecraft:crafting_shapeless | ars_nouveau:blank_parchment ars_nouveau:scryer_scroll minecraft:crafting_shapeless
+ars_nouveau:scryers_crystal | minecraft:crafting_shapeless | ars_nouveau:scryers_crystal c:gems/source minecraft:crafting_shapeless minecraft:ender_eye
+ars_nouveau:scryers_oculus | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:scryers_oculus c:gems/diamond c:storage_blocks/source minecraft:ender_eye minecraft:observer minecraft:spyglass
+ars_nouveau:second_armor_upgrade | ars_nouveau:armor_upgrade | ars_nouveau:armor_upgrade c:ender_pearls minecraft:chorus_fruit
+ars_nouveau:shapers_focus | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:manipulation_essence ars_nouveau:shapers_focus c:gems/diamond c:ingots/gold minecraft:piston minecraft:slime_block
+ars_nouveau:sharpness_1 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:quartz_block minecraft:sharpness
+ars_nouveau:sharpness_2 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:quartz_block minecraft:sharpness
+ars_nouveau:sharpness_3 | ars_nouveau:enchantment | ars_nouveau:enchantment c:gems/diamond c:storage_blocks/lapis minecraft:quartz_block minecraft:sharpness
+ars_nouveau:sharpness_4 | ars_nouveau:enchantment | ars_nouveau:enchantment c:gems/diamond c:storage_blocks/lapis minecraft:quartz_block minecraft:sharpness
+ars_nouveau:sharpness_5 | ars_nouveau:enchantment | ars_nouveau:enchantment c:gems/diamond c:storage_blocks/lapis minecraft:quartz_block minecraft:sharpness
+ars_nouveau:silk_touch_1 | ars_nouveau:enchantment | ars_nouveau:enchantment c:gems/diamond c:gems/emerald c:storage_blocks/lapis c:storage_blocks/source minecraft:silk_touch
+ars_nouveau:sky_block | minecraft:crafting_shaped | ars_nouveau:magebloom_block ars_nouveau:manipulation_essence ars_nouveau:sky_block minecraft:crafting_shaped
+ars_nouveau:smite_1 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:bone_block minecraft:smite
+ars_nouveau:smite_2 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:bone_block minecraft:smite
+ars_nouveau:smite_3 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:bone_block minecraft:smite
+ars_nouveau:smite_4 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:bone_block minecraft:smite
+ars_nouveau:smite_5 | ars_nouveau:enchantment | ars_nouveau:enchantment c:storage_blocks/lapis c:storage_blocks/source minecraft:bone_block minecraft:smite
+ars_nouveau:smooth_gilded_sourcestone_alternating_slab | minecraft:crafting_shaped | ars_nouveau:smooth_gilded_sourcestone_alternating ars_nouveau:smooth_gilded_sourcestone_alternating_slab minecraft:crafting_shaped
+ars_nouveau:smooth_gilded_sourcestone_alternating_stairs | minecraft:crafting_shaped | ars_nouveau:smooth_gilded_sourcestone_alternating ars_nouveau:smooth_gilded_sourcestone_alternating_stairs minecraft:crafting_shaped
+ars_nouveau:smooth_gilded_sourcestone_alternating_stone_cutterslab | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_alternating ars_nouveau:smooth_gilded_sourcestone_alternating_slab minecraft:stonecutting
+ars_nouveau:smooth_gilded_sourcestone_alternating_stonecutter_stair | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_alternating ars_nouveau:smooth_gilded_sourcestone_alternating_stairs minecraft:stonecutting
+ars_nouveau:smooth_gilded_sourcestone_alternating_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:smooth_gilded_sourcestone_alternating ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:smooth_gilded_sourcestone_basketweave_slab | minecraft:crafting_shaped | ars_nouveau:smooth_gilded_sourcestone_basketweave ars_nouveau:smooth_gilded_sourcestone_basketweave_slab minecraft:crafting_shaped
+ars_nouveau:smooth_gilded_sourcestone_basketweave_stairs | minecraft:crafting_shaped | ars_nouveau:smooth_gilded_sourcestone_basketweave ars_nouveau:smooth_gilded_sourcestone_basketweave_stairs minecraft:crafting_shaped
+ars_nouveau:smooth_gilded_sourcestone_basketweave_stone_cutterslab | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_basketweave ars_nouveau:smooth_gilded_sourcestone_basketweave_slab minecraft:stonecutting
+ars_nouveau:smooth_gilded_sourcestone_basketweave_stonecutter_stair | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_basketweave ars_nouveau:smooth_gilded_sourcestone_basketweave_stairs minecraft:stonecutting
+ars_nouveau:smooth_gilded_sourcestone_basketweave_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:smooth_gilded_sourcestone_basketweave ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:smooth_gilded_sourcestone_large_bricks_slab | minecraft:crafting_shaped | ars_nouveau:smooth_gilded_sourcestone_large_bricks ars_nouveau:smooth_gilded_sourcestone_large_bricks_slab minecraft:crafting_shaped
+ars_nouveau:smooth_gilded_sourcestone_large_bricks_stairs | minecraft:crafting_shaped | ars_nouveau:smooth_gilded_sourcestone_large_bricks ars_nouveau:smooth_gilded_sourcestone_large_bricks_stairs minecraft:crafting_shaped
+ars_nouveau:smooth_gilded_sourcestone_large_bricks_stone_cutterslab | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_large_bricks ars_nouveau:smooth_gilded_sourcestone_large_bricks_slab minecraft:stonecutting
+ars_nouveau:smooth_gilded_sourcestone_large_bricks_stonecutter_stair | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_large_bricks ars_nouveau:smooth_gilded_sourcestone_large_bricks_stairs minecraft:stonecutting
+ars_nouveau:smooth_gilded_sourcestone_large_bricks_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:smooth_gilded_sourcestone_large_bricks ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:smooth_gilded_sourcestone_mosaic_slab | minecraft:crafting_shaped | ars_nouveau:smooth_gilded_sourcestone_mosaic ars_nouveau:smooth_gilded_sourcestone_mosaic_slab minecraft:crafting_shaped
+ars_nouveau:smooth_gilded_sourcestone_mosaic_stairs | minecraft:crafting_shaped | ars_nouveau:smooth_gilded_sourcestone_mosaic ars_nouveau:smooth_gilded_sourcestone_mosaic_stairs minecraft:crafting_shaped
+ars_nouveau:smooth_gilded_sourcestone_mosaic_stone_cutterslab | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_mosaic ars_nouveau:smooth_gilded_sourcestone_mosaic_slab minecraft:stonecutting
+ars_nouveau:smooth_gilded_sourcestone_mosaic_stonecutter_stair | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_mosaic ars_nouveau:smooth_gilded_sourcestone_mosaic_stairs minecraft:stonecutting
+ars_nouveau:smooth_gilded_sourcestone_mosaic_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:smooth_gilded_sourcestone_mosaic ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:smooth_gilded_sourcestone_small_bricks_slab | minecraft:crafting_shaped | ars_nouveau:smooth_gilded_sourcestone_small_bricks ars_nouveau:smooth_gilded_sourcestone_small_bricks_slab minecraft:crafting_shaped
+ars_nouveau:smooth_gilded_sourcestone_small_bricks_stairs | minecraft:crafting_shaped | ars_nouveau:smooth_gilded_sourcestone_small_bricks ars_nouveau:smooth_gilded_sourcestone_small_bricks_stairs minecraft:crafting_shaped
+ars_nouveau:smooth_gilded_sourcestone_small_bricks_stone_cutterslab | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_small_bricks ars_nouveau:smooth_gilded_sourcestone_small_bricks_slab minecraft:stonecutting
+ars_nouveau:smooth_gilded_sourcestone_small_bricks_stonecutter_stair | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_small_bricks ars_nouveau:smooth_gilded_sourcestone_small_bricks_stairs minecraft:stonecutting
+ars_nouveau:smooth_gilded_sourcestone_small_bricks_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:smooth_gilded_sourcestone_small_bricks ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:smooth_sourcestone_alternating_slab | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone_alternating ars_nouveau:smooth_sourcestone_alternating_slab minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_alternating_stairs | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone_alternating ars_nouveau:smooth_sourcestone_alternating_stairs minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_alternating_stone_cutterslab | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_alternating ars_nouveau:smooth_sourcestone_alternating_slab minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_alternating_stonecutter_stair | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_alternating ars_nouveau:smooth_sourcestone_alternating_stairs minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_alternating_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:smooth_sourcestone_alternating ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:smooth_sourcestone_basketweave_slab | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone_basketweave ars_nouveau:smooth_sourcestone_basketweave_slab minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_basketweave_stairs | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone_basketweave ars_nouveau:smooth_sourcestone_basketweave_stairs minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_basketweave_stone_cutterslab | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_basketweave ars_nouveau:smooth_sourcestone_basketweave_slab minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_basketweave_stonecutter_stair | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_basketweave ars_nouveau:smooth_sourcestone_basketweave_stairs minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_basketweave_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:smooth_sourcestone_basketweave ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:smooth_sourcestone_grate | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone ars_nouveau:smooth_sourcestone_grate minecraft:crafting_shaped minecraft:iron_bars
+ars_nouveau:smooth_sourcestone_large_bricks_slab | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone_large_bricks ars_nouveau:smooth_sourcestone_large_bricks_slab minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_large_bricks_stairs | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone_large_bricks ars_nouveau:smooth_sourcestone_large_bricks_stairs minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_large_bricks_stone_cutterslab | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_large_bricks ars_nouveau:smooth_sourcestone_large_bricks_slab minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_large_bricks_stonecutter_stair | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_large_bricks ars_nouveau:smooth_sourcestone_large_bricks_stairs minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_large_bricks_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:smooth_sourcestone_large_bricks ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:smooth_sourcestone_mosaic_slab | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone_mosaic ars_nouveau:smooth_sourcestone_mosaic_slab minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_mosaic_stairs | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone_mosaic ars_nouveau:smooth_sourcestone_mosaic_stairs minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_mosaic_stone_cutterslab | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_mosaic ars_nouveau:smooth_sourcestone_mosaic_slab minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_mosaic_stonecutter_stair | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_mosaic ars_nouveau:smooth_sourcestone_mosaic_stairs minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_mosaic_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:smooth_sourcestone_mosaic ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:smooth_sourcestone_slab | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone ars_nouveau:smooth_sourcestone_slab minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_small_bricks_slab | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone_small_bricks ars_nouveau:smooth_sourcestone_small_bricks_slab minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_small_bricks_stairs | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone_small_bricks ars_nouveau:smooth_sourcestone_small_bricks_stairs minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_small_bricks_stone_cutterslab | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_small_bricks ars_nouveau:smooth_sourcestone_small_bricks_slab minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_small_bricks_stonecutter_stair | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_small_bricks ars_nouveau:smooth_sourcestone_small_bricks_stairs minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_small_bricks_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:smooth_sourcestone_small_bricks ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:smooth_sourcestone_stairs | minecraft:crafting_shaped | ars_nouveau:smooth_sourcestone ars_nouveau:smooth_sourcestone_stairs minecraft:crafting_shaped
+ars_nouveau:smooth_sourcestone_stone_cutterslab | minecraft:stonecutting | ars_nouveau:smooth_sourcestone ars_nouveau:smooth_sourcestone_slab minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_stonecutter_stair | minecraft:stonecutting | ars_nouveau:smooth_sourcestone ars_nouveau:smooth_sourcestone_stairs minecraft:stonecutting
+ars_nouveau:smooth_sourcestone_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:smooth_sourcestone ars_nouveau:sourcestone minecraft:crafting_shapeless
+ars_nouveau:sorcerer_boots | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber ars_nouveau:sorcerer_boots minecraft:golden_boots
+ars_nouveau:sorcerer_hood | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber ars_nouveau:sorcerer_hood minecraft:golden_helmet
+ars_nouveau:sorcerer_leggings | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber ars_nouveau:sorcerer_leggings minecraft:golden_leggings
+ars_nouveau:sorcerer_robes | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber ars_nouveau:sorcerer_robes minecraft:golden_chestplate
+ars_nouveau:source_berry_pie | minecraft:crafting_shapeless | ars_nouveau:magebloom ars_nouveau:source_berry_pie ars_nouveau:sourceberry_bush minecraft:crafting_shapeless minecraft:egg minecraft:sugar
+ars_nouveau:source_berry_roll | minecraft:crafting_shapeless | ars_nouveau:source_berry_roll ars_nouveau:sourceberry_bush minecraft:crafting_shapeless minecraft:wheat
+ars_nouveau:source_gem_block | minecraft:crafting_shaped | ars_nouveau:source_gem_block c:gems/source minecraft:crafting_shaped
+ars_nouveau:source_gem_block_2 | minecraft:crafting_shapeless | ars_nouveau:source_gem ars_nouveau:source_gem_block minecraft:crafting_shapeless
+ars_nouveau:source_jar | minecraft:crafting_shaped | ars_nouveau:archwood_slab ars_nouveau:source_jar c:glass_blocks minecraft:crafting_shaped
+ars_nouveau:source_lamp | minecraft:crafting_shaped | ars_nouveau:source_lamp c:dusts/redstone c:gems/source c:rods/blaze minecraft:crafting_shaped
+ars_nouveau:sourceberry_sack | minecraft:crafting_shapeless | ars_nouveau:sourceberry_bush ars_nouveau:sourceberry_sack minecraft:crafting_shapeless
+ars_nouveau:sourceberry_sack_to_bush | minecraft:crafting_shapeless | ars_nouveau:sourceberry_bush ars_nouveau:sourceberry_sack minecraft:crafting_shapeless
+ars_nouveau:sourceberry_to_purple | minecraft:crafting_shapeless | ars_nouveau:sourceberry_bush minecraft:crafting_shapeless minecraft:purple_dye
+ars_nouveau:sourcestone | minecraft:crafting_shaped | ars_nouveau:sourcestone c:gems/source c:stones minecraft:crafting_shaped
+ars_nouveau:sourcestone_1 | minecraft:stonecutting | ars_nouveau:sourcestone ars_nouveau:sourcestone_mosaic minecraft:stonecutting
+ars_nouveau:sourcestone_10 | minecraft:stonecutting | ars_nouveau:smooth_sourcestone ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_11 | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_small_bricks ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_12 | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_mosaic ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_13 | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_basketweave ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_14 | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_alternating ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_15 | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_large_bricks ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_16 | minecraft:stonecutting | ars_nouveau:gilded_sourcestone_small_bricks ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_17 | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_mosaic ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_18 | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_basketweave ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_19 | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_alternating ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_2 | minecraft:stonecutting | ars_nouveau:sourcestone ars_nouveau:sourcestone_basketweave minecraft:stonecutting
+ars_nouveau:sourcestone_20 | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_large_bricks ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_21 | minecraft:stonecutting | ars_nouveau:smooth_gilded_sourcestone_small_bricks ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_3 | minecraft:stonecutting | ars_nouveau:sourcestone ars_nouveau:sourcestone_alternating minecraft:stonecutting
+ars_nouveau:sourcestone_4 | minecraft:stonecutting | ars_nouveau:sourcestone ars_nouveau:sourcestone_large_bricks minecraft:stonecutting
+ars_nouveau:sourcestone_5 | minecraft:stonecutting | ars_nouveau:sourcestone ars_nouveau:sourcestone_small_bricks minecraft:stonecutting
+ars_nouveau:sourcestone_6 | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_basketweave ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_7 | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_mosaic ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_8 | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_alternating ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_9 | minecraft:stonecutting | ars_nouveau:smooth_sourcestone_large_bricks ars_nouveau:sourcestone minecraft:stonecutting
+ars_nouveau:sourcestone_alternating_slab | minecraft:crafting_shaped | ars_nouveau:sourcestone_alternating ars_nouveau:sourcestone_alternating_slab minecraft:crafting_shaped
+ars_nouveau:sourcestone_alternating_stairs | minecraft:crafting_shaped | ars_nouveau:sourcestone_alternating ars_nouveau:sourcestone_alternating_stairs minecraft:crafting_shaped
+ars_nouveau:sourcestone_alternating_stone_cutterslab | minecraft:stonecutting | ars_nouveau:sourcestone_alternating ars_nouveau:sourcestone_alternating_slab minecraft:stonecutting
+ars_nouveau:sourcestone_alternating_stonecutter_stair | minecraft:stonecutting | ars_nouveau:sourcestone_alternating ars_nouveau:sourcestone_alternating_stairs minecraft:stonecutting
+ars_nouveau:sourcestone_alternating_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:sourcestone ars_nouveau:sourcestone_alternating minecraft:crafting_shapeless
+ars_nouveau:sourcestone_basketweave_slab | minecraft:crafting_shaped | ars_nouveau:sourcestone_basketweave ars_nouveau:sourcestone_basketweave_slab minecraft:crafting_shaped
+ars_nouveau:sourcestone_basketweave_stairs | minecraft:crafting_shaped | ars_nouveau:sourcestone_basketweave ars_nouveau:sourcestone_basketweave_stairs minecraft:crafting_shaped
+ars_nouveau:sourcestone_basketweave_stone_cutterslab | minecraft:stonecutting | ars_nouveau:sourcestone_basketweave ars_nouveau:sourcestone_basketweave_slab minecraft:stonecutting
+ars_nouveau:sourcestone_basketweave_stonecutter_stair | minecraft:stonecutting | ars_nouveau:sourcestone_basketweave ars_nouveau:sourcestone_basketweave_stairs minecraft:stonecutting
+ars_nouveau:sourcestone_basketweave_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:sourcestone ars_nouveau:sourcestone_basketweave minecraft:crafting_shapeless
+ars_nouveau:sourcestone_grate | minecraft:crafting_shaped | ars_nouveau:sourcestone ars_nouveau:sourcestone_grate minecraft:crafting_shaped minecraft:iron_bars
+ars_nouveau:sourcestone_large_bricks_slab | minecraft:crafting_shaped | ars_nouveau:sourcestone_large_bricks ars_nouveau:sourcestone_large_bricks_slab minecraft:crafting_shaped
+ars_nouveau:sourcestone_large_bricks_stairs | minecraft:crafting_shaped | ars_nouveau:sourcestone_large_bricks ars_nouveau:sourcestone_large_bricks_stairs minecraft:crafting_shaped
+ars_nouveau:sourcestone_large_bricks_stone_cutterslab | minecraft:stonecutting | ars_nouveau:sourcestone_large_bricks ars_nouveau:sourcestone_large_bricks_slab minecraft:stonecutting
+ars_nouveau:sourcestone_large_bricks_stonecutter_stair | minecraft:stonecutting | ars_nouveau:sourcestone_large_bricks ars_nouveau:sourcestone_large_bricks_stairs minecraft:stonecutting
+ars_nouveau:sourcestone_large_bricks_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:sourcestone ars_nouveau:sourcestone_large_bricks minecraft:crafting_shapeless
+ars_nouveau:sourcestone_mosaic_slab | minecraft:crafting_shaped | ars_nouveau:sourcestone_mosaic ars_nouveau:sourcestone_mosaic_slab minecraft:crafting_shaped
+ars_nouveau:sourcestone_mosaic_stairs | minecraft:crafting_shaped | ars_nouveau:sourcestone_mosaic ars_nouveau:sourcestone_mosaic_stairs minecraft:crafting_shaped
+ars_nouveau:sourcestone_mosaic_stone_cutterslab | minecraft:stonecutting | ars_nouveau:sourcestone_mosaic ars_nouveau:sourcestone_mosaic_slab minecraft:stonecutting
+ars_nouveau:sourcestone_mosaic_stonecutter_stair | minecraft:stonecutting | ars_nouveau:sourcestone_mosaic ars_nouveau:sourcestone_mosaic_stairs minecraft:stonecutting
+ars_nouveau:sourcestone_mosaic_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:sourcestone ars_nouveau:sourcestone_mosaic minecraft:crafting_shapeless
+ars_nouveau:sourcestone_sconce | minecraft:crafting_shapeless | ars_nouveau:sourcestone ars_nouveau:sourcestone_sconce c:gems/source minecraft:crafting_shapeless
+ars_nouveau:sourcestone_slab | minecraft:crafting_shaped | ars_nouveau:sourcestone ars_nouveau:sourcestone_slab minecraft:crafting_shaped
+ars_nouveau:sourcestone_small_bricks_slab | minecraft:crafting_shaped | ars_nouveau:sourcestone_small_bricks ars_nouveau:sourcestone_small_bricks_slab minecraft:crafting_shaped
+ars_nouveau:sourcestone_small_bricks_stairs | minecraft:crafting_shaped | ars_nouveau:sourcestone_small_bricks ars_nouveau:sourcestone_small_bricks_stairs minecraft:crafting_shaped
+ars_nouveau:sourcestone_small_bricks_stone_cutterslab | minecraft:stonecutting | ars_nouveau:sourcestone_small_bricks ars_nouveau:sourcestone_small_bricks_slab minecraft:stonecutting
+ars_nouveau:sourcestone_small_bricks_stonecutter_stair | minecraft:stonecutting | ars_nouveau:sourcestone_small_bricks ars_nouveau:sourcestone_small_bricks_stairs minecraft:stonecutting
+ars_nouveau:sourcestone_small_bricks_to_sourcestone | minecraft:crafting_shapeless | ars_nouveau:sourcestone ars_nouveau:sourcestone_small_bricks minecraft:crafting_shapeless
+ars_nouveau:sourcestone_stairs | minecraft:crafting_shaped | ars_nouveau:sourcestone ars_nouveau:sourcestone_stairs minecraft:crafting_shaped
+ars_nouveau:sourcestone_stone_cutterslab | minecraft:stonecutting | ars_nouveau:sourcestone ars_nouveau:sourcestone_slab minecraft:stonecutting
+ars_nouveau:sourcestone_stonecutter_stair | minecraft:stonecutting | ars_nouveau:sourcestone ars_nouveau:sourcestone_stairs minecraft:stonecutting
+ars_nouveau:spell_bow | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:manipulation_essence ars_nouveau:spell_bow c:storage_blocks/gold c:storage_blocks/source minecraft:bow
+ars_nouveau:spell_crossbow | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:manipulation_essence ars_nouveau:spell_crossbow c:storage_blocks/gold c:storage_blocks/source minecraft:crossbow
+ars_nouveau:spell_prism | minecraft:crafting_shaped | ars_nouveau:archwood_planks ars_nouveau:spell_prism c:ingots/gold c:storage_blocks/quartz minecraft:crafting_shaped
+ars_nouveau:spell_sensor | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:spell_sensor minecraft:sculk_sensor
+ars_nouveau:spell_turret | ars_nouveau:enchanting_apparatus | ars_nouveau:basic_spell_turret ars_nouveau:enchanting_apparatus ars_nouveau:spell_turret c:rods/blaze c:storage_blocks/source
+ars_nouveau:spell_write | ars_nouveau:spell_write | ars_nouveau:spell_parchment ars_nouveau:spell_write
+ars_nouveau:spike_to_arrow | minecraft:crafting_shaped | ars_nouveau:wilden_spike minecraft:arrow minecraft:crafting_shaped minecraft:feather minecraft:stick
+ars_nouveau:spike_to_dye | minecraft:crafting_shapeless | ars_nouveau:wilden_spike minecraft:crafting_shapeless minecraft:orange_dye
+ars_nouveau:splash_flask_cannon | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:splash_flask_cannon c:gunpowders c:ingots/gold c:rods/blaze minecraft:dispenser
+ars_nouveau:stable_warp_scroll | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:stable_warp_scroll ars_nouveau:warp_scroll c:ender_pearls minecraft:blaze_powder
+ars_nouveau:starbuncle_charm | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:starbuncle_charm ars_nouveau:starbuncle_shards c:ingots/gold
+ars_nouveau:starbuncle_shades | minecraft:crafting_shaped | ars_nouveau:source_gem ars_nouveau:starbuncle_shades minecraft:crafting_shaped minecraft:tinted_glass
+ars_nouveau:stone | ars_nouveau:crush | ars_nouveau:crush c:stones minecraft:gravel
+ars_nouveau:storage_lectern | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:storage_lectern c:chests minecraft:lectern
+ars_nouveau:stripped_blue_archwood_wood | minecraft:crafting_shaped | ars_nouveau:stripped_blue_archwood_log ars_nouveau:stripped_blue_archwood_wood minecraft:crafting_shaped
+ars_nouveau:stripped_green_archwood_wood | minecraft:crafting_shaped | ars_nouveau:stripped_green_archwood_log ars_nouveau:stripped_green_archwood_wood minecraft:crafting_shaped
+ars_nouveau:stripped_purple_archwood_wood | minecraft:crafting_shaped | ars_nouveau:stripped_purple_archwood_log ars_nouveau:stripped_purple_archwood_wood minecraft:crafting_shaped
+ars_nouveau:stripped_red_archwood_wood | minecraft:crafting_shaped | ars_nouveau:stripped_red_archwood_log ars_nouveau:stripped_red_archwood_wood minecraft:crafting_shaped
+ars_nouveau:sugar_cane | ars_nouveau:crush | ars_nouveau:crush minecraft:sugar minecraft:sugar_cane
+ars_nouveau:summon_focus | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:summon_focus ars_nouveau:wilden_horn ars_nouveau:wilden_spike ars_nouveau:wilden_tribute ars_nouveau:wilden_wing c:ingots/gold c:storage_blocks/source
+ars_nouveau:summon_ritual/bats | ars_nouveau:summon_ritual | ars_nouveau:summon_ritual minecraft:amethyst_shard minecraft:bat
+ars_nouveau:sunrise_2 | minecraft:crafting_shapeless | ars_nouveau:red_archwood_log ars_nouveau:ritual_sunrise minecraft:crafting_shapeless minecraft:sunflower
+ars_nouveau:sweeping_edge_1 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:sweeping_edge
+ars_nouveau:sweeping_edge_2 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:sweeping_edge
+ars_nouveau:sweeping_edge_3 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:manipulation_essence c:storage_blocks/lapis c:storage_blocks/source minecraft:sweeping_edge
+ars_nouveau:terracotta | ars_nouveau:crush | ars_nouveau:crush minecraft:red_sand minecraft:terracotta
+ars_nouveau:thorns_1 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:wilden_spike c:storage_blocks/lapis c:storage_blocks/source minecraft:thorns
+ars_nouveau:thorns_2 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:wilden_spike c:storage_blocks/lapis c:storage_blocks/source minecraft:thorns
+ars_nouveau:thorns_3 | ars_nouveau:enchantment | ars_nouveau:enchantment ars_nouveau:wilden_spike c:storage_blocks/lapis c:storage_blocks/source minecraft:thorns
+ars_nouveau:thread_amethyst_golem | ars_nouveau:enchanting_apparatus | ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:thread_amethyst_golem c:obsidians
+ars_nouveau:thread_chilling | ars_nouveau:enchanting_apparatus | ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:thread_chilling ars_nouveau:water_essence minecraft:blue_ice minecraft:powder_snow_bucket
+ars_nouveau:thread_depths | ars_nouveau:enchanting_apparatus | ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:thread_depths ars_nouveau:water_essence minecraft:fishes minecraft:pufferfish
+ars_nouveau:thread_drygmy | ars_nouveau:enchanting_apparatus | ars_nouveau:blank_thread ars_nouveau:drygmy_shard ars_nouveau:earth_essence ars_nouveau:enchanting_apparatus ars_nouveau:thread_drygmy minecraft:rabbit_foot
+ars_nouveau:thread_feather | ars_nouveau:enchanting_apparatus | ars_nouveau:abjuration_essence ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:thread_feather c:feathers
+ars_nouveau:thread_gliding | ars_nouveau:enchanting_apparatus | ars_nouveau:air_essence ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:thread_gliding minecraft:elytra
+ars_nouveau:thread_heights | ars_nouveau:enchanting_apparatus | ars_nouveau:air_essence ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:thread_heights minecraft:rabbit_hide minecraft:spider_eye
+ars_nouveau:thread_high_step | ars_nouveau:enchanting_apparatus | ars_nouveau:air_essence ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:thread_high_step
+ars_nouveau:thread_immolation | ars_nouveau:enchanting_apparatus | ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:fire_essence ars_nouveau:thread_immolation
+ars_nouveau:thread_kindling | ars_nouveau:enchanting_apparatus | ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:fire_essence ars_nouveau:thread_kindling minecraft:fire_charge minecraft:magma_cream
+ars_nouveau:thread_life_drain | ars_nouveau:enchanting_apparatus | ars_nouveau:abjuration_essence ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:mendosteen_pod ars_nouveau:thread_life_drain minecraft:sculk_catalyst
+ars_nouveau:thread_magic_capacity | ars_nouveau:enchanting_apparatus | ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:magebloom ars_nouveau:sourceberry_bush ars_nouveau:thread_magic_capacity
+ars_nouveau:thread_repairing | ars_nouveau:enchanting_apparatus | ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:manipulation_essence ars_nouveau:thread_repairing minecraft:anvil
+ars_nouveau:thread_spellpower | ars_nouveau:enchanting_apparatus | ars_nouveau:abjuration_essence ars_nouveau:air_essence ars_nouveau:blank_thread ars_nouveau:conjuration_essence ars_nouveau:earth_essence ars_nouveau:enchanting_apparatus ars_nouveau:fire_essence ars_nouveau:magebloom ars_nouveau:manipulation_essence ars_nouveau:thread_spellpower ars_nouveau:water_essence
+ars_nouveau:thread_starbuncle | ars_nouveau:enchanting_apparatus | ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:manipulation_essence ars_nouveau:starbuncle_shards ars_nouveau:thread_starbuncle minecraft:sugar
+ars_nouveau:thread_undying | ars_nouveau:enchanting_apparatus | ars_nouveau:abjuration_essence ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:thread_undying minecraft:phantom_membrane minecraft:totem_of_undying
+ars_nouveau:thread_warding | ars_nouveau:enchanting_apparatus | ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:magebloom_fiber ars_nouveau:thread_warding
+ars_nouveau:thread_whirlisprig | ars_nouveau:enchanting_apparatus | ars_nouveau:blank_thread ars_nouveau:earth_essence ars_nouveau:enchanting_apparatus ars_nouveau:thread_whirlisprig ars_nouveau:whirlisprig_shards minecraft:golden_apple
+ars_nouveau:thread_wixie | ars_nouveau:enchanting_apparatus | ars_nouveau:abjuration_essence ars_nouveau:blank_thread ars_nouveau:enchanting_apparatus ars_nouveau:thread_wixie ars_nouveau:wixie_shards c:crops/nether_wart minecraft:blaze_rod
+ars_nouveau:timer_spell_turret | ars_nouveau:enchanting_apparatus | ars_nouveau:basic_spell_turret ars_nouveau:enchanting_apparatus ars_nouveau:timer_spell_turret minecraft:clock
+ars_nouveau:tomes/alex_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:glyph_amplify ars_nouveau:glyph_aoe ars_nouveau:glyph_burst ars_nouveau:glyph_dampen ars_nouveau:glyph_phantom_block ars_nouveau:glyph_pierce ars_nouveau:glyph_self ars_nouveau:glyph_sensitive ars_nouveau:rainbow ars_nouveau:tempestry_family
+ars_nouveau:tomes/arachne_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_extend_time ars_nouveau:glyph_projectile ars_nouveau:glyph_snare ars_nouveau:glyph_split
+ars_nouveau:tomes/aurellia_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_extend_time ars_nouveau:glyph_fangs ars_nouveau:glyph_lightning ars_nouveau:glyph_linger ars_nouveau:glyph_projectile ars_nouveau:glyph_sensitive ars_nouveau:tempestry_family
+ars_nouveau:tomes/bailey_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_delay ars_nouveau:glyph_explosion ars_nouveau:glyph_launch ars_nouveau:glyph_projectile
+ars_nouveau:tomes/beepsterr_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:gaia_family ars_nouveau:glyph_aoe ars_nouveau:glyph_extend_time ars_nouveau:glyph_grow ars_nouveau:glyph_orbit ars_nouveau:glyph_projectile ars_nouveau:glyph_sensitive ars_nouveau:glyph_split
+ars_nouveau:tomes/bugcolez_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_extend_time ars_nouveau:glyph_self ars_nouveau:glyph_summon_vex
+ars_nouveau:tomes/chems_tome | ars_nouveau:caster_tome | ars_nouveau:big_gust ars_nouveau:burst ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:delay ars_nouveau:dripping_water ars_nouveau:empty ars_nouveau:glow_ink ars_nouveau:glyph_launch ars_nouveau:glyph_linger ars_nouveau:glyph_projectile ars_nouveau:glyph_rune ars_nouveau:glyph_sensitive ars_nouveau:light ars_nouveau:linger ars_nouveau:mageblock ars_nouveau:new_glow ars_nouveau:ominous_spawning ars_nouveau:orbit ars_nouveau:pantomime ars_nouveau:pointed_dripstone_drip_lava ars_nouveau:pointed_dripstone_drip_water ars_nouveau:prestidigitation ars_nouveau:projectile ars_nouveau:rune ars_nouveau:tempestry_family ars_nouveau:trail ars_nouveau:upward_field ars_nouveau:warped_spore ars_nouveau:wind_charge_burst ars_nouveau:zigzag
+ars_nouveau:tomes/chosenarchitect_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:gaia_family ars_nouveau:glyph_accelerate ars_nouveau:glyph_amplify ars_nouveau:glyph_exchange ars_nouveau:glyph_pickup ars_nouveau:glyph_projectile ars_nouveau:glyph_randomize
+ars_nouveau:tomes/cocoaeyebrows_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_aoe ars_nouveau:glyph_break ars_nouveau:glyph_dampen ars_nouveau:glyph_pierce ars_nouveau:glyph_touch
+ars_nouveau:tomes/crowdrone_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_extend_time ars_nouveau:glyph_light ars_nouveau:glyph_self ars_nouveau:glyph_sense_magic
+ars_nouveau:tomes/darkfira_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_aoe ars_nouveau:glyph_burst ars_nouveau:glyph_conjure_water ars_nouveau:glyph_freeze ars_nouveau:glyph_lightning ars_nouveau:glyph_projectile ars_nouveau:glyph_sensitive ars_nouveau:tempestry_family
+ars_nouveau:tomes/farfalla_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_conjure_water ars_nouveau:glyph_delay ars_nouveau:glyph_freeze ars_nouveau:glyph_ignite ars_nouveau:glyph_projectile
+ars_nouveau:tomes/fireball_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_aoe ars_nouveau:glyph_explosion ars_nouveau:glyph_ignite ars_nouveau:glyph_projectile
+ars_nouveau:tomes/frantastic_tome | ars_nouveau:caster_tome | ars_nouveau:bell_block ars_nouveau:burst ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:electric_spark ars_nouveau:empty ars_nouveau:end_portal_frame_fill ars_nouveau:glyph_lightning ars_nouveau:glyph_linger ars_nouveau:glyph_orbit ars_nouveau:glyph_projectile ars_nouveau:glyph_summon_decoy ars_nouveau:linger ars_nouveau:new_glow ars_nouveau:orbit ars_nouveau:projectile ars_nouveau:trail
+ars_nouveau:tomes/glow_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_extend_time ars_nouveau:glyph_light ars_nouveau:glyph_rune ars_nouveau:glyph_snare ars_nouveau:glyph_touch
+ars_nouveau:tomes/gootastic_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_delay ars_nouveau:glyph_launch ars_nouveau:glyph_projectile ars_nouveau:glyph_pull
+ars_nouveau:tomes/ivy_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_animate_block ars_nouveau:glyph_extend_time ars_nouveau:glyph_name ars_nouveau:glyph_touch
+ars_nouveau:tomes/kirin_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_blink ars_nouveau:glyph_self ars_nouveau:glyph_summon_decoy
+ars_nouveau:tomes/lootz_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_explosion ars_nouveau:glyph_extend_time ars_nouveau:glyph_firework ars_nouveau:glyph_harm ars_nouveau:glyph_launch ars_nouveau:glyph_projectile
+ars_nouveau:tomes/lufia_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_aoe ars_nouveau:glyph_intangible ars_nouveau:glyph_pierce ars_nouveau:glyph_projectile ars_nouveau:glyph_sensitive ars_nouveau:tempestry_family
+ars_nouveau:tomes/lyrellion_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_accelerate ars_nouveau:glyph_amplify ars_nouveau:glyph_phantom_block ars_nouveau:glyph_pierce ars_nouveau:glyph_projectile ars_nouveau:glyph_sensitive ars_nouveau:glyph_wall
+ars_nouveau:tomes/mystifi_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:fire_family_2 ars_nouveau:glyph_extend_time ars_nouveau:glyph_intangible ars_nouveau:glyph_linger ars_nouveau:glyph_pierce ars_nouveau:glyph_sensitive ars_nouveau:glyph_underfoot
+ars_nouveau:tomes/nikk_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_aoe ars_nouveau:glyph_blink ars_nouveau:glyph_harm ars_nouveau:glyph_hex ars_nouveau:glyph_pickup ars_nouveau:glyph_projectile
+ars_nouveau:tomes/othy_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_blink ars_nouveau:glyph_extend_time ars_nouveau:glyph_self ars_nouveau:glyph_summon_decoy
+ars_nouveau:tomes/plauged757_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:gaia_family ars_nouveau:glyph_amplify ars_nouveau:glyph_aoe ars_nouveau:glyph_explosion ars_nouveau:glyph_self
+ars_nouveau:tomes/poseidon_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_aoe ars_nouveau:glyph_break ars_nouveau:glyph_burst ars_nouveau:glyph_freeze ars_nouveau:glyph_light ars_nouveau:glyph_projectile ars_nouveau:glyph_sensitive ars_nouveau:tempestry_family
+ars_nouveau:tomes/pranks_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_delay ars_nouveau:glyph_duration_down ars_nouveau:glyph_firework ars_nouveau:glyph_launch ars_nouveau:glyph_linger ars_nouveau:glyph_projectile ars_nouveau:glyph_summon_vex ars_nouveau:glyph_wind_shear
+ars_nouveau:tomes/renew_rune_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_dispel ars_nouveau:glyph_heal ars_nouveau:glyph_rune ars_nouveau:glyph_touch
+ars_nouveau:tomes/riftderp_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_accelerate ars_nouveau:glyph_blink ars_nouveau:glyph_harm ars_nouveau:glyph_projectile
+ars_nouveau:tomes/sebuss_tome | ars_nouveau:caster_tome | ars_nouveau:burst ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:empty ars_nouveau:enchant ars_nouveau:fire_family_2 ars_nouveau:flame ars_nouveau:glyph_aoe ars_nouveau:glyph_ignite ars_nouveau:glyph_projectile ars_nouveau:glyph_sensitive ars_nouveau:glyph_smelt ars_nouveau:helix ars_nouveau:light ars_nouveau:mageblock ars_nouveau:new_glow ars_nouveau:projectile ars_nouveau:touch ars_nouveau:wololo
+ars_nouveau:tomes/shadow_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_aoe ars_nouveau:glyph_extend_time ars_nouveau:glyph_intangible ars_nouveau:glyph_pierce ars_nouveau:glyph_touch
+ars_nouveau:tomes/shoob_tome | ars_nouveau:caster_tome | ars_nouveau:burst ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_aoe ars_nouveau:glyph_blink ars_nouveau:glyph_explosion ars_nouveau:glyph_extend_time ars_nouveau:glyph_invisibility ars_nouveau:glyph_self ars_nouveau:glyph_summon_decoy ars_nouveau:new_glow ars_nouveau:orbit ars_nouveau:self ars_nouveau:totem_use ars_nouveau:touch ars_nouveau:trail ars_nouveau:warped_spore
+ars_nouveau:tomes/silvanus_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_extend_time ars_nouveau:glyph_light ars_nouveau:glyph_touch
+ars_nouveau:tomes/sloppybox_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_pierce ars_nouveau:glyph_rune ars_nouveau:glyph_smelt ars_nouveau:glyph_touch
+ars_nouveau:tomes/spinoftw_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_aoe ars_nouveau:glyph_conjure_water ars_nouveau:glyph_heal ars_nouveau:glyph_phantom_block ars_nouveau:glyph_self
+ars_nouveau:tomes/takeoff_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_duration_down ars_nouveau:glyph_glide ars_nouveau:glyph_launch ars_nouveau:glyph_self
+ars_nouveau:tomes/toxin_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_extend_time ars_nouveau:glyph_harm ars_nouveau:glyph_hex ars_nouveau:glyph_projectile
+ars_nouveau:tomes/treeleafs_tome | ars_nouveau:caster_tome | ars_nouveau:allay_death ars_nouveau:burst ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:empty ars_nouveau:glow_squid ars_nouveau:glyph_aoe ars_nouveau:glyph_burst ars_nouveau:glyph_grow ars_nouveau:glyph_harvest ars_nouveau:glyph_pickup ars_nouveau:glyph_self ars_nouveau:glyph_sensitive ars_nouveau:new_glow ars_nouveau:projectile ars_nouveau:self ars_nouveau:trail
+ars_nouveau:tomes/uni_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_gust ars_nouveau:glyph_orbit ars_nouveau:glyph_self
+ars_nouveau:tomes/vault_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_delay ars_nouveau:glyph_launch ars_nouveau:glyph_leap ars_nouveau:glyph_self ars_nouveau:glyph_slowfall
+ars_nouveau:tomes/warp_impact_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_aoe ars_nouveau:glyph_blink ars_nouveau:glyph_explosion ars_nouveau:glyph_projectile
+ars_nouveau:tomes/worsecookie_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_hex ars_nouveau:glyph_rune ars_nouveau:glyph_touch ars_nouveau:glyph_wither
+ars_nouveau:tomes/xacris_2_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_aoe ars_nouveau:glyph_extend_time ars_nouveau:glyph_firework ars_nouveau:glyph_projectile ars_nouveau:glyph_sensitive ars_nouveau:glyph_wall
+ars_nouveau:tomes/xacris_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_aoe ars_nouveau:glyph_phantom_block ars_nouveau:glyph_pierce ars_nouveau:glyph_underfoot
+ars_nouveau:tomes/yeet_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_delay ars_nouveau:glyph_gust ars_nouveau:glyph_launch ars_nouveau:glyph_orbit ars_nouveau:glyph_self
+ars_nouveau:tomes/yuukiukami_tome | ars_nouveau:caster_tome | ars_nouveau:caster_tome ars_nouveau:constant ars_nouveau:glyph_amplify ars_nouveau:glyph_break ars_nouveau:glyph_extract ars_nouveau:glyph_pickup ars_nouveau:glyph_projectile
+ars_nouveau:unbreaking_1 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment c:gems/diamond c:storage_blocks/lapis c:storage_blocks/source minecraft:unbreaking
+ars_nouveau:unbreaking_2 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment c:gems/diamond c:storage_blocks/lapis c:storage_blocks/source minecraft:unbreaking
+ars_nouveau:unbreaking_3 | ars_nouveau:enchantment | ars_nouveau:abjuration_essence ars_nouveau:enchantment c:gems/diamond c:storage_blocks/lapis c:storage_blocks/source minecraft:unbreaking
+ars_nouveau:vitalic_sourcelink | minecraft:crafting_shaped | ars_nouveau:vitalic_sourcelink c:gems/source c:ingots/gold minecraft:crafting_shaped minecraft:glistering_melon_slice
+ars_nouveau:void_jar | ars_nouveau:enchanting_apparatus | ars_nouveau:allow_scroll ars_nouveau:enchanting_apparatus ars_nouveau:void_jar c:ender_pearls minecraft:bucket minecraft:glass_bottle minecraft:lava_bucket
+ars_nouveau:void_prism | minecraft:crafting_shaped | ars_nouveau:spell_prism ars_nouveau:void_prism c:obsidians minecraft:crafting_shaped
+ars_nouveau:volcanic_sourcelink | minecraft:crafting_shaped | ars_nouveau:volcanic_sourcelink c:gems/source c:ingots/gold minecraft:crafting_shaped minecraft:lava_bucket
+ars_nouveau:wand | ars_nouveau:enchanting_apparatus | ars_nouveau:air_essence ars_nouveau:enchanting_apparatus ars_nouveau:manipulation_essence ars_nouveau:wand c:gems/source c:ingots/gold c:logs/archwood
+ars_nouveau:warp_scroll | minecraft:crafting_shapeless | ars_nouveau:blank_parchment ars_nouveau:warp_scroll c:gems/lapis c:gems/source minecraft:crafting_shapeless
+ars_nouveau:warp_scroll_copy | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:warp_scroll
+ars_nouveau:water_essence_to_bucket | minecraft:crafting_shapeless | ars_nouveau:water_essence minecraft:bucket minecraft:crafting_shapeless minecraft:water_bucket
+ars_nouveau:water_essence_to_obsidian | minecraft:crafting_shapeless | ars_nouveau:water_essence minecraft:crafting_shapeless minecraft:lava_bucket minecraft:obsidian
+ars_nouveau:whirlisprig_charm | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:magebloom ars_nouveau:magebloom_crop ars_nouveau:whirlisprig_charm ars_nouveau:whirlisprig_shards c:gems/diamond c:gems/source c:seeds/wheat minecraft:birch_sapling minecraft:oak_sapling minecraft:spruce_sapling
+ars_nouveau:white_dye | ars_nouveau:crush | ars_nouveau:crush minecraft:lily_of_the_valley minecraft:white_dye
+ars_nouveau:wilden_summon_alt | minecraft:crafting_shapeless | ars_nouveau:purple_archwood_log ars_nouveau:ritual_wilden_summon minecraft:bow minecraft:crafting_shapeless minecraft:emerald_block minecraft:iron_sword minecraft:lapis_block
+ars_nouveau:wing_to_leather | minecraft:crafting_shapeless | ars_nouveau:wilden_wing minecraft:crafting_shapeless minecraft:leather
+ars_nouveau:wipe_spell_parchment | minecraft:crafting_shapeless | ars_nouveau:blank_parchment ars_nouveau:spell_parchment minecraft:crafting_shapeless
+ars_nouveau:wixie_charm | ars_nouveau:enchanting_apparatus | ars_nouveau:enchanting_apparatus ars_nouveau:wixie_charm ars_nouveau:wixie_shards c:gems/emerald minecraft:brewing_stand minecraft:crafting_table minecraft:saplings
+ars_nouveau:wixie_hat | minecraft:crafting_shaped | ars_nouveau:magebloom_fiber ars_nouveau:wixie_hat c:ingots/gold minecraft:crafting_shaped
+ars_nouveau:wololo | ars_nouveau:glyph | ars_nouveau:abjuration_essence ars_nouveau:glyph ars_nouveau:wololo c:dyes
+ars_nouveau:worn_notebook | minecraft:crafting_shapeless | ars_nouveau:worn_notebook c:gems/lapis minecraft:book minecraft:crafting_shapeless
+ars_nouveau:yellow_dye | ars_nouveau:crush | ars_nouveau:crush minecraft:dandelion minecraft:yellow_dye
+ars_nouveau:yellow_dye_sunflower | ars_nouveau:crush | ars_nouveau:crush minecraft:sunflower minecraft:yellow_dye
+ars_nouveau:yellow_sbed | minecraft:crafting_shapeless | ars_nouveau:summon_bed ars_nouveau:yellow_sbed c:dyes/yellow minecraft:crafting_shapeless

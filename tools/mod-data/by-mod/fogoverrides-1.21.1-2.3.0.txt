@@ -1,0 +1,23 @@
+# fogoverrides-1.21.1-2.3.0
+
+## mod metadata (id / version / deps)
+license = "LGPLv3"
+modId = "fogoverrides"
+version = "2.3.0"
+displayName = "Fog Overrides"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "neoforge"
+versionRange = "[21.1,]"
+modId = "architectury"
+versionRange = "[13,)"
+modId = "cloth_config"
+versionRange = "[15,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,1 @@
+aileron:chests/end_city_treasure_elytra_enchants | minecraft:chest | aileron:cloudskipper aileron:smokestack minecraft:book minecraft:chest minecraft:chests/end_city_treasure minecraft:empty minecraft:enchant_randomly minecraft:item

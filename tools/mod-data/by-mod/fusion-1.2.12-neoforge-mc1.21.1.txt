@@ -1,0 +1,19 @@
+# fusion-1.2.12-neoforge-mc1.21.1
+
+## mod metadata (id / version / deps)
+license = "All rights reserved" #mandatory
+modId = "fusion" #mandatory
+version = "1.2.12" #mandatory
+displayName = "Fusion" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.0.78-beta,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21,1.21.2)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

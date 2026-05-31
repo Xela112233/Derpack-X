@@ -1,0 +1,19 @@
+# shulkerboxtooltip-neoforge-5.1.9+1.21.1
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "shulkerboxtooltip"
+version = "5.1.9+1.21.1"
+displayName = "ShulkerBoxTooltip"
+modId = "neoforge"
+versionRange = "[20.6.0-beta,)"
+modId = "minecraft"
+versionRange = "[1.21.1,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

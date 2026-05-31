@@ -1,0 +1,572 @@
+s_a_b:badlandsbase | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dead_bush s_a_b:steelblockgrass s_a_b:steelblockgrassbadlands
+s_a_b:badlandsdouble | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dead_bush s_a_b:doublesteelblockgrass s_a_b:doublesteelblockgrassbadlands
+s_a_b:badlandshard | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dead_bush s_a_b:hardsteelblockgrass s_a_b:hardsteelblockgrassbadlands
+s_a_b:badlandslight | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dead_bush s_a_b:lightsteelblockgrass s_a_b:lightsteelblockgrassbadlands
+s_a_b:colonialbase | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:blacksteelblock s_a_b:colonialsteelblock s_a_b:olivesteelblock
+s_a_b:colonialdouble | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:blackdoublesteelblock s_a_b:colonialdoublesteelblock s_a_b:olivedoublesteel
+s_a_b:colonialhard | minecraft:crafting_shaped | minecraft:crafting_shaped s_a_b:blackhardsteelblock s_a_b:colonialhardsteelblock s_a_b:olivehardsteel
+s_a_b:coloniallight | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:blacklightsteelblock s_a_b:coloniallightsteelblock s_a_b:olivelightsteel
+s_a_b:dirtbase | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:dirt s_a_b:steelblock s_a_b:steelblockdirt
+s_a_b:dirtdouble | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:dirt s_a_b:doublesteelblock s_a_b:doublesteelblockdirt
+s_a_b:dirthard | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:dirt s_a_b:hardsteelblock s_a_b:hardsteelblockdirt
+s_a_b:dirtlight | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:dirt s_a_b:lightsteelblock s_a_b:lightsteelblockdirt
+s_a_b:glassarmor | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glass s_a_b:deleted_mod_element s_a_b:hardsteelblock
+s_a_b:grassbase | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:moss_block s_a_b:steelblock s_a_b:steelblockgrass
+s_a_b:grassdouble | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:moss_block s_a_b:doublesteelblock s_a_b:doublesteelblockgrass
+s_a_b:grasshard | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:moss_block s_a_b:hardsteelblock s_a_b:hardsteelblockgrass
+s_a_b:grasslight | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:moss_block s_a_b:lightsteelblock s_a_b:lightsteelblockgrass
+s_a_b:junglebase | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_sapling s_a_b:steelblockgrass s_a_b:steelblockgrassjungle
+s_a_b:jungledouble | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_sapling s_a_b:doublesteelblockgrass s_a_b:doublesteelblockgrassjungle
+s_a_b:junglehard | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_sapling s_a_b:hardsteelblockgrass s_a_b:hardsteelblockgrassjungle
+s_a_b:junglelight | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_sapling s_a_b:lightsteelblockgrass s_a_b:lightsteelblockgrassjungle
+s_a_b:lightskybase | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:steelblockcamosky s_a_b:steelblocklightsky s_a_b:whitesteelblock
+s_a_b:lightskydouble | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:doublesteelblockcamosky s_a_b:doublesteelblocklightsky s_a_b:whitedoublesteelblock
+s_a_b:lightskyhard | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:hardsteelblockcamosky s_a_b:hardsteelblocklightsky s_a_b:whitehardsteelblock
+s_a_b:lightskylight | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:lightsteelblockcamosky s_a_b:lightsteelblocklightsky s_a_b:whitelightsteelblock
+s_a_b:myceliumbase | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mycelium s_a_b:steelblock s_a_b:steelblockmycelium
+s_a_b:myceliumdouble | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mycelium s_a_b:doublesteelblock s_a_b:doublesteelblockmycelium
+s_a_b:myceliumhard | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mycelium s_a_b:hardsteelblock s_a_b:hardsteelblockmycelium
+s_a_b:myceliumlight | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mycelium s_a_b:lightsteelblock s_a_b:lightsteelblockmycelium
+s_a_b:olivedouble | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:limedoublesteelblock s_a_b:olivedoublesteel s_a_b:yellowdoublesteelblock
+s_a_b:olivehard | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:limehardsteelblock s_a_b:olivehardsteel s_a_b:yellowhardsteelblock
+s_a_b:olivelight | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:limelightsteelblock s_a_b:olivelightsteel s_a_b:yellowlightsteelblock
+s_a_b:olivesb | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:limesteelblock s_a_b:olivesteelblock s_a_b:yellowsteelblock
+s_a_b:podzolbase | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:podzol s_a_b:steelblock s_a_b:steelblockpodzol
+s_a_b:podzoldouble | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:podzol s_a_b:doublesteelblock s_a_b:doublesteelblockpodzol
+s_a_b:podzolhard | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:podzol s_a_b:hardsteelblock s_a_b:hardsteelblockpodzol
+s_a_b:podzollight | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:podzol s_a_b:lightsteelblock s_a_b:lightsteelblockpodzol
+s_a_b:psc | minecraft:crafting_shapeless | minecraft:candles minecraft:crafting_shapeless minecraft:paper s_a_b:puritysealsolo
+s_a_b:reddesertbase | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:red_sand s_a_b:steelblock s_a_b:steelblockcamoreddesert
+s_a_b:reddesertdouble | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_sand s_a_b:doublesteelblock s_a_b:doublesteelblockcamoreddesert
+s_a_b:reddeserthard | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:red_sand s_a_b:hardsteelblock s_a_b:hardsteelblockcamoreddesert
+s_a_b:reddesertlight | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:red_sand s_a_b:lightsteelblock s_a_b:lightsteelblockcamoreddesert
+s_a_b:sandbagrecipe | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:sand minecraft:white_carpet s_a_b:sandbag
+s_a_b:savannabase | minecraft:crafting_shaped | minecraft:acacia_sapling minecraft:crafting_shaped s_a_b:steelblockgrass s_a_b:steelblockgrasssvanna
+s_a_b:savannadouble | minecraft:crafting_shaped | minecraft:acacia_sapling minecraft:crafting_shaped s_a_b:doublesteelblockgrass s_a_b:doublesteelblockgrasssvanna
+s_a_b:savannahard | minecraft:crafting_shaped | minecraft:acacia_sapling minecraft:crafting_shaped s_a_b:hardsteelblockgrass s_a_b:hardsteelblockgrasssvanna
+s_a_b:savannalight | minecraft:crafting_shaped | minecraft:acacia_sapling minecraft:crafting_shaped s_a_b:lightsteelblockgrass s_a_b:lightsteelblockgrasssvanna
+s_a_b:skybase | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:lightbluesteelblock s_a_b:steelblockcamosky s_a_b:whitesteelblock
+s_a_b:skydouble | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:doublesteelblockcamosky s_a_b:lightbluedoublesteelblock s_a_b:whitedoublesteelblock
+s_a_b:skyhard | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:hardsteelblockcamosky s_a_b:lightbluehardsteelblock s_a_b:whitehardsteelblock
+s_a_b:skylight | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:lightbluelightsteelblock s_a_b:lightsteelblockcamosky s_a_b:whitelightsteelblock
+s_a_b:snowybase | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:snow_block s_a_b:steelblockgrass s_a_b:steelgrasssnowy
+s_a_b:snowydouble | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:snow_block s_a_b:doublesteelblockgrass s_a_b:doublesteelgrasssnowy
+s_a_b:snowyhard | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:snow_block s_a_b:hardsteelblockgrass s_a_b:hardsteelgrasssnowy
+s_a_b:snowylight | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:snow_block s_a_b:lightsteelblockgrass s_a_b:lightsteelgrasssnowy
+s_a_b:swampbase | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:vine s_a_b:steelblockgrass s_a_b:steelblockgrassswamp
+s_a_b:swampdouble | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:vine s_a_b:doublesteelblockgrass s_a_b:doublesteelblockgrassswamp
+s_a_b:swamphard | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:vine s_a_b:hardsteelblockgrass s_a_b:hardsteelblockgrassswamp
+s_a_b:swamplight | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:vine s_a_b:lightsteelblockgrass s_a_b:lightsteelblockgrassswamp
+s_a_b:taigabase | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_sapling s_a_b:steelblockgrass s_a_b:steelblockgrasstaiga
+s_a_b:taigadouble | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_sapling s_a_b:doublesteelblockgrass s_a_b:doublesteelblockgrasstaiga
+s_a_b:taigahard | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_sapling s_a_b:hardsteelblockgrass s_a_b:hardsteelblockgrasstaiga
+s_a_b:taigalight | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_sapling s_a_b:lightsteelblockgrass s_a_b:lightsteelblockgrasstaiga
+s_a_b:wadendouble | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:bluedoublesteelblock s_a_b:cyandoublesteelblock s_a_b:wardendoublesteelblock
+s_a_b:wardenbase | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:bluesteelblock s_a_b:cyansteelblock s_a_b:wardensteelblock
+s_a_b:wardenhard | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:bluehardsteelblock s_a_b:cyanhardsteelblock s_a_b:wardenhardsteelblock
+s_a_b:wardenlight | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:bluelightsteelblock s_a_b:cyanlightsteelblock s_a_b:wardenlightsteelblock
+s_a_b:compacting/double_steel_block | create:compacting | create:compacting s_a_b:doublesteelblock s_a_b:steelblock tfmg:heavy_plate
+s_a_b:compacting/hard_steel_block | create:compacting | create:compacting s_a_b:hardsteelblock s_a_b:steelblock tfmg:heavy_plate
+s_a_b:compacting/light_steel_block | create:compacting | create:compacting s_a_b:lightsteelblock tfmg:heavy_plate
+s_a_b:compacting/steel_block | create:compacting | create:compacting s_a_b:lightsteelblock s_a_b:steelblock
+s_a_b:crafting/camos/double/double_steel_block_camo_desert | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:sand s_a_b:doublesteelblock s_a_b:doublesteelblockcamodesert
+s_a_b:crafting/camos/double/double_steel_block_camo_forest | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:oak_sapling s_a_b:doublesteelblock s_a_b:doublesteelblockcamoforest
+s_a_b:crafting/camos/double/double_steel_block_camo_jungle | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_sapling s_a_b:doublesteelblock s_a_b:doublesteelblockcamojungle
+s_a_b:crafting/camos/double/double_steel_block_camo_mesa | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_sand s_a_b:doublesteelblock s_a_b:doublesteelblockcamomesa
+s_a_b:crafting/camos/double/double_steel_block_camo_plains | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:grass s_a_b:doublesteelblock s_a_b:doublesteelblockcamoplains
+s_a_b:crafting/camos/double/double_steel_block_camo_snow | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:snow_block s_a_b:doublesteelblock s_a_b:doublesteelblockcamosnow
+s_a_b:crafting/camos/double/double_steel_block_camo_swamp | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:vine s_a_b:doublesteelblock s_a_b:doublesteelblockcamoswamp
+s_a_b:crafting/camos/double/double_steel_block_camo_taiga | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_sapling s_a_b:doublesteelblock s_a_b:doublesteelblockcamotaiga
+s_a_b:crafting/camos/hard/hard_steel_block_camo_desert | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:sand s_a_b:hardsteelblock s_a_b:hardsteelblockcamodesert
+s_a_b:crafting/camos/hard/hard_steel_block_camo_forest | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:oak_sapling s_a_b:hardsteelblock s_a_b:hardsteelblockcamoforest
+s_a_b:crafting/camos/hard/hard_steel_block_camo_jungle | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_sapling s_a_b:hardsteelblock s_a_b:hardsteelblockcamojungle
+s_a_b:crafting/camos/hard/hard_steel_block_camo_mesa | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_sand s_a_b:hardsteelblock s_a_b:hardsteelblockcamomesa
+s_a_b:crafting/camos/hard/hard_steel_block_camo_plains | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:grass s_a_b:hardsteelblock s_a_b:hardsteelblockcamoplains
+s_a_b:crafting/camos/hard/hard_steel_block_camo_snow | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:snow_block s_a_b:hardsteelblock s_a_b:hardsteelblockcamosnow
+s_a_b:crafting/camos/hard/hard_steel_block_camo_swamp | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:vine s_a_b:hardsteelblock s_a_b:hardsteelblockcamoswamp
+s_a_b:crafting/camos/hard/hard_steel_block_camo_taiga | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_sapling s_a_b:hardsteelblock s_a_b:hardsteelblockcamotaiga
+s_a_b:crafting/camos/light/light_steel_block_camo_desert | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:sand s_a_b:lightsteelblock s_a_b:lightsteelcamodesert
+s_a_b:crafting/camos/light/light_steel_block_camo_forest | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:oak_sapling s_a_b:lightsteelblock s_a_b:lightsteelcamoforest
+s_a_b:crafting/camos/light/light_steel_block_camo_jungle | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_sapling s_a_b:lightsteelblock s_a_b:lightsteelcamojungle
+s_a_b:crafting/camos/light/light_steel_block_camo_mesa | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_sand s_a_b:lightsteelblock s_a_b:lightsteelcamomesa
+s_a_b:crafting/camos/light/light_steel_block_camo_plains | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:grass s_a_b:lightsteelblock s_a_b:lightsteelblockcamoplains
+s_a_b:crafting/camos/light/light_steel_block_camo_snow | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:snow_block s_a_b:lightsteelblock s_a_b:lightsteelcamosnow
+s_a_b:crafting/camos/light/light_steel_block_camo_swamp | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:vine s_a_b:lightsteelblock s_a_b:lightsteelcamoswamp
+s_a_b:crafting/camos/light/light_steel_block_camo_taiga | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_sapling s_a_b:lightsteelblock s_a_b:lightsteelcamotaiga
+s_a_b:crafting/camos/normal/steel_block_camo_desert | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:sand s_a_b:steelblock s_a_b:steelblockcamodesert
+s_a_b:crafting/camos/normal/steel_block_camo_forest | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:oak_sapling s_a_b:steelblock s_a_b:steelblockcamoforest
+s_a_b:crafting/camos/normal/steel_block_camo_jungle | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_sapling s_a_b:steelblock s_a_b:steelblockcamojungle
+s_a_b:crafting/camos/normal/steel_block_camo_mesa | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_sand s_a_b:steelblock s_a_b:steelblockcamomesa
+s_a_b:crafting/camos/normal/steel_block_camo_plains | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:grass s_a_b:steelblock s_a_b:steelblockcamoplains
+s_a_b:crafting/camos/normal/steel_block_camo_snow | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:snow_block s_a_b:steelblock s_a_b:steelblockcamosnow
+s_a_b:crafting/camos/normal/steel_block_camo_swamp | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:vine s_a_b:steelblock s_a_b:steelblockcamoswamp
+s_a_b:crafting/camos/normal/steel_block_camo_taiga | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_sapling s_a_b:steelblock s_a_b:steelblockcamotaiga
+s_a_b:crafting/colored/double/double_steel_block_29 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:bluedoublesteelblock s_a_b:cyandoublesteelblock s_a_b:doublesteelblockcolored_29
+s_a_b:crafting/colored/double/double_steel_block_31 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyandoublesteelblock s_a_b:doublesteelblockcolored_31 s_a_b:lightgraydoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_32 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyandoublesteelblock s_a_b:doublesteelblockcolored_32 s_a_b:graydoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_33 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyandoublesteelblock s_a_b:doublesteelblockcolored_33 s_a_b:lightbluedoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_4bo | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:doublesteelblock_4bo s_a_b:greendoublesteelblock s_a_b:limedoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_black | minecraft:crafting_shaped | minecraft:black_dye minecraft:crafting_shaped s_a_b:blackdoublesteelblock s_a_b:doublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_blue | minecraft:crafting_shaped | minecraft:blue_dye minecraft:crafting_shaped s_a_b:bluedoublesteelblock s_a_b:doublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_brown | minecraft:crafting_shaped | minecraft:brown_dye minecraft:crafting_shaped s_a_b:browndoublesteelblock s_a_b:doublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_cyan | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:cyan_dye s_a_b:cyandoublesteelblock s_a_b:doublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_gelb | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:doublesteelblockgelb s_a_b:whitedoublesteelblock s_a_b:yellowdoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_grau | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:doublesteelblockpanzergrau s_a_b:lightgraydoublesteelblock s_a_b:whitedoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_gray | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:gray_dye s_a_b:doublesteelblock s_a_b:graydoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_green | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:green_dye s_a_b:doublesteelblock s_a_b:greendoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_light_blue | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_blue_dye s_a_b:doublesteelblock s_a_b:lightbluedoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_light_gray | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_gray_dye s_a_b:doublesteelblock s_a_b:lightgraydoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_lime | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:lime_dye s_a_b:doublesteelblock s_a_b:limedoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_magenta | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:magenta_dye s_a_b:doublesteelblock s_a_b:magentadoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_orange | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:orange_dye s_a_b:doublesteelblock s_a_b:orangedoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_parade | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:doublesteelblockcoloredparade s_a_b:graydoublesteelblock s_a_b:greendoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_pink | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:pink_dye s_a_b:doublesteelblock s_a_b:pinkdoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_purple | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:purple_dye s_a_b:doublesteelblock s_a_b:purpledoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_red | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_dye s_a_b:doublesteelblock s_a_b:reddoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_rotbraun | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:doublesteelblockrotbraun s_a_b:reddoublesteelblock s_a_b:whitedoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_ship_bottom | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:doublesteelblockshipbottom s_a_b:reddoublesteelblock s_a_b:whitedoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_white | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:white_dye s_a_b:doublesteelblock s_a_b:whitedoublesteelblock
+s_a_b:crafting/colored/double/double_steel_block_yellow | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:yellow_dye s_a_b:doublesteelblock s_a_b:yellowdoublesteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_29 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:bluehardsteelblock s_a_b:cyanhardsteelblock s_a_b:hardsteelblockcolored_29
+s_a_b:crafting/colored/hard/hard_steel_block_31 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyanhardsteelblock s_a_b:hardsteelblockcolored_31 s_a_b:lightgrayhardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_32 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyanhardsteelblock s_a_b:grayhardsteelblock s_a_b:hardsteelblockcolored_32
+s_a_b:crafting/colored/hard/hard_steel_block_33 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyanhardsteelblock s_a_b:hardsteelblockcolored_33 s_a_b:lightbluehardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_4bo | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:greenhardsteelblock s_a_b:hardsteelblock_4bo s_a_b:limehardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_black | minecraft:crafting_shaped | minecraft:black_dye minecraft:crafting_shaped s_a_b:blackhardsteelblock s_a_b:hardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_blue | minecraft:crafting_shaped | minecraft:blue_dye minecraft:crafting_shaped s_a_b:bluehardsteelblock s_a_b:hardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_brown | minecraft:crafting_shaped | minecraft:brown_dye minecraft:crafting_shaped s_a_b:brownhardsteelblock s_a_b:hardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_cyan | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:cyan_dye s_a_b:cyanhardsteelblock s_a_b:hardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_gelb | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:hardsteelblockgelb s_a_b:whitehardsteelblock s_a_b:yellowhardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_grau | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:hardsteelblockpanzergrau s_a_b:lightgrayhardsteelblock s_a_b:whitehardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_gray | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:gray_dye s_a_b:grayhardsteelblock s_a_b:hardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_green | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:green_dye s_a_b:greenhardsteelblock s_a_b:hardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_light_blue | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_blue_dye s_a_b:hardsteelblock s_a_b:lightbluehardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_light_gray | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_gray_dye s_a_b:hardsteelblock s_a_b:lightgrayhardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_lime | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:lime_dye s_a_b:hardsteelblock s_a_b:limehardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_magenta | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:magenta_dye s_a_b:hardsteelblock s_a_b:magentahardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_orange | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:orange_dye s_a_b:hardsteelblock s_a_b:orange
+s_a_b:crafting/colored/hard/hard_steel_block_parade | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:grayhardsteelblock s_a_b:greenhardsteelblock s_a_b:hardsteelblockcoloredparade
+s_a_b:crafting/colored/hard/hard_steel_block_pink | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:pink_dye s_a_b:hardsteelblock s_a_b:pinkhardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_purple | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:purple_dye s_a_b:hardsteelblock s_a_b:purplehardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_red | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_dye s_a_b:hardsteelblock s_a_b:redhardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_rotbraun | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:hardsteelblockrotbraun s_a_b:redhardsteelblock s_a_b:whitehardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_ship_bottom | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:hardsteelblockshipbottom s_a_b:redhardsteelblock s_a_b:whitehardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_white | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:white_dye s_a_b:hardsteelblock s_a_b:whitehardsteelblock
+s_a_b:crafting/colored/hard/hard_steel_block_yellow | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:yellow_dye s_a_b:hardsteelblock s_a_b:yellowhardsteelblock
+s_a_b:crafting/colored/light/light_steel_block_29 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:bluelightsteelblock s_a_b:cyanlightsteelblock s_a_b:lightsteelblockcolored_29
+s_a_b:crafting/colored/light/light_steel_block_31 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyanlightsteelblock s_a_b:lightgraylightsteelblock s_a_b:lightsteelblockcolored_31
+s_a_b:crafting/colored/light/light_steel_block_32 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyanlightsteelblock s_a_b:graylightsteelblock s_a_b:lightsteelblockcolored_32
+s_a_b:crafting/colored/light/light_steel_block_33 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyanlightsteelblock s_a_b:lightbluelightsteelblock s_a_b:lightsteelblockcolored_33
+s_a_b:crafting/colored/light/light_steel_block_4bo | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:greenlightsteelblock s_a_b:lightsteelblock_4bo s_a_b:limelightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_black | minecraft:crafting_shaped | minecraft:black_dye minecraft:crafting_shaped s_a_b:blacklightsteelblock s_a_b:lightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_blue | minecraft:crafting_shaped | minecraft:blue_dye minecraft:crafting_shaped s_a_b:bluelightsteelblock s_a_b:lightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_brown | minecraft:crafting_shaped | minecraft:brown_dye minecraft:crafting_shaped s_a_b:brownlightsteelblock s_a_b:lightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_cyan | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:cyan_dye s_a_b:cyanlightsteelblock s_a_b:lightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_gelb | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:lightsteelblockgelb s_a_b:whitelightsteelblock s_a_b:yellowlightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_grau | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:lightgraylightsteelblock s_a_b:lightsteelblockpanzergrau s_a_b:whitelightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_gray | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:gray_dye s_a_b:graylightsteelblock s_a_b:lightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_green | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:green_dye s_a_b:greenlightsteelblock s_a_b:lightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_light_blue | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_blue_dye s_a_b:lightbluelightsteelblock s_a_b:lightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_light_gray | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_gray_dye s_a_b:lightgraylightsteelblock s_a_b:lightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_lime | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:lime_dye s_a_b:lightsteelblock s_a_b:limelightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_magenta | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:magenta_dye s_a_b:lightsteelblock s_a_b:magentalightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_orange | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:orange_dye s_a_b:lightsteelblock s_a_b:orangelightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_parade | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:graylightsteelblock s_a_b:greenlightsteelblock s_a_b:lightsteelblockcoloredparade
+s_a_b:crafting/colored/light/light_steel_block_pink | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:pink_dye s_a_b:lightsteelblock s_a_b:pinklightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_purple | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:purple_dye s_a_b:lightsteelblock s_a_b:purplelightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_red | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_dye s_a_b:lightsteelblock s_a_b:redlightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_rotbraun | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:lightsteelblockrotbraun s_a_b:redlightsteelblock s_a_b:whitelightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_ship_bottom | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:lightsteelblockshipbottom s_a_b:redlightsteelblock s_a_b:whitelightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_white | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:white_dye s_a_b:lightsteelblock s_a_b:whitelightsteelblock
+s_a_b:crafting/colored/light/light_steel_block_yellow | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:yellow_dye s_a_b:lightsteelblock s_a_b:yellowlightsteelblock
+s_a_b:crafting/colored/normal/steel_block_29 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:bluesteelblock s_a_b:cyansteelblock s_a_b:steelblockcolored_29
+s_a_b:crafting/colored/normal/steel_block_31 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyansteelblock s_a_b:lightgraysteelblock s_a_b:steelblockcolored_31
+s_a_b:crafting/colored/normal/steel_block_32 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyansteelblock s_a_b:graysteelblock s_a_b:steelblockcolored_32
+s_a_b:crafting/colored/normal/steel_block_33 | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:cyansteelblock s_a_b:lightbluesteelblock s_a_b:steelblockcolored_33
+s_a_b:crafting/colored/normal/steel_block_4bo | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:greensteelblock s_a_b:limesteelblock s_a_b:steelblock_4bo
+s_a_b:crafting/colored/normal/steel_block_black | minecraft:crafting_shaped | minecraft:black_dye minecraft:crafting_shaped s_a_b:blacksteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_blue | minecraft:crafting_shaped | minecraft:blue_dye minecraft:crafting_shaped s_a_b:bluesteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_brown | minecraft:crafting_shaped | minecraft:brown_dye minecraft:crafting_shaped s_a_b:brownsteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_cyan | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:cyan_dye s_a_b:cyansteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_gelb | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:steelblockgelb s_a_b:whitesteelblock s_a_b:yellowsteelblock
+s_a_b:crafting/colored/normal/steel_block_grau | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:lightgraysteelblock s_a_b:steelblockpanzergrau s_a_b:whitesteelblock
+s_a_b:crafting/colored/normal/steel_block_gray | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:gray_dye s_a_b:graysteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_green | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:green_dye s_a_b:greensteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_light_blue | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_blue_dye s_a_b:lightbluesteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_light_gray | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_gray_dye s_a_b:lightgraysteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_lime | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:lime_dye s_a_b:limesteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_magenta | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:magenta_dye s_a_b:magentasteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_orange | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:orange_dye s_a_b:orangesteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_parade | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:graysteelblock s_a_b:greensteelblock s_a_b:steelblockcoloredparade
+s_a_b:crafting/colored/normal/steel_block_pink | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:pink_dye s_a_b:pinksteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_purple | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:purple_dye s_a_b:purplesteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_red | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_dye s_a_b:redsteelblock s_a_b:steelblock
+s_a_b:crafting/colored/normal/steel_block_rotbraun | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:redsteelblock s_a_b:steelblockrotbraun s_a_b:whitesteelblock
+s_a_b:crafting/colored/normal/steel_block_ship_bottom | minecraft:crafting_shapeless | minecraft:crafting_shapeless s_a_b:redsteelblock s_a_b:steelblockshipbottom s_a_b:whitesteelblock
+s_a_b:crafting/colored/normal/steel_block_white | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:white_dye s_a_b:steelblock s_a_b:whitesteelblock
+s_a_b:crafting/colored/normal/steel_block_yellow | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:yellow_dye s_a_b:steelblock s_a_b:yellowsteelblock
+s_a_b:mixing/double_steel_block_melting | create:mixing | create:mixing s_a_b:cut tfmg:molten_steel
+s_a_b:mixing/hard_steel_block_melting | create:mixing | create:mixing s_a_b:hard tfmg:molten_steel
+s_a_b:mixing/light_steel_block_melting | create:mixing | create:mixing s_a_b:light tfmg:molten_steel
+s_a_b:mixing/steel_block_melting | create:mixing | create:mixing s_a_b:basic tfmg:molten_steel
+s_a_b:sandbag | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:sand minecraft:wool s_a_b:sandbag
+s_a_b:stonecutting/blocks/hard_armor_parade_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:hardsteelblockcoloredparade s_a_b:lghtsteelstairscoloredparade
+s_a_b:stonecutting/blocks/light_slabs/light_steel_29_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_29 s_a_b:lightsteelslabcolored_29
+s_a_b:stonecutting/blocks/light_slabs/light_steel_29_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_29 s_a_b:lightsteelvslabcolored_29
+s_a_b:stonecutting/blocks/light_slabs/light_steel_31_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_31 s_a_b:lightsteelslabcolored_31
+s_a_b:stonecutting/blocks/light_slabs/light_steel_31_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_31 s_a_b:lightsteelvslabcolored_31
+s_a_b:stonecutting/blocks/light_slabs/light_steel_32_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_32 s_a_b:lightsteelslabcolored_32
+s_a_b:stonecutting/blocks/light_slabs/light_steel_32_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_32 s_a_b:lightsteelvslabcolored_32
+s_a_b:stonecutting/blocks/light_slabs/light_steel_33_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_33 s_a_b:lightsteelslabcolored_33
+s_a_b:stonecutting/blocks/light_slabs/light_steel_33_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_33 s_a_b:lightsteelvslabcolored_33
+s_a_b:stonecutting/blocks/light_slabs/light_steel_4bo_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblock_4bo s_a_b:lightsteelslab_4bo
+s_a_b:stonecutting/blocks/light_slabs/light_steel_4bo_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblock_4bo s_a_b:lightsteelvslab_4bo
+s_a_b:stonecutting/blocks/light_slabs/light_steel_black_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:blacklightsteelblock s_a_b:blakclightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_black_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:blacklightsteelblock s_a_b:blacklightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_blue_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:bluelightsteelblock s_a_b:bluelightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_blue_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:bluelightsteelblock s_a_b:bluelightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_brown_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:brownlightsteelblock s_a_b:brownlightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_brown_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:brownlightsteelblock s_a_b:brownlightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_desert_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamodesertslab s_a_b:lightsteelcamodesert
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_desert_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamodesertvslab s_a_b:lightsteelcamodesert
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_forest_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamoforestslab s_a_b:lightsteelcamoforest
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_forest_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamoforestverticalslab s_a_b:lightsteelcamoforest
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_jungle_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamojungleslab s_a_b:lightsteelcamojungle
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_jungle_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamojunglevslab s_a_b:lightsteelcamojungle
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_mesa_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamomesaslab s_a_b:lightsteelcamomesa
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_mesa_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamomesavslab s_a_b:lightsteelcamomesa
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_plains_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamoplainsslab s_a_b:lightsteelblockcamoplains
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_plains_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamoplainsvslab s_a_b:lightsteelblockcamoplains
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_snow_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamosnowslab s_a_b:lightsteelcamosnow
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_snow_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamosnowvslab s_a_b:lightsteelcamosnow
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_swamp_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamoswampslab s_a_b:lightsteelcamoswamp
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_swamp_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamoswampvslab s_a_b:lightsteelcamoswamp
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_taiga_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamotaigaslab s_a_b:lightsteelcamotaiga
+s_a_b:stonecutting/blocks/light_slabs/light_steel_camo_taiga_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamotaigavslab s_a_b:lightsteelcamotaiga
+s_a_b:stonecutting/blocks/light_slabs/light_steel_cyan_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:cyanlightsteelblock s_a_b:cyanlightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_cyan_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:cyanlightsteelblock s_a_b:cyanlightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_gelb_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockgelb s_a_b:lightsteelslavgelb
+s_a_b:stonecutting/blocks/light_slabs/light_steel_gelb_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockgelb s_a_b:lightsteelvslabgelb
+s_a_b:stonecutting/blocks/light_slabs/light_steel_grau_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockpanzergrau s_a_b:lightsteelslabpanzergrau
+s_a_b:stonecutting/blocks/light_slabs/light_steel_grau_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockpanzergrau s_a_b:lightsteelvslabpanzergrau
+s_a_b:stonecutting/blocks/light_slabs/light_steel_gray_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:graylightsteelblock s_a_b:graylightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_gray_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:graylightsteelblock s_a_b:graylightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_green_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:greenlightsteelblock s_a_b:greenlightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_green_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:greenlightsteelblock s_a_b:greenlightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_light_blue_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightbluelightsteelblock s_a_b:lightbluelightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_light_blue_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightbluelightsteelblock s_a_b:lightbluelightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_light_gray_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightgraylightsteelblock s_a_b:lightgraylightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_light_gray_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightgraylightsteelblock s_a_b:lightgraylightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_lime_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:limelightsteelblock s_a_b:limelightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_lime_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:limelightsteelblock s_a_b:limelightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_magenta_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:magentalightsteelblock s_a_b:magentalightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_magenta_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:magentalightsteelblock s_a_b:magentalightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_orange_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:orangelightsteelblock s_a_b:orangelightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_orange_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:orangelightsteelblock s_a_b:orangelightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_parade_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcoloredparade s_a_b:lightsteelslabcoloredparade
+s_a_b:stonecutting/blocks/light_slabs/light_steel_parade_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcoloredparade s_a_b:lightsteelvslabcoloredparade
+s_a_b:stonecutting/blocks/light_slabs/light_steel_pink_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:pinklightsteelblock s_a_b:pinklightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_pink_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:pinklightsteelblock s_a_b:pinklightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_purple_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:purplelightsteelblock s_a_b:purplelightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_purple_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:purplelightsteelblock s_a_b:purplelightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_red_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:redlightsteelblock s_a_b:redlightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_red_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:redlightsteelblock s_a_b:redlightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_rotbraun_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockrotbraun s_a_b:lightsteelslabrotbraun
+s_a_b:stonecutting/blocks/light_slabs/light_steel_rotbraun_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockrotbraun s_a_b:lightsteelvslabrotbraun
+s_a_b:stonecutting/blocks/light_slabs/light_steel_ship_bottom_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockshipbottom s_a_b:lightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_ship_bottom_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockshipbottom s_a_b:lightsteelvslabshipbottom
+s_a_b:stonecutting/blocks/light_slabs/light_steel_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblock s_a_b:lightstellslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblock s_a_b:lightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_white_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:whitelightsteelblock s_a_b:whitelightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_white_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:whitelightsteelblock s_a_b:whitelightsteelvslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_yellow_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:yellowlightsteelblock s_a_b:yellowlightsteelslab
+s_a_b:stonecutting/blocks/light_slabs/light_steel_yellow_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:yellowlightsteelblock s_a_b:yellowlightsteelvslab
+s_a_b:stonecutting/blocks/light_stairs/light_steel_29_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_29 s_a_b:lightsteelstairscolored_29
+s_a_b:stonecutting/blocks/light_stairs/light_steel_31_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lghtsteelstairscolored_31 s_a_b:lightsteelblockcolored_31
+s_a_b:stonecutting/blocks/light_stairs/light_steel_32_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lghtsteelstairscolored_32 s_a_b:lightsteelblockcolored_32
+s_a_b:stonecutting/blocks/light_stairs/light_steel_33_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lghtsteelstairscolored_33 s_a_b:lightsteelblockcolored_33
+s_a_b:stonecutting/blocks/light_stairs/light_steel_4bo_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblock_4bo s_a_b:lightsteelstairs_4bo
+s_a_b:stonecutting/blocks/light_stairs/light_steel_black_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:blacklightsteelblock s_a_b:blacklightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_blue_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:bluelightsteelblock s_a_b:bluelightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_brown_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:brownlightsteelblock s_a_b:brownlightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_camo_desert_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamodesertstairs s_a_b:lightsteelcamodesert
+s_a_b:stonecutting/blocks/light_stairs/light_steel_camo_forest_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamoforest s_a_b:lightsteelcamoforest
+s_a_b:stonecutting/blocks/light_stairs/light_steel_camo_jungle_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamojunglestairs s_a_b:lightsteelcamojungle
+s_a_b:stonecutting/blocks/light_stairs/light_steel_camo_mesa_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamomesastairs s_a_b:lightsteelcamomesa
+s_a_b:stonecutting/blocks/light_stairs/light_steel_camo_plains_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamoplainsstairs s_a_b:lightsteelblockcamoplains
+s_a_b:stonecutting/blocks/light_stairs/light_steel_camo_snow_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamosnowstairs s_a_b:lightsteelcamosnow
+s_a_b:stonecutting/blocks/light_stairs/light_steel_camo_swamp_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamoswampstairs s_a_b:lightsteelcamoswamp
+s_a_b:stonecutting/blocks/light_stairs/light_steel_camo_taiga_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:iightsteelcamotaiga s_a_b:lightsteelcamotaiga
+s_a_b:stonecutting/blocks/light_stairs/light_steel_cyan_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:cyanlightsteelblock s_a_b:cyanlightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_gelb_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockgelb s_a_b:lightsteelstairsgelb
+s_a_b:stonecutting/blocks/light_stairs/light_steel_grau_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockpanzergrau s_a_b:lightsteelstairspanzergrau
+s_a_b:stonecutting/blocks/light_stairs/light_steel_gray_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:graylightsteelblock s_a_b:graylightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_green_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:greenlightsteelblock s_a_b:greenlightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_light_blue_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightbluelightsteelblock s_a_b:lightbluelightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_light_gray_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightgraylightsteelblock s_a_b:lightgraylightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_lime_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:limelightsteelblock s_a_b:limelightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_magenta_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:magentalightsteelblock s_a_b:magentalightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_orange_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:orangelightsteelblock s_a_b:orangelightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_pink_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:pinklightsteelblock s_a_b:pinklightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_purple_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:purplelightsteelblock s_a_b:purplelightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_red_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:redlightsteelblock s_a_b:redlightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_rotbraun_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockrotbraun s_a_b:lightsteelstairsrotbraun
+s_a_b:stonecutting/blocks/light_stairs/light_steel_ship_bottom_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockshipbottom s_a_b:lightsteelstairsshipbottom
+s_a_b:stonecutting/blocks/light_stairs/light_steel_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblock s_a_b:lightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_white_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:whitelightsteelblock s_a_b:whitelightsteelstairs
+s_a_b:stonecutting/blocks/light_stairs/light_steel_yellow_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:yellowlightsteelblock s_a_b:yellowlightsteelstairs
+s_a_b:stonecutting/blocks/normal_slabs/steel_29_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_29 s_a_b:steelslabcolored_29
+s_a_b:stonecutting/blocks/normal_slabs/steel_29_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_29 s_a_b:steelvslabcolored_29
+s_a_b:stonecutting/blocks/normal_slabs/steel_31_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_31 s_a_b:steelslabcolored_31
+s_a_b:stonecutting/blocks/normal_slabs/steel_31_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_31 s_a_b:steelvslabcolored_31
+s_a_b:stonecutting/blocks/normal_slabs/steel_32_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_32 s_a_b:steelslabcolored_32
+s_a_b:stonecutting/blocks/normal_slabs/steel_32_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_32 s_a_b:steelvslabcolored_32
+s_a_b:stonecutting/blocks/normal_slabs/steel_33_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_33 s_a_b:steelslabcolored_33
+s_a_b:stonecutting/blocks/normal_slabs/steel_33_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_33 s_a_b:steelvslabcolored_33
+s_a_b:stonecutting/blocks/normal_slabs/steel_4bo_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblock_4bo s_a_b:steelslab_4bo
+s_a_b:stonecutting/blocks/normal_slabs/steel_4bo_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblock_4bo s_a_b:steelvslab_4bo
+s_a_b:stonecutting/blocks/normal_slabs/steel_black_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:blacksteelblock s_a_b:blacksteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_black_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:blacksteelblock s_a_b:blacksteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_blue_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:bluesteelblock s_a_b:bluesteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_blue_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:bluesteelblock s_a_b:bluesteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_brown_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:brownsteelblock s_a_b:brownsteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_brown_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:brownsteelblock s_a_b:brownsteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_desert_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamodesert s_a_b:steelblockcamodesertslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_desert_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamodesert s_a_b:steelblockcamodesertvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_forest_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamoforest s_a_b:steelblockcamoforestslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_forest_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamoforest s_a_b:steelblockcamoforestvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_jungle_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamojungle s_a_b:steelblockcamojungleslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_jungle_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamojungle s_a_b:steelblockcamojunglevslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_mesa_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamomesa s_a_b:steelblockcamomesaslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_mesa_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamomesa s_a_b:steelblockcamomesavslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_plains_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamoplains s_a_b:steelblockcamoplainsslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_plains_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamoplains s_a_b:steelblockcamoplainsvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_snow_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamosnow s_a_b:steelblockcamosnowslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_snow_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamosnow s_a_b:steelblockcamosnowvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_swamp_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamoswamp s_a_b:steelblockcamoswampslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_swamp_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamoswamp s_a_b:steelblockcamoswampvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_taiga_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamotaiga s_a_b:steelblockcamotaigaslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_camo_taiga_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamotaiga s_a_b:steelblockcamotaigavslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_cyan_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:cyansteelblock s_a_b:cyansteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_cyan_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:cyansteelblock s_a_b:cyansteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_gelb_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockgelb s_a_b:steelslabgelb
+s_a_b:stonecutting/blocks/normal_slabs/steel_gelb_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockgelb s_a_b:steelvslabgelb
+s_a_b:stonecutting/blocks/normal_slabs/steel_grau_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockpanzergrau s_a_b:steelslabpanzergrau
+s_a_b:stonecutting/blocks/normal_slabs/steel_grau_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockpanzergrau s_a_b:steelvslabpanzergrau
+s_a_b:stonecutting/blocks/normal_slabs/steel_gray_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:graysteelblock s_a_b:graysteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_gray_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:graysteelblock s_a_b:graysteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_green_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:greensteelblock s_a_b:greensteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_green_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:greensteelblock s_a_b:greensteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_light_blue_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightbluesteelblock s_a_b:lightbluesteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_light_blue_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightbluesteelblock s_a_b:lightbluesteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_light_gray_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightgraysteelblock s_a_b:lightgraysteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_light_gray_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightgraysteelblock s_a_b:lightgraysteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_lime_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:limesteelblock s_a_b:limesteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_lime_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:limesteelblock s_a_b:limesteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_magenta_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:magentasteelblock s_a_b:magentasteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_magenta_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:magentasteelblock s_a_b:magentasteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_orange_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:orangesteelblock s_a_b:orangesteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_orange_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:orangesteelblock s_a_b:orangesteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_parade_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcoloredparade s_a_b:steelslabcoloredparade
+s_a_b:stonecutting/blocks/normal_slabs/steel_parade_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcoloredparade s_a_b:steelvslabcoloredparade
+s_a_b:stonecutting/blocks/normal_slabs/steel_pink_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:pinksteelblock s_a_b:pinksteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_pink_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:pinksteelblock s_a_b:pinksteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_purple_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:purplesteelblock s_a_b:purplesteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_purple_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:purplesteelblock s_a_b:purplesteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_red_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:redsteelblock s_a_b:redsteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_red_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:redsteelblock s_a_b:redsteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_rotbraun_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockrotbraun s_a_b:steelslabrotbraun
+s_a_b:stonecutting/blocks/normal_slabs/steel_rotbraun_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockrotbraun s_a_b:steelvslabrotbraun
+s_a_b:stonecutting/blocks/normal_slabs/steel_ship_bottom_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockshipbottom s_a_b:steelslabshipbottom
+s_a_b:stonecutting/blocks/normal_slabs/steel_ship_bottom_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockshipbottom s_a_b:steelvslabshipbottom
+s_a_b:stonecutting/blocks/normal_slabs/steel_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblock s_a_b:steelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblock s_a_b:steelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_white_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:whitesteelblock s_a_b:whitesteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_white_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:whitesteelblock s_a_b:whitesteelvslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_yellow_slab | minecraft:stonecutting | minecraft:stonecutting s_a_b:yellowsteelblock s_a_b:yellowsteelslab
+s_a_b:stonecutting/blocks/normal_slabs/steel_yellow_vslab | minecraft:stonecutting | minecraft:stonecutting s_a_b:yellowsteelblock s_a_b:yellowsteelvslab
+s_a_b:stonecutting/blocks/normal_stairs/steel_29_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_29 s_a_b:steelstairscolored_29
+s_a_b:stonecutting/blocks/normal_stairs/steel_31_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_31 s_a_b:steelstairscolored_31
+s_a_b:stonecutting/blocks/normal_stairs/steel_32_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_32 s_a_b:steelstairscolored_32
+s_a_b:stonecutting/blocks/normal_stairs/steel_33_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_33 s_a_b:steelstairscolored_33
+s_a_b:stonecutting/blocks/normal_stairs/steel_4bo_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblock_4bo s_a_b:steelstairs_4bo
+s_a_b:stonecutting/blocks/normal_stairs/steel_black_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:blacksteelarmorstairs s_a_b:blacksteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_blue_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:bluesteelarmorstairs s_a_b:bluesteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_brown_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:brownsteelarmorstairs s_a_b:brownsteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_camo_desert_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamodesert s_a_b:steelblockcamodesertstairs
+s_a_b:stonecutting/blocks/normal_stairs/steel_camo_forest_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamoforest s_a_b:steelblockcamoforeststairs
+s_a_b:stonecutting/blocks/normal_stairs/steel_camo_jungle_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamojungle s_a_b:steelblockcamojunglestairs
+s_a_b:stonecutting/blocks/normal_stairs/steel_camo_mesa_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamomesa s_a_b:steelblockcamomesastairs
+s_a_b:stonecutting/blocks/normal_stairs/steel_camo_plains_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamoplains s_a_b:steelblockcamoplainsstairs
+s_a_b:stonecutting/blocks/normal_stairs/steel_camo_snow_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamosnow s_a_b:steelblockcamosnowstairs
+s_a_b:stonecutting/blocks/normal_stairs/steel_camo_swamp_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamoswamp s_a_b:steelblockcamoswampstairs
+s_a_b:stonecutting/blocks/normal_stairs/steel_camo_taiga_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcamotaiga s_a_b:steelblockcamotaigastairs
+s_a_b:stonecutting/blocks/normal_stairs/steel_cyan_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:cyansteelarmorstairs s_a_b:cyansteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_gelb_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockgelb s_a_b:steelstairsgelb
+s_a_b:stonecutting/blocks/normal_stairs/steel_grau_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockpanzergrau s_a_b:steelstairspanzergrau
+s_a_b:stonecutting/blocks/normal_stairs/steel_gray_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:graysteelarmorstairs s_a_b:graysteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_green_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:greensteelarmorstairs s_a_b:greensteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_light_blue_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightbluesteelarmorstairs s_a_b:lightbluesteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_light_gray_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightgraysteelarmorstairs s_a_b:lightgraysteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_lime_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:limesteelarmorstairs s_a_b:limesteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_magenta_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:magentasteelarmorstairs s_a_b:magentasteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_orange_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:orangesteelarmorstairs s_a_b:orangesteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_parade_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcoloredparade s_a_b:steelstairscoloredparade
+s_a_b:stonecutting/blocks/normal_stairs/steel_pink_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:pinksteelarmorstairs s_a_b:pinksteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_purple_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:purplesteelarmorstairs s_a_b:purplesteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_red_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:redsteelarmorstairs s_a_b:redsteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_rotbraun_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockrotbraun s_a_b:steelstairsrotbraun
+s_a_b:stonecutting/blocks/normal_stairs/steel_ship_bottom_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockshipbottom s_a_b:steelstairsshipbottom
+s_a_b:stonecutting/blocks/normal_stairs/steel_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelarmorstairs s_a_b:steelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_white_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:whitesteelarmorstairs s_a_b:whitesteelblock
+s_a_b:stonecutting/blocks/normal_stairs/steel_yellow_stairs | minecraft:stonecutting | minecraft:stonecutting s_a_b:yellowsteelarmorstairs s_a_b:yellowsteelblock
+s_a_b:stonecutting/blocks/waterline/hard_steel_block_wl | minecraft:stonecutting | minecraft:stonecutting s_a_b:armorwl s_a_b:hardsteelblock
+s_a_b:stonecutting/blocks/waterline/hard_steel_block_wl_29 | minecraft:stonecutting | minecraft:stonecutting s_a_b:armorwl_29 s_a_b:hardsteelblockcolored_29
+s_a_b:stonecutting/blocks/waterline/hard_steel_block_wl_31 | minecraft:stonecutting | minecraft:stonecutting s_a_b:armorwl_31 s_a_b:hardsteelblockcolored_31
+s_a_b:stonecutting/blocks/waterline/hard_steel_block_wl_32 | minecraft:stonecutting | minecraft:stonecutting s_a_b:armorwl_32 s_a_b:hardsteelblockcolored_32
+s_a_b:stonecutting/blocks/waterline/hard_steel_block_wl_black | minecraft:stonecutting | minecraft:stonecutting s_a_b:armorwlblack s_a_b:blackhardsteelblock
+s_a_b:stonecutting/blocks/waterline/hard_steel_block_wl_gray | minecraft:stonecutting | minecraft:stonecutting s_a_b:armorwlgray s_a_b:grayhardsteelblock
+s_a_b:stonecutting/blocks/waterline/light_steel_block_wl | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblock s_a_b:lightwl
+s_a_b:stonecutting/blocks/waterline/light_steel_block_wl_29 | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_29 s_a_b:lightwl_29
+s_a_b:stonecutting/blocks/waterline/light_steel_block_wl_31 | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_31 s_a_b:lightwl_31
+s_a_b:stonecutting/blocks/waterline/light_steel_block_wl_32 | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_32 s_a_b:lightwl_32
+s_a_b:stonecutting/blocks/waterline/light_steel_block_wl_33 | minecraft:stonecutting | minecraft:stonecutting s_a_b:lightsteelblockcolored_33 s_a_b:lightwl_33
+s_a_b:stonecutting/blocks/waterline/light_steel_block_wl_black | minecraft:stonecutting | minecraft:stonecutting s_a_b:blacklightsteelblock s_a_b:lightwlblack
+s_a_b:stonecutting/blocks/waterline/light_steel_block_wl_gray | minecraft:stonecutting | minecraft:stonecutting s_a_b:graylightsteelblock s_a_b:lightwlgray
+s_a_b:stonecutting/blocks/waterline/steel_block_wl | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblock s_a_b:steelwl
+s_a_b:stonecutting/blocks/waterline/steel_block_wl_29 | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_29 s_a_b:steelwl_29
+s_a_b:stonecutting/blocks/waterline/steel_block_wl_31 | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_31 s_a_b:steelwl_31
+s_a_b:stonecutting/blocks/waterline/steel_block_wl_32 | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_32 s_a_b:steelwl_32
+s_a_b:stonecutting/blocks/waterline/steel_block_wl_33 | minecraft:stonecutting | minecraft:stonecutting s_a_b:steelblockcolored_33 s_a_b:steelwl_33
+s_a_b:stonecutting/blocks/waterline/steel_block_wl_black | minecraft:stonecutting | minecraft:stonecutting s_a_b:blacksteelblock s_a_b:steelwlblack
+s_a_b:stonecutting/blocks/waterline/steel_block_wl_gray | minecraft:stonecutting | minecraft:stonecutting s_a_b:graysteelblock s_a_b:steelwlgray
+s_a_b:stonecutting/letters/cyrilic/ae | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:ae
+s_a_b:stonecutting/letters/cyrilic/bb | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:bb
+s_a_b:stonecutting/letters/cyrilic/cc | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:cc
+s_a_b:stonecutting/letters/cyrilic/ch | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:ch
+s_a_b:stonecutting/letters/cyrilic/dd | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:dd
+s_a_b:stonecutting/letters/cyrilic/ff | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:ff
+s_a_b:stonecutting/letters/cyrilic/gg | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:gg
+s_a_b:stonecutting/letters/cyrilic/ii | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:ii
+s_a_b:stonecutting/letters/cyrilic/ll | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:ll
+s_a_b:stonecutting/letters/cyrilic/myag | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:myag
+s_a_b:stonecutting/letters/cyrilic/pp | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:pp
+s_a_b:stonecutting/letters/cyrilic/sh | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:sh
+s_a_b:stonecutting/letters/cyrilic/sha | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:sha
+s_a_b:stonecutting/letters/cyrilic/tverd | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:tverd
+s_a_b:stonecutting/letters/cyrilic/uu | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:uu
+s_a_b:stonecutting/letters/cyrilic/ya | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:ya
+s_a_b:stonecutting/letters/cyrilic/yi | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:yi
+s_a_b:stonecutting/letters/cyrilic/yu | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:yu
+s_a_b:stonecutting/letters/cyrilic/zh | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:zh
+s_a_b:stonecutting/letters/cyrilic/zz | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:zz
+s_a_b:stonecutting/letters/letters/a | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:a
+s_a_b:stonecutting/letters/letters/b | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:b
+s_a_b:stonecutting/letters/letters/c | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:c
+s_a_b:stonecutting/letters/letters/d | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:d
+s_a_b:stonecutting/letters/letters/e | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:e
+s_a_b:stonecutting/letters/letters/f | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:f
+s_a_b:stonecutting/letters/letters/g | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:g
+s_a_b:stonecutting/letters/letters/h | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:h
+s_a_b:stonecutting/letters/letters/i | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:i
+s_a_b:stonecutting/letters/letters/j | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:j
+s_a_b:stonecutting/letters/letters/k | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:k
+s_a_b:stonecutting/letters/letters/l | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:l
+s_a_b:stonecutting/letters/letters/m | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:m
+s_a_b:stonecutting/letters/letters/n | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:n
+s_a_b:stonecutting/letters/letters/o | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:o
+s_a_b:stonecutting/letters/letters/p | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:p
+s_a_b:stonecutting/letters/letters/q | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:q
+s_a_b:stonecutting/letters/letters/r | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:r
+s_a_b:stonecutting/letters/letters/s | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:s
+s_a_b:stonecutting/letters/letters/t | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:t
+s_a_b:stonecutting/letters/letters/u | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:u
+s_a_b:stonecutting/letters/letters/v | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:v
+s_a_b:stonecutting/letters/letters/w | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:w
+s_a_b:stonecutting/letters/letters/x | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:x
+s_a_b:stonecutting/letters/letters/y | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:y
+s_a_b:stonecutting/letters/letters/z | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:z
+s_a_b:stonecutting/letters/numbers/0 | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:zero
+s_a_b:stonecutting/letters/numbers/1 | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:one
+s_a_b:stonecutting/letters/numbers/2 | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:two
+s_a_b:stonecutting/letters/numbers/3 | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:three
+s_a_b:stonecutting/letters/numbers/4 | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:four
+s_a_b:stonecutting/letters/numbers/5 | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:five
+s_a_b:stonecutting/letters/numbers/6 | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:six
+s_a_b:stonecutting/letters/numbers/7 | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:seven
+s_a_b:stonecutting/letters/numbers/8 | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:eight
+s_a_b:stonecutting/letters/numbers/9 | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:nine
+s_a_b:stonecutting/letters/symbols/bundeswehrcross | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:bundeswehrcross
+s_a_b:stonecutting/letters/symbols/comma | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:comma
+s_a_b:stonecutting/letters/symbols/dot | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:dot
+s_a_b:stonecutting/letters/symbols/doubledot | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:doubledot
+s_a_b:stonecutting/letters/symbols/equality | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:equality
+s_a_b:stonecutting/letters/symbols/exclamation | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:exclamation
+s_a_b:stonecutting/letters/symbols/minus | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:minus
+s_a_b:stonecutting/letters/symbols/plus | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:plus
+s_a_b:stonecutting/letters/symbols/question | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:question
+s_a_b:stonecutting/letters/symbols/redstar | minecraft:stonecutting | create:iron_sheet minecraft:stonecutting s_a_b:redstar
+s_a_b:stonecutting/letters_brass/cyrilic/brassae | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassbrassae
+s_a_b:stonecutting/letters_brass/cyrilic/brassbb | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassbb
+s_a_b:stonecutting/letters_brass/cyrilic/brasscc | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasscc
+s_a_b:stonecutting/letters_brass/cyrilic/brassch | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassch
+s_a_b:stonecutting/letters_brass/cyrilic/brassdd | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassdd
+s_a_b:stonecutting/letters_brass/cyrilic/brassff | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassff
+s_a_b:stonecutting/letters_brass/cyrilic/brassgg | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassgg
+s_a_b:stonecutting/letters_brass/cyrilic/brassii | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassii
+s_a_b:stonecutting/letters_brass/cyrilic/brassll | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassll
+s_a_b:stonecutting/letters_brass/cyrilic/brassmyag | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassmyag
+s_a_b:stonecutting/letters_brass/cyrilic/brasspp | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasspp
+s_a_b:stonecutting/letters_brass/cyrilic/brasssh | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasssh
+s_a_b:stonecutting/letters_brass/cyrilic/brasssha | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasssha
+s_a_b:stonecutting/letters_brass/cyrilic/brasstverd | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasstverd
+s_a_b:stonecutting/letters_brass/cyrilic/brassuu | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassuu
+s_a_b:stonecutting/letters_brass/cyrilic/brassya | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassya
+s_a_b:stonecutting/letters_brass/cyrilic/brassyi | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassyi
+s_a_b:stonecutting/letters_brass/cyrilic/brassyu | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassyu
+s_a_b:stonecutting/letters_brass/cyrilic/brasszh | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasszh
+s_a_b:stonecutting/letters_brass/cyrilic/brasszz | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasszz
+s_a_b:stonecutting/letters_brass/letters/brassa | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassa
+s_a_b:stonecutting/letters_brass/letters/brassb | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassb
+s_a_b:stonecutting/letters_brass/letters/brassc | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassc
+s_a_b:stonecutting/letters_brass/letters/brassd | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassd
+s_a_b:stonecutting/letters_brass/letters/brasse | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasse
+s_a_b:stonecutting/letters_brass/letters/brassf | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassf
+s_a_b:stonecutting/letters_brass/letters/brassg | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassg
+s_a_b:stonecutting/letters_brass/letters/brassh | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassh
+s_a_b:stonecutting/letters_brass/letters/brassi | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassi
+s_a_b:stonecutting/letters_brass/letters/brassj | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassj
+s_a_b:stonecutting/letters_brass/letters/brassk | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassk
+s_a_b:stonecutting/letters_brass/letters/brassl | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassl
+s_a_b:stonecutting/letters_brass/letters/brassm | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassm
+s_a_b:stonecutting/letters_brass/letters/brassn | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassn
+s_a_b:stonecutting/letters_brass/letters/brasso | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasso
+s_a_b:stonecutting/letters_brass/letters/brassp | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassp
+s_a_b:stonecutting/letters_brass/letters/brassq | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassq
+s_a_b:stonecutting/letters_brass/letters/brassr | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassr
+s_a_b:stonecutting/letters_brass/letters/brasss | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasss
+s_a_b:stonecutting/letters_brass/letters/brasst | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasst
+s_a_b:stonecutting/letters_brass/letters/brassu | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassu
+s_a_b:stonecutting/letters_brass/letters/brassv | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassv
+s_a_b:stonecutting/letters_brass/letters/brassw | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassw
+s_a_b:stonecutting/letters_brass/letters/brassx | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassx
+s_a_b:stonecutting/letters_brass/letters/brassy | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassy
+s_a_b:stonecutting/letters_brass/letters/brassz | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassz
+s_a_b:stonecutting/letters_brass/numbers/brass0 | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brass0
+s_a_b:stonecutting/letters_brass/numbers/brass1 | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brass1
+s_a_b:stonecutting/letters_brass/numbers/brass2 | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brass2
+s_a_b:stonecutting/letters_brass/numbers/brass3 | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brass3
+s_a_b:stonecutting/letters_brass/numbers/brass4 | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brass4
+s_a_b:stonecutting/letters_brass/numbers/brass5 | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brass5
+s_a_b:stonecutting/letters_brass/numbers/brass6 | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brass6
+s_a_b:stonecutting/letters_brass/numbers/brass7 | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brass7
+s_a_b:stonecutting/letters_brass/numbers/brass8 | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brass8
+s_a_b:stonecutting/letters_brass/numbers/brass9 | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brass9
+s_a_b:stonecutting/letters_brass/symbols/brasscomma | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brasscomma
+s_a_b:stonecutting/letters_brass/symbols/brassdot | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassdot
+s_a_b:stonecutting/letters_brass/symbols/brassdoubledot | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassdoubledot
+s_a_b:stonecutting/letters_brass/symbols/brassequality | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassequality
+s_a_b:stonecutting/letters_brass/symbols/brassexclamation | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassbrassexclamation
+s_a_b:stonecutting/letters_brass/symbols/brassminus | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassminus
+s_a_b:stonecutting/letters_brass/symbols/brassplus | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassplus
+s_a_b:stonecutting/letters_brass/symbols/brassquestion | minecraft:stonecutting | create:brass_sheet minecraft:stonecutting s_a_b:brassquestion

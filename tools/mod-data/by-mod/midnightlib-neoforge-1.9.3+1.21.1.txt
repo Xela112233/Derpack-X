@@ -1,0 +1,19 @@
+# midnightlib-neoforge-1.9.3+1.21.1
+
+## mod metadata (id / version / deps)
+license = "MIT License"
+modId = "midnightlib"
+version = "1.9.3"
+displayName = "MidnightLib"
+modId = "neoforge"
+versionRange = "[20.5,)"
+modId = "minecraft"
+versionRange = "[1.21, 1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

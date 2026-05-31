@@ -1,0 +1,11 @@
+kobolds:banner_pattern_kobold | minecraft:crafting_shapeless | kobolds:banner_pattern_kobold kobolds:kobold_skull minecraft:crafting_shapeless minecraft:paper
+kobolds:kobold_iron_axe | minecraft:smithing_transform | kobolds:kobold_iron_axe kobolds:kobold_template minecraft:iron_axe minecraft:iron_ingot minecraft:smithing_transform
+kobolds:kobold_iron_hoe | minecraft:smithing_transform | kobolds:kobold_iron_hoe kobolds:kobold_template minecraft:iron_hoe minecraft:iron_ingot minecraft:smithing_transform
+kobolds:kobold_iron_pickaxe | minecraft:smithing_transform | kobolds:kobold_iron_pickaxe kobolds:kobold_template minecraft:iron_ingot minecraft:iron_pickaxe minecraft:smithing_transform
+kobolds:kobold_iron_shovel | minecraft:smithing_transform | kobolds:kobold_iron_shovel kobolds:kobold_template minecraft:iron_ingot minecraft:iron_shovel minecraft:smithing_transform
+kobolds:kobold_iron_spear_sb | minecraft:smithing_transform | kobolds:kobold_iron_spear_sb kobolds:kobold_template minecraft:iron_ingot minecraft:iron_spear minecraft:smithing_transform neoforge:mod_loaded
+kobolds:kobold_iron_sword | minecraft:smithing_transform | kobolds:kobold_iron_sword kobolds:kobold_template minecraft:iron_ingot minecraft:iron_sword minecraft:smithing_transform
+kobolds:kobold_music_disc | minecraft:smithing_transform | kobolds:kobold_template kobolds:music_disc_kobblestone minecraft:iron_ingot minecraft:music_disc_stal minecraft:smithing_transform
+kobolds:kobold_smith_trim | minecraft:smithing_trim | kobolds:kobold_template minecraft:smithing_trim minecraft:trim_materials minecraft:trimmable_armor
+kobolds:kobold_trim_template | minecraft:crafting_shaped | kobolds:kobold_template minecraft:crafting_shaped minecraft:diamond minecraft:tuff
+kobolds:witherbold_skull | minecraft:crafting_shapeless | kobolds:kobold_skull kobolds:kobold_wither_skull minecraft:crafting_shapeless minecraft:netherite_sword minecraft:wither_rose

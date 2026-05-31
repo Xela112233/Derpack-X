@@ -1,0 +1,170 @@
+farm_and_charm:barley_ball | minecraft:crafting_shaped | farm_and_charm:barley farm_and_charm:barley_ball minecraft:crafting_shaped
+farm_and_charm:barley_from_ball | crafting_shapeless | farm_and_charm:barley farm_and_charm:barley_ball
+farm_and_charm:beetroot_bag | minecraft:crafting_shaped | farm_and_charm:beetroot_bag minecraft:beetroot minecraft:crafting_shaped
+farm_and_charm:beetroot_from_bag | minecraft:crafting_shapeless | farm_and_charm:beetroot_bag minecraft:beetroot minecraft:crafting_shapeless
+farm_and_charm:carrot_bag | minecraft:crafting_shaped | farm_and_charm:carrot_bag minecraft:carrot minecraft:crafting_shaped
+farm_and_charm:carrot_from_bag | minecraft:crafting_shapeless | farm_and_charm:carrot_bag minecraft:carrot minecraft:crafting_shapeless
+farm_and_charm:cat_food_bag | minecraft:crafting_shaped | farm_and_charm:cat_food farm_and_charm:cat_food_bag minecraft:crafting_shaped
+farm_and_charm:cat_food_from_bag | crafting_shapeless | farm_and_charm:cat_food farm_and_charm:cat_food_bag
+farm_and_charm:cattlegrid | minecraft:crafting_shaped | farm_and_charm:cattlegrid minecraft:cobblestone minecraft:crafting_shaped minecraft:iron_nugget minecraft:stick
+farm_and_charm:chicken_coop | minecraft:crafting_shaped | farm_and_charm:chicken_coop farm_and_charm:chicken_nest minecraft:crafting_shaped minecraft:iron_ingot minecraft:wooden_slabs
+farm_and_charm:chicken_feed | crafting_shapeless | farm_and_charm:chicken_feed farm_and_charm:wheat minecraft:carrot minecraft:wheat_seeds
+farm_and_charm:chicken_fence | minecraft:crafting_shaped | farm_and_charm:chicken_fence minecraft:crafting_shaped minecraft:iron_nugget minecraft:stick
+farm_and_charm:chicken_nest | minecraft:crafting_shaped | farm_and_charm:chicken_nest minecraft:crafting_shaped minecraft:wheat
+farm_and_charm:compost | minecraft:crafting_shaped | farm_and_charm:compost farm_and_charm:fertilizer minecraft:crafting_shaped
+farm_and_charm:cooking_pot | minecraft:crafting_shaped | farm_and_charm:cooking_pot minecraft:crafting_shaped minecraft:iron_ingot minecraft:wooden_shovel
+farm_and_charm:corn_bag | minecraft:crafting_shaped | farm_and_charm:corn farm_and_charm:corn_bag minecraft:crafting_shaped
+farm_and_charm:corn_from_bag | crafting_shapeless | farm_and_charm:corn farm_and_charm:corn_bag
+farm_and_charm:crafting_bowl | minecraft:crafting_shaped | farm_and_charm:crafting_bowl minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick minecraft:wooden_slabs
+farm_and_charm:crafting_bowl/butter | farm_and_charm:crafting_bowl | farm_and_charm:butter farm_and_charm:crafting_bowl farm_and_charm:milk
+farm_and_charm:crafting_bowl/cat_food | farm_and_charm:crafting_bowl | farm_and_charm:cat_food farm_and_charm:cooked_beef farm_and_charm:crafting_bowl farm_and_charm:raw_chicken farm_and_charm:raw_fishes farm_and_charm:raw_pork
+farm_and_charm:crafting_bowl/dog_food | farm_and_charm:crafting_bowl | farm_and_charm:bones farm_and_charm:cooked_beef farm_and_charm:crafting_bowl farm_and_charm:dog_food farm_and_charm:raw_beef
+farm_and_charm:crafting_bowl/dough | farm_and_charm:crafting_bowl | farm_and_charm:crafting_bowl farm_and_charm:dough farm_and_charm:flour farm_and_charm:water_bottles farm_and_charm:yeast
+farm_and_charm:crafting_bowl/farmer_salad | farm_and_charm:crafting_bowl | farm_and_charm:cabbage farm_and_charm:crafting_bowl farm_and_charm:farmer_salad farm_and_charm:onion farm_and_charm:strawberry farm_and_charm:tomato
+farm_and_charm:crafting_bowl/oatmeal_with_strawberries | farm_and_charm:crafting_bowl | farm_and_charm:crafting_bowl farm_and_charm:milk farm_and_charm:oat farm_and_charm:oatmeal_with_strawberries farm_and_charm:strawberry
+farm_and_charm:dog_food_bag | minecraft:crafting_shaped | farm_and_charm:dog_food farm_and_charm:dog_food_bag minecraft:crafting_shaped
+farm_and_charm:dog_food_from_bag | crafting_shapeless | farm_and_charm:dog_food farm_and_charm:dog_food_bag
+farm_and_charm:drying/bone_meal_from_wild_barley | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_barley minecraft:bone_meal
+farm_and_charm:drying/bone_meal_from_wild_beetroots | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_beetroots minecraft:bone_meal
+farm_and_charm:drying/bone_meal_from_wild_carrots | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_carrots minecraft:bone_meal
+farm_and_charm:drying/bone_meal_from_wild_corn | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_corn minecraft:bone_meal
+farm_and_charm:drying/bone_meal_from_wild_emmer | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_emmer minecraft:bone_meal
+farm_and_charm:drying/bone_meal_from_wild_lettuce | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_lettuce minecraft:bone_meal
+farm_and_charm:drying/bone_meal_from_wild_oat | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_oat minecraft:bone_meal
+farm_and_charm:drying/bone_meal_from_wild_onions | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_onions minecraft:bone_meal
+farm_and_charm:drying/bone_meal_from_wild_potatoes | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_potatoes minecraft:bone_meal
+farm_and_charm:drying/bone_meal_from_wild_ribwort | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_ribwort minecraft:bone_meal
+farm_and_charm:drying/bone_meal_from_wild_strawberries | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_strawberries minecraft:bone_meal
+farm_and_charm:drying/bone_meal_from_wild_tomatoes | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:wild_tomatoes minecraft:bone_meal
+farm_and_charm:drying/fertilized_soil_from_podzol | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:fertilized_soil minecraft:podzol
+farm_and_charm:drying/fertilizer_from_bone_meal | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:fertilizer minecraft:bone_meal
+farm_and_charm:drying/fertilizer_from_rotten_flesh | farm_and_charm:drying | farm_and_charm:drying farm_and_charm:fertilizer minecraft:rotten_flesh
+farm_and_charm:farmers_breakfast | minecraft:crafting_shapeless | farm_and_charm:bacon_with_eggs farm_and_charm:bread farm_and_charm:farmers_breakfast farm_and_charm:roasted_corn minecraft:crafting_shapeless
+farm_and_charm:feeding_trough | minecraft:crafting_shaped | farm_and_charm:feeding_trough minecraft:crafting_shaped minecraft:iron_ingot minecraft:planks minecraft:wooden_slabs
+farm_and_charm:fertilized_soil | minecraft:crafting_shaped | farm_and_charm:fertilized_soil farm_and_charm:fertilizer minecraft:crafting_shaped
+farm_and_charm:flour_bag | minecraft:crafting_shaped | farm_and_charm:flour farm_and_charm:flour_bag minecraft:crafting_shaped
+farm_and_charm:flour_from_bag | crafting_shapeless | farm_and_charm:flour farm_and_charm:flour_bag
+farm_and_charm:horse_fodder | minecraft:crafting_shaped | farm_and_charm:horse_fodder farm_and_charm:wheat minecraft:apple minecraft:carrot minecraft:crafting_shaped
+farm_and_charm:iron_divider | minecraft:crafting_shaped | farm_and_charm:iron_divider minecraft:crafting_shaped minecraft:iron_nugget
+farm_and_charm:lettuce | minecraft:crafting_shaped | farm_and_charm:lettuce farm_and_charm:lettuce_bag minecraft:crafting_shaped
+farm_and_charm:lettuce_bag | minecraft:crafting_shaped | farm_and_charm:lettuce farm_and_charm:lettuce_bag minecraft:crafting_shaped
+farm_and_charm:mincer | minecraft:crafting_shaped | farm_and_charm:mincer minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_nugget minecraft:planks
+farm_and_charm:mincer/bacon | farm_and_charm:mincer | farm_and_charm:bacon farm_and_charm:mincer minecraft:porkchop
+farm_and_charm:mincer/bonemeal_from_bone | farm_and_charm:mincer | farm_and_charm:mincer minecraft:bone minecraft:bone_meal
+farm_and_charm:mincer/chicken_parts | farm_and_charm:mincer | farm_and_charm:chicken_parts farm_and_charm:mincer minecraft:chicken
+farm_and_charm:mincer/cobblestone | farm_and_charm:mincer | farm_and_charm:mincer minecraft:cobblestone minecraft:stone
+farm_and_charm:mincer/diamond_from_horse_armor | farm_and_charm:mincer | farm_and_charm:mincer minecraft:diamond minecraft:diamond_horse_armor
+farm_and_charm:mincer/emerald_from_deepslate_emerald_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:deepslate_emerald_ore minecraft:emerald
+farm_and_charm:mincer/emerald_from_emerald_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:emerald minecraft:emerald_ore
+farm_and_charm:mincer/fertilizer | farm_and_charm:mincer | farm_and_charm:fertilizer farm_and_charm:mincer minecraft:rotten_flesh
+farm_and_charm:mincer/flour | farm_and_charm:mincer | farm_and_charm:flour farm_and_charm:mincer farm_and_charm:wheat
+farm_and_charm:mincer/gold_nugget_from_deepslate_gold_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:deepslate_gold_ore minecraft:raw_gold
+farm_and_charm:mincer/gold_nugget_from_gold_ingot | farm_and_charm:mincer | farm_and_charm:mincer minecraft:gold_ingot minecraft:gold_nugget
+farm_and_charm:mincer/gold_nugget_from_gold_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:gold_ore minecraft:raw_gold
+farm_and_charm:mincer/gold_nugget_from_horse_armor | farm_and_charm:mincer | farm_and_charm:mincer minecraft:gold_nugget minecraft:golden_horse_armor
+farm_and_charm:mincer/iron_nugget_from_deepslate_iron_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:iron_ore minecraft:raw_iron
+farm_and_charm:mincer/iron_nugget_from_horse_armor | farm_and_charm:mincer | farm_and_charm:mincer minecraft:iron_horse_armor minecraft:iron_nugget
+farm_and_charm:mincer/iron_nugget_from_iron_ingot | farm_and_charm:mincer | farm_and_charm:mincer minecraft:iron_ingot minecraft:iron_nugget
+farm_and_charm:mincer/iron_nugget_from_iron_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:iron_nugget minecraft:iron_ore
+farm_and_charm:mincer/lamb_ham | farm_and_charm:mincer | farm_and_charm:lamb_ham farm_and_charm:mincer minecraft:mutton
+farm_and_charm:mincer/lapis_from_deepslate_lapis_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:deepslate_lapis_ore minecraft:lapis_lazuli
+farm_and_charm:mincer/lapis_from_lapis_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:lapis_lazuli minecraft:lapis_ore
+farm_and_charm:mincer/leather_from_horse_armor | farm_and_charm:mincer | farm_and_charm:mincer minecraft:leather minecraft:leather_horse_armor
+farm_and_charm:mincer/lettuce_seeds | farm_and_charm:mincer | farm_and_charm:lettuce farm_and_charm:lettuce_seeds farm_and_charm:mincer
+farm_and_charm:mincer/melon_slice | farm_and_charm:mincer | farm_and_charm:mincer minecraft:melon minecraft:melon_slice
+farm_and_charm:mincer/minced_beef | farm_and_charm:mincer | farm_and_charm:minced_beef farm_and_charm:mincer minecraft:beef
+farm_and_charm:mincer/pointed_dripstone | farm_and_charm:mincer | farm_and_charm:mincer minecraft:dripstone_block minecraft:pointed_dripstone
+farm_and_charm:mincer/raw_copper_from_copper_ingot | farm_and_charm:mincer | farm_and_charm:mincer minecraft:copper_ingot minecraft:raw_copper
+farm_and_charm:mincer/raw_copper_from_copper_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:copper_ore minecraft:raw_copper
+farm_and_charm:mincer/raw_copper_from_deepslate_copper_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:deepslate_copper_ore minecraft:raw_copper
+farm_and_charm:mincer/raw_gold_from_deepslate_gold_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:deepslate_gold_ore minecraft:raw_gold
+farm_and_charm:mincer/raw_gold_from_gold_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:gold_ore minecraft:raw_gold
+farm_and_charm:mincer/raw_iron_from_deepslate_iron_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:deepslate_iron_ore minecraft:raw_iron
+farm_and_charm:mincer/raw_iron_from_iron_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:iron_ore minecraft:raw_iron
+farm_and_charm:mincer/raw_pasta | farm_and_charm:mincer | farm_and_charm:dough farm_and_charm:mincer farm_and_charm:raw_pasta
+farm_and_charm:mincer/redstone_dust_from_deepslate_redstone_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:deepslate_redstone_ore minecraft:redstone
+farm_and_charm:mincer/redstone_dust_from_redstone_ore | farm_and_charm:mincer | farm_and_charm:mincer minecraft:redstone minecraft:redstone_ore
+farm_and_charm:mincer/strawberry_seeds | farm_and_charm:mincer | farm_and_charm:mincer farm_and_charm:strawberry farm_and_charm:strawberry_seeds
+farm_and_charm:mincer/stripped_acacia_log | farm_and_charm:mincer | farm_and_charm:mincer minecraft:acacia_log minecraft:stripped_acacia_log
+farm_and_charm:mincer/stripped_acacia_wood | farm_and_charm:mincer | farm_and_charm:mincer minecraft:acacia_wood minecraft:stripped_acacia_wood
+farm_and_charm:mincer/stripped_birch_log | farm_and_charm:mincer | farm_and_charm:mincer minecraft:birch_log minecraft:stripped_birch_log
+farm_and_charm:mincer/stripped_birch_wood | farm_and_charm:mincer | farm_and_charm:mincer minecraft:birch_wood minecraft:stripped_birch_wood
+farm_and_charm:mincer/stripped_cherry_log | farm_and_charm:mincer | farm_and_charm:mincer minecraft:cherry_log minecraft:stripped_cherry_log
+farm_and_charm:mincer/stripped_cherry_wood | farm_and_charm:mincer | farm_and_charm:mincer minecraft:cherry_wood minecraft:stripped_cherry_wood
+farm_and_charm:mincer/stripped_crimson_hyphae | farm_and_charm:mincer | farm_and_charm:mincer minecraft:crimson_hyphae minecraft:stripped_crimson_hyphae
+farm_and_charm:mincer/stripped_crimson_log | farm_and_charm:mincer | farm_and_charm:mincer minecraft:crimson_stem minecraft:stripped_crimson_stem
+farm_and_charm:mincer/stripped_crimson_wood | farm_and_charm:mincer | farm_and_charm:mincer minecraft:crimson_stem minecraft:stripped_crimson_stem
+farm_and_charm:mincer/stripped_dark_oak_log | farm_and_charm:mincer | farm_and_charm:mincer minecraft:dark_oak_log minecraft:stripped_dark_oak_log
+farm_and_charm:mincer/stripped_dark_oak_wood | farm_and_charm:mincer | farm_and_charm:mincer minecraft:dark_oak_wood minecraft:stripped_dark_oak_wood
+farm_and_charm:mincer/stripped_jungle_log | farm_and_charm:mincer | farm_and_charm:mincer minecraft:jungle_log minecraft:stripped_jungle_log
+farm_and_charm:mincer/stripped_jungle_wood | farm_and_charm:mincer | farm_and_charm:mincer minecraft:jungle_wood minecraft:stripped_jungle_wood
+farm_and_charm:mincer/stripped_mangrove_log | farm_and_charm:mincer | farm_and_charm:mincer minecraft:mangrove_log minecraft:stripped_mangrove_log
+farm_and_charm:mincer/stripped_mangrove_wood | farm_and_charm:mincer | farm_and_charm:mincer minecraft:mangrove_wood minecraft:stripped_mangrove_wood
+farm_and_charm:mincer/stripped_oak_log | farm_and_charm:mincer | farm_and_charm:mincer minecraft:oak_log minecraft:stripped_oak_log
+farm_and_charm:mincer/stripped_oak_wood | farm_and_charm:mincer | farm_and_charm:mincer minecraft:oak_wood minecraft:stripped_oak_wood
+farm_and_charm:mincer/stripped_spruce_log | farm_and_charm:mincer | farm_and_charm:mincer minecraft:spruce_log minecraft:stripped_spruce_log
+farm_and_charm:mincer/stripped_spruce_wood | farm_and_charm:mincer | farm_and_charm:mincer minecraft:spruce_wood minecraft:stripped_spruce_wood
+farm_and_charm:mincer/stripped_warped_hyphae | farm_and_charm:mincer | farm_and_charm:mincer minecraft:stripped_warped_hyphae minecraft:warped_hyphae
+farm_and_charm:mincer/stripped_warped_log | farm_and_charm:mincer | farm_and_charm:mincer minecraft:stripped_warped_stem minecraft:warped_stem
+farm_and_charm:mincer/stripped_warped_wood | farm_and_charm:mincer | farm_and_charm:mincer minecraft:crimson_hyphae minecraft:stripped_crimson_hyphae
+farm_and_charm:mincer/tomato_seeds | farm_and_charm:mincer | farm_and_charm:mincer farm_and_charm:tomato farm_and_charm:tomato_seeds
+farm_and_charm:oat_ball | minecraft:crafting_shaped | farm_and_charm:oat farm_and_charm:oat_ball minecraft:crafting_shaped
+farm_and_charm:oat_from_ball | crafting_shapeless | farm_and_charm:oat farm_and_charm:oat_ball
+farm_and_charm:oat_seeds | minecraft:crafting_shapeless | farm_and_charm:oat_seeds minecraft:bone_meal minecraft:crafting_shapeless minecraft:wheat_seeds
+farm_and_charm:onion_bag | minecraft:crafting_shaped | farm_and_charm:onion farm_and_charm:onion_bag minecraft:crafting_shaped
+farm_and_charm:onion_from_bag | crafting_shapeless | farm_and_charm:onion farm_and_charm:onion_bag
+farm_and_charm:packed_dirt | minecraft:crafting_shaped | farm_and_charm:packed_dirt minecraft:crafting_shaped minecraft:dirt
+farm_and_charm:pet_bowl | minecraft:crafting_shaped | farm_and_charm:pet_bowl minecraft:crafting_shaped minecraft:stick minecraft:wooden_slabs
+farm_and_charm:pitchfork | minecraft:crafting_shaped | farm_and_charm:pitchfork minecraft:crafting_shaped minecraft:iron_nugget minecraft:stick
+farm_and_charm:plow | minecraft:crafting_shaped | farm_and_charm:plow minecraft:crafting_shaped minecraft:iron_nugget minecraft:planks
+farm_and_charm:pot_cooking/barley_soup | farm_and_charm:pot_cooking | farm_and_charm:barley farm_and_charm:barley_soup farm_and_charm:pot_cooking farm_and_charm:water_bottles minecraft:bowl minecraft:egg
+farm_and_charm:pot_cooking/corn_grits | farm_and_charm:pot_cooking | farm_and_charm:corn farm_and_charm:corn_grits farm_and_charm:flour farm_and_charm:pot_cooking minecraft:bowl
+farm_and_charm:pot_cooking/goulash | farm_and_charm:pot_cooking | farm_and_charm:cooked_beef farm_and_charm:goulash farm_and_charm:onion farm_and_charm:pot_cooking farm_and_charm:simple_tomato_soup minecraft:bowl minecraft:carrot minecraft:potato
+farm_and_charm:pot_cooking/nettle_tea | farm_and_charm:pot_cooking | farm_and_charm:nettle_tea farm_and_charm:pot_cooking farm_and_charm:water_bottles farm_and_charm:wild_nettle minecraft:glass_bottle
+farm_and_charm:pot_cooking/onion_soup | farm_and_charm:pot_cooking | farm_and_charm:bread farm_and_charm:onion farm_and_charm:onion_soup farm_and_charm:pot_cooking minecraft:bowl
+farm_and_charm:pot_cooking/potato_soup | farm_and_charm:pot_cooking | farm_and_charm:onion farm_and_charm:pot_cooking farm_and_charm:potato_soup minecraft:bowl minecraft:potato
+farm_and_charm:pot_cooking/ribwort_tea | farm_and_charm:pot_cooking | farm_and_charm:pot_cooking farm_and_charm:ribwort_tea farm_and_charm:water_bottles farm_and_charm:wild_ribwort minecraft:glass_bottle
+farm_and_charm:pot_cooking/simple_tomato_soup | farm_and_charm:pot_cooking | farm_and_charm:pot_cooking farm_and_charm:simple_tomato_soup farm_and_charm:tomato minecraft:bowl minecraft:sugar
+farm_and_charm:pot_cooking/strawberry_tea | farm_and_charm:pot_cooking | farm_and_charm:pot_cooking farm_and_charm:strawberry farm_and_charm:strawberry_tea farm_and_charm:water_bottles minecraft:glass_bottle
+farm_and_charm:pot_cooking/yeast | farm_and_charm:pot_cooking | farm_and_charm:pot_cooking farm_and_charm:water_bottles farm_and_charm:yeast minecraft:bowl minecraft:sugar minecraft:wheat
+farm_and_charm:potato_bag | minecraft:crafting_shaped | farm_and_charm:potato_bag minecraft:crafting_shaped minecraft:potato
+farm_and_charm:potato_from_bag | minecraft:crafting_shapeless | farm_and_charm:potato_bag minecraft:crafting_shapeless minecraft:potato
+farm_and_charm:roaster | minecraft:crafting_shaped | farm_and_charm:roaster minecraft:crafting_shaped minecraft:iron_ingot minecraft:iron_nugget
+farm_and_charm:roaster/bacon_with_eggs | farm_and_charm:roaster | farm_and_charm:bacon farm_and_charm:bacon_with_eggs farm_and_charm:butter farm_and_charm:roaster minecraft:bowl minecraft:egg
+farm_and_charm:roaster/barley_patties_with_potatoes | farm_and_charm:roaster | farm_and_charm:barley farm_and_charm:barley_patties_with_potatoes farm_and_charm:butter farm_and_charm:cabbage farm_and_charm:roaster minecraft:bowl minecraft:egg minecraft:potato
+farm_and_charm:roaster/beef_patty_with_vegetables | farm_and_charm:roaster | farm_and_charm:beef_patty_with_vegetables farm_and_charm:butter farm_and_charm:cabbage farm_and_charm:roaster minecraft:beef minecraft:beetroot minecraft:bowl minecraft:carrot minecraft:potato
+farm_and_charm:roaster/chicken_wrapped_in_bacon | farm_and_charm:roaster | farm_and_charm:bacon farm_and_charm:butter farm_and_charm:chicken_parts farm_and_charm:chicken_wrapped_in_bacon farm_and_charm:pasta farm_and_charm:roaster minecraft:bowl
+farm_and_charm:roaster/cooked_cod | farm_and_charm:roaster | farm_and_charm:butter farm_and_charm:cabbage farm_and_charm:cooked_cod farm_and_charm:roaster minecraft:bowl minecraft:carrot minecraft:cod
+farm_and_charm:roaster/cooked_salmon | farm_and_charm:roaster | farm_and_charm:butter farm_and_charm:cabbage farm_and_charm:cooked_salmon farm_and_charm:corn farm_and_charm:roaster minecraft:bowl minecraft:salmon
+farm_and_charm:roaster/lamb_with_corn | farm_and_charm:roaster | farm_and_charm:butter farm_and_charm:corn farm_and_charm:lamb_ham farm_and_charm:lamb_with_corn farm_and_charm:roaster minecraft:bowl minecraft:carrot
+farm_and_charm:roaster/oat_pancake | farm_and_charm:roaster | farm_and_charm:butter farm_and_charm:dough farm_and_charm:oat farm_and_charm:oat_pancake farm_and_charm:roaster farm_and_charm:strawberry minecraft:bowl
+farm_and_charm:roaster/sausage_with_oat_patty | farm_and_charm:roaster | farm_and_charm:butter farm_and_charm:minced_beef farm_and_charm:oat farm_and_charm:roaster farm_and_charm:sausage_with_oat_patty minecraft:bowl minecraft:carrot minecraft:potato
+farm_and_charm:rope | minecraft:crafting_shaped | farm_and_charm:barley farm_and_charm:rope minecraft:crafting_shaped minecraft:string
+farm_and_charm:scarecrow | minecraft:crafting_shaped | farm_and_charm:barley_ball farm_and_charm:scarecrow minecraft:crafting_shaped minecraft:stick
+farm_and_charm:seeds_corn | minecraft:crafting_shapeless | farm_and_charm:corn farm_and_charm:kernels minecraft:crafting_shapeless
+farm_and_charm:seeds_lettuce | minecraft:crafting_shapeless | farm_and_charm:lettuce farm_and_charm:lettuce_seeds minecraft:crafting_shapeless
+farm_and_charm:seeds_tomato | minecraft:crafting_shapeless | farm_and_charm:tomato farm_and_charm:tomato_seeds minecraft:crafting_shapeless
+farm_and_charm:silo_copper | minecraft:crafting_shaped | farm_and_charm:silo_copper farm_and_charm:silo_wood minecraft:copper_ingot minecraft:crafting_shaped
+farm_and_charm:silo_wood | minecraft:crafting_shaped | farm_and_charm:silo_wood minecraft:crafting_shaped minecraft:planks
+farm_and_charm:stable_floor | minecraft:crafting_shaped | farm_and_charm:packed_dirt farm_and_charm:stable_floor minecraft:crafting_shaped
+farm_and_charm:stove | minecraft:crafting_shaped | farm_and_charm:stove minecraft:bricks minecraft:campfire minecraft:crafting_shaped minecraft:iron_ingot
+farm_and_charm:stove/baked_lamb_ham | farm_and_charm:stove | farm_and_charm:baked_lamb_ham farm_and_charm:cabbage farm_and_charm:lamb_ham farm_and_charm:stove
+farm_and_charm:stove/farmers_bread | farm_and_charm:stove | farm_and_charm:dough farm_and_charm:farmers_bread farm_and_charm:stove farm_and_charm:water_bottles
+farm_and_charm:stove/grandmothers_strawberry_cake | farm_and_charm:stove | farm_and_charm:dough farm_and_charm:grandmothers_strawberry_cake farm_and_charm:stove farm_and_charm:strawberry minecraft:sugar
+farm_and_charm:stove/pasta_with_onion_sauce | farm_and_charm:stove | farm_and_charm:onion farm_and_charm:pasta farm_and_charm:pasta_with_onion_sauce farm_and_charm:stove
+farm_and_charm:stove/potato_with_roast_meat | farm_and_charm:stove | farm_and_charm:potato_with_roast_meat farm_and_charm:stove minecraft:beef minecraft:honey_bottle minecraft:potato
+farm_and_charm:stove/roasted_chicken | farm_and_charm:stove | farm_and_charm:chicken_parts farm_and_charm:pasta farm_and_charm:roasted_chicken farm_and_charm:stove minecraft:carrot
+farm_and_charm:stove/roasted_corn | farm_and_charm:stove | farm_and_charm:butter farm_and_charm:corn farm_and_charm:roasted_corn farm_and_charm:stove
+farm_and_charm:stove/stuffed_chicken | farm_and_charm:stove | farm_and_charm:onion farm_and_charm:stove farm_and_charm:stuffed_chicken minecraft:carrot minecraft:chicken
+farm_and_charm:stove/stuffed_rabbit | farm_and_charm:stove | farm_and_charm:onion farm_and_charm:stove farm_and_charm:stuffed_rabbit minecraft:carrot minecraft:rabbit
+farm_and_charm:strawberry_bag | minecraft:crafting_shaped | farm_and_charm:strawberry farm_and_charm:strawberry_bag minecraft:crafting_shaped
+farm_and_charm:strawberry_from_bag | minecraft:crafting_shaped | farm_and_charm:strawberry farm_and_charm:strawberry_bag minecraft:crafting_shaped
+farm_and_charm:strawberry_seeds | minecraft:crafting_shapeless | farm_and_charm:strawberry farm_and_charm:strawberry_seeds minecraft:crafting_shapeless
+farm_and_charm:sturdy_ladder | minecraft:crafting_shaped | farm_and_charm:sturdy_ladder minecraft:crafting_shaped minecraft:stick minecraft:wooden_slabs
+farm_and_charm:supply_cart | minecraft:crafting_shaped | farm_and_charm:supply_cart minecraft:chest minecraft:crafting_shaped minecraft:iron_ingot minecraft:planks minecraft:wooden_slabs
+farm_and_charm:tomato | minecraft:crafting_shaped | farm_and_charm:tomato farm_and_charm:tomato_bag minecraft:crafting_shaped
+farm_and_charm:tomato_bag | minecraft:crafting_shaped | farm_and_charm:tomato farm_and_charm:tomato_bag minecraft:crafting_shaped
+farm_and_charm:tool_rack | minecraft:crafting_shaped | farm_and_charm:tool_rack minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+farm_and_charm:water_sprinkler | minecraft:crafting_shaped | farm_and_charm:water_bottles farm_and_charm:water_sprinkler minecraft:crafting_shaped minecraft:iron_ingot minecraft:planks
+farm_and_charm:water_trough | minecraft:crafting_shaped | farm_and_charm:water_trough minecraft:crafting_shaped minecraft:planks minecraft:wooden_slabs
+farm_and_charm:window_sill | minecraft:crafting_shaped | farm_and_charm:window_sill minecraft:crafting_shaped minecraft:flower_pot minecraft:wooden_slabs

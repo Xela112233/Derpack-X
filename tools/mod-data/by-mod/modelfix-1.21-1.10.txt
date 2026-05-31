@@ -1,0 +1,19 @@
+# modelfix-1.21-1.10
+
+## mod metadata (id / version / deps)
+license = "GLP3"
+modId = "modelfix"
+version = "1.21-1.10"
+displayName = "Model Gap Fix"
+modId = "neoforge"
+versionRange = "[4,)"
+modId = "minecraft"
+versionRange = "[1.21,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

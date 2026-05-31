@@ -1,0 +1,19 @@
+# iChunUtil-1.21-NeoForge-1.0.3
+
+## mod metadata (id / version / deps)
+license="GNU Lesser General Public License v3.0"
+modId="ichunutil"
+version="1.0.3" #mandatory
+displayName="iChunUtil"
+modId="neoforge"
+versionRange="[21.0,)"
+modId="minecraft"
+versionRange="[1.21,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

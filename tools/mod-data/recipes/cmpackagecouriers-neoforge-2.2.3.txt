@@ -1,0 +1,8 @@
+cmpackagecouriers:cardboard_plane_parts | minecraft:crafting_shaped | cmpackagecouriers:cardboard_plane_parts create:cardboard minecraft:crafting_shaped minecraft:firework_rocket minecraft:stick
+cmpackagecouriers:cutting/dissasemble_plane | create:cutting | cmpackagecouriers:cardboard_plane create:cardboard_package_12x12 create:cutting
+cmpackagecouriers:deploying/cardboard_plane | create:deploying | cmpackagecouriers:cardboard_plane cmpackagecouriers:cardboard_plane_parts create:deploying create:packages
+cmpackagecouriers:deploying/jar_plane | create:deploying | cmpackagecouriers:cardboard_plane cmpackagecouriers:cardboard_plane_parts create:deploying create_factory_logistics:copper_jar_package_8x8
+cmpackagecouriers:deploying/preopened_package_plane | create:deploying | cmpackagecouriers:cardboard_plane create:deploying minecraft:shears
+cmpackagecouriers:location_transmitter | minecraft:crafting_shapeless | cmpackagecouriers:location_transmitter create:andesite_casing create:transmitter minecraft:compass minecraft:crafting_shapeless
+cmpackagecouriers:portable_stock_ticker | minecraft:crafting_shapeless | cmpackagecouriers:portable_stock_ticker create:andesite_casing create:clipboard create:redstone_link create:stock_ticker minecraft:crafting_shapeless
+cmpackagecouriers:portable_stock_ticker_clear | minecraft:crafting_shapeless | cmpackagecouriers:portable_stock_ticker minecraft:crafting_shapeless

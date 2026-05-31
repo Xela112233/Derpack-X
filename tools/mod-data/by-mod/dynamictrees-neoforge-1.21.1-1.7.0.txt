@@ -1,0 +1,146 @@
+# dynamictrees-neoforge-1.21.1-1.7.0
+
+## mod metadata (id / version / deps)
+license = "MIT" # Review your options at https://choosealicense.com/.
+modId = "dynamictrees" #mandatory
+version = "1.7.0" #mandatory
+displayName = "Dynamic Trees" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.1.80,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1, 1.22)"
+
+## blocks
+dynamictrees:acacia_branch
+dynamictrees:acacia_leaves
+dynamictrees:acacia_sapling
+dynamictrees:apple
+dynamictrees:apple_oak_sapling
+dynamictrees:azalea_leaves
+dynamictrees:azalea_sapling
+dynamictrees:birch_branch
+dynamictrees:birch_leaves
+dynamictrees:birch_sapling
+dynamictrees:cherry_branch
+dynamictrees:cherry_leaves
+dynamictrees:cherry_sapling
+dynamictrees:cocoa
+dynamictrees:cocoa_sapling
+dynamictrees:crimson_branch
+dynamictrees:crimson_sapling
+dynamictrees:crimson_wart
+dynamictrees:dark_oak_branch
+dynamictrees:dark_oak_leaves
+dynamictrees:dark_oak_root
+dynamictrees:dark_oak_sapling
+dynamictrees:flowering_azalea_leaves
+dynamictrees:jungle_branch
+dynamictrees:jungle_leaves
+dynamictrees:jungle_root
+dynamictrees:jungle_sapling
+dynamictrees:jungle_undergrowth_leaves
+dynamictrees:mangrove_branch
+dynamictrees:mangrove_leaves
+dynamictrees:mangrove_roots
+dynamictrees:mangrove_sapling
+dynamictrees:mega_crimson_sapling
+dynamictrees:mega_jungle_sapling
+dynamictrees:mega_spruce_sapling
+dynamictrees:mega_warped_sapling
+dynamictrees:oak_branch
+dynamictrees:oak_leaves
+dynamictrees:oak_sapling
+dynamictrees:oak_undergrowth_leaves
+dynamictrees:potted_sapling
+dynamictrees:rooty_brown_terracotta
+dynamictrees:rooty_clay
+dynamictrees:rooty_coarse_dirt
+dynamictrees:rooty_crimson_nylium
+dynamictrees:rooty_deepslate
+dynamictrees:rooty_dirt
+dynamictrees:rooty_end_stone
+dynamictrees:rooty_grass_block
+dynamictrees:rooty_gravel
+dynamictrees:rooty_light_gray_terracotta
+dynamictrees:rooty_mangrove_aerial_roots
+dynamictrees:rooty_moss
+dynamictrees:rooty_moss_block
+dynamictrees:rooty_mud
+dynamictrees:rooty_mycelium
+dynamictrees:rooty_netherrack
+dynamictrees:rooty_orange_terracotta
+dynamictrees:rooty_podzol
+dynamictrees:rooty_red_sand
+dynamictrees:rooty_red_terracotta
+dynamictrees:rooty_rooted_dirt
+dynamictrees:rooty_sand
+dynamictrees:rooty_soul_sand
+dynamictrees:rooty_soul_soil
+dynamictrees:rooty_stone
+dynamictrees:rooty_terracotta
+dynamictrees:rooty_warped_nylium
+dynamictrees:rooty_water
+dynamictrees:rooty_white_terracotta
+dynamictrees:rooty_yellow_terracotta
+dynamictrees:spruce_branch
+dynamictrees:spruce_leaves
+dynamictrees:spruce_sapling
+dynamictrees:stripped_acacia_branch
+dynamictrees:stripped_birch_branch
+dynamictrees:stripped_cherry_branch
+dynamictrees:stripped_crimson_branch
+dynamictrees:stripped_dark_oak_branch
+dynamictrees:stripped_jungle_branch
+dynamictrees:stripped_mangrove_branch
+dynamictrees:stripped_oak_branch
+dynamictrees:stripped_spruce_branch
+dynamictrees:stripped_warped_branch
+dynamictrees:swamp_oak_sapling
+dynamictrees:tall_birch_sapling
+dynamictrees:trunk_shell
+dynamictrees:warped_branch
+dynamictrees:warped_sapling
+dynamictrees:warped_wart
+
+## items
+dynamictrees:acacia_branch
+dynamictrees:acacia_seed
+dynamictrees:apple_oak_seed
+dynamictrees:azalea_seed
+dynamictrees:birch_branch
+dynamictrees:birch_seed
+dynamictrees:branch
+dynamictrees:cherry_branch
+dynamictrees:cherry_seed
+dynamictrees:cocoa_seed
+dynamictrees:crimson_branch
+dynamictrees:crimson_seed
+dynamictrees:dark_oak_branch
+dynamictrees:dark_oak_seed
+dynamictrees:dendro_potion
+dynamictrees:dirt_bucket
+dynamictrees:jungle_branch
+dynamictrees:jungle_seed
+dynamictrees:mangrove_branch
+dynamictrees:mangrove_roots
+dynamictrees:mangrove_seed
+dynamictrees:manual
+dynamictrees:mega_crimson_seed
+dynamictrees:mega_jungle_seed
+dynamictrees:mega_spruce_seed
+dynamictrees:mega_warped_seed
+dynamictrees:oak_branch
+dynamictrees:oak_seed
+dynamictrees:root_branch
+dynamictrees:spruce_branch
+dynamictrees:spruce_seed
+dynamictrees:staff
+dynamictrees:standard_seed
+dynamictrees:warped_branch
+dynamictrees:warped_seed
+
+## neoforge biome_modifiers
+add_dynamic_trees.json :: { "type": "dynamictrees:add_dynamic_trees"}
+run_feature_cancellers.json :: { "type": "dynamictrees:run_feature_cancellers"}
+
+## c: common tag membership

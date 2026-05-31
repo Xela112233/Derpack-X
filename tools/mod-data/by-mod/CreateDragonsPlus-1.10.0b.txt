@@ -1,0 +1,118 @@
+# CreateDragonsPlus-1.10.0b
+
+## mod metadata (id / version / deps)
+license="LGPL-3.0-or-later"
+modId="create_dragons_plus"
+version="1.10.0b"
+displayName="Create: Dragons Plus"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+modId="create"
+versionRange="[6.0.10,)"
+
+## blocks
+create_dragons_plus:black_dye
+create_dragons_plus:blue_dye
+create_dragons_plus:brown_dye
+create_dragons_plus:cyan_dye
+create_dragons_plus:dragon_breath
+create_dragons_plus:fluid_hatch
+create_dragons_plus:fragile_fluid_tank
+create_dragons_plus:gray_dye
+create_dragons_plus:green_dye
+create_dragons_plus:levitite_fragile_fluid_tank
+create_dragons_plus:light_blue_dye
+create_dragons_plus:light_gray_dye
+create_dragons_plus:lime_dye
+create_dragons_plus:magenta_dye
+create_dragons_plus:orange_dye
+create_dragons_plus:pink_dye
+create_dragons_plus:purple_dye
+create_dragons_plus:red_dye
+create_dragons_plus:white_dye
+create_dragons_plus:yellow_dye
+
+## items
+create_dragons_plus:black_dye_bucket
+create_dragons_plus:blaze_upgrade_smithing_template
+create_dragons_plus:blue_dye_bucket
+create_dragons_plus:brown_dye_bucket
+create_dragons_plus:cyan_dye_bucket
+create_dragons_plus:dragon_breath_bucket
+create_dragons_plus:dye_bucket
+create_dragons_plus:fluid_hatch
+create_dragons_plus:fragile_fluid_tank
+create_dragons_plus:gray_dye_bucket
+create_dragons_plus:green_dye_bucket
+create_dragons_plus:levitite_fragile_fluid_tank
+create_dragons_plus:light_blue_dye_bucket
+create_dragons_plus:light_gray_dye_bucket
+create_dragons_plus:lime_dye_bucket
+create_dragons_plus:magenta_dye_bucket
+create_dragons_plus:orange_dye_bucket
+create_dragons_plus:pink_dye_bucket
+create_dragons_plus:purple_dye_bucket
+create_dragons_plus:rare_blaze_pacakge
+create_dragons_plus:rare_marble_gate_pacakge
+create_dragons_plus:red_dye_bucket
+create_dragons_plus:white_dye_bucket
+create_dragons_plus:yellow_dye_bucket
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+fluid/dyes/pink.json :: { "values": [ "create_dragons_plus:flowing_pink_dye", "create_dragons_plus:pink_dye" ]}
+fluid/dyes/red.json :: { "values": [ "create_dragons_plus:flowing_red_dye", "create_dragons_plus:red_dye" ]}
+fluid/dyes/cyan.json :: { "values": [ "create_dragons_plus:flowing_cyan_dye", "create_dragons_plus:cyan_dye" ]}
+fluid/dyes/light_gray.json :: { "values": [ "create_dragons_plus:flowing_light_gray_dye", "create_dragons_plus:light_gray_dye" ]}
+fluid/dyes/gray.json :: { "values": [ "create_dragons_plus:flowing_gray_dye", "create_dragons_plus:gray_dye" ]}
+fluid/dyes/green.json :: { "values": [ "create_dragons_plus:flowing_green_dye", "create_dragons_plus:green_dye" ]}
+fluid/dyes/lime.json :: { "values": [ "create_dragons_plus:flowing_lime_dye", "create_dragons_plus:lime_dye" ]}
+fluid/dyes/magenta.json :: { "values": [ "create_dragons_plus:flowing_magenta_dye", "create_dragons_plus:magenta_dye" ]}
+fluid/dyes/black.json :: { "values": [ "create_dragons_plus:flowing_black_dye", "create_dragons_plus:black_dye" ]}
+fluid/dyes/yellow.json :: { "values": [ "create_dragons_plus:flowing_yellow_dye", "create_dragons_plus:yellow_dye" ]}
+fluid/dyes/white.json :: { "values": [ "create_dragons_plus:flowing_white_dye", "create_dragons_plus:white_dye" ]}
+fluid/dyes/brown.json :: { "values": [ "create_dragons_plus:flowing_brown_dye", "create_dragons_plus:brown_dye" ]}
+fluid/dyes/light_blue.json :: { "values": [ "create_dragons_plus:flowing_light_blue_dye", "create_dragons_plus:light_blue_dye" ]}
+fluid/dyes/purple.json :: { "values": [ "create_dragons_plus:flowing_purple_dye", "create_dragons_plus:purple_dye" ]}
+fluid/dyes/orange.json :: { "values": [ "create_dragons_plus:flowing_orange_dye", "create_dragons_plus:orange_dye" ]}
+fluid/dyes/blue.json :: { "values": [ "create_dragons_plus:flowing_blue_dye", "create_dragons_plus:blue_dye" ]}
+fluid/dragon_breath.json :: { "values": [ "create_dragons_plus:flowing_dragon_breath", "create_dragons_plus:dragon_breath" ]}
+fluid/dyes.json :: { "values": [ "#c:dyes/white", "#c:dyes/orange", "#c:dyes/magenta", "#c:dyes/light_blue", "#c:dyes/yellow", "#c:dyes/lime", "#c:dyes/pink", "#c:dyes/gray", "#c:dyes/light_gray", "#c:dyes/cyan", "#c:dyes/purple", "#c:dyes/blue", "#c:dyes/brown", "#c:dyes/green", "#c:dyes/red", "#c:dyes/black" ]}
+item/buckets/dye.json :: { "values": [ "#c:buckets/dye/white", "#c:buckets/dye/orange", "#c:buckets/dye/magenta", "#c:buckets/dye/light_blue", "#c:buckets/dye/yellow", "#c:buckets/dye/lime", "#c:buckets/dye/pink", "#c:buckets/dye/gray", "#c:buckets/dye/light_gray", "#c:buckets/dye/cyan", "#c:buckets/dye/purple", "#c:buckets/dye/blue", "#c:buckets/dye/brown", "#c:buckets/dye/green", "#c:buckets/dye/red", "#c:buckets/dye/black" ]}
+item/buckets/dragon_breath.json :: { "values": [ "create_dragons_plus:dragon_breath_bucket" ]}
+item/buckets/dye/pink.json :: { "values": [ "create_dragons_plus:pink_dye_bucket" ]}
+item/buckets/dye/red.json :: { "values": [ "create_dragons_plus:red_dye_bucket" ]}
+item/buckets/dye/cyan.json :: { "values": [ "create_dragons_plus:cyan_dye_bucket" ]}
+item/buckets/dye/light_gray.json :: { "values": [ "create_dragons_plus:light_gray_dye_bucket" ]}
+item/buckets/dye/gray.json :: { "values": [ "create_dragons_plus:gray_dye_bucket" ]}
+item/buckets/dye/green.json :: { "values": [ "create_dragons_plus:green_dye_bucket" ]}
+item/buckets/dye/lime.json :: { "values": [ "create_dragons_plus:lime_dye_bucket" ]}
+item/buckets/dye/magenta.json :: { "values": [ "create_dragons_plus:magenta_dye_bucket" ]}
+item/buckets/dye/black.json :: { "values": [ "create_dragons_plus:black_dye_bucket" ]}
+item/buckets/dye/yellow.json :: { "values": [ "create_dragons_plus:yellow_dye_bucket" ]}
+item/buckets/dye/white.json :: { "values": [ "create_dragons_plus:white_dye_bucket" ]}
+item/buckets/dye/brown.json :: { "values": [ "create_dragons_plus:brown_dye_bucket" ]}
+item/buckets/dye/light_blue.json :: { "values": [ "create_dragons_plus:light_blue_dye_bucket" ]}
+item/buckets/dye/purple.json :: { "values": [ "create_dragons_plus:purple_dye_bucket" ]}
+item/buckets/dye/orange.json :: { "values": [ "create_dragons_plus:orange_dye_bucket" ]}
+item/buckets/dye/blue.json :: { "values": [ "create_dragons_plus:blue_dye_bucket" ]}
+item/buckets.json :: { "values": [ "#c:buckets/dye", "#c:buckets/dragon_breath" ]}
+item/dyed/pink.json :: { "values": [ "create_dragons_plus:pink_dye_bucket" ]}
+item/dyed/red.json :: { "values": [ "create_dragons_plus:red_dye_bucket" ]}
+item/dyed/cyan.json :: { "values": [ "create_dragons_plus:cyan_dye_bucket" ]}
+item/dyed/light_gray.json :: { "values": [ "create_dragons_plus:light_gray_dye_bucket" ]}
+item/dyed/gray.json :: { "values": [ "create_dragons_plus:gray_dye_bucket" ]}
+item/dyed/green.json :: { "values": [ "create_dragons_plus:green_dye_bucket" ]}
+item/dyed/lime.json :: { "values": [ "create_dragons_plus:lime_dye_bucket" ]}
+item/dyed/magenta.json :: { "values": [ "create_dragons_plus:magenta_dye_bucket" ]}
+item/dyed/black.json :: { "values": [ "create_dragons_plus:black_dye_bucket" ]}
+item/dyed/yellow.json :: { "values": [ "create_dragons_plus:yellow_dye_bucket" ]}
+item/dyed/white.json :: { "values": [ "create_dragons_plus:white_dye_bucket" ]}
+item/dyed/brown.json :: { "values": [ "create_dragons_plus:brown_dye_bucket" ]}
+item/dyed/light_blue.json :: { "values": [ "create_dragons_plus:light_blue_dye_bucket" ]}
+item/dyed/purple.json :: { "values": [ "create_dragons_plus:purple_dye_bucket" ]}
+item/dyed/orange.json :: { "values": [ "create_dragons_plus:orange_dye_bucket" ]}
+item/dyed/blue.json :: { "values": [ "create_dragons_plus:blue_dye_bucket" ]}

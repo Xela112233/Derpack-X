@@ -1,0 +1,21 @@
+# ponderjs-neoforge-1.21.1-2.4.0
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "ponderjs"
+version = "1.21.1-2.4.0"
+displayName = "PonderJS"
+modId = "neoforge"
+versionRange = "[21.1.209,)"
+modId = "minecraft"
+versionRange = "[1.20.1,)"
+modId = "kubejs"
+versionRange = "[2101.7.2-build.264,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

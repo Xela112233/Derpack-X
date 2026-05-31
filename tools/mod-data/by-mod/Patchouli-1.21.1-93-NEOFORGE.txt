@@ -1,0 +1,28 @@
+# Patchouli-1.21.1-93-NEOFORGE
+
+## mod metadata (id / version / deps)
+license="CC BY-NC-SA 3.0"
+modId="patchouli"
+displayName="Patchouli"
+version="${file.jarVersion}"
+modId="neoforge"
+versionRange="[21.0.31-beta,)"
+modId="minecraft"
+versionRange="[1.21.1,1.21.2)"
+
+## blocks
+
+## items
+patchouli:book_blue
+patchouli:book_brown
+patchouli:book_completion
+patchouli:book_cyan
+patchouli:book_gray
+patchouli:book_green
+patchouli:book_purple
+patchouli:book_red
+patchouli:guide_book
+
+## neoforge biome_modifiers
+
+## c: common tag membership

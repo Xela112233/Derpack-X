@@ -1,0 +1,21 @@
+# spyglass_improvements-1.5.7+mc1.21+neoforge
+
+## mod metadata (id / version / deps)
+license="GNU GPL 3.0"
+modId = "spyglass_improvements"
+version = "1.5.7"
+displayName = "Spyglass Improvements"
+modId = "neoforge"
+versionRange = "[21,)"
+modId = "minecraft"
+versionRange = "[1.21,1.22)"
+modId="curios"
+versionRange="[8.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

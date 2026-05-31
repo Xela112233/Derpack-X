@@ -1,0 +1,41 @@
+# lootr-neoforge-1.21.1-1.11.37.119
+
+## mod metadata (id / version / deps)
+license="https://github.com/noobanidus/Lootr/blob/1.16/LICENSE"
+modId="lootr"
+version="1.21.1-1.11.37.119"
+displayName="Lootr"
+modId="minecraft"
+versionRange="1.21.1"
+modId="neoforge"
+versionRange="[21.1.195,)"
+
+## blocks
+lootr:decorated_pot
+lootr:lootr_barrel
+lootr:lootr_chest
+lootr:lootr_inventory
+lootr:lootr_shulker
+lootr:lootr_trapped_chest
+lootr:suspicious_gravel
+lootr:suspicious_sand
+lootr:trophy
+
+## items
+lootr:decorated_pot
+lootr:lootr_barrel
+lootr:lootr_chest
+lootr:lootr_inventory
+lootr:lootr_opened_barrel
+lootr:lootr_shulker
+lootr:lootr_trapped_chest
+lootr:suspicious_gravel
+lootr:suspicious_sand
+lootr:trophy
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+block/barrels.json :: { "values": [ "lootr:lootr_barrel" ]}
+block/chests/trapped.json :: { "values": [ "lootr:lootr_trapped_chest" ]}
+block/chests/wooden.json :: { "values": [ "lootr:lootr_chest", "lootr:lootr_inventory" ]}

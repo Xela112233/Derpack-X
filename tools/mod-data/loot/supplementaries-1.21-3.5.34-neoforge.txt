@@ -1,0 +1,218 @@
+supplementaries:blocks/ash | minecraft:block | minecraft:alternatives minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:ash
+supplementaries:blocks/ash_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:ash_bricks
+supplementaries:blocks/ash_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:ash_bricks_slab
+supplementaries:blocks/ash_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:ash_bricks_stairs
+supplementaries:blocks/ash_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:ash_bricks_wall
+supplementaries:blocks/ashen_basalt | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion
+supplementaries:blocks/awning | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning
+supplementaries:blocks/awning_black | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_black
+supplementaries:blocks/awning_blue | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_blue
+supplementaries:blocks/awning_brown | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_brown
+supplementaries:blocks/awning_cyan | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_cyan
+supplementaries:blocks/awning_gray | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_gray
+supplementaries:blocks/awning_green | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_green
+supplementaries:blocks/awning_light_blue | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_light_blue
+supplementaries:blocks/awning_light_gray | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_light_gray
+supplementaries:blocks/awning_lime | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_lime
+supplementaries:blocks/awning_magenta | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_magenta
+supplementaries:blocks/awning_orange | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_orange
+supplementaries:blocks/awning_pink | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_pink
+supplementaries:blocks/awning_purple | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_purple
+supplementaries:blocks/awning_red | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_red
+supplementaries:blocks/awning_white | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_white
+supplementaries:blocks/awning_yellow | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:awning_yellow
+supplementaries:blocks/barnacles | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch supplementaries:barnacles supplementaries:blocks/barnacles
+supplementaries:blocks/bellows | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bellows
+supplementaries:blocks/blackboard | minecraft:block | minecraft:block minecraft:copy_components minecraft:item supplementaries:blackboard supplementaries:blocks/sack
+supplementaries:blocks/blackstone_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:blackstone_lamp
+supplementaries:blocks/blackstone_tile | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:blackstone_tile
+supplementaries:blocks/blackstone_tile_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:blackstone_tile_slab
+supplementaries:blocks/blackstone_tile_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:blackstone_tile_stairs
+supplementaries:blocks/blackstone_tile_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:blackstone_tile_wall
+supplementaries:blocks/bunting_black | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_black
+supplementaries:blocks/bunting_blue | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_blue
+supplementaries:blocks/bunting_brown | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_brown
+supplementaries:blocks/bunting_cyan | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_cyan
+supplementaries:blocks/bunting_gray | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_gray
+supplementaries:blocks/bunting_green | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_green
+supplementaries:blocks/bunting_light_blue | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_light_blue
+supplementaries:blocks/bunting_light_gray | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_light_gray
+supplementaries:blocks/bunting_lime | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_lime
+supplementaries:blocks/bunting_magenta | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_magenta
+supplementaries:blocks/bunting_orange | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_orange
+supplementaries:blocks/bunting_pink | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_pink
+supplementaries:blocks/bunting_purple | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_purple
+supplementaries:blocks/bunting_red | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_red
+supplementaries:blocks/bunting_wall_black | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_black
+supplementaries:blocks/bunting_wall_blue | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_blue
+supplementaries:blocks/bunting_wall_brown | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_brown
+supplementaries:blocks/bunting_wall_cyan | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_cyan
+supplementaries:blocks/bunting_wall_gray | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_gray
+supplementaries:blocks/bunting_wall_green | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_green
+supplementaries:blocks/bunting_wall_light_blue | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_light_blue
+supplementaries:blocks/bunting_wall_light_gray | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_light_gray
+supplementaries:blocks/bunting_wall_lime | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_lime
+supplementaries:blocks/bunting_wall_magenta | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_magenta
+supplementaries:blocks/bunting_wall_orange | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_orange
+supplementaries:blocks/bunting_wall_pink | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_pink
+supplementaries:blocks/bunting_wall_purple | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_purple
+supplementaries:blocks/bunting_wall_red | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_red
+supplementaries:blocks/bunting_wall_white | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_white
+supplementaries:blocks/bunting_wall_yellow | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_yellow
+supplementaries:blocks/bunting_white | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_white
+supplementaries:blocks/bunting_yellow | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:bunting_yellow
+supplementaries:blocks/candle_holder | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder
+supplementaries:blocks/candle_holder_black | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_black
+supplementaries:blocks/candle_holder_blue | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_blue
+supplementaries:blocks/candle_holder_brown | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_brown
+supplementaries:blocks/candle_holder_cupric | minecraft:block | fabric:mod_loaded minecraft:block minecraft:explosion_decay minecraft:set_count moonlight:optional_block_state_property moonlight:optional_item neoforge:mod_loaded supplementaries:candle_holder_cupric
+supplementaries:blocks/candle_holder_cyan | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_cyan
+supplementaries:blocks/candle_holder_ender | minecraft:block | fabric:mod_loaded minecraft:block minecraft:explosion_decay minecraft:set_count moonlight:optional_block_state_property moonlight:optional_item neoforge:mod_loaded supplementaries:candle_holder_ender
+supplementaries:blocks/candle_holder_gray | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_gray
+supplementaries:blocks/candle_holder_green | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_green
+supplementaries:blocks/candle_holder_light_blue | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_light_blue
+supplementaries:blocks/candle_holder_light_gray | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_light_gray
+supplementaries:blocks/candle_holder_lime | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_lime
+supplementaries:blocks/candle_holder_magenta | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_magenta
+supplementaries:blocks/candle_holder_orange | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_orange
+supplementaries:blocks/candle_holder_pink | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_pink
+supplementaries:blocks/candle_holder_purple | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_purple
+supplementaries:blocks/candle_holder_red | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_red
+supplementaries:blocks/candle_holder_soul | minecraft:block | fabric:mod_loaded minecraft:block minecraft:explosion_decay minecraft:set_count moonlight:optional_block_state_property moonlight:optional_item neoforge:mod_loaded supplementaries:candle_holder_soul
+supplementaries:blocks/candle_holder_spectacle | minecraft:block | fabric:mod_loaded minecraft:block minecraft:explosion_decay minecraft:set_count moonlight:optional_block_state_property moonlight:optional_item neoforge:mod_loaded supplementaries:candle_holder_spectacle
+supplementaries:blocks/candle_holder_white | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_white
+supplementaries:blocks/candle_holder_yellow | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:candle_holder_yellow
+supplementaries:blocks/cannon | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:cannon
+supplementaries:blocks/cannonball | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:cannonball
+supplementaries:blocks/checker_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:checker_block
+supplementaries:blocks/checker_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:checker_slab
+supplementaries:blocks/clock_block | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:clock_block
+supplementaries:blocks/cog_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:cog_block
+supplementaries:blocks/crank | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:crank
+supplementaries:blocks/crystal_display | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:crystal_display
+supplementaries:blocks/daub | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:daub
+supplementaries:blocks/daub_brace | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:daub_brace
+supplementaries:blocks/daub_cross_brace | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:daub_cross_brace
+supplementaries:blocks/daub_frame | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:daub_frame
+supplementaries:blocks/deepslate_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:deepslate_lamp
+supplementaries:blocks/doormat | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:doormat
+supplementaries:blocks/end_stone_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:end_stone_lamp
+supplementaries:blocks/enderman_head | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:enderman_head
+supplementaries:blocks/enderman_wall_head | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:enderman_head
+supplementaries:blocks/faucet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:faucet
+supplementaries:blocks/feather_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:feather_block
+supplementaries:blocks/fine_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:fine_wood
+supplementaries:blocks/fine_wood_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:fine_wood_slab
+supplementaries:blocks/fine_wood_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:fine_wood_stairs
+supplementaries:blocks/fire_pit | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:fire_pit
+supplementaries:blocks/flag_black | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_black supplementaries:flag_black
+supplementaries:blocks/flag_blue | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_blue supplementaries:flag_blue
+supplementaries:blocks/flag_brown | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_brown supplementaries:flag_brown
+supplementaries:blocks/flag_cyan | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_cyan supplementaries:flag_cyan
+supplementaries:blocks/flag_gray | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_gray supplementaries:flag_gray
+supplementaries:blocks/flag_green | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_green supplementaries:flag_green
+supplementaries:blocks/flag_light_blue | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_light_blue supplementaries:flag_light_blue
+supplementaries:blocks/flag_light_gray | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_light_gray supplementaries:flag_light_gray
+supplementaries:blocks/flag_lime | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_lime supplementaries:flag_lime
+supplementaries:blocks/flag_magenta | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_magenta supplementaries:flag_magenta
+supplementaries:blocks/flag_orange | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_orange supplementaries:flag_orange
+supplementaries:blocks/flag_pink | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_pink supplementaries:flag_pink
+supplementaries:blocks/flag_purple | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_purple supplementaries:flag_purple
+supplementaries:blocks/flag_red | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_red supplementaries:flag_red
+supplementaries:blocks/flag_white | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_white supplementaries:flag_white
+supplementaries:blocks/flag_yellow | minecraft:block | minecraft:banner_patterns minecraft:block minecraft:copy_components minecraft:custom_name minecraft:hide_additional_tooltip minecraft:item minecraft:item_name minecraft:survives_explosion supplementaries:blocks/flag_yellow supplementaries:flag_yellow
+supplementaries:blocks/flax | minecraft:block | minecraft:alternatives minecraft:apply_bonus minecraft:binomial_with_bonus_count minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item supplementaries:flax supplementaries:flax_seeds
+supplementaries:blocks/flax_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:flax_block
+supplementaries:blocks/flint_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:flint_block
+supplementaries:blocks/flower_box | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:flower_box
+supplementaries:blocks/fodder | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion supplementaries:fodder
+supplementaries:blocks/globe | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion supplementaries:globe
+supplementaries:blocks/globe_sepia | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion supplementaries:globe_sepia
+supplementaries:blocks/goblet | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:goblet
+supplementaries:blocks/gold_bars | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:gold_bars
+supplementaries:blocks/gold_door | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion supplementaries:gold_door
+supplementaries:blocks/gold_gate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:gold_gate
+supplementaries:blocks/gold_trapdoor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:gold_trapdoor
+supplementaries:blocks/gravel_bricks | minecraft:block | minecraft:alternatives minecraft:block minecraft:gravel minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:survives_explosion supplementaries:blocks/gravel_bricks supplementaries:gravel_bricks
+supplementaries:blocks/gunpowder | minecraft:block | minecraft:block minecraft:block_state_property minecraft:gunpowder minecraft:item minecraft:survives_explosion supplementaries:gunpowder
+supplementaries:blocks/hourglass | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:hourglass
+supplementaries:blocks/iron_gate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:iron_gate
+supplementaries:blocks/item_shelf | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:item_shelf
+supplementaries:blocks/jar_boat | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:jar_boat
+supplementaries:blocks/lapis_bricks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:lapis_bricks
+supplementaries:blocks/lapis_bricks_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:lapis_bricks_slab
+supplementaries:blocks/lapis_bricks_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:lapis_bricks_stairs
+supplementaries:blocks/lapis_bricks_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:lapis_bricks_wall
+supplementaries:blocks/lock_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:lock_block
+supplementaries:blocks/netherite_door | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion supplementaries:netherite_door
+supplementaries:blocks/netherite_trapdoor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:netherite_trapdoor
+supplementaries:blocks/notice_board | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion supplementaries:notice_board
+supplementaries:blocks/pedestal | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:pedestal
+supplementaries:blocks/planter | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:planter
+supplementaries:blocks/potted_flax | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion supplementaries:flax_seeds
+supplementaries:blocks/pulley_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:pulley_block
+supplementaries:blocks/raked_gravel | minecraft:block | minecraft:alternatives minecraft:block minecraft:gravel minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:survives_explosion supplementaries:raked_gravel
+supplementaries:blocks/redstone_illuminator | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:redstone_illuminator
+supplementaries:blocks/relayer | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:relayer
+supplementaries:blocks/rope | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:rope
+supplementaries:blocks/rope_knot | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:rope
+supplementaries:blocks/sack | minecraft:block | minecraft:block minecraft:container minecraft:container_loot minecraft:copy_components minecraft:custom_name minecraft:item minecraft:lock supplementaries:blocks/sack supplementaries:sack
+supplementaries:blocks/safe | minecraft:block | minecraft:block minecraft:container minecraft:container_loot minecraft:copy_components minecraft:custom_name minecraft:item minecraft:lock supplementaries:blocks/safe supplementaries:safe supplementaries:safe_owner
+supplementaries:blocks/sconce | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:sconce
+supplementaries:blocks/sconce_ender | minecraft:block | minecraft:block minecraft:survives_explosion moonlight:optional_item supplementaries:sconce_ender
+supplementaries:blocks/sconce_glow | minecraft:block | minecraft:block minecraft:survives_explosion moonlight:optional_item supplementaries:sconce_glow
+supplementaries:blocks/sconce_green | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:sconce_green
+supplementaries:blocks/sconce_lever | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:sconce_lever
+supplementaries:blocks/sconce_nether_brass | minecraft:block | minecraft:block minecraft:survives_explosion moonlight:optional_item supplementaries:sconce_nether_brass
+supplementaries:blocks/sconce_soul | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:sconce_soul
+supplementaries:blocks/slidy_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:slidy_block
+supplementaries:blocks/soap_block | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:soap_block
+supplementaries:blocks/speaker_block | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion supplementaries:speaker_block
+supplementaries:blocks/spider_head | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:spider_head
+supplementaries:blocks/spider_wall_head | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:spider_head
+supplementaries:blocks/spring_launcher | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:spring_launcher
+supplementaries:blocks/statue | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion supplementaries:statue
+supplementaries:blocks/stone_lamp | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:stone_lamp
+supplementaries:blocks/stone_tile | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:stone_tile
+supplementaries:blocks/stone_tile_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count supplementaries:stone_tile_slab
+supplementaries:blocks/stone_tile_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:stone_tile_stairs
+supplementaries:blocks/stone_tile_wall | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:stone_tile_wall
+supplementaries:blocks/sugar_cube | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:sugar_cube
+supplementaries:blocks/timber_brace | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:timber_brace
+supplementaries:blocks/timber_cross_brace | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:timber_cross_brace
+supplementaries:blocks/timber_frame | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:timber_frame
+supplementaries:blocks/turn_table | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:turn_table
+supplementaries:blocks/urn | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:loot_table minecraft:match_tool minecraft:silk_touch supplementaries:loot/urn_loot/urn_loot supplementaries:urn
+supplementaries:blocks/wicker_fence | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:wicker_fence
+supplementaries:blocks/wild_flax | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:uniform_bonus_count neoforge:can_item_perform_ability supplementaries:flax_seeds supplementaries:wild_flax
+supplementaries:blocks/wind_vane | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion supplementaries:wind_vane
+supplementaries:inject/dungeon_blue_bomb | ? | supplementaries:bomb_blue
+supplementaries:inject/dungeon_flax | ? | supplementaries:flax_seeds
+supplementaries:inject/dungeon_quiver | ? | supplementaries:quiver supplementaries:random_arrows
+supplementaries:inject/end_city_stasis | ? | minecraft:book minecraft:enchant_randomly supplementaries:stasis
+supplementaries:inject/fishing_treasure_antique_ink | ? | supplementaries:antique_ink
+supplementaries:inject/fortress_blue_bomb | ? | supplementaries:bomb_blue
+supplementaries:inject/fortress_bomb | ? | supplementaries:bomb
+supplementaries:inject/mansion_quiver | ? | supplementaries:quiver supplementaries:random_arrows
+supplementaries:inject/mineshaft_blue_bomb | ? | supplementaries:bomb_blue
+supplementaries:inject/mineshaft_bomb | ? | supplementaries:bomb
+supplementaries:inject/mineshaft_flax | ? | minecraft:item supplementaries:flax_seeds
+supplementaries:inject/mineshaft_rope | ? | supplementaries:rope
+supplementaries:inject/pillager_flax | ? | supplementaries:flax_seeds
+supplementaries:inject/shipwreck_storage_flax | ? | supplementaries:flax_seeds
+supplementaries:inject/shipwreck_treasure_globe | ? | supplementaries:globe
+supplementaries:inject/stronghold_blue_bomb | ? | supplementaries:bomb_blue
+supplementaries:inject/stronghold_bomb | ? | supplementaries:bomb
+supplementaries:inject/temple_blue_bomb | ? | supplementaries:bomb_blue
+supplementaries:inject/temple_bomb | ? | supplementaries:bomb
+supplementaries:inject/temple_spikes | ? | minecraft:poison minecraft:set_potion minecraft:uniform supplementaries:bamboo_spikes supplementaries:bamboo_spikes_tipped supplementaries:set_charges
+supplementaries:inject/test | minecraft:chest | minecraft:chest minecraft:exploration_map minecraft:item minecraft:map minecraft:red_x minecraft:village
+supplementaries:loot/galleon/cannon | ? | minecraft:arrow minecraft:gunpowder minecraft:set_count minecraft:uniform moonlight:load_conditions supplementaries:bomb supplementaries:cannonball supplementaries:flag
+supplementaries:loot/galleon/chest | minecraft:chest | minecraft:arrow minecraft:book minecraft:bread minecraft:bucket minecraft:chest minecraft:coal minecraft:emerald minecraft:empty minecraft:enchant_randomly minecraft:feather minecraft:fire_charge minecraft:fishing_rod minecraft:goat_horn minecraft:gold_ingot minecraft:gold_nugget minecraft:golden_carrot minecraft:gunpowder minecraft:item minecraft:melon_seeds minecraft:paper minecraft:pumpkin_seeds minecraft:set_count minecraft:set_damage minecraft:set_instrument minecraft:slime_ball minecraft:string minecraft:uniform moonlight:load_conditions supplementaries:bomb supplementaries:candy supplementaries:cannonball supplementaries:flag supplementaries:flax_seeds supplementaries:globe supplementaries:rope
+supplementaries:loot/galleon/key | ? | minecraft:cobweb minecraft:set_count minecraft:string minecraft:uniform moonlight:load_conditions supplementaries:flag supplementaries:key
+supplementaries:loot/galleon/safe | ? | minecraft:alternatives minecraft:book minecraft:clock minecraft:compass minecraft:diamond minecraft:diamond_axe minecraft:emerald minecraft:empty minecraft:enchant_randomly minecraft:enchant_with_levels minecraft:experience_bottle minecraft:gold_ingot minecraft:golden_sword minecraft:iron_boots minecraft:iron_chestplate minecraft:iron_helmet minecraft:iron_leggings minecraft:item minecraft:nautilus_shell minecraft:paper minecraft:set_count minecraft:set_damage minecraft:spectral_arrow minecraft:spyglass minecraft:tnt minecraft:uniform moonlight:load_conditions supplementaries:blast_armor_trim_smithing_template supplementaries:bomb_blue supplementaries:flag supplementaries:hourglass supplementaries:lumisene_bottle
+supplementaries:loot/urn_loot/common | minecraft:block | minecraft:block minecraft:bone minecraft:item minecraft:set_count minecraft:torch minecraft:uniform moonlight:load_conditions supplementaries:ash supplementaries:flag supplementaries:flax_seeds
+supplementaries:loot/urn_loot/epic | minecraft:block | minecraft:block minecraft:diamond minecraft:diamond_boots minecraft:diamond_helmet minecraft:emerald minecraft:enchant_randomly minecraft:enchant_with_levels minecraft:ender_pearl minecraft:item minecraft:set_count minecraft:set_damage minecraft:slime_ball minecraft:uniform moonlight:load_conditions supplementaries:bomb_blue supplementaries:flag
+supplementaries:loot/urn_loot/rare | minecraft:block | minecraft:amethyst_shard minecraft:block minecraft:bundle minecraft:diamond minecraft:emerald minecraft:enchant_randomly minecraft:enchant_with_levels minecraft:iron_boots minecraft:iron_helmet minecraft:item minecraft:lapis_lazuli minecraft:raw_copper minecraft:raw_gold minecraft:raw_iron minecraft:set_count minecraft:set_damage minecraft:skeleton_skull minecraft:uniform minecraft:zombie_head moonlight:load_conditions supplementaries:bomb supplementaries:flag
+supplementaries:loot/urn_loot/uncommon | minecraft:block | minecraft:block minecraft:bone minecraft:emerald minecraft:gold_nugget minecraft:iron_nugget minecraft:item minecraft:set_count minecraft:skeleton_skull minecraft:uniform minecraft:zombie_head moonlight:load_conditions supplementaries:antique_ink supplementaries:ash supplementaries:flag supplementaries:flax_seeds
+supplementaries:loot/urn_loot/urn_loot | minecraft:block | minecraft:block minecraft:loot_table supplementaries:loot/urn_loot/common supplementaries:loot/urn_loot/epic supplementaries:loot/urn_loot/rare supplementaries:loot/urn_loot/uncommon

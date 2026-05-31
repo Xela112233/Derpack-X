@@ -1,0 +1,15 @@
+# EnderMoon-1.21.1-NeoForge-fabric-1.0.2
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved."
+modId="endermoon"
+version="1.21.1"
+displayName="Ender Moon"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

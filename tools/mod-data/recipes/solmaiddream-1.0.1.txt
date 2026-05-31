@@ -1,0 +1,1 @@
+solmaiddream:food_book | minecraft:crafting_shapeless | minecraft:book minecraft:crafting_shapeless minecraft:sugar solmaiddream:food_book

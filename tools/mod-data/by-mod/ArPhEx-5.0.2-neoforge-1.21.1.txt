@@ -1,0 +1,554 @@
+# ArPhEx-5.0.2-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT License"
+modId="arphex"
+version="5.0.2"
+displayName="Arthropod Phobia Expansions"
+modId="neoforge"
+versionRange="[21.1.65,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="geckolib"
+versionRange="[0,)"
+
+## blocks
+arphex:ant_nest
+arphex:ant_shield_temporary
+arphex:arphex_jigsaw
+arphex:ascended_cube
+arphex:bane_blossom
+arphex:barrier_gap
+arphex:block_of_abyssal_crystal
+arphex:block_of_entropy_matrix
+arphex:block_of_fire_opal
+arphex:block_of_time_prism
+arphex:block_of_void_geode
+arphex:chitin_block
+arphex:cobweb_passable
+arphex:crawling_altar
+arphex:crawling_barrier
+arphex:crawling_clay
+arphex:crawling_compost
+arphex:crawling_portal
+arphex:decadent_dust
+arphex:exquisite_ore
+arphex:funnel_web
+arphex:heavy_chitin_block
+arphex:invisible_detector_block
+arphex:invisible_half_slab
+arphex:mangled_fly_flesh
+arphex:mangled_scorpion_flesh
+arphex:mangled_spider_flesh
+arphex:mob_trophy
+arphex:random_loot_choices
+arphex:reaper_web
+arphex:scorch
+arphex:scorch_pillar
+arphex:scorch_torch_ground
+arphex:scorch_torch_wall
+arphex:scorched_glass
+arphex:scorched_sand
+arphex:silken_soil
+arphex:silken_stone
+arphex:spider_cocoon
+arphex:spider_cocoon_creeper
+arphex:spider_cocoon_player
+arphex:spider_cocoon_skeleton
+arphex:spider_cocoon_villager
+arphex:spider_egg
+arphex:structure_fill_block
+arphex:termite_mound
+arphex:tesseract_transporter
+arphex:trapdoor_dirt
+arphex:trapdoor_grass
+arphex:trophy
+arphex:warp_manifold
+arphex:web_line
+arphex:web_wall
+
+## items
+arphex:abyss_ascendant
+arphex:abyss_ascendant_0
+arphex:abyss_ascendant_1
+arphex:abyss_ascendant_2
+arphex:abyss_atomiser
+arphex:abyssal_annihilator
+arphex:abyssal_axe
+arphex:abyssal_blade
+arphex:abyssal_crystal
+arphex:abyssal_dagger
+arphex:abyssal_pickaxe
+arphex:abyssal_shard
+arphex:abyssal_stew
+arphex:ant_arsonist_alate_queen_egg
+arphex:ant_arsonist_drone_egg
+arphex:ant_arsonist_egg
+arphex:ant_arsonist_soldier_egg
+arphex:ant_arsonist_worker_egg
+arphex:ant_commander
+arphex:ant_nest
+arphex:ant_shield_temporary
+arphex:antenna
+arphex:any_dimension_spawner_spawn_egg
+arphex:arachnoid_trisector_egg
+arphex:arphex_jigsaw
+arphex:arthropleura_abomination_egg
+arphex:arthropod_antenna
+arphex:ascendant_staff
+arphex:ascended_cube
+arphex:ascended_torment
+arphex:bane_blossom
+arphex:bane_of_the_darkness
+arphex:barrier_gap
+arphex:beetle_bulwark_egg
+arphex:beetle_tick_mite_egg
+arphex:black_widow_bow
+arphex:black_widow_bow_0
+arphex:black_widow_bow_1
+arphex:black_widow_bow_2
+arphex:blade_display
+arphex:block_of_abyssal_crystal
+arphex:block_of_entropy_matrix
+arphex:block_of_fire_opal
+arphex:block_of_time_prism
+arphex:block_of_void_geode
+arphex:blood_worm_egg
+arphex:bloodworm_grub
+arphex:brown_scarab
+arphex:bucket_of_locusts
+arphex:bucket_of_maggots
+arphex:bucket_of_roaches
+arphex:bucket_of_worm_grub
+arphex:bug_repellant
+arphex:bug_spray
+arphex:burning_glands
+arphex:butterfly_bewitcher_egg
+arphex:butterfly_bewitcher_giant_egg
+arphex:celestial_barrier
+arphex:celestial_barrier_0
+arphex:centipede_evictor_egg
+arphex:centipede_evictor_larvae_egg
+arphex:centipede_stalker_egg
+arphex:chaos_gauntlet
+arphex:chitin
+arphex:chitin_armour_boots
+arphex:chitin_armour_chestplate
+arphex:chitin_armour_helmet
+arphex:chitin_armour_leggings
+arphex:chitin_armour_tier_2_boots
+arphex:chitin_armour_tier_2_chestplate
+arphex:chitin_armour_tier_2_helmet
+arphex:chitin_armour_tier_2_leggings
+arphex:chitin_armour_tier_3_boots
+arphex:chitin_armour_tier_3_chestplate
+arphex:chitin_armour_tier_3_helmet
+arphex:chitin_armour_tier_3_leggings
+arphex:chitin_block
+arphex:chrono_cannon
+arphex:chrono_cannon_0
+arphex:cobweb_passable
+arphex:cooked_hemolymph
+arphex:core_of_eternal_suffering
+arphex:core_of_eternal_suffering_0
+arphex:crab_constrictor_egg
+arphex:crawling_altar
+arphex:crawling_barrier
+arphex:crawling_cake
+arphex:crawling_clay
+arphex:crawling_compass
+arphex:crawling_compass_0
+arphex:crawling_compass_1
+arphex:crawling_compass_10
+arphex:crawling_compass_11
+arphex:crawling_compass_12
+arphex:crawling_compass_13
+arphex:crawling_compass_14
+arphex:crawling_compass_15
+arphex:crawling_compass_2
+arphex:crawling_compass_3
+arphex:crawling_compass_4
+arphex:crawling_compass_5
+arphex:crawling_compass_6
+arphex:crawling_compass_7
+arphex:crawling_compass_8
+arphex:crawling_compass_9
+arphex:crawling_compost
+arphex:crawling_compost_chunk
+arphex:crawling_container
+arphex:crawling_portal
+arphex:creative_cooldown_reset
+arphex:crusher_claw
+arphex:crusher_claw_0
+arphex:crusher_claw_1
+arphex:dagger_of_dissolution
+arphex:decadent_dust
+arphex:diabolos_decimator_egg
+arphex:draconic_voidlasher_egg
+arphex:dragonfly_dreadnought_egg
+arphex:ectoplasm
+arphex:elixir_of_splintered_sanity
+arphex:entropy_matrix
+arphex:entropy_matrix_shard
+arphex:entropy_serum
+arphex:eternal_boots
+arphex:eternal_chestplate
+arphex:eternal_helmet
+arphex:eternal_leggings
+arphex:ethereal_staff
+arphex:ethereal_staff_0
+arphex:evictor_popup
+arphex:exquisite_ore
+arphex:fire_opal
+arphex:fire_opal_shard
+arphex:fly_appendage
+arphex:fly_festerer_egg
+arphex:flytrap_cutting
+arphex:force_gauntlet
+arphex:formic_fireblaster
+arphex:funnel_web
+arphex:genesis_rifle
+arphex:genesis_rifle_0
+arphex:giant_spinneret
+arphex:golden_scarab
+arphex:green_gold_scarab
+arphex:green_scarab
+arphex:heavy_chitin
+arphex:heavy_chitin_block
+arphex:hedonic_gem
+arphex:hedonic_gem_0
+arphex:hemoplasm
+arphex:hornet_hailstorm
+arphex:hornet_harbinger_egg
+arphex:hornet_harbinger_giant_egg
+arphex:hypnotic_hellblaster
+arphex:immortal_boots
+arphex:immortal_chestplate
+arphex:immortal_helmet
+arphex:immortal_leggings
+arphex:infernal_boots
+arphex:infernal_chestplate
+arphex:infernal_helmet
+arphex:infernal_ingot
+arphex:infernal_leggings
+arphex:infernal_shard
+arphex:infinite_torment
+arphex:infinite_torment_0
+arphex:insane_mode_spawns_spawn_egg
+arphex:invisible_detector_block
+arphex:invisible_half_slab
+arphex:iridescent_scarab
+arphex:judgement_blaster
+arphex:juggernaut_boots
+arphex:juggernaut_chestplate
+arphex:juggernaut_helmet
+arphex:juggernaut_leggings
+arphex:locust_landscourge_egg
+arphex:locust_larvae
+arphex:long_legs_egg
+arphex:long_legs_fly_egg
+arphex:maggot_grub
+arphex:maggot_larvae_egg
+arphex:mangled_fly_flesh
+arphex:mangled_scorpion_flesh
+arphex:mangled_spider_flesh
+arphex:mantis_machete
+arphex:mantis_mutilator_egg
+arphex:mantle_of_vitality
+arphex:millipede_marauder_egg
+arphex:mob_trophy
+arphex:mosquito_morbidity_egg
+arphex:moth_moontracker_egg
+arphex:necrotic_fang
+arphex:oblivion_ray
+arphex:oblivion_ray_0
+arphex:oversized_stinger
+arphex:placeholder_pack
+arphex:placeholder_satchel
+arphex:prowler_pack
+arphex:prowler_parachute
+arphex:purple_scarab
+arphex:queen_fatigue
+arphex:random_ar_ph_ex_spawn_egg
+arphex:random_loot_choices
+arphex:raw_hemolymph
+arphex:reaper_web
+arphex:roach_nymph
+arphex:roach_riverspawn_egg
+arphex:scarab_seal
+arphex:scorch
+arphex:scorch_charge
+arphex:scorch_pillar
+arphex:scorch_torch
+arphex:scorch_torch_ground
+arphex:scorch_torch_wall
+arphex:scorched_glass
+arphex:scorched_sand
+arphex:scorched_soup
+arphex:scorpioid_bloodluster_egg
+arphex:scorpion_striker_egg
+arphex:scythe_display
+arphex:sealed_brown_scarab
+arphex:sealed_golden_scarab
+arphex:sealed_green_gold_scarab
+arphex:sealed_green_scarab
+arphex:sealed_iridescent_scarab
+arphex:sealed_purple_scarab
+arphex:seismic_pulse
+arphex:seismic_pulse_0
+arphex:silk_slinger
+arphex:silken_soil
+arphex:silken_stone
+arphex:silverfish_spectre_egg
+arphex:singularity_satchel
+arphex:singularity_scythe
+arphex:snatcher_popup
+arphex:solifuge_skulker_egg
+arphex:spacetime_boots
+arphex:spacetime_chestplate
+arphex:spacetime_helmet
+arphex:spacetime_ingot
+arphex:spacetime_leggings
+arphex:spacetime_shard
+arphex:spear_of_paralysis
+arphex:spear_of_paralysis_0
+arphex:spectral_boots
+arphex:spectral_chestplate
+arphex:spectral_helmet
+arphex:spectral_ingot
+arphex:spectral_leggings
+arphex:spectral_shard
+arphex:spider_ambusher_egg
+arphex:spider_brood_egg
+arphex:spider_cocoon
+arphex:spider_cocoon_creeper
+arphex:spider_cocoon_player
+arphex:spider_cocoon_skeleton
+arphex:spider_cocoon_villager
+arphex:spider_crab_jar
+arphex:spider_egg
+arphex:spider_flat_egg
+arphex:spider_flat_jar
+arphex:spider_funnel_egg
+arphex:spider_goliath_egg
+arphex:spider_infestor_egg
+arphex:spider_jar
+arphex:spider_jump_egg
+arphex:spider_jump_jar
+arphex:spider_larvae_egg
+arphex:spider_lunger_egg
+arphex:spider_lurker_egg
+arphex:spider_matriarch_egg
+arphex:spider_matriarch_larvae_egg
+arphex:spider_moth_egg
+arphex:spider_moth_summoner
+arphex:spider_moth_summoner_0
+arphex:spider_obstructer_egg
+arphex:spider_prowler_egg
+arphex:spider_reaper_egg
+arphex:spider_recluse_egg
+arphex:spider_sinker_egg
+arphex:spider_snatcher_egg
+arphex:spider_supplement
+arphex:staff_of_vitality
+arphex:stick_bug_egg
+arphex:structure_fill_block
+arphex:tarantula_tether
+arphex:tectonic_tunneler
+arphex:temporal_guardian
+arphex:temporospatial_transmitter
+arphex:temporospatial_transmitter_0
+arphex:termite_mound
+arphex:termite_tunneler_alate_egg
+arphex:termite_tunneler_king_egg
+arphex:termite_tunneler_queen_egg
+arphex:termite_tunneler_soldier_egg
+arphex:termite_tunneler_worker_egg
+arphex:tesseract_transporter
+arphex:time_prism
+arphex:time_prism_shard
+arphex:time_syrup
+arphex:tormented_wrath
+arphex:tormentor_egg
+arphex:tormentor_moth_summon_spawn_egg
+arphex:tormentor_scorpioid_summon_spawn_egg
+arphex:tormentor_summoner
+arphex:tormentor_summoner_0
+arphex:tormentor_voidlasher_summon_spawn_egg
+arphex:trapdoor_dirt
+arphex:trapdoor_grass
+arphex:trophy
+arphex:trophy_item
+arphex:umbral_boots
+arphex:umbral_chestplate
+arphex:umbral_helmet
+arphex:umbral_ingot
+arphex:umbral_leggings
+arphex:umbral_shard
+arphex:vengeful_voidseeker
+arphex:venom_typhoon
+arphex:venomous_appendage
+arphex:venus_flytrap_egg
+arphex:visionary_spear
+arphex:visionary_spear_0
+arphex:vitality_armour_boots
+arphex:vitality_armour_chestplate
+arphex:vitality_armour_helmet
+arphex:vitality_armour_leggings
+arphex:vitality_viewfinder
+arphex:vitality_viewfinder_0
+arphex:void_geode
+arphex:void_geode_shard
+arphex:void_sherbet
+arphex:void_spear_item
+arphex:vortex_devastator
+arphex:vortex_vanguard
+arphex:warp_connector
+arphex:warp_connector_0
+arphex:warp_manifold
+arphex:warp_staff
+arphex:warp_wayfinder
+arphex:warp_wayfinder_0
+arphex:warp_wayfinder_placeholder
+arphex:warp_wayfinder_placeholder_0
+arphex:wasp_nemesis_egg
+arphex:web_line
+arphex:web_wall
+
+## neoforge biome_modifiers
+moth_moontracker_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "bamboo_jungle", "basalt_deltas", "beach", "birch_forest", "crimson_forest", "dark_forest", "desert", "dripstone_caves", "jagged_peaks", "jungle", "lush_caves", "mangrove_swamp", "wooded_badlands", "windswept_savanna", "badlands", "cherry_grove", "flower_forest", "forest", "old_growth_birch_forest", "windswept_forest", "plains", "savanna", "savanna_plateau" ], "spawners": { "type": "arphex:moth_moontracker", "weight": 8, "minCount": 1, "maxCount": 4 }}
+cryptic_four_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:cryptic_four", "step": "strongholds"}
+crawling_sediment_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:tormented_tunnels", "features": "arphex:crawling_sediment", "step": "underground_ores"}
+hang_web_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:hang_web", "step": "strongholds"}
+beetle_tick_mite_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "dripstone_caves", "lush_caves", "deep_dark", "grove", "jungle", "stony_peaks", "birch_forest" ], "spawners": { "type": "arphex:beetle_tick_mite", "weight": 16, "minCount": 1, "maxCount": 20 }}
+hang_large_lush_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:hang_large_lush", "step": "strongholds"}
+long_legs_fly_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "beach", "birch_forest", "crimson_forest", "dark_forest", "dripstone_caves", "flower_forest", "meadow", "nether_wastes", "sunflower_plains" ], "spawners": { "type": "arphex:long_legs_fly", "weight": 32, "minCount": 1, "maxCount": 1 }}
+dust_blob_large_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:decadent_desert", "features": "arphex:dust_blob_large", "step": "raw_generation"}
+high_large_dust_slab_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:decadent_desert", "features": "arphex:high_large_dust_slab", "step": "raw_generation"}
+giant_lush_bush_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:giant_lush_bush", "step": "raw_generation"}
+medium_web_low_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:medium_web_low", "step": "strongholds"}
+invisible_stalker_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "beach", "birch_forest", "cherry_grove", "cold_ocean", "dark_forest", "deep_dark", "deep_frozen_ocean", "desert", "dripstone_caves", "forest", "mangrove_swamp", "mushroom_fields", "savanna", "plains", "windswept_forest" ], "spawners": { "type": "arphex:invisible_stalker", "weight": 2, "minCount": 1, "maxCount": 1 }}
+lakes_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:tormented_tunnels" ], "features": "arphex:lakes", "step": "raw_generation"}
+spider_obstructer_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "bamboo_jungle", "birch_forest", "dark_forest", "forest", "grove", "jungle", "mangrove_swamp", "meadow", "old_growth_birch_forest", "old_growth_pine_taiga", "old_growth_spruce_taiga", "plains", "savanna", "savanna_plateau", "sparse_jungle", "sunflower_plains", "swamp", "taiga", "windswept_forest" ], "spawners": { "type": "arphex:spider_obstructer", "weight": 24, "minCount": 1, "maxCount": 1 }}
+dust_blob_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:decadent_desert", "features": "arphex:dust_blob", "step": "raw_generation"}
+cherry_plant_small_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:cherry_plant_small", "step": "raw_generation"}
+random_termite_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "old_growth_spruce_taiga", "taiga", "savanna" ], "spawners": { "type": "arphex:random_termite", "weight": 8, "minCount": 1, "maxCount": 5 }}
+ore_feature_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:tormented_tunnels", "features": "arphex:ore_feature", "step": "top_layer_modification"}
+web_replace_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:web_replace", "step": "raw_generation"}
+scorpion_striker_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "desert", "basalt_deltas", "badlands", "beach", "river", "dark_forest", "deep_dark", "dripstone_caves", "wooded_badlands", "swamp", "soul_sand_valley", "nether_wastes", "crimson_forest" ], "spawners": { "type": "arphex:scorpion_striker", "weight": 16, "minCount": 1, "maxCount": 2 }}
+bedrock_floor_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "features": "arphex:bedrock_floor", "step": "raw_generation"}
+millipede_marauder_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "birch_forest", "dark_forest", "deep_dark", "desert", "dripstone_caves", "lush_caves", "mangrove_swamp", "jungle", "windswept_forest", "sparse_jungle", "old_growth_birch_forest", "basalt_deltas" ], "spawners": { "type": "arphex:millipede_marauder", "weight": 32, "minCount": 1, "maxCount": 1 }}
+spider_lunger_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "beach", "birch_forest", "cherry_grove", "cold_ocean", "dark_forest", "deep_cold_ocean", "deep_dark", "desert", "dripstone_caves", "eroded_badlands", "flower_forest", "forest", "frozen_ocean", "frozen_peaks", "frozen_river", "grove", "ice_spikes", "jagged_peaks", "jungle", "lukewarm_ocean", "lush_caves", "mangrove_swamp", "meadow", "old_growth_birch_forest", "old_growth_pine_taiga", "old_growth_spruce_taiga", "plains", "savanna", "savanna_plateau", "snowy_slopes", "snowy_beach", "snowy_plains", "snowy_taiga", "sparse_jungle", "stony_peaks", "stony_shore", "sunflower_plains", "swamp", "taiga", "windswept_forest", "windswept_gravelly_hills", "windswept_hills", "windswept_savanna", "wooded_badlands" ], "spawners": { "type": "arphex:spider_lunger", "weight": 24, "minCount": 1, "maxCount": 4 }}
+spider_chaser_hallucination_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "arphex:crawling_canopy", "jungle", "bamboo_jungle", "beach", "birch_forest", "cherry_grove", "cold_ocean", "crimson_forest", "frozen_peaks", "dripstone_caves", "lush_caves", "swamp", "soul_sand_valley", "savanna", "windswept_savanna", "dark_forest" ], "spawners": { "type": "arphex:spider_chaser_hallucination", "weight": 1, "minCount": 1, "maxCount": 3 }}
+cryptic_eight_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:cryptic_eight", "step": "strongholds"}
+floating_distribution_cool_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:floating_distribution_cool", "step": "raw_generation"}
+crawling_random_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "arphex:webbed_wasteland", "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels" ], "spawners": { "type": "arphex:crawling_random", "weight": 1000, "minCount": 1, "maxCount": 4 }}
+spider_larvae_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "basalt_deltas", "beach", "birch_forest", "cherry_grove", "crimson_forest", "dark_forest", "deep_cold_ocean", "deep_dark", "desert", "dripstone_caves", "eroded_badlands", "flower_forest", "forest", "grove", "jungle", "lush_caves", "mangrove_swamp", "meadow", "nether_wastes", "plains", "savanna", "snowy_beach", "savanna_plateau", "snowy_taiga", "soul_sand_valley", "sparse_jungle", "stony_peaks", "stony_shore", "sunflower_plains", "taiga", "warped_forest", "windswept_forest", "windswept_gravelly_hills", "wooded_badlands", "windswept_savanna", "windswept_hills" ], "spawners": { "type": "arphex:spider_larvae", "weight": 32, "minCount": 2, "maxCount": 7 }}
+hang_egg_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:hang_egg", "step": "strongholds"}
+crawling_layer_fire_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "#arphex:crawling_biomes", "features": "arphex:crawling_layer_fire", "step": "surface_structures"}
+cryptic_nine_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:cryptic_nine", "step": "strongholds"}
+spider_sinker_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "beach", "birch_forest", "dark_forest", "flower_forest", "forest", "mangrove_swamp", "river", "swamp" ], "spawners": { "type": "arphex:spider_sinker", "weight": 24, "minCount": 1, "maxCount": 4 }}
+spider_reaper_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "forest", "birch_forest" ], "spawners": { "type": "arphex:spider_reaper", "weight": 16, "minCount": 1, "maxCount": 1 }}
+hornet_harbinger_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "beach", "birch_forest", "dark_forest", "desert", "dripstone_caves", "jagged_peaks", "jungle", "lush_caves", "mangrove_swamp", "wooded_badlands", "windswept_savanna" ], "spawners": { "type": "arphex:hornet_harbinger", "weight": 8, "minCount": 1, "maxCount": 4 }}
+insane_mode_spawns_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": "#minecraft:is_overworld", "spawners": { "type": "arphex:insane_mode_spawns", "weight": 200, "minCount": 1, "maxCount": 1 }}
+enormous_spider_hallucination_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "dark_forest", "desert" ], "spawners": { "type": "arphex:enormous_spider_hallucination", "weight": 8, "minCount": 1, "maxCount": 2 }}
+offset_desert_layer_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:decadent_desert", "features": "arphex:offset_desert_layer", "step": "raw_generation"}
+spider_snatcher_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "dark_forest", "deep_dark" ], "spawners": { "type": "arphex:spider_snatcher", "weight": 32, "minCount": 1, "maxCount": 1 }}
+cryptic_two_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:cryptic_two", "step": "strongholds"}
+long_web_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:long_web", "step": "strongholds"}
+spider_chaser_hallucination_2_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "arphex:crawling_canopy", "jungle", "bamboo_jungle", "beach", "birch_forest", "cherry_grove", "cold_ocean", "crimson_forest", "frozen_peaks", "dripstone_caves", "lush_caves", "swamp", "soul_sand_valley", "savanna", "windswept_savanna", "dark_forest" ], "spawners": { "type": "arphex:spider_chaser_hallucination_2", "weight": 1, "minCount": 1, "maxCount": 3 }}
+crawling_layer_fourth_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "features": "arphex:crawling_layer_fourth", "step": "raw_generation"}
+lush_bush_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:lush_bush", "step": "surface_structures"}
+medium_web_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:medium_web", "step": "strongholds"}
+random_crawling_exit_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "features": "arphex:random_crawling_exit", "step": "strongholds"}
+spider_prowler_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "jungle", "bamboo_jungle", "sparse_jungle", "lush_caves" ], "spawners": { "type": "arphex:spider_prowler", "weight": 16, "minCount": 1, "maxCount": 1 }}
+spider_chaser_hallucination_3_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "arphex:decadent_desert", "badlands", "bamboo_jungle", "basalt_deltas", "beach", "birch_forest", "cherry_grove", "cold_ocean", "crimson_forest", "dark_forest", "deep_cold_ocean", "deep_dark", "deep_frozen_ocean", "deep_lukewarm_ocean", "deep_ocean", "desert", "dripstone_caves", "end_barrens", "end_highlands", "end_midlands", "eroded_badlands", "flower_forest", "forest", "frozen_ocean", "frozen_peaks", "frozen_river", "grove", "ice_spikes", "jagged_peaks", "jungle", "lukewarm_ocean", "lush_caves", "mangrove_swamp", "meadow", "mushroom_fields", "nether_wastes", "ocean", "old_growth_birch_forest", "old_growth_pine_taiga", "old_growth_spruce_taiga", "plains", "river", "savanna", "savanna_plateau", "small_end_islands", "snowy_slopes", "snowy_beach", "snowy_plains", "snowy_taiga", "soul_sand_valley", "sparse_jungle", "stony_peaks", "stony_shore", "sunflower_plains", "swamp", "taiga", "the_end", "the_void", "warm_ocean", "warped_forest", "windswept_forest", "windswept_gravelly_hills", "windswept_hills", "windswept_savanna", "wooded_badlands" ], "spawners": { "type": "arphex:spider_chaser_hallucination_3", "weight": 1, "minCount": 1, "maxCount": 2 }}
+pure_stalking_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "beach", "birch_forest", "cherry_grove", "dark_forest", "desert", "dripstone_caves", "eroded_badlands", "flower_forest", "forest", "frozen_peaks", "frozen_river", "grove", "jungle", "lush_caves", "mangrove_swamp", "meadow", "mushroom_fields", "old_growth_birch_forest", "old_growth_spruce_taiga", "plains", "savanna", "snowy_taiga", "sparse_jungle", "stony_peaks", "sunflower_plains", "swamp", "taiga", "windswept_hills", "wooded_badlands" ], "spawners": { "type": "arphex:pure_stalking", "weight": 4, "minCount": 1, "maxCount": 1 }}
+tormentor_altar_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "features": "arphex:tormentor_altar", "step": "raw_generation"}
+draconic_clone_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "end_barrens", "end_highlands", "end_midlands", "small_end_islands" ], "spawners": { "type": "arphex:draconic_clone", "weight": 2, "minCount": 1, "maxCount": 1 }}
+crust_layer_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "features": "arphex:crust_layer", "step": "raw_generation"}
+crawling_layer_third_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "features": "arphex:crawling_layer_third", "step": "raw_generation"}
+crawling_layer_fire_third_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "#arphex:crawling_biomes", "features": "arphex:crawling_layer_fire_third", "step": "surface_structures"}
+scorpioid_chaser_hallucination_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "nether_wastes", "warped_forest", "crimson_forest" ], "spawners": { "type": "arphex:scorpioid_chaser_hallucination", "weight": 1, "minCount": 1, "maxCount": 6 }}
+sky_stalker_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "plains", "savanna", "desert", "beach", "forest", "jungle", "mangrove_swamp", "meadow", "mushroom_fields", "river", "swamp" ], "spawners": { "type": "arphex:sky_stalker", "weight": 4, "minCount": 1, "maxCount": 1 }}
+bramble_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:bramble", "step": "raw_generation"}
+spider_flat_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "savanna", "windswept_savanna", "savanna_plateau", "deep_dark", "crimson_forest", "dark_forest", "mushroom_fields", "desert", "eroded_badlands", "dripstone_caves", "lush_caves" ], "spawners": { "type": "arphex:spider_flat", "weight": 8, "minCount": 1, "maxCount": 1 }}
+cave_spread_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:tormented_tunnels", "features": "arphex:cave_spread", "step": "raw_generation"}
+crawling_layer_fire_fourth_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "#arphex:crawling_biomes", "features": "arphex:crawling_layer_fire_fourth", "step": "surface_structures"}
+tormentor_voidlasher_summon_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "end_barrens", "end_highlands", "end_midlands", "small_end_islands" ], "spawners": { "type": "arphex:tormentor_voidlasher_summon", "weight": 2, "minCount": 1, "maxCount": 1 }}
+centipede_stalker_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "basalt_deltas", "birch_forest", "crimson_forest", "dark_forest", "deep_dark", "desert", "dripstone_caves", "lush_caves", "mangrove_swamp", "jungle", "windswept_forest", "sparse_jungle", "old_growth_birch_forest" ], "spawners": { "type": "arphex:centipede_stalker", "weight": 16, "minCount": 1, "maxCount": 1 }}
+web_2_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:web_2", "step": "raw_generation"}
+hang_web_small_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:hang_web_small", "step": "strongholds"}
+scorpioid_shadow_clone_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "warped_forest", "crimson_forest", "nether_wastes", "soul_sand_valley" ], "spawners": { "type": "arphex:scorpioid_shadow_clone", "weight": 5, "minCount": 1, "maxCount": 2 }}
+scorpioid_initial_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "nether_wastes", "warped_forest", "soul_sand_valley", "crimson_forest" ], "spawners": { "type": "arphex:scorpioid_initial", "weight": 2, "minCount": 1, "maxCount": 1 }}
+plants_feature_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:cryptic_complex", "arphex:crawling_canopy" ], "features": "arphex:plants_feature", "step": "surface_structures"}
+water_pockets_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:water_pockets", "step": "top_layer_modification"}
+locust_landscourge_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "desert", "eroded_badlands", "savanna", "savanna_plateau" ], "spawners": { "type": "arphex:locust_landscourge", "weight": 16, "minCount": 5, "maxCount": 40 }}
+ore_everywhere_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "features": "arphex:ore_everywhere", "step": "top_layer_modification"}
+mosquito_morbidity_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "basalt_deltas", "beach", "dark_forest", "desert", "dripstone_caves", "forest", "lush_caves", "mangrove_swamp", "soul_sand_valley", "swamp" ], "spawners": { "type": "arphex:mosquito_morbidity", "weight": 32, "minCount": 1, "maxCount": 1 }}
+large_dust_slab_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:decadent_desert", "features": "arphex:large_dust_slab", "step": "raw_generation"}
+maggot_larvae_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "deep_dark", "jungle", "sparse_jungle", "lush_caves", "swamp", "old_growth_spruce_taiga", "mangrove_swamp", "nether_wastes" ], "spawners": { "type": "arphex:maggot_larvae", "weight": 16, "minCount": 4, "maxCount": 40 }}
+web_funnel_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "bamboo_jungle", "birch_forest", "cherry_grove", "dark_forest", "flower_forest", "forest", "jungle", "mangrove_swamp", "old_growth_birch_forest", "old_growth_pine_taiga", "old_growth_spruce_taiga", "sunflower_plains", "windswept_forest", "plains" ], "spawners": { "type": "arphex:web_funnel", "weight": 30, "minCount": 1, "maxCount": 1 }}
+long_legs_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "dripstone_caves", "lush_caves", "deep_dark", "grove", "jungle", "stony_peaks" ], "spawners": { "type": "arphex:long_legs", "weight": 48, "minCount": 1, "maxCount": 20 }}
+soul_chimney_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:soul_chimney", "step": "raw_generation"}
+mysterious_cube_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:mysterious_cube", "step": "top_layer_modification"}
+dust_slab_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:decadent_desert", "features": "arphex:dust_slab", "step": "raw_generation"}
+web_lines_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:web_lines", "step": "underground_structures"}
+flatter_desert_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:decadent_desert", "features": "arphex:flatter_desert", "step": "raw_generation"}
+cryptic_ten_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:cryptic_ten", "step": "strongholds"}
+dead_bush_large_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:decadent_desert", "features": "arphex:dead_bush_large", "step": "raw_generation"}
+bedrock_ceiling_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "features": "arphex:bedrock_ceiling", "step": "raw_generation"}
+offset_base_layer_plague_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "features": "arphex:offset_base_layer_plague", "step": "raw_generation"}
+huge_web_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:huge_web", "step": "strongholds"}
+cryptic_three_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:cryptic_three", "step": "strongholds"}
+spider_moth_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "plains", "desert", "dripstone_caves", "lush_caves", "sunflower_plains", "snowy_plains", "meadow", "snowy_taiga", "taiga", "jungle", "grove", "savanna", "dark_forest", "stony_peaks", "sparse_jungle" ], "spawners": { "type": "arphex:spider_moth", "weight": 4, "minCount": 1, "maxCount": 1 }}
+small_bramble_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:small_bramble", "step": "raw_generation"}
+silverfish_spectre_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "beach", "bamboo_jungle", "basalt_deltas", "birch_forest", "cherry_grove", "crimson_forest", "dark_forest", "deep_dark", "desert", "dripstone_caves", "end_midlands", "eroded_badlands", "flower_forest", "forest", "grove", "lush_caves", "mangrove_swamp", "jungle", "meadow", "mushroom_fields", "nether_wastes", "old_growth_birch_forest", "old_growth_spruce_taiga", "plains", "savanna", "savanna_plateau", "stony_peaks", "swamp", "taiga", "windswept_forest", "windswept_hills", "wooded_badlands" ], "spawners": { "type": "arphex:silverfish_spectre", "weight": 32, "minCount": 1, "maxCount": 4 }}
+cave_spread_offset_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:tormented_tunnels", "features": "arphex:cave_spread_offset", "step": "raw_generation"}
+dead_plants_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:decadent_desert", "features": "arphex:dead_plants", "step": "vegetal_decoration"}
+giant_web_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "dark_forest", "deep_dark" ], "spawners": { "type": "arphex:giant_web", "weight": 32, "minCount": 1, "maxCount": 5 }}
+roach_riverspawn_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "dripstone_caves", "lush_caves", "deep_dark", "grove", "jungle", "stony_peaks", "birch_forest", "crimson_forest", "beach", "badlands", "dark_forest", "stony_shore", "river" ], "spawners": { "type": "arphex:roach_riverspawn", "weight": 16, "minCount": 1, "maxCount": 10 }}
+sculk_lines_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:sculk_lines", "step": "underground_structures"}
+cryptic_one_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:cryptic_one", "step": "strongholds"}
+fly_festerer_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "bamboo_jungle", "basalt_deltas", "beach", "birch_forest", "crimson_forest", "dark_forest", "desert", "dripstone_caves", "jagged_peaks", "jungle", "lush_caves", "mangrove_swamp", "wooded_badlands", "windswept_savanna", "badlands", "cherry_grove", "flower_forest", "forest", "old_growth_birch_forest", "windswept_forest", "plains", "savanna", "savanna_plateau" ], "spawners": { "type": "arphex:fly_festerer", "weight": 48, "minCount": 4, "maxCount": 7 }}
+cryptic_six_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:cryptic_six", "step": "strongholds"}
+cryptic_five_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:cryptic_five", "step": "strongholds"}
+base_layer_plague_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "features": "arphex:base_layer_plague", "step": "raw_generation"}
+cryptic_lamp_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:cryptic_lamp", "step": "strongholds"}
+spider_recluse_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "beach", "birch_forest", "cherry_grove", "cold_ocean", "dark_forest", "deep_cold_ocean", "deep_dark", "desert", "dripstone_caves", "eroded_badlands", "flower_forest", "forest", "frozen_ocean", "frozen_peaks", "frozen_river", "grove", "ice_spikes", "jagged_peaks", "jungle", "lukewarm_ocean", "lush_caves", "mangrove_swamp", "meadow", "old_growth_birch_forest", "old_growth_pine_taiga", "old_growth_spruce_taiga", "plains", "savanna", "savanna_plateau", "snowy_slopes", "snowy_beach", "snowy_plains", "snowy_taiga", "sparse_jungle", "stony_peaks", "stony_shore", "sunflower_plains", "swamp", "taiga", "windswept_forest", "windswept_gravelly_hills", "windswept_hills", "windswept_savanna", "wooded_badlands" ], "spawners": { "type": "arphex:spider_recluse", "weight": 64, "minCount": 1, "maxCount": 4 }}
+solifuge_skulker_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "desert", "badlands" ], "spawners": { "type": "arphex:solifuge_skulker", "weight": 32, "minCount": 1, "maxCount": 1 }}
+mini_mound_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:mini_mound", "step": "local_modifications"}
+cave_collapse_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:tormented_tunnels", "features": "arphex:cave_collapse", "step": "raw_generation"}
+crawling_layer_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "features": "arphex:crawling_layer", "step": "raw_generation"}
+scorch_feature_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": [ "arphex:cryptic_complex", "arphex:crawling_canopy" ], "features": "arphex:scorch_feature", "step": "surface_structures"}
+ant_arsonist_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "beach", "bamboo_jungle", "birch_forest", "cherry_grove", "dark_forest", "deep_dark", "desert", "dripstone_caves", "eroded_badlands", "flower_forest", "forest", "grove", "lush_caves", "mangrove_swamp", "jungle", "meadow", "mushroom_fields", "old_growth_birch_forest", "old_growth_spruce_taiga", "plains", "savanna", "savanna_plateau", "stony_peaks", "swamp", "taiga", "windswept_forest", "windswept_hills", "wooded_badlands" ], "spawners": { "type": "arphex:ant_arsonist", "weight": 8, "minCount": 2, "maxCount": 25 }}
+any_dimension_spawner_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "arphex:any_dimension_spawner", "weight": 4, "minCount": 1, "maxCount": 1 }}
+dweller_sleep_spawner_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "dripstone_caves", "lush_caves", "deep_dark", "dark_forest", "jungle" ], "spawners": { "type": "arphex:dweller_sleep_spawner", "weight": 3, "minCount": 1, "maxCount": 1 }}
+tormentor_moth_summon_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "plains", "desert", "dripstone_caves", "lush_caves", "sunflower_plains", "snowy_plains", "meadow", "snowy_taiga", "taiga", "jungle", "grove", "savanna", "dark_forest", "stony_peaks", "sparse_jungle" ], "spawners": { "type": "arphex:tormentor_moth_summon", "weight": 2, "minCount": 1, "maxCount": 1 }}
+hornet_harbinger_giant_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "beach", "desert", "dripstone_caves", "lush_caves", "mangrove_swamp", "dark_forest", "jagged_peaks", "jungle", "wooded_badlands", "windswept_savanna" ], "spawners": { "type": "arphex:hornet_harbinger_giant", "weight": 16, "minCount": 1, "maxCount": 1 }}
+spider_jump_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "bamboo_jungle", "jungle", "savanna", "savanna_plateau", "taiga", "birch_forest" ], "spawners": { "type": "arphex:spider_jump", "weight": 8, "minCount": 1, "maxCount": 1 }}
+dust_blob_thick_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:decadent_desert", "features": "arphex:dust_blob_thick", "step": "raw_generation"}
+small_bushes_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:small_bushes", "step": "raw_generation"}
+spider_brood_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "beach", "birch_forest", "cherry_grove", "cold_ocean", "dark_forest", "deep_dark", "desert", "dripstone_caves", "eroded_badlands", "forest", "grove", "jungle", "lush_caves", "mangrove_swamp", "meadow", "old_growth_birch_forest", "plains", "savanna", "swamp", "taiga", "windswept_savanna", "wooded_badlands" ], "spawners": { "type": "arphex:spider_brood", "weight": 16, "minCount": 1, "maxCount": 2 }}
+cherry_plant_large_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:cherry_plant_large", "step": "raw_generation"}
+web_ball_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:web_ball", "step": "strongholds"}
+butterfly_bewitcher_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "bamboo_jungle", "birch_forest", "dark_forest", "deep_dark", "dripstone_caves", "lush_caves", "end_barrens", "mangrove_swamp", "jungle", "sparse_jungle", "windswept_forest", "old_growth_birch_forest", "deep_lukewarm_ocean", "warm_ocean", "deep_ocean", "beach" ], "spawners": { "type": "arphex:butterfly_bewitcher", "weight": 16, "minCount": 1, "maxCount": 10 }}
+draconic_fly_stalk_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "end_barrens", "small_end_islands" ], "spawners": { "type": "arphex:draconic_fly_stalk", "weight": 2, "minCount": 1, "maxCount": 1 }}
+beetle_bulwark_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "dripstone_caves", "lush_caves", "deep_dark", "grove", "jungle", "stony_peaks", "birch_forest" ], "spawners": { "type": "arphex:beetle_bulwark", "weight": 128, "minCount": 1, "maxCount": 2 }}
+random_ar_ph_ex_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": "#minecraft:is_overworld", "spawners": { "type": "arphex:random_ar_ph_ex", "weight": 150, "minCount": 1, "maxCount": 1 }}
+centipede_evictor_larvae_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "beach", "birch_forest", "crimson_forest", "soul_sand_valley", "nether_wastes", "dark_forest", "desert", "deep_dark", "dripstone_caves", "eroded_badlands", "jungle", "lush_caves", "mangrove_swamp", "mushroom_fields", "swamp" ], "spawners": { "type": "arphex:centipede_evictor_larvae", "weight": 32, "minCount": 1, "maxCount": 1 }}
+mega_web_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:mega_web", "step": "strongholds"}
+spider_goliath_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "jungle", "bamboo_jungle", "sparse_jungle", "lush_caves" ], "spawners": { "type": "arphex:spider_goliath", "weight": 16, "minCount": 1, "maxCount": 1 }}
+draconic_voidlasher_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "end_barrens", "end_highlands", "end_midlands", "small_end_islands" ], "spawners": { "type": "arphex:draconic_voidlasher", "weight": 2, "minCount": 1, "maxCount": 1 }}
+ant_hill_crawling_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:ant_hill_crawling", "step": "raw_generation"}
+desert_layer_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:decadent_desert", "features": "arphex:desert_layer", "step": "raw_generation"}
+small_bramble_2_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:small_bramble_2", "step": "raw_generation"}
+web_replace_2_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:web_replace_2", "step": "raw_generation"}
+spider_web_test_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:webbed_wasteland", "features": "arphex:spider_web_test", "step": "raw_generation"}
+tormentor_initial_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": { "type": "neoforge:any" }, "spawners": { "type": "arphex:tormentor_initial", "weight": 2, "minCount": 1, "maxCount": 1 }}
+voidlasher_shadow_clone_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "end_barrens", "end_highlands", "end_midlands", "small_end_islands", "the_end" ], "spawners": { "type": "arphex:voidlasher_shadow_clone", "weight": 5, "minCount": 1, "maxCount": 2 }}
+moth_shadow_clone_biome_modifier.json :: { "type": "neoforge:add_spawns", "biomes": [ "badlands", "bamboo_jungle", "beach", "birch_forest", "cherry_grove", "cold_ocean", "dark_forest", "deep_cold_ocean", "deep_dark", "deep_frozen_ocean", "deep_lukewarm_ocean", "deep_ocean", "desert", "dripstone_caves", "eroded_badlands", "flower_forest", "forest", "frozen_ocean", "frozen_peaks", "frozen_river", "grove", "ice_spikes", "jagged_peaks", "jungle", "lukewarm_ocean", "lush_caves", "mangrove_swamp", "meadow", "mushroom_fields", "ocean", "old_growth_birch_forest", "old_growth_pine_taiga", "old_growth_spruce_taiga", "plains", "river", "savanna", "savanna_plateau", "snowy_slopes", "snowy_beach", "snowy_plains", "snowy_taiga", "sparse_jungle", "stony_peaks", "stony_shore", "sunflower_plains", "swamp", "taiga", "warm_ocean", "windswept_forest", "windswept_gravelly_hills", "windswept_hills", "windswept_savanna", "wooded_badlands", "arphex:crawling_canopy", "arphex:cryptic_complex", "arphex:decadent_desert", "arphex:tormented_tunnels", "arphex:webbed_wasteland" ], "spawners": { "type": "arphex:moth_shadow_clone", "weight": 20, "minCount": 1, "maxCount": 2 }}
+cryptic_seven_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:cryptic_complex", "features": "arphex:cryptic_seven", "step": "strongholds"}
+dead_bush_big_biome_modifier.json :: { "type": "neoforge:add_features", "biomes": "arphex:crawling_canopy", "features": "arphex:dead_bush_big", "step": "raw_generation"}
+
+## c: common tag membership

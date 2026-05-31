@@ -1,0 +1,308 @@
+minecraft:beehive | minecraft:crafting_shaped | minecraft:beehive minecraft:crafting_shaped minecraft:honeycomb minecraft:planks woodworks:config
+minecraft:bookshelf | minecraft:crafting_shaped | minecraft:book minecraft:bookshelf minecraft:crafting_shaped minecraft:planks woodworks:config
+minecraft:chest | minecraft:crafting_shaped | minecraft:chest minecraft:crafting_shaped minecraft:planks woodworks:config
+minecraft:chiseled_bookshelf | minecraft:crafting_shaped | minecraft:chiseled_bookshelf minecraft:crafting_shaped minecraft:planks minecraft:wooden_slabs woodworks:config
+minecraft:ladder | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:ladder minecraft:stick woodworks:config
+minecraft:lectern | minecraft:crafting_shaped | c:bookshelves minecraft:crafting_shaped minecraft:lectern minecraft:wooden_slabs
+minecraft:trapped_chest | minecraft:crafting_shapeless | c:chests/wooden minecraft:crafting_shapeless minecraft:trapped_chest minecraft:tripwire_hook woodworks:config
+woodworks:acacia_beehive | minecraft:crafting_shaped | minecraft:acacia_planks minecraft:crafting_shaped minecraft:honeycomb woodworks:acacia_beehive woodworks:config
+woodworks:acacia_boards | minecraft:crafting_shaped | minecraft:acacia_slab minecraft:crafting_shaped woodworks:acacia_boards woodworks:config
+woodworks:acacia_boards_from_acacia_logs_sawing | woodworks:sawmill | blueprint:and minecraft:acacia_logs woodworks:acacia_boards woodworks:config woodworks:sawmill
+woodworks:acacia_boards_from_acacia_planks_sawing | woodworks:sawmill | blueprint:and minecraft:acacia_planks woodworks:acacia_boards woodworks:config woodworks:sawmill
+woodworks:acacia_bookshelf | minecraft:crafting_shaped | minecraft:acacia_planks minecraft:book minecraft:crafting_shaped woodworks:acacia_bookshelf woodworks:config
+woodworks:acacia_button_from_acacia_logs_sawing | woodworks:sawmill | minecraft:acacia_button minecraft:acacia_logs woodworks:config woodworks:sawmill
+woodworks:acacia_button_from_acacia_planks_sawing | woodworks:sawmill | minecraft:acacia_button minecraft:acacia_planks woodworks:config woodworks:sawmill
+woodworks:acacia_chest | minecraft:crafting_shaped | minecraft:acacia_planks minecraft:crafting_shaped woodworks:acacia_chest woodworks:config
+woodworks:acacia_door_from_acacia_logs_sawing | woodworks:sawmill | minecraft:acacia_door minecraft:acacia_logs woodworks:config woodworks:sawmill
+woodworks:acacia_fence_from_acacia_logs_sawing | woodworks:sawmill | minecraft:acacia_fence minecraft:acacia_logs woodworks:config woodworks:sawmill
+woodworks:acacia_fence_from_acacia_planks_sawing | woodworks:sawmill | minecraft:acacia_fence minecraft:acacia_planks woodworks:config woodworks:sawmill
+woodworks:acacia_fence_gate_from_acacia_logs_sawing | woodworks:sawmill | minecraft:acacia_fence_gate minecraft:acacia_logs woodworks:config woodworks:sawmill
+woodworks:acacia_ladder | minecraft:crafting_shaped | minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick woodworks:acacia_ladder woodworks:config
+woodworks:acacia_ladder_from_acacia_logs_sawing | woodworks:sawmill | blueprint:and minecraft:acacia_logs woodworks:acacia_ladder woodworks:config woodworks:sawmill
+woodworks:acacia_ladder_from_acacia_planks_sawing | woodworks:sawmill | blueprint:and minecraft:acacia_planks woodworks:acacia_ladder woodworks:config woodworks:sawmill
+woodworks:acacia_leaf_pile | minecraft:crafting_shapeless | minecraft:acacia_leaves minecraft:crafting_shapeless woodworks:acacia_leaf_pile woodworks:config
+woodworks:acacia_leaves_from_acacia_leaf_pile | minecraft:crafting_shaped | minecraft:acacia_leaves minecraft:crafting_shaped woodworks:acacia_leaf_pile woodworks:config
+woodworks:acacia_planks_from_acacia_logs_sawing | woodworks:sawmill | minecraft:acacia_logs minecraft:acacia_planks woodworks:config woodworks:sawmill
+woodworks:acacia_pressure_plate_from_acacia_logs_sawing | woodworks:sawmill | minecraft:acacia_logs minecraft:acacia_pressure_plate woodworks:config woodworks:sawmill
+woodworks:acacia_sign_from_acacia_logs_sawing | woodworks:sawmill | minecraft:acacia_logs minecraft:acacia_sign woodworks:config woodworks:sawmill
+woodworks:acacia_slab_from_acacia_logs_sawing | woodworks:sawmill | minecraft:acacia_logs minecraft:acacia_slab woodworks:config woodworks:sawmill
+woodworks:acacia_slab_from_acacia_planks_sawing | woodworks:sawmill | minecraft:acacia_planks minecraft:acacia_slab woodworks:config woodworks:sawmill
+woodworks:acacia_stairs_from_acacia_logs_sawing | woodworks:sawmill | minecraft:acacia_logs minecraft:acacia_stairs woodworks:config woodworks:sawmill
+woodworks:acacia_stairs_from_acacia_planks_sawing | woodworks:sawmill | minecraft:acacia_planks minecraft:acacia_stairs woodworks:config woodworks:sawmill
+woodworks:acacia_trapdoor_from_acacia_logs_sawing | woodworks:sawmill | minecraft:acacia_logs minecraft:acacia_trapdoor woodworks:config woodworks:sawmill
+woodworks:azalea_leaf_pile | minecraft:crafting_shapeless | minecraft:azalea_leaves minecraft:crafting_shapeless woodworks:azalea_leaf_pile woodworks:config
+woodworks:azalea_leaves_from_azalea_leaf_pile | minecraft:crafting_shaped | minecraft:azalea_leaves minecraft:crafting_shaped woodworks:azalea_leaf_pile woodworks:config
+woodworks:bamboo_beehive | minecraft:crafting_shaped | minecraft:bamboo_planks minecraft:crafting_shaped minecraft:honeycomb woodworks:bamboo_beehive woodworks:config
+woodworks:bamboo_bookshelf | minecraft:crafting_shaped | minecraft:bamboo_planks minecraft:book minecraft:crafting_shaped woodworks:bamboo_bookshelf woodworks:config
+woodworks:bamboo_button_from_bamboo_blocks_sawing | woodworks:sawmill | minecraft:bamboo_blocks minecraft:bamboo_button woodworks:config woodworks:sawmill
+woodworks:bamboo_button_from_bamboo_planks_sawing | woodworks:sawmill | minecraft:bamboo_button minecraft:bamboo_planks woodworks:config woodworks:sawmill
+woodworks:bamboo_closet | minecraft:crafting_shaped | minecraft:bamboo_planks minecraft:crafting_shaped woodworks:bamboo_closet woodworks:config
+woodworks:bamboo_door_from_bamboo_blocks_sawing | woodworks:sawmill | minecraft:bamboo_blocks minecraft:bamboo_door woodworks:config woodworks:sawmill
+woodworks:bamboo_fence_from_bamboo | minecraft:crafting_shaped | minecraft:bamboo minecraft:bamboo_fence minecraft:bamboo_planks minecraft:crafting_shaped
+woodworks:bamboo_fence_from_bamboo_blocks_sawing | woodworks:sawmill | minecraft:bamboo_blocks minecraft:bamboo_fence woodworks:config woodworks:sawmill
+woodworks:bamboo_fence_from_bamboo_planks_sawing | woodworks:sawmill | minecraft:bamboo_fence minecraft:bamboo_planks woodworks:config woodworks:sawmill
+woodworks:bamboo_fence_gate_from_bamboo | minecraft:crafting_shaped | minecraft:bamboo minecraft:bamboo_fence_gate minecraft:bamboo_planks minecraft:crafting_shaped
+woodworks:bamboo_ladder | minecraft:crafting_shaped | minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick woodworks:bamboo_ladder woodworks:config
+woodworks:bamboo_ladder_from_bamboo | minecraft:crafting_shaped | minecraft:bamboo minecraft:bamboo_planks minecraft:crafting_shaped woodworks:bamboo_ladder woodworks:config
+woodworks:bamboo_ladder_from_bamboo_blocks_sawing | woodworks:sawmill | blueprint:and minecraft:bamboo_blocks woodworks:bamboo_ladder woodworks:config woodworks:sawmill
+woodworks:bamboo_ladder_from_bamboo_planks_sawing | woodworks:sawmill | blueprint:and minecraft:bamboo_planks woodworks:bamboo_ladder woodworks:config woodworks:sawmill
+woodworks:bamboo_mosaic_from_bamboo_blocks_sawing | woodworks:sawmill | blueprint:and minecraft:bamboo_blocks minecraft:bamboo_mosaic woodworks:config woodworks:sawmill
+woodworks:bamboo_mosaic_from_bamboo_planks_sawing | woodworks:sawmill | blueprint:and minecraft:bamboo_mosaic minecraft:bamboo_planks woodworks:config woodworks:sawmill
+woodworks:bamboo_mosaic_slab_from_bamboo_mosaic_sawing | woodworks:sawmill | minecraft:bamboo_mosaic minecraft:bamboo_mosaic_slab woodworks:config woodworks:sawmill
+woodworks:bamboo_mosaic_stairs_from_bamboo_mosaic_sawing | woodworks:sawmill | minecraft:bamboo_mosaic minecraft:bamboo_mosaic_stairs woodworks:config woodworks:sawmill
+woodworks:bamboo_planks_from_bamboo_blocks_sawing | woodworks:sawmill | minecraft:bamboo_blocks minecraft:bamboo_planks woodworks:config woodworks:sawmill
+woodworks:bamboo_pressure_plate_from_bamboo_blocks_sawing | woodworks:sawmill | minecraft:bamboo_blocks minecraft:bamboo_pressure_plate woodworks:config woodworks:sawmill
+woodworks:bamboo_sign_from_bamboo_blocks_sawing | woodworks:sawmill | minecraft:bamboo_blocks minecraft:bamboo_sign woodworks:config woodworks:sawmill
+woodworks:bamboo_slab_from_bamboo_blocks_sawing | woodworks:sawmill | minecraft:bamboo_blocks minecraft:bamboo_slab woodworks:config woodworks:sawmill
+woodworks:bamboo_slab_from_bamboo_planks_sawing | woodworks:sawmill | minecraft:bamboo_planks minecraft:bamboo_slab woodworks:config woodworks:sawmill
+woodworks:bamboo_stairs_from_bamboo_blocks_sawing | woodworks:sawmill | minecraft:bamboo_blocks minecraft:bamboo_stairs woodworks:config woodworks:sawmill
+woodworks:bamboo_stairs_from_bamboo_planks_sawing | woodworks:sawmill | minecraft:bamboo_planks minecraft:bamboo_stairs woodworks:config woodworks:sawmill
+woodworks:bamboo_trapdoor_from_bamboo_blocks_sawing | woodworks:sawmill | minecraft:bamboo_blocks minecraft:bamboo_trapdoor woodworks:config woodworks:sawmill
+woodworks:birch_beehive | minecraft:crafting_shaped | minecraft:birch_planks minecraft:crafting_shaped minecraft:honeycomb woodworks:birch_beehive woodworks:config
+woodworks:birch_boards | minecraft:crafting_shaped | minecraft:birch_slab minecraft:crafting_shaped woodworks:birch_boards woodworks:config
+woodworks:birch_boards_from_birch_logs_sawing | woodworks:sawmill | blueprint:and minecraft:birch_logs woodworks:birch_boards woodworks:config woodworks:sawmill
+woodworks:birch_boards_from_birch_planks_sawing | woodworks:sawmill | blueprint:and minecraft:birch_planks woodworks:birch_boards woodworks:config woodworks:sawmill
+woodworks:birch_bookshelf | minecraft:crafting_shaped | minecraft:birch_planks minecraft:book minecraft:crafting_shaped woodworks:birch_bookshelf woodworks:config
+woodworks:birch_button_from_birch_logs_sawing | woodworks:sawmill | minecraft:birch_button minecraft:birch_logs woodworks:config woodworks:sawmill
+woodworks:birch_button_from_birch_planks_sawing | woodworks:sawmill | minecraft:birch_button minecraft:birch_planks woodworks:config woodworks:sawmill
+woodworks:birch_chest | minecraft:crafting_shaped | minecraft:birch_planks minecraft:crafting_shaped woodworks:birch_chest woodworks:config
+woodworks:birch_door_from_birch_logs_sawing | woodworks:sawmill | minecraft:birch_door minecraft:birch_logs woodworks:config woodworks:sawmill
+woodworks:birch_fence_from_birch_logs_sawing | woodworks:sawmill | minecraft:birch_fence minecraft:birch_logs woodworks:config woodworks:sawmill
+woodworks:birch_fence_from_birch_planks_sawing | woodworks:sawmill | minecraft:birch_fence minecraft:birch_planks woodworks:config woodworks:sawmill
+woodworks:birch_fence_gate_from_birch_logs_sawing | woodworks:sawmill | minecraft:birch_fence_gate minecraft:birch_logs woodworks:config woodworks:sawmill
+woodworks:birch_ladder | minecraft:crafting_shaped | minecraft:birch_planks minecraft:crafting_shaped minecraft:stick woodworks:birch_ladder woodworks:config
+woodworks:birch_ladder_from_birch_logs_sawing | woodworks:sawmill | blueprint:and minecraft:birch_logs woodworks:birch_ladder woodworks:config woodworks:sawmill
+woodworks:birch_ladder_from_birch_planks_sawing | woodworks:sawmill | blueprint:and minecraft:birch_planks woodworks:birch_ladder woodworks:config woodworks:sawmill
+woodworks:birch_leaf_pile | minecraft:crafting_shapeless | minecraft:birch_leaves minecraft:crafting_shapeless woodworks:birch_leaf_pile woodworks:config
+woodworks:birch_leaves_from_birch_leaf_pile | minecraft:crafting_shaped | minecraft:birch_leaves minecraft:crafting_shaped woodworks:birch_leaf_pile woodworks:config
+woodworks:birch_planks_from_birch_logs_sawing | woodworks:sawmill | minecraft:birch_logs minecraft:birch_planks woodworks:config woodworks:sawmill
+woodworks:birch_pressure_plate_from_birch_logs_sawing | woodworks:sawmill | minecraft:birch_logs minecraft:birch_pressure_plate woodworks:config woodworks:sawmill
+woodworks:birch_sign_from_birch_logs_sawing | woodworks:sawmill | minecraft:birch_logs minecraft:birch_sign woodworks:config woodworks:sawmill
+woodworks:birch_slab_from_birch_logs_sawing | woodworks:sawmill | minecraft:birch_logs minecraft:birch_slab woodworks:config woodworks:sawmill
+woodworks:birch_slab_from_birch_planks_sawing | woodworks:sawmill | minecraft:birch_planks minecraft:birch_slab woodworks:config woodworks:sawmill
+woodworks:birch_stairs_from_birch_logs_sawing | woodworks:sawmill | minecraft:birch_logs minecraft:birch_stairs woodworks:config woodworks:sawmill
+woodworks:birch_stairs_from_birch_planks_sawing | woodworks:sawmill | minecraft:birch_planks minecraft:birch_stairs woodworks:config woodworks:sawmill
+woodworks:birch_trapdoor_from_birch_logs_sawing | woodworks:sawmill | minecraft:birch_logs minecraft:birch_trapdoor woodworks:config woodworks:sawmill
+woodworks:cherry_beehive | minecraft:crafting_shaped | minecraft:cherry_planks minecraft:crafting_shaped minecraft:honeycomb woodworks:cherry_beehive woodworks:config
+woodworks:cherry_boards | minecraft:crafting_shaped | minecraft:cherry_slab minecraft:crafting_shaped woodworks:cherry_boards woodworks:config
+woodworks:cherry_boards_from_cherry_logs_sawing | woodworks:sawmill | blueprint:and minecraft:cherry_logs woodworks:cherry_boards woodworks:config woodworks:sawmill
+woodworks:cherry_boards_from_cherry_planks_sawing | woodworks:sawmill | blueprint:and minecraft:cherry_planks woodworks:cherry_boards woodworks:config woodworks:sawmill
+woodworks:cherry_bookshelf | minecraft:crafting_shaped | minecraft:book minecraft:cherry_planks minecraft:crafting_shaped woodworks:cherry_bookshelf woodworks:config
+woodworks:cherry_button_from_cherry_logs_sawing | woodworks:sawmill | minecraft:cherry_button minecraft:cherry_logs woodworks:config woodworks:sawmill
+woodworks:cherry_button_from_cherry_planks_sawing | woodworks:sawmill | minecraft:cherry_button minecraft:cherry_planks woodworks:config woodworks:sawmill
+woodworks:cherry_chest | minecraft:crafting_shaped | minecraft:cherry_planks minecraft:crafting_shaped woodworks:cherry_chest woodworks:config
+woodworks:cherry_door_from_cherry_logs_sawing | woodworks:sawmill | minecraft:cherry_door minecraft:cherry_logs woodworks:config woodworks:sawmill
+woodworks:cherry_fence_from_cherry_logs_sawing | woodworks:sawmill | minecraft:cherry_fence minecraft:cherry_logs woodworks:config woodworks:sawmill
+woodworks:cherry_fence_from_cherry_planks_sawing | woodworks:sawmill | minecraft:cherry_fence minecraft:cherry_planks woodworks:config woodworks:sawmill
+woodworks:cherry_fence_gate_from_cherry_logs_sawing | woodworks:sawmill | minecraft:cherry_fence_gate minecraft:cherry_logs woodworks:config woodworks:sawmill
+woodworks:cherry_ladder | minecraft:crafting_shaped | minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick woodworks:cherry_ladder woodworks:config
+woodworks:cherry_ladder_from_cherry_logs_sawing | woodworks:sawmill | blueprint:and minecraft:cherry_logs woodworks:cherry_ladder woodworks:config woodworks:sawmill
+woodworks:cherry_ladder_from_cherry_planks_sawing | woodworks:sawmill | blueprint:and minecraft:cherry_planks woodworks:cherry_ladder woodworks:config woodworks:sawmill
+woodworks:cherry_leaf_pile | minecraft:crafting_shapeless | minecraft:cherry_leaves minecraft:crafting_shapeless woodworks:cherry_leaf_pile woodworks:config
+woodworks:cherry_leaves_from_cherry_leaf_pile | minecraft:crafting_shaped | minecraft:cherry_leaves minecraft:crafting_shaped woodworks:cherry_leaf_pile woodworks:config
+woodworks:cherry_planks_from_cherry_logs_sawing | woodworks:sawmill | minecraft:cherry_logs minecraft:cherry_planks woodworks:config woodworks:sawmill
+woodworks:cherry_pressure_plate_from_cherry_logs_sawing | woodworks:sawmill | minecraft:cherry_logs minecraft:cherry_pressure_plate woodworks:config woodworks:sawmill
+woodworks:cherry_sign_from_cherry_logs_sawing | woodworks:sawmill | minecraft:cherry_logs minecraft:cherry_sign woodworks:config woodworks:sawmill
+woodworks:cherry_slab_from_cherry_logs_sawing | woodworks:sawmill | minecraft:cherry_logs minecraft:cherry_slab woodworks:config woodworks:sawmill
+woodworks:cherry_slab_from_cherry_planks_sawing | woodworks:sawmill | minecraft:cherry_planks minecraft:cherry_slab woodworks:config woodworks:sawmill
+woodworks:cherry_stairs_from_cherry_logs_sawing | woodworks:sawmill | minecraft:cherry_logs minecraft:cherry_stairs woodworks:config woodworks:sawmill
+woodworks:cherry_stairs_from_cherry_planks_sawing | woodworks:sawmill | minecraft:cherry_planks minecraft:cherry_stairs woodworks:config woodworks:sawmill
+woodworks:cherry_trapdoor_from_cherry_logs_sawing | woodworks:sawmill | minecraft:cherry_logs minecraft:cherry_trapdoor woodworks:config woodworks:sawmill
+woodworks:chiseled_acacia_bookshelf | minecraft:crafting_shaped | minecraft:acacia_planks minecraft:acacia_slab minecraft:crafting_shaped woodworks:chiseled_acacia_bookshelf woodworks:config
+woodworks:chiseled_bamboo_bookshelf | minecraft:crafting_shaped | minecraft:bamboo_planks minecraft:bamboo_slab minecraft:crafting_shaped woodworks:chiseled_bamboo_bookshelf woodworks:config
+woodworks:chiseled_birch_bookshelf | minecraft:crafting_shaped | minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped woodworks:chiseled_birch_bookshelf woodworks:config
+woodworks:chiseled_cherry_bookshelf | minecraft:crafting_shaped | minecraft:cherry_planks minecraft:cherry_slab minecraft:crafting_shaped woodworks:chiseled_cherry_bookshelf woodworks:config
+woodworks:chiseled_crimson_bookshelf | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:crimson_planks minecraft:crimson_slab woodworks:chiseled_crimson_bookshelf woodworks:config
+woodworks:chiseled_dark_oak_bookshelf | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab woodworks:chiseled_dark_oak_bookshelf woodworks:config
+woodworks:chiseled_jungle_bookshelf | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_planks minecraft:jungle_slab woodworks:chiseled_jungle_bookshelf woodworks:config
+woodworks:chiseled_mangrove_bookshelf | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mangrove_planks minecraft:mangrove_slab woodworks:chiseled_mangrove_bookshelf woodworks:config
+woodworks:chiseled_spruce_bookshelf | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_planks minecraft:spruce_slab woodworks:chiseled_spruce_bookshelf woodworks:config
+woodworks:chiseled_warped_bookshelf | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:warped_planks minecraft:warped_slab woodworks:chiseled_warped_bookshelf woodworks:config
+woodworks:crimson_beehive | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:crimson_planks minecraft:honeycomb woodworks:config woodworks:crimson_beehive
+woodworks:crimson_boards | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:crimson_slab woodworks:config woodworks:crimson_boards
+woodworks:crimson_boards_from_crimson_planks_sawing | woodworks:sawmill | blueprint:and minecraft:crimson_planks woodworks:config woodworks:crimson_boards woodworks:sawmill
+woodworks:crimson_boards_from_crimson_stems_sawing | woodworks:sawmill | blueprint:and minecraft:crimson_stems woodworks:config woodworks:crimson_boards woodworks:sawmill
+woodworks:crimson_bookshelf | minecraft:crafting_shaped | minecraft:book minecraft:crafting_shaped minecraft:crimson_planks woodworks:config woodworks:crimson_bookshelf
+woodworks:crimson_button_from_crimson_planks_sawing | woodworks:sawmill | minecraft:crimson_button minecraft:crimson_planks woodworks:config woodworks:sawmill
+woodworks:crimson_button_from_crimson_stems_sawing | woodworks:sawmill | minecraft:crimson_button minecraft:crimson_stems woodworks:config woodworks:sawmill
+woodworks:crimson_chest | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:crimson_planks woodworks:config woodworks:crimson_chest
+woodworks:crimson_door_from_crimson_stems_sawing | woodworks:sawmill | minecraft:crimson_door minecraft:crimson_stems woodworks:config woodworks:sawmill
+woodworks:crimson_fence_from_crimson_planks_sawing | woodworks:sawmill | minecraft:crimson_fence minecraft:crimson_planks woodworks:config woodworks:sawmill
+woodworks:crimson_fence_from_crimson_stems_sawing | woodworks:sawmill | minecraft:crimson_fence minecraft:crimson_stems woodworks:config woodworks:sawmill
+woodworks:crimson_fence_gate_from_crimson_stems_sawing | woodworks:sawmill | minecraft:crimson_fence_gate minecraft:crimson_stems woodworks:config woodworks:sawmill
+woodworks:crimson_ladder | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:crimson_planks minecraft:stick woodworks:config woodworks:crimson_ladder
+woodworks:crimson_ladder_from_crimson_planks_sawing | woodworks:sawmill | blueprint:and minecraft:crimson_planks woodworks:config woodworks:crimson_ladder woodworks:sawmill
+woodworks:crimson_ladder_from_crimson_stems_sawing | woodworks:sawmill | blueprint:and minecraft:crimson_stems woodworks:config woodworks:crimson_ladder woodworks:sawmill
+woodworks:crimson_planks_from_crimson_stems_sawing | woodworks:sawmill | minecraft:crimson_planks minecraft:crimson_stems woodworks:config woodworks:sawmill
+woodworks:crimson_pressure_plate_from_crimson_stems_sawing | woodworks:sawmill | minecraft:crimson_pressure_plate minecraft:crimson_stems woodworks:config woodworks:sawmill
+woodworks:crimson_sign_from_crimson_stems_sawing | woodworks:sawmill | minecraft:crimson_sign minecraft:crimson_stems woodworks:config woodworks:sawmill
+woodworks:crimson_slab_from_crimson_planks_sawing | woodworks:sawmill | minecraft:crimson_planks minecraft:crimson_slab woodworks:config woodworks:sawmill
+woodworks:crimson_slab_from_crimson_stems_sawing | woodworks:sawmill | minecraft:crimson_slab minecraft:crimson_stems woodworks:config woodworks:sawmill
+woodworks:crimson_stairs_from_crimson_planks_sawing | woodworks:sawmill | minecraft:crimson_planks minecraft:crimson_stairs woodworks:config woodworks:sawmill
+woodworks:crimson_stairs_from_crimson_stems_sawing | woodworks:sawmill | minecraft:crimson_stairs minecraft:crimson_stems woodworks:config woodworks:sawmill
+woodworks:crimson_trapdoor_from_crimson_stems_sawing | woodworks:sawmill | minecraft:crimson_stems minecraft:crimson_trapdoor woodworks:config woodworks:sawmill
+woodworks:dark_oak_beehive | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:honeycomb woodworks:config woodworks:dark_oak_beehive
+woodworks:dark_oak_boards | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_slab woodworks:config woodworks:dark_oak_boards
+woodworks:dark_oak_boards_from_dark_oak_logs_sawing | woodworks:sawmill | blueprint:and minecraft:dark_oak_logs woodworks:config woodworks:dark_oak_boards woodworks:sawmill
+woodworks:dark_oak_boards_from_dark_oak_planks_sawing | woodworks:sawmill | blueprint:and minecraft:dark_oak_planks woodworks:config woodworks:dark_oak_boards woodworks:sawmill
+woodworks:dark_oak_bookshelf | minecraft:crafting_shaped | minecraft:book minecraft:crafting_shaped minecraft:dark_oak_planks woodworks:config woodworks:dark_oak_bookshelf
+woodworks:dark_oak_button_from_dark_oak_logs_sawing | woodworks:sawmill | minecraft:dark_oak_button minecraft:dark_oak_logs woodworks:config woodworks:sawmill
+woodworks:dark_oak_button_from_dark_oak_planks_sawing | woodworks:sawmill | minecraft:dark_oak_button minecraft:dark_oak_planks woodworks:config woodworks:sawmill
+woodworks:dark_oak_chest | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_planks woodworks:config woodworks:dark_oak_chest
+woodworks:dark_oak_door_from_dark_oak_logs_sawing | woodworks:sawmill | minecraft:dark_oak_door minecraft:dark_oak_logs woodworks:config woodworks:sawmill
+woodworks:dark_oak_fence_from_dark_oak_logs_sawing | woodworks:sawmill | minecraft:dark_oak_fence minecraft:dark_oak_logs woodworks:config woodworks:sawmill
+woodworks:dark_oak_fence_from_dark_oak_planks_sawing | woodworks:sawmill | minecraft:dark_oak_fence minecraft:dark_oak_planks woodworks:config woodworks:sawmill
+woodworks:dark_oak_fence_gate_from_dark_oak_logs_sawing | woodworks:sawmill | minecraft:dark_oak_fence_gate minecraft:dark_oak_logs woodworks:config woodworks:sawmill
+woodworks:dark_oak_ladder | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:stick woodworks:config woodworks:dark_oak_ladder
+woodworks:dark_oak_ladder_from_dark_oak_logs_sawing | woodworks:sawmill | blueprint:and minecraft:dark_oak_logs woodworks:config woodworks:dark_oak_ladder woodworks:sawmill
+woodworks:dark_oak_ladder_from_dark_oak_planks_sawing | woodworks:sawmill | blueprint:and minecraft:dark_oak_planks woodworks:config woodworks:dark_oak_ladder woodworks:sawmill
+woodworks:dark_oak_leaf_pile | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:dark_oak_leaves woodworks:config woodworks:dark_oak_leaf_pile
+woodworks:dark_oak_leaves_from_dark_oak_leaf_pile | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_leaves woodworks:config woodworks:dark_oak_leaf_pile
+woodworks:dark_oak_planks_from_dark_oak_logs_sawing | woodworks:sawmill | minecraft:dark_oak_logs minecraft:dark_oak_planks woodworks:config woodworks:sawmill
+woodworks:dark_oak_pressure_plate_from_dark_oak_logs_sawing | woodworks:sawmill | minecraft:dark_oak_logs minecraft:dark_oak_pressure_plate woodworks:config woodworks:sawmill
+woodworks:dark_oak_sign_from_dark_oak_logs_sawing | woodworks:sawmill | minecraft:dark_oak_logs minecraft:dark_oak_sign woodworks:config woodworks:sawmill
+woodworks:dark_oak_slab_from_dark_oak_logs_sawing | woodworks:sawmill | minecraft:dark_oak_logs minecraft:dark_oak_slab woodworks:config woodworks:sawmill
+woodworks:dark_oak_slab_from_dark_oak_planks_sawing | woodworks:sawmill | minecraft:dark_oak_planks minecraft:dark_oak_slab woodworks:config woodworks:sawmill
+woodworks:dark_oak_stairs_from_dark_oak_logs_sawing | woodworks:sawmill | minecraft:dark_oak_logs minecraft:dark_oak_stairs woodworks:config woodworks:sawmill
+woodworks:dark_oak_stairs_from_dark_oak_planks_sawing | woodworks:sawmill | minecraft:dark_oak_planks minecraft:dark_oak_stairs woodworks:config woodworks:sawmill
+woodworks:dark_oak_trapdoor_from_dark_oak_logs_sawing | woodworks:sawmill | minecraft:dark_oak_logs minecraft:dark_oak_trapdoor woodworks:config woodworks:sawmill
+woodworks:flowering_azalea_leaf_pile | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:flowering_azalea_leaves woodworks:config woodworks:flowering_azalea_leaf_pile
+woodworks:flowering_azalea_leaves_from_flowering_azalea_leaf_pile | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:flowering_azalea_leaves woodworks:config woodworks:flowering_azalea_leaf_pile
+woodworks:jungle_beehive | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:honeycomb minecraft:jungle_planks woodworks:config woodworks:jungle_beehive
+woodworks:jungle_boards | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_slab woodworks:config woodworks:jungle_boards
+woodworks:jungle_boards_from_jungle_logs_sawing | woodworks:sawmill | blueprint:and minecraft:jungle_logs woodworks:config woodworks:jungle_boards woodworks:sawmill
+woodworks:jungle_boards_from_jungle_planks_sawing | woodworks:sawmill | blueprint:and minecraft:jungle_planks woodworks:config woodworks:jungle_boards woodworks:sawmill
+woodworks:jungle_bookshelf | minecraft:crafting_shaped | minecraft:book minecraft:crafting_shaped minecraft:jungle_planks woodworks:config woodworks:jungle_bookshelf
+woodworks:jungle_button_from_jungle_logs_sawing | woodworks:sawmill | minecraft:jungle_button minecraft:jungle_logs woodworks:config woodworks:sawmill
+woodworks:jungle_button_from_jungle_planks_sawing | woodworks:sawmill | minecraft:jungle_button minecraft:jungle_planks woodworks:config woodworks:sawmill
+woodworks:jungle_chest | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_planks woodworks:config woodworks:jungle_chest
+woodworks:jungle_door_from_jungle_logs_sawing | woodworks:sawmill | minecraft:jungle_door minecraft:jungle_logs woodworks:config woodworks:sawmill
+woodworks:jungle_fence_from_jungle_logs_sawing | woodworks:sawmill | minecraft:jungle_fence minecraft:jungle_logs woodworks:config woodworks:sawmill
+woodworks:jungle_fence_from_jungle_planks_sawing | woodworks:sawmill | minecraft:jungle_fence minecraft:jungle_planks woodworks:config woodworks:sawmill
+woodworks:jungle_fence_gate_from_jungle_logs_sawing | woodworks:sawmill | minecraft:jungle_fence_gate minecraft:jungle_logs woodworks:config woodworks:sawmill
+woodworks:jungle_ladder | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_planks minecraft:stick woodworks:config woodworks:jungle_ladder
+woodworks:jungle_ladder_from_jungle_logs_sawing | woodworks:sawmill | blueprint:and minecraft:jungle_logs woodworks:config woodworks:jungle_ladder woodworks:sawmill
+woodworks:jungle_ladder_from_jungle_planks_sawing | woodworks:sawmill | blueprint:and minecraft:jungle_planks woodworks:config woodworks:jungle_ladder woodworks:sawmill
+woodworks:jungle_leaf_pile | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:jungle_leaves woodworks:config woodworks:jungle_leaf_pile
+woodworks:jungle_leaves_from_jungle_leaf_pile | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_leaves woodworks:config woodworks:jungle_leaf_pile
+woodworks:jungle_planks_from_jungle_logs_sawing | woodworks:sawmill | minecraft:jungle_logs minecraft:jungle_planks woodworks:config woodworks:sawmill
+woodworks:jungle_pressure_plate_from_jungle_logs_sawing | woodworks:sawmill | minecraft:jungle_logs minecraft:jungle_pressure_plate woodworks:config woodworks:sawmill
+woodworks:jungle_sign_from_jungle_logs_sawing | woodworks:sawmill | minecraft:jungle_logs minecraft:jungle_sign woodworks:config woodworks:sawmill
+woodworks:jungle_slab_from_jungle_logs_sawing | woodworks:sawmill | minecraft:jungle_logs minecraft:jungle_slab woodworks:config woodworks:sawmill
+woodworks:jungle_slab_from_jungle_planks_sawing | woodworks:sawmill | minecraft:jungle_planks minecraft:jungle_slab woodworks:config woodworks:sawmill
+woodworks:jungle_stairs_from_jungle_logs_sawing | woodworks:sawmill | minecraft:jungle_logs minecraft:jungle_stairs woodworks:config woodworks:sawmill
+woodworks:jungle_stairs_from_jungle_planks_sawing | woodworks:sawmill | minecraft:jungle_planks minecraft:jungle_stairs woodworks:config woodworks:sawmill
+woodworks:jungle_trapdoor_from_jungle_logs_sawing | woodworks:sawmill | minecraft:jungle_logs minecraft:jungle_trapdoor woodworks:config woodworks:sawmill
+woodworks:mangrove_beehive | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:honeycomb minecraft:mangrove_planks woodworks:config woodworks:mangrove_beehive
+woodworks:mangrove_boards | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mangrove_slab woodworks:config woodworks:mangrove_boards
+woodworks:mangrove_boards_from_mangrove_logs_sawing | woodworks:sawmill | blueprint:and minecraft:mangrove_logs woodworks:config woodworks:mangrove_boards woodworks:sawmill
+woodworks:mangrove_boards_from_mangrove_planks_sawing | woodworks:sawmill | blueprint:and minecraft:mangrove_planks woodworks:config woodworks:mangrove_boards woodworks:sawmill
+woodworks:mangrove_bookshelf | minecraft:crafting_shaped | minecraft:book minecraft:crafting_shaped minecraft:mangrove_planks woodworks:config woodworks:mangrove_bookshelf
+woodworks:mangrove_button_from_mangrove_logs_sawing | woodworks:sawmill | minecraft:mangrove_button minecraft:mangrove_logs woodworks:config woodworks:sawmill
+woodworks:mangrove_button_from_mangrove_planks_sawing | woodworks:sawmill | minecraft:mangrove_button minecraft:mangrove_planks woodworks:config woodworks:sawmill
+woodworks:mangrove_chest | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mangrove_planks woodworks:config woodworks:mangrove_chest
+woodworks:mangrove_door_from_mangrove_logs_sawing | woodworks:sawmill | minecraft:mangrove_door minecraft:mangrove_logs woodworks:config woodworks:sawmill
+woodworks:mangrove_fence_from_mangrove_logs_sawing | woodworks:sawmill | minecraft:mangrove_fence minecraft:mangrove_logs woodworks:config woodworks:sawmill
+woodworks:mangrove_fence_from_mangrove_planks_sawing | woodworks:sawmill | minecraft:mangrove_fence minecraft:mangrove_planks woodworks:config woodworks:sawmill
+woodworks:mangrove_fence_gate_from_mangrove_logs_sawing | woodworks:sawmill | minecraft:mangrove_fence_gate minecraft:mangrove_logs woodworks:config woodworks:sawmill
+woodworks:mangrove_ladder | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mangrove_planks minecraft:stick woodworks:config woodworks:mangrove_ladder
+woodworks:mangrove_ladder_from_mangrove_logs_sawing | woodworks:sawmill | blueprint:and minecraft:mangrove_logs woodworks:config woodworks:mangrove_ladder woodworks:sawmill
+woodworks:mangrove_ladder_from_mangrove_planks_sawing | woodworks:sawmill | blueprint:and minecraft:mangrove_planks woodworks:config woodworks:mangrove_ladder woodworks:sawmill
+woodworks:mangrove_leaf_pile | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:mangrove_leaves woodworks:config woodworks:mangrove_leaf_pile
+woodworks:mangrove_leaves_from_mangrove_leaf_pile | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mangrove_leaves woodworks:config woodworks:mangrove_leaf_pile
+woodworks:mangrove_planks_from_mangrove_logs_sawing | woodworks:sawmill | minecraft:mangrove_logs minecraft:mangrove_planks woodworks:config woodworks:sawmill
+woodworks:mangrove_pressure_plate_from_mangrove_logs_sawing | woodworks:sawmill | minecraft:mangrove_logs minecraft:mangrove_pressure_plate woodworks:config woodworks:sawmill
+woodworks:mangrove_sign_from_mangrove_logs_sawing | woodworks:sawmill | minecraft:mangrove_logs minecraft:mangrove_sign woodworks:config woodworks:sawmill
+woodworks:mangrove_slab_from_mangrove_logs_sawing | woodworks:sawmill | minecraft:mangrove_logs minecraft:mangrove_slab woodworks:config woodworks:sawmill
+woodworks:mangrove_slab_from_mangrove_planks_sawing | woodworks:sawmill | minecraft:mangrove_planks minecraft:mangrove_slab woodworks:config woodworks:sawmill
+woodworks:mangrove_stairs_from_mangrove_logs_sawing | woodworks:sawmill | minecraft:mangrove_logs minecraft:mangrove_stairs woodworks:config woodworks:sawmill
+woodworks:mangrove_stairs_from_mangrove_planks_sawing | woodworks:sawmill | minecraft:mangrove_planks minecraft:mangrove_stairs woodworks:config woodworks:sawmill
+woodworks:mangrove_trapdoor_from_mangrove_logs_sawing | woodworks:sawmill | minecraft:mangrove_logs minecraft:mangrove_trapdoor woodworks:config woodworks:sawmill
+woodworks:oak_beehive | minecraft:crafting_shaped | minecraft:beehive minecraft:crafting_shaped minecraft:honeycomb minecraft:oak_planks woodworks:config
+woodworks:oak_boards | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:oak_slab woodworks:config woodworks:oak_boards
+woodworks:oak_boards_from_oak_logs_sawing | woodworks:sawmill | blueprint:and minecraft:oak_logs woodworks:config woodworks:oak_boards woodworks:sawmill
+woodworks:oak_boards_from_oak_planks_sawing | woodworks:sawmill | blueprint:and minecraft:oak_planks woodworks:config woodworks:oak_boards woodworks:sawmill
+woodworks:oak_bookshelf | minecraft:crafting_shaped | minecraft:book minecraft:bookshelf minecraft:crafting_shaped minecraft:oak_planks woodworks:config
+woodworks:oak_button_from_oak_logs_sawing | woodworks:sawmill | minecraft:oak_button minecraft:oak_logs woodworks:config woodworks:sawmill
+woodworks:oak_button_from_oak_planks_sawing | woodworks:sawmill | minecraft:oak_button minecraft:oak_planks woodworks:config woodworks:sawmill
+woodworks:oak_chest | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:oak_planks woodworks:config woodworks:oak_chest
+woodworks:oak_chiseled_bookshelf | minecraft:crafting_shaped | minecraft:chiseled_bookshelf minecraft:crafting_shaped minecraft:oak_planks minecraft:oak_slab woodworks:config
+woodworks:oak_door_from_oak_logs_sawing | woodworks:sawmill | minecraft:oak_door minecraft:oak_logs woodworks:config woodworks:sawmill
+woodworks:oak_fence_from_oak_logs_sawing | woodworks:sawmill | minecraft:oak_fence minecraft:oak_logs woodworks:config woodworks:sawmill
+woodworks:oak_fence_from_oak_planks_sawing | woodworks:sawmill | minecraft:oak_fence minecraft:oak_planks woodworks:config woodworks:sawmill
+woodworks:oak_fence_gate_from_oak_logs_sawing | woodworks:sawmill | minecraft:oak_fence_gate minecraft:oak_logs woodworks:config woodworks:sawmill
+woodworks:oak_ladder | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:ladder minecraft:oak_planks minecraft:stick woodworks:config
+woodworks:oak_ladder_from_oak_logs_sawing | woodworks:sawmill | blueprint:and minecraft:ladder minecraft:oak_logs woodworks:config woodworks:sawmill
+woodworks:oak_ladder_from_oak_planks_sawing | woodworks:sawmill | blueprint:and minecraft:ladder minecraft:oak_planks woodworks:config woodworks:sawmill
+woodworks:oak_leaf_pile | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:oak_leaves woodworks:config woodworks:oak_leaf_pile
+woodworks:oak_leaves_from_oak_leaf_pile | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:oak_leaves woodworks:config woodworks:oak_leaf_pile
+woodworks:oak_planks_from_oak_logs_sawing | woodworks:sawmill | minecraft:oak_logs minecraft:oak_planks woodworks:config woodworks:sawmill
+woodworks:oak_pressure_plate_from_oak_logs_sawing | woodworks:sawmill | minecraft:oak_logs minecraft:oak_pressure_plate woodworks:config woodworks:sawmill
+woodworks:oak_sign_from_oak_logs_sawing | woodworks:sawmill | minecraft:oak_logs minecraft:oak_sign woodworks:config woodworks:sawmill
+woodworks:oak_slab_from_oak_logs_sawing | woodworks:sawmill | minecraft:oak_logs minecraft:oak_slab woodworks:config woodworks:sawmill
+woodworks:oak_slab_from_oak_planks_sawing | woodworks:sawmill | minecraft:oak_planks minecraft:oak_slab woodworks:config woodworks:sawmill
+woodworks:oak_stairs_from_oak_logs_sawing | woodworks:sawmill | minecraft:oak_logs minecraft:oak_stairs woodworks:config woodworks:sawmill
+woodworks:oak_stairs_from_oak_planks_sawing | woodworks:sawmill | minecraft:oak_planks minecraft:oak_stairs woodworks:config woodworks:sawmill
+woodworks:oak_trapdoor_from_oak_logs_sawing | woodworks:sawmill | minecraft:oak_logs minecraft:oak_trapdoor woodworks:config woodworks:sawmill
+woodworks:sawmill | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:planks minecraft:wooden_slabs woodworks:config woodworks:sawmill
+woodworks:spruce_beehive | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:honeycomb minecraft:spruce_planks woodworks:config woodworks:spruce_beehive
+woodworks:spruce_boards | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_slab woodworks:config woodworks:spruce_boards
+woodworks:spruce_boards_from_spruce_logs_sawing | woodworks:sawmill | blueprint:and minecraft:spruce_logs woodworks:config woodworks:sawmill woodworks:spruce_boards
+woodworks:spruce_boards_from_spruce_planks_sawing | woodworks:sawmill | blueprint:and minecraft:spruce_planks woodworks:config woodworks:sawmill woodworks:spruce_boards
+woodworks:spruce_bookshelf | minecraft:crafting_shaped | minecraft:book minecraft:crafting_shaped minecraft:spruce_planks woodworks:config woodworks:spruce_bookshelf
+woodworks:spruce_button_from_spruce_logs_sawing | woodworks:sawmill | minecraft:spruce_button minecraft:spruce_logs woodworks:config woodworks:sawmill
+woodworks:spruce_button_from_spruce_planks_sawing | woodworks:sawmill | minecraft:spruce_button minecraft:spruce_planks woodworks:config woodworks:sawmill
+woodworks:spruce_chest | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_planks woodworks:config woodworks:spruce_chest
+woodworks:spruce_door_from_spruce_logs_sawing | woodworks:sawmill | minecraft:spruce_door minecraft:spruce_logs woodworks:config woodworks:sawmill
+woodworks:spruce_fence_from_spruce_logs_sawing | woodworks:sawmill | minecraft:spruce_fence minecraft:spruce_logs woodworks:config woodworks:sawmill
+woodworks:spruce_fence_from_spruce_planks_sawing | woodworks:sawmill | minecraft:spruce_fence minecraft:spruce_planks woodworks:config woodworks:sawmill
+woodworks:spruce_fence_gate_from_spruce_logs_sawing | woodworks:sawmill | minecraft:spruce_fence_gate minecraft:spruce_logs woodworks:config woodworks:sawmill
+woodworks:spruce_ladder | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_planks minecraft:stick woodworks:config woodworks:spruce_ladder
+woodworks:spruce_ladder_from_spruce_logs_sawing | woodworks:sawmill | blueprint:and minecraft:spruce_logs woodworks:config woodworks:sawmill woodworks:spruce_ladder
+woodworks:spruce_ladder_from_spruce_planks_sawing | woodworks:sawmill | blueprint:and minecraft:spruce_planks woodworks:config woodworks:sawmill woodworks:spruce_ladder
+woodworks:spruce_leaf_pile | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:spruce_leaves woodworks:config woodworks:spruce_leaf_pile
+woodworks:spruce_leaves_from_spruce_leaf_pile | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_leaves woodworks:config woodworks:spruce_leaf_pile
+woodworks:spruce_planks_from_spruce_logs_sawing | woodworks:sawmill | minecraft:spruce_logs minecraft:spruce_planks woodworks:config woodworks:sawmill
+woodworks:spruce_pressure_plate_from_spruce_logs_sawing | woodworks:sawmill | minecraft:spruce_logs minecraft:spruce_pressure_plate woodworks:config woodworks:sawmill
+woodworks:spruce_sign_from_spruce_logs_sawing | woodworks:sawmill | minecraft:spruce_logs minecraft:spruce_sign woodworks:config woodworks:sawmill
+woodworks:spruce_slab_from_spruce_logs_sawing | woodworks:sawmill | minecraft:spruce_logs minecraft:spruce_slab woodworks:config woodworks:sawmill
+woodworks:spruce_slab_from_spruce_planks_sawing | woodworks:sawmill | minecraft:spruce_planks minecraft:spruce_slab woodworks:config woodworks:sawmill
+woodworks:spruce_stairs_from_spruce_logs_sawing | woodworks:sawmill | minecraft:spruce_logs minecraft:spruce_stairs woodworks:config woodworks:sawmill
+woodworks:spruce_stairs_from_spruce_planks_sawing | woodworks:sawmill | minecraft:spruce_planks minecraft:spruce_stairs woodworks:config woodworks:sawmill
+woodworks:spruce_trapdoor_from_spruce_logs_sawing | woodworks:sawmill | minecraft:spruce_logs minecraft:spruce_trapdoor woodworks:config woodworks:sawmill
+woodworks:trapped_acacia_chest | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tripwire_hook woodworks:acacia_chest woodworks:config woodworks:trapped_acacia_chest
+woodworks:trapped_bamboo_closet | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tripwire_hook woodworks:bamboo_closet woodworks:config woodworks:trapped_bamboo_closet
+woodworks:trapped_birch_chest | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tripwire_hook woodworks:birch_chest woodworks:config woodworks:trapped_birch_chest
+woodworks:trapped_cherry_chest | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tripwire_hook woodworks:cherry_chest woodworks:config woodworks:trapped_cherry_chest
+woodworks:trapped_chest | minecraft:crafting_shapeless | minecraft:chest minecraft:crafting_shapeless minecraft:trapped_chest minecraft:tripwire_hook woodworks:config
+woodworks:trapped_crimson_chest | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tripwire_hook woodworks:config woodworks:crimson_chest woodworks:trapped_crimson_chest
+woodworks:trapped_dark_oak_chest | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tripwire_hook woodworks:config woodworks:dark_oak_chest woodworks:trapped_dark_oak_chest
+woodworks:trapped_jungle_chest | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tripwire_hook woodworks:config woodworks:jungle_chest woodworks:trapped_jungle_chest
+woodworks:trapped_mangrove_chest | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tripwire_hook woodworks:config woodworks:mangrove_chest woodworks:trapped_mangrove_chest
+woodworks:trapped_oak_chest | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tripwire_hook woodworks:config woodworks:oak_chest woodworks:trapped_oak_chest
+woodworks:trapped_spruce_chest | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tripwire_hook woodworks:config woodworks:spruce_chest woodworks:trapped_spruce_chest
+woodworks:trapped_warped_chest | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tripwire_hook woodworks:config woodworks:trapped_warped_chest woodworks:warped_chest
+woodworks:warped_beehive | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:honeycomb minecraft:warped_planks woodworks:config woodworks:warped_beehive
+woodworks:warped_boards | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:warped_slab woodworks:config woodworks:warped_boards
+woodworks:warped_boards_from_warped_planks_sawing | woodworks:sawmill | blueprint:and minecraft:warped_planks woodworks:config woodworks:sawmill woodworks:warped_boards
+woodworks:warped_boards_from_warped_stems_sawing | woodworks:sawmill | blueprint:and minecraft:warped_stems woodworks:config woodworks:sawmill woodworks:warped_boards
+woodworks:warped_bookshelf | minecraft:crafting_shaped | minecraft:book minecraft:crafting_shaped minecraft:warped_planks woodworks:config woodworks:warped_bookshelf
+woodworks:warped_button_from_warped_planks_sawing | woodworks:sawmill | minecraft:warped_button minecraft:warped_planks woodworks:config woodworks:sawmill
+woodworks:warped_button_from_warped_stems_sawing | woodworks:sawmill | minecraft:warped_button minecraft:warped_stems woodworks:config woodworks:sawmill
+woodworks:warped_chest | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:warped_planks woodworks:config woodworks:warped_chest
+woodworks:warped_door_from_warped_stems_sawing | woodworks:sawmill | minecraft:warped_door minecraft:warped_stems woodworks:config woodworks:sawmill
+woodworks:warped_fence_from_warped_planks_sawing | woodworks:sawmill | minecraft:warped_fence minecraft:warped_planks woodworks:config woodworks:sawmill
+woodworks:warped_fence_from_warped_stems_sawing | woodworks:sawmill | minecraft:warped_fence minecraft:warped_stems woodworks:config woodworks:sawmill
+woodworks:warped_fence_gate_from_warped_stems_sawing | woodworks:sawmill | minecraft:warped_fence_gate minecraft:warped_stems woodworks:config woodworks:sawmill
+woodworks:warped_ladder | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick minecraft:warped_planks woodworks:config woodworks:warped_ladder
+woodworks:warped_ladder_from_warped_planks_sawing | woodworks:sawmill | blueprint:and minecraft:warped_planks woodworks:config woodworks:sawmill woodworks:warped_ladder
+woodworks:warped_ladder_from_warped_stems_sawing | woodworks:sawmill | blueprint:and minecraft:warped_stems woodworks:config woodworks:sawmill woodworks:warped_ladder
+woodworks:warped_planks_from_warped_stems_sawing | woodworks:sawmill | minecraft:warped_planks minecraft:warped_stems woodworks:config woodworks:sawmill
+woodworks:warped_pressure_plate_from_warped_stems_sawing | woodworks:sawmill | minecraft:warped_pressure_plate minecraft:warped_stems woodworks:config woodworks:sawmill
+woodworks:warped_sign_from_warped_stems_sawing | woodworks:sawmill | minecraft:warped_sign minecraft:warped_stems woodworks:config woodworks:sawmill
+woodworks:warped_slab_from_warped_planks_sawing | woodworks:sawmill | minecraft:warped_planks minecraft:warped_slab woodworks:config woodworks:sawmill
+woodworks:warped_slab_from_warped_stems_sawing | woodworks:sawmill | minecraft:warped_slab minecraft:warped_stems woodworks:config woodworks:sawmill
+woodworks:warped_stairs_from_warped_planks_sawing | woodworks:sawmill | minecraft:warped_planks minecraft:warped_stairs woodworks:config woodworks:sawmill
+woodworks:warped_stairs_from_warped_stems_sawing | woodworks:sawmill | minecraft:warped_stairs minecraft:warped_stems woodworks:config woodworks:sawmill
+woodworks:warped_trapdoor_from_warped_stems_sawing | woodworks:sawmill | minecraft:warped_stems minecraft:warped_trapdoor woodworks:config woodworks:sawmill
+woodworks:wooden_chest | woodworks:crafting_special_woodenchest | woodworks:config woodworks:crafting_special_woodenchest

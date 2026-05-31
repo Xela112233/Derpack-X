@@ -1,0 +1,27 @@
+# create_mobile_packages-1.21.1-0.7.4
+
+## mod metadata (id / version / deps)
+license="MIT License"
+modId="create_mobile_packages" #mandatory
+version="0.7.4" #mandatory
+displayName="Create: Mobile Packages" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.1.0,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+modId="create"
+versionRange="[6.0.7,6.1.0)"
+
+## blocks
+create_mobile_packages:bee_port
+create_mobile_packages:drone_port
+
+## items
+create_mobile_packages:bee_port
+create_mobile_packages:mobile_packager
+create_mobile_packages:portable_stock_ticker
+create_mobile_packages:robo_bee
+
+## neoforge biome_modifiers
+
+## c: common tag membership

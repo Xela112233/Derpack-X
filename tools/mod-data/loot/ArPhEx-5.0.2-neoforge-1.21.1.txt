@@ -1,0 +1,110 @@
+arphex:arphex_dungeon_medium | minecraft:chest | arphex:antenna arphex:arphex_dungeon_medium arphex:bloodworm_grub arphex:brown_scarab arphex:bug_repellant arphex:burning_glands arphex:chitin arphex:chitin_armour_boots arphex:chitin_armour_helmet arphex:chitin_armour_leggings arphex:fly_appendage arphex:green_gold_scarab arphex:green_scarab arphex:prowler_parachute arphex:roach_nymph minecraft:chest minecraft:cobweb minecraft:enchant_with_levels minecraft:glow_berries minecraft:item minecraft:set_count minecraft:string
+arphex:arphex_dungeon_strong | minecraft:chest | arphex:arphex_dungeon_strong arphex:bug_repellant arphex:chitin arphex:chitin_armour_tier_2_boots arphex:chitin_armour_tier_2_chestplate arphex:chitin_armour_tier_2_helmet arphex:chitin_armour_tier_2_leggings arphex:dagger_of_dissolution arphex:iridescent_scarab arphex:necrotic_fang arphex:prowler_pack arphex:purple_scarab arphex:scorch_charge arphex:silk_slinger arphex:venomous_appendage minecraft:chest minecraft:enchant_with_levels minecraft:glow_berries minecraft:item minecraft:set_count
+arphex:arphex_dungeon_ultimate | minecraft:chest | arphex:abyssal_dagger arphex:arphex_dungeon_ultimate arphex:arthropod_antenna arphex:bug_repellant arphex:celestial_barrier arphex:chitin_armour_tier_3_boots arphex:chitin_armour_tier_3_chestplate arphex:chitin_armour_tier_3_helmet arphex:chitin_armour_tier_3_leggings arphex:crawling_container arphex:exquisite_ore arphex:giant_spinneret arphex:golden_scarab arphex:iridescent_scarab arphex:mantle_of_vitality arphex:prowler_pack arphex:purple_scarab arphex:scorch_charge arphex:tectonic_tunneler arphex:vitality_viewfinder minecraft:chest minecraft:enchant_with_levels minecraft:glow_berries minecraft:item minecraft:set_count
+arphex:blocks/ant_nest | minecraft:block | arphex:ant_nest arphex:blocks/ant_nest minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/ant_shield_temporary | minecraft:block | arphex:blocks/ant_shield_temporary minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/arphex_jigsaw | minecraft:block | arphex:blocks/arphex_jigsaw minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/ascended_cube | minecraft:block | arphex:ascended_cube arphex:blocks/ascended_cube minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/bane_blossom | minecraft:block | arphex:bane_blossom arphex:blocks/bane_blossom minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/barrier_gap | minecraft:block | arphex:blocks/barrier_gap minecraft:block
+arphex:blocks/block_of_abyssal_crystal | minecraft:block | arphex:block_of_abyssal_crystal arphex:blocks/block_of_abyssal_crystal minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/block_of_entropy_matrix | minecraft:block | arphex:block_of_entropy_matrix arphex:blocks/block_of_entropy_matrix minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/block_of_fire_opal | minecraft:block | arphex:block_of_fire_opal arphex:blocks/block_of_fire_opal minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/block_of_time_prism | minecraft:block | arphex:block_of_time_prism arphex:blocks/block_of_time_prism minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/block_of_void_geode | minecraft:block | arphex:block_of_void_geode arphex:blocks/block_of_void_geode minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/chitin_block | minecraft:block | arphex:blocks/chitin_block arphex:chitin_block minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/cobweb_passable | minecraft:block | arphex:blocks/cobweb_passable minecraft:block minecraft:cobweb minecraft:item minecraft:survives_explosion
+arphex:blocks/crawling_altar | minecraft:block | arphex:blocks/crawling_altar arphex:crawling_altar minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/crawling_barrier | minecraft:block | arphex:blocks/crawling_barrier arphex:crawling_barrier minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/crawling_clay | minecraft:block | arphex:blocks/crawling_clay arphex:crawling_clay minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/crawling_compost | minecraft:block | arphex:blocks/crawling_compost arphex:crawling_compost_chunk minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/crawling_portal | minecraft:block | arphex:blocks/crawling_portal minecraft:block
+arphex:blocks/decadent_dust | minecraft:block | arphex:blocks/decadent_dust arphex:decadent_dust minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/exquisite_ore | minecraft:block | arphex:abyssal_shard arphex:blocks/exquisite_ore arphex:entropy_matrix_shard arphex:fire_opal_shard arphex:time_prism_shard arphex:void_geode_shard minecraft:apply_bonus minecraft:block minecraft:fortune minecraft:item minecraft:ore_drops minecraft:set_count
+arphex:blocks/funnel_web | minecraft:block | arphex:blocks/funnel_web minecraft:block
+arphex:blocks/heavy_chitin_block | minecraft:block | arphex:blocks/heavy_chitin_block arphex:heavy_chitin_block minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/invisible_detector_block | minecraft:block | arphex:blocks/invisible_detector_block minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/invisible_half_slab | minecraft:block | arphex:blocks/invisible_half_slab minecraft:block
+arphex:blocks/mangled_fly_flesh | minecraft:block | arphex:blocks/mangled_fly_flesh arphex:mangled_fly_flesh minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/mangled_scorpion_flesh | minecraft:block | arphex:blocks/mangled_scorpion_flesh arphex:mangled_scorpion_flesh minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/mangled_spider_flesh | minecraft:block | arphex:blocks/mangled_spider_flesh arphex:mangled_spider_flesh minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/mob_trophy | minecraft:block | arphex:blocks/mob_trophy minecraft:block
+arphex:blocks/random_loot_choices | minecraft:block | arphex:blocks/random_loot_choices arphex:random_loot_choices minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/reaper_web | minecraft:block | arphex:blocks/reaper_web minecraft:block
+arphex:blocks/scorch | minecraft:block | arphex:blocks/scorch minecraft:block
+arphex:blocks/scorch_pillar | minecraft:block | arphex:blocks/scorch_pillar arphex:scorch_pillar minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/scorch_torch_ground | minecraft:block | arphex:blocks/scorch_torch_ground arphex:scorch_torch minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/scorch_torch_wall | minecraft:block | arphex:blocks/scorch_torch_wall arphex:scorch_torch minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/scorched_glass | minecraft:block | arphex:blocks/scorched_glass arphex:scorched_glass minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/scorched_sand | minecraft:block | arphex:blocks/scorched_sand arphex:scorched_sand minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/silken_soil | minecraft:block | arphex:blocks/silken_soil arphex:silken_soil minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/silken_stone | minecraft:block | arphex:blocks/silken_stone arphex:silken_stone minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/spider_cocoon | minecraft:block | arphex:blocks/spider_cocoon minecraft:block
+arphex:blocks/spider_cocoon_creeper | minecraft:block | arphex:blocks/spider_cocoon_creeper minecraft:block minecraft:gunpowder minecraft:item minecraft:survives_explosion
+arphex:blocks/spider_cocoon_player | minecraft:block | arphex:blocks/spider_cocoon_player minecraft:block minecraft:item minecraft:string minecraft:survives_explosion
+arphex:blocks/spider_cocoon_skeleton | minecraft:block | arphex:blocks/spider_cocoon_skeleton minecraft:block minecraft:item minecraft:skeleton_skull minecraft:survives_explosion
+arphex:blocks/spider_cocoon_villager | minecraft:block | arphex:blocks/spider_cocoon_villager minecraft:block minecraft:emerald minecraft:item minecraft:survives_explosion
+arphex:blocks/spider_egg | minecraft:block | arphex:blocks/spider_egg minecraft:block
+arphex:blocks/structure_fill_block | minecraft:block | arphex:blocks/structure_fill_block arphex:structure_fill_block minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/termite_mound | minecraft:block | arphex:blocks/termite_mound minecraft:block minecraft:item minecraft:rooted_dirt minecraft:survives_explosion
+arphex:blocks/tesseract_transporter | minecraft:block | arphex:blocks/tesseract_transporter arphex:tesseract_transporter minecraft:block minecraft:item minecraft:survives_explosion
+arphex:blocks/trapdoor_dirt | minecraft:block | arphex:blocks/trapdoor_dirt minecraft:block
+arphex:blocks/trapdoor_grass | minecraft:block | arphex:blocks/trapdoor_grass minecraft:block
+arphex:blocks/trophy | minecraft:block | arphex:blocks/trophy minecraft:block
+arphex:blocks/warp_manifold | minecraft:block | arphex:blocks/warp_manifold minecraft:block
+arphex:blocks/web_line | minecraft:block | arphex:blocks/web_line minecraft:block
+arphex:blocks/web_wall | minecraft:block | arphex:blocks/web_wall arphex:web_wall minecraft:block minecraft:item minecraft:survives_explosion
+arphex:chests/arphex_dungeon_basic | minecraft:chest | arphex:antenna arphex:bloodworm_grub arphex:brown_scarab arphex:burning_glands arphex:chests/arphex_dungeon_basic arphex:chitin arphex:fly_appendage arphex:maggot_grub arphex:roach_nymph arphex:scorch_charge minecraft:chest minecraft:cobweb minecraft:glow_berries minecraft:item minecraft:redstone minecraft:rotten_flesh minecraft:set_count minecraft:string
+arphex:chests/arphex_dungeon_spider_cave_loot | minecraft:chest | arphex:antenna arphex:bug_spray arphex:chests/arphex_dungeon_spider_cave_loot arphex:chitin arphex:chitin_armour_boots arphex:chitin_armour_chestplate arphex:chitin_armour_helmet arphex:chitin_armour_leggings arphex:necrotic_fang arphex:prowler_parachute arphex:raw_hemolymph arphex:seismic_pulse arphex:silk_slinger arphex:spider_supplement minecraft:chest minecraft:cobweb minecraft:item minecraft:set_count
+arphex:entities/ant_arsonist | minecraft:entity | arphex:burning_glands arphex:entities/ant_arsonist minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/arachnoid_trisector | minecraft:entity | arphex:entities/arachnoid_trisector arphex:time_prism minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/arthropleura_abomination | minecraft:entity | arphex:entities/arthropleura_abomination arphex:heavy_chitin minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/blood_worm | minecraft:entity | arphex:bloodworm_grub arphex:entities/blood_worm minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/butterfly_bewitcher | minecraft:entity | arphex:entities/butterfly_bewitcher arphex:fly_appendage minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/centipede_evictor | minecraft:entity | arphex:entities/centipede_evictor arphex:fire_opal_shard minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/centipede_stalker | minecraft:entity | arphex:entities/centipede_stalker arphex:necrotic_fang minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/crab_constrictor | minecraft:entity | arphex:crusher_claw arphex:entities/crab_constrictor minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/diabolos_decimator | minecraft:entity | arphex:entities/diabolos_decimator arphex:entropy_matrix minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/draconic_voidlasher | minecraft:entity | arphex:entities/draconic_voidlasher arphex:void_geode minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/dragonfly_dreadnought | minecraft:entity | arphex:entities/dragonfly_dreadnought arphex:mangled_fly_flesh minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/fly_festerer | minecraft:entity | arphex:entities/fly_festerer arphex:maggot_grub minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/hornet_harbinger_giant | minecraft:entity | arphex:entities/hornet_harbinger_giant arphex:necrotic_fang minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/locust_landscourge | minecraft:entity | arphex:entities/locust_landscourge arphex:locust_larvae minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/long_legs | minecraft:entity | arphex:entities/long_legs minecraft:entity minecraft:item minecraft:set_count minecraft:spider_eye
+arphex:entities/long_legs_fly | minecraft:entity | arphex:entities/long_legs_fly arphex:fly_appendage minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/maggot_larvae | minecraft:entity | arphex:entities/maggot_larvae arphex:maggot_grub minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/mantis_mutilator | minecraft:entity | arphex:entities/mantis_mutilator arphex:mantis_machete minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/millipede_marauder | minecraft:entity | arphex:chitin arphex:entities/millipede_marauder minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/moth_moontracker | minecraft:entity | arphex:antenna arphex:entities/moth_moontracker minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/roach_riverspawn | minecraft:entity | arphex:entities/roach_riverspawn arphex:roach_nymph minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/scorpioid_bloodluster | minecraft:entity | arphex:entities/scorpioid_bloodluster arphex:fire_opal minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/scorpion_striker | minecraft:entity | arphex:entities/scorpion_striker arphex:venomous_appendage minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/silverfish_spectre | minecraft:entity | arphex:ectoplasm arphex:entities/silverfish_spectre minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/solifuge_skulker | minecraft:entity | arphex:entities/solifuge_skulker arphex:scarab_seal minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/spider_ambusher | minecraft:entity | arphex:entities/spider_ambusher minecraft:cobweb minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/spider_brood | minecraft:entity | arphex:entities/spider_brood minecraft:entity minecraft:fermented_spider_eye minecraft:item minecraft:set_count
+arphex:entities/spider_funnel | minecraft:entity | arphex:entities/spider_funnel arphex:necrotic_fang minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/spider_goliath | minecraft:entity | arphex:entities/spider_goliath arphex:mangled_spider_flesh minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/spider_infestor | minecraft:entity | arphex:entities/spider_infestor arphex:time_prism_shard minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/spider_jump | minecraft:entity | arphex:entities/spider_jump minecraft:entity minecraft:fermented_spider_eye minecraft:item minecraft:set_count
+arphex:entities/spider_lunger | minecraft:entity | arphex:entities/spider_lunger arphex:spider_supplement minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/spider_lurker | minecraft:entity | arphex:entities/spider_lurker minecraft:entity minecraft:item minecraft:pufferfish minecraft:set_count
+arphex:entities/spider_matriarch | minecraft:entity | arphex:entities/spider_matriarch arphex:entropy_matrix_shard minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/spider_moth | minecraft:entity | arphex:abyssal_crystal arphex:entities/spider_moth minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/spider_obstructer | minecraft:entity | arphex:crawling_compost_chunk arphex:entities/spider_obstructer minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/spider_prowler | minecraft:entity | arphex:abyssal_shard arphex:entities/spider_prowler minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/spider_reaper | minecraft:entity | arphex:entities/spider_reaper arphex:void_geode_shard minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/spider_recluse | minecraft:entity | arphex:entities/spider_recluse minecraft:entity minecraft:item minecraft:set_count minecraft:string
+arphex:entities/spider_snatcher | minecraft:entity | arphex:entities/spider_snatcher arphex:giant_spinneret minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/stick_bug | minecraft:entity | arphex:entities/stick_bug minecraft:entity minecraft:item minecraft:set_count minecraft:stick
+arphex:entities/tamed_tarantula | minecraft:entity | arphex:entities/tamed_tarantula arphex:mangled_spider_flesh minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/termite_tunneler_queen | minecraft:entity | arphex:entities/termite_tunneler_queen arphex:tectonic_tunneler minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/tormentor | minecraft:entity | arphex:core_of_eternal_suffering arphex:entities/tormentor minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/venus_flytrap | minecraft:entity | arphex:entities/venus_flytrap arphex:flytrap_cutting minecraft:entity minecraft:item minecraft:set_count
+arphex:entities/wasp_nemesis | minecraft:entity | arphex:entities/wasp_nemesis arphex:oversized_stinger minecraft:entity minecraft:item minecraft:set_count
+arphex:block/block_of_abyssal_crystal | minecraft:block | arphex:block_of_abyssal_crystal arphex:blocks/block_of_abyssal_crystal minecraft:block minecraft:item minecraft:survives_explosion
+arphex:block/block_of_fire_opal | minecraft:block | arphex:block_of_fire_opal arphex:blocks/block_of_fire_opal minecraft:block minecraft:item minecraft:survives_explosion
+arphex:block/block_of_void_geode | minecraft:block | arphex:block_of_void_geode arphex:blocks/block_of_void_geode minecraft:block minecraft:item minecraft:survives_explosion
+arphex:block/mangled_fly_flesh | minecraft:block | arphex:blocks/mangled_fly_flesh arphex:mangled_fly_flesh minecraft:block minecraft:item minecraft:survives_explosion
+arphex:block/mangled_scorpion_flesh | minecraft:block | arphex:blocks/mangled_scorpion_flesh arphex:mangled_scorpion_flesh minecraft:block minecraft:item minecraft:survives_explosion
+arphex:block/mangled_spider_flesh | minecraft:block | arphex:blocks/mangled_spider_flesh arphex:mangled_spider_flesh minecraft:block minecraft:item minecraft:survives_explosion

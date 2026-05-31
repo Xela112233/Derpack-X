@@ -1,0 +1,53 @@
+# MutantMonsters-v21.1.1-1.21.1-NeoForge
+
+## mod metadata (id / version / deps)
+license = "AGPL-3.0-or-later"
+modId = "mutantmonsters"
+displayName = "Mutant Monsters"
+version = "21.1.1"
+modId = "neoforge"
+versionRange = "[21.1.21,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "puzzleslib"
+versionRange = "[21.1.10,)"
+
+## blocks
+mutantmonsters:mutant_skeleton_skull
+mutantmonsters:mutant_skeleton_wall_skull
+
+## items
+minecraft:lingering_potion
+minecraft:potion
+minecraft:splash_potion
+mutantmonsters:chemical_x
+mutantmonsters:creeper_minion_spawn_egg
+mutantmonsters:creeper_minion_tracker
+mutantmonsters:creeper_shard
+mutantmonsters:endersoul_hand
+mutantmonsters:endersoul_hand_in_hand
+mutantmonsters:hulk_hammer
+mutantmonsters:hulk_hammer_in_hand
+mutantmonsters:lingering_chemical_x
+mutantmonsters:mutant_creeper_spawn_egg
+mutantmonsters:mutant_enderman_spawn_egg
+mutantmonsters:mutant_skeleton_arms
+mutantmonsters:mutant_skeleton_boots
+mutantmonsters:mutant_skeleton_chestplate
+mutantmonsters:mutant_skeleton_leggings
+mutantmonsters:mutant_skeleton_limb
+mutantmonsters:mutant_skeleton_pelvis
+mutantmonsters:mutant_skeleton_rib
+mutantmonsters:mutant_skeleton_rib_cage
+mutantmonsters:mutant_skeleton_shoulder_pad
+mutantmonsters:mutant_skeleton_skull
+mutantmonsters:mutant_skeleton_spawn_egg
+mutantmonsters:mutant_snow_golem_spawn_egg
+mutantmonsters:mutant_zombie_spawn_egg
+mutantmonsters:spider_pig_spawn_egg
+mutantmonsters:splash_chemical_x
+mutantmonsters:template_spawn_egg
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,166 @@
+# naturalist-1.0.2-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="naturalist"
+version="1.0.2"
+displayName="Naturalist"
+modId="neoforge"
+versionRange="[21.1.226,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="geckolib"
+versionRange="[4.7,)"
+modId="lambdynlights_api"
+versionRange="[4.0.0,)"
+
+## blocks
+naturalist:alligator_egg
+naturalist:azure_froglass
+naturalist:azure_froglass_pane
+naturalist:chrysalis
+naturalist:crimson_froglass
+naturalist:crimson_froglass_pane
+naturalist:cut_shellstone
+naturalist:cut_shellstone_slab
+naturalist:cut_shellstone_stairs
+naturalist:cut_shellstone_wall
+naturalist:glow_goop
+naturalist:plush_bear
+naturalist:shellstone
+naturalist:shellstone_brick_slab
+naturalist:shellstone_brick_stairs
+naturalist:shellstone_brick_wall
+naturalist:shellstone_bricks
+naturalist:shellstone_slab
+naturalist:shellstone_stairs
+naturalist:shellstone_wall
+naturalist:smooth_shellstone
+naturalist:smooth_shellstone_slab
+naturalist:smooth_shellstone_stairs
+naturalist:smooth_shellstone_wall
+naturalist:snail_eggs
+naturalist:tortoise_egg
+naturalist:verdant_froglass
+naturalist:verdant_froglass_pane
+
+## items
+naturalist:alligator_egg
+naturalist:alligator_spawn_egg
+naturalist:antler
+naturalist:azure_froglass
+naturalist:azure_froglass_pane
+naturalist:bass
+naturalist:bass_bucket
+naturalist:bass_spawn_egg
+naturalist:bear_spawn_egg
+naturalist:blue_morpho
+naturalist:bluejay_spawn_egg
+naturalist:boar_spawn_egg
+naturalist:bushmeat
+naturalist:butterfly
+naturalist:butterfly_spawn_egg
+naturalist:canary_spawn_egg
+naturalist:capture_net
+naturalist:cardinal_spawn_egg
+naturalist:caterpillar
+naturalist:caterpillar_spawn_egg
+naturalist:catfish
+naturalist:catfish_bucket
+naturalist:catfish_spawn_egg
+naturalist:chrysalis
+naturalist:clouded_yellow
+naturalist:cooked_bass
+naturalist:cooked_bushmeat
+naturalist:cooked_catfish
+naturalist:cooked_duck
+naturalist:cooked_egg
+naturalist:cooked_lizard_tail
+naturalist:cooked_venison
+naturalist:coral_snake_spawn_egg
+naturalist:crimson_froglass
+naturalist:crimson_froglass_pane
+naturalist:cut_shellstone
+naturalist:cut_shellstone_slab
+naturalist:cut_shellstone_stairs
+naturalist:cut_shellstone_wall
+naturalist:deer_spawn_egg
+naturalist:dragonfly_spawn_egg
+naturalist:duck
+naturalist:duck_egg
+naturalist:duck_spawn_egg
+naturalist:elephant_spawn_egg
+naturalist:finch_spawn_egg
+naturalist:firefly_spawn_egg
+naturalist:fur
+naturalist:giraffe_spawn_egg
+naturalist:glow_goop
+naturalist:hippo_spawn_egg
+naturalist:jade_green_swallowtail
+naturalist:lion_spawn_egg
+naturalist:lizard_spawn_egg
+naturalist:lizard_tail
+naturalist:monarch
+naturalist:plush_bear
+naturalist:purple_emperor
+naturalist:rattlesnake_spawn_egg
+naturalist:red_admiral
+naturalist:rhino_spawn_egg
+naturalist:robin_spawn_egg
+naturalist:shellstone
+naturalist:shellstone_brick_slab
+naturalist:shellstone_brick_stairs
+naturalist:shellstone_brick_wall
+naturalist:shellstone_bricks
+naturalist:shellstone_slab
+naturalist:shellstone_stairs
+naturalist:shellstone_wall
+naturalist:smooth_shellstone
+naturalist:smooth_shellstone_slab
+naturalist:smooth_shellstone_stairs
+naturalist:smooth_shellstone_wall
+naturalist:snail/black
+naturalist:snail/blue
+naturalist:snail/brown
+naturalist:snail/cyan
+naturalist:snail/gray
+naturalist:snail/green
+naturalist:snail/light_blue
+naturalist:snail/light_gray
+naturalist:snail/lime
+naturalist:snail/magenta
+naturalist:snail/orange
+naturalist:snail/pink
+naturalist:snail/purple
+naturalist:snail/red
+naturalist:snail/white
+naturalist:snail/yellow
+naturalist:snail_bucket
+naturalist:snail_eggs
+naturalist:snail_shell
+naturalist:snail_spawn_egg
+naturalist:snake_spawn_egg
+naturalist:sparrow_spawn_egg
+naturalist:swallowtail
+naturalist:tortoise_egg
+naturalist:tortoise_spawn_egg
+naturalist:venison
+naturalist:verdant_froglass
+naturalist:verdant_froglass_pane
+naturalist:vulture_spawn_egg
+naturalist:zebra_spawn_egg
+
+## neoforge biome_modifiers
+add_animals.json :: { "type": "naturalist:add_animals"}
+remove_farm_animals_savanna.json :: { "type": "neoforge:remove_spawns", "biomes": "#minecraft:is_savanna", "entity_types": [ "minecraft:sheep", "minecraft:pig", "minecraft:chicken", "minecraft:cow" ]}
+remove_farm_animals_swamp.json :: { "type": "neoforge:remove_spawns", "biomes": "#c:is_swamp", "entity_types": [ "minecraft:sheep", "minecraft:pig", "minecraft:chicken", "minecraft:cow" ]}
+remove_forest_pigs.json :: { "type": "neoforge:remove_spawns", "biomes": "#minecraft:is_forest", "entity_types": [ "minecraft:pig" ]}
+
+## c: common tag membership
+block/glass_panes.json :: { "replace": false, "values": [ "naturalist:azure_froglass_pane", "naturalist:crimson_froglass_pane", "naturalist:verdant_froglass_pane" ]}
+item/cooked_eggs.json :: { "replace": false, "values": [ "naturalist:cooked_egg" ]}
+item/cooked_fishes.json :: { "replace": false, "values": [ "minecraft:cooked_cod", "minecraft:cooked_salmon", "naturalist:cooked_bass", "naturalist:cooked_catfish" ]}
+item/cooked_meat.json :: { "replace": false, "values": [ "naturalist:cooked_bass", "naturalist:cooked_catfish", "naturalist:cooked_lizard_tail", "naturalist:cooked_duck" ]}
+item/eggs.json :: { "replace": false, "values": [ "naturalist:tortoise_egg", "naturalist:alligator_egg", "naturalist:duck_egg" ]}
+item/raw_fishes.json :: { "replace": false, "values": [ "minecraft:cod", "minecraft:salmon", "minecraft:tropical_fish", "minecraft:pufferfish", "naturalist:bass", "naturalist:catfish" ]}
+item/raw_meat.json :: { "replace": false, "values": [ "naturalist:lizard_tail", "naturalist:duck" ]}

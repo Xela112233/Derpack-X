@@ -1,0 +1,21 @@
+# better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9
+
+## mod metadata (id / version / deps)
+license = "MPL-2.0"
+modId = "betterclouds"
+version = "1.7.20-alpha+1.21.1-neoforge.rev.4c611d9"
+displayName = "Better Clouds"
+modId = "neoforge"
+versionRange = "[21.0.143,21.1),[21.1.1,21.2),"
+modId = "minecraft"
+versionRange = "[1.21.0],[1.21.1]"
+modId = "yet_another_config_lib_v3"
+versionRange = "[3.5.0,4.0.0)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

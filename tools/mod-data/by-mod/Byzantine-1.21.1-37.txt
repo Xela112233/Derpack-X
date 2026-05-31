@@ -1,0 +1,19 @@
+# Byzantine-1.21.1-37
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="byzantine"
+version="37"
+displayName="Byzantine"
+modId="minecraft"
+versionRange="[1.21.1,)"
+modId="minecolonies"
+versionRange="[1.1.691,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

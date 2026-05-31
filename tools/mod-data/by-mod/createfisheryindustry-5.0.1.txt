@@ -1,0 +1,89 @@
+# createfisheryindustry-5.0.1
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="createfisheryindustry"
+version="5.0.1"
+displayName="Create: Fishery Industry"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+modId="create"
+versionRange="[6.0.7,)"
+
+## blocks
+createfisheryindustry:bait_trap
+createfisheryindustry:frame_trap
+createfisheryindustry:lobster_soup
+createfisheryindustry:mechanical_peeler
+createfisheryindustry:mesh_trap
+createfisheryindustry:mussel_soup
+createfisheryindustry:seafood_chowder
+createfisheryindustry:smart_mesh
+createfisheryindustry:smart_nozzle
+createfisheryindustry:trap_bearing
+createfisheryindustry:trap_nozzle
+
+## items
+createfisheryindustry:bait_trap
+createfisheryindustry:chains
+createfisheryindustry:cod_steak
+createfisheryindustry:cooked_blue_mussel
+createfisheryindustry:cooked_cod_steak
+createfisheryindustry:cooked_lobster
+createfisheryindustry:cooked_mediterranean_mussel
+createfisheryindustry:cooked_salmon_steak
+createfisheryindustry:copper_diving_leggings
+createfisheryindustry:fish_skin
+createfisheryindustry:frame_trap
+createfisheryindustry:grapplin_whisk_hook
+createfisheryindustry:harpoon
+createfisheryindustry:harpoon_gui
+createfisheryindustry:harpoon_pouch
+createfisheryindustry:harpoon_pouch_filled
+createfisheryindustry:harpoon_throwing
+createfisheryindustry:incomplete_pneumatic_mechanism
+createfisheryindustry:item
+createfisheryindustry:lobster_soup
+createfisheryindustry:lobster_soup_bucket
+createfisheryindustry:mechanical_peeler
+createfisheryindustry:mesh_trap
+createfisheryindustry:mussel_soup
+createfisheryindustry:mussel_soup_bucket
+createfisheryindustry:netherite_diving_leggings
+createfisheryindustry:pneumatic_harpoon_gun
+createfisheryindustry:pneumatic_harpoon_gun_hook
+createfisheryindustry:pneumatic_mechanism
+createfisheryindustry:pneumatic_vacuum
+createfisheryindustry:raw_blue_mussel
+createfisheryindustry:raw_lobster
+createfisheryindustry:raw_mediterranean_mussel
+createfisheryindustry:roasted_fish_skin
+createfisheryindustry:salmon_steak
+createfisheryindustry:seafood_chowder
+createfisheryindustry:seafood_chowder_bucket
+createfisheryindustry:seafood_steak
+createfisheryindustry:smart_mesh
+createfisheryindustry:smart_nozzle
+createfisheryindustry:trap_bearing
+createfisheryindustry:trap_nozzle
+createfisheryindustry:waxed_cardboard
+createfisheryindustry:waxed_leather
+createfisheryindustry:worn_harpoon
+createfisheryindustry:zinc_sheet
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+item/cooked_fish_steaks.json :: { "replace": false, "values": [ "createfisheryindustry:cooked_cod_steak", "createfisheryindustry:cooked_salmon_steak" ]}
+item/cooked_mussels.json :: { "replace": false, "values": [ "createfisheryindustry:cooked_blue_mussel", "createfisheryindustry:cooked_mediterranean_mussel" ]}
+item/foods/raw_cod.json :: { "replace": false, "values": [ "createfisheryindustry:cod_steak" ]}
+item/foods/raw_salmon.json :: { "replace": false, "values": [ "createfisheryindustry:salmon_steak" ]}
+item/mussels.json :: { "replace": false, "values": [ "createfisheryindustry:raw_blue_mussel", "createfisheryindustry:raw_mediterranean_mussel" ]}
+item/plates/zinc.json :: { "values": [ "createfisheryindustry:zinc_sheet" ]}
+item/plates.json :: { "values": [ "createfisheryindustry:zinc_sheet" ]}
+item/raw_fish_steaks.json :: { "replace": false, "values": [ "createfisheryindustry:cod_steak", "createfisheryindustry:salmon_steak" ]}
+item/tools/melee_weapon.json :: { "values": [ "createfisheryindustry:harpoon" ]}
+item/tools/ranged_weapon.json :: { "values": [ "createfisheryindustry:harpoon" ]}
+item/tools/spear.json :: { "values": [ "createfisheryindustry:harpoon" ]}

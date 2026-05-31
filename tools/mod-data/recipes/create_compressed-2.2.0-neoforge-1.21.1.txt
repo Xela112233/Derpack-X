@@ -1,0 +1,110 @@
+create_compressed:belt | minecraft:crafting_shapeless | create:belt_connector create_compressed:belt_block minecraft:crafting_shapeless
+create_compressed:belt_block | minecraft:crafting_shaped | create:belt_connector create_compressed:belt_block minecraft:crafting_shaped
+create_compressed:brass_sheet | minecraft:crafting_shapeless | create:brass_sheet create_compressed:brass_sheet_block minecraft:crafting_shapeless
+create_compressed:brass_sheet_block | minecraft:crafting_shaped | create:brass_sheet create_compressed:brass_sheet_block minecraft:crafting_shaped
+create_compressed:cinder_flour | minecraft:crafting_shapeless | create:cinder_flour create_compressed:cinder_flour_pile minecraft:crafting_shapeless
+create_compressed:cinder_flour_pile | minecraft:crafting_shaped | create:cinder_flour create_compressed:cinder_flour_pile minecraft:crafting_shaped
+create_compressed:cogwheel | minecraft:crafting_shapeless | create:cogwheel create_compressed:cogwheel_block minecraft:crafting_shapeless
+create_compressed:cogwheel_block | minecraft:crafting_shaped | create:cogwheel create_compressed:cogwheel_block minecraft:crafting_shaped
+create_compressed:copper_sheet | minecraft:crafting_shapeless | create:copper_sheet create_compressed:copper_sheet_block minecraft:crafting_shapeless
+create_compressed:copper_sheet_block | minecraft:crafting_shaped | create:copper_sheet create_compressed:copper_sheet_block minecraft:crafting_shaped
+create_compressed:crushed_raw_aluminum | minecraft:crafting_shapeless | create:crushed_raw_aluminum create_compressed:crushed_aluminum_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_aluminum_pile | minecraft:crafting_shaped | create:crushed_raw_aluminum create_compressed:crushed_aluminum_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_copper | minecraft:crafting_shapeless | create:crushed_raw_copper create_compressed:crushed_copper_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_copper_pile | minecraft:crafting_shaped | create:crushed_raw_copper create_compressed:crushed_copper_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_gold | minecraft:crafting_shapeless | create:crushed_raw_gold create_compressed:crushed_gold_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_gold_pile | minecraft:crafting_shaped | create:crushed_raw_gold create_compressed:crushed_gold_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_iron | minecraft:crafting_shapeless | create:crushed_raw_iron create_compressed:crushed_iron_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_iron_pile | minecraft:crafting_shaped | create:crushed_raw_iron create_compressed:crushed_iron_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_lead | minecraft:crafting_shapeless | create:crushed_raw_lead create_compressed:crushed_lead_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_lead_pile | minecraft:crafting_shaped | create:crushed_raw_lead create_compressed:crushed_lead_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_nickel | minecraft:crafting_shapeless | create:crushed_raw_nickel create_compressed:crushed_nickel_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_nickel_pile | minecraft:crafting_shaped | create:crushed_raw_nickel create_compressed:crushed_nickel_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_osmium | minecraft:crafting_shapeless | create:crushed_raw_osmium create_compressed:crushed_osmium_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_osmium_pile | minecraft:crafting_shaped | create:crushed_raw_osmium create_compressed:crushed_osmium_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_platinum | minecraft:crafting_shapeless | create:crushed_raw_platinum create_compressed:crushed_platinum_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_platinum_pile | minecraft:crafting_shaped | create:crushed_raw_platinum create_compressed:crushed_platinum_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_quicksilver | minecraft:crafting_shapeless | create:crushed_raw_quicksilver create_compressed:crushed_quicksilver_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_quicksilver_pile | minecraft:crafting_shaped | create:crushed_raw_quicksilver create_compressed:crushed_quicksilver_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_silver | minecraft:crafting_shapeless | create:crushed_raw_silver create_compressed:crushed_silver_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_silver_pile | minecraft:crafting_shaped | create:crushed_raw_silver create_compressed:crushed_silver_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_tin | minecraft:crafting_shapeless | create:crushed_raw_tin create_compressed:crushed_tin_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_tin_pile | minecraft:crafting_shaped | create:crushed_raw_tin create_compressed:crushed_tin_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_uranium | minecraft:crafting_shapeless | create:crushed_raw_uranium create_compressed:crushed_uranium_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_uranium_pile | minecraft:crafting_shaped | create:crushed_raw_uranium create_compressed:crushed_uranium_pile minecraft:crafting_shaped
+create_compressed:crushed_raw_zinc | minecraft:crafting_shapeless | create:crushed_raw_zinc create_compressed:crushed_zinc_pile minecraft:crafting_shapeless
+create_compressed:crushed_raw_zinc_pile | minecraft:crafting_shaped | create:crushed_raw_zinc create_compressed:crushed_zinc_pile minecraft:crafting_shaped
+create_compressed:dough | minecraft:crafting_shapeless | create:dough create_compressed:dough_block minecraft:crafting_shapeless
+create_compressed:dough_block | minecraft:crafting_shaped | create:dough create_compressed:dough_block minecraft:crafting_shaped
+create_compressed:dough_block_from_flour | minecraft:crafting_shapeless | create_compressed:dough_block create_compressed:water create_compressed:wheat_flour_pile minecraft:crafting_shapeless
+create_compressed:gold_sheet | minecraft:crafting_shapeless | create:golden_sheet create_compressed:gold_sheet_block minecraft:crafting_shapeless
+create_compressed:gold_sheet_block | minecraft:crafting_shaped | create:golden_sheet create_compressed:gold_sheet_block minecraft:crafting_shaped
+create_compressed:iron_sheet | minecraft:crafting_shapeless | create:iron_sheet create_compressed:iron_sheet_block minecraft:crafting_shapeless
+create_compressed:iron_sheet_block | minecraft:crafting_shaped | create:iron_sheet create_compressed:iron_sheet_block minecraft:crafting_shaped
+create_compressed:large_cogwheel | minecraft:crafting_shapeless | create:large_cogwheel create_compressed:large_cogwheel_block minecraft:crafting_shapeless
+create_compressed:large_cogwheel_block | minecraft:crafting_shaped | create:large_cogwheel create_compressed:large_cogwheel_block minecraft:crafting_shaped
+create_compressed:mechanism | minecraft:crafting_shapeless | create:precision_mechanism create_compressed:mechanism_block minecraft:crafting_shapeless
+create_compressed:mechanism_block | minecraft:crafting_shaped | create:precision_mechanism create_compressed:mechanism_block minecraft:crafting_shaped
+create_compressed:mixing/dough_block | create:mixing | create:mixing create_compressed:dough_block create_compressed:wheat_flour_pile minecraft:water
+create_compressed:polished_rose_quartz | minecraft:crafting_shapeless | create:polished_rose_quartz create_compressed:rose_quartz_polished_block minecraft:crafting_shapeless
+create_compressed:polished_rose_quartz_block | minecraft:crafting_shaped | create:polished_rose_quartz create_compressed:rose_quartz_polished_block minecraft:crafting_shaped
+create_compressed:powdered_obsidian | minecraft:crafting_shapeless | create:powdered_obsidian create_compressed:powdered_obsidian_pile minecraft:crafting_shapeless
+create_compressed:powdered_obsidian_pile | minecraft:crafting_shaped | create:powdered_obsidian create_compressed:powdered_obsidian_pile minecraft:crafting_shaped
+create_compressed:pulp | minecraft:crafting_shapeless | create:pulp create_compressed:pulp_block minecraft:crafting_shapeless
+create_compressed:pulp_block | minecraft:crafting_shaped | create:pulp create_compressed:pulp_block minecraft:crafting_shaped
+create_compressed:rose_quartz | minecraft:crafting_shapeless | create:rose_quartz create_compressed:rose_quartz_crystal_block minecraft:crafting_shapeless
+create_compressed:rose_quartz_crystal_block | minecraft:crafting_shaped | create:rose_quartz create_compressed:rose_quartz_crystal_block minecraft:crafting_shaped
+create_compressed:sandpaper_polishing/polished_rose_quartz_block | create:sandpaper_polishing | create:sandpaper_polishing create_compressed:rose_quartz_crystal_block create_compressed:rose_quartz_polished_block
+create_compressed:shaft | minecraft:crafting_shapeless | create:shaft create_compressed:shaft_bundle minecraft:crafting_shapeless
+create_compressed:shaft_bundle | minecraft:crafting_shaped | create:shaft create_compressed:shaft_bundle minecraft:crafting_shaped
+create_compressed:slime_block_from_dough_block | minecraft:crafting_shapeless | create_compressed:dough_block minecraft:crafting_shapeless minecraft:lime_dye minecraft:slime_block
+create_compressed:splashing/crushed_raw_copper_pile | create:splashing | create:copper_nugget create:splashing create_compressed:crushed_copper_pile minecraft:clay_ball
+create_compressed:splashing/crushed_raw_gold_pile | create:splashing | create:splashing create_compressed:crushed_gold_pile minecraft:gold_nugget minecraft:quartz
+create_compressed:splashing/crushed_raw_iron_pile | create:splashing | create:splashing create_compressed:crushed_iron_pile minecraft:iron_nugget minecraft:redstone
+create_compressed:splashing/crushed_raw_zinc_pile | create:splashing | create:splashing create:zinc_nugget create_compressed:crushed_zinc_pile minecraft:gunpowder
+create_compressed:splashing/galosphere/crushed_raw_silver_pile | create:splashing | create:splashing create_compressed:crushed_silver_pile galosphere:silver_nugget neoforge:mod_loaded
+create_compressed:splashing/immersiveengineering/crushed_raw_aluminum_pile | create:splashing | create:splashing create_compressed:crushed_aluminium_pile immersiveengineering:nugget_aluminum neoforge:mod_loaded
+create_compressed:splashing/immersiveengineering/crushed_raw_lead_pile | create:splashing | create:splashing create_compressed:crushed_lead_pile immersiveengineering:nugget_lead neoforge:mod_loaded
+create_compressed:splashing/immersiveengineering/crushed_raw_nickel_pile | create:splashing | create:splashing create_compressed:crushed_nickel_pile immersiveengineering:nugget_nickel neoforge:mod_loaded
+create_compressed:splashing/immersiveengineering/crushed_raw_silver_pile | create:splashing | create:splashing create_compressed:crushed_silver_pile immersiveengineering:nugget_silver neoforge:mod_loaded
+create_compressed:splashing/immersiveengineering/crushed_raw_uranium_pile | create:splashing | create:splashing create_compressed:crushed_uranium_pile immersiveengineering:nugget_uranium neoforge:mod_loaded
+create_compressed:splashing/mekanism/crushed_raw_lead_pile | create:splashing | create:splashing create_compressed:crushed_lead_pile mekanism:nugget_lead neoforge:mod_loaded
+create_compressed:splashing/mekanism/crushed_raw_osmium_pile | create:splashing | create:splashing create_compressed:crushed_osmium_pile mekanism:nugget_osmium neoforge:mod_loaded
+create_compressed:splashing/mekanism/crushed_raw_tin_pile | create:splashing | create:splashing create_compressed:crushed_tin_pile mekanism:nugget_tin neoforge:mod_loaded
+create_compressed:splashing/mekanism/crushed_raw_uranium_pile | create:splashing | create:splashing create_compressed:crushed_uranium_pile mekanism:nugget_uranium neoforge:mod_loaded
+create_compressed:splashing/oreganized/crushed_raw_lead_pile | ? | create_compressed:crushed_lead_pile neoforge:mod_loaded oreganized:lead_nugget
+create_compressed:splashing/oreganized/crushed_raw_silver_pile | create:splashing | create:splashing create_compressed:crushed_silver_pile neoforge:mod_loaded oreganized:silver_nugget
+create_compressed:splashing/thermal/crushed_raw_lead_pile | create:splashing | create:splashing create_compressed:crushed_lead_pile neoforge:mod_loaded thermal:lead_nugget
+create_compressed:splashing/thermal/crushed_raw_nickel_pile | create:splashing | create:splashing create_compressed:crushed_nickel_pile neoforge:mod_loaded thermal:nickel_nugget
+create_compressed:splashing/thermal/crushed_raw_silver_pile | create:splashing | create:splashing create_compressed:crushed_silver_pile neoforge:mod_loaded thermal:silver_nugget
+create_compressed:splashing/thermal/crushed_raw_tin_pile | create:splashing | create:splashing create_compressed:crushed_tin_pile neoforge:mod_loaded thermal:tin_nugget
+create_compressed:splashing/wheat_flour_pile | create:splashing | create:splashing create_compressed:dough_block create_compressed:wheat_flour_pile
+create_compressed:sturdy_sheet | minecraft:crafting_shapeless | create:sturdy_sheet create_compressed:sturdy_sheet_block minecraft:crafting_shapeless
+create_compressed:sturdy_sheet_block | minecraft:crafting_shaped | create:sturdy_sheet create_compressed:sturdy_sheet_block minecraft:crafting_shaped
+create_compressed:wheat_flour | minecraft:crafting_shapeless | create:wheat_flour create_compressed:wheat_flour_pile minecraft:crafting_shapeless
+create_compressed:wheat_flour_pile | minecraft:crafting_shaped | create:wheat_flour create_compressed:wheat_flour_pile minecraft:crafting_shaped
+create_recycle:crushing/brass_sheet_block | create:crushing | create:brass_sheet create:crushing create_compressed:brass_sheet_block neoforge:mod_loaded
+create_recycle:crushing/cinder_flour_pile | create:crushing | create:cinder_flour create:crushing create_compressed:cinder_flour_pile neoforge:mod_loaded
+create_recycle:crushing/copper_sheet_block | create:crushing | create:copper_sheet create:crushing create_compressed:copper_sheet_block neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_aluminum_pile | create:crushing | create:crushed_raw_aluminum create:crushing create_compressed:crushed_aluminium_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_copper_pile | create:crushing | create:crushed_raw_copper create:crushing create_compressed:crushed_copper_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_gold_pile | create:crushing | create:crushed_raw_gold create:crushing create_compressed:crushed_gold_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_iron_pile | create:crushing | create:crushed_raw_iron create:crushing create_compressed:crushed_iron_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_lead_pile | create:crushing | create:crushed_raw_lead create:crushing create_compressed:crushed_lead_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_nickel_pile | create:crushing | create:crushed_raw_nickel create:crushing create_compressed:crushed_nickel_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_osmium_pile | create:crushing | create:crushed_raw_osmium create:crushing create_compressed:crushed_osmium_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_platinum_pile | create:crushing | create:crushed_raw_platinum create:crushing create_compressed:crushed_platium_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_quicksilver_pile | create:crushing | create:crushed_raw_quicksilver create:crushing create_compressed:crushed_quicksilver_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_silver_pile | create:crushing | create:crushed_raw_silver create:crushing create_compressed:crushed_silver_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_tin_pile | create:crushing | create:crushed_raw_tin create:crushing create_compressed:crushed_tin_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_uranium_pile | create:crushing | create:crushed_raw_uranium create:crushing create_compressed:crushed_uranium_pile neoforge:mod_loaded
+create_recycle:crushing/crushed_raw_zinc_pile | create:crushing | create:crushed_raw_zinc create:crushing create_compressed:crushed_zinc_pile neoforge:mod_loaded
+create_recycle:crushing/gold_sheet_block | create:crushing | create:crushing create:golden_sheet create_compressed:gold_sheet_block neoforge:mod_loaded
+create_recycle:crushing/iron_sheet_block | create:crushing | create:crushing create:iron_sheet create_compressed:iron_sheet_block neoforge:mod_loaded
+create_recycle:crushing/polished_rose_quartz_block | create:crushing | create:crushing create:polished_rose_quartz create_compressed:rose_quartz_polished_block neoforge:mod_loaded
+create_recycle:crushing/powdered_obsidian_pile | create:crushing | create:crushing create:powdered_obsidian create_compressed:powdered_obsidian_pile neoforge:mod_loaded
+create_recycle:crushing/rose_quartz_crystal_block | create:crushing | create:crushing create:rose_quartz create_compressed:rose_quartz_crystal_block neoforge:mod_loaded
+create_recycle:crushing/sturdy_sheet_block | create:crushing | create:crushing create:sturdy_sheet create_compressed:sturdy_sheet_block neoforge:mod_loaded
+create_recycle:milling/dough_block | create:milling | create:dough create:milling create_compressed:dough_block neoforge:mod_loaded
+create_recycle:milling/pulp_block | create:milling | create:milling create:pulp create_compressed:pulp_block neoforge:mod_loaded
+create_recycle:milling/wheat_flour_pile | create:milling | create:milling create:wheat_flour create_compressed:wheat_flour_pile neoforge:mod_loaded

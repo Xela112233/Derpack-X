@@ -1,0 +1,277 @@
+# letsdo-farm_and_charm-neoforge-1.1.22
+
+## mod metadata (id / version / deps)
+license = "Custom"
+modId = "farm_and_charm"
+version = "1.1.22"
+displayName = "[Let's Do] Farm & Charm"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+modId = "architectury"
+versionRange = "[9.0.8,)"
+
+## blocks
+farm_and_charm:baked_lamb_ham_block
+farm_and_charm:barley_ball
+farm_and_charm:barley_crop
+farm_and_charm:beetroot_bag
+farm_and_charm:bread_bag
+farm_and_charm:carrot_bag
+farm_and_charm:cat_food_bag
+farm_and_charm:cattlegrid
+farm_and_charm:chicken_coop
+farm_and_charm:chicken_fence
+farm_and_charm:chicken_nest
+farm_and_charm:cooking_pot
+farm_and_charm:corn_bag
+farm_and_charm:corn_crop
+farm_and_charm:crafting_bowl
+farm_and_charm:dog_food_bag
+farm_and_charm:farmers_bread_block
+farm_and_charm:farmers_breakfast_block
+farm_and_charm:feather_pile
+farm_and_charm:feeding_trough
+farm_and_charm:fertilized_farmland
+farm_and_charm:fertilized_soil
+farm_and_charm:flour_bag
+farm_and_charm:grandmothers_strawberry_cake_block
+farm_and_charm:iron_divider
+farm_and_charm:lettuce_bag
+farm_and_charm:lettuce_crop
+farm_and_charm:lettuce_tomato_block
+farm_and_charm:mincer
+farm_and_charm:nettle_tea
+farm_and_charm:oat_ball
+farm_and_charm:oat_crop
+farm_and_charm:oat_pancake_block
+farm_and_charm:onion_bag
+farm_and_charm:onion_crop
+farm_and_charm:packed_dirt
+farm_and_charm:pet_bowl
+farm_and_charm:potato_bag
+farm_and_charm:potato_with_roast_meat_block
+farm_and_charm:ribwort_tea
+farm_and_charm:roasted_corn_block
+farm_and_charm:roaster
+farm_and_charm:rope
+farm_and_charm:rope_knot
+farm_and_charm:scarecrow
+farm_and_charm:silo_copper
+farm_and_charm:silo_wood
+farm_and_charm:stable_floor
+farm_and_charm:stove
+farm_and_charm:straw_stable_floor
+farm_and_charm:strawberry_bag
+farm_and_charm:strawberry_crop
+farm_and_charm:strawberry_tea
+farm_and_charm:stuffed_chicken_block
+farm_and_charm:stuffed_rabbit_block
+farm_and_charm:sturdy_ladder
+farm_and_charm:timber_well
+farm_and_charm:tomato_bag
+farm_and_charm:tomato_crop
+farm_and_charm:tomato_crop_body
+farm_and_charm:tool_rack
+farm_and_charm:trampled_packed_dirt
+farm_and_charm:trampled_stable_floor
+farm_and_charm:water_sprinkler
+farm_and_charm:water_trough
+farm_and_charm:wheat_pile
+farm_and_charm:wild_barley
+farm_and_charm:wild_beetroots
+farm_and_charm:wild_carrots
+farm_and_charm:wild_corn
+farm_and_charm:wild_emmer
+farm_and_charm:wild_lettuce
+farm_and_charm:wild_nettle
+farm_and_charm:wild_oat
+farm_and_charm:wild_onions
+farm_and_charm:wild_potatoes
+farm_and_charm:wild_ribwort
+farm_and_charm:wild_strawberries
+farm_and_charm:wild_tomatoes
+farm_and_charm:window_sill
+
+## items
+farm_and_charm:bacon
+farm_and_charm:bacon_with_eggs
+farm_and_charm:baked_lamb_ham
+farm_and_charm:barley
+farm_and_charm:barley_ball
+farm_and_charm:barley_patties_with_potatoes
+farm_and_charm:barley_seeds
+farm_and_charm:barley_soup
+farm_and_charm:beef_patty_with_vegetables
+farm_and_charm:beetroot_bag
+farm_and_charm:butter
+farm_and_charm:carrot_bag
+farm_and_charm:cat_food
+farm_and_charm:cat_food_bag
+farm_and_charm:cattlegrid
+farm_and_charm:chicken_coop
+farm_and_charm:chicken_feed
+farm_and_charm:chicken_fence
+farm_and_charm:chicken_nest
+farm_and_charm:chicken_parts
+farm_and_charm:chicken_wrapped_in_bacon
+farm_and_charm:compost
+farm_and_charm:cooked_cod
+farm_and_charm:cooked_salmon
+farm_and_charm:cooking_pot
+farm_and_charm:cooking_saucepan
+farm_and_charm:corn
+farm_and_charm:corn_bag
+farm_and_charm:corn_grits
+farm_and_charm:crafting_bowl
+farm_and_charm:dog_food
+farm_and_charm:dog_food_bag
+farm_and_charm:dough
+farm_and_charm:dungarees
+farm_and_charm:farmer_salad
+farm_and_charm:farmers_bread
+farm_and_charm:farmers_breakfast
+farm_and_charm:feeding_trough
+farm_and_charm:fertilized_farmland
+farm_and_charm:fertilized_soil
+farm_and_charm:fertilizer
+farm_and_charm:flour
+farm_and_charm:flour_bag
+farm_and_charm:goulash
+farm_and_charm:grandmothers_strawberry_cake
+farm_and_charm:horse_fodder
+farm_and_charm:iron_divider
+farm_and_charm:kernels
+farm_and_charm:lamb_ham
+farm_and_charm:lamb_with_corn
+farm_and_charm:lettuce
+farm_and_charm:lettuce_bag
+farm_and_charm:lettuce_seeds
+farm_and_charm:minced_beef
+farm_and_charm:mincer
+farm_and_charm:nettle_tea
+farm_and_charm:nettle_tea_cup
+farm_and_charm:oat
+farm_and_charm:oat_bag
+farm_and_charm:oat_ball
+farm_and_charm:oat_pancake
+farm_and_charm:oat_seeds
+farm_and_charm:oatmeal_with_strawberries
+farm_and_charm:onion
+farm_and_charm:onion_bag
+farm_and_charm:onion_soup
+farm_and_charm:packed_dirt
+farm_and_charm:pasta_with_onion_sauce
+farm_and_charm:pet_bowl
+farm_and_charm:pitchfork
+farm_and_charm:plow
+farm_and_charm:potato_bag
+farm_and_charm:potato_soup
+farm_and_charm:potato_with_roast_meat
+farm_and_charm:raw_pasta
+farm_and_charm:recipe_unlocker
+farm_and_charm:ribwort_tea
+farm_and_charm:ribwort_tea_cup
+farm_and_charm:roasted_chicken
+farm_and_charm:roasted_corn
+farm_and_charm:roaster
+farm_and_charm:rope
+farm_and_charm:rotten_tomato
+farm_and_charm:sausage_with_oat_patty
+farm_and_charm:scarecrow
+farm_and_charm:silo_copper
+farm_and_charm:silo_wood
+farm_and_charm:simple_tomato_soup
+farm_and_charm:stable_floor
+farm_and_charm:stove
+farm_and_charm:straw_stable_floor
+farm_and_charm:strawberry
+farm_and_charm:strawberry_bag
+farm_and_charm:strawberry_seeds
+farm_and_charm:strawberry_tea
+farm_and_charm:strawberry_tea_cup
+farm_and_charm:stuffed_chicken
+farm_and_charm:stuffed_rabbit
+farm_and_charm:sturdy_ladder
+farm_and_charm:supply_cart
+farm_and_charm:timber_well
+farm_and_charm:tomato
+farm_and_charm:tomato_bag
+farm_and_charm:tomato_seeds
+farm_and_charm:tool_rack
+farm_and_charm:trampled_packed_dirt
+farm_and_charm:trampled_stable_floor
+farm_and_charm:water_sprinkler
+farm_and_charm:water_trough
+farm_and_charm:wild_barley
+farm_and_charm:wild_beetroots
+farm_and_charm:wild_carrots
+farm_and_charm:wild_corn
+farm_and_charm:wild_emmer
+farm_and_charm:wild_lettuce
+farm_and_charm:wild_nettle
+farm_and_charm:wild_oat
+farm_and_charm:wild_onions
+farm_and_charm:wild_potatoes
+farm_and_charm:wild_ribwort
+farm_and_charm:wild_strawberries
+farm_and_charm:wild_tomatoes
+farm_and_charm:window_sill
+farm_and_charm:yeast
+
+## neoforge biome_modifiers
+add_wild_barley.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_barley", "features": "farm_and_charm:wild_barley_chance", "step": "vegetal_decoration"}
+add_wild_beetroots.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_crops", "features": "farm_and_charm:wild_beetroots_chance", "step": "vegetal_decoration"}
+add_wild_carrots.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_crops", "features": "farm_and_charm:wild_carrots_chance", "step": "vegetal_decoration"}
+add_wild_corn.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_tomatoes_and_corn", "features": "farm_and_charm:wild_corn_chance", "step": "vegetal_decoration"}
+add_wild_emmer.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_emmer", "features": "farm_and_charm:wild_emmer_chance", "step": "vegetal_decoration"}
+add_wild_lettuce.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_crops", "features": "farm_and_charm:wild_lettuce_chance", "step": "vegetal_decoration"}
+add_wild_nettle.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_flowers", "features": "farm_and_charm:wild_nettle_chance", "step": "vegetal_decoration"}
+add_wild_oat.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_oat", "features": "farm_and_charm:wild_oat_chance", "step": "vegetal_decoration"}
+add_wild_onions.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_crops", "features": "farm_and_charm:wild_onions_chance", "step": "vegetal_decoration"}
+add_wild_potatoes.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_potatoes", "features": "farm_and_charm:wild_potatoes_chance", "step": "vegetal_decoration"}
+add_wild_ribwort.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_flowers", "features": "farm_and_charm:wild_ribwort_chance", "step": "vegetal_decoration"}
+add_wild_strawberry.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_strawberries", "features": "farm_and_charm:wild_strawberry_chance", "step": "vegetal_decoration"}
+add_wild_tomatoes.json :: { "type": "neoforge:add_features", "biomes": "#farm_and_charm:spawns_wild_tomatoes_and_corn", "features": "farm_and_charm:wild_tomatoes_chance", "step": "vegetal_decoration"}
+
+## c: common tag membership
+block/allows_cooking.json :: { "replace": false, "values": [ "farm_and_charm:stove" ]}
+block/ropes.json :: { "replace": false, "values": [ { "id": "farm_and_charm:rope", "required": true } ]}
+item/bones.json :: { "replace": false, "values": [ "minecraft:bone" ]}
+item/bread.json :: { "replace": false, "values": [ "farm_and_charm:farmers_bread" ]}
+item/butter.json :: { "replace": false, "values": [ "farm_and_charm:butter" ]}
+item/container.json :: { "replace": false, "values": [ "minecraft:bowl", "minecraft:glass_bottle" ]}
+item/cooked_beef.json :: { "replace": false, "values": [ "minecraft:cooked_beef", "farm_and_charm:beef_patty_with_vegetables", "farm_and_charm:potato_with_roast_meat" ]}
+item/cooked_chicken.json :: { "replace": false, "values": [ "minecraft:cooked_chicken", "farm_and_charm:stuffed_chicken", "farm_and_charm:roasted_chicken", "farm_and_charm:chicken_wrapped_in_bacon" ]}
+item/cooked_fishes.json :: { "replace": false, "values": [ "farm_and_charm:cooked_cod", "farm_and_charm:cooked_salmon" ]}
+item/cooked_mutton.json :: { "replace": false, "values": [ "minecraft:cooked_mutton", "farm_and_charm:baked_lamb_ham", "farm_and_charm:lamb_with_corn", "farm_and_charm:goulash" ]}
+item/cooked_pork.json :: { "replace": false, "values": [ "minecraft:cooked_porkchop", "farm_and_charm:bacon_with_eggs", "farm_and_charm:chicken_wrapped_in_bacon" ]}
+item/crops.json :: { "replace": false, "values": [ "#c:crops/cabbage", "#c:crops/corn", "#c:crops/onion", "#c:crops/tomato" ]}
+item/crops/cabbage.json :: { "replace": false, "values": [ "farm_and_charm:lettuce" ]}
+item/crops/corn.json :: { "replace": false, "values": [ "farm_and_charm:corn" ]}
+item/crops/onion.json :: { "replace": false, "values": [ "farm_and_charm:onion" ]}
+item/crops/tomato.json :: { "replace": false, "values": [ "farm_and_charm:tomato" ]}
+item/dough.json :: { "replace": false, "values": [ "farm_and_charm:dough" ]}
+item/flour.json :: { "replace": false, "values": [ "farm_and_charm:flour" ]}
+item/grain.json :: { "replace": false, "values": [ "farm_and_charm:oat", "farm_and_charm:barley", "farm_and_charm:corn" ]}
+item/grains.json :: { "replace": false, "values": [ "#c:grains/barleys", "#c:grains/corn", "#c:grains/oats", "#c:grains/wheats" ]}
+item/grains/barleys.json :: { "replace": false, "values": [ "farm_and_charm:barley" ]}
+item/grains/corn.json :: { "replace": false, "values": [ "farm_and_charm:corn" ]}
+item/grains/oats.json :: { "replace": false, "values": [ "farm_and_charm:oat" ]}
+item/grains/wheats.json :: { "replace": false, "values": [ "minecraft:wheat", "farm_and_charm:oat", "farm_and_charm:barley", "farm_and_charm:corn" ]}
+item/milk.json :: { "replace": false, "values": [ "minecraft:milk_bucket" ]}
+item/pasta.json :: { "replace": false, "values": [ "farm_and_charm:raw_pasta" ]}
+item/raw_bacon.json :: { "replace": false, "values": [ "farm_and_charm:bacon" ]}
+item/raw_beef.json :: { "replace": false, "values": [ "minecraft:beef", "farm_and_charm:minced_beef" ]}
+item/raw_chicken.json :: { "replace": false, "values": [ "minecraft:chicken", "farm_and_charm:chicken_parts" ]}
+item/raw_fishes.json :: { "replace": false, "values": [ "minecraft:cod", "minecraft:salmon", "minecraft:tropical_fish", "minecraft:pufferfish" ]}
+item/raw_mutton.json :: { "replace": false, "values": [ "minecraft:mutton", "farm_and_charm:lamb_ham" ]}
+item/raw_pork.json :: { "replace": false, "values": [ "minecraft:porkchop", "farm_and_charm:bacon" ]}
+item/ropes.json :: { "replace": false, "values": [ { "id": "farm_and_charm:rope", "required": true } ]}
+item/seeds.json :: { "replace": false, "values": [ "farm_and_charm:oat_seeds", "farm_and_charm:kernels", "farm_and_charm:barley_seeds", "farm_and_charm:lettuce_seeds", "farm_and_charm:tomato_seeds", "farm_and_charm:strawberry_seeds", "farm_and_charm:onion" ]}
+item/strawberries.json :: { "replace": false, "values": [ "farm_and_charm:strawberry" ]}
+item/strawberry.json :: { "replace": false, "values": [ "farm_and_charm:strawberry" ]}
+item/tomato_soups.json :: { "replace": false, "values": [ "farm_and_charm:simple_tomato_soup" ]}
+item/vegetables.json :: { "replace": false, "values": [ "farm_and_charm:onion", "farm_and_charm:tomato", "farm_and_charm:corn", "farm_and_charm:strawberry", "farm_and_charm:lettuce" ]}
+item/water_bottles.json :: { "replace": false, "values": [ "minecraft:water_bucket" ]}

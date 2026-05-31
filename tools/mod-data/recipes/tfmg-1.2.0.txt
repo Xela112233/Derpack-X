@@ -1,0 +1,616 @@
+create:crushing/bauxite | create:crushing | create:crushing tfmg:bauxite tfmg:bauxite_powder
+create:crushing/coal_coke | create:crushing | create:crushing tfmg:coal_coke tfmg:coal_coke_dust
+create:crushing/copper_sulfate | create:crushing | create:crushing minecraft:blue_dye minecraft:bone_meal minecraft:cyan_dye tfmg:copper_sulfate
+create:crushing/deepslate_lithium_ore | create:crushing | create:crushing create:experience_nugget minecraft:cobbled_deepslate tfmg:crushed_raw_lithium tfmg:deepslate_lithium_ore
+create:crushing/dirt | create:crushing | create:crushing minecraft:dirt tfmg:nitrate_dust
+create:crushing/galena | create:crushing | create:crushed_raw_lead create:crushing tfmg:galena tfmg:lead_nugget
+create:crushing/lignite | create:crushing | create:crushing minecraft:coal tfmg:lignite
+create:crushing/limestone | create:crushing | create:crushing create:limestone tfmg:limesand
+create:crushing/lithium_ore | create:crushing | create:crushing create:experience_nugget minecraft:cobblestone tfmg:crushed_raw_lithium tfmg:lithium_ore
+create:crushing/raw_lithium | create:crushing | create:crushing create:experience_nugget tfmg:crushed_raw_lithium tfmg:raw_lithium
+create:crushing/raw_lithium_block | create:crushing | create:crushing create:experience_nugget tfmg:crushed_raw_lithium tfmg:raw_lithium_block
+create:crushing/slag_block | create:crushing | create:crushing tfmg:slag tfmg:slag_block
+create:crushing/sulfur | create:crushing | create:crushing tfmg:sulfur tfmg:sulfur_dust
+tfmg:aluminum_bars_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:aluminum_bars
+tfmg:aluminum_ladder_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:aluminum_ladder
+tfmg:aluminum_scaffolding_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:aluminum_scaffolding
+tfmg:aluminum_spool | minecraft:crafting_shaped | c:wires/aluminum minecraft:crafting_shaped tfmg:aluminum_spool tfmg:empty_spool
+tfmg:aluminum_wire_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:aluminum_wire
+tfmg:asphalt_slab_from_asphalt_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:asphalt tfmg:asphalt_slab
+tfmg:asphalt_stairs_from_asphalt_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:asphalt tfmg:asphalt_stairs
+tfmg:asphalt_wall_from_asphalt_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:asphalt tfmg:asphalt_wall
+tfmg:bauxite_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:bauxite tfmg:stone_types/bauxite
+tfmg:bauxite_pillar_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:bauxite_pillar tfmg:stone_types/bauxite
+tfmg:black_concrete_slab_from_black_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:black_concrete tfmg:black_concrete_slab
+tfmg:black_concrete_stairs_from_black_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:black_concrete tfmg:black_concrete_stairs
+tfmg:black_concrete_wall_from_black_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:black_concrete tfmg:black_concrete_wall
+tfmg:black_rebar_concrete_slab_from_black_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:black_rebar_concrete tfmg:black_rebar_concrete_slab
+tfmg:black_rebar_concrete_stairs_from_black_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:black_rebar_concrete tfmg:black_rebar_concrete_stairs
+tfmg:black_rebar_concrete_wall_from_black_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:black_rebar_concrete tfmg:black_rebar_concrete_wall
+tfmg:blasting/lead_ingot_blasting | minecraft:blasting | minecraft:blasting tfmg:lead_ingot tfmg:raw_lead
+tfmg:blasting/lead_ingot_from_crushed_blasting | minecraft:blasting | create:crushed_raw_lead minecraft:blasting tfmg:lead_ingot
+tfmg:blasting/lithium_ingot_blasting | minecraft:blasting | minecraft:blasting tfmg:lithium_ingot tfmg:raw_lithium
+tfmg:blasting/lithium_ingot_from_crushed_blasting | minecraft:blasting | minecraft:blasting tfmg:crushed_raw_lithium tfmg:lithium_ingot
+tfmg:blasting/nickel_ingot_blasting | minecraft:blasting | minecraft:blasting tfmg:nickel_ingot tfmg:raw_nickel
+tfmg:blasting/nickel_ingot_from_crushed_blasting | minecraft:blasting | create:crushed_raw_nickel minecraft:blasting tfmg:nickel_ingot
+tfmg:blue_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:blue_caution_block
+tfmg:blue_concrete_slab_from_blue_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:blue_concrete tfmg:blue_concrete_slab
+tfmg:blue_concrete_stairs_from_blue_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:blue_concrete tfmg:blue_concrete_stairs
+tfmg:blue_concrete_wall_from_blue_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:blue_concrete tfmg:blue_concrete_wall
+tfmg:blue_rebar_concrete_slab_from_blue_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:blue_rebar_concrete tfmg:blue_rebar_concrete_slab
+tfmg:blue_rebar_concrete_stairs_from_blue_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:blue_rebar_concrete tfmg:blue_rebar_concrete_stairs
+tfmg:blue_rebar_concrete_wall_from_blue_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:blue_rebar_concrete tfmg:blue_rebar_concrete_wall
+tfmg:brown_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:brown_caution_block
+tfmg:brown_concrete_slab_from_brown_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:brown_concrete tfmg:brown_concrete_slab
+tfmg:brown_concrete_stairs_from_brown_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:brown_concrete tfmg:brown_concrete_stairs
+tfmg:brown_concrete_wall_from_brown_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:brown_concrete tfmg:brown_concrete_wall
+tfmg:brown_rebar_concrete_slab_from_brown_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:brown_rebar_concrete tfmg:brown_rebar_concrete_slab
+tfmg:brown_rebar_concrete_stairs_from_brown_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:brown_rebar_concrete tfmg:brown_rebar_concrete_stairs
+tfmg:brown_rebar_concrete_wall_from_brown_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:brown_rebar_concrete tfmg:brown_rebar_concrete_wall
+tfmg:cast_iron_bars_from_ingots_cast_iron_stonecutting | minecraft:stonecutting | c:ingots/cast_iron minecraft:stonecutting tfmg:cast_iron_bars
+tfmg:cast_iron_ladder_from_ingots_cast_iron_stonecutting | minecraft:stonecutting | c:ingots/cast_iron minecraft:stonecutting tfmg:cast_iron_ladder
+tfmg:casting/cinderblock | tfmg:casting | neoforge:single tfmg:casting tfmg:cinderblock tfmg:liquid_concrete
+tfmg:casting/plastic_sheet | tfmg:casting | neoforge:single tfmg:casting tfmg:molten_plastic tfmg:plastic_sheet
+tfmg:casting/silicon | tfmg:casting | neoforge:single tfmg:casting tfmg:liquid_silicon tfmg:silicon_ingot
+tfmg:casting/slag_block | tfmg:casting | neoforge:single tfmg:casting tfmg:molten_slag tfmg:slag_block
+tfmg:casting/steel | tfmg:casting | neoforge:single tfmg:casting tfmg:molten_steel tfmg:steel_ingot
+tfmg:cinderblock_from_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cinderblock tfmg:concrete
+tfmg:coking/charcoal | tfmg:coking | minecraft:charcoal minecraft:logs_that_burn tfmg:carbon_dioxide tfmg:coking tfmg:creosote
+tfmg:coking/coal | tfmg:coking | minecraft:coal tfmg:carbon_dioxide tfmg:coal_coke tfmg:coking tfmg:creosote
+tfmg:compacting/bitumen | create:compacting | create:compacting neoforge:single tfmg:bitumen tfmg:heavy_oil
+tfmg:compacting/cast_iron | create:compacting | create:compacting minecraft:coal minecraft:iron_ingot tfmg:cast_iron_ingot
+tfmg:compacting/cinderflourblock | create:compacting | create:cinder_flour create:compacting tfmg:cinderflourblock
+tfmg:concrete_slab_from_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:concrete tfmg:concrete_slab
+tfmg:concrete_stairs_from_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:concrete tfmg:concrete_stairs
+tfmg:concrete_wall_from_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:concrete tfmg:concrete_wall
+tfmg:constantan_ladder_from_ingots_constantan_stonecutting | minecraft:stonecutting | c:ingots/constantan minecraft:stonecutting tfmg:constantan_ladder
+tfmg:constantan_spool | minecraft:crafting_shaped | c:wires/constantan minecraft:crafting_shaped tfmg:constantan_spool tfmg:empty_spool
+tfmg:constantan_wire_from_ingots_constantan_stonecutting | minecraft:stonecutting | c:ingots/constantan minecraft:stonecutting tfmg:constantan_wire
+tfmg:copper_electrode_from_storage_blocks_copper_stonecutting | minecraft:stonecutting | c:storage_blocks/copper minecraft:stonecutting tfmg:copper_electrode
+tfmg:copper_spool | minecraft:crafting_shaped | c:wires/copper minecraft:crafting_shaped tfmg:copper_spool tfmg:empty_spool
+tfmg:copper_wire_from_ingots_copper_stonecutting | minecraft:stonecutting | c:ingots/copper minecraft:stonecutting tfmg:copper_wire
+tfmg:crafting/materials/accumulator | minecraft:crafting_shaped | c:plates/lead c:storage_blocks/lead c:wires/copper minecraft:crafting_shaped tfmg:accumulator tfmg:industrial_aluminum_casing tfmg:sulfuric_acid_bucket
+tfmg:crafting/materials/accumulatorfrom_lithium | minecraft:crafting_shaped | c:ingots/lithium c:plates/nickel c:storage_blocks/lithium c:wires/copper minecraft:crafting_shaped tfmg:accumulator tfmg:industrial_aluminum_casing
+tfmg:crafting/materials/air_intake | minecraft:crafting_shaped | create:andesite_bars create:cogwheel create:industrial_iron_block create:propeller create:shaft minecraft:crafting_shaped tfmg:air_intake tfmg:cast_iron_pipe
+tfmg:crafting/materials/aluminum_axe | minecraft:crafting_shaped | c:ingots/aluminum minecraft:crafting_shaped minecraft:stick tfmg:aluminum_axe
+tfmg:crafting/materials/aluminum_block_from_compacting | minecraft:crafting_shaped | c:ingots/aluminum minecraft:crafting_shaped tfmg:aluminum_block
+tfmg:crafting/materials/aluminum_cable_hub | minecraft:crafting_shaped | c:ingots/aluminum c:wires/copper minecraft:crafting_shaped tfmg:aluminum_cable_hub
+tfmg:crafting/materials/aluminum_cogwheel | minecraft:crafting_shapeless | c:ingots/aluminum create:shaft minecraft:crafting_shapeless tfmg:aluminum_cogwheel
+tfmg:crafting/materials/aluminum_door | minecraft:crafting_shaped | c:ingots/aluminum minecraft:crafting_shaped tfmg:aluminum_door
+tfmg:crafting/materials/aluminum_fluid_tank | minecraft:crafting_shaped | c:plates/aluminum minecraft:barrel minecraft:crafting_shaped tfmg:aluminum_fluid_tank
+tfmg:crafting/materials/aluminum_fluid_valve | minecraft:crafting_shapeless | c:plates/iron minecraft:crafting_shapeless tfmg:aluminum_fluid_valve tfmg:aluminum_pipe
+tfmg:crafting/materials/aluminum_flywheel | minecraft:crafting_shaped | c:ingots/aluminum create:shaft minecraft:crafting_shaped tfmg:aluminum_flywheel
+tfmg:crafting/materials/aluminum_frame | minecraft:crafting_shaped | c:nuggets/aluminum minecraft:crafting_shaped tfmg:aluminum_frame
+tfmg:crafting/materials/aluminum_hoe | minecraft:crafting_shaped | c:ingots/aluminum minecraft:crafting_shaped minecraft:stick tfmg:aluminum_hoe
+tfmg:crafting/materials/aluminum_ingot_from_compacting | minecraft:crafting_shaped | c:nuggets/aluminum minecraft:crafting_shaped tfmg:aluminum_ingot
+tfmg:crafting/materials/aluminum_ingot_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/aluminum minecraft:crafting_shapeless tfmg:aluminum_ingot
+tfmg:crafting/materials/aluminum_lamp | minecraft:crafting_shaped | c:plates/aluminum create:framed_glass_pane minecraft:crafting_shaped tfmg:aluminum_lamp tfmg:light_bulb
+tfmg:crafting/materials/aluminum_mechanical_pump | minecraft:crafting_shapeless | create:cogwheel minecraft:crafting_shapeless tfmg:aluminum_mechanical_pump tfmg:aluminum_pipe
+tfmg:crafting/materials/aluminum_nugget_from_decompacting | minecraft:crafting_shapeless | c:ingots/aluminum minecraft:crafting_shapeless tfmg:aluminum_nugget
+tfmg:crafting/materials/aluminum_pickaxe | minecraft:crafting_shaped | c:ingots/aluminum minecraft:crafting_shaped minecraft:stick tfmg:aluminum_pickaxe
+tfmg:crafting/materials/aluminum_pipe | minecraft:crafting_shaped | c:ingots/aluminum c:plates/aluminum minecraft:crafting_shaped tfmg:aluminum_pipe
+tfmg:crafting/materials/aluminum_pipe_vertical | minecraft:crafting_shaped | c:ingots/aluminum c:plates/aluminum minecraft:crafting_shaped tfmg:aluminum_pipe
+tfmg:crafting/materials/aluminum_shovel | minecraft:crafting_shaped | c:ingots/aluminum minecraft:crafting_shaped minecraft:stick tfmg:aluminum_shovel
+tfmg:crafting/materials/aluminum_smart_fluid_pipe | minecraft:crafting_shaped | c:plates/brass create:electron_tube minecraft:crafting_shaped tfmg:aluminum_pipe tfmg:aluminum_smart_fluid_pipe
+tfmg:crafting/materials/aluminum_sword | minecraft:crafting_shaped | c:ingots/aluminum minecraft:crafting_shaped minecraft:stick tfmg:aluminum_sword
+tfmg:crafting/materials/aluminum_truss | minecraft:crafting_shaped | c:nuggets/aluminum minecraft:crafting_shaped tfmg:aluminum_truss
+tfmg:crafting/materials/black_concrete | minecraft:crafting_shaped | minecraft:black_dye minecraft:crafting_shaped tfmg:black_concrete tfmg:concrete
+tfmg:crafting/materials/black_multimeter | minecraft:crafting_shapeless | minecraft:black_dye minecraft:crafting_shapeless tfmg:black_multimeter tfmg:multimeter
+tfmg:crafting/materials/black_rebar_concrete | minecraft:crafting_shaped | minecraft:black_dye minecraft:crafting_shaped tfmg:black_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/blast_furnace_hatch | minecraft:crafting_shaped | c:plates/cast_iron minecraft:crafting_shaped tfmg:blast_furnace_hatch tfmg:cast_iron_fluid_tank tfmg:cast_iron_pipe tfmg:fireproof_bricks
+tfmg:crafting/materials/blast_furnace_output | minecraft:crafting_shaped | c:storage_blocks/cast_iron minecraft:crafting_shaped tfmg:blast_furnace_output tfmg:cast_iron_pipe tfmg:fireproof_bricks
+tfmg:crafting/materials/blast_furnace_reinforcement | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped tfmg:blast_furnace_reinforcement tfmg:fireproof_bricks tfmg:heavy_plate
+tfmg:crafting/materials/blast_stove | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:blast_stove tfmg:cast_iron_fluid_tank tfmg:cast_iron_pipe tfmg:fireproof_bricks
+tfmg:crafting/materials/blue_concrete | minecraft:crafting_shaped | minecraft:blue_dye minecraft:crafting_shaped tfmg:blue_concrete tfmg:concrete
+tfmg:crafting/materials/blue_multimeter | minecraft:crafting_shapeless | minecraft:blue_dye minecraft:crafting_shapeless tfmg:blue_multimeter tfmg:multimeter
+tfmg:crafting/materials/blue_rebar_concrete | minecraft:crafting_shaped | minecraft:blue_dye minecraft:crafting_shaped tfmg:blue_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/brass_cable_hub | minecraft:crafting_shaped | c:ingots/brass c:wires/copper minecraft:crafting_shaped tfmg:brass_cable_hub
+tfmg:crafting/materials/brass_fluid_valve | minecraft:crafting_shapeless | c:plates/iron minecraft:crafting_shapeless tfmg:brass_fluid_valve tfmg:brass_pipe
+tfmg:crafting/materials/brass_frame | minecraft:crafting_shaped | c:nuggets/brass minecraft:crafting_shaped tfmg:brass_frame
+tfmg:crafting/materials/brass_mechanical_pump | minecraft:crafting_shapeless | create:cogwheel minecraft:crafting_shapeless tfmg:brass_mechanical_pump tfmg:brass_pipe
+tfmg:crafting/materials/brass_pipe | minecraft:crafting_shaped | c:ingots/brass c:plates/brass minecraft:crafting_shaped tfmg:brass_pipe
+tfmg:crafting/materials/brass_pipe_vertical | minecraft:crafting_shaped | c:ingots/brass c:plates/brass minecraft:crafting_shaped tfmg:brass_pipe
+tfmg:crafting/materials/brass_smart_fluid_pipe | minecraft:crafting_shaped | c:plates/copper create:electron_tube minecraft:crafting_shaped tfmg:brass_pipe tfmg:brass_smart_fluid_pipe
+tfmg:crafting/materials/brass_truss | minecraft:crafting_shaped | c:nuggets/brass minecraft:crafting_shaped tfmg:brass_truss
+tfmg:crafting/materials/brick_smokestack | minecraft:crafting_shaped | minecraft:bricks minecraft:crafting_shaped tfmg:brick_smokestack tfmg:industrial_pipe
+tfmg:crafting/materials/brown_concrete | minecraft:crafting_shaped | minecraft:brown_dye minecraft:crafting_shaped tfmg:brown_concrete tfmg:concrete
+tfmg:crafting/materials/brown_multimeter | minecraft:crafting_shapeless | minecraft:brown_dye minecraft:crafting_shapeless tfmg:brown_multimeter tfmg:multimeter
+tfmg:crafting/materials/brown_rebar_concrete | minecraft:crafting_shaped | minecraft:brown_dye minecraft:crafting_shaped tfmg:brown_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/cable_connector | minecraft:crafting_shaped | c:nuggets/steel minecraft:copper_ingot minecraft:crafting_shaped tfmg:cable_connector tfmg:unfinished_insulator
+tfmg:crafting/materials/cable_tube | minecraft:crafting_shaped | c:nuggets/steel c:wires/copper minecraft:crafting_shaped tfmg:cable_tube tfmg:rubber_sheet
+tfmg:crafting/materials/cast_iron_block_from_compacting | minecraft:crafting_shaped | c:ingots/cast_iron minecraft:crafting_shaped tfmg:cast_iron_block
+tfmg:crafting/materials/cast_iron_chemical_vat | minecraft:crafting_shaped | c:plates/cast_iron c:plates/lead minecraft:crafting_shaped tfmg:cast_iron_chemical_vat tfmg:cast_iron_fluid_tank
+tfmg:crafting/materials/cast_iron_fluid_tank | minecraft:crafting_shaped | c:plates/cast_iron minecraft:barrel minecraft:crafting_shaped tfmg:cast_iron_fluid_tank
+tfmg:crafting/materials/cast_iron_fluid_valve | minecraft:crafting_shapeless | c:plates/iron minecraft:crafting_shapeless tfmg:cast_iron_fluid_valve tfmg:cast_iron_pipe
+tfmg:crafting/materials/cast_iron_flywheel | minecraft:crafting_shaped | c:ingots/cast_iron create:shaft minecraft:crafting_shaped tfmg:cast_iron_flywheel
+tfmg:crafting/materials/cast_iron_frame | minecraft:crafting_shaped | c:nuggets/cast_iron minecraft:crafting_shaped tfmg:cast_iron_frame
+tfmg:crafting/materials/cast_iron_ingot_from_compacting | minecraft:crafting_shaped | c:nuggets/cast_iron minecraft:crafting_shaped tfmg:cast_iron_ingot
+tfmg:crafting/materials/cast_iron_ingot_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/cast_iron minecraft:crafting_shapeless tfmg:cast_iron_ingot
+tfmg:crafting/materials/cast_iron_mechanical_pump | minecraft:crafting_shapeless | create:cogwheel minecraft:crafting_shapeless tfmg:cast_iron_mechanical_pump tfmg:cast_iron_pipe
+tfmg:crafting/materials/cast_iron_nugget_from_decompacting | minecraft:crafting_shapeless | c:ingots/cast_iron minecraft:crafting_shapeless tfmg:cast_iron_nugget
+tfmg:crafting/materials/cast_iron_pipe | minecraft:crafting_shaped | c:ingots/cast_iron c:plates/cast_iron minecraft:crafting_shaped tfmg:cast_iron_pipe
+tfmg:crafting/materials/cast_iron_pipe_vertical | minecraft:crafting_shaped | c:ingots/cast_iron c:plates/cast_iron minecraft:crafting_shaped tfmg:cast_iron_pipe
+tfmg:crafting/materials/cast_iron_smart_fluid_pipe | minecraft:crafting_shaped | c:plates/cast_iron create:electron_tube minecraft:crafting_shaped tfmg:cast_iron_pipe tfmg:cast_iron_smart_fluid_pipe
+tfmg:crafting/materials/cast_iron_truss | minecraft:crafting_shaped | c:nuggets/cast_iron minecraft:crafting_shaped tfmg:cast_iron_truss
+tfmg:crafting/materials/casting_basin | minecraft:crafting_shaped | c:ingots/cast_iron minecraft:crafting_shaped tfmg:cast_iron_pipe tfmg:casting_basin tfmg:fireproof_brick
+tfmg:crafting/materials/centrifuge | minecraft:crafting_shaped | c:ingots/aluminum minecraft:crafting_shaped tfmg:aluminum_bars tfmg:centrifuge
+tfmg:crafting/materials/cinder_block | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cinder_block tfmg:cinderblock tfmg:liquid_concrete_bucket tfmg:rebar
+tfmg:crafting/materials/cinderflour_block | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:nether_wart_block tfmg:cinderflour_block tfmg:cinderflourblock tfmg:rebar
+tfmg:crafting/materials/circular_light | minecraft:crafting_shaped | c:nuggets/steel create:framed_glass minecraft:crafting_shaped tfmg:circular_light tfmg:light_bulb
+tfmg:crafting/materials/coal_coke | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:coal_coke tfmg:coal_coke_block
+tfmg:crafting/materials/coal_coke_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:coal_coke tfmg:coal_coke_block
+tfmg:crafting/materials/coke_oven | minecraft:crafting_shaped | c:ingots/cast_iron create:industrial_iron_block minecraft:crafting_shaped tfmg:coke_oven
+tfmg:crafting/materials/concrete_hose | minecraft:crafting_shaped | c:plates/nickel create:shaft minecraft:crafting_shaped minecraft:dried_kelp_block tfmg:concrete_hose tfmg:heavy_machinery_casing tfmg:steel_pipe
+tfmg:crafting/materials/concrete_smokestack | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:concrete tfmg:concrete_smokestack tfmg:industrial_pipe
+tfmg:crafting/materials/constantan_block_from_compacting | minecraft:crafting_shaped | c:ingots/constantan minecraft:crafting_shaped tfmg:constantan_block
+tfmg:crafting/materials/constantan_frame | minecraft:crafting_shaped | c:nuggets/constantan minecraft:crafting_shaped tfmg:constantan_frame
+tfmg:crafting/materials/constantan_ingot_from_compacting | minecraft:crafting_shaped | c:nuggets/constantan minecraft:crafting_shaped tfmg:constantan_ingot
+tfmg:crafting/materials/constantan_ingot_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/constantan minecraft:crafting_shapeless tfmg:constantan_ingot
+tfmg:crafting/materials/constantan_nugget_from_decompacting | minecraft:crafting_shapeless | c:ingots/constantan minecraft:crafting_shapeless tfmg:constantan_nugget
+tfmg:crafting/materials/constantan_truss | minecraft:crafting_shaped | c:nuggets/constantan minecraft:crafting_shaped tfmg:constantan_truss
+tfmg:crafting/materials/converter | minecraft:crafting_shaped | c:dusts/redstone c:plates/lead c:wires/copper minecraft:crafting_shaped tfmg:converter tfmg:transformer
+tfmg:crafting/materials/cooling_fluid_bottle | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_blue_dye tfmg:cooling_fluid_bottle tfmg:plastic_sheet
+tfmg:crafting/materials/copper_cable_hub | minecraft:crafting_shaped | c:wires/copper minecraft:copper_ingot minecraft:crafting_shaped tfmg:copper_cable_hub
+tfmg:crafting/materials/copper_frame | minecraft:crafting_shaped | c:nuggets/copper minecraft:crafting_shaped tfmg:copper_frame
+tfmg:crafting/materials/copper_grenade | minecraft:crafting_shaped | minecraft:copper_ingot minecraft:crafting_shaped tfmg:copper_grenade tfmg:thermite_grenade
+tfmg:crafting/materials/copper_truss | minecraft:crafting_shaped | c:nuggets/copper minecraft:crafting_shaped tfmg:copper_truss
+tfmg:crafting/materials/copycat_cable_block | minecraft:crafting_shaped | c:wires/copper minecraft:crafting_shaped tfmg:copycat_cable_block tfmg:nickel_truss
+tfmg:crafting/materials/crankshaft | minecraft:crafting_shaped | c:plates/aluminum minecraft:crafting_shaped tfmg:crankshaft tfmg:rebar
+tfmg:crafting/materials/cyan_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:cyan_dye tfmg:concrete tfmg:cyan_concrete
+tfmg:crafting/materials/cyan_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:cyan_dye tfmg:cyan_multimeter tfmg:multimeter
+tfmg:crafting/materials/cyan_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:cyan_dye tfmg:cyan_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/diagonal_cable_block | minecraft:crafting_shaped | c:nuggets/steel c:wires/copper minecraft:crafting_shaped tfmg:diagonal_cable_block tfmg:rubber_sheet
+tfmg:crafting/materials/electric_diode | minecraft:crafting_shaped | c:plates/cast_iron c:wires/copper create:industrial_iron_block minecraft:crafting_shaped tfmg:electric_diode tfmg:heavy_machinery_casing tfmg:n_semiconductor tfmg:p_semiconductor
+tfmg:crafting/materials/electric_post | minecraft:crafting_shaped | c:ingots/steel c:nuggets/steel c:wires/copper minecraft:crafting_shaped tfmg:electric_post
+tfmg:crafting/materials/electric_pump | minecraft:crafting_shaped | c:wires/copper minecraft:crafting_shaped tfmg:capacitor_item tfmg:circuit_board tfmg:electric_pump tfmg:electromagnetic_coil tfmg:magnet tfmg:steel_mechanical_pump
+tfmg:crafting/materials/electrical_switch | minecraft:crafting_shaped | c:dusts/redstone c:plates/lead minecraft:crafting_shaped tfmg:electric_post tfmg:electrical_switch tfmg:heavy_machinery_casing
+tfmg:crafting/materials/electricians_wrench | minecraft:crafting_shaped | c:plates/aluminum c:plates/steel minecraft:crafting_shaped tfmg:electricians_wrench tfmg:rebar tfmg:steel_cogwheel
+tfmg:crafting/materials/electrode_holder | minecraft:crafting_shaped | c:ingots/steel c:plates/lead c:wires/copper minecraft:crafting_shaped tfmg:electrode_holder tfmg:heavy_machinery_casing
+tfmg:crafting/materials/empty_circuit_board | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:green_dye tfmg:empty_circuit_board tfmg:plastic_sheet
+tfmg:crafting/materials/engine_gearbox | minecraft:crafting_shaped | create:shaft minecraft:crafting_shaped tfmg:engine_gearbox tfmg:screw tfmg:steel_casing tfmg:steel_mechanism
+tfmg:crafting/materials/exhaust | minecraft:crafting_shaped | c:ingots/cast_iron minecraft:crafting_shaped minecraft:iron_bars tfmg:cast_iron_pipe tfmg:exhaust
+tfmg:crafting/materials/fire_extinguisher | minecraft:crafting_shaped | c:ingots/steel c:nuggets/steel c:plates/aluminum minecraft:crafting_shaped minecraft:red_dye tfmg:carbon_dioxide_bucket tfmg:fire_extinguisher
+tfmg:crafting/materials/firebox | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:brass_pipe tfmg:firebox tfmg:fireproof_bricks tfmg:steel_fluid_tank
+tfmg:crafting/materials/fireclay | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:fireclay tfmg:fireclay_ball
+tfmg:crafting/materials/fireproof_brick_reinforcement | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:fireproof_brick_reinforcement tfmg:fireproof_bricks
+tfmg:crafting/materials/fireproof_bricks | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:fireproof_brick tfmg:fireproof_bricks
+tfmg:crafting/materials/fireproof_chemical_vat | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:circuit_board tfmg:fireproof_bricks tfmg:fireproof_chemical_vat tfmg:heavy_machinery_casing tfmg:rubber_sheet tfmg:steel_chemical_vat
+tfmg:crafting/materials/flarestack | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped minecraft:flint_and_steel minecraft:iron_bars tfmg:cast_iron_pipe tfmg:flarestack
+tfmg:crafting/materials/gas_lamp | minecraft:crafting_shaped | c:plates/cast_iron create:framed_glass minecraft:crafting_shaped tfmg:cast_iron_bars tfmg:gas_lamp tfmg:industrial_pipe
+tfmg:crafting/materials/glass_cable_insulator | minecraft:crafting_shaped | c:nuggets/copper c:nuggets/steel minecraft:crafting_shaped tfmg:glass_cable_insulator tfmg:glass_insulator_segment
+tfmg:crafting/materials/glass_insulator_segment | minecraft:crafting_shaped | c:nuggets/copper c:nuggets/steel minecraft:crafting_shaped minecraft:green_stained_glass_pane tfmg:glass_insulator_segment
+tfmg:crafting/materials/gray_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:gray_dye tfmg:concrete tfmg:gray_concrete
+tfmg:crafting/materials/gray_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:gray_dye tfmg:gray_multimeter tfmg:multimeter
+tfmg:crafting/materials/gray_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:gray_dye tfmg:gray_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/green_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:green_dye tfmg:concrete tfmg:green_concrete
+tfmg:crafting/materials/green_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:green_dye tfmg:green_multimeter tfmg:multimeter
+tfmg:crafting/materials/green_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:green_dye tfmg:green_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/heavy_cable_hub | minecraft:crafting_shaped | c:wires/copper minecraft:crafting_shaped tfmg:heavy_cable_hub tfmg:heavy_machinery_casing
+tfmg:crafting/materials/heavy_casing_door | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:wooden_doors tfmg:heavy_casing_door tfmg:heavy_machinery_casing
+tfmg:crafting/materials/heavy_plated_door | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped tfmg:heavy_plated_door
+tfmg:crafting/materials/industrial_mixer | minecraft:crafting_shaped | create:shaft minecraft:crafting_shaped tfmg:heavy_machinery_casing tfmg:industrial_mixer tfmg:large_steel_cogwheel tfmg:screw tfmg:steel_mechanism
+tfmg:crafting/materials/laminated_magnetic_alloy_block | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:laminated_magnetic_alloy_block tfmg:magnetic_alloy_sheet
+tfmg:crafting/materials/large_aluminum_cogwheel | minecraft:crafting_shapeless | c:ingots/aluminum create:shaft minecraft:crafting_shapeless tfmg:large_aluminum_cogwheel
+tfmg:crafting/materials/large_pumpjack_hammer_connector | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:large_pumpjack_hammer_connector tfmg:large_pumpjack_hammer_part tfmg:rebar
+tfmg:crafting/materials/large_pumpjack_hammer_head | minecraft:crafting_shaped | c:plates/steel c:storage_blocks/steel minecraft:crafting_shaped tfmg:large_pumpjack_hammer_head
+tfmg:crafting/materials/large_steel_cogwheel | minecraft:crafting_shapeless | create:shaft minecraft:crafting_shapeless tfmg:large_steel_cogwheel tfmg:steel_ingot
+tfmg:crafting/materials/large_switch | minecraft:crafting_shaped | c:plates/brass c:wires/copper minecraft:crafting_shaped tfmg:cable_connector tfmg:electric_post tfmg:large_switch tfmg:rebar tfmg:steel_cable_hub tfmg:steel_mechanism
+tfmg:crafting/materials/lead_axe | minecraft:crafting_shaped | c:ingots/lead minecraft:crafting_shaped minecraft:stick tfmg:lead_axe
+tfmg:crafting/materials/lead_block_from_compacting | minecraft:crafting_shaped | c:ingots/lead minecraft:crafting_shaped tfmg:lead_block
+tfmg:crafting/materials/lead_flywheel | minecraft:crafting_shaped | c:ingots/lead create:shaft minecraft:crafting_shaped tfmg:lead_flywheel
+tfmg:crafting/materials/lead_frame | minecraft:crafting_shaped | c:nuggets/lead minecraft:crafting_shaped tfmg:lead_frame
+tfmg:crafting/materials/lead_hoe | minecraft:crafting_shaped | c:ingots/lead minecraft:crafting_shaped minecraft:stick tfmg:lead_hoe
+tfmg:crafting/materials/lead_ingot_from_compacting | minecraft:crafting_shaped | c:nuggets/lead minecraft:crafting_shaped tfmg:lead_ingot
+tfmg:crafting/materials/lead_ingot_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/lead minecraft:crafting_shapeless tfmg:lead_ingot
+tfmg:crafting/materials/lead_nugget_from_decompacting | minecraft:crafting_shapeless | c:ingots/lead minecraft:crafting_shapeless tfmg:lead_nugget
+tfmg:crafting/materials/lead_pickaxe | minecraft:crafting_shaped | c:ingots/lead minecraft:crafting_shaped minecraft:stick tfmg:lead_pickaxe
+tfmg:crafting/materials/lead_shovel | minecraft:crafting_shaped | c:ingots/lead minecraft:crafting_shaped minecraft:stick tfmg:lead_shovel
+tfmg:crafting/materials/lead_sword | minecraft:crafting_shaped | c:ingots/lead minecraft:crafting_shaped minecraft:stick tfmg:lead_sword
+tfmg:crafting/materials/lead_truss | minecraft:crafting_shaped | c:nuggets/lead minecraft:crafting_shaped tfmg:lead_truss
+tfmg:crafting/materials/light_blue_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_blue_dye tfmg:concrete tfmg:light_blue_concrete
+tfmg:crafting/materials/light_blue_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:light_blue_dye tfmg:light_blue_multimeter tfmg:multimeter
+tfmg:crafting/materials/light_blue_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_blue_dye tfmg:light_blue_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/light_bulb | minecraft:crafting_shaped | c:nuggets/copper c:nuggets/steel create:framed_glass minecraft:crafting_shaped tfmg:constantan_wire tfmg:light_bulb
+tfmg:crafting/materials/light_gray_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_gray_dye tfmg:concrete tfmg:light_gray_concrete
+tfmg:crafting/materials/light_gray_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:light_gray_dye tfmg:light_gray_multimeter tfmg:multimeter
+tfmg:crafting/materials/light_gray_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:light_gray_dye tfmg:light_gray_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/lime_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:lime_dye tfmg:concrete tfmg:lime_concrete
+tfmg:crafting/materials/lime_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:lime_dye tfmg:lime_multimeter tfmg:multimeter
+tfmg:crafting/materials/lime_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:lime_dye tfmg:lime_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/lithium_blade | minecraft:crafting_shaped | c:plates/aluminum c:wires/copper minecraft:crafting_shaped tfmg:circuit_board tfmg:heavy_plate tfmg:lithium_blade tfmg:spark_plug tfmg:steel_sword
+tfmg:crafting/materials/lithium_block_from_compacting | minecraft:crafting_shaped | c:ingots/lithium minecraft:crafting_shaped tfmg:lithium_block
+tfmg:crafting/materials/lithium_charge | minecraft:crafting_shaped | c:ingots/lithium c:plates/aluminum minecraft:crafting_shaped tfmg:lithium_charge tfmg:plastic_sheet
+tfmg:crafting/materials/lithium_ingot_from_compacting | minecraft:crafting_shaped | c:nuggets/lithium minecraft:crafting_shaped tfmg:lithium_ingot
+tfmg:crafting/materials/lithium_ingot_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/lithium minecraft:crafting_shapeless tfmg:lithium_ingot
+tfmg:crafting/materials/lithium_nugget_from_decompacting | minecraft:crafting_shapeless | c:ingots/lithium minecraft:crafting_shapeless tfmg:lithium_nugget
+tfmg:crafting/materials/lithium_torch | minecraft:crafting_shaped | c:ingots/aluminum c:ingots/lithium minecraft:crafting_shaped tfmg:lithium_torch
+tfmg:crafting/materials/machine_input | minecraft:crafting_shaped | create:shaft minecraft:crafting_shaped tfmg:heavy_machinery_casing tfmg:machine_input tfmg:steel_mechanism
+tfmg:crafting/materials/magenta_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:magenta_dye tfmg:concrete tfmg:magenta_concrete
+tfmg:crafting/materials/magenta_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:magenta_dye tfmg:magenta_multimeter tfmg:multimeter
+tfmg:crafting/materials/magenta_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:magenta_dye tfmg:magenta_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/metal_smokestack | minecraft:crafting_shaped | c:nuggets/steel minecraft:crafting_shaped tfmg:industrial_pipe tfmg:metal_smokestack
+tfmg:crafting/materials/mixer_blade | minecraft:crafting_shaped | create:propeller create:shaft minecraft:crafting_shaped tfmg:heavy_plate tfmg:mixer_blade
+tfmg:crafting/materials/modern_light | minecraft:crafting_shaped | c:nuggets/steel create:framed_glass_pane minecraft:crafting_shaped tfmg:light_bulb tfmg:modern_light
+tfmg:crafting/materials/multimeter | minecraft:crafting_shaped | c:plates/brass c:wires/copper minecraft:crafting_shaped tfmg:multimeter tfmg:voltmeter
+tfmg:crafting/materials/napalm_bomb | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:napalm_bomb tfmg:napalm_bucket tfmg:plastic_sheet
+tfmg:crafting/materials/neon_tube | minecraft:crafting_shaped | c:nuggets/copper c:nuggets/steel create:framed_glass minecraft:crafting_shaped tfmg:neon_bucket tfmg:neon_tube
+tfmg:crafting/materials/nickel_block_from_compacting | minecraft:crafting_shaped | c:ingots/nickel minecraft:crafting_shaped tfmg:nickel_block
+tfmg:crafting/materials/nickel_flywheel | minecraft:crafting_shaped | c:ingots/nickel create:shaft minecraft:crafting_shaped tfmg:nickel_flywheel
+tfmg:crafting/materials/nickel_frame | minecraft:crafting_shaped | c:nuggets/nickel minecraft:crafting_shaped tfmg:nickel_frame
+tfmg:crafting/materials/nickel_ingot_from_compacting | minecraft:crafting_shaped | c:nuggets/nickel minecraft:crafting_shaped tfmg:nickel_ingot
+tfmg:crafting/materials/nickel_ingot_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/nickel minecraft:crafting_shapeless tfmg:nickel_ingot
+tfmg:crafting/materials/nickel_nugget_from_decompacting | minecraft:crafting_shapeless | c:ingots/nickel minecraft:crafting_shapeless tfmg:nickel_nugget
+tfmg:crafting/materials/nickel_truss | minecraft:crafting_shaped | c:nuggets/nickel minecraft:crafting_shaped tfmg:nickel_truss
+tfmg:crafting/materials/oil_can | minecraft:crafting_shaped | c:nuggets/steel c:plates/brass minecraft:crafting_shaped tfmg:oil_can
+tfmg:crafting/materials/oil_hammer | minecraft:crafting_shaped | c:ingots/steel c:plates/aluminum minecraft:crafting_shaped tfmg:oil_hammer tfmg:rebar
+tfmg:crafting/materials/orange_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:orange_dye tfmg:concrete tfmg:orange_concrete
+tfmg:crafting/materials/orange_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:orange_dye tfmg:multimeter tfmg:orange_multimeter
+tfmg:crafting/materials/orange_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:orange_dye tfmg:orange_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/pink_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:pink_dye tfmg:concrete tfmg:pink_concrete
+tfmg:crafting/materials/pink_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:pink_dye tfmg:multimeter tfmg:pink_multimeter
+tfmg:crafting/materials/pink_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:pink_dye tfmg:pink_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/pipe_bomb | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:tnt tfmg:pipe_bomb tfmg:steel_pipe
+tfmg:crafting/materials/plastic_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:plastic_block tfmg:plastic_sheet
+tfmg:crafting/materials/plastic_fluid_valve | minecraft:crafting_shapeless | c:plates/iron minecraft:crafting_shapeless tfmg:plastic_fluid_valve tfmg:plastic_pipe
+tfmg:crafting/materials/plastic_mechanical_pump | minecraft:crafting_shapeless | create:cogwheel minecraft:crafting_shapeless tfmg:plastic_mechanical_pump tfmg:plastic_pipe
+tfmg:crafting/materials/plastic_pipe | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:plastic_pipe tfmg:plastic_sheet
+tfmg:crafting/materials/plastic_pipe_vertical | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:plastic_pipe tfmg:plastic_sheet
+tfmg:crafting/materials/plastic_sheet | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:plastic_block tfmg:plastic_sheet
+tfmg:crafting/materials/plastic_smart_fluid_pipe | minecraft:crafting_shaped | c:plates/steel create:electron_tube minecraft:crafting_shaped tfmg:plastic_pipe tfmg:plastic_smart_fluid_pipe
+tfmg:crafting/materials/polarizer | minecraft:crafting_shaped | c:plates/brass c:wires/copper minecraft:crafting_shaped tfmg:capacitor_item tfmg:polarizer tfmg:resistor tfmg:steel_casing tfmg:voltmeter
+tfmg:crafting/materials/pumpjack_base | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped tfmg:heavy_machinery_casing tfmg:industrial_pipe tfmg:pumpjack_base tfmg:steel_fluid_tank tfmg:steel_mechanism tfmg:steel_pipe
+tfmg:crafting/materials/pumpjack_crank | minecraft:crafting_shaped | c:strings minecraft:crafting_shaped tfmg:heavy_machinery_casing tfmg:heavy_plate tfmg:pumpjack_crank tfmg:rebar tfmg:steel_mechanism
+tfmg:crafting/materials/pumpjack_hammer | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped tfmg:pumpjack_hammer tfmg:rebar tfmg:steel_truss
+tfmg:crafting/materials/pumpjack_hammer_connector | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:pumpjack_hammer_connector tfmg:pumpjack_hammer_part tfmg:rebar
+tfmg:crafting/materials/pumpjack_hammer_head | minecraft:crafting_shaped | c:plates/steel c:storage_blocks/steel minecraft:crafting_shaped tfmg:pumpjack_hammer_head
+tfmg:crafting/materials/purple_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:purple_dye tfmg:concrete tfmg:purple_concrete
+tfmg:crafting/materials/purple_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:purple_dye tfmg:multimeter tfmg:purple_multimeter
+tfmg:crafting/materials/purple_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:purple_dye tfmg:purple_rebar_concrete tfmg:rebar_concrete
+tfmg:crafting/materials/radial_engine | minecraft:crafting_shaped | c:ingots/steel c:nuggets/steel create:shaft minecraft:crafting_shaped tfmg:heavy_machinery_casing tfmg:radial_engine
+tfmg:crafting/materials/raw_lead | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:raw_lead tfmg:raw_lead_block
+tfmg:crafting/materials/raw_lead_block | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:raw_lead tfmg:raw_lead_block
+tfmg:crafting/materials/raw_lithium | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:raw_lithium tfmg:raw_lithium_block
+tfmg:crafting/materials/raw_lithium_block | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:raw_lithium tfmg:raw_lithium_block
+tfmg:crafting/materials/raw_nickel | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:raw_nickel tfmg:raw_nickel_block
+tfmg:crafting/materials/raw_nickel_block | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:raw_nickel tfmg:raw_nickel_block
+tfmg:crafting/materials/rebar | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:rebar tfmg:rebar_pile
+tfmg:crafting/materials/rebar_block | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:rebar tfmg:rebar_block
+tfmg:crafting/materials/rebar_floor | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:rebar tfmg:rebar_floor
+tfmg:crafting/materials/rebar_pile | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:rebar tfmg:rebar_pile
+tfmg:crafting/materials/rebar_pillar | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:rebar tfmg:rebar_pillar
+tfmg:crafting/materials/rebar_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:rebar tfmg:rebar_stairs
+tfmg:crafting/materials/rebar_wall | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:rebar tfmg:rebar_wall
+tfmg:crafting/materials/red_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_dye tfmg:concrete tfmg:red_concrete
+tfmg:crafting/materials/red_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:red_dye tfmg:multimeter tfmg:red_multimeter
+tfmg:crafting/materials/red_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_dye tfmg:rebar_concrete tfmg:red_rebar_concrete
+tfmg:crafting/materials/regular_engine | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped tfmg:heavy_machinery_casing tfmg:heavy_plate tfmg:regular_engine
+tfmg:crafting/materials/rusted_blast_furnace_reinforcement | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:water_bucket tfmg:blast_furnace_reinforcement tfmg:rusted_blast_furnace_reinforcement
+tfmg:crafting/materials/screwdriver | minecraft:crafting_shaped | c:ingots/aluminum minecraft:crafting_shaped tfmg:rebar tfmg:screwdriver
+tfmg:crafting/materials/screwdriverfrom_brass | minecraft:crafting_shaped | c:ingots/brass minecraft:crafting_shaped tfmg:rebar tfmg:screwdriver
+tfmg:crafting/materials/segmented_display | minecraft:crafting_shaped | c:wires/copper minecraft:black_stained_glass_pane minecraft:crafting_shaped tfmg:circuit_board tfmg:industrial_aluminum_casing tfmg:segmented_display tfmg:silicon_ingot
+tfmg:crafting/materials/steel_axe | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped minecraft:stick tfmg:steel_axe
+tfmg:crafting/materials/steel_block_from_compacting | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped tfmg:steel_block
+tfmg:crafting/materials/steel_cable_hub | minecraft:crafting_shaped | c:nuggets/steel c:wires/copper minecraft:crafting_shaped tfmg:steel_cable_hub
+tfmg:crafting/materials/steel_casing_cable_hub | minecraft:crafting_shaped | c:wires/copper minecraft:crafting_shaped tfmg:steel_casing tfmg:steel_casing_cable_hub
+tfmg:crafting/materials/steel_chemical_vat | minecraft:crafting_shaped | c:plates/nickel minecraft:crafting_shaped tfmg:heavy_plate tfmg:steel_chemical_vat tfmg:steel_fluid_tank
+tfmg:crafting/materials/steel_cogwheel | minecraft:crafting_shapeless | create:shaft minecraft:crafting_shapeless tfmg:steel_cogwheel tfmg:steel_ingot
+tfmg:crafting/materials/steel_distillation_controller | minecraft:crafting_shaped | c:plates/lead create:electron_tube minecraft:compass minecraft:crafting_shaped tfmg:heavy_machinery_casing tfmg:industrial_pipe tfmg:steel_distillation_controller tfmg:steel_mechanism
+tfmg:crafting/materials/steel_distillation_output | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:heavy_machinery_casing tfmg:steel_distillation_output tfmg:steel_fluid_tank tfmg:steel_pipe
+tfmg:crafting/materials/steel_door | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:wooden_doors tfmg:steel_casing tfmg:steel_door
+tfmg:crafting/materials/steel_fluid_tank | minecraft:crafting_shaped | minecraft:barrel minecraft:crafting_shaped tfmg:heavy_plate tfmg:steel_fluid_tank
+tfmg:crafting/materials/steel_fluid_valve | minecraft:crafting_shapeless | c:plates/iron minecraft:crafting_shapeless tfmg:steel_fluid_valve tfmg:steel_pipe
+tfmg:crafting/materials/steel_flywheel | minecraft:crafting_shaped | create:shaft minecraft:crafting_shaped tfmg:steel_flywheel tfmg:steel_ingot
+tfmg:crafting/materials/steel_frame | minecraft:crafting_shaped | c:nuggets/steel minecraft:crafting_shaped tfmg:steel_frame
+tfmg:crafting/materials/steel_gearbox | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:heavy_machinery_casing tfmg:steel_cogwheel tfmg:steel_gearbox
+tfmg:crafting/materials/steel_hoe | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped minecraft:stick tfmg:steel_hoe
+tfmg:crafting/materials/steel_ingot_from_compacting | minecraft:crafting_shaped | c:nuggets/steel minecraft:crafting_shaped tfmg:steel_ingot
+tfmg:crafting/materials/steel_ingot_from_decompacting | minecraft:crafting_shapeless | c:storage_blocks/steel minecraft:crafting_shapeless tfmg:steel_ingot
+tfmg:crafting/materials/steel_mechanical_pump | minecraft:crafting_shapeless | create:cogwheel minecraft:crafting_shapeless tfmg:steel_mechanical_pump tfmg:steel_pipe
+tfmg:crafting/materials/steel_nugget_from_decompacting | minecraft:crafting_shapeless | c:ingots/steel minecraft:crafting_shapeless tfmg:steel_nugget
+tfmg:crafting/materials/steel_pickaxe | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped minecraft:stick tfmg:steel_pickaxe
+tfmg:crafting/materials/steel_pipe | minecraft:crafting_shaped | c:ingots/steel c:plates/steel minecraft:crafting_shaped tfmg:steel_pipe
+tfmg:crafting/materials/steel_pipe_vertical | minecraft:crafting_shaped | c:ingots/steel c:plates/steel minecraft:crafting_shaped tfmg:steel_pipe
+tfmg:crafting/materials/steel_shovel | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped minecraft:stick tfmg:steel_shovel
+tfmg:crafting/materials/steel_smart_fluid_pipe | minecraft:crafting_shaped | c:plates/aluminum create:electron_tube minecraft:crafting_shaped tfmg:steel_pipe tfmg:steel_smart_fluid_pipe
+tfmg:crafting/materials/steel_sword | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped minecraft:stick tfmg:steel_sword
+tfmg:crafting/materials/steel_trapdoor | minecraft:crafting_shaped | c:ingots/steel minecraft:crafting_shaped tfmg:steel_trapdoor
+tfmg:crafting/materials/steel_truss | minecraft:crafting_shaped | c:nuggets/steel minecraft:crafting_shaped tfmg:steel_truss
+tfmg:crafting/materials/surface_scanner | minecraft:crafting_shaped | create:electron_tube minecraft:crafting_shaped tfmg:heavy_machinery_casing tfmg:steel_mechanism tfmg:surface_scanner
+tfmg:crafting/materials/thermite_grenade | minecraft:crafting_shaped | c:ingots/aluminum minecraft:crafting_shaped tfmg:thermite_grenade tfmg:thermite_powder
+tfmg:crafting/materials/traffic_light | minecraft:crafting_shaped | c:wires/copper minecraft:crafting_shaped minecraft:green_stained_glass_pane minecraft:orange_stained_glass_pane minecraft:red_stained_glass_pane tfmg:circuit_board tfmg:heavy_machinery_casing tfmg:light_bulb tfmg:traffic_light
+tfmg:crafting/materials/transformer | minecraft:crafting_shaped | c:plates/nickel c:wires/copper minecraft:crafting_shaped tfmg:magnetic_alloy_sheet tfmg:steel_casing tfmg:transformer
+tfmg:crafting/materials/transmission | minecraft:crafting_shaped | c:plates/aluminum minecraft:crafting_shaped tfmg:aluminum_cogwheel tfmg:plastic_sheet tfmg:steel_mechanism tfmg:transmission
+tfmg:crafting/materials/turbine_engine | minecraft:crafting_shaped | c:plates/steel minecraft:crafting_shaped tfmg:aluminum_pipe tfmg:heavy_machinery_casing tfmg:turbine_engine
+tfmg:crafting/materials/turbo | minecraft:crafting_shaped | create:propeller minecraft:crafting_shaped tfmg:aluminum_pipe tfmg:steel_bars tfmg:turbo
+tfmg:crafting/materials/unfinished_electromagnetic_coil | minecraft:crafting_shaped | c:nuggets/steel minecraft:crafting_shaped tfmg:magnetic_alloy_ingot tfmg:unfinished_electromagnetic_coil
+tfmg:crafting/materials/unfinished_resistor | minecraft:crafting_shaped | c:wires/copper minecraft:crafting_shaped tfmg:plastic_sheet tfmg:unfinished_resistor
+tfmg:crafting/materials/unfinished_resistorfrom_slime | minecraft:crafting_shaped | c:wires/copper minecraft:crafting_shaped minecraft:slime_ball tfmg:unfinished_resistor
+tfmg:crafting/materials/voltage_observer | minecraft:crafting_shaped | c:dusts/redstone c:wires/copper minecraft:crafting_shaped tfmg:capacitor_item tfmg:industrial_aluminum_casing tfmg:transistor_item tfmg:voltage_observer
+tfmg:crafting/materials/voltmeter | minecraft:crafting_shaped | c:ingots/steel c:nuggets/steel minecraft:compass minecraft:crafting_shaped tfmg:magnet tfmg:voltmeter
+tfmg:crafting/materials/white_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:white_dye tfmg:concrete tfmg:white_concrete
+tfmg:crafting/materials/white_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:white_dye tfmg:multimeter tfmg:white_multimeter
+tfmg:crafting/materials/white_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:white_dye tfmg:rebar_concrete tfmg:white_rebar_concrete
+tfmg:crafting/materials/winding_machine | minecraft:crafting_shaped | c:ingots/steel create:shaft minecraft:crafting_shaped tfmg:heavy_machinery_casing tfmg:heavy_plate tfmg:steel_mechanism tfmg:winding_machine
+tfmg:crafting/materials/yellow_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:yellow_dye tfmg:concrete tfmg:yellow_concrete
+tfmg:crafting/materials/yellow_multimeter | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:yellow_dye tfmg:multimeter tfmg:yellow_multimeter
+tfmg:crafting/materials/yellow_rebar_concrete | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:yellow_dye tfmg:rebar_concrete tfmg:yellow_rebar_concrete
+tfmg:crafting/materials/zinc_frame | minecraft:crafting_shaped | c:nuggets/zinc minecraft:crafting_shaped tfmg:zinc_frame
+tfmg:crafting/materials/zinc_grenade | minecraft:crafting_shaped | c:ingots/zinc minecraft:crafting_shaped tfmg:thermite_grenade tfmg:zinc_grenade
+tfmg:crafting/materials/zinc_truss | minecraft:crafting_shaped | c:nuggets/zinc minecraft:crafting_shaped tfmg:zinc_truss
+tfmg:cut_bauxite_brick_slab | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_bauxite_brick_slab tfmg:cut_bauxite_bricks
+tfmg:cut_bauxite_brick_slab_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_bauxite_brick_slab tfmg:stone_types/bauxite
+tfmg:cut_bauxite_brick_slab_recycling | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:cut_bauxite_brick_slab tfmg:cut_bauxite_bricks
+tfmg:cut_bauxite_brick_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_bauxite_brick_stairs tfmg:cut_bauxite_bricks
+tfmg:cut_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_bauxite_brick_stairs tfmg:stone_types/bauxite
+tfmg:cut_bauxite_brick_wall | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_bauxite_brick_wall tfmg:cut_bauxite_bricks
+tfmg:cut_bauxite_brick_wall_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_bauxite_brick_wall tfmg:stone_types/bauxite
+tfmg:cut_bauxite_bricks_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_bauxite_bricks tfmg:stone_types/bauxite
+tfmg:cut_bauxite_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_bauxite tfmg:stone_types/bauxite
+tfmg:cut_bauxite_slab | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_bauxite tfmg:cut_bauxite_slab
+tfmg:cut_bauxite_slab_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_bauxite_slab tfmg:stone_types/bauxite
+tfmg:cut_bauxite_slab_recycling | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:cut_bauxite tfmg:cut_bauxite_slab
+tfmg:cut_bauxite_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_bauxite tfmg:cut_bauxite_stairs
+tfmg:cut_bauxite_stairs_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_bauxite_stairs tfmg:stone_types/bauxite
+tfmg:cut_bauxite_wall | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_bauxite tfmg:cut_bauxite_wall
+tfmg:cut_bauxite_wall_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_bauxite_wall tfmg:stone_types/bauxite
+tfmg:cut_galena_brick_slab | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_galena_brick_slab tfmg:cut_galena_bricks
+tfmg:cut_galena_brick_slab_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_galena_brick_slab tfmg:stone_types/galena
+tfmg:cut_galena_brick_slab_recycling | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:cut_galena_brick_slab tfmg:cut_galena_bricks
+tfmg:cut_galena_brick_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_galena_brick_stairs tfmg:cut_galena_bricks
+tfmg:cut_galena_brick_stairs_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_galena_brick_stairs tfmg:stone_types/galena
+tfmg:cut_galena_brick_wall | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_galena_brick_wall tfmg:cut_galena_bricks
+tfmg:cut_galena_brick_wall_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_galena_brick_wall tfmg:stone_types/galena
+tfmg:cut_galena_bricks_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_galena_bricks tfmg:stone_types/galena
+tfmg:cut_galena_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_galena tfmg:stone_types/galena
+tfmg:cut_galena_slab | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_galena tfmg:cut_galena_slab
+tfmg:cut_galena_slab_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_galena_slab tfmg:stone_types/galena
+tfmg:cut_galena_slab_recycling | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:cut_galena tfmg:cut_galena_slab
+tfmg:cut_galena_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_galena tfmg:cut_galena_stairs
+tfmg:cut_galena_stairs_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_galena_stairs tfmg:stone_types/galena
+tfmg:cut_galena_wall | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:cut_galena tfmg:cut_galena_wall
+tfmg:cut_galena_wall_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cut_galena_wall tfmg:stone_types/galena
+tfmg:cyan_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:cyan_caution_block
+tfmg:cyan_concrete_slab_from_cyan_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cyan_concrete tfmg:cyan_concrete_slab
+tfmg:cyan_concrete_stairs_from_cyan_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cyan_concrete tfmg:cyan_concrete_stairs
+tfmg:cyan_concrete_wall_from_cyan_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cyan_concrete tfmg:cyan_concrete_wall
+tfmg:cyan_rebar_concrete_slab_from_cyan_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cyan_rebar_concrete tfmg:cyan_rebar_concrete_slab
+tfmg:cyan_rebar_concrete_stairs_from_cyan_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cyan_rebar_concrete tfmg:cyan_rebar_concrete_stairs
+tfmg:cyan_rebar_concrete_wall_from_cyan_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:cyan_rebar_concrete tfmg:cyan_rebar_concrete_wall
+tfmg:deploying/coated_circuit_board | create:deploying | c:plates/gold create:deploying tfmg:coated_circuit_board tfmg:empty_circuit_board
+tfmg:distillation/crude_oil | tfmg:distillation | neoforge:single tfmg:crude_oil tfmg:diesel tfmg:distillation tfmg:gasoline tfmg:heavy_oil tfmg:kerosene tfmg:lpg tfmg:naphtha
+tfmg:distillation/crude_oil_light_distillation | tfmg:distillation | neoforge:single tfmg:crude_oil tfmg:diesel tfmg:distillation tfmg:gasoline tfmg:heavy_oil
+tfmg:distillation/crude_oil_no_naphtha | tfmg:distillation | neoforge:single tfmg:crude_oil tfmg:diesel tfmg:distillation tfmg:gasoline tfmg:heavy_oil tfmg:kerosene tfmg:lpg
+tfmg:distillation/heavy_oil | tfmg:distillation | neoforge:single tfmg:diesel tfmg:distillation tfmg:heavy_oil tfmg:kerosene tfmg:lubrication_oil tfmg:naphtha
+tfmg:distillation/heavy_oil_light_distillation | tfmg:distillation | neoforge:single tfmg:diesel tfmg:distillation tfmg:heavy_oil tfmg:lubrication_oil
+tfmg:distillation/heavy_oil_no_naphtha | tfmg:distillation | neoforge:single tfmg:diesel tfmg:distillation tfmg:heavy_oil tfmg:kerosene tfmg:lubrication_oil
+tfmg:empty_spool_from_hardened_planks_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:empty_spool tfmg:hardened_planks
+tfmg:engine_cylinder | minecraft:crafting_shaped | c:diesel c:plates/aluminum minecraft:crafting_shaped tfmg:diesel_engine_cylinder
+tfmg:engine_cylinder_cheap | minecraft:crafting_shaped | c:creosote c:furnace_gas c:plates/iron minecraft:crafting_shaped minecraft:flint_and_steel tfmg:simple_engine_cylinder
+tfmg:engine_cylinder_gas | minecraft:crafting_shaped | c:lpg minecraft:crafting_shaped tfmg:brass_pipe tfmg:engine_cylinder
+tfmg:engine_cylinder_spark_plug | minecraft:crafting_shaped | c:gasoline c:kerosene c:naphtha minecraft:crafting_shaped tfmg:diesel_engine_cylinder tfmg:engine_cylinder tfmg:spark_plug
+tfmg:factory_floor_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:factory_floor
+tfmg:filling/air_tank | create:filling | create:filling minecraft:bucket neoforge:single tfmg:air tfmg:air_bucket
+tfmg:filling/carbon_dioxide_tank | create:filling | create:filling minecraft:bucket neoforge:single tfmg:carbon_dioxide tfmg:carbon_dioxide_bucket
+tfmg:filling/ethylene_tank | create:filling | create:filling minecraft:bucket neoforge:single tfmg:ethylene tfmg:ethylene_bucket
+tfmg:filling/filled_fire_extinguisher | create:filling | create:filling neoforge:single tfmg:carbon_dioxide tfmg:fire_extinguisher
+tfmg:filling/furnace_gas_tank | create:filling | create:filling minecraft:bucket neoforge:single tfmg:furnace_gas tfmg:furnace_gas_bucket
+tfmg:filling/hardened_planks | create:filling | create:filling minecraft:planks neoforge:single tfmg:creosote tfmg:hardened_planks
+tfmg:filling/hot_air_tank | create:filling | create:filling minecraft:bucket neoforge:single tfmg:hot_air tfmg:hot_air_bucket
+tfmg:filling/hydrogen_tank | create:filling | create:filling minecraft:bucket neoforge:single tfmg:hydrogen tfmg:hydrogen_bucket
+tfmg:filling/lpg_tank | create:filling | create:filling minecraft:bucket neoforge:single tfmg:lpg tfmg:lpg_bucket
+tfmg:filling/napalm_potato | create:filling | create:filling minecraft:potato neoforge:single tfmg:napalm tfmg:napalm_potato
+tfmg:filling/neon_tank | create:filling | create:filling minecraft:bucket neoforge:single tfmg:neon tfmg:neon_bucket
+tfmg:filling/propylene_tank | create:filling | create:filling minecraft:bucket neoforge:single tfmg:propylene tfmg:propylene_bucket
+tfmg:galena_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:galena tfmg:stone_types/galena
+tfmg:galena_pillar_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:galena_pillar tfmg:stone_types/galena
+tfmg:graphite_electrode_from_storage_blocks_coal_coke_stonecutting | minecraft:stonecutting | c:storage_blocks/coal_coke minecraft:stonecutting tfmg:graphite_electrode
+tfmg:gray_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:gray_caution_block
+tfmg:gray_concrete_slab_from_gray_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:gray_concrete tfmg:gray_concrete_slab
+tfmg:gray_concrete_stairs_from_gray_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:gray_concrete tfmg:gray_concrete_stairs
+tfmg:gray_concrete_wall_from_gray_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:gray_concrete tfmg:gray_concrete_wall
+tfmg:gray_rebar_concrete_slab_from_gray_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:gray_rebar_concrete tfmg:gray_rebar_concrete_slab
+tfmg:gray_rebar_concrete_stairs_from_gray_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:gray_rebar_concrete tfmg:gray_rebar_concrete_stairs
+tfmg:gray_rebar_concrete_wall_from_gray_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:gray_rebar_concrete tfmg:gray_rebar_concrete_wall
+tfmg:green_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:green_caution_block
+tfmg:green_concrete_slab_from_green_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:green_concrete tfmg:green_concrete_slab
+tfmg:green_concrete_stairs_from_green_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:green_concrete tfmg:green_concrete_stairs
+tfmg:green_concrete_wall_from_green_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:green_concrete tfmg:green_concrete_wall
+tfmg:green_rebar_concrete_slab_from_green_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:green_rebar_concrete tfmg:green_rebar_concrete_slab
+tfmg:green_rebar_concrete_stairs_from_green_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:green_rebar_concrete tfmg:green_rebar_concrete_stairs
+tfmg:green_rebar_concrete_wall_from_green_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:green_rebar_concrete tfmg:green_rebar_concrete_wall
+tfmg:hot_blast/hot_air | tfmg:hot_blast | neoforge:single neoforge:tag tfmg:air tfmg:blast_stove_fuel tfmg:carbon_dioxide tfmg:hot_air tfmg:hot_blast
+tfmg:industrial_blasting/silicon | tfmg:industrial_blasting | minecraft:quartz tfmg:industrial_blasting tfmg:liquid_silicon
+tfmg:industrial_blasting/steel | tfmg:industrial_blasting | create:crushed_raw_iron tfmg:flux tfmg:furnace_gas tfmg:industrial_blasting tfmg:molten_slag tfmg:molten_steel
+tfmg:industrial_blasting/steel_from_dust | tfmg:industrial_blasting | c:dusts/iron tfmg:flux tfmg:furnace_gas tfmg:industrial_blasting tfmg:molten_slag tfmg:molten_steel
+tfmg:industrial_blasting/steel_from_raw_iron | tfmg:industrial_blasting | minecraft:raw_iron tfmg:flux tfmg:furnace_gas tfmg:industrial_blasting tfmg:molten_slag tfmg:molten_steel
+tfmg:industrial_pipe_from_ingots_steel_stonecutting | minecraft:stonecutting | c:ingots/steel minecraft:stonecutting tfmg:industrial_pipe
+tfmg:item_application/aluminum_casing | create:item_application | c:plates/aluminum create:item_application tfmg:industrial_aluminum_casing tfmg:steel_casing
+tfmg:item_application/heavy_machinery_casing | create:item_application | c:plates/steel create:item_application tfmg:heavy_machinery_casing tfmg:steel_casing
+tfmg:item_application/steel_casing | create:item_application | c:ingots/steel create:item_application tfmg:hardened_planks tfmg:steel_casing
+tfmg:large_pumpjack_hammer_part_from_storage_blocks_steel_stonecutting | minecraft:stonecutting | c:storage_blocks/steel minecraft:stonecutting tfmg:large_pumpjack_hammer_part
+tfmg:layered_bauxite_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:layered_bauxite tfmg:stone_types/bauxite
+tfmg:layered_galena_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:layered_galena tfmg:stone_types/galena
+tfmg:lead_bars_from_ingots_lead_stonecutting | minecraft:stonecutting | c:ingots/lead minecraft:stonecutting tfmg:lead_bars
+tfmg:lead_ladder_from_ingots_lead_stonecutting | minecraft:stonecutting | c:ingots/lead minecraft:stonecutting tfmg:lead_ladder
+tfmg:light_blue_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:light_blue_caution_block
+tfmg:light_blue_concrete_slab_from_light_blue_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_blue_concrete tfmg:light_blue_concrete_slab
+tfmg:light_blue_concrete_stairs_from_light_blue_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_blue_concrete tfmg:light_blue_concrete_stairs
+tfmg:light_blue_concrete_wall_from_light_blue_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_blue_concrete tfmg:light_blue_concrete_wall
+tfmg:light_blue_rebar_concrete_slab_from_light_blue_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_blue_rebar_concrete tfmg:light_blue_rebar_concrete_slab
+tfmg:light_blue_rebar_concrete_stairs_from_light_blue_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_blue_rebar_concrete tfmg:light_blue_rebar_concrete_stairs
+tfmg:light_blue_rebar_concrete_wall_from_light_blue_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_blue_rebar_concrete tfmg:light_blue_rebar_concrete_wall
+tfmg:light_gray_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:light_gray_caution_block
+tfmg:light_gray_concrete_slab_from_light_gray_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_gray_concrete tfmg:light_gray_concrete_slab
+tfmg:light_gray_concrete_stairs_from_light_gray_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_gray_concrete tfmg:light_gray_concrete_stairs
+tfmg:light_gray_concrete_wall_from_light_gray_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_gray_concrete tfmg:light_gray_concrete_wall
+tfmg:light_gray_rebar_concrete_slab_from_light_gray_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_gray_rebar_concrete tfmg:light_gray_rebar_concrete_slab
+tfmg:light_gray_rebar_concrete_stairs_from_light_gray_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_gray_rebar_concrete tfmg:light_gray_rebar_concrete_stairs
+tfmg:light_gray_rebar_concrete_wall_from_light_gray_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:light_gray_rebar_concrete tfmg:light_gray_rebar_concrete_wall
+tfmg:lime_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:lime_caution_block
+tfmg:lime_concrete_slab_from_lime_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:lime_concrete tfmg:lime_concrete_slab
+tfmg:lime_concrete_stairs_from_lime_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:lime_concrete tfmg:lime_concrete_stairs
+tfmg:lime_concrete_wall_from_lime_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:lime_concrete tfmg:lime_concrete_wall
+tfmg:lime_rebar_concrete_slab_from_lime_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:lime_rebar_concrete tfmg:lime_rebar_concrete_slab
+tfmg:lime_rebar_concrete_stairs_from_lime_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:lime_rebar_concrete tfmg:lime_rebar_concrete_stairs
+tfmg:lime_rebar_concrete_wall_from_lime_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:lime_rebar_concrete tfmg:lime_rebar_concrete_wall
+tfmg:magenta_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:magenta_caution_block
+tfmg:magenta_concrete_slab_from_magenta_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:magenta_concrete tfmg:magenta_concrete_slab
+tfmg:magenta_concrete_stairs_from_magenta_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:magenta_concrete tfmg:magenta_concrete_stairs
+tfmg:magenta_concrete_wall_from_magenta_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:magenta_concrete tfmg:magenta_concrete_wall
+tfmg:magenta_rebar_concrete_slab_from_magenta_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:magenta_rebar_concrete tfmg:magenta_rebar_concrete_slab
+tfmg:magenta_rebar_concrete_stairs_from_magenta_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:magenta_rebar_concrete tfmg:magenta_rebar_concrete_stairs
+tfmg:magenta_rebar_concrete_wall_from_magenta_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:magenta_rebar_concrete tfmg:magenta_rebar_concrete_wall
+tfmg:mechanical_crafting/advanced_potato_cannon | create:mechanical_crafting | create:mechanical_crafting tfmg:advanced_potato_cannon tfmg:circuit_board tfmg:rebar tfmg:steel_fluid_tank tfmg:steel_mechanism tfmg:steel_pipe
+tfmg:mechanical_crafting/engine_controller | create:mechanical_crafting | c:wires/copper create:mechanical_crafting create:shaft tfmg:circuit_board tfmg:engine_controller tfmg:heavy_machinery_casing tfmg:rubber_sheet tfmg:steel_mechanism tfmg:voltmeter
+tfmg:mechanical_crafting/flamethrower | create:mechanical_crafting | c:ingots/steel c:wires/copper create:mechanical_crafting tfmg:aluminum_bars tfmg:circuit_board tfmg:flamethrower tfmg:spark_plug tfmg:steel_fluid_tank tfmg:steel_mechanism tfmg:steel_pipe
+tfmg:mechanical_crafting/large_engine | create:mechanical_crafting | c:ingots/aluminum c:ingots/steel c:plates/aluminum create:mechanical_crafting tfmg:heavy_machinery_casing tfmg:heavy_plate tfmg:large_engine tfmg:steel_fluid_tank tfmg:steel_mechanism
+tfmg:mechanical_crafting/quad_potato_cannon | create:mechanical_crafting | c:ingots/cast_iron c:ingots/steel create:mechanical_crafting tfmg:quad_potato_cannon tfmg:steel_mechanism tfmg:steel_pipe
+tfmg:mechanical_crafting/rotor | create:mechanical_crafting | c:ingots/aluminum c:storage_blocks/steel create:mechanical_crafting tfmg:electromagnetic_coil tfmg:rotor
+tfmg:mechanical_crafting/simple_large_engine | create:mechanical_crafting | c:ingots/cast_iron c:plates/steel create:mechanical_crafting create:precision_mechanism tfmg:simple_large_engine
+tfmg:mechanical_crafting/spark_plug | create:mechanical_crafting | c:ingots/aluminum create:mechanical_crafting minecraft:flint tfmg:spark_plug
+tfmg:mechanical_crafting/stator | create:mechanical_crafting | c:plates/aluminum c:storage_blocks/steel c:wires/copper create:mechanical_crafting tfmg:electromagnetic_coil tfmg:magnet tfmg:stator
+tfmg:mixing/asphalt_mixture | create:mixing | create:mixing minecraft:gravel minecraft:sand tfmg:asphalt_mixture tfmg:bitumen
+tfmg:mixing/asphalt_mixture_from_slag | create:mixing | create:mixing minecraft:gravel tfmg:asphalt_mixture tfmg:bitumen tfmg:slag
+tfmg:mixing/cement | create:mixing | create:mixing minecraft:clay_ball tfmg:cement tfmg:limesand
+tfmg:mixing/concrete_mixture | create:mixing | create:mixing minecraft:gravel minecraft:sand tfmg:cement tfmg:concrete_mixture
+tfmg:mixing/concrete_mixture_from_slag | create:mixing | create:mixing minecraft:gravel tfmg:cement tfmg:concrete_mixture tfmg:slag
+tfmg:mixing/constantan | create:mixing | c:ingots/nickel create:mixing minecraft:copper_ingot tfmg:constantan_ingot
+tfmg:mixing/cooling_fluid | create:mixing | create:mixing minecraft:water neoforge:single tfmg:cooling_fluid tfmg:ethylene
+tfmg:mixing/copper_sulfate | create:mixing | create:mixing minecraft:copper_ingot neoforge:single tfmg:copper_sulfate tfmg:sulfuric_acid
+tfmg:mixing/gunpowder | create:mixing | create:mixing minecraft:charcoal minecraft:gunpowder tfmg:nitrate_dust tfmg:sulfur_dust
+tfmg:mixing/liquid_asphalt | create:mixing | create:mixing minecraft:water neoforge:single tfmg:asphalt_mixture tfmg:liquid_asphalt
+tfmg:mixing/liquid_concrete | create:mixing | create:mixing minecraft:water neoforge:single tfmg:concrete_mixture tfmg:liquid_concrete
+tfmg:mixing/magnetic_alloy | create:mixing | c:ingots/nickel c:ingots/steel create:mixing tfmg:magnetic_alloy_ingot tfmg:silicon_ingot
+tfmg:mixing/n_semiconductor | create:mixing | create:mixing tfmg:n_semiconductor tfmg:silicon_ingot tfmg:sulfur_dust
+tfmg:mixing/napalm | create:mixing | c:ingots/aluminum create:mixing neoforge:single tfmg:gasoline tfmg:napalm
+tfmg:mixing/p_semiconductor | create:mixing | c:ingots/aluminum create:mixing tfmg:p_semiconductor tfmg:silicon_ingot
+tfmg:mixing/thermite | create:mixing | c:ingots/aluminum create:crimsite create:mixing tfmg:thermite_powder
+tfmg:nickel_bars_from_ingots_nickel_stonecutting | minecraft:stonecutting | c:ingots/nickel minecraft:stonecutting tfmg:nickel_bars
+tfmg:nickel_ladder_from_ingots_nickel_stonecutting | minecraft:stonecutting | c:ingots/nickel minecraft:stonecutting tfmg:nickel_ladder
+tfmg:orange_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:orange_caution_block
+tfmg:orange_concrete_slab_from_orange_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:orange_concrete tfmg:orange_concrete_slab
+tfmg:orange_concrete_stairs_from_orange_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:orange_concrete tfmg:orange_concrete_stairs
+tfmg:orange_concrete_wall_from_orange_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:orange_concrete tfmg:orange_concrete_wall
+tfmg:orange_rebar_concrete_slab_from_orange_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:orange_rebar_concrete tfmg:orange_rebar_concrete_slab
+tfmg:orange_rebar_concrete_stairs_from_orange_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:orange_rebar_concrete tfmg:orange_rebar_concrete_stairs
+tfmg:orange_rebar_concrete_wall_from_orange_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:orange_rebar_concrete tfmg:orange_rebar_concrete_wall
+tfmg:pink_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:pink_caution_block
+tfmg:pink_concrete_slab_from_pink_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:pink_concrete tfmg:pink_concrete_slab
+tfmg:pink_concrete_stairs_from_pink_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:pink_concrete tfmg:pink_concrete_stairs
+tfmg:pink_concrete_wall_from_pink_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:pink_concrete tfmg:pink_concrete_wall
+tfmg:pink_rebar_concrete_slab_from_pink_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:pink_rebar_concrete tfmg:pink_rebar_concrete_slab
+tfmg:pink_rebar_concrete_stairs_from_pink_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:pink_rebar_concrete tfmg:pink_rebar_concrete_stairs
+tfmg:pink_rebar_concrete_wall_from_pink_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:pink_rebar_concrete tfmg:pink_rebar_concrete_wall
+tfmg:polarizing/magnet | tfmg:polarizing | tfmg:magnet tfmg:magnetic_alloy_ingot tfmg:polarizing
+tfmg:polished_cut_bauxite_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:polished_cut_bauxite tfmg:stone_types/bauxite
+tfmg:polished_cut_bauxite_slab | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:polished_cut_bauxite tfmg:polished_cut_bauxite_slab
+tfmg:polished_cut_bauxite_slab_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:polished_cut_bauxite_slab tfmg:stone_types/bauxite
+tfmg:polished_cut_bauxite_slab_recycling | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:polished_cut_bauxite tfmg:polished_cut_bauxite_slab
+tfmg:polished_cut_bauxite_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:polished_cut_bauxite tfmg:polished_cut_bauxite_stairs
+tfmg:polished_cut_bauxite_stairs_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:polished_cut_bauxite_stairs tfmg:stone_types/bauxite
+tfmg:polished_cut_bauxite_wall | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:polished_cut_bauxite tfmg:polished_cut_bauxite_wall
+tfmg:polished_cut_bauxite_wall_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:polished_cut_bauxite_wall tfmg:stone_types/bauxite
+tfmg:polished_cut_galena_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:polished_cut_galena tfmg:stone_types/galena
+tfmg:polished_cut_galena_slab | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:polished_cut_galena tfmg:polished_cut_galena_slab
+tfmg:polished_cut_galena_slab_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:polished_cut_galena_slab tfmg:stone_types/galena
+tfmg:polished_cut_galena_slab_recycling | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:polished_cut_galena tfmg:polished_cut_galena_slab
+tfmg:polished_cut_galena_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:polished_cut_galena tfmg:polished_cut_galena_stairs
+tfmg:polished_cut_galena_stairs_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:polished_cut_galena_stairs tfmg:stone_types/galena
+tfmg:polished_cut_galena_wall | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:polished_cut_galena tfmg:polished_cut_galena_wall
+tfmg:polished_cut_galena_wall_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:polished_cut_galena_wall tfmg:stone_types/galena
+tfmg:pressing/aluminum_ingot | create:pressing | c:ingots/aluminum create:pressing tfmg:aluminum_sheet
+tfmg:pressing/cast_iron_ingot | create:pressing | c:ingots/cast_iron create:pressing tfmg:cast_iron_sheet
+tfmg:pressing/lead_ingot | create:pressing | c:ingots/lead create:pressing tfmg:lead_sheet
+tfmg:pressing/magnetic_alloy_ingot | create:pressing | create:pressing tfmg:magnetic_alloy_ingot tfmg:magnetic_alloy_sheet
+tfmg:pressing/nickel_ingot | create:pressing | c:ingots/nickel create:pressing tfmg:nickel_sheet
+tfmg:pressing/synthetic_leather | create:pressing | create:pressing tfmg:rubber_sheet tfmg:synthetic_leather
+tfmg:pumpjack_hammer_part_from_storage_blocks_steel_stonecutting | minecraft:stonecutting | c:storage_blocks/steel minecraft:stonecutting tfmg:pumpjack_hammer_part
+tfmg:purple_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:purple_caution_block
+tfmg:purple_concrete_slab_from_purple_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:purple_concrete tfmg:purple_concrete_slab
+tfmg:purple_concrete_stairs_from_purple_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:purple_concrete tfmg:purple_concrete_stairs
+tfmg:purple_concrete_wall_from_purple_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:purple_concrete tfmg:purple_concrete_wall
+tfmg:purple_rebar_concrete_slab_from_purple_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:purple_rebar_concrete tfmg:purple_rebar_concrete_slab
+tfmg:purple_rebar_concrete_stairs_from_purple_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:purple_rebar_concrete tfmg:purple_rebar_concrete_stairs
+tfmg:purple_rebar_concrete_wall_from_purple_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:purple_rebar_concrete tfmg:purple_rebar_concrete_wall
+tfmg:rebar_concrete_slab_from_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:rebar_concrete tfmg:rebar_concrete_slab
+tfmg:rebar_concrete_stairs_from_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:rebar_concrete tfmg:rebar_concrete_stairs
+tfmg:rebar_concrete_wall_from_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:rebar_concrete tfmg:rebar_concrete_wall
+tfmg:rebar_from_ingots_steel_stonecutting | minecraft:stonecutting | c:ingots/steel minecraft:stonecutting tfmg:rebar
+tfmg:red_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:red_caution_block
+tfmg:red_concrete_slab_from_red_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:red_concrete tfmg:red_concrete_slab
+tfmg:red_concrete_stairs_from_red_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:red_concrete tfmg:red_concrete_stairs
+tfmg:red_concrete_wall_from_red_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:red_concrete tfmg:red_concrete_wall
+tfmg:red_rebar_concrete_slab_from_red_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:red_rebar_concrete tfmg:red_rebar_concrete_slab
+tfmg:red_rebar_concrete_stairs_from_red_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:red_rebar_concrete tfmg:red_rebar_concrete_stairs
+tfmg:red_rebar_concrete_wall_from_red_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:red_rebar_concrete tfmg:red_rebar_concrete_wall
+tfmg:screw_from_ingots_steel_stonecutting | minecraft:stonecutting | c:ingots/steel minecraft:stonecutting tfmg:screw
+tfmg:sequenced_assembly/capacitor | create:sequenced_assembly | c:plates/copper c:plates/steel create:deploying create:sequenced_assembly minecraft:paper tfmg:capacitor_item tfmg:unfinished_capacitor
+tfmg:sequenced_assembly/generator | create:sequenced_assembly | c:plates/steel create:deploying create:sequenced_assembly create:shaft tfmg:capacitor_item tfmg:copper_spool tfmg:generator tfmg:magnet tfmg:screwdriver tfmg:steel_casing tfmg:steel_cogwheel tfmg:steel_mechanism tfmg:unfinished_generator tfmg:winding
+tfmg:sequenced_assembly/heavy_plate | create:sequenced_assembly | c:ingots/steel create:pressing create:sequenced_assembly tfmg:heavy_plate tfmg:unprocessed_heavy_plate
+tfmg:sequenced_assembly/motor | create:sequenced_assembly | create:deploying create:sequenced_assembly create:shaft tfmg:copper_spool tfmg:electric_motor tfmg:magnet tfmg:nickel_sheet tfmg:screwdriver tfmg:steel_casing tfmg:steel_mechanism tfmg:unfinished_electric_motor tfmg:winding
+tfmg:sequenced_assembly/potentiometer | create:sequenced_assembly | c:wires/copper create:deploying create:filling create:sequenced_assembly neoforge:single tfmg:constantan_spool tfmg:electric_post tfmg:heavy_machinery_casing tfmg:lubrication_oil tfmg:potentiometer tfmg:steel_casing tfmg:steel_cogwheel tfmg:unfinished_potentiometer tfmg:winding
+tfmg:sequenced_assembly/steel_mechanism | create:sequenced_assembly | create:deploying create:sequenced_assembly minecraft:compass tfmg:heavy_plate tfmg:large_steel_cogwheel tfmg:lead_sheet tfmg:nickel_sheet tfmg:screw tfmg:screwdriver tfmg:steel_cogwheel tfmg:steel_ingot tfmg:steel_mechanism tfmg:unfinished_steel_mechanism
+tfmg:sequenced_assembly/transistor | create:sequenced_assembly | c:wires/copper create:deploying create:sequenced_assembly tfmg:n_semiconductor tfmg:p_semiconductor tfmg:plastic_sheet tfmg:silicon_ingot tfmg:transistor_item tfmg:unfinished_transistor
+tfmg:sequenced_assembly/unfinished_circuit_board | create:sequenced_assembly | create:deploying create:sequenced_assembly tfmg:capacitor_item tfmg:circuit_board tfmg:etched_circuit_board tfmg:resistor tfmg:transistor_item tfmg:unfinished_circuit_board
+tfmg:slag_bricks_from_slag_block_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:slag_block tfmg:slag_bricks
+tfmg:small_bauxite_brick_slab | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:small_bauxite_brick_slab tfmg:small_bauxite_bricks
+tfmg:small_bauxite_brick_slab_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:small_bauxite_brick_slab tfmg:stone_types/bauxite
+tfmg:small_bauxite_brick_slab_recycling | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:small_bauxite_brick_slab tfmg:small_bauxite_bricks
+tfmg:small_bauxite_brick_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:small_bauxite_brick_stairs tfmg:small_bauxite_bricks
+tfmg:small_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:small_bauxite_brick_stairs tfmg:stone_types/bauxite
+tfmg:small_bauxite_brick_wall | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:small_bauxite_brick_wall tfmg:small_bauxite_bricks
+tfmg:small_bauxite_brick_wall_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:small_bauxite_brick_wall tfmg:stone_types/bauxite
+tfmg:small_bauxite_bricks_from_stone_types_bauxite_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:small_bauxite_bricks tfmg:stone_types/bauxite
+tfmg:small_galena_brick_slab | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:small_galena_brick_slab tfmg:small_galena_bricks
+tfmg:small_galena_brick_slab_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:small_galena_brick_slab tfmg:stone_types/galena
+tfmg:small_galena_brick_slab_recycling | minecraft:crafting_shapeless | minecraft:crafting_shapeless tfmg:small_galena_brick_slab tfmg:small_galena_bricks
+tfmg:small_galena_brick_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:small_galena_brick_stairs tfmg:small_galena_bricks
+tfmg:small_galena_brick_stairs_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:small_galena_brick_stairs tfmg:stone_types/galena
+tfmg:small_galena_brick_wall | minecraft:crafting_shaped | minecraft:crafting_shaped tfmg:small_galena_brick_wall tfmg:small_galena_bricks
+tfmg:small_galena_brick_wall_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:small_galena_brick_wall tfmg:stone_types/galena
+tfmg:small_galena_bricks_from_stone_types_galena_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:small_galena_bricks tfmg:stone_types/galena
+tfmg:smelting/fireproof_brick | minecraft:smelting | minecraft:smelting tfmg:fireclay_ball tfmg:fireproof_brick
+tfmg:smelting/lead_ingot | minecraft:smelting | minecraft:smelting tfmg:lead_ingot tfmg:raw_lead
+tfmg:smelting/lead_ingot_blasting | minecraft:smelting | minecraft:smelting tfmg:lead_ingot tfmg:raw_lead
+tfmg:smelting/lead_ingot_from_crushed_blasting | minecraft:smelting | create:crushed_raw_lead minecraft:smelting tfmg:lead_ingot
+tfmg:smelting/lithium_ingot | minecraft:smelting | minecraft:smelting tfmg:lithium_ingot tfmg:raw_lithium
+tfmg:smelting/lithium_ingot_blasting | minecraft:smelting | minecraft:smelting tfmg:lithium_ingot tfmg:raw_lithium
+tfmg:smelting/lithium_ingot_from_crushed_blasting | minecraft:smelting | minecraft:smelting tfmg:crushed_raw_lithium tfmg:lithium_ingot
+tfmg:smelting/nickel_ingot | minecraft:smelting | minecraft:smelting tfmg:nickel_ingot tfmg:raw_nickel
+tfmg:smelting/nickel_ingot_blasting | minecraft:smelting | minecraft:smelting tfmg:nickel_ingot tfmg:raw_nickel
+tfmg:smelting/nickel_ingot_from_crushed_blasting | minecraft:smelting | create:crushed_raw_nickel minecraft:smelting tfmg:nickel_ingot
+tfmg:smelting/unfinished_insulator | minecraft:smelting | minecraft:smelting tfmg:unfinished_insulator tfmg:unfired_insulator
+tfmg:steel_bars_from_ingots_steel_stonecutting | minecraft:stonecutting | c:ingots/steel minecraft:stonecutting tfmg:steel_bars
+tfmg:steel_ladder_from_ingots_steel_stonecutting | minecraft:stonecutting | c:ingots/steel minecraft:stonecutting tfmg:steel_ladder
+tfmg:steel_scaffolding_from_ingots_steel_stonecutting | minecraft:stonecutting | c:ingots/steel minecraft:stonecutting tfmg:steel_scaffolding
+tfmg:synthetic_string_from_ingots_rubber_stonecutting | minecraft:stonecutting | c:ingots/rubber minecraft:stonecutting tfmg:synthetic_string
+tfmg:turbine_blade | minecraft:crafting_shaped | c:kerosene c:plates/iron create:shaft minecraft:crafting_shaped tfmg:turbine_blade
+tfmg:unfired_insulator_from_clay_stonecutting | minecraft:stonecutting | minecraft:clay minecraft:stonecutting tfmg:unfired_insulator
+tfmg:vat_machine_recipe/aluminum | tfmg:vat_machine_recipe | tfmg:aluminum_ingot tfmg:aluminum_nugget tfmg:bauxite_powder tfmg:carbon_dioxide tfmg:electrode tfmg:firebrick_lined_vat tfmg:steel_vat tfmg:vat_machine_recipe
+tfmg:vat_machine_recipe/arc_furnace_steel | tfmg:vat_machine_recipe | create:crushed_raw_iron tfmg:coal_coke_dust tfmg:firebrick_lined_vat tfmg:flux tfmg:graphite_electrode tfmg:molten_slag tfmg:molten_steel tfmg:vat_machine_recipe
+tfmg:vat_machine_recipe/concrete | tfmg:vat_machine_recipe | minecraft:gravel minecraft:sand minecraft:water neoforge:single tfmg:firebrick_lined_vat tfmg:limesand tfmg:liquid_concrete tfmg:mixing tfmg:steel_vat tfmg:vat_machine_recipe
+tfmg:vat_machine_recipe/etched_circuit_board | tfmg:vat_machine_recipe | neoforge:single tfmg:coated_circuit_board tfmg:etched_circuit_board tfmg:sulfuric_acid tfmg:vat_machine_recipe
+tfmg:vat_machine_recipe/naphtha | tfmg:vat_machine_recipe | neoforge:single tfmg:ethylene tfmg:firebrick_lined_vat tfmg:mixing tfmg:naphtha tfmg:propylene tfmg:steel_vat tfmg:vat_machine_recipe
+tfmg:vat_machine_recipe/neon | tfmg:vat_machine_recipe | neoforge:single tfmg:air tfmg:centrifuge tfmg:neon tfmg:vat_machine_recipe
+tfmg:vat_machine_recipe/plastic_from_ethylene | tfmg:vat_machine_recipe | neoforge:single tfmg:ethylene tfmg:firebrick_lined_vat tfmg:mixing tfmg:molten_plastic tfmg:steel_vat tfmg:vat_machine_recipe
+tfmg:vat_machine_recipe/plastic_from_propylene | tfmg:vat_machine_recipe | neoforge:single tfmg:firebrick_lined_vat tfmg:mixing tfmg:molten_plastic tfmg:propylene tfmg:steel_vat tfmg:vat_machine_recipe
+tfmg:vat_machine_recipe/rubber | tfmg:vat_machine_recipe | neoforge:single tfmg:firebrick_lined_vat tfmg:heavy_oil tfmg:mixing tfmg:rubber_sheet tfmg:steel_vat tfmg:sulfur_dust tfmg:vat_machine_recipe
+tfmg:vat_machine_recipe/sulfuric_acid | tfmg:vat_machine_recipe | minecraft:water neoforge:single tfmg:firebrick_lined_vat tfmg:mixing tfmg:nitrate_dust tfmg:steel_vat tfmg:sulfur_dust tfmg:sulfuric_acid tfmg:vat_machine_recipe
+tfmg:white_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:white_caution_block
+tfmg:white_concrete_slab_from_white_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:white_concrete tfmg:white_concrete_slab
+tfmg:white_concrete_stairs_from_white_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:white_concrete tfmg:white_concrete_stairs
+tfmg:white_concrete_wall_from_white_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:white_concrete tfmg:white_concrete_wall
+tfmg:white_rebar_concrete_slab_from_white_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:white_rebar_concrete tfmg:white_rebar_concrete_slab
+tfmg:white_rebar_concrete_stairs_from_white_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:white_rebar_concrete tfmg:white_rebar_concrete_stairs
+tfmg:white_rebar_concrete_wall_from_white_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:white_rebar_concrete tfmg:white_rebar_concrete_wall
+tfmg:winding/electromagnetic_coil | tfmg:winding | tfmg:copper_spool tfmg:electromagnetic_coil tfmg:unfinished_electromagnetic_coil tfmg:winding
+tfmg:winding/large_coil | tfmg:winding | tfmg:copper_spool tfmg:laminated_magnetic_alloy_block tfmg:large_coil tfmg:winding
+tfmg:winding/resistor | tfmg:winding | tfmg:constantan_spool tfmg:resistor tfmg:unfinished_resistor tfmg:winding
+tfmg:yellow_caution_block_from_ingots_aluminum_stonecutting | minecraft:stonecutting | c:ingots/aluminum minecraft:stonecutting tfmg:yellow_caution_block
+tfmg:yellow_concrete_slab_from_yellow_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:yellow_concrete tfmg:yellow_concrete_slab
+tfmg:yellow_concrete_stairs_from_yellow_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:yellow_concrete tfmg:yellow_concrete_stairs
+tfmg:yellow_concrete_wall_from_yellow_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:yellow_concrete tfmg:yellow_concrete_wall
+tfmg:yellow_rebar_concrete_slab_from_yellow_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:yellow_rebar_concrete tfmg:yellow_rebar_concrete_slab
+tfmg:yellow_rebar_concrete_stairs_from_yellow_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:yellow_rebar_concrete tfmg:yellow_rebar_concrete_stairs
+tfmg:yellow_rebar_concrete_wall_from_yellow_rebar_concrete_stonecutting | minecraft:stonecutting | minecraft:stonecutting tfmg:yellow_rebar_concrete tfmg:yellow_rebar_concrete_wall
+tfmg:zinc_electrode_from_storage_blocks_zinc_stonecutting | minecraft:stonecutting | c:storage_blocks/zinc minecraft:stonecutting tfmg:zinc_electrode

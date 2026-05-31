@@ -1,0 +1,13 @@
+simplehats:hatbag_common | minecraft:crafting_shaped | minecraft:crafting_shaped simplehats:hatbag_common simplehats:hatscraps_common
+simplehats:hatbag_easter | minecraft:crafting_shaped | minecraft:crafting_shaped simplehats:hatbag_easter simplehats:hatscraps_easter
+simplehats:hatbag_festive | minecraft:crafting_shaped | minecraft:crafting_shaped simplehats:hatbag_festive simplehats:hatscraps_festive
+simplehats:hatbag_halloween | minecraft:crafting_shaped | minecraft:crafting_shaped simplehats:hatbag_halloween simplehats:hatscraps_halloween
+simplehats:hatbag_rare | minecraft:crafting_shaped | minecraft:crafting_shaped simplehats:hatbag_rare simplehats:hatscraps_rare
+simplehats:hatbag_summer | minecraft:crafting_shaped | minecraft:crafting_shaped simplehats:hatbag_summer simplehats:hatscraps_summer
+simplehats:hatbag_uncommon | minecraft:crafting_shaped | minecraft:crafting_shaped simplehats:hatbag_uncommon simplehats:hatscraps_uncommon
+simplehats:hatdisplay | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:logs minecraft:wooden_slabs simplehats:hatdisplay
+simplehats:hatscraps | simplehats:custom_hatscraps | simplehats:custom_hatscraps
+simplehats:hatscraps_rare | minecraft:crafting_shapeless | minecraft:crafting_shapeless simplehats:hatscraps_rare simplehats:hatscraps_uncommon
+simplehats:hatscraps_uncommon | minecraft:crafting_shapeless | minecraft:crafting_shapeless simplehats:hatscraps_common simplehats:hatscraps_uncommon
+simplehats:hatspecial | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:leather minecraft:string simplehats:special
+simplehats:hatvariants | simplehats:custom_hatvariants | simplehats:custom_hatvariants

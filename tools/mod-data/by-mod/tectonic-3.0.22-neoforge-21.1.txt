@@ -1,0 +1,19 @@
+# tectonic-3.0.22-neoforge-21.1
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "lithostitched"
+versionRange = "[1.6.0,)"
+modId = "lithostitched"
+versionRange = "[1.6.0,)"
+modId = "tectonic"
+version = "3.0.22"
+displayName = "Tectonic"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,21 @@
+# accelerated-decay-neoforge-21.0.0
+
+## mod metadata (id / version / deps)
+license = "GPL3"
+modId = "accelerateddecay"
+version = "21.0.0"
+displayName = "Accelerated Decay"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+modId = "architectury"
+versionRange = "[13.0.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

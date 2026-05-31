@@ -1,0 +1,12 @@
+# death-count-1.0
+
+## mod metadata (id / version / deps)
+license = 'LicenseRef-Unknown'
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

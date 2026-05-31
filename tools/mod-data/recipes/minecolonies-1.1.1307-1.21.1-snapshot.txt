@@ -1,0 +1,156 @@
+minecolonies:apple_pie | minecraft:crafting_shapeless | minecolonies:apple_pie minecolonies:durum minecraft:apple minecraft:crafting_shapeless minecraft:sugar
+minecolonies:assistanthammer_gold | minecraft:crafting_shaped | c:ingots/gold minecolonies:assistanthammer_gold minecraft:crafting_shaped minecraft:stick structurize:sceptergold
+minecolonies:baked_bread | minecraft:smelting | minecolonies:bread_dough minecraft:bread minecraft:smelting
+minecolonies:baked_bread_campfire_cooking | minecraft:campfire_cooking | minecolonies:bread_dough minecraft:bread minecraft:campfire_cooking
+minecolonies:baked_bread_smoking | minecraft:smoking | minecolonies:bread_dough minecraft:bread minecraft:smoking
+minecolonies:baked_cake | minecraft:smelting | minecolonies:cake_batter minecraft:cake minecraft:smelting
+minecolonies:baked_cake_campfire_cooking | minecraft:campfire_cooking | minecolonies:cake_batter minecraft:cake minecraft:campfire_cooking
+minecolonies:baked_cake_smoking | minecraft:smoking | minecolonies:cake_batter minecraft:cake minecraft:smoking
+minecolonies:baked_cookies | minecraft:smelting | minecolonies:cookie_dough minecraft:cookie minecraft:smelting
+minecolonies:baked_cookies_campfire_cooking | minecraft:campfire_cooking | minecolonies:cookie_dough minecraft:campfire_cooking minecraft:cookie
+minecolonies:baked_cookies_smoking | minecraft:smoking | minecolonies:cookie_dough minecraft:cookie minecraft:smoking
+minecolonies:baked_manchet_bread | minecraft:smelting | minecolonies:manchet_bread minecolonies:manchet_dough minecraft:smelting
+minecolonies:baked_manchet_bread_campfire_cooking | minecraft:campfire_cooking | minecolonies:manchet_bread minecolonies:manchet_dough minecraft:campfire_cooking
+minecolonies:baked_manchet_bread_smoking | minecraft:smoking | minecolonies:manchet_bread minecolonies:manchet_dough minecraft:smoking
+minecolonies:baked_muffin | minecraft:smelting | minecolonies:muffin minecolonies:muffin_dough minecraft:smelting
+minecolonies:baked_muffin_campfire_cooking | minecraft:campfire_cooking | minecolonies:muffin minecolonies:muffin_dough minecraft:campfire_cooking
+minecolonies:baked_muffin_smoking | minecraft:smoking | minecolonies:muffin minecolonies:muffin_dough minecraft:smoking
+minecolonies:baked_pumpkin_pie | minecraft:smelting | minecolonies:raw_pumpkin_pie minecraft:pumpkin_pie minecraft:smelting
+minecolonies:baked_pumpkin_pie_campfire_cooking | minecraft:campfire_cooking | minecolonies:raw_pumpkin_pie minecraft:campfire_cooking minecraft:pumpkin_pie
+minecolonies:baked_pumpkin_pie_smoking | minecraft:smoking | minecolonies:raw_pumpkin_pie minecraft:pumpkin_pie minecraft:smoking
+minecolonies:baked_salmon | minecraft:crafting_shapeless | minecolonies:baked_salmon minecolonies:garlic minecraft:crafting_shapeless minecraft:salmon
+minecolonies:banner_rally_guards | minecraft:crafting_shaped | minecolonies:banner_rally_guards minecolonies:blockhutguardtower minecraft:bow minecraft:crafting_shaped minecraft:iron_sword minecraft:yellow_banner
+minecolonies:barrel_block | minecraft:crafting_shaped | minecolonies:barrel_block minecraft:crafting_shaped minecraft:dirt minecraft:iron_ingot minecraft:planks structurize:sceptergold
+minecolonies:blockconstructiontape | minecraft:crafting_shaped | minecolonies:blockconstructiontape minecraft:crafting_shaped minecraft:stick minecraft:wool
+minecolonies:blockhutalchemist | minecraft:crafting_shaped | minecolonies:blockhutalchemist minecraft:brewing_stand minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhutarchery | minecraft:crafting_shaped | minecolonies:blockhutarchery minecraft:bow minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhutbaker | minecraft:crafting_shaped | minecolonies:blockhutbaker minecraft:crafting_shaped minecraft:planks minecraft:wheat structurize:sceptergold
+minecolonies:blockhutbarracks | minecraft:crafting_shaped | minecolonies:blockhutbarracks minecraft:crafting_shaped minecraft:iron_block minecraft:planks structurize:sceptergold
+minecolonies:blockhutbeekeeper | minecraft:crafting_shaped | minecolonies:blockhutbeekeeper minecraft:beehive minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhutblacksmith | minecraft:crafting_shaped | minecolonies:blockhutblacksmith minecraft:crafting_shaped minecraft:iron_ingot minecraft:planks structurize:sceptergold
+minecolonies:blockhutbuilder | minecraft:crafting_shaped | minecolonies:blockhutbuilder minecraft:crafting_shaped minecraft:planks minecraft:wooden_doors structurize:sceptergold
+minecolonies:blockhutchickenherder | minecraft:crafting_shaped | minecolonies:blockhutchickenherder minecraft:crafting_shaped minecraft:egg minecraft:planks structurize:sceptergold
+minecolonies:blockhutcitizen | minecraft:crafting_shaped | minecolonies:blockhutcitizen minecraft:crafting_shaped minecraft:planks minecraft:torch structurize:sceptergold
+minecolonies:blockhutcombatacademy | minecraft:crafting_shaped | minecolonies:blockhutcombatacademy minecraft:crafting_shaped minecraft:iron_sword minecraft:planks structurize:sceptergold
+minecolonies:blockhutcomposter | minecraft:crafting_shaped | minecolonies:barrel_block minecolonies:blockhutcomposter minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhutconcretemixer | minecraft:crafting_shaped | minecolonies:blockhutconcretemixer minecraft:crafting_shaped minecraft:planks minecraft:white_concrete_powder structurize:sceptergold
+minecolonies:blockhutcook | minecraft:crafting_shaped | minecolonies:blockhutcook minecraft:apple minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhutcowboy | minecraft:crafting_shaped | minecolonies:blockhutcowboy minecraft:beef minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhutcrusher | minecraft:crafting_shaped | minecolonies:blockhutcrusher minecraft:cobblestone minecraft:crafting_shaped minecraft:iron_ingot minecraft:planks structurize:sceptergold
+minecolonies:blockhutdeliveryman | minecraft:crafting_shaped | minecolonies:blockhutdeliveryman minecraft:crafting_shaped minecraft:leather_boots minecraft:planks structurize:sceptergold
+minecolonies:blockhutdeliverymaniron | minecraft:crafting_shaped | minecolonies:blockhutdeliveryman minecraft:crafting_shaped minecraft:iron_boots minecraft:planks structurize:sceptergold
+minecolonies:blockhutdyer | minecraft:crafting_shaped | minecolonies:blockhutdyer minecraft:crafting_shaped minecraft:planks minecraft:red_dye structurize:sceptergold
+minecolonies:blockhutenchanter | minecraft:crafting_shaped | minecolonies:blockhutenchanter minecraft:crafting_shaped minecraft:enchanting_table minecraft:planks structurize:sceptergold
+minecolonies:blockhutfarmer | minecraft:crafting_shaped | minecolonies:blockhutfarmer minecraft:crafting_shaped minecraft:planks minecraft:wooden_hoe structurize:sceptergold
+minecolonies:blockhutfarmerstone | minecraft:crafting_shaped | minecolonies:blockhutfarmer minecraft:crafting_shaped minecraft:planks minecraft:stone_hoe structurize:sceptergold
+minecolonies:blockhutfield | minecraft:crafting_shaped | minecolonies:blockhutfield minecraft:crafting_shaped minecraft:hay_block minecraft:leather minecraft:pumpkin minecraft:stick
+minecolonies:blockhutfisherman | minecraft:crafting_shaped | minecolonies:blockhutfisherman minecraft:crafting_shaped minecraft:fishing_rod minecraft:planks structurize:sceptergold
+minecolonies:blockhutfletcher | minecraft:crafting_shaped | minecolonies:blockhutfletcher minecraft:crafting_shaped minecraft:planks minecraft:string structurize:sceptergold
+minecolonies:blockhutflorist | minecraft:crafting_shaped | minecolonies:blockhutflorist minecraft:crafting_shaped minecraft:planks minecraft:poppy structurize:sceptergold
+minecolonies:blockhutgatehouse | minecraft:crafting_shaped | minecolonies:blockhutgatehouse minecraft:bow minecraft:crafting_shaped minecraft:iron_sword minecraft:planks structurize:sceptergold
+minecolonies:blockhutglassblower | minecraft:crafting_shaped | minecolonies:blockhutglassblower minecraft:crafting_shaped minecraft:glass minecraft:planks structurize:sceptergold
+minecolonies:blockhutgraveyard | minecraft:crafting_shaped | minecolonies:blockhutgraveyard minecraft:bone minecraft:crafting_shaped minecraft:stone structurize:sceptergold
+minecolonies:blockhutguardtower | minecraft:crafting_shaped | minecolonies:blockhutguardtower minecraft:bow minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhuthospital | minecraft:crafting_shaped | minecolonies:blockhuthospital minecraft:carrot minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhutkitchen | minecraft:crafting_shaped | minecolonies:blockhutkitchen minecraft:crafting_shaped minecraft:planks minecraft:smoker structurize:sceptergold
+minecolonies:blockhutlibrary | minecraft:crafting_shaped | minecolonies:blockhutlibrary minecraft:book minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhutlumberjack | minecraft:crafting_shaped | minecolonies:blockhutlumberjack minecraft:crafting_shaped minecraft:planks minecraft:wooden_axe structurize:sceptergold
+minecolonies:blockhutlumberjackstone | minecraft:crafting_shaped | minecolonies:blockhutlumberjack minecraft:crafting_shaped minecraft:planks minecraft:stone_axe structurize:sceptergold
+minecolonies:blockhutmechanic | minecraft:crafting_shaped | minecolonies:blockhutmechanic minecraft:crafting_shaped minecraft:planks minecraft:redstone_block structurize:sceptergold
+minecolonies:blockhutminer | minecraft:crafting_shaped | minecolonies:blockhutminer minecraft:crafting_shaped minecraft:planks minecraft:wooden_pickaxe structurize:sceptergold
+minecolonies:blockhutminerstone | minecraft:crafting_shaped | minecolonies:blockhutminer minecraft:crafting_shaped minecraft:planks minecraft:stone_pickaxe structurize:sceptergold
+minecolonies:blockhutmysticalsite | minecraft:crafting_shaped | minecolonies:blockhutmysticalsite minecraft:crafting_shaped minecraft:diamond minecraft:planks structurize:sceptergold
+minecolonies:blockhutnetherworker | minecraft:crafting_shaped | minecolonies:blockhutnetherworker minecraft:crafting_shaped minecraft:obsidian minecraft:planks structurize:sceptergold
+minecolonies:blockhutplantation | minecraft:crafting_shaped | minecolonies:blockhutplantation minecraft:cactus minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhutplantationfield | minecraft:crafting_shaped | minecolonies:blockhutplantationfield minecraft:crafting_shaped minecraft:iron_ingot minecraft:planks minecraft:stick structurize:sceptergold
+minecolonies:blockhutrabbithutch | minecraft:crafting_shaped | minecolonies:blockhutrabbithutch minecraft:crafting_shaped minecraft:planks minecraft:rabbit structurize:sceptergold
+minecolonies:blockhutsawmill | minecraft:crafting_shaped | minecolonies:blockhutsawmill minecraft:crafting_shaped minecraft:planks minecraft:wooden_axe structurize:sceptergold
+minecolonies:blockhutschool | minecraft:crafting_shaped | minecolonies:blockhutschool minecraft:crafting_shaped minecraft:feather minecraft:planks structurize:sceptergold
+minecolonies:blockhutshepherd | minecraft:crafting_shaped | minecolonies:blockhutshepherd minecraft:crafting_shaped minecraft:planks minecraft:shears structurize:sceptergold
+minecolonies:blockhutsifter | minecraft:crafting_shaped | minecolonies:blockhutsifter minecraft:crafting_shaped minecraft:planks minecraft:string structurize:sceptergold
+minecolonies:blockhutsmeltery | minecraft:crafting_shaped | minecolonies:blockhutsmeltery minecraft:crafting_shaped minecraft:iron_ingot minecraft:planks structurize:sceptergold
+minecolonies:blockhutstonemason | minecraft:crafting_shaped | minecolonies:blockhutstonemason minecraft:crafting_shaped minecraft:planks minecraft:stone_bricks structurize:sceptergold
+minecolonies:blockhutstonesmeltery | minecraft:crafting_shaped | minecolonies:blockhutstonesmeltery minecraft:crafting_shaped minecraft:furnace minecraft:planks minecraft:stone_bricks structurize:sceptergold
+minecolonies:blockhutswineherder | minecraft:crafting_shaped | minecolonies:blockhutswineherder minecraft:crafting_shaped minecraft:planks minecraft:porkchop structurize:sceptergold
+minecolonies:blockhuttavern | minecraft:crafting_shaped | minecolonies:blockhuttavern minecraft:barrel minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhuttownhall | minecraft:crafting_shaped | minecolonies:blockhuttownhall minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhutuniversity | minecraft:crafting_shaped | minecolonies:blockhutuniversity minecraft:book minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockhutwarehouse | minecraft:crafting_shaped | c:chests minecolonies:blockhutwarehouse minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockminecoloniesrack | minecraft:crafting_shaped | minecolonies:blockminecoloniesrack minecraft:crafting_shaped minecraft:iron_nugget minecraft:planks structurize:sceptergold
+minecolonies:blockpostbox | minecraft:crafting_shaped | c:chests minecolonies:blockpostbox minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockstash | minecraft:crafting_shaped | c:chests minecolonies:blockstash minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:blockwaypoint | minecraft:crafting_shaped | minecolonies:blockwaypoint minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:build_goggles | minecraft:crafting_shaped | minecolonies:build_goggles minecraft:crafting_shaped minecraft:glass_pane minecraft:gold_nugget minecraft:iron_ingot minecraft:leather structurize:sceptergold
+minecolonies:butter | minecraft:crafting_shaped | minecolonies:butter minecolonies:large_milk_bottle minecraft:crafting_shaped
+minecolonies:cabochis | minecraft:crafting_shapeless | minecolonies:cabbage minecolonies:cabochis minecolonies:manchet_bread minecolonies:onion minecraft:bowl minecraft:crafting_shapeless
+minecolonies:chainmailboots | minecraft:crafting_shaped | minecraft:chain minecraft:chainmail_boots minecraft:crafting_shaped minecraft:iron_nugget
+minecolonies:chainmailchestplate | minecraft:crafting_shaped | minecraft:chain minecraft:chainmail_chestplate minecraft:crafting_shaped minecraft:iron_nugget
+minecolonies:chainmailhelmet | minecraft:crafting_shaped | minecraft:chain minecraft:chainmail_helmet minecraft:crafting_shaped minecraft:iron_nugget
+minecolonies:chainmailleggings | minecraft:crafting_shaped | minecraft:chain minecraft:chainmail_leggings minecraft:crafting_shaped minecraft:iron_nugget
+minecolonies:cheddar_cheese | minecraft:crafting_shaped | minecolonies:cheddar_cheese minecolonies:large_milk_bottle minecraft:crafting_shaped
+minecolonies:cheese_pizza | minecraft:crafting_shapeless | minecolonies:cheddar_cheese minecolonies:cheese_pizza minecolonies:durum minecolonies:garlic minecolonies:tomato minecraft:crafting_shapeless
+minecolonies:cheese_ravioli | minecraft:crafting_shapeless | minecolonies:cheddar_cheese minecolonies:cheese_ravioli minecolonies:durum minecraft:crafting_shapeless
+minecolonies:chicken_broth | minecraft:crafting_shapeless | minecolonies:chicken_broth minecolonies:garlic minecolonies:large_water_bottle minecolonies:onion minecraft:bowl minecraft:chicken minecraft:crafting_shapeless
+minecolonies:clipboard | minecraft:crafting_shaped | minecolonies:clipboard minecraft:crafting_shaped minecraft:leather minecraft:stick structurize:sceptergold
+minecolonies:colony_banner | minecraft:crafting_shaped | minecolonies:colony_banner minecraft:crafting_shaped minecraft:wool structurize:sceptergold
+minecolonies:colonymap | minecraft:crafting_shaped | minecolonies:colonymap minecraft:crafting_shaped minecraft:map structurize:sceptergold
+minecolonies:colonysign | minecraft:crafting_shaped | minecolonies:colonysign minecraft:crafting_shaped minecraft:planks structurize:sceptergold
+minecolonies:compostables | minecolonies:composting | minecolonies:compostables minecolonies:composting minecolonies:food minecolonies:plant
+minecolonies:compostables_poor | minecolonies:composting | minecolonies:compostables_poor minecolonies:composting minecolonies:food
+minecolonies:compostables_rich | minecolonies:composting | minecolonies:compostables_rich minecolonies:composting minecolonies:food
+minecolonies:composted_dirt | minecraft:crafting_shaped | minecolonies:compost minecolonies:composted_dirt minecraft:crafting_shaped minecraft:dirt
+minecolonies:congee | minecraft:crafting_shapeless | minecolonies:cabbage minecolonies:congee minecolonies:cooked_rice minecolonies:garlic minecraft:bowl minecraft:crafting_shapeless
+minecolonies:cooked_rice | minecraft:crafting_shapeless | minecolonies:cooked_rice minecolonies:rice minecraft:bowl minecraft:crafting_shapeless
+minecolonies:corn_chowder | minecraft:crafting_shapeless | minecolonies:corn minecolonies:corn_chowder minecolonies:garlic minecolonies:large_milk_bottle minecolonies:onion minecraft:bowl minecraft:crafting_shapeless
+minecolonies:cornmeal | minecraft:crafting_shapeless | minecolonies:corn minecolonies:cornmeal minecraft:crafting_shapeless
+minecolonies:cream_cheese | minecraft:crafting_shaped | minecolonies:creamcheese minecolonies:large_milk_bottle minecraft:crafting_shaped
+minecolonies:doublefern | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:fern minecraft:large_fern
+minecolonies:doublegrass | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:short_grass minecraft:tall_grass
+minecolonies:eggdrop_soup | minecraft:crafting_shapeless | minecolonies:eggdrop_soup minecolonies:onion minecraft:bowl minecraft:chicken minecraft:crafting_shapeless minecraft:egg
+minecolonies:feta_cheese | minecraft:crafting_shaped | minecolonies:feta_cheese minecolonies:large_milk_bottle minecraft:crafting_shaped
+minecolonies:fish_n_chips | minecraft:crafting_shapeless | c:foods/raw_fish minecolonies:durum minecolonies:fish_n_chips minecolonies:garlic minecolonies:onion minecraft:crafting_shapeless minecraft:potato
+minecolonies:fried_rice | minecraft:crafting_shapeless | minecolonies:cooked_rice minecolonies:fried_rice minecolonies:onion minecolonies:rawmeat minecraft:carrot minecraft:crafting_shapeless minecraft:egg
+minecolonies:iron_nugget_from_iron_scimitar_blasting | minecraft:blasting | minecolonies:iron_scimitar minecraft:blasting minecraft:iron_nugget
+minecolonies:iron_nugget_from_iron_scimitar_smelting | minecraft:smelting | minecolonies:iron_scimitar minecraft:iron_nugget minecraft:smelting
+minecolonies:kimchi | minecraft:crafting_shapeless | minecolonies:cabbage minecolonies:kimchi minecolonies:nether_pepper minecolonies:onion minecraft:bowl minecraft:carrot minecraft:crafting_shapeless
+minecolonies:large_empty_bottle | minecraft:crafting_shaped | minecolonies:large_empty_bottle minecraft:crafting_shaped minecraft:glass minecraft:glass_pane minecraft:wooden_slabs
+minecolonies:large_water_bottle | minecraft:crafting_shapeless | c:buckets/water minecolonies:large_empty_bottle minecolonies:large_water_bottle minecraft:crafting_shapeless
+minecolonies:meat_ravioli | minecraft:crafting_shapeless | minecolonies:durum minecolonies:meat_ravioli minecraft:beef minecraft:crafting_shapeless
+minecolonies:mediumquarry | minecraft:crafting_shaped | minecolonies:mediumquarry minecraft:barrel minecraft:crafting_shaped minecraft:diamond_pickaxe minecraft:planks structurize:sceptergold
+minecolonies:mint_jelly | minecraft:crafting_shapeless | minecolonies:large_water_bottle minecolonies:mint minecolonies:mint_jelly minecraft:crafting_shapeless minecraft:sugar
+minecolonies:mint_tea | minecraft:crafting_shapeless | minecolonies:large_water_bottle minecolonies:mint minecolonies:mint_tea minecraft:crafting_shapeless minecraft:honey_bottle
+minecolonies:mutton_dinner | minecraft:crafting_shapeless | minecolonies:garlic minecolonies:mutton_dinner minecolonies:peas minecraft:crafting_shapeless minecraft:mutton minecraft:potato
+minecolonies:mutton_kebab | minecraft:crafting_shapeless | minecolonies:garlic minecolonies:kebab minecolonies:nether_pepper minecolonies:onion minecraft:crafting_shapeless minecraft:mutton minecraft:stick
+minecolonies:pasta_plain | minecraft:crafting_shapeless | minecolonies:butter minecolonies:garlic minecolonies:pasta_plain minecolonies:raw_noodle minecraft:bowl minecraft:crafting_shapeless
+minecolonies:pasta_tomato | minecraft:crafting_shapeless | minecolonies:garlic minecolonies:onion minecolonies:pasta_tomato minecolonies:raw_noodle minecolonies:tomato minecraft:bowl minecraft:crafting_shapeless
+minecolonies:pea_soup | minecraft:crafting_shapeless | minecolonies:garlic minecolonies:large_milk_bottle minecolonies:onion minecolonies:pea_soup minecolonies:peas minecraft:bowl minecraft:crafting_shapeless
+minecolonies:pepper_hummus | minecraft:crafting_shapeless | minecolonies:bell_pepper minecolonies:chickpea minecolonies:garlic minecolonies:pepper_hummus minecraft:crafting_shapeless
+minecolonies:pierogi | minecraft:crafting_shapeless | minecolonies:cheddar_cheese minecolonies:durum minecolonies:garlic minecolonies:onion minecolonies:pierogi minecraft:crafting_shapeless minecraft:potato
+minecolonies:plain_cheesecake | minecraft:crafting_shapeless | minecolonies:butter minecolonies:creamcheese minecolonies:durum minecolonies:plain_cheesecake minecraft:crafting_shapeless minecraft:egg minecraft:sugar
+minecolonies:polenta | minecraft:crafting_shapeless | minecolonies:cornmeal minecolonies:large_water_bottle minecolonies:polenta minecraft:bowl minecraft:crafting_shapeless
+minecolonies:potato_soup | minecraft:crafting_shapeless | minecolonies:garlic minecolonies:onion minecolonies:potato_soup minecraft:bowl minecraft:crafting_shapeless minecraft:potato
+minecolonies:pottage | minecraft:crafting_shapeless | minecolonies:durum minecolonies:garlic minecolonies:onion minecolonies:pottage minecraft:bowl minecraft:carrot minecraft:crafting_shapeless minecraft:potato
+minecolonies:questlog | minecraft:crafting_shaped | minecolonies:questlog minecraft:crafting_shaped minecraft:leather minecraft:paper minecraft:stick structurize:sceptergold
+minecolonies:raw_noodle | minecraft:crafting_shapeless | minecolonies:durum minecolonies:raw_noodle minecraft:crafting_shapeless
+minecolonies:resourcescroll | minecraft:crafting_shaped | minecolonies:resourcescroll minecraft:crafting_shaped minecraft:leather minecraft:stick structurize:sceptergold
+minecolonies:rice_ball | minecraft:crafting_shapeless | minecolonies:cooked_rice minecolonies:rice_ball minecolonies:tofu minecraft:crafting_shapeless minecraft:dried_kelp
+minecolonies:shapetool | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:emerald minecraft:stick structurize:shapetool
+minecolonies:simplequarry | minecraft:crafting_shaped | minecolonies:simplequarry minecraft:barrel minecraft:crafting_shaped minecraft:iron_pickaxe minecraft:planks structurize:sceptergold
+minecolonies:soy_butter | minecraft:crafting_shaped | minecolonies:butter minecolonies:large_soy_milk_bottle minecraft:crafting_shaped
+minecolonies:soy_corn_chowder | minecraft:crafting_shapeless | minecolonies:corn minecolonies:corn_chowder minecolonies:garlic minecolonies:large_soy_milk_bottle minecolonies:onion minecraft:bowl minecraft:crafting_shapeless
+minecolonies:soy_cream_cheese | minecraft:crafting_shaped | minecolonies:creamcheese minecolonies:large_soy_milk_bottle minecraft:crafting_shaped
+minecolonies:soy_milk | minecolonies:zero_waste | minecolonies:large_soy_milk_bottle minecolonies:large_water_bottle minecolonies:soybean minecolonies:zero_waste
+minecolonies:soy_pea_soup | minecraft:crafting_shapeless | minecolonies:garlic minecolonies:large_soy_milk_bottle minecolonies:onion minecolonies:pea_soup minecolonies:peas minecraft:bowl minecraft:crafting_shapeless
+minecolonies:soy_yogurt | minecraft:crafting_shapeless | minecolonies:large_soy_milk_bottle minecolonies:yogurt minecraft:crafting_shapeless
+minecolonies:soysauce | minecraft:crafting_shapeless | minecolonies:soybean minecolonies:soysauce minecraft:crafting_shapeless
+minecolonies:spicy_grilled_chicken | minecraft:crafting_shapeless | minecolonies:garlic minecolonies:nether_pepper minecolonies:spicy_grilled_chicken minecraft:chicken minecraft:crafting_shapeless
+minecolonies:squash_soup | minecraft:crafting_shapeless | minecolonies:butternut_squash minecolonies:garlic minecolonies:onion minecolonies:squash_soup minecraft:bowl minecraft:crafting_shapeless
+minecolonies:supplycampdeployer | minecraft:crafting_shaped | c:chests minecolonies:supplycampdeployer minecraft:crafting_shaped
+minecolonies:supplychestdeployer | minecraft:crafting_shaped | minecolonies:supplychestdeployer minecraft:boats minecraft:crafting_shaped
+minecolonies:tofu | minecraft:crafting_shapeless | minecolonies:soybean minecolonies:tofu minecraft:crafting_shapeless
+minecolonies:tortillas | minecraft:crafting_shapeless | minecolonies:cornmeal minecolonies:tortillas minecraft:crafting_shapeless
+minecolonies:veggie_quiche | minecraft:crafting_shapeless | minecolonies:butternut_squash minecolonies:durum minecolonies:garlic minecolonies:large_water_bottle minecolonies:onion minecolonies:veggie_quiche minecraft:crafting_shapeless
+minecolonies:veggie_ravioli | minecraft:crafting_shapeless | minecolonies:durum minecolonies:veggie_ravioli minecraft:beetroot minecraft:crafting_shapeless
+minecolonies:veggie_soup | minecraft:crafting_shapeless | minecolonies:eggplant minecolonies:garlic minecolonies:onion minecolonies:veggie_soup minecraft:bowl minecraft:carrot minecraft:crafting_shapeless
+minecolonies:yogurt | minecraft:crafting_shapeless | minecolonies:large_milk_bottle minecolonies:yogurt minecraft:crafting_shapeless
+minecolonies:yogurt_with_berries | minecraft:crafting_shapeless | minecolonies:yogurt minecolonies:yogurt_with_berries minecraft:bowl minecraft:crafting_shapeless minecraft:sweet_berries

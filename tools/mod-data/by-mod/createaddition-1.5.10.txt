@@ -1,0 +1,135 @@
+# createaddition-1.5.10
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="createaddition" #mandatory
+version="1.5.10" #mandatory
+displayName="Create Crafts & Additions" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.1.209,)" #mandatory
+modId="create"
+versionRange="[6.0.7,6.1.0)"
+modId="jei"
+versionRange="[15.0.0.0,)"
+modId="computercraft"
+versionRange="[0,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+
+## blocks
+createaddition:accumulator
+createaddition:alternator
+createaddition:barbed_wire
+createaddition:bioethanol
+createaddition:biomass_pellet_block
+createaddition:chocolate_cake
+createaddition:connector
+createaddition:connector_old
+createaddition:copper_wire_casing
+createaddition:creative_energy
+createaddition:digital_adapter
+createaddition:electric_motor
+createaddition:electrum_block
+createaddition:honey_cake
+createaddition:large_connector
+createaddition:liquid_blaze_burner
+createaddition:modular_accumulator
+createaddition:portable_energy_interface
+createaddition:redstone_relay
+createaddition:rolling_mill
+createaddition:seed_oil
+createaddition:small_light_connector
+createaddition:tesla_coil
+
+## items
+createaddition:alternator
+createaddition:barbed_wire
+createaddition:bioethanol_bucket
+createaddition:biomass
+createaddition:biomass_pellet
+createaddition:biomass_pellet_block
+createaddition:brass_rod
+createaddition:cake_base
+createaddition:cake_base_baked
+createaddition:capacitor
+createaddition:chocolate_cake
+createaddition:connector
+createaddition:copper_rod
+createaddition:copper_spool
+createaddition:copper_wire
+createaddition:creative_energy
+createaddition:diamond_grit
+createaddition:diamond_grit_sandpaper
+createaddition:digital_adapter
+createaddition:electric_motor
+createaddition:electrum_amulet
+createaddition:electrum_block
+createaddition:electrum_ingot
+createaddition:electrum_nugget
+createaddition:electrum_rod
+createaddition:electrum_sheet
+createaddition:electrum_spool
+createaddition:electrum_wire
+createaddition:festive_spool
+createaddition:gold_rod
+createaddition:gold_spool
+createaddition:gold_wire
+createaddition:honey_cake
+createaddition:iron_rod
+createaddition:iron_wire
+createaddition:large_connector
+createaddition:modular_accumulator
+createaddition:portable_energy_interface
+createaddition:redstone_relay
+createaddition:rolling_mill
+createaddition:seed_oil_bucket
+createaddition:small_light_connector
+createaddition:spool
+createaddition:straw
+createaddition:tesla_coil
+createaddition:zinc_sheet
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+block/storage_blocks/electrum.json :: { "values": [ "createaddition:electrum_block" ]}
+block/storage_blocks/biomass.json :: { "values": [ "createaddition:biomass_pellet_block" ]}
+block/storage_blocks/bio.json :: { "values": [ "createaddition:biomass_pellet_block" ]}
+block/storage_blocks.json :: { "values": [ "createaddition:electrum_block", "createaddition:biomass_pellet_block" ]}
+fluid/crude_oil.json :: { "values": []}
+fluid/creosote.json :: { "values": []}
+fluid/plantoil.json :: { "values": [ "createaddition:flowing_seed_oil", "createaddition:seed_oil" ]}
+fluid/biofuel.json :: { "values": [ "createaddition:flowing_bioethanol", "createaddition:bioethanol" ]}
+item/nuggets/electrum.json :: { "values": [ "createaddition:electrum_nugget" ]}
+item/nuggets.json :: { "values": [ "#c:nuggets/electrum" ]}
+item/fuels.json :: { "values": [ "#c:fuels/bio" ]}
+item/foods/edible_when_placed.json :: { "values": [ "createaddition:chocolate_cake", "createaddition:honey_cake" ]}
+item/rods/electrum.json :: { "values": [ "createaddition:electrum_rod" ]}
+item/rods/brass.json :: { "values": [ "createaddition:brass_rod" ]}
+item/rods/gold.json :: { "values": [ "createaddition:gold_rod" ]}
+item/rods/iron.json :: { "values": [ "createaddition:iron_rod" ]}
+item/rods/copper.json :: { "values": [ "createaddition:copper_rod" ]}
+item/rods/all_metal.json :: { "values": [ "createaddition:gold_rod", "createaddition:iron_rod", "createaddition:electrum_rod", "createaddition:brass_rod", "createaddition:copper_rod" ]}
+item/dusts.json :: { "values": [ "#c:dusts/diamond", "#c:dusts/obsidian" ]}
+item/buckets.json :: { "values": [ "createaddition:bioethanol_bucket", "createaddition:seed_oil_bucket" ]}
+item/wires/electrum.json :: { "values": [ "createaddition:electrum_wire" ]}
+item/wires/gold.json :: { "values": [ "createaddition:gold_wire" ]}
+item/wires/iron.json :: { "values": [ "createaddition:iron_wire" ]}
+item/wires/copper.json :: { "values": [ "createaddition:copper_wire" ]}
+item/wires/all_metal.json :: { "values": [ "createaddition:gold_wire", "createaddition:iron_wire", "createaddition:electrum_wire", "createaddition:copper_wire" ]}
+item/fuels/bio.json :: { "values": [ "createaddition:biomass" ]}
+item/foods.json :: { "values": [ "createaddition:chocolate_cake", "createaddition:honey_cake" ]}
+item/plates.json :: { "values": [ "#c:plates/electrum", "#c:plates/zinc" ]}
+item/dusts/obsidian.json :: { "values": [ "create:powdered_obsidian" ]}
+item/dusts/diamond.json :: { "values": [ "createaddition:diamond_grit" ]}
+item/storage_blocks/electrum.json :: { "values": [ "createaddition:electrum_block" ]}
+item/storage_blocks/biomass.json :: { "values": [ "createaddition:biomass_pellet_block" ]}
+item/storage_blocks/bio.json :: { "values": [ "createaddition:biomass_pellet_block" ]}
+item/plates/zinc.json :: { "values": [ "createaddition:zinc_sheet" ]}
+item/plates/electrum.json :: { "values": [ "createaddition:electrum_sheet" ]}
+item/ingots.json :: { "values": [ "#c:ingots/electrum" ]}
+item/wires.json :: { "values": [ "#c:wires/all_metal" ]}
+item/blocks/electrum.json :: { "values": [ "createaddition:electrum_block" ]}
+item/ingots/electrum.json :: { "values": [ "createaddition:electrum_ingot" ]}
+item/rods.json :: { "values": [ "#c:rods/all_metal" ]}
+item/storage_blocks.json :: { "values": [ "createaddition:biomass_pellet_block", "createaddition:electrum_block" ]}

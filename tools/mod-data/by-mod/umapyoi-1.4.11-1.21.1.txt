@@ -1,0 +1,130 @@
+# umapyoi-1.4.11-1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT License"
+modId="umapyoi" #mandatory
+version="1.4.11-1.21.1"
+displayName="Umapyoi" 
+modId="neoforge" 
+versionRange="[21.1.0,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.1,1.22)"
+modId="mysterious_mountain_lib"
+versionRange="[1.2.14-1.21.1,)"
+modId="curios"
+versionRange="[9.0.5+1.21,)"
+
+## blocks
+umapyoi:disassembly_block
+umapyoi:factor_decompose_table
+umapyoi:factor_research_table
+umapyoi:gate
+umapyoi:gate_door
+umapyoi:race_register
+umapyoi:race_select_block
+umapyoi:register_lectern
+umapyoi:silver_support_album_pedestal
+umapyoi:silver_uma_pedestal
+umapyoi:skill_learning_table
+umapyoi:support_album_pedestal
+umapyoi:three_goddess
+umapyoi:three_goddess_upper
+umapyoi:training_facility
+umapyoi:uma_pedestal
+umapyoi:uma_select_block
+umapyoi:uma_statues
+umapyoi:uma_statues_upper
+
+## items
+umapyoi:baseball_bat
+umapyoi:blank_ticket
+umapyoi:blank_uma_soul
+umapyoi:card_ticket
+umapyoi:costume/common_costume
+umapyoi:costume/kasamatsu_training_uniform
+umapyoi:costume/kindergarten_uniform
+umapyoi:costume/starting_future
+umapyoi:crystal_gold
+umapyoi:crystal_rainbow
+umapyoi:crystal_silver
+umapyoi:cupcake
+umapyoi:disassembly_block
+umapyoi:factor_decompose_table
+umapyoi:factor_research_table
+umapyoi:gate
+umapyoi:gate_door
+umapyoi:hachimi_big
+umapyoi:hachimi_mid
+umapyoi:horseshoe_gold
+umapyoi:horseshoe_rainbow
+umapyoi:horseshoe_silver
+umapyoi:jewel
+umapyoi:large_energy_drink
+umapyoi:manual_closed
+umapyoi:manual_opened
+umapyoi:medium_energy_drink
+umapyoi:mentality_high_item
+umapyoi:mentality_low_item
+umapyoi:mentality_mid_item
+umapyoi:naginata
+umapyoi:race_register
+umapyoi:race_select_block
+umapyoi:race_ticket
+umapyoi:race_ticket/race_ticket_champions
+umapyoi:race_ticket/race_ticket_common
+umapyoi:race_ticket/race_ticket_g1
+umapyoi:race_ticket/race_ticket_g2
+umapyoi:register_lectern
+umapyoi:royal_bitter
+umapyoi:silver_uma_pedestal
+umapyoi:skill_book
+umapyoi:skill_learning_table
+umapyoi:small_energy_drink
+umapyoi:speed_high_item
+umapyoi:speed_low_item
+umapyoi:speed_mid_item
+umapyoi:sr_card_ticket
+umapyoi:sr_uma_ticket
+umapyoi:ssr_card_ticket
+umapyoi:ssr_uma_ticket
+umapyoi:stamina_high_item
+umapyoi:stamina_low_item
+umapyoi:stamina_mid_item
+umapyoi:strength_high_item
+umapyoi:strength_low_item
+umapyoi:strength_mid_item
+umapyoi:summer_uniform
+umapyoi:support_card
+umapyoi:support_card/support_card_easter_egg
+umapyoi:support_card/support_card_r
+umapyoi:support_card/support_card_sr
+umapyoi:support_card/support_card_ssr
+umapyoi:sweet_cupcake
+umapyoi:swimsuit
+umapyoi:three_goddess
+umapyoi:training_facility
+umapyoi:trainning_suit
+umapyoi:uma_costume
+umapyoi:uma_factor_item
+umapyoi:uma_factor_shard
+umapyoi:uma_pedestal
+umapyoi:uma_select_block
+umapyoi:uma_soul
+umapyoi:uma_soul_display
+umapyoi:uma_statue
+umapyoi:uma_ticket
+umapyoi:winter_uniform
+umapyoi:wisdom_high_item
+umapyoi:wisdom_low_item
+umapyoi:wisdom_mid_item
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+item/bamboo.json :: { "values": [ "minecraft:bamboo" ]}
+item/bread/wheat.json :: { "values": [ "minecraft:bread" ]}
+item/bread.json :: { "values": [ "#c:bread/wheat" ]}
+item/crops/carrot.json :: { "values": [ { "id": "tfc:food/carrot", "required": false } ]}
+item/milk.json :: { "values": [ "minecraft:milk_bucket" ]}
+item/sugar.json :: { "values": [ "minecraft:sugar" ]}
+item/water.json :: { "values": [ "minecraft:water_bucket" ]}

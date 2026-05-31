@@ -1,0 +1,21 @@
+# createthreadedtrains-neoforge-1.21.1-1.0.0
+
+## mod metadata (id / version / deps)
+license = "GNU General Public License v3.0"
+modId = "createthreadedtrains"
+version = "1.0.0"
+displayName = "Create: Threaded Trains"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+modId = "create"
+versionRange = "[0.5.1.f,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

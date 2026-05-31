@@ -1,0 +1,31 @@
+# netmusic-1.5.0-neoforge+mc1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="netmusic"
+version="1.5.0-neoforge+mc1.21.1"
+displayName="Net Music Mod"
+modId="neoforge"
+versionRange="[21,)"
+modId="minecraft"
+versionRange="[1.21,1.21.2)"
+modId = "touhou_little_maid"
+versionRange = "[1.5.0,)"
+
+## blocks
+netmusic:big_megaphone
+netmusic:cd_burner
+netmusic:computer
+netmusic:music_player
+
+## items
+netmusic:big_megaphone
+netmusic:cd_burner
+netmusic:computer
+netmusic:music_cd
+netmusic:music_player
+netmusic:music_player_backpack
+
+## neoforge biome_modifiers
+
+## c: common tag membership

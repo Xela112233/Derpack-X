@@ -1,0 +1,189 @@
+# woodworks-1.21.1-4.0.2
+
+## mod metadata (id / version / deps)
+license = "https://github.com/team-abnormals/woodworks/blob/main/LICENSE.txt"
+modId = "woodworks"
+version = "4.0.2"
+displayName = "Woodworks"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "neoforge"
+versionRange = "[21.1.129,)"
+modId = "blueprint"
+versionRange = "[8.0.6,)"
+modId = "quark"
+versionRange = "[0,)"
+
+## blocks
+woodworks:acacia_beehive
+woodworks:acacia_boards
+woodworks:acacia_bookshelf
+woodworks:acacia_chest
+woodworks:acacia_ladder
+woodworks:acacia_leaf_pile
+woodworks:azalea_leaf_pile
+woodworks:bamboo_beehive
+woodworks:bamboo_bookshelf
+woodworks:bamboo_closet
+woodworks:bamboo_ladder
+woodworks:birch_beehive
+woodworks:birch_boards
+woodworks:birch_bookshelf
+woodworks:birch_chest
+woodworks:birch_ladder
+woodworks:birch_leaf_pile
+woodworks:cherry_beehive
+woodworks:cherry_boards
+woodworks:cherry_bookshelf
+woodworks:cherry_chest
+woodworks:cherry_ladder
+woodworks:cherry_leaf_pile
+woodworks:chiseled_acacia_bookshelf
+woodworks:chiseled_bamboo_bookshelf
+woodworks:chiseled_birch_bookshelf
+woodworks:chiseled_cherry_bookshelf
+woodworks:chiseled_crimson_bookshelf
+woodworks:chiseled_dark_oak_bookshelf
+woodworks:chiseled_jungle_bookshelf
+woodworks:chiseled_mangrove_bookshelf
+woodworks:chiseled_spruce_bookshelf
+woodworks:chiseled_warped_bookshelf
+woodworks:crimson_beehive
+woodworks:crimson_boards
+woodworks:crimson_bookshelf
+woodworks:crimson_chest
+woodworks:crimson_ladder
+woodworks:dark_oak_beehive
+woodworks:dark_oak_boards
+woodworks:dark_oak_bookshelf
+woodworks:dark_oak_chest
+woodworks:dark_oak_ladder
+woodworks:dark_oak_leaf_pile
+woodworks:flowering_azalea_leaf_pile
+woodworks:jungle_beehive
+woodworks:jungle_boards
+woodworks:jungle_bookshelf
+woodworks:jungle_chest
+woodworks:jungle_ladder
+woodworks:jungle_leaf_pile
+woodworks:mangrove_beehive
+woodworks:mangrove_boards
+woodworks:mangrove_bookshelf
+woodworks:mangrove_chest
+woodworks:mangrove_ladder
+woodworks:mangrove_leaf_pile
+woodworks:oak_boards
+woodworks:oak_chest
+woodworks:oak_leaf_pile
+woodworks:sawmill
+woodworks:spruce_beehive
+woodworks:spruce_boards
+woodworks:spruce_bookshelf
+woodworks:spruce_chest
+woodworks:spruce_ladder
+woodworks:spruce_leaf_pile
+woodworks:trapped_acacia_chest
+woodworks:trapped_bamboo_closet
+woodworks:trapped_birch_chest
+woodworks:trapped_cherry_chest
+woodworks:trapped_crimson_chest
+woodworks:trapped_dark_oak_chest
+woodworks:trapped_jungle_chest
+woodworks:trapped_mangrove_chest
+woodworks:trapped_oak_chest
+woodworks:trapped_spruce_chest
+woodworks:trapped_warped_chest
+woodworks:warped_beehive
+woodworks:warped_boards
+woodworks:warped_bookshelf
+woodworks:warped_chest
+woodworks:warped_ladder
+
+## items
+woodworks:acacia_beehive
+woodworks:acacia_boards
+woodworks:acacia_bookshelf
+woodworks:acacia_chest
+woodworks:acacia_ladder
+woodworks:acacia_leaf_pile
+woodworks:azalea_leaf_pile
+woodworks:bamboo_beehive
+woodworks:bamboo_bookshelf
+woodworks:bamboo_closet
+woodworks:bamboo_ladder
+woodworks:birch_beehive
+woodworks:birch_boards
+woodworks:birch_bookshelf
+woodworks:birch_chest
+woodworks:birch_ladder
+woodworks:birch_leaf_pile
+woodworks:cherry_beehive
+woodworks:cherry_boards
+woodworks:cherry_bookshelf
+woodworks:cherry_chest
+woodworks:cherry_ladder
+woodworks:cherry_leaf_pile
+woodworks:chiseled_acacia_bookshelf
+woodworks:chiseled_bamboo_bookshelf
+woodworks:chiseled_birch_bookshelf
+woodworks:chiseled_cherry_bookshelf
+woodworks:chiseled_crimson_bookshelf
+woodworks:chiseled_dark_oak_bookshelf
+woodworks:chiseled_jungle_bookshelf
+woodworks:chiseled_mangrove_bookshelf
+woodworks:chiseled_spruce_bookshelf
+woodworks:chiseled_warped_bookshelf
+woodworks:crimson_beehive
+woodworks:crimson_boards
+woodworks:crimson_bookshelf
+woodworks:crimson_chest
+woodworks:crimson_ladder
+woodworks:dark_oak_beehive
+woodworks:dark_oak_boards
+woodworks:dark_oak_bookshelf
+woodworks:dark_oak_chest
+woodworks:dark_oak_ladder
+woodworks:dark_oak_leaf_pile
+woodworks:flowering_azalea_leaf_pile
+woodworks:jungle_beehive
+woodworks:jungle_boards
+woodworks:jungle_bookshelf
+woodworks:jungle_chest
+woodworks:jungle_ladder
+woodworks:jungle_leaf_pile
+woodworks:mangrove_beehive
+woodworks:mangrove_boards
+woodworks:mangrove_bookshelf
+woodworks:mangrove_chest
+woodworks:mangrove_ladder
+woodworks:mangrove_leaf_pile
+woodworks:oak_boards
+woodworks:oak_chest
+woodworks:oak_leaf_pile
+woodworks:sawmill
+woodworks:spruce_beehive
+woodworks:spruce_boards
+woodworks:spruce_bookshelf
+woodworks:spruce_chest
+woodworks:spruce_ladder
+woodworks:spruce_leaf_pile
+woodworks:trapped_acacia_chest
+woodworks:trapped_bamboo_closet
+woodworks:trapped_birch_chest
+woodworks:trapped_cherry_chest
+woodworks:trapped_crimson_chest
+woodworks:trapped_dark_oak_chest
+woodworks:trapped_jungle_chest
+woodworks:trapped_mangrove_chest
+woodworks:trapped_oak_chest
+woodworks:trapped_spruce_chest
+woodworks:trapped_warped_chest
+woodworks:warped_beehive
+woodworks:warped_boards
+woodworks:warped_bookshelf
+woodworks:warped_chest
+woodworks:warped_ladder
+
+## neoforge biome_modifiers
+
+## c: common tag membership

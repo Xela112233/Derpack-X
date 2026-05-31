@@ -1,0 +1,12 @@
+mowziesmobs:blowgun | minecraft:crafting_shaped | c:strings minecraft:bamboo minecraft:crafting_shaped mowziesmobs:blowgun
+mowziesmobs:charcoal | minecraft:smelting | minecraft:charcoal minecraft:smelting mowziesmobs:clawed_log
+mowziesmobs:dart | minecraft:crafting_shaped | c:feathers c:rods/wooden minecraft:crafting_shaped mowziesmobs:dart mowziesmobs:naga_fang
+mowziesmobs:grottol_blast | minecraft:blasting | minecraft:blasting minecraft:diamond mowziesmobs:captured_grottol
+mowziesmobs:grottol_smelt | minecraft:smelting | minecraft:diamond minecraft:smelting mowziesmobs:captured_grottol
+mowziesmobs:jungle_planks_from_clawed_log | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:jungle_planks mowziesmobs:clawed_log
+mowziesmobs:naga_fang_dagger | minecraft:crafting_shaped | c:ingots/iron c:rods/wooden minecraft:crafting_shaped mowziesmobs:naga_fang mowziesmobs:naga_fang_dagger
+mowziesmobs:painted_acacia | minecraft:crafting_shapeless | minecraft:acacia_planks minecraft:crafting_shapeless minecraft:cyan_dye minecraft:white_dye minecraft:yellow_dye mowziesmobs:painted_acacia
+mowziesmobs:painted_acacia_block_from_slab | minecraft:crafting_shaped | minecraft:crafting_shaped mowziesmobs:painted_acacia mowziesmobs:painted_acacia_slab
+mowziesmobs:painted_acacia_slab | minecraft:crafting_shaped | minecraft:crafting_shaped mowziesmobs:painted_acacia mowziesmobs:painted_acacia_slab
+mowziesmobs:spear | minecraft:crafting_shaped | c:feathers c:rods/wooden minecraft:crafting_shaped minecraft:flint mowziesmobs:spear
+mowziesmobs:thatch_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:short_grass minecraft:tall_grass mowziesmobs:thatch_block

@@ -1,0 +1,23 @@
+# createlowheated-neoforge-1.21.1-6.0.10-1
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="createlowheated"
+version="1.21.1-6.0.10-1"
+displayName="Create Low-Heated"
+modId="neoforge"
+versionRange = "[21.1.219,)"
+modId="create"
+versionRange="[0.6.0,)"
+modId="minecraft"
+versionRange = "[1.21.1]"
+
+## blocks
+createlowheated:basic_burner
+
+## items
+createlowheated:basic_burner
+
+## neoforge biome_modifiers
+
+## c: common tag membership

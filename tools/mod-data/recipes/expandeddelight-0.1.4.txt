@@ -1,0 +1,103 @@
+expandeddelight:asparagus | minecraft:crafting_shapeless | expandeddelight:asparagus expandeddelight:asparagus_crate minecraft:crafting_shapeless
+expandeddelight:asparagus_crate | minecraft:crafting_shapeless | expandeddelight:asparagus expandeddelight:asparagus_crate minecraft:crafting_shapeless
+expandeddelight:asparagus_seeds | minecraft:crafting_shapeless | expandeddelight:asparagus expandeddelight:asparagus_seeds minecraft:crafting_shapeless
+expandeddelight:baked_sweet_potato | minecraft:smelting | expandeddelight:baked_sweet_potato expandeddelight:sweet_potato minecraft:smelting
+expandeddelight:baked_sweet_potato_from_campfire_cooking | minecraft:campfire_cooking | expandeddelight:baked_sweet_potato expandeddelight:sweet_potato minecraft:campfire_cooking
+expandeddelight:baked_sweet_potato_from_smoking | minecraft:smoking | expandeddelight:baked_sweet_potato expandeddelight:sweet_potato minecraft:smoking
+expandeddelight:berry_sweet_roll | minecraft:crafting_shapeless | c:dusts/cinnamon c:foods/dough c:foods/milk expandeddelight:berry_sweet_roll minecraft:crafting_shapeless minecraft:sugar minecraft:sweet_berries
+expandeddelight:cask | minecraft:crafting_shaped | c:ingots/iron expandeddelight:cask minecraft:barrel minecraft:bucket minecraft:crafting_shaped minecraft:planks
+expandeddelight:cheese_sandwich | minecraft:crafting_shapeless | c:foods/cheese expandeddelight:cheese_sandwich minecraft:bread minecraft:crafting_shapeless
+expandeddelight:chili_pepper | minecraft:crafting_shapeless | expandeddelight:chili_pepper expandeddelight:chili_pepper_crate minecraft:crafting_shapeless
+expandeddelight:chili_pepper_crate | minecraft:crafting_shapeless | expandeddelight:chili_pepper expandeddelight:chili_pepper_crate minecraft:crafting_shapeless
+expandeddelight:chili_pepper_seeds | minecraft:crafting_shapeless | expandeddelight:chili_pepper expandeddelight:chili_pepper_seeds minecraft:crafting_shapeless
+expandeddelight:chocolate_cookie | minecraft:crafting_shaped | c:crops/grain expandeddelight:chocolate_cookie minecraft:cocoa_beans minecraft:crafting_shaped
+expandeddelight:cinnamon_boat | minecraft:crafting_shaped | expandeddelight:cinnamon_boat expandeddelight:cinnamon_planks minecraft:crafting_shaped
+expandeddelight:cinnamon_button | minecraft:crafting_shapeless | expandeddelight:cinnamon_button expandeddelight:cinnamon_planks minecraft:crafting_shapeless
+expandeddelight:cinnamon_cabinet | minecraft:crafting_shaped | expandeddelight:cinnamon_cabinet expandeddelight:cinnamon_planks expandeddelight:cinnamon_trapdoor minecraft:crafting_shaped
+expandeddelight:cinnamon_chest_boat | minecraft:crafting_shapeless | c:chests/wooden expandeddelight:cinnamon_boat expandeddelight:cinnamon_chest_boat minecraft:crafting_shapeless
+expandeddelight:cinnamon_door | minecraft:crafting_shaped | expandeddelight:cinnamon_door expandeddelight:cinnamon_planks minecraft:crafting_shaped
+expandeddelight:cinnamon_fence | minecraft:crafting_shaped | c:rods/wooden expandeddelight:cinnamon_fence expandeddelight:cinnamon_planks minecraft:crafting_shaped
+expandeddelight:cinnamon_fence_gate | minecraft:crafting_shaped | c:rods/wooden expandeddelight:cinnamon_fence_gate expandeddelight:cinnamon_planks minecraft:crafting_shaped
+expandeddelight:cinnamon_hanging_sign | minecraft:crafting_shaped | c:chains expandeddelight:cinnamon_hanging_sign expandeddelight:stripped_cinnamon_log minecraft:crafting_shaped
+expandeddelight:cinnamon_planks | minecraft:crafting_shapeless | expandeddelight:cinnamon_logs expandeddelight:cinnamon_planks minecraft:crafting_shapeless
+expandeddelight:cinnamon_pressure_plate | minecraft:crafting_shaped | expandeddelight:cinnamon_planks expandeddelight:cinnamon_pressure_plate minecraft:crafting_shaped
+expandeddelight:cinnamon_sign | minecraft:crafting_shaped | c:rods/wooden expandeddelight:cinnamon_planks expandeddelight:cinnamon_sign minecraft:crafting_shaped
+expandeddelight:cinnamon_slab | minecraft:crafting_shaped | expandeddelight:cinnamon_planks expandeddelight:cinnamon_slab minecraft:crafting_shaped
+expandeddelight:cinnamon_stairs | minecraft:crafting_shaped | expandeddelight:cinnamon_planks expandeddelight:cinnamon_stairs minecraft:crafting_shaped
+expandeddelight:cinnamon_trapdoor | minecraft:crafting_shaped | expandeddelight:cinnamon_planks expandeddelight:cinnamon_trapdoor minecraft:crafting_shaped
+expandeddelight:cinnamon_wood | minecraft:crafting_shaped | expandeddelight:cinnamon_log expandeddelight:cinnamon_wood minecraft:crafting_shaped
+expandeddelight:cooking/asparagus_and_bacon_cheesy | farmersdelight:cooking | c:crops/asparagus c:crops/onion c:foods/cheese c:foods/raw_bacon expandeddelight:asparagus_and_bacon_cheesy farmersdelight:cooking minecraft:bowl
+expandeddelight:cooking/asparagus_frittata | farmersdelight:cooking | c:crops/asparagus c:dusts/salt c:eggs c:foods/cheese expandeddelight:asparagus_frittata farmersdelight:cooking minecraft:bowl
+expandeddelight:cooking/asparagus_mushroom_pasta | farmersdelight:cooking | c:crops/asparagus c:crops/onion c:foods/pasta expandeddelight:asparagus_mushroom_pasta farmersdelight:cooking minecraft:bowl minecraft:brown_mushroom
+expandeddelight:cooking/asparagus_soup | farmersdelight:cooking | c:crops/asparagus c:foods/leafy_green expandeddelight:asparagus_soup farmersdelight:cooking minecraft:bowl minecraft:water_bucket
+expandeddelight:cooking/asparagus_soup_creamy | farmersdelight:cooking | c:crops/asparagus c:foods/leafy_green c:foods/milk expandeddelight:asparagus_soup_creamy farmersdelight:cooking minecraft:bowl
+expandeddelight:cooking/chili_pepper_salmon | farmersdelight:cooking | c:crops/chili_pepper c:crops/onion c:crops/rice c:foods/cooked_salmon expandeddelight:chili_pepper_salmon farmersdelight:cooking minecraft:bowl
+expandeddelight:cooking/cinnamon_apples | farmersdelight:cooking | expandeddelight:cinnamon expandeddelight:cinnamon_apples farmersdelight:cooking minecraft:apple minecraft:bowl minecraft:sugar minecraft:water_bucket
+expandeddelight:cooking/cinnamon_rice | farmersdelight:cooking | c:crops/rice expandeddelight:cinnamon expandeddelight:cinnamon_rice farmersdelight:cooking minecraft:bowl
+expandeddelight:cooking/cranberry_chicken | farmersdelight:cooking | c:crops/onion c:foods/cooked_chicken expandeddelight:cranberries expandeddelight:cranberry_chicken farmersdelight:cooking minecraft:bowl
+expandeddelight:cooking/cranberry_jelly | farmersdelight:cooking | expandeddelight:cranberries expandeddelight:cranberry_jelly expandeddelight:glass_jar farmersdelight:cooking minecraft:sugar
+expandeddelight:cooking/glow_berry_jelly | farmersdelight:cooking | expandeddelight:glass_jar expandeddelight:glow_berry_jelly farmersdelight:cooking minecraft:glow_berries minecraft:sugar
+expandeddelight:cooking/mac_and_cheese | farmersdelight:cooking | c:dusts/salt c:foods/cheese c:foods/milk c:foods/pasta expandeddelight:mac_and_cheese farmersdelight:cooking minecraft:bowl
+expandeddelight:cooking/peanut_butter | farmersdelight:cooking | c:crops/peanut c:foods/milk expandeddelight:peanut_butter farmersdelight:cooking minecraft:bowl
+expandeddelight:cooking/peanut_honey_soup | farmersdelight:cooking | c:crops/peanut c:foods/milk expandeddelight:peanut_honey_soup farmersdelight:cooking minecraft:bowl minecraft:honey_bottle
+expandeddelight:cooking/peperonata | farmersdelight:cooking | c:crops/chili_pepper c:crops/onion c:crops/tomato c:foods/pasta c:foods/vegetable expandeddelight:peperonata farmersdelight:cooking minecraft:bowl
+expandeddelight:cooking/sweet_berry_jelly | farmersdelight:cooking | expandeddelight:glass_jar expandeddelight:sweet_berry_jelly farmersdelight:cooking minecraft:sugar minecraft:sweet_berries
+expandeddelight:cooking/sweet_potato_casserole | farmersdelight:cooking | c:eggs c:foods/milk expandeddelight:sweet_potato expandeddelight:sweet_potato_casserole farmersdelight:cooking minecraft:bowl minecraft:sugar
+expandeddelight:cranberries | minecraft:crafting_shapeless | expandeddelight:cranberries expandeddelight:cranberry_bag minecraft:crafting_shapeless
+expandeddelight:cranberry_bag | minecraft:crafting_shapeless | expandeddelight:cranberries expandeddelight:cranberry_bag minecraft:crafting_shapeless
+expandeddelight:cranberry_cobbler | minecraft:crafting_shaped | c:eggs expandeddelight:cranberries expandeddelight:cranberry_cobbler farmersdelight:pie_crust minecraft:crafting_shaped minecraft:sugar minecraft:wheat
+expandeddelight:cranberry_cobbler_from_slices | minecraft:crafting_shaped | expandeddelight:cranberry_cobbler expandeddelight:cranberry_cobbler_slice minecraft:crafting_shaped
+expandeddelight:cranberry_goat_cheese_toast | minecraft:crafting_shapeless | c:foods/goat_cheese expandeddelight:cranberries expandeddelight:cranberry_goat_cheese_toast minecraft:bread minecraft:crafting_shapeless
+expandeddelight:cranberry_jelly_sandwich | minecraft:crafting_shapeless | c:jams/cranberry expandeddelight:cranberry_jelly_sandwich expandeddelight:peanut_butter minecraft:bread minecraft:crafting_shapeless
+expandeddelight:crushing_mallet | minecraft:crafting_shaped | expandeddelight:crushing_mallet minecraft:cobblestone minecraft:crafting_shaped minecraft:stick
+expandeddelight:cutting/cheese_wheel | farmersdelight:cutting | c:tools/knife expandeddelight:cheese_slice expandeddelight:cheese_wheel farmersdelight:cutting
+expandeddelight:cutting/cinnamon_door | farmersdelight:cutting | expandeddelight:cinnamon_door expandeddelight:cinnamon_planks farmersdelight:cutting minecraft:axes
+expandeddelight:cutting/cinnamon_hanging_sign | farmersdelight:cutting | expandeddelight:cinnamon_hanging_sign expandeddelight:cinnamon_planks farmersdelight:cutting minecraft:axes
+expandeddelight:cutting/cinnamon_log | farmersdelight:cutting | expandeddelight:cinnamon_log expandeddelight:cinnamon_stick expandeddelight:stripped_cinnamon_log farmersdelight:cutting minecraft:axes
+expandeddelight:cutting/cinnamon_sign | farmersdelight:cutting | expandeddelight:cinnamon_planks expandeddelight:cinnamon_sign farmersdelight:cutting minecraft:axes
+expandeddelight:cutting/cinnamon_stick | farmersdelight:cutting | expandeddelight:cinnamon expandeddelight:cinnamon_stick expandeddelight:crushing_tools farmersdelight:cutting
+expandeddelight:cutting/cinnamon_trapdoor | farmersdelight:cutting | expandeddelight:cinnamon_planks expandeddelight:cinnamon_trapdoor farmersdelight:cutting minecraft:axes
+expandeddelight:cutting/cinnamon_wood | farmersdelight:cutting | expandeddelight:cinnamon_stick expandeddelight:cinnamon_wood expandeddelight:stripped_cinnamon_wood farmersdelight:cutting minecraft:axes
+expandeddelight:cutting/cranberry_cobbler | farmersdelight:cutting | c:tools/knife expandeddelight:cranberry_cobbler expandeddelight:cranberry_cobbler_slice farmersdelight:cutting
+expandeddelight:cutting/goat_cheese_wheel | farmersdelight:cutting | c:tools/knife expandeddelight:goat_cheese_slice expandeddelight:goat_cheese_wheel farmersdelight:cutting
+expandeddelight:cutting/honeyed_goat_cheese_tart | farmersdelight:cutting | c:tools/knife expandeddelight:honeyed_goat_cheese_tart expandeddelight:honeyed_goat_cheese_tart_slice farmersdelight:cutting
+expandeddelight:cutting/salt_rock | farmersdelight:cutting | expandeddelight:crushing_tools expandeddelight:salt expandeddelight:salt_rock farmersdelight:cutting
+expandeddelight:cutting/sugar_cane | farmersdelight:cutting | expandeddelight:crushing_tools farmersdelight:cutting minecraft:sugar minecraft:sugar_cane
+expandeddelight:cutting/wild_asparagus | farmersdelight:cutting | c:tools/knife expandeddelight:asparagus expandeddelight:asparagus_seeds expandeddelight:wild_asparagus farmersdelight:cutting minecraft:brown_dye
+expandeddelight:cutting/wild_chili_pepper | farmersdelight:cutting | c:tools/knife expandeddelight:chili_pepper expandeddelight:chili_pepper_seeds expandeddelight:wild_chili_pepper farmersdelight:cutting minecraft:white_dye
+expandeddelight:cutting/wild_peanuts | farmersdelight:cutting | c:tools/knife expandeddelight:peanut expandeddelight:wild_peanuts farmersdelight:cutting minecraft:yellow_dye
+expandeddelight:cutting/wild_sweet_potato | farmersdelight:cutting | c:tools/knife expandeddelight:sweet_potato expandeddelight:wild_sweet_potato farmersdelight:cutting minecraft:green_dye
+expandeddelight:deepslate_salt_rock_from_blasting | minecraft:blasting | expandeddelight:deepslate_salt_ore expandeddelight:salt_rock minecraft:blasting
+expandeddelight:deepslate_salt_rock_from_smelting | minecraft:smelting | expandeddelight:deepslate_salt_ore expandeddelight:salt_rock minecraft:smelting
+expandeddelight:glass_jar | minecraft:crafting_shaped | expandeddelight:glass_jar minecraft:crafting_shaped minecraft:glass minecraft:paper
+expandeddelight:glow_berry_jelly_sandwich | minecraft:crafting_shapeless | c:jams/glow_berry expandeddelight:glow_berry_jelly_sandwich expandeddelight:peanut_butter minecraft:bread minecraft:crafting_shapeless
+expandeddelight:glow_berry_sweet_roll | minecraft:crafting_shapeless | c:dusts/cinnamon c:foods/dough c:foods/milk expandeddelight:glow_berry_sweet_roll minecraft:crafting_shapeless minecraft:glow_berries minecraft:sugar
+expandeddelight:goat_cheese_beetroot_salad | minecraft:crafting_shapeless | c:crops/beetroot c:foods/goat_cheese c:foods/leafy_green expandeddelight:goat_cheese_beetroot_salad minecraft:bowl minecraft:crafting_shapeless
+expandeddelight:goat_milk_bottle | minecraft:crafting_shapeless | expandeddelight:goat_milk_bottle expandeddelight:goat_milk_bucket minecraft:crafting_shapeless minecraft:glass_bottle
+expandeddelight:grilled_cheese | minecraft:campfire_cooking | expandeddelight:cheese_sandwich expandeddelight:grilled_cheese minecraft:campfire_cooking
+expandeddelight:honeyed_goat_cheese_tart | minecraft:crafting_shaped | c:eggs c:foods/goat_cheese c:foods/milk expandeddelight:honeyed_goat_cheese_tart farmersdelight:pie_crust minecraft:crafting_shaped minecraft:honey_bottle
+expandeddelight:honeyed_goat_cheese_tart_from_slices | minecraft:crafting_shaped | expandeddelight:honeyed_goat_cheese_tart expandeddelight:honeyed_goat_cheese_tart_slice minecraft:crafting_shaped
+expandeddelight:juicer | minecraft:crafting_shaped | c:ingots/iron expandeddelight:juicer minecraft:barrel minecraft:crafting_shaped
+expandeddelight:juicing/apple_juice | expandeddelight:juicing | expandeddelight:apple_juice expandeddelight:juicing minecraft:apple minecraft:glass_bottle minecraft:sugar
+expandeddelight:juicing/cranberry_juice | expandeddelight:juicing | expandeddelight:cranberries expandeddelight:cranberry_juice expandeddelight:juicing minecraft:glass_bottle minecraft:sugar
+expandeddelight:juicing/glow_berry_juice | expandeddelight:juicing | expandeddelight:glow_berry_juice expandeddelight:juicing minecraft:glass_bottle minecraft:glow_berries minecraft:sugar
+expandeddelight:juicing/melon_juice | expandeddelight:juicing | expandeddelight:juicing farmersdelight:melon_juice minecraft:glass_bottle minecraft:melon_slice minecraft:sugar
+expandeddelight:juicing/sweet_berry_juice | expandeddelight:juicing | expandeddelight:juicing expandeddelight:sweet_berry_juice minecraft:glass_bottle minecraft:sugar minecraft:sweet_berries
+expandeddelight:peanut_butter_honey_sandwich | minecraft:crafting_shapeless | expandeddelight:peanut_butter expandeddelight:peanut_butter_honey_sandwich minecraft:bread minecraft:crafting_shapeless minecraft:honey_bottle
+expandeddelight:peanut_butter_sandwich | minecraft:crafting_shapeless | expandeddelight:peanut_butter expandeddelight:peanut_butter_sandwich minecraft:bread minecraft:crafting_shapeless
+expandeddelight:peanut_salad | minecraft:crafting_shapeless | c:crops/peanut c:crops/tomato c:foods/leafy_green expandeddelight:peanut_salad minecraft:bowl minecraft:crafting_shapeless
+expandeddelight:salt_rock_from_blasting | minecraft:blasting | expandeddelight:salt_ore expandeddelight:salt_rock minecraft:blasting
+expandeddelight:salt_rock_from_smelting | minecraft:smelting | expandeddelight:salt_ore expandeddelight:salt_rock minecraft:smelting
+expandeddelight:snickerdoodle | minecraft:crafting_shaped | c:crops/wheat expandeddelight:cinnamon expandeddelight:snickerdoodle minecraft:crafting_shaped
+expandeddelight:sugar_cookie | minecraft:crafting_shaped | c:crops/wheat expandeddelight:sugar_cookie minecraft:crafting_shaped minecraft:sugar
+expandeddelight:sweet_berry_jelly_sandwich | minecraft:crafting_shapeless | c:jams/sweet_berry expandeddelight:peanut_butter expandeddelight:sweet_berry_jelly_sandwich minecraft:bread minecraft:crafting_shapeless
+expandeddelight:sweet_potato | minecraft:crafting_shapeless | expandeddelight:sweet_potato expandeddelight:sweet_potato_crate minecraft:crafting_shapeless
+expandeddelight:sweet_potato_crate | minecraft:crafting_shapeless | expandeddelight:sweet_potato expandeddelight:sweet_potato_crate minecraft:crafting_shapeless
+expandeddelight:sweet_potato_salad | minecraft:crafting_shapeless | c:crops/onion c:crops/sweet_potato c:dusts/cinnamon c:foods/leafy_green expandeddelight:sweet_potato_salad minecraft:bowl minecraft:crafting_shapeless
+expandeddelight:sweet_roll | minecraft:crafting_shapeless | c:dusts/cinnamon c:foods/dough c:foods/milk expandeddelight:sweet_roll minecraft:crafting_shapeless minecraft:sugar
+farmersdelight:melon_juice | ? | neoforge:never
+farmersdelight:wheat_dough_from_eggs | minecraft:crafting_shapeless | c:eggs expandeddelight:salt farmersdelight:wheat_dough minecraft:crafting_shapeless minecraft:wheat neoforge:item_exists
+farmersdelight:wheat_dough_from_water | minecraft:crafting_shapeless | expandeddelight:salt farmersdelight:wheat_dough minecraft:crafting_shapeless minecraft:water_bucket minecraft:wheat neoforge:item_exists
+farmersrespite:brewing/melon_juice_from_water | ? | neoforge:never
+minecraft:cutting/blaze_rod | farmersdelight:cutting | expandeddelight:crushing_tools farmersdelight:cutting minecraft:blaze_powder minecraft:blaze_rod
+minecraft:cutting/bone | farmersdelight:cutting | expandeddelight:crushing_tools farmersdelight:cutting minecraft:bone minecraft:bone_meal

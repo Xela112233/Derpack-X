@@ -1,0 +1,147 @@
+vinery:acacia_lattice | minecraft:crafting_shaped | minecraft:acacia_planks minecraft:crafting_shaped minecraft:stick vinery:acacia_lattice
+vinery:acacia_wine_rack_big | minecraft:crafting_shaped | minecraft:acacia_planks minecraft:acacia_slab minecraft:crafting_shaped vinery:acacia_wine_rack_big
+vinery:acacia_wine_rack_mid | minecraft:crafting_shaped | minecraft:acacia_planks minecraft:crafting_shaped minecraft:glass_pane vinery:acacia_wine_rack_mid
+vinery:acacia_wine_rack_small | minecraft:crafting_shaped | minecraft:acacia_planks minecraft:acacia_slab minecraft:crafting_shaped vinery:acacia_wine_rack_small
+vinery:apple_bag | minecraft:crafting_shaped | minecraft:apple minecraft:crafting_shaped vinery:apple_bag
+vinery:apple_fermenting/apple_juice | vinery:apple_fermenting | vinery:apple_fermenting vinery:apple_juice vinery:apple_mash
+vinery:apple_fermenting/honey_bottle | vinery:apple_fermenting | minecraft:honey_bottle minecraft:honeycomb vinery:apple_fermenting
+vinery:apple_mashing/apple_mash | vinery:apple_mashing | minecraft:apple vinery:apple_mash vinery:apple_mashing
+vinery:apple_mashing/honey_comb | vinery:apple_mashing | minecraft:honeycomb minecraft:honeycomb_block vinery:apple_mashing
+vinery:apple_wood | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:apple_log vinery:apple_wood
+vinery:apples | minecraft:crafting_shaped | minecraft:apple minecraft:crafting_shaped vinery:apple_bag
+vinery:bamboo_lattice | minecraft:crafting_shaped | minecraft:bamboo_planks minecraft:crafting_shaped minecraft:stick vinery:bamboo_lattice
+vinery:bamboo_wine_rack_big | minecraft:crafting_shaped | minecraft:bamboo_planks minecraft:bamboo_slab minecraft:crafting_shaped vinery:bamboo_wine_rack_big
+vinery:bamboo_wine_rack_mid | minecraft:crafting_shaped | minecraft:bamboo_planks minecraft:crafting_shaped minecraft:glass_pane vinery:bamboo_wine_rack_mid
+vinery:bamboo_wine_rack_small | minecraft:crafting_shaped | minecraft:bamboo_planks minecraft:bamboo_slab minecraft:crafting_shaped vinery:bamboo_wine_rack_small
+vinery:banner_from_smithing_table | minecraft:smithing_transform | minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform vinery:vinery_standard
+vinery:birch_lattice | minecraft:crafting_shaped | minecraft:birch_planks minecraft:crafting_shaped minecraft:stick vinery:birch_lattice
+vinery:birch_wine_rack_big | minecraft:crafting_shaped | minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped vinery:birch_wine_rack_big
+vinery:birch_wine_rack_mid | minecraft:crafting_shaped | minecraft:birch_planks minecraft:crafting_shaped minecraft:glass_pane vinery:birch_wine_rack_mid
+vinery:birch_wine_rack_small | minecraft:crafting_shaped | minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped vinery:birch_wine_rack_small
+vinery:cherries | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:cherry vinery:cherry_bag
+vinery:cherry_bag | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:cherry vinery:cherry_bag
+vinery:cherry_lattice | minecraft:crafting_shaped | minecraft:cherry_planks minecraft:crafting_shaped minecraft:stick vinery:cherry_lattice
+vinery:cherry_wine_rack_big | minecraft:crafting_shaped | minecraft:cherry_planks minecraft:cherry_slab minecraft:crafting_shaped vinery:cherry_wine_rack_big
+vinery:cherry_wine_rack_mid | minecraft:crafting_shaped | minecraft:cherry_planks minecraft:crafting_shaped minecraft:glass_pane vinery:cherry_wine_rack_mid
+vinery:cherry_wine_rack_small | minecraft:crafting_shaped | minecraft:cherry_planks minecraft:crafting_shaped minecraft:spruce_slab vinery:cherry_wine_rack_small
+vinery:coarse_dirt_slab | minecraft:crafting_shapeless | minecraft:coarse_dirt minecraft:crafting_shapeless vinery:coarse_dirt_slab
+vinery:dark_cherry_barrel | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_barrel vinery:dark_cherry_planks vinery:dark_cherry_slab
+vinery:dark_cherry_beam | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_beam vinery:dark_cherry_log
+vinery:dark_cherry_big_table | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:iron_ingot vinery:dark_cherry_big_table vinery:dark_cherry_planks
+vinery:dark_cherry_boat | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_boat vinery:dark_cherry_planks
+vinery:dark_cherry_button | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:dark_cherry_button vinery:dark_cherry_planks
+vinery:dark_cherry_cabinet | minecraft:crafting_shaped | minecraft:barrel minecraft:crafting_shaped vinery:dark_cherry_cabinet vinery:dark_cherry_planks
+vinery:dark_cherry_chair | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick vinery:dark_cherry_chair vinery:dark_cherry_planks vinery:dark_cherry_slab
+vinery:dark_cherry_chest_boat | minecraft:crafting_shapeless | minecraft:chest minecraft:crafting_shapeless vinery:dark_cherry_boat vinery:dark_cherry_chest_boat
+vinery:dark_cherry_door | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_door vinery:dark_cherry_planks
+vinery:dark_cherry_drawer | minecraft:crafting_shaped | minecraft:barrel minecraft:crafting_shaped vinery:dark_cherry_drawer vinery:dark_cherry_planks vinery:dark_cherry_slab
+vinery:dark_cherry_fence | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick vinery:dark_cherry_fence vinery:dark_cherry_planks
+vinery:dark_cherry_fence_gate | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick vinery:dark_cherry_fence_gate vinery:dark_cherry_planks
+vinery:dark_cherry_floorboard | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_floorboard vinery:dark_cherry_planks
+vinery:dark_cherry_hanging_sign | minecraft:crafting_shaped | minecraft:chain minecraft:crafting_shaped vinery:dark_cherry_hanging_sign vinery:stripped_dark_cherry_log
+vinery:dark_cherry_lattice | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick vinery:dark_cherry_lattice vinery:dark_cherry_planks
+vinery:dark_cherry_planks | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:dark_cherry_log vinery:dark_cherry_planks
+vinery:dark_cherry_planks_from_stripped_logs | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:dark_cherry_planks vinery:stripped_dark_cherry_log
+vinery:dark_cherry_planks_from_stripped_wood | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:dark_cherry_planks vinery:stripped_dark_cherry_wood
+vinery:dark_cherry_planks_from_wood | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:dark_cherry_planks vinery:dark_cherry_wood
+vinery:dark_cherry_pressure_plate | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_planks vinery:dark_cherry_pressure_plate
+vinery:dark_cherry_shelf | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:iron_nugget vinery:dark_cherry_shelf vinery:dark_cherry_slab
+vinery:dark_cherry_sign | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick vinery:dark_cherry_planks vinery:dark_cherry_sign
+vinery:dark_cherry_slab | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_planks vinery:dark_cherry_slab
+vinery:dark_cherry_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_planks vinery:dark_cherry_stairs
+vinery:dark_cherry_table | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:stick vinery:dark_cherry_planks vinery:dark_cherry_slab vinery:dark_cherry_table
+vinery:dark_cherry_trapdoor | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_planks vinery:dark_cherry_trapdoor
+vinery:dark_cherry_wine_rack_big | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_planks vinery:dark_cherry_slab vinery:dark_cherry_trapdoor vinery:dark_cherry_wine_rack_big
+vinery:dark_cherry_wine_rack_mid | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glass_pane vinery:dark_cherry_planks vinery:dark_cherry_wine_rack_mid
+vinery:dark_cherry_wine_rack_small | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_planks vinery:dark_cherry_slab vinery:dark_cherry_wine_rack_small
+vinery:dark_cherry_wood | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:dark_cherry_log vinery:dark_cherry_wood
+vinery:dark_oak_lattice | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:stick vinery:dark_oak_lattice
+vinery:dark_oak_wine_rack_big | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab vinery:dark_oak_wine_rack_big
+vinery:dark_oak_wine_rack_mid | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:glass_pane vinery:dark_oak_wine_rack_mid
+vinery:dark_oak_wine_rack_small | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab vinery:dark_oak_wine_rack_small
+vinery:dirt_slab | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:dirt vinery:dirt_slab
+vinery:fermentation_barrel | minecraft:crafting_shaped | minecraft:barrel minecraft:crafting_shaped minecraft:stick vinery:fermentation_barrel
+vinery:grapevine_pot | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:planks minecraft:wooden_slabs vinery:grapevine_pot
+vinery:grapevine_stem | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:logs vinery:grapevine_stem
+vinery:grass_slab | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:grass_block vinery:grass_slab
+vinery:jungle_lattice | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_planks minecraft:stick vinery:jungle_lattice
+vinery:jungle_wine_rack_big | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_planks minecraft:jungle_slab vinery:jungle_wine_rack_big
+vinery:jungle_wine_rack_mid | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glass_pane minecraft:jungle_planks vinery:jungle_wine_rack_mid
+vinery:jungle_wine_rack_small | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:jungle_planks minecraft:jungle_slab vinery:jungle_wine_rack_small
+vinery:mangrove_lattice | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mangrove_planks minecraft:stick vinery:mangrove_lattice
+vinery:mangrove_wine_rack_big | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mangrove_planks minecraft:mangrove_slab vinery:mangrove_wine_rack_big
+vinery:mangrove_wine_rack_mid | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glass_pane minecraft:mangrove_planks vinery:mangrove_wine_rack_mid
+vinery:mangrove_wine_rack_small | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:mangrove_planks minecraft:mangrove_slab vinery:mangrove_wine_rack_small
+vinery:oak_lattice | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:oak_planks minecraft:stick vinery:oak_lattice
+vinery:oak_planks | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:oak_planks vinery:apple_log
+vinery:oak_planks_from_wood | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:oak_planks vinery:apple_wood
+vinery:oak_wine_rack_big | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:oak_planks minecraft:oak_slab vinery:oak_wine_rack_big
+vinery:oak_wine_rack_mid | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glass_pane minecraft:oak_planks vinery:oak_wine_rack_mid
+vinery:oak_wine_rack_small | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:oak_planks minecraft:oak_slab vinery:oak_wine_rack_small
+vinery:red_grape | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:red_grape vinery:red_grape_bag
+vinery:red_grape_bag | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:red_grape vinery:red_grape_bag
+vinery:red_jungle_grape | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:jungle_grapes_red vinery:red_jungle_grape_bag
+vinery:red_jungle_grape_bag | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:jungle_grapes_red vinery:red_jungle_grape_bag
+vinery:red_savanna_grape | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:red_savanna_grape_bag vinery:savanna_grapes_red
+vinery:red_savanna_grape_bag | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:red_savanna_grape_bag vinery:savanna_grapes_red
+vinery:red_taiga_grape | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:red_taiga_grape_bag vinery:taiga_grapes_red
+vinery:red_taiga_grape_bag | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:red_taiga_grape_bag vinery:taiga_grapes_red
+vinery:seed_from_red_grape | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:red_grape vinery:red_grape_seeds
+vinery:seed_from_red_jungle_grape | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:jungle_grape_seeds_red vinery:jungle_grapes_red
+vinery:seed_from_red_savanna_grape | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:savanna_grape_seeds_red vinery:savanna_grapes_red
+vinery:seed_from_red_taiga_grape | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:taiga_grape_seeds_red vinery:taiga_grapes_red
+vinery:seed_from_white_grape | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:white_grape vinery:white_grape_seeds
+vinery:seed_from_white_jungle_grape | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:jungle_grape_seeds_white vinery:jungle_grapes_white
+vinery:seed_from_white_savanna_grape | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:savanna_grape_seeds_white vinery:savanna_grapes_white
+vinery:seed_from_white_taiga_grape | minecraft:crafting_shapeless | minecraft:crafting_shapeless vinery:taiga_grape_seeds_white vinery:taiga_grapes_white
+vinery:spruce_lattice | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_planks minecraft:stick vinery:spruce_lattice
+vinery:spruce_wine_rack_big | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_planks minecraft:spruce_slab vinery:spruce_wine_rack_big
+vinery:spruce_wine_rack_mid | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glass_pane minecraft:spruce_planks vinery:spruce_wine_rack_mid
+vinery:spruce_wine_rack_small | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_planks minecraft:spruce_slab vinery:spruce_wine_rack_small
+vinery:stackable_log | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:logs minecraft:stick vinery:stackable_log
+vinery:storage_pot | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_slab vinery:storage_pot
+vinery:straw_hat | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_wool minecraft:wheat vinery:straw_hat
+vinery:stripped_dark_cherry_wood | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:stripped_dark_cherry_log vinery:stripped_dark_cherry_wood
+vinery:white_grape | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:white_grape vinery:white_grape_bag
+vinery:white_grape_bag | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:white_grape vinery:white_grape_bag
+vinery:white_jungle_grape | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:jungle_grapes_white vinery:white_jungle_grape_bag
+vinery:white_jungle_grape_bag | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:jungle_grapes_white vinery:white_jungle_grape_bag
+vinery:white_savanna_grape | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:savanna_grapes_white vinery:white_savanna_grape_bag
+vinery:white_savanna_grape_bag | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:savanna_grapes_white vinery:white_savanna_grape_bag
+vinery:white_taiga_grape | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:taiga_grapes_white vinery:white_taiga_grape_bag
+vinery:white_taiga_grape_bag | minecraft:crafting_shaped | minecraft:crafting_shaped vinery:taiga_grapes_white vinery:white_taiga_grape_bag
+vinery:window | minecraft:crafting_shaped | minecraft:black_dye minecraft:crafting_shaped minecraft:glass minecraft:red_dye minecraft:yellow_dye vinery:window_block
+vinery:window_block | minecraft:crafting_shaped | minecraft:black_stained_glass_pane minecraft:crafting_shaped minecraft:red_stained_glass_pane minecraft:yellow_stained_glass_pane vinery:window
+vinery:window_from_glass_pane | minecraft:crafting_shaped | minecraft:black_dye minecraft:crafting_shaped minecraft:glass_pane minecraft:red_dye minecraft:yellow_dye vinery:window
+vinery:wine_bottle | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glass_bottle vinery:wine_bottle
+vinery:wine_box | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glass_pane minecraft:wooden_slabs vinery:wine_box
+vinery:wine_fermentation/aegis_wine | vinery:wine_fermentation | minecraft:iron_ingot minecraft:kelp minecraft:sugar vinery:aegis_wine vinery:wine_fermentation
+vinery:wine_fermentation/apple_cider | vinery:wine_fermentation | minecraft:sugar vinery:apple_cider vinery:wine_fermentation
+vinery:wine_fermentation/apple_wine | vinery:wine_fermentation | vinery:apple_juice vinery:apple_wine vinery:wine_fermentation
+vinery:wine_fermentation/bolvar_wine | vinery:wine_fermentation | minecraft:honey_bottle vinery:bolvar_wine vinery:cherry vinery:wine_fermentation
+vinery:wine_fermentation/bottle_mojang_noir | vinery:wine_fermentation | minecraft:honey_bottle vinery:bottle_mojang_noir vinery:cherry vinery:red_wine vinery:wine_fermentation
+vinery:wine_fermentation/chenet_wine | vinery:wine_fermentation | minecraft:honey_bottle minecraft:spider_eye vinery:chenet_wine vinery:wine_fermentation
+vinery:wine_fermentation/cherry_wine | vinery:wine_fermentation | vinery:cherry vinery:cherry_wine vinery:wine_fermentation
+vinery:wine_fermentation/chorus_wine | vinery:wine_fermentation | minecraft:chorus_fruit vinery:chorus_wine vinery:wine_fermentation
+vinery:wine_fermentation/clark_wine | vinery:wine_fermentation | minecraft:sugar vinery:clark_wine vinery:wine_fermentation
+vinery:wine_fermentation/creepers_crush | vinery:wine_fermentation | minecraft:gunpowder vinery:creepers_crush vinery:wine_fermentation
+vinery:wine_fermentation/cristel_wine | vinery:wine_fermentation | minecraft:blaze_rod minecraft:feather minecraft:sugar vinery:cristel_wine vinery:wine_fermentation
+vinery:wine_fermentation/eiswein | vinery:wine_fermentation | minecraft:snowball vinery:eiswein vinery:wine_fermentation
+vinery:wine_fermentation/glowing_wine | vinery:wine_fermentation | minecraft:glow_berries vinery:glowing_wine vinery:wine_fermentation
+vinery:wine_fermentation/jellie_wine | vinery:wine_fermentation | vinery:apple_wine vinery:bolvar_wine vinery:chenet_wine vinery:jellie_wine vinery:wine_fermentation
+vinery:wine_fermentation/jo_special_mixture | vinery:wine_fermentation | minecraft:fermented_spider_eye vinery:jo_special_mixture vinery:wine_fermentation
+vinery:wine_fermentation/kelp_cider | vinery:wine_fermentation | minecraft:kelp vinery:kelp_cider vinery:wine_fermentation
+vinery:wine_fermentation/lilitu_wine | vinery:wine_fermentation | minecraft:honey_bottle vinery:cherry vinery:lilitu_wine vinery:wine_fermentation
+vinery:wine_fermentation/magnetic_wine | vinery:wine_fermentation | minecraft:iron_ingot vinery:magnetic_wine vinery:wine_fermentation
+vinery:wine_fermentation/mead | vinery:wine_fermentation | minecraft:honey_bottle minecraft:sugar vinery:mead vinery:wine_fermentation
+vinery:wine_fermentation/mellohi_wine | vinery:wine_fermentation | minecraft:glowstone_dust minecraft:sugar vinery:mellohi_wine vinery:wine_fermentation
+vinery:wine_fermentation/noir_wine | vinery:wine_fermentation | minecraft:sweet_berries vinery:noir_wine vinery:wine_fermentation
+vinery:wine_fermentation/red_wine | vinery:wine_fermentation | minecraft:sugar vinery:red_wine vinery:wine_fermentation
+vinery:wine_fermentation/solaris_wine | vinery:wine_fermentation | minecraft:honey_bottle minecraft:sweet_berries vinery:solaris_wine vinery:wine_fermentation
+vinery:wine_fermentation/stal_wine | vinery:wine_fermentation | minecraft:cocoa_beans minecraft:sugar vinery:stal_wine vinery:wine_fermentation
+vinery:wine_fermentation/strad_wine | vinery:wine_fermentation | minecraft:cocoa_beans minecraft:sugar vinery:strad_wine vinery:wine_fermentation
+vinery:wine_fermentation/villagers_fright | vinery:wine_fermentation | minecraft:arrow vinery:villagers_fright vinery:wine_fermentation
+vinery:wine_press | minecraft:crafting_shaped | minecraft:barrel minecraft:crafting_shaped minecraft:iron_trapdoor minecraft:stick vinery:apple_press
+vinery:winemaker_apron | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:red_wool vinery:winemaker_apron
+vinery:winemaker_boots | minecraft:crafting_shaped | minecraft:brown_wool minecraft:crafting_shaped minecraft:rabbit_hide vinery:winemaker_boots
+vinery:winemaker_leggings | minecraft:crafting_shaped | minecraft:blue_wool minecraft:crafting_shaped minecraft:gold_ingot minecraft:leather minecraft:white_wool vinery:winemaker_leggings

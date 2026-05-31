@@ -1,0 +1,79 @@
+# create_compressed-2.2.0-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="create_compressed"
+version="2.2.0"
+displayName="Create Compressed"
+modId="neoforge"
+versionRange="[21.1.65,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+
+## blocks
+create_compressed:belt_block
+create_compressed:brass_sheet_block
+create_compressed:cinder_flour_pile
+create_compressed:cogwheel_block
+create_compressed:copper_sheet_block
+create_compressed:crushed_aluminum_pile
+create_compressed:crushed_copper_pile
+create_compressed:crushed_gold_pile
+create_compressed:crushed_iron_pile
+create_compressed:crushed_lead_pile
+create_compressed:crushed_nickel_pile
+create_compressed:crushed_osmium_pile
+create_compressed:crushed_platinum_pile
+create_compressed:crushed_quicksilver_pile
+create_compressed:crushed_silver_pile
+create_compressed:crushed_tin_pile
+create_compressed:crushed_uranium_pile
+create_compressed:crushed_zinc_pile
+create_compressed:dough_block
+create_compressed:gold_sheet_block
+create_compressed:iron_sheet_block
+create_compressed:large_cogwheel_block
+create_compressed:mechanism_block
+create_compressed:powdered_obsidian_pile
+create_compressed:pulp_block
+create_compressed:rose_quartz_crystal_block
+create_compressed:rose_quartz_polished_block
+create_compressed:shaft_bundle
+create_compressed:sturdy_sheet_block
+create_compressed:wheat_flour_pile
+
+## items
+create_compressed:belt_block
+create_compressed:brass_sheet_block
+create_compressed:cinder_flour_pile
+create_compressed:cogwheel_block
+create_compressed:copper_sheet_block
+create_compressed:crushed_aluminum_pile
+create_compressed:crushed_copper_pile
+create_compressed:crushed_gold_pile
+create_compressed:crushed_iron_pile
+create_compressed:crushed_lead_pile
+create_compressed:crushed_nickel_pile
+create_compressed:crushed_osmium_pile
+create_compressed:crushed_platinum_pile
+create_compressed:crushed_quicksilver_pile
+create_compressed:crushed_silver_pile
+create_compressed:crushed_tin_pile
+create_compressed:crushed_uranium_pile
+create_compressed:crushed_zinc_pile
+create_compressed:dough_block
+create_compressed:gold_sheet_block
+create_compressed:iron_sheet_block
+create_compressed:large_cogwheel_block
+create_compressed:mechanism_block
+create_compressed:powdered_obsidian_pile
+create_compressed:pulp_block
+create_compressed:rose_quartz_crystal_block
+create_compressed:rose_quartz_polished_block
+create_compressed:shaft_bundle
+create_compressed:sturdy_sheet_block
+create_compressed:wheat_flour_pile
+
+## neoforge biome_modifiers
+
+## c: common tag membership

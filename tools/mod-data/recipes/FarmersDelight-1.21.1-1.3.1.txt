@@ -1,0 +1,333 @@
+farmersdelight:acacia_cabinet | minecraft:crafting_shaped | farmersdelight:acacia_cabinet minecraft:acacia_slab minecraft:acacia_trapdoor minecraft:crafting_shaped
+farmersdelight:apple_pie | minecraft:crafting_shaped | c:crops/wheat farmersdelight:apple_pie farmersdelight:pie_crust minecraft:apple minecraft:crafting_shaped minecraft:sugar
+farmersdelight:apple_pie_from_slices | minecraft:crafting_shaped | farmersdelight:apple_pie farmersdelight:apple_pie_slice minecraft:crafting_shaped
+farmersdelight:bacon_and_eggs | minecraft:crafting_shapeless | c:foods/cooked_bacon c:foods/cooked_egg farmersdelight:bacon_and_eggs minecraft:bowl minecraft:crafting_shapeless
+farmersdelight:bacon_sandwich | minecraft:crafting_shapeless | c:crops/tomato c:foods/bread c:foods/cooked_bacon c:foods/leafy_green farmersdelight:bacon_sandwich minecraft:crafting_shapeless
+farmersdelight:bamboo_basket | minecraft:crafting_shaped | farmersdelight:bamboo_basket farmersdelight:canvas minecraft:bamboo minecraft:crafting_shaped
+farmersdelight:bamboo_cabinet | minecraft:crafting_shaped | farmersdelight:bamboo_cabinet minecraft:bamboo_slab minecraft:bamboo_trapdoor minecraft:crafting_shaped
+farmersdelight:barbecue_stick | minecraft:crafting_shapeless | c:crops/onion c:crops/tomato c:foods/cooked_meat farmersdelight:barbecue_stick minecraft:crafting_shapeless minecraft:stick
+farmersdelight:beef_patty | minecraft:smelting | farmersdelight:beef_patty farmersdelight:minced_beef minecraft:smelting
+farmersdelight:beef_patty_from_campfire_cooking | minecraft:campfire_cooking | farmersdelight:beef_patty farmersdelight:minced_beef minecraft:campfire_cooking
+farmersdelight:beef_patty_from_smoking | minecraft:smoking | farmersdelight:beef_patty farmersdelight:minced_beef minecraft:smoking
+farmersdelight:beetroot_crate | minecraft:crafting_shaped | farmersdelight:beetroot_crate farmersdelight:vanilla_crates_enabled minecraft:beetroot minecraft:crafting_shaped
+farmersdelight:beetroot_from_crate | minecraft:crafting_shapeless | farmersdelight:beetroot_crate minecraft:beetroot minecraft:crafting_shapeless
+farmersdelight:birch_cabinet | minecraft:crafting_shaped | farmersdelight:birch_cabinet minecraft:birch_slab minecraft:birch_trapdoor minecraft:crafting_shaped
+farmersdelight:black_canvas_sign | minecraft:crafting_shapeless | c:dyes/black farmersdelight:black_canvas_sign farmersdelight:canvas_signs minecraft:crafting_shapeless
+farmersdelight:black_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/black farmersdelight:black_hanging_canvas_sign farmersdelight:hanging_canvas_signs minecraft:crafting_shapeless
+farmersdelight:blue_canvas_sign | minecraft:crafting_shapeless | c:dyes/blue farmersdelight:blue_canvas_sign farmersdelight:canvas_signs minecraft:crafting_shapeless
+farmersdelight:blue_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/blue farmersdelight:blue_hanging_canvas_sign farmersdelight:hanging_canvas_signs minecraft:crafting_shapeless
+farmersdelight:book_from_canvas | minecraft:crafting_shapeless | farmersdelight:canvas minecraft:book minecraft:crafting_shapeless minecraft:paper
+farmersdelight:bread_from_smelting | minecraft:smelting | farmersdelight:wheat_dough minecraft:bread minecraft:smelting
+farmersdelight:bread_from_smoking | minecraft:smoking | farmersdelight:wheat_dough minecraft:bread minecraft:smoking
+farmersdelight:brown_canvas_sign | minecraft:crafting_shapeless | c:dyes/brown farmersdelight:brown_canvas_sign farmersdelight:canvas_signs minecraft:crafting_shapeless
+farmersdelight:brown_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/brown farmersdelight:brown_hanging_canvas_sign farmersdelight:hanging_canvas_signs minecraft:crafting_shapeless
+farmersdelight:cabbage | minecraft:crafting_shapeless | farmersdelight:cabbage farmersdelight:cabbage_crate minecraft:crafting_shapeless
+farmersdelight:cabbage_crate | minecraft:crafting_shaped | farmersdelight:cabbage farmersdelight:cabbage_crate minecraft:crafting_shaped
+farmersdelight:cabbage_from_leaves | minecraft:crafting_shapeless | farmersdelight:cabbage farmersdelight:cabbage_leaf minecraft:crafting_shapeless
+farmersdelight:cake_from_milk_bottle | minecraft:crafting_shaped | c:crops/wheat c:drinks/milk c:eggs minecraft:cake minecraft:crafting_shaped minecraft:sugar
+farmersdelight:cake_from_slices | minecraft:crafting_shapeless | farmersdelight:cake_slice minecraft:cake minecraft:crafting_shapeless
+farmersdelight:canvas | minecraft:crafting_shaped | farmersdelight:canvas farmersdelight:straw minecraft:crafting_shaped
+farmersdelight:canvas_from_canvas_rug | minecraft:crafting_shapeless | farmersdelight:canvas farmersdelight:canvas_rug minecraft:crafting_shapeless
+farmersdelight:canvas_rug | minecraft:crafting_shapeless | farmersdelight:canvas farmersdelight:canvas_rug minecraft:crafting_shapeless
+farmersdelight:canvas_sign | minecraft:crafting_shaped | farmersdelight:canvas farmersdelight:canvas_sign minecraft:crafting_shaped minecraft:planks minecraft:stick
+farmersdelight:carrot_crate | minecraft:crafting_shaped | farmersdelight:carrot_crate farmersdelight:vanilla_crates_enabled minecraft:carrot minecraft:crafting_shaped
+farmersdelight:carrot_from_crate | minecraft:crafting_shapeless | farmersdelight:carrot_crate minecraft:carrot minecraft:crafting_shapeless
+farmersdelight:cherry_cabinet | minecraft:crafting_shaped | farmersdelight:cherry_cabinet minecraft:cherry_slab minecraft:cherry_trapdoor minecraft:crafting_shaped
+farmersdelight:chicken_sandwich | minecraft:crafting_shapeless | c:crops/carrot c:foods/bread c:foods/cooked_chicken c:foods/leafy_green farmersdelight:chicken_sandwich minecraft:crafting_shapeless
+farmersdelight:chocolate_pie | minecraft:crafting_shaped | c:drinks/milk farmersdelight:chocolate_pie farmersdelight:pie_crust minecraft:cocoa_beans minecraft:crafting_shaped minecraft:sugar
+farmersdelight:chocolate_pie_from_slices | minecraft:crafting_shaped | farmersdelight:chocolate_pie farmersdelight:chocolate_pie_slice minecraft:crafting_shaped
+farmersdelight:cod_roll | minecraft:crafting_shapeless | farmersdelight:cod_roll farmersdelight:cod_slice farmersdelight:cooked_rice minecraft:crafting_shapeless
+farmersdelight:cooked_bacon | minecraft:smelting | farmersdelight:bacon farmersdelight:cooked_bacon minecraft:smelting
+farmersdelight:cooked_bacon_from_campfire_cooking | minecraft:campfire_cooking | farmersdelight:bacon farmersdelight:cooked_bacon minecraft:campfire_cooking
+farmersdelight:cooked_bacon_from_smoking | minecraft:smoking | farmersdelight:bacon farmersdelight:cooked_bacon minecraft:smoking
+farmersdelight:cooked_chicken_cuts | minecraft:smelting | farmersdelight:chicken_cuts farmersdelight:cooked_chicken_cuts minecraft:smelting
+farmersdelight:cooked_chicken_cuts_from_campfire_cooking | minecraft:campfire_cooking | farmersdelight:chicken_cuts farmersdelight:cooked_chicken_cuts minecraft:campfire_cooking
+farmersdelight:cooked_chicken_cuts_from_smoking | minecraft:smoking | farmersdelight:chicken_cuts farmersdelight:cooked_chicken_cuts minecraft:smoking
+farmersdelight:cooked_cod_slice | minecraft:smelting | farmersdelight:cod_slice farmersdelight:cooked_cod_slice minecraft:smelting
+farmersdelight:cooked_cod_slice_from_campfire_cooking | minecraft:campfire_cooking | farmersdelight:cod_slice farmersdelight:cooked_cod_slice minecraft:campfire_cooking
+farmersdelight:cooked_cod_slice_from_smoking | minecraft:smoking | farmersdelight:cod_slice farmersdelight:cooked_cod_slice minecraft:smoking
+farmersdelight:cooked_mutton_chops | minecraft:smelting | farmersdelight:cooked_mutton_chops farmersdelight:mutton_chops minecraft:smelting
+farmersdelight:cooked_mutton_chops_from_campfire_cooking | minecraft:campfire_cooking | farmersdelight:cooked_mutton_chops farmersdelight:mutton_chops minecraft:campfire_cooking
+farmersdelight:cooked_mutton_chops_from_smoking | minecraft:smoking | farmersdelight:cooked_mutton_chops farmersdelight:mutton_chops minecraft:smoking
+farmersdelight:cooked_salmon_slice | minecraft:smelting | farmersdelight:cooked_salmon_slice farmersdelight:salmon_slice minecraft:smelting
+farmersdelight:cooked_salmon_slice_from_campfire_cooking | minecraft:campfire_cooking | farmersdelight:cooked_salmon_slice farmersdelight:salmon_slice minecraft:campfire_cooking
+farmersdelight:cooked_salmon_slice_from_smoking | minecraft:smoking | farmersdelight:cooked_salmon_slice farmersdelight:salmon_slice minecraft:smoking
+farmersdelight:cooking/apple_cider | farmersdelight:cooking | farmersdelight:apple_cider farmersdelight:cooking minecraft:apple minecraft:sugar
+farmersdelight:cooking/baked_cod_stew | farmersdelight:cooking | c:crops/potato c:crops/tomato c:eggs c:foods/raw_cod farmersdelight:baked_cod_stew farmersdelight:cooking
+farmersdelight:cooking/beef_stew | farmersdelight:cooking | c:crops/carrot c:crops/potato c:foods/raw_beef farmersdelight:beef_stew farmersdelight:cooking
+farmersdelight:cooking/beetroot_soup | farmersdelight:cooking | c:crops/beetroot farmersdelight:cooking minecraft:beetroot_soup minecraft:bowl
+farmersdelight:cooking/bone_broth | farmersdelight:cooking | c:bones c:mushrooms farmersdelight:bone_broth farmersdelight:cooking minecraft:glow_berries minecraft:glow_lichen minecraft:hanging_roots neoforge:compound
+farmersdelight:cooking/cabbage_rolls | farmersdelight:cooking | c:crops/cabbage c:foods/raw_meat c:foods/safe_raw_fish c:foods/vegetable c:mushrooms farmersdelight:cabbage_rolls farmersdelight:cooking neoforge:compound
+farmersdelight:cooking/chicken_soup | farmersdelight:cooking | c:crops/carrot c:foods/leafy_green c:foods/raw_chicken c:foods/vegetable farmersdelight:chicken_soup farmersdelight:cooking minecraft:melon_slice neoforge:difference
+farmersdelight:cooking/cooked_rice | farmersdelight:cooking | c:crops/rice farmersdelight:cooked_rice farmersdelight:cooking
+farmersdelight:cooking/dog_food | farmersdelight:cooking | c:crops/rice c:foods/raw_meat farmersdelight:cooking farmersdelight:dog_food minecraft:bone_meal minecraft:rotten_flesh
+farmersdelight:cooking/dumplings | farmersdelight:cooking | c:crops/cabbage c:crops/onion c:foods/dough c:foods/raw_beef c:foods/raw_chicken c:foods/raw_pork farmersdelight:cooking farmersdelight:dumplings minecraft:brown_mushroom neoforge:compound
+farmersdelight:cooking/fish_stew | farmersdelight:cooking | c:crops/onion c:foods/safe_raw_fish farmersdelight:cooking farmersdelight:fish_stew farmersdelight:tomato_sauce
+farmersdelight:cooking/fried_rice | farmersdelight:cooking | c:crops/carrot c:crops/onion c:crops/rice c:eggs farmersdelight:cooking farmersdelight:fried_rice
+farmersdelight:cooking/glow_berry_custard | farmersdelight:cooking | c:drinks/milk c:eggs farmersdelight:cooking farmersdelight:glow_berry_custard minecraft:glow_berries minecraft:sugar
+farmersdelight:cooking/hot_cocoa | farmersdelight:cooking | c:drinks/milk farmersdelight:cooking farmersdelight:hot_cocoa minecraft:cocoa_beans minecraft:sugar
+farmersdelight:cooking/mushroom_rice | farmersdelight:cooking | c:crops/rice farmersdelight:cooking farmersdelight:mushroom_rice minecraft:brown_mushroom minecraft:carrot minecraft:potato minecraft:red_mushroom neoforge:compound
+farmersdelight:cooking/mushroom_stew | farmersdelight:cooking | farmersdelight:cooking minecraft:bowl minecraft:brown_mushroom minecraft:mushroom_stew minecraft:red_mushroom
+farmersdelight:cooking/noodle_soup | farmersdelight:cooking | c:eggs c:foods/pasta c:foods/raw_pork farmersdelight:cooking farmersdelight:noodle_soup minecraft:dried_kelp
+farmersdelight:cooking/onion_soup | farmersdelight:cooking | c:crops/onion c:drinks/milk c:foods/bread farmersdelight:cooking farmersdelight:onion_soup
+farmersdelight:cooking/pasta_with_meatballs | farmersdelight:cooking | c:foods/pasta farmersdelight:cooking farmersdelight:minced_beef farmersdelight:pasta_with_meatballs farmersdelight:tomato_sauce
+farmersdelight:cooking/pasta_with_mutton_chop | farmersdelight:cooking | c:foods/pasta c:foods/raw_mutton farmersdelight:cooking farmersdelight:pasta_with_mutton_chop farmersdelight:tomato_sauce
+farmersdelight:cooking/pumpkin_soup | farmersdelight:cooking | c:drinks/milk c:foods/leafy_green c:foods/raw_pork farmersdelight:cooking farmersdelight:pumpkin_slice farmersdelight:pumpkin_soup
+farmersdelight:cooking/rabbit_stew | farmersdelight:cooking | c:crops/carrot c:crops/potato farmersdelight:cooking minecraft:bowl minecraft:brown_mushroom minecraft:rabbit minecraft:rabbit_stew minecraft:red_mushroom neoforge:compound
+farmersdelight:cooking/ratatouille | farmersdelight:cooking | c:crops/beetroot c:crops/onion c:crops/tomato c:foods/vegetable farmersdelight:cooking farmersdelight:ratatouille minecraft:melon_slice neoforge:difference
+farmersdelight:cooking/squid_ink_pasta | farmersdelight:cooking | c:crops/tomato c:foods/pasta c:foods/safe_raw_fish farmersdelight:cooking farmersdelight:squid_ink_pasta minecraft:ink_sac
+farmersdelight:cooking/stuffed_pumpkin_block | farmersdelight:cooking | c:crops/onion c:crops/potato c:crops/rice c:foods/berry c:foods/vegetable farmersdelight:cooking farmersdelight:stuffed_pumpkin_block minecraft:brown_mushroom minecraft:melon_slice minecraft:pumpkin neoforge:difference
+farmersdelight:cooking/tomato_sauce | farmersdelight:cooking | c:crops/tomato farmersdelight:cooking farmersdelight:tomato_sauce
+farmersdelight:cooking/vegetable_noodles | farmersdelight:cooking | c:crops/carrot c:foods/leafy_green c:foods/pasta c:foods/vegetable c:mushrooms farmersdelight:cooking farmersdelight:vegetable_noodles minecraft:melon_slice neoforge:difference
+farmersdelight:cooking/vegetable_soup | farmersdelight:cooking | c:crops/beetroot c:crops/carrot c:crops/potato c:foods/leafy_green farmersdelight:cooking farmersdelight:vegetable_soup
+farmersdelight:cooking_pot | minecraft:crafting_shaped | c:buckets/water c:ingots/iron farmersdelight:cooking_pot minecraft:brick minecraft:crafting_shaped minecraft:wooden_shovel
+farmersdelight:crimson_cabinet | minecraft:crafting_shaped | farmersdelight:crimson_cabinet minecraft:crafting_shaped minecraft:crimson_slab minecraft:crimson_trapdoor
+farmersdelight:cutting/acacia_log | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:acacia_log minecraft:axes minecraft:item.axe.strip minecraft:stripped_acacia_log
+farmersdelight:cutting/acacia_wood | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:acacia_wood minecraft:axes minecraft:item.axe.strip minecraft:stripped_acacia_wood
+farmersdelight:cutting/allium | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:allium minecraft:magenta_dye
+farmersdelight:cutting/apple_pie | farmersdelight:cutting | c:tools/knife farmersdelight:apple_pie farmersdelight:apple_pie_slice farmersdelight:cutting farmersdelight:item_ability
+farmersdelight:cutting/azure_bluet | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:azure_bluet minecraft:light_gray_dye
+farmersdelight:cutting/bamboo_basket | farmersdelight:cutting | farmersdelight:bamboo_basket farmersdelight:canvas farmersdelight:cutting farmersdelight:item_ability minecraft:axes minecraft:bamboo
+farmersdelight:cutting/bamboo_block | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:straw minecraft:axes minecraft:bamboo_block minecraft:item.axe.strip minecraft:stripped_bamboo_block
+farmersdelight:cutting/beef | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:minced_beef minecraft:beef
+farmersdelight:cutting/birch_log | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:birch_log minecraft:item.axe.strip minecraft:stripped_birch_log
+farmersdelight:cutting/birch_wood | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:birch_wood minecraft:item.axe.strip minecraft:stripped_birch_wood
+farmersdelight:cutting/blue_orchid | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:blue_orchid minecraft:light_blue_dye
+farmersdelight:cutting/brown_mushroom_colony | farmersdelight:cutting | c:tools/knife farmersdelight:brown_mushroom_colony farmersdelight:cutting farmersdelight:item_ability minecraft:brown_mushroom
+farmersdelight:cutting/cabbage | farmersdelight:cutting | c:tools/knife farmersdelight:cabbage farmersdelight:cabbage_leaf farmersdelight:cutting farmersdelight:item_ability
+farmersdelight:cutting/cake | farmersdelight:cutting | c:tools/knife farmersdelight:cake_slice farmersdelight:cutting farmersdelight:item_ability minecraft:cake
+farmersdelight:cutting/cherry_log | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:cherry_log minecraft:item.axe.strip minecraft:stripped_cherry_log
+farmersdelight:cutting/cherry_wood | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:cherry_wood minecraft:item.axe.strip minecraft:stripped_cherry_wood
+farmersdelight:cutting/chicken | farmersdelight:cutting | c:tools/knife farmersdelight:chicken_cuts farmersdelight:cutting farmersdelight:item_ability minecraft:bone_meal minecraft:chicken
+farmersdelight:cutting/chocolate_pie | farmersdelight:cutting | c:tools/knife farmersdelight:chocolate_pie farmersdelight:chocolate_pie_slice farmersdelight:cutting farmersdelight:item_ability
+farmersdelight:cutting/clay | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:clay minecraft:clay_ball minecraft:shovels
+farmersdelight:cutting/cod | farmersdelight:cutting | c:tools/knife farmersdelight:cod_slice farmersdelight:cutting farmersdelight:item_ability minecraft:bone_meal minecraft:cod
+farmersdelight:cutting/cooked_chicken | farmersdelight:cutting | c:tools/knife farmersdelight:cooked_chicken_cuts farmersdelight:cutting farmersdelight:item_ability minecraft:bone_meal minecraft:cooked_chicken
+farmersdelight:cutting/cooked_cod | farmersdelight:cutting | c:tools/knife farmersdelight:cooked_cod_slice farmersdelight:cutting farmersdelight:item_ability minecraft:bone_meal minecraft:cooked_cod
+farmersdelight:cutting/cooked_mutton | farmersdelight:cutting | c:tools/knife farmersdelight:cooked_mutton_chops farmersdelight:cutting farmersdelight:item_ability minecraft:cooked_mutton
+farmersdelight:cutting/cooked_salmon | farmersdelight:cutting | c:tools/knife farmersdelight:cooked_salmon_slice farmersdelight:cutting farmersdelight:item_ability minecraft:bone_meal minecraft:cooked_salmon
+farmersdelight:cutting/cornflower | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:blue_dye minecraft:cornflower
+farmersdelight:cutting/crimson_hyphae | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:crimson_hyphae minecraft:item.axe.strip minecraft:stripped_crimson_hyphae
+farmersdelight:cutting/crimson_stem | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:crimson_stem minecraft:item.axe.strip minecraft:stripped_crimson_stem
+farmersdelight:cutting/dandelion | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:dandelion minecraft:yellow_dye
+farmersdelight:cutting/dark_oak_log | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:dark_oak_log minecraft:item.axe.strip minecraft:stripped_dark_oak_log
+farmersdelight:cutting/dark_oak_wood | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:dark_oak_wood minecraft:item.axe.strip minecraft:stripped_dark_oak_wood
+farmersdelight:cutting/gravel | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:flint minecraft:gravel minecraft:shovels
+farmersdelight:cutting/ham | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:ham farmersdelight:item_ability minecraft:bone minecraft:porkchop
+farmersdelight:cutting/ink_sac | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:black_dye minecraft:ink_sac
+farmersdelight:cutting/jungle_log | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:item.axe.strip minecraft:jungle_log minecraft:stripped_jungle_log
+farmersdelight:cutting/jungle_wood | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:item.axe.strip minecraft:jungle_wood minecraft:stripped_jungle_wood
+farmersdelight:cutting/kelp_roll | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:kelp_roll farmersdelight:kelp_roll_slice
+farmersdelight:cutting/lily_of_the_valley | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:lily_of_the_valley minecraft:white_dye
+farmersdelight:cutting/mangrove_log | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:item.axe.strip minecraft:mangrove_log minecraft:stripped_mangrove_log
+farmersdelight:cutting/mangrove_wood | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:item.axe.strip minecraft:mangrove_wood minecraft:stripped_mangrove_wood
+farmersdelight:cutting/melon | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:melon minecraft:melon_slice
+farmersdelight:cutting/mutton | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:mutton_chops minecraft:mutton
+farmersdelight:cutting/oak_log | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:item.axe.strip minecraft:oak_log minecraft:stripped_oak_log
+farmersdelight:cutting/oak_wood | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:item.axe.strip minecraft:oak_wood minecraft:stripped_oak_wood
+farmersdelight:cutting/orange_tulip | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:orange_dye minecraft:orange_tulip
+farmersdelight:cutting/oxeye_daisy | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:light_gray_dye minecraft:oxeye_daisy
+farmersdelight:cutting/pink_tulip | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:pink_dye minecraft:pink_tulip
+farmersdelight:cutting/poppy | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:poppy minecraft:red_dye
+farmersdelight:cutting/porkchop | farmersdelight:cutting | c:tools/knife farmersdelight:bacon farmersdelight:cutting farmersdelight:item_ability minecraft:porkchop
+farmersdelight:cutting/pumpkin | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:pumpkin_slice minecraft:pumpkin
+farmersdelight:cutting/pumpkin_pie | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:pumpkin_pie_slice minecraft:pumpkin_pie
+farmersdelight:cutting/red_mushroom_colony | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:red_mushroom_colony minecraft:red_mushroom
+farmersdelight:cutting/red_tulip | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:red_dye minecraft:red_tulip
+farmersdelight:cutting/rice_panicle | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:rice farmersdelight:rice_panicle farmersdelight:straw
+farmersdelight:cutting/salmon | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:salmon_slice minecraft:bone_meal minecraft:salmon
+farmersdelight:cutting/smoked_ham | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:smoked_ham minecraft:bone minecraft:cooked_porkchop
+farmersdelight:cutting/spruce_log | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:item.axe.strip minecraft:spruce_log minecraft:stripped_spruce_log
+farmersdelight:cutting/spruce_wood | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:item.axe.strip minecraft:spruce_wood minecraft:stripped_spruce_wood
+farmersdelight:cutting/sweet_berry_cheesecake | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:sweet_berry_cheesecake farmersdelight:sweet_berry_cheesecake_slice
+farmersdelight:cutting/tag_dough | farmersdelight:cutting | c:foods/dough c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:raw_pasta
+farmersdelight:cutting/torchflower | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:orange_dye minecraft:torchflower
+farmersdelight:cutting/warped_hyphae | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:item.axe.strip minecraft:stripped_warped_hyphae minecraft:warped_hyphae
+farmersdelight:cutting/warped_stem | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:tree_bark minecraft:axes minecraft:item.axe.strip minecraft:stripped_warped_stem minecraft:warped_stem
+farmersdelight:cutting/white_tulip | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:light_gray_dye minecraft:white_tulip
+farmersdelight:cutting/wild_beetroots | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:wild_beetroots minecraft:beetroot_seeds minecraft:red_dye
+farmersdelight:cutting/wild_cabbages | farmersdelight:cutting | c:tools/knife farmersdelight:cabbage_seeds farmersdelight:cutting farmersdelight:item_ability farmersdelight:wild_cabbages minecraft:yellow_dye
+farmersdelight:cutting/wild_carrots | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:wild_carrots minecraft:carrot minecraft:light_gray_dye
+farmersdelight:cutting/wild_onions | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:onion farmersdelight:wild_onions minecraft:lime_dye minecraft:magenta_dye
+farmersdelight:cutting/wild_potatoes | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:wild_potatoes minecraft:potato minecraft:purple_dye
+farmersdelight:cutting/wild_rice | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:rice farmersdelight:straw farmersdelight:wild_rice
+farmersdelight:cutting/wild_tomatoes | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability farmersdelight:tomato farmersdelight:tomato_seeds farmersdelight:wild_tomatoes minecraft:green_dye
+farmersdelight:cutting/wither_rose | farmersdelight:cutting | c:tools/knife farmersdelight:cutting farmersdelight:item_ability minecraft:black_dye minecraft:wither_rose
+farmersdelight:cutting/wooden_basket | farmersdelight:cutting | farmersdelight:canvas farmersdelight:cutting farmersdelight:item_ability farmersdelight:wooden_basket minecraft:axes minecraft:stick
+farmersdelight:cutting_board | minecraft:crafting_shaped | farmersdelight:cutting_board minecraft:crafting_shaped minecraft:planks minecraft:stick
+farmersdelight:cyan_canvas_sign | minecraft:crafting_shapeless | c:dyes/cyan farmersdelight:canvas_signs farmersdelight:cyan_canvas_sign minecraft:crafting_shapeless
+farmersdelight:cyan_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/cyan farmersdelight:cyan_hanging_canvas_sign farmersdelight:hanging_canvas_signs minecraft:crafting_shapeless
+farmersdelight:dark_oak_cabinet | minecraft:crafting_shaped | farmersdelight:dark_oak_cabinet minecraft:crafting_shaped minecraft:dark_oak_slab minecraft:dark_oak_trapdoor
+farmersdelight:diamond_knife | minecraft:crafting_shaped | farmersdelight:diamond_knife minecraft:crafting_shaped minecraft:diamond minecraft:stick
+farmersdelight:egg_sandwich | minecraft:crafting_shapeless | c:foods/bread c:foods/cooked_egg farmersdelight:egg_sandwich minecraft:crafting_shapeless
+farmersdelight:flint_knife | minecraft:crafting_shaped | farmersdelight:flint_knife minecraft:crafting_shaped minecraft:flint minecraft:stick
+farmersdelight:food_serving | farmersdelight:food_serving | farmersdelight:food_serving
+farmersdelight:fried_egg | minecraft:smelting | farmersdelight:fried_egg minecraft:egg minecraft:smelting
+farmersdelight:fried_egg_from_campfire_cooking | minecraft:campfire_cooking | farmersdelight:fried_egg minecraft:campfire_cooking minecraft:egg
+farmersdelight:fried_egg_from_smoking | minecraft:smoking | farmersdelight:fried_egg minecraft:egg minecraft:smoking
+farmersdelight:fruit_salad | minecraft:crafting_shapeless | c:foods/berry farmersdelight:fruit_salad farmersdelight:pumpkin_slice minecraft:apple minecraft:bowl minecraft:crafting_shapeless minecraft:melon_slice
+farmersdelight:full_tatami_mat | minecraft:crafting_shapeless | farmersdelight:full_tatami_mat farmersdelight:tatami minecraft:crafting_shapeless
+farmersdelight:full_tatami_mat_from_halves | minecraft:crafting_shapeless | farmersdelight:full_tatami_mat farmersdelight:half_tatami_mat minecraft:crafting_shapeless
+farmersdelight:gleaming_salad_block | minecraft:crafting_shapeless | c:crops/beetroot c:crops/tomato farmersdelight:cabbage farmersdelight:gleaming_salad_block minecraft:bowl minecraft:crafting_shapeless minecraft:glow_berries minecraft:golden_carrot minecraft:honey_bottle
+farmersdelight:gold_nugget_from_blasting_knife | minecraft:blasting | farmersdelight:golden_knife minecraft:blasting minecraft:gold_nugget
+farmersdelight:gold_nugget_from_smelting_knife | minecraft:smelting | farmersdelight:golden_knife minecraft:gold_nugget minecraft:smelting
+farmersdelight:golden_knife | minecraft:crafting_shaped | farmersdelight:golden_knife minecraft:crafting_shaped minecraft:gold_ingot minecraft:stick
+farmersdelight:gray_canvas_sign | minecraft:crafting_shapeless | c:dyes/gray farmersdelight:canvas_signs farmersdelight:gray_canvas_sign minecraft:crafting_shapeless
+farmersdelight:gray_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/gray farmersdelight:gray_hanging_canvas_sign farmersdelight:hanging_canvas_signs minecraft:crafting_shapeless
+farmersdelight:green_canvas_sign | minecraft:crafting_shapeless | c:dyes/green farmersdelight:canvas_signs farmersdelight:green_canvas_sign minecraft:crafting_shapeless
+farmersdelight:green_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/green farmersdelight:green_hanging_canvas_sign farmersdelight:hanging_canvas_signs minecraft:crafting_shapeless
+farmersdelight:grilled_salmon | minecraft:crafting_shapeless | c:crops/cabbage c:crops/onion c:foods/cooked_salmon farmersdelight:grilled_salmon minecraft:bowl minecraft:crafting_shapeless minecraft:sweet_berries
+farmersdelight:half_tatami_mat | minecraft:crafting_shapeless | farmersdelight:full_tatami_mat farmersdelight:half_tatami_mat minecraft:crafting_shapeless
+farmersdelight:hamburger | minecraft:crafting_shapeless | c:crops/onion c:crops/tomato c:foods/bread c:foods/leafy_green farmersdelight:beef_patty farmersdelight:hamburger minecraft:crafting_shapeless
+farmersdelight:hanging_canvas_sign | minecraft:crafting_shaped | farmersdelight:canvas farmersdelight:hanging_canvas_sign minecraft:chain minecraft:crafting_shaped minecraft:logs
+farmersdelight:honey_cookie | minecraft:crafting_shapeless | c:crops/wheat farmersdelight:honey_cookie minecraft:crafting_shapeless minecraft:honey_bottle
+farmersdelight:honey_glazed_ham_block | minecraft:crafting_shapeless | farmersdelight:cooked_rice farmersdelight:honey_glazed_ham_block farmersdelight:smoked_ham minecraft:bowl minecraft:crafting_shapeless minecraft:honey_bottle minecraft:sweet_berries
+farmersdelight:horse_feed | minecraft:crafting_shapeless | farmersdelight:horse_feed farmersdelight:rice_bale minecraft:apple minecraft:crafting_shapeless minecraft:golden_carrot minecraft:hay_block
+farmersdelight:integration/create/filling/chocolate_pie | create:filling | c:chocolate create:filling farmersdelight:chocolate_pie farmersdelight:pie_crust neoforge:mod_loaded neoforge:tag
+farmersdelight:integration/create/milling/rice_panicle | create:milling | create:milling farmersdelight:rice farmersdelight:rice_panicle farmersdelight:straw neoforge:mod_loaded
+farmersdelight:integration/create/milling/wild_beetroots | create:milling | create:milling farmersdelight:wild_beetroots minecraft:beetroot_seeds minecraft:red_dye neoforge:mod_loaded
+farmersdelight:integration/create/milling/wild_cabbages | create:milling | create:milling farmersdelight:cabbage_seeds farmersdelight:wild_cabbages minecraft:yellow_dye neoforge:mod_loaded
+farmersdelight:integration/create/milling/wild_carrots | create:milling | create:milling farmersdelight:wild_carrots minecraft:light_gray_dye minecraft:lime_dye neoforge:mod_loaded
+farmersdelight:integration/create/milling/wild_onions | create:milling | create:milling farmersdelight:wild_onions minecraft:lime_dye minecraft:magenta_dye neoforge:mod_loaded
+farmersdelight:integration/create/milling/wild_potatoes | create:milling | create:milling farmersdelight:wild_potatoes minecraft:lime_dye minecraft:purple_dye neoforge:mod_loaded
+farmersdelight:integration/create/milling/wild_rice | create:milling | create:milling farmersdelight:rice farmersdelight:straw farmersdelight:wild_rice neoforge:mod_loaded
+farmersdelight:integration/create/milling/wild_tomatoes | create:milling | create:milling farmersdelight:tomato_seeds farmersdelight:wild_tomatoes minecraft:green_dye neoforge:mod_loaded
+farmersdelight:integration/create/mixing/cabbage_slice_from_mixing | create:mixing | create:mixing farmersdelight:cabbage farmersdelight:cabbage_leaf neoforge:mod_loaded
+farmersdelight:integration/create/mixing/pie_crust_from_mixing | create:mixing | c:milk create:mixing create:wheat_flour farmersdelight:pie_crust neoforge:mod_loaded neoforge:tag
+farmersdelight:integration/create/mixing/tomato_sauce_from_mixing | create:mixing | c:crops/tomato create:mixing farmersdelight:tomato_sauce minecraft:bowl neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/cloche/cabbage | immersiveengineering:cloche | farmersdelight:cabbage farmersdelight:cabbage_seeds farmersdelight:cabbages immersiveengineering:cloche immersiveengineering:crop minecraft:dirt neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/cloche/onion | immersiveengineering:cloche | farmersdelight:onion farmersdelight:onions immersiveengineering:cloche immersiveengineering:crop minecraft:dirt neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/cloche/rice | immersiveengineering:cloche | farmersdelight:rice farmersdelight:rice_panicle farmersdelight:rice_panicles immersiveengineering:cloche immersiveengineering:crop minecraft:dirt neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/cloche/tomato | immersiveengineering:cloche | farmersdelight:tomato farmersdelight:tomato_seeds farmersdelight:tomatoes immersiveengineering:cloche immersiveengineering:crop minecraft:dirt neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/crusher/rice_panicle | immersiveengineering:crusher | farmersdelight:rice farmersdelight:rice_panicle farmersdelight:straw immersiveengineering:crusher neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/crusher/wild_beetroots | immersiveengineering:crusher | farmersdelight:wild_beetroots immersiveengineering:crusher minecraft:beetroot_seeds minecraft:red_dye neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/crusher/wild_cabbages | immersiveengineering:crusher | farmersdelight:cabbage_seeds farmersdelight:wild_cabbages immersiveengineering:crusher minecraft:yellow_dye neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/crusher/wild_carrots | immersiveengineering:crusher | farmersdelight:wild_carrots immersiveengineering:crusher minecraft:light_gray_dye minecraft:lime_dye neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/crusher/wild_onions | immersiveengineering:crusher | farmersdelight:wild_onions immersiveengineering:crusher minecraft:lime_dye minecraft:magenta_dye neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/crusher/wild_potatoes | immersiveengineering:crusher | farmersdelight:wild_potatoes immersiveengineering:crusher minecraft:lime_dye minecraft:purple_dye neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/crusher/wild_rice | immersiveengineering:crusher | farmersdelight:rice farmersdelight:wild_rice immersiveengineering:crusher minecraft:green_dye neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/crusher/wild_tomatoes | immersiveengineering:crusher | farmersdelight:tomato_seeds farmersdelight:wild_tomatoes immersiveengineering:crusher minecraft:green_dye neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/fermenter/tomato | immersiveengineering:fermenter | c:crops/tomato immersiveengineering:ethanol immersiveengineering:fermenter neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/metalpress/pumpkin | immersiveengineering:metal_press | farmersdelight:pumpkin_slice immersiveengineering:metal_press immersiveengineering:mold_unpacking minecraft:pumpkin neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/squeezer/cabbage_seeds | immersiveengineering:squeezer | farmersdelight:cabbage_seeds immersiveengineering:plantoil immersiveengineering:squeezer neoforge:mod_loaded
+farmersdelight:integration/immersiveengineering/squeezer/tomato_seeds | immersiveengineering:squeezer | farmersdelight:tomato_seeds immersiveengineering:plantoil immersiveengineering:squeezer neoforge:mod_loaded
+farmersdelight:integration/silentgear/cutting/netherwood | farmersdelight:cutting | farmersdelight:cutting farmersdelight:tool_action farmersdelight:tree_bark minecraft:item.axe.strip neoforge:mod_loaded silentgear:netherwood_log silentgear:stripped_netherwood_log
+farmersdelight:iron_knife | minecraft:crafting_shaped | c:ingots/iron farmersdelight:iron_knife minecraft:crafting_shaped minecraft:stick
+farmersdelight:iron_nugget_from_blasting_knife | minecraft:blasting | farmersdelight:iron_knife minecraft:blasting minecraft:iron_nugget
+farmersdelight:iron_nugget_from_smelting_knife | minecraft:smelting | farmersdelight:iron_knife minecraft:iron_nugget minecraft:smelting
+farmersdelight:jungle_cabinet | minecraft:crafting_shaped | farmersdelight:jungle_cabinet minecraft:crafting_shaped minecraft:jungle_slab minecraft:jungle_trapdoor
+farmersdelight:kelp_roll | minecraft:crafting_shaped | c:foods/vegetable farmersdelight:cooked_rice farmersdelight:kelp_roll minecraft:crafting_shaped minecraft:dried_kelp
+farmersdelight:lead_from_straw | minecraft:crafting_shaped | farmersdelight:straw minecraft:crafting_shaped minecraft:lead
+farmersdelight:light_blue_canvas_sign | minecraft:crafting_shapeless | c:dyes/light_blue farmersdelight:canvas_signs farmersdelight:light_blue_canvas_sign minecraft:crafting_shapeless
+farmersdelight:light_blue_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/light_blue farmersdelight:hanging_canvas_signs farmersdelight:light_blue_hanging_canvas_sign minecraft:crafting_shapeless
+farmersdelight:light_gray_canvas_sign | minecraft:crafting_shapeless | c:dyes/light_gray farmersdelight:canvas_signs farmersdelight:light_gray_canvas_sign minecraft:crafting_shapeless
+farmersdelight:light_gray_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/light_gray farmersdelight:hanging_canvas_signs farmersdelight:light_gray_hanging_canvas_sign minecraft:crafting_shapeless
+farmersdelight:lime_canvas_sign | minecraft:crafting_shapeless | c:dyes/lime farmersdelight:canvas_signs farmersdelight:lime_canvas_sign minecraft:crafting_shapeless
+farmersdelight:lime_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/lime farmersdelight:hanging_canvas_signs farmersdelight:lime_hanging_canvas_sign minecraft:crafting_shapeless
+farmersdelight:magenta_canvas_sign | minecraft:crafting_shapeless | c:dyes/magenta farmersdelight:canvas_signs farmersdelight:magenta_canvas_sign minecraft:crafting_shapeless
+farmersdelight:magenta_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/magenta farmersdelight:hanging_canvas_signs farmersdelight:magenta_hanging_canvas_sign minecraft:crafting_shapeless
+farmersdelight:mangrove_cabinet | minecraft:crafting_shaped | farmersdelight:mangrove_cabinet minecraft:crafting_shaped minecraft:mangrove_slab minecraft:mangrove_trapdoor
+farmersdelight:melon_juice | minecraft:crafting_shapeless | farmersdelight:melon_juice minecraft:crafting_shapeless minecraft:glass_bottle minecraft:melon_slice minecraft:sugar
+farmersdelight:melon_popsicle | minecraft:crafting_shaped | farmersdelight:melon_popsicle minecraft:crafting_shaped minecraft:ice minecraft:melon_slice minecraft:stick
+farmersdelight:milk_bottle | minecraft:crafting_shapeless | farmersdelight:milk_bottle minecraft:crafting_shapeless minecraft:glass_bottle minecraft:milk_bucket
+farmersdelight:milk_bucket_from_bottles | minecraft:crafting_shapeless | farmersdelight:milk_bottle minecraft:bucket minecraft:crafting_shapeless minecraft:milk_bucket
+farmersdelight:mixed_salad | minecraft:crafting_shapeless | c:crops/beetroot c:crops/tomato c:foods/leafy_green farmersdelight:mixed_salad minecraft:bowl minecraft:crafting_shapeless
+farmersdelight:mutton_wrap | minecraft:crafting_shapeless | c:crops/onion c:foods/bread c:foods/cooked_mutton c:foods/leafy_green farmersdelight:mutton_wrap minecraft:crafting_shapeless
+farmersdelight:nether_salad | minecraft:crafting_shapeless | farmersdelight:nether_salad minecraft:bowl minecraft:crafting_shapeless minecraft:crimson_fungus minecraft:warped_fungus
+farmersdelight:netherite_knife_smithing | minecraft:smithing_transform | farmersdelight:diamond_knife farmersdelight:netherite_knife minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+farmersdelight:oak_cabinet | minecraft:crafting_shaped | farmersdelight:oak_cabinet minecraft:crafting_shaped minecraft:oak_slab minecraft:oak_trapdoor
+farmersdelight:onion | minecraft:crafting_shapeless | farmersdelight:onion farmersdelight:onion_crate minecraft:crafting_shapeless
+farmersdelight:onion_crate | minecraft:crafting_shaped | farmersdelight:onion farmersdelight:onion_crate minecraft:crafting_shaped
+farmersdelight:orange_canvas_sign | minecraft:crafting_shapeless | c:dyes/orange farmersdelight:canvas_signs farmersdelight:orange_canvas_sign minecraft:crafting_shapeless
+farmersdelight:orange_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/orange farmersdelight:hanging_canvas_signs farmersdelight:orange_hanging_canvas_sign minecraft:crafting_shapeless
+farmersdelight:organic_compost_from_rotten_flesh | minecraft:crafting_shapeless | farmersdelight:organic_compost farmersdelight:straw minecraft:bone_meal minecraft:crafting_shapeless minecraft:dirt minecraft:rotten_flesh
+farmersdelight:organic_compost_from_tree_bark | minecraft:crafting_shapeless | farmersdelight:organic_compost farmersdelight:straw farmersdelight:tree_bark minecraft:bone_meal minecraft:crafting_shapeless minecraft:dirt
+farmersdelight:packed_mud_from_straw | minecraft:crafting_shapeless | farmersdelight:straw minecraft:crafting_shapeless minecraft:mud minecraft:packed_mud
+farmersdelight:painting_from_canvas | minecraft:crafting_shaped | farmersdelight:canvas minecraft:crafting_shaped minecraft:painting minecraft:stick
+farmersdelight:paper_from_tree_bark | minecraft:crafting_shapeless | farmersdelight:tree_bark minecraft:crafting_shapeless minecraft:paper
+farmersdelight:pie_crust | minecraft:crafting_shaped | c:crops/wheat c:drinks/milk farmersdelight:pie_crust minecraft:crafting_shaped
+farmersdelight:pink_canvas_sign | minecraft:crafting_shapeless | c:dyes/pink farmersdelight:canvas_signs farmersdelight:pink_canvas_sign minecraft:crafting_shapeless
+farmersdelight:pink_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/pink farmersdelight:hanging_canvas_signs farmersdelight:pink_hanging_canvas_sign minecraft:crafting_shapeless
+farmersdelight:potato_crate | minecraft:crafting_shaped | farmersdelight:potato_crate farmersdelight:vanilla_crates_enabled minecraft:crafting_shaped minecraft:potato
+farmersdelight:potato_from_crate | minecraft:crafting_shapeless | farmersdelight:potato_crate minecraft:crafting_shapeless minecraft:potato
+farmersdelight:pumpkin_from_slices | minecraft:crafting_shaped | farmersdelight:pumpkin_slice minecraft:crafting_shaped minecraft:pumpkin
+farmersdelight:pumpkin_pie_from_pie_crust | minecraft:crafting_shaped | c:eggs farmersdelight:pie_crust farmersdelight:pumpkin_slice minecraft:crafting_shaped minecraft:pumpkin_pie minecraft:sugar
+farmersdelight:pumpkin_pie_from_slices | minecraft:crafting_shaped | farmersdelight:pumpkin_pie_slice minecraft:crafting_shaped minecraft:pumpkin_pie
+farmersdelight:pumpkin_seeds_from_slice | minecraft:crafting_shapeless | farmersdelight:pumpkin_slice minecraft:crafting_shapeless minecraft:pumpkin_seeds
+farmersdelight:purple_canvas_sign | minecraft:crafting_shapeless | c:dyes/purple farmersdelight:canvas_signs farmersdelight:purple_canvas_sign minecraft:crafting_shapeless
+farmersdelight:purple_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/purple farmersdelight:hanging_canvas_signs farmersdelight:purple_hanging_canvas_sign minecraft:crafting_shapeless
+farmersdelight:red_canvas_sign | minecraft:crafting_shapeless | c:dyes/red farmersdelight:canvas_signs farmersdelight:red_canvas_sign minecraft:crafting_shapeless
+farmersdelight:red_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/red farmersdelight:hanging_canvas_signs farmersdelight:red_hanging_canvas_sign minecraft:crafting_shapeless
+farmersdelight:rice | minecraft:crafting_shapeless | farmersdelight:rice farmersdelight:rice_panicle minecraft:crafting_shapeless
+farmersdelight:rice_bag | minecraft:crafting_shaped | farmersdelight:rice farmersdelight:rice_bag minecraft:crafting_shaped
+farmersdelight:rice_bale | minecraft:crafting_shaped | farmersdelight:rice_bale farmersdelight:rice_panicle minecraft:crafting_shaped
+farmersdelight:rice_from_bag | minecraft:crafting_shapeless | farmersdelight:rice farmersdelight:rice_bag minecraft:crafting_shapeless
+farmersdelight:rice_panicle | minecraft:crafting_shapeless | farmersdelight:rice_bale farmersdelight:rice_panicle minecraft:crafting_shapeless
+farmersdelight:rice_roll_medley_block | minecraft:crafting_shapeless | farmersdelight:cod_roll farmersdelight:kelp_roll_slice farmersdelight:rice_roll_medley_block farmersdelight:salmon_roll minecraft:bowl minecraft:crafting_shapeless
+farmersdelight:roast_chicken_block | minecraft:crafting_shapeless | c:crops/carrot c:crops/onion c:eggs c:foods/bread farmersdelight:roast_chicken_block minecraft:baked_potato minecraft:bowl minecraft:cooked_chicken minecraft:crafting_shapeless
+farmersdelight:roasted_mutton_chops | minecraft:crafting_shapeless | c:crops/beetroot c:crops/tomato farmersdelight:cooked_mutton_chops farmersdelight:cooked_rice farmersdelight:roasted_mutton_chops minecraft:bowl minecraft:crafting_shapeless
+farmersdelight:rope | minecraft:crafting_shaped | farmersdelight:rope farmersdelight:straw minecraft:crafting_shaped
+farmersdelight:rope_fence | minecraft:crafting_shaped | farmersdelight:rope farmersdelight:rope_fence minecraft:crafting_shaped minecraft:stick
+farmersdelight:rope_fence_gate | minecraft:crafting_shaped | farmersdelight:rope farmersdelight:rope_fence_gate minecraft:crafting_shaped minecraft:stick
+farmersdelight:rope_from_safety_net | minecraft:crafting_shapeless | farmersdelight:rope farmersdelight:safety_net minecraft:crafting_shapeless
+farmersdelight:safety_net | minecraft:crafting_shaped | farmersdelight:rope farmersdelight:safety_net minecraft:crafting_shaped
+farmersdelight:salmon_roll | minecraft:crafting_shapeless | farmersdelight:cooked_rice farmersdelight:salmon_roll farmersdelight:salmon_slice minecraft:crafting_shapeless
+farmersdelight:salvaging/acacia_chest_boat | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:acacia_boat minecraft:acacia_chest_boat minecraft:chest minecraft:hoes
+farmersdelight:salvaging/acacia_furniture | farmersdelight:cutting | farmersdelight:acacia_cabinet farmersdelight:cutting farmersdelight:item_ability minecraft:acacia_boat minecraft:acacia_button minecraft:acacia_door minecraft:acacia_fence minecraft:acacia_fence_gate minecraft:acacia_hanging_sign minecraft:acacia_planks minecraft:acacia_pressure_plate minecraft:acacia_sign minecraft:acacia_trapdoor minecraft:axes neoforge:compound
+farmersdelight:salvaging/amethyst_block | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:amethyst_block minecraft:amethyst_shard minecraft:pickaxes
+farmersdelight:salvaging/bamboo_chest_raft | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:bamboo_chest_raft minecraft:bamboo_raft minecraft:chest minecraft:hoes
+farmersdelight:salvaging/bamboo_furniture | farmersdelight:cutting | farmersdelight:bamboo_cabinet farmersdelight:cutting farmersdelight:item_ability minecraft:axes minecraft:bamboo_button minecraft:bamboo_door minecraft:bamboo_fence minecraft:bamboo_fence_gate minecraft:bamboo_hanging_sign minecraft:bamboo_planks minecraft:bamboo_pressure_plate minecraft:bamboo_raft minecraft:bamboo_sign minecraft:bamboo_trapdoor neoforge:compound
+farmersdelight:salvaging/birch_chest_boat | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:birch_boat minecraft:birch_chest_boat minecraft:chest minecraft:hoes
+farmersdelight:salvaging/birch_furniture | farmersdelight:cutting | farmersdelight:birch_cabinet farmersdelight:cutting farmersdelight:item_ability minecraft:axes minecraft:birch_boat minecraft:birch_button minecraft:birch_door minecraft:birch_fence minecraft:birch_fence_gate minecraft:birch_hanging_sign minecraft:birch_planks minecraft:birch_pressure_plate minecraft:birch_sign minecraft:birch_trapdoor neoforge:compound
+farmersdelight:salvaging/bricks | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:brick minecraft:bricks minecraft:pickaxes
+farmersdelight:salvaging/cherry_chest_boat | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:cherry_boat minecraft:cherry_chest_boat minecraft:chest minecraft:hoes
+farmersdelight:salvaging/cherry_furniture | farmersdelight:cutting | farmersdelight:cherry_cabinet farmersdelight:cutting farmersdelight:item_ability minecraft:axes minecraft:cherry_boat minecraft:cherry_button minecraft:cherry_door minecraft:cherry_fence minecraft:cherry_fence_gate minecraft:cherry_hanging_sign minecraft:cherry_planks minecraft:cherry_pressure_plate minecraft:cherry_sign minecraft:cherry_trapdoor neoforge:compound
+farmersdelight:salvaging/chest_minecart | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:block.metal.break minecraft:chest minecraft:chest_minecart minecraft:hoes minecraft:minecart
+farmersdelight:salvaging/crimson_furniture | farmersdelight:cutting | farmersdelight:crimson_cabinet farmersdelight:cutting farmersdelight:item_ability minecraft:axes minecraft:crimson_button minecraft:crimson_door minecraft:crimson_fence minecraft:crimson_fence_gate minecraft:crimson_hanging_sign minecraft:crimson_planks minecraft:crimson_pressure_plate minecraft:crimson_sign minecraft:crimson_trapdoor neoforge:compound
+farmersdelight:salvaging/dark_oak_chest_boat | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:chest minecraft:dark_oak_boat minecraft:dark_oak_chest_boat minecraft:hoes
+farmersdelight:salvaging/dark_oak_furniture | farmersdelight:cutting | farmersdelight:cutting farmersdelight:dark_oak_cabinet farmersdelight:item_ability minecraft:axes minecraft:dark_oak_boat minecraft:dark_oak_button minecraft:dark_oak_door minecraft:dark_oak_fence minecraft:dark_oak_fence_gate minecraft:dark_oak_hanging_sign minecraft:dark_oak_planks minecraft:dark_oak_pressure_plate minecraft:dark_oak_sign minecraft:dark_oak_trapdoor neoforge:compound
+farmersdelight:salvaging/deepslate | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:cobbled_deepslate minecraft:deepslate minecraft:pickaxes
+farmersdelight:salvaging/furnace_minecart | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:block.metal.break minecraft:furnace minecraft:furnace_minecart minecraft:hoes minecraft:minecart
+farmersdelight:salvaging/hopper_minecart | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:block.metal.break minecraft:hoes minecraft:hopper minecraft:hopper_minecart minecraft:minecart
+farmersdelight:salvaging/jungle_chest_boat | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:chest minecraft:hoes minecraft:jungle_boat minecraft:jungle_chest_boat
+farmersdelight:salvaging/jungle_furniture | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:jungle_cabinet minecraft:axes minecraft:jungle_boat minecraft:jungle_button minecraft:jungle_door minecraft:jungle_fence minecraft:jungle_fence_gate minecraft:jungle_hanging_sign minecraft:jungle_planks minecraft:jungle_pressure_plate minecraft:jungle_sign minecraft:jungle_trapdoor neoforge:compound
+farmersdelight:salvaging/leather_armor | farmersdelight:cutting | c:tools/shear farmersdelight:cutting farmersdelight:item_ability minecraft:leather minecraft:leather_boots minecraft:leather_chestplate minecraft:leather_helmet minecraft:leather_leggings neoforge:compound
+farmersdelight:salvaging/leather_horse_armor | farmersdelight:cutting | c:tools/shear farmersdelight:cutting farmersdelight:item_ability minecraft:leather minecraft:leather_horse_armor
+farmersdelight:salvaging/mangrove_chest_boat | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:chest minecraft:hoes minecraft:mangrove_boat minecraft:mangrove_chest_boat
+farmersdelight:salvaging/mangrove_furniture | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:mangrove_cabinet minecraft:axes minecraft:mangrove_boat minecraft:mangrove_button minecraft:mangrove_door minecraft:mangrove_fence minecraft:mangrove_fence_gate minecraft:mangrove_hanging_sign minecraft:mangrove_planks minecraft:mangrove_pressure_plate minecraft:mangrove_sign minecraft:mangrove_trapdoor neoforge:compound
+farmersdelight:salvaging/nether_bricks | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:nether_brick minecraft:nether_bricks minecraft:pickaxes
+farmersdelight:salvaging/oak_chest_boat | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:chest minecraft:hoes minecraft:oak_boat minecraft:oak_chest_boat
+farmersdelight:salvaging/oak_furniture | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:oak_cabinet minecraft:axes minecraft:oak_boat minecraft:oak_button minecraft:oak_door minecraft:oak_fence minecraft:oak_fence_gate minecraft:oak_hanging_sign minecraft:oak_planks minecraft:oak_pressure_plate minecraft:oak_sign minecraft:oak_trapdoor neoforge:compound
+farmersdelight:salvaging/quartz_block | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:pickaxes minecraft:quartz minecraft:quartz_block
+farmersdelight:salvaging/saddle | farmersdelight:cutting | c:tools/shear farmersdelight:cutting farmersdelight:item_ability minecraft:iron_nugget minecraft:leather minecraft:saddle
+farmersdelight:salvaging/spruce_chest_boat | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:chest minecraft:hoes minecraft:spruce_boat minecraft:spruce_chest_boat
+farmersdelight:salvaging/spruce_furniture | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:spruce_cabinet minecraft:axes minecraft:spruce_boat minecraft:spruce_button minecraft:spruce_door minecraft:spruce_fence minecraft:spruce_fence_gate minecraft:spruce_hanging_sign minecraft:spruce_planks minecraft:spruce_pressure_plate minecraft:spruce_sign minecraft:spruce_trapdoor neoforge:compound
+farmersdelight:salvaging/stone | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:cobblestone minecraft:pickaxes minecraft:stone
+farmersdelight:salvaging/tnt_minecart | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability minecraft:block.metal.break minecraft:hoes minecraft:minecart minecraft:tnt minecraft:tnt_minecart
+farmersdelight:salvaging/warped_furniture | farmersdelight:cutting | farmersdelight:cutting farmersdelight:item_ability farmersdelight:warped_cabinet minecraft:axes minecraft:warped_button minecraft:warped_door minecraft:warped_fence minecraft:warped_fence_gate minecraft:warped_hanging_sign minecraft:warped_planks minecraft:warped_pressure_plate minecraft:warped_sign minecraft:warped_trapdoor neoforge:compound
+farmersdelight:scaffolding_from_canvas | minecraft:crafting_shaped | farmersdelight:canvas minecraft:bamboo minecraft:crafting_shaped minecraft:scaffolding
+farmersdelight:shepherds_pie_block | minecraft:crafting_shapeless | c:crops/onion c:drinks/milk c:foods/cooked_mutton farmersdelight:shepherds_pie_block minecraft:baked_potato minecraft:bowl minecraft:crafting_shapeless
+farmersdelight:skillet | minecraft:crafting_shaped | c:ingots/iron farmersdelight:skillet minecraft:brick minecraft:crafting_shaped
+farmersdelight:smoked_ham | minecraft:smoking | farmersdelight:ham farmersdelight:smoked_ham minecraft:smoking
+farmersdelight:spruce_cabinet | minecraft:crafting_shaped | farmersdelight:spruce_cabinet minecraft:crafting_shaped minecraft:spruce_slab minecraft:spruce_trapdoor
+farmersdelight:steak_and_potatoes | minecraft:crafting_shapeless | c:crops/onion farmersdelight:cooked_rice farmersdelight:steak_and_potatoes minecraft:baked_potato minecraft:bowl minecraft:cooked_beef minecraft:crafting_shapeless
+farmersdelight:stove | minecraft:crafting_shaped | c:ingots/iron farmersdelight:stove minecraft:bricks minecraft:campfire minecraft:crafting_shaped
+farmersdelight:straw | minecraft:crafting_shapeless | farmersdelight:straw farmersdelight:straw_bale minecraft:crafting_shapeless
+farmersdelight:straw_bale | minecraft:crafting_shaped | farmersdelight:straw farmersdelight:straw_bale minecraft:crafting_shaped
+farmersdelight:stuffed_potato | minecraft:crafting_shapeless | c:drinks/milk c:foods/cooked_beef farmersdelight:stuffed_potato minecraft:baked_potato minecraft:crafting_shapeless
+farmersdelight:sweet_berry_cheesecake | minecraft:crafting_shaped | c:drinks/milk farmersdelight:pie_crust farmersdelight:sweet_berry_cheesecake minecraft:crafting_shaped minecraft:sweet_berries
+farmersdelight:sweet_berry_cheesecake_from_slices | minecraft:crafting_shaped | farmersdelight:sweet_berry_cheesecake farmersdelight:sweet_berry_cheesecake_slice minecraft:crafting_shaped
+farmersdelight:sweet_berry_cookie | minecraft:crafting_shapeless | c:crops/wheat farmersdelight:sweet_berry_cookie minecraft:crafting_shapeless minecraft:sweet_berries
+farmersdelight:tatami | minecraft:crafting_shaped | farmersdelight:canvas farmersdelight:straw farmersdelight:tatami minecraft:crafting_shaped
+farmersdelight:tatami_block_from_full | minecraft:crafting_shapeless | farmersdelight:full_tatami_mat farmersdelight:tatami minecraft:crafting_shapeless
+farmersdelight:tomato | minecraft:crafting_shapeless | farmersdelight:tomato farmersdelight:tomato_crate minecraft:crafting_shapeless
+farmersdelight:tomato_crate | minecraft:crafting_shaped | farmersdelight:tomato farmersdelight:tomato_crate minecraft:crafting_shaped
+farmersdelight:tomato_seeds | minecraft:crafting_shapeless | farmersdelight:rotten_tomato farmersdelight:tomato farmersdelight:tomato_seeds minecraft:crafting_shapeless
+farmersdelight:warped_cabinet | minecraft:crafting_shaped | farmersdelight:warped_cabinet minecraft:crafting_shaped minecraft:warped_slab minecraft:warped_trapdoor
+farmersdelight:wheat_dough_from_egg | minecraft:crafting_shapeless | c:crops/wheat c:eggs farmersdelight:wheat_dough minecraft:crafting_shapeless
+farmersdelight:wheat_dough_from_water | farmersdelight:dough | farmersdelight:dough
+farmersdelight:white_canvas_sign | minecraft:crafting_shapeless | c:dyes/white farmersdelight:canvas_signs farmersdelight:white_canvas_sign minecraft:crafting_shapeless
+farmersdelight:white_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/white farmersdelight:hanging_canvas_signs farmersdelight:white_hanging_canvas_sign minecraft:crafting_shapeless
+farmersdelight:wooden_basket | minecraft:crafting_shaped | farmersdelight:canvas farmersdelight:wooden_basket minecraft:crafting_shaped minecraft:stick
+farmersdelight:yellow_canvas_sign | minecraft:crafting_shapeless | c:dyes/yellow farmersdelight:canvas_signs farmersdelight:yellow_canvas_sign minecraft:crafting_shapeless
+farmersdelight:yellow_hanging_canvas_sign | minecraft:crafting_shapeless | c:dyes/yellow farmersdelight:hanging_canvas_signs farmersdelight:yellow_hanging_canvas_sign minecraft:crafting_shapeless

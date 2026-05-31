@@ -1,0 +1,21 @@
+# modernfix-neoforge-5.27.4+mc1.21.1
+
+## mod metadata (id / version / deps)
+license = "GNU LGPL 3.0"
+modId = "modernfix" #mandatory
+version = "5.27.4+mc1.21.1" #mandatory
+displayName = "ModernFix" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.0.111-beta,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21, 1.22)"
+modId = "jei"
+versionRange = "[15.8.0.11,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

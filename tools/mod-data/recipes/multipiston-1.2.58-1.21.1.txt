@@ -1,0 +1,1 @@
+multipiston:multiblock | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:piston minecraft:redstone_block minecraft:stone multipiston:multipistonblock

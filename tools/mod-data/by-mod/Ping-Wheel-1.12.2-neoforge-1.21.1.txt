@@ -1,0 +1,19 @@
+# Ping-Wheel-1.12.2-neoforge-1.21.1
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "pingwheel"
+version = "1.12.2"
+displayName = "Ping Wheel"
+modId = "neoforge"
+versionRange = "[21.0.143,)"
+modId = "minecraft"
+versionRange = "[1.21,1.21.1]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

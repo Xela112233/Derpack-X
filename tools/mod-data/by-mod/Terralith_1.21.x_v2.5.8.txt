@@ -1,0 +1,84 @@
+# Terralith_1.21.x_v2.5.8
+
+## mod metadata (id / version / deps)
+license="Stardust Labs License"
+modId="terralith"
+version="2.5.8"
+displayName="Terralith"
+modId="neoforge"
+versionRange="[21,)"
+modId="minecraft"
+versionRange="[1.21,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+worldgen/biome/is_temperate/overworld.json :: { "values": [ "#terralith:reference/temperature/temperate" ]}
+worldgen/biome/is_cold.json :: { "values": [ "#terralith:reference/temperature/cold", "#terralith:reference/temperature/frozen_all" ]}
+worldgen/biome/is_mushroom.json :: { "values": [ "terralith:cave/fungal_caves", "terralith:mirage_isles" ]}
+worldgen/biome/is_jungle.json :: { "values": [ "#terralith:reference/jungle" ]}
+worldgen/biome/is_dead.json :: { "values": [ "terralith:ashen_savanna", "terralith:gravel_desert" ]}
+worldgen/biome/is_hot.json :: { "values": [ "#terralith:reference/temperature/lukewarm", "#terralith:reference/temperature/warm" ]}
+worldgen/biome/is_plateau.json :: { "values": [ "terralith:blooming_plateau", "terralith:savanna_badlands", "terralith:white_mesa", "terralith:yosemite_cliffs" ]}
+worldgen/biome/is_sparse_vegetation.json :: { "values": [ "#terralith:reference/badlands_all", "#terralith:reference/savanna", "#terralith:shrublands" ]}
+worldgen/biome/is_cold/overworld.json :: { "values": [ "#terralith:reference/temperature/cold", "#terralith:reference/temperature/frozen_all" ]}
+worldgen/biome/is_desert.json :: { "values": [ "#terralith:reference/desert_all" ]}
+worldgen/biome/is_dense_vegetation/overworld.json :: { "values": [ "#terralith:reference/jungle", "#terralith:reference/taiga" ]}
+worldgen/biome/is_old_growth.json :: { "values": [ "terralith:alpine_grove", "terralith:shield" ]}
+worldgen/biome/is_badlands.json :: { "values": [ "#terralith:reference/badlands_all" ]}
+worldgen/biome/is_magical.json :: { "values": [ "#terralith:mystical" ]}
+worldgen/biome/is_forest.json :: { "values": [ "#terralith:reference/forest" ]}
+worldgen/biome/has_wolf_variant/spotted.json :: { "replace": false, "values": [ "#minecraft:is_savanna" ]}
+worldgen/biome/has_wolf_variant/rusty.json :: { "replace": false, "values": [ "#minecraft:is_jungle" ]}
+worldgen/biome/has_wolf_variant/woods.json :: { "replace": false, "values": [ "minecraft:forest", "terralith:cloud_forest", "terralith:lavender_forest", "terralith:lavender_valley", "terralith:temperate_highlands" ]}
+worldgen/biome/has_wolf_variant/pale.json :: { "replace": false, "values": [ "minecraft:taiga", "terralith:alpha_islands", "terralith:alpha_islands_winter", "terralith:gravel_desert" ]}
+worldgen/biome/has_wolf_variant/striped.json :: { "replace": false, "values": [ "#minecraft:is_badlands" ]}
+worldgen/biome/has_wolf_variant/snowy.json :: { "replace": false, "values": [ "minecraft:grove", "terralith:siberian_grove", "terralith:snowy_shield", "terralith:snowy_maple_forest", "terralith:snowy_cherry_grove" ]}
+worldgen/biome/has_wolf_variant/ashen.json :: { "replace": false, "values": [ "minecraft:snowy_taiga", "terralith:wintry_forest", "terralith:wintry_lowlands", "terralith:siberian_taiga" ]}
+worldgen/biome/has_wolf_variant/chestnut.json :: { "replace": false, "values": [ "minecraft:old_growth_spruce_taiga", "terralith:forested_highlands", "terralith:shield" ]}
+worldgen/biome/has_wolf_variant/black.json :: { "replace": false, "values": [ "minecraft:old_growth_pine_taiga", "terralith:alpine_highlands", "terralith:birch_taiga", "terralith:cold_shrubland", "terralith:rocky_shrubland" ]}
+worldgen/biome/is_overworld.json :: { "values": [ "#terralith:all_terralith_biomes" ]}
+worldgen/biome/is_wet/overworld.json :: { "values": [ "#terralith:reference/jungle", "#terralith:reference/swamp", "#terralith:oases", "terralith:cave/underground_jungle" ]}
+worldgen/biome/is_river.json :: { "values": [ "terralith:warm_river" ]}
+worldgen/biome/is_hot/overworld.json :: { "values": [ "#terralith:reference/temperature/lukewarm", "#terralith:reference/temperature/warm" ]}
+worldgen/biome/is_floral.json :: { "values": [ "terralith:blooming_plateau", "terralith:blooming_valley", "terralith:cloud_forest", "terralith:lavender_forest", "terralith:lavender_valley", "terralith:moonlight_grove", "terralith:moonlight_valley", "terralith:sakura_grove", "terralith:sakura_valley" ]}
+worldgen/biome/is_taiga.json :: { "values": [ "#terralith:reference/taiga" ]}
+worldgen/biome/is_flower_forest.json :: { "values": [ "terralith:blooming_valley", "terralith:cloud_forest", "terralith:lavender_forest", "terralith:lavender_valley", "terralith:moonlight_grove", "terralith:moonlight_valley", "terralith:sakura_grove", "terralith:sakura_valley" ]}
+worldgen/biome/is_windswept.json :: { "values": [ "#terralith:reference/windswept" ]}
+worldgen/biome/is_spooky.json :: { "values": [ "terralith:cave/frostfire_caves", "terralith:cave/infested_caves" ]}
+worldgen/biome/is_hill.json :: { "values": [ "#terralith:reference/windswept" ]}
+worldgen/biome/is_rare.json :: { "values": [ "#terralith:skylands", "#terralith:rare_island" ]}
+worldgen/biome/is_cave.json :: { "values": [ "#terralith:reference/cave", "#terralith:reference/deep_cave" ]}
+worldgen/biome/is_dry/overworld.json :: { "values": [ "#terralith:reference/badlands_all", "#terralith:reference/desert_all", "#terralith:reference/savanna" ]}
+worldgen/biome/is_mountain.json :: { "values": [ "#terralith:reference/mountain" ]}
+worldgen/biome/is_plains.json :: { "values": [ "#terralith:reference/plains" ]}
+worldgen/biome/is_wasteland.json :: { "values": [ "terralith:ashen_savanna", "terralith:gravel_desert" ]}
+worldgen/biome/is_beach.json :: { "values": [ "terralith:gravel_beach" ]}
+worldgen/biome/is_savanna.json :: { "values": [ "#terralith:reference/savanna" ]}
+worldgen/biome/is_birch_forest.json :: { "values": [ "terralith:birch_taiga" ]}
+worldgen/biome/is_snowy.json :: { "values": [ "#terralith:reference/temperature/frozen_all", "terralith:emerald_peaks", "terralith:rocky_mountains" ]}
+worldgen/biome/is_temperate.json :: { "values": [ "#terralith:reference/temperature/temperate" ]}
+worldgen/biome/is_wet.json :: { "values": [ "#terralith:reference/jungle", "#terralith:reference/swamp", "#terralith:oases", "terralith:cave/underground_jungle" ]}
+worldgen/biome/is_tree/deciduous.json :: { "values": [ "#terralith:reference/forest" ]}
+worldgen/biome/is_tree/savanna.json :: { "values": [ "#terralith:reference/savanna" ]}
+worldgen/biome/is_tree/coniferous.json :: { "values": [ "#terralith:reference/taiga" ]}
+worldgen/biome/is_tree/jungle.json :: { "values": [ "#terralith:reference/jungle" ]}
+worldgen/biome/is_mountain/slope.json :: { "values": [ "#terralith:reference/mountain_slope" ]}
+worldgen/biome/is_mountain/peak.json :: { "values": [ "#terralith:reference/mountain_peak" ]}
+worldgen/biome/is_aquatic.json :: { "values": [ "terralith:warm_river" ]}
+worldgen/biome/is_dense_vegetation.json :: { "values": [ "#terralith:reference/jungle", "#terralith:reference/taiga" ]}
+worldgen/biome/is_icy.json :: { "values": [ "#terralith:reference/temperature/frozen_all" ]}
+worldgen/biome/is_stony_shores.json :: { "values": [ "terralith:gravel_beach" ]}
+worldgen/biome/is_swamp.json :: { "values": [ "#terralith:reference/swamp" ]}
+worldgen/biome/is_sparse_vegetation/overworld.json :: { "values": [ "#terralith:reference/badlands_all", "#terralith:reference/savanna", "#terralith:shrublands" ]}
+worldgen/biome/is_underground.json :: { "values": [ "#terralith:reference/cave", "#terralith:reference/deep_cave" ]}
+worldgen/biome/is_sandy.json :: { "values": [ "#terralith:reference/desert_all" ]}
+worldgen/biome/is_dry.json :: { "values": [ "#terralith:reference/badlands_all", "#terralith:reference/desert_all" ]}
+worldgen/biome/no_default_monsters.json :: { "values": [ "#terralith:rare_island" ]}
+worldgen/biome/is_lush.json :: { "values": [ "terralith:cave/underground_jungle" ]}
+block/ores_in_ground/deepslate.json :: { "values": [ "minecraft:deepslate_coal_ore", "minecraft:deepslate_copper_ore", "minecraft:deepslate_diamond_ore", "minecraft:deepslate_emerald_ore", "minecraft:deepslate_gold_ore", "minecraft:deepslate_iron_ore", "minecraft:deepslate_lapis_ore", "minecraft:deepslate_redstone_ore" ]}
+block/ores_in_ground/stone.json :: { "values": [ "minecraft:coal_ore", "minecraft:copper_ore", "minecraft:diamond_ore", "minecraft:emerald_ore", "minecraft:gold_ore", "minecraft:iron_ore", "minecraft:lapis_ore", "minecraft:redstone_ore" ]}

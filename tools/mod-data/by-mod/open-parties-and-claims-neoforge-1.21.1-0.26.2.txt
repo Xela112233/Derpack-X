@@ -1,0 +1,21 @@
+# open-parties-and-claims-neoforge-1.21.1-0.26.2
+
+## mod metadata (id / version / deps)
+license="GNU Lesser General Public License v3.0 (LGPL-3.0-only)"
+modId="openpartiesandclaims" #mandatory
+version="0.26.2" #mandatory
+displayName="Open Parties and Claims" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.0-beta,)" #mandatory
+modId="minecraft"
+versionRange="[1.21, 1.22)"
+modId="create"
+versionRange="[6.0.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,17 @@
+# GlitchCore-neoforge-1.21.1-2.1.0.0
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="glitchcore"
+version="2.1.0.0"
+displayName="GlitchCore"
+modId="neoforge"
+versionRange="[21.1,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

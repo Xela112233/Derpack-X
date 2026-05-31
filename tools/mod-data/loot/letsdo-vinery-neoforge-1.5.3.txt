@@ -1,0 +1,109 @@
+vinery:advancements/completionist | minecraft:block | minecraft:block minecraft:item minecraft:set_count vinery:vinery_standard
+vinery:blocks/acacia_lattice | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:acacia_lattice
+vinery:blocks/acacia_wine_rack_big | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:acacia_wine_rack_big
+vinery:blocks/acacia_wine_rack_mid | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:acacia_wine_rack_mid
+vinery:blocks/acacia_wine_rack_small | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:acacia_wine_rack_small
+vinery:blocks/apple_bag | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:apple_bag
+vinery:blocks/apple_leaves | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:apple minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform vinery:apple_leaves vinery:apple_tree_sapling vinery:blocks/apple_leaves
+vinery:blocks/apple_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:apple_log
+vinery:blocks/apple_press | ? | 
+vinery:blocks/apple_tree_sapling | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:apple_tree_sapling
+vinery:blocks/apple_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:apple_wood
+vinery:blocks/bamboo_lattice | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:bamboo_lattice
+vinery:blocks/bamboo_wine_rack_big | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:bamboo_wine_rack_big
+vinery:blocks/bamboo_wine_rack_mid | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:bamboo_wine_rack_mid
+vinery:blocks/bamboo_wine_rack_small | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:bamboo_wine_rack_small
+vinery:blocks/birch_lattice | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:birch_lattice
+vinery:blocks/birch_wine_rack_big | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:birch_wine_rack_big
+vinery:blocks/birch_wine_rack_mid | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:birch_wine_rack_mid
+vinery:blocks/birch_wine_rack_small | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:birch_wine_rack_small
+vinery:blocks/cherry_bag | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:cherry_bag
+vinery:blocks/cherry_lattice | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:cherry_lattice
+vinery:blocks/cherry_wine_rack_big | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:cherry_wine_rack_big
+vinery:blocks/cherry_wine_rack_mid | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:cherry_wine_rack_mid
+vinery:blocks/cherry_wine_rack_small | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:cherry_wine_rack_small
+vinery:blocks/coarse_dirt_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count vinery:coarse_dirt_slab
+vinery:blocks/dark_cherry_barrel | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_barrel
+vinery:blocks/dark_cherry_beam | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_beam
+vinery:blocks/dark_cherry_big_table | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion vinery:dark_cherry_big_table
+vinery:blocks/dark_cherry_button | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_button
+vinery:blocks/dark_cherry_cabinet | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion vinery:dark_cherry_cabinet
+vinery:blocks/dark_cherry_chair | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_chair
+vinery:blocks/dark_cherry_door | minecraft:block | minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion vinery:dark_cherry_door
+vinery:blocks/dark_cherry_drawer | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion vinery:dark_cherry_drawer
+vinery:blocks/dark_cherry_fence | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_fence
+vinery:blocks/dark_cherry_fence_gate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_fence_gate
+vinery:blocks/dark_cherry_floorboard | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_floorboard
+vinery:blocks/dark_cherry_hanging_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_hanging_sign
+vinery:blocks/dark_cherry_lattice | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_lattice
+vinery:blocks/dark_cherry_leaves | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform vinery:blocks/dark_cherry_leaves vinery:cherry vinery:dark_cherry_leaves vinery:dark_cherry_sapling
+vinery:blocks/dark_cherry_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_log
+vinery:blocks/dark_cherry_planks | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_planks
+vinery:blocks/dark_cherry_pressure_plate | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_pressure_plate
+vinery:blocks/dark_cherry_sapling | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_sapling
+vinery:blocks/dark_cherry_shelf | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_shelf
+vinery:blocks/dark_cherry_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_sign
+vinery:blocks/dark_cherry_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count vinery:dark_cherry_slab
+vinery:blocks/dark_cherry_stairs | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_stairs
+vinery:blocks/dark_cherry_table | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_table
+vinery:blocks/dark_cherry_trapdoor | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_trapdoor
+vinery:blocks/dark_cherry_wall_hanging_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_hanging_sign
+vinery:blocks/dark_cherry_wall_sign | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_sign
+vinery:blocks/dark_cherry_wine_rack_big | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion vinery:dark_cherry_wine_rack_big
+vinery:blocks/dark_cherry_wine_rack_mid | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_wine_rack_mid
+vinery:blocks/dark_cherry_wine_rack_small | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion vinery:dark_cherry_wine_rack_small
+vinery:blocks/dark_cherry_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_cherry_wood
+vinery:blocks/dark_oak_lattice | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_oak_lattice
+vinery:blocks/dark_oak_wine_rack_big | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_oak_wine_rack_big
+vinery:blocks/dark_oak_wine_rack_mid | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_oak_wine_rack_mid
+vinery:blocks/dark_oak_wine_rack_small | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:dark_oak_wine_rack_small
+vinery:blocks/dirt_path_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count vinery:dirt_path_slab vinery:dirt_slab
+vinery:blocks/dirt_slab | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count vinery:dirt_slab
+vinery:blocks/fermentation_barrel | minecraft:block | minecraft:block minecraft:copy_name minecraft:item minecraft:survives_explosion vinery:fermentation_barrel
+vinery:blocks/grapevine_leaves | minecraft:block | minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:shears minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform vinery:blocks/grapevine_leaves vinery:grapevine_leaves vinery:white_grape vinery:white_grape_seeds
+vinery:blocks/grapevine_pot | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:grapevine_pot
+vinery:blocks/grapevine_stem | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:grapevine_stem
+vinery:blocks/grass_slab | minecraft:block | minecraft:block minecraft:inverted minecraft:item minecraft:match_tool minecraft:silk_touch vinery:dirt_slab vinery:grass_slab
+vinery:blocks/jungle_grape_bush_red | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:set_count minecraft:uniform minecraft:uniform_bonus_count vinery:jungle_grape_bush_red vinery:jungle_grape_seeds_red
+vinery:blocks/jungle_grape_bush_white | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:set_count minecraft:uniform minecraft:uniform_bonus_count vinery:jungle_grape_bush_white vinery:jungle_grape_seeds_white
+vinery:blocks/jungle_lattice | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:jungle_lattice
+vinery:blocks/jungle_wine_rack_big | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:jungle_wine_rack_big
+vinery:blocks/jungle_wine_rack_mid | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:jungle_wine_rack_mid
+vinery:blocks/jungle_wine_rack_small | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:jungle_wine_rack_small
+vinery:blocks/mangrove_lattice | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:mangrove_lattice
+vinery:blocks/mangrove_wine_rack_big | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:mangrove_wine_rack_big
+vinery:blocks/mangrove_wine_rack_mid | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:mangrove_wine_rack_mid
+vinery:blocks/mangrove_wine_rack_small | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:mangrove_wine_rack_small
+vinery:blocks/oak_lattice | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:oak_lattice
+vinery:blocks/oak_wine_rack_big | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:oak_wine_rack_big
+vinery:blocks/oak_wine_rack_mid | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:oak_wine_rack_mid
+vinery:blocks/oak_wine_rack_small | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:oak_wine_rack_small
+vinery:blocks/potted_apple_tree_sapling | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion vinery:apple_tree_sapling vinery:blocks/potted_apple_tree_sapling
+vinery:blocks/potted_dark_cherry_sapling | minecraft:block | minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion vinery:blocks/potted_dark_cherry_sapling vinery:dark_cherry_sapling
+vinery:blocks/red_grape_bag | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:red_grape_bag
+vinery:blocks/red_grape_bush | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:set_count minecraft:uniform minecraft:uniform_bonus_count vinery:red_grape_bush vinery:red_grape_seeds
+vinery:blocks/red_jungle_grape_bag | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:red_jungle_grape_bag
+vinery:blocks/red_savanna_grape_bag | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:red_savanna_grape_bag
+vinery:blocks/red_taiga_grape_bag | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:red_taiga_grape_bag
+vinery:blocks/savanna_grape_bush_red | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:set_count minecraft:uniform minecraft:uniform_bonus_count vinery:savanna_grape_bush_red vinery:savanna_grape_seeds_red
+vinery:blocks/savanna_grape_bush_white | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:set_count minecraft:uniform minecraft:uniform_bonus_count vinery:savanna_grape_bush_white vinery:savanna_grape_seeds_white
+vinery:blocks/spruce_lattice | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:spruce_lattice
+vinery:blocks/spruce_wine_rack_big | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:spruce_wine_rack_big
+vinery:blocks/spruce_wine_rack_mid | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:spruce_wine_rack_mid
+vinery:blocks/spruce_wine_rack_small | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:spruce_wine_rack_small
+vinery:blocks/stackable_log | minecraft:block | minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count vinery:stackable_log
+vinery:blocks/storage_pot | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:storage_pot
+vinery:blocks/stripped_dark_cherry_log | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:stripped_dark_cherry_log
+vinery:blocks/stripped_dark_cherry_wood | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:stripped_dark_cherry_wood
+vinery:blocks/taiga_grape_bush_red | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:set_count minecraft:uniform minecraft:uniform_bonus_count vinery:taiga_grape_bush_red vinery:taiga_grape_seeds_red
+vinery:blocks/taiga_grape_bush_white | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:set_count minecraft:uniform minecraft:uniform_bonus_count vinery:taiga_grape_bush_white vinery:taiga_grape_seeds_white
+vinery:blocks/vinery_standard | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:vinery_standard
+vinery:blocks/vinery_wall_standard | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:vinery_standard
+vinery:blocks/white_grape_bag | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:white_grape_bag
+vinery:blocks/white_grape_bush | minecraft:block | minecraft:apply_bonus minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:set_count minecraft:uniform minecraft:uniform_bonus_count vinery:white_grape_bush vinery:white_grape_seeds
+vinery:blocks/white_jungle_grape_bag | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:white_jungle_grape_bag
+vinery:blocks/white_savanna_grape_bag | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:white_savanna_grape_bag
+vinery:blocks/white_taiga_grape_bag | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:white_taiga_grape_bag
+vinery:blocks/window | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch vinery:blocks/window vinery:window
+vinery:blocks/window_block | minecraft:block | minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch vinery:blocks/window_block vinery:window_block
+vinery:blocks/wine_box | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion vinery:wine_box

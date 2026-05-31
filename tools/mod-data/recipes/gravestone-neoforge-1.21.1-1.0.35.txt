@@ -1,0 +1,1 @@
+gravestone:gravestone | minecraft:crafting_shaped | gravestone:gravestone minecraft:cobblestone minecraft:crafting_shaped minecraft:dirt

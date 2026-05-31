@@ -1,0 +1,4 @@
+dynamictrees:cocoa_beans | minecraft:crafting_shapeless | dynamictrees:cocoa_seed minecraft:crafting_shapeless
+dynamictrees:dirt_bucket | minecraft:crafting_shaped | dynamictrees:dirt_bucket minecraft:bucket minecraft:crafting_shaped minecraft:dirt
+dynamictrees:mega_seed | dynamictrees:mega_seed | dynamictrees:mega_seed
+dynamictrees:seed_conversion | dynamictrees:seed_conversion | dynamictrees:seed_conversion

@@ -1,0 +1,522 @@
+# spawn-4.0.4-1.21.1
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="spawn"
+version="4.0.4-1.21.1"
+displayName="Spawn"
+modId="neoforge"
+versionRange="[21.1.226,)"
+modId="minecraft"
+versionRange="[1.21.1]"
+
+## blocks
+everycomp:abnww/spawn/date_leaf_pile
+everycomp:q/spawn/date_hedge
+spawn:algal_reefstone
+spawn:algal_reefstone_slab
+spawn:algal_reefstone_stairs
+spawn:algal_reefstone_wall
+spawn:algal_sand
+spawn:ant_farm
+spawn:ant_mound
+spawn:anthill
+spawn:barnacle
+spawn:barnacle_cluster
+spawn:big_sea_pickle
+spawn:big_snail_shell
+spawn:blasted_sand
+spawn:blasted_sandstone
+spawn:blasted_sandstone_slab
+spawn:blasted_sandstone_stairs
+spawn:blasted_sandstone_wall
+spawn:broad_grass
+spawn:chiseled_blasted_sandstone
+spawn:clam_case_purple
+spawn:clam_case_red
+spawn:clam_case_white
+spawn:clam_case_yellow
+spawn:crab_boil_block
+spawn:cracked_rotten_planks
+spawn:cut_blasted_sandstone
+spawn:cut_blasted_sandstone_slab
+spawn:dangling_date_leaves
+spawn:date_bunch
+spawn:date_button
+spawn:date_door
+spawn:date_fence
+spawn:date_fence_gate
+spawn:date_hanging_sign
+spawn:date_leaves
+spawn:date_log
+spawn:date_planks
+spawn:date_pressure_plate
+spawn:date_sapling
+spawn:date_sign
+spawn:date_slab
+spawn:date_stairs
+spawn:date_trapdoor
+spawn:date_wall_hanging_sign
+spawn:date_wall_sign
+spawn:dead_heart_coral
+spawn:dead_heart_coral_block
+spawn:dead_heart_coral_fan
+spawn:dead_heart_coral_wall_fan
+spawn:dead_reed_coral
+spawn:dead_reed_coral_block
+spawn:dead_reed_coral_fan
+spawn:dead_reed_coral_wall_fan
+spawn:dead_sea_star
+spawn:dead_sea_urchin
+spawn:dead_spike_coral
+spawn:dead_spike_coral_block
+spawn:dead_spike_coral_fan
+spawn:dead_spike_coral_wall_fan
+spawn:dead_thorn_coral
+spawn:dead_thorn_coral_block
+spawn:dead_thorn_coral_fan
+spawn:dead_thorn_coral_wall_fan
+spawn:dead_wax_coral
+spawn:dead_wax_coral_block
+spawn:dead_wax_coral_fan
+spawn:dead_wax_coral_wall_fan
+spawn:dried_hamster
+spawn:fall_dragon_reeds
+spawn:fallen_leaves
+spawn:ghostly_mucus_block
+spawn:hamster_wheel
+spawn:hazy_algae_block
+spawn:heart_coral
+spawn:heart_coral_block
+spawn:heart_coral_fan
+spawn:heart_coral_wall_fan
+spawn:heart_of_the_sun
+spawn:heliostone
+spawn:heliostone_slab
+spawn:heliostone_stairs
+spawn:heliostone_wall
+spawn:iguana_egg
+spawn:item_in_a_bottle
+spawn:magmatic_splatter
+spawn:marine_iguana_egg
+spawn:moonstone
+spawn:moray_crevice
+spawn:mucus
+spawn:mucus_block
+spawn:octoduct
+spawn:pigment_shifter
+spawn:potted_date_sapling
+spawn:potted_sweet_berry_bush
+spawn:red_algae
+spawn:red_algae_block
+spawn:red_algae_carpet
+spawn:reed_coral
+spawn:reed_coral_block
+spawn:reed_coral_fan
+spawn:reed_coral_wall_fan
+spawn:reefstone
+spawn:reefstone_slab
+spawn:reefstone_stairs
+spawn:reefstone_tile_slab
+spawn:reefstone_tile_stairs
+spawn:reefstone_tile_wall
+spawn:reefstone_tiles
+spawn:reefstone_wall
+spawn:rotten_button
+spawn:rotten_door
+spawn:rotten_fence
+spawn:rotten_fence_gate
+spawn:rotten_hanging_sign
+spawn:rotten_log
+spawn:rotten_log_anthill
+spawn:rotten_planks
+spawn:rotten_pressure_plate
+spawn:rotten_sign
+spawn:rotten_slab
+spawn:rotten_stairs
+spawn:rotten_trapdoor
+spawn:rotten_wall_hanging_sign
+spawn:rotten_wall_sign
+spawn:rotten_wood
+spawn:sea_bunny
+spawn:sea_star
+spawn:sea_urchin
+spawn:short_windswept_grass
+spawn:smooth_blasted_sandstone
+spawn:smooth_blasted_sandstone_slab
+spawn:smooth_blasted_sandstone_stairs
+spawn:snail_eggs
+spawn:snail_shell
+spawn:snail_shell_tile_slab
+spawn:snail_shell_tile_stairs
+spawn:snail_shell_tiles
+spawn:spike_coral
+spawn:spike_coral_block
+spawn:spike_coral_fan
+spawn:spike_coral_wall_fan
+spawn:spring_dragon_reeds
+spawn:stripped_date_log
+spawn:stripped_rotten_log
+spawn:stripped_rotten_wood
+spawn:summer_dragon_reeds
+spawn:sunflower
+spawn:sunflower_plant
+spawn:sunstone
+spawn:tall_windswept_grass
+spawn:thorn_coral
+spawn:thorn_coral_block
+spawn:thorn_coral_fan
+spawn:thorn_coral_wall_fan
+spawn:trimmed_seagrass
+spawn:tropical_wildflowers
+spawn:unstable_heliostone
+spawn:wax_coral
+spawn:wax_coral_block
+spawn:wax_coral_fan
+spawn:wax_coral_wall_fan
+spawn:winter_dragon_reeds
+spawn:zombified_flower
+
+## items
+everycomp:abnww/spawn/date_leaf_pile
+everycomp:q/spawn/date_hedge
+spawn:algal_reefstone
+spawn:algal_reefstone_slab
+spawn:algal_reefstone_stairs
+spawn:algal_reefstone_wall
+spawn:algal_sand
+spawn:angler_fish
+spawn:angler_fish_bucket
+spawn:angler_fish_spawn_egg
+spawn:ant_farm
+spawn:ant_mound
+spawn:ant_pupa
+spawn:ant_spawn_egg
+spawn:anthill
+spawn:baby_flukeshroom_bucket
+spawn:baby_sea_cow_bucket
+spawn:baby_seal_bucket
+spawn:baby_seal_bucket_water
+spawn:baby_sunfish_bucket
+spawn:baby_sunfish_bucket_baby
+spawn:baby_sunfish_bucket_newborn
+spawn:barbed_spawn_egg
+spawn:barnacle
+spawn:barnacle_cluster
+spawn:barracuda_spawn_egg
+spawn:big_sea_pickle
+spawn:big_snail_shell
+spawn:blasted_sand
+spawn:blasted_sandstone
+spawn:blasted_sandstone_slab
+spawn:blasted_sandstone_stairs
+spawn:blasted_sandstone_wall
+spawn:blenny_bucket
+spawn:blenny_spawn_egg
+spawn:block_entity_variants/sea_bunny_banana
+spawn:block_entity_variants/sea_bunny_chorus
+spawn:block_entity_variants/sea_bunny_dmca
+spawn:block_entity_variants/sea_bunny_matcha
+spawn:block_entity_variants/sea_bunny_pepper
+spawn:block_entity_variants/sea_bunny_splotched
+spawn:block_entity_variants/sea_star_berry
+spawn:block_entity_variants/sea_star_chocolate
+spawn:block_entity_variants/sea_star_grape
+spawn:block_entity_variants/sea_star_mint
+spawn:block_entity_variants/sea_star_patrick
+spawn:block_entity_variants/sea_star_tangerine
+spawn:block_entity_variants/sea_urchin_floog
+spawn:block_entity_variants/sea_urchin_needle
+spawn:block_entity_variants/sea_urchin_oddball
+spawn:block_entity_variants/sea_urchin_snowball
+spawn:block_entity_variants/sea_urchin_sunset
+spawn:block_entity_variants/sea_urchin_venom
+spawn:blue_footed_boots
+spawn:bluefish
+spawn:bluefish_bucket
+spawn:bluefish_roll
+spawn:bluefish_slice
+spawn:bluefish_spawn_egg
+spawn:booby_egg
+spawn:booby_egg_shard
+spawn:booby_spawn_egg
+spawn:broad_grass
+spawn:canned_herring
+spawn:captured_octopus
+spawn:casting_net
+spawn:casting_net_full
+spawn:chiseled_blasted_sandstone
+spawn:clam
+spawn:clam_case_purple
+spawn:clam_case_red
+spawn:clam_case_white
+spawn:clam_case_yellow
+spawn:clam_chowder
+spawn:clam_giant_clam
+spawn:clam_scallop
+spawn:clam_spawn_egg
+spawn:clam_wedge_shell
+spawn:coastal_crab_baby_bucket_empty
+spawn:coastal_crab_baby_bucket_water
+spawn:coastal_crab_bucket
+spawn:coastal_crab_bucket_empty
+spawn:coastal_crab_bucket_water
+spawn:coastal_crab_claw
+spawn:coastal_crab_claw_empty
+spawn:coastal_crab_claw_shooting0
+spawn:coastal_crab_claw_shooting1
+spawn:coastal_crab_claw_shooting2
+spawn:coastal_crab_claw_shooting_template
+spawn:coastal_crab_claw_standby
+spawn:coastal_crab_spawn_egg
+spawn:cooked_bluefish
+spawn:cooked_bluefish_slice
+spawn:cooked_clam
+spawn:cooked_dodo
+spawn:cooked_herring
+spawn:cooked_herring_slice
+spawn:cooked_tuna_chunk
+spawn:cooked_tuna_slice
+spawn:crab_boil
+spawn:crab_boil_block
+spawn:cracked_rotten_planks
+spawn:crown_pottery_sherd
+spawn:cut_blasted_sandstone
+spawn:cut_blasted_sandstone_slab
+spawn:dangling_date_leaves
+spawn:date_bunch
+spawn:date_button
+spawn:date_chest_raft
+spawn:date_cookie
+spawn:date_door
+spawn:date_fence
+spawn:date_fence_gate
+spawn:date_hanging_sign
+spawn:date_leaves
+spawn:date_log
+spawn:date_planks
+spawn:date_pressure_plate
+spawn:date_raft
+spawn:date_seed
+spawn:date_sign
+spawn:date_slab
+spawn:date_stairs
+spawn:date_trapdoor
+spawn:dates
+spawn:dead_heart_coral
+spawn:dead_heart_coral_block
+spawn:dead_heart_coral_fan
+spawn:dead_reed_coral
+spawn:dead_reed_coral_block
+spawn:dead_reed_coral_fan
+spawn:dead_sea_star
+spawn:dead_sea_urchin
+spawn:dead_spike_coral
+spawn:dead_spike_coral_block
+spawn:dead_spike_coral_fan
+spawn:dead_thorn_coral
+spawn:dead_thorn_coral_block
+spawn:dead_thorn_coral_fan
+spawn:dead_wax_coral
+spawn:dead_wax_coral_block
+spawn:dead_wax_coral_fan
+spawn:dodo
+spawn:dodo_spawn_egg
+spawn:dodo_translator
+spawn:dodo_translator_worn
+spawn:dried_hamster
+spawn:escargot
+spawn:fall_dragon_reeds
+spawn:fallen_leaves
+spawn:firekeeper_spawn_egg
+spawn:flukeshroom_spawn_egg
+spawn:fly_bottle
+spawn:ghostly_mucus_block
+spawn:hamster_spawn_egg
+spawn:hamster_wheel
+spawn:hazy_algae_block
+spawn:heart_coral
+spawn:heart_coral_block
+spawn:heart_coral_fan
+spawn:heart_of_the_sun
+spawn:heliostone
+spawn:heliostone_slab
+spawn:heliostone_stairs
+spawn:heliostone_wall
+spawn:herring
+spawn:herring_bucket
+spawn:herring_roll
+spawn:herring_slice
+spawn:herring_spawn_egg
+spawn:iguana_egg
+spawn:iguana_spawn_egg
+spawn:item_in_a_bottle
+spawn:magmatic_splatter
+spawn:marine_iguana_egg
+spawn:marine_iguana_spawn_egg
+spawn:moonstone
+spawn:moray_crevice
+spawn:mucus
+spawn:mucus_block
+spawn:music_disc_barbaric
+spawn:music_disc_dally
+spawn:music_disc_jammed
+spawn:music_disc_rain
+spawn:music_disc_rot
+spawn:music_disc_water_horse
+spawn:octoduct
+spawn:octopus
+spawn:octopus_bell
+spawn:octopus_bowl
+spawn:octopus_bucket
+spawn:octopus_cauldron
+spawn:octopus_flower_pot
+spawn:octopus_glass_bottle
+spawn:octopus_goat_horn
+spawn:octopus_goat_horn_tooting
+spawn:octopus_hopper
+spawn:octopus_hopper_minecart
+spawn:octopus_minecart
+spawn:octopus_nautilus_shell
+spawn:octopus_snail_shell
+spawn:octopus_spawn_egg
+spawn:octopus_water_bucket
+spawn:pigment_shifter
+spawn:pilot_fish_bucket
+spawn:pilot_fish_spawn_egg
+spawn:potted_sweet_berries
+spawn:red_algae
+spawn:red_algae_block
+spawn:red_algae_carpet
+spawn:reed_coral
+spawn:reed_coral_block
+spawn:reed_coral_fan
+spawn:reefstone
+spawn:reefstone_slab
+spawn:reefstone_stairs
+spawn:reefstone_tile_slab
+spawn:reefstone_tile_stairs
+spawn:reefstone_tile_wall
+spawn:reefstone_tiles
+spawn:reefstone_wall
+spawn:roasted_sunflower_seeds
+spawn:rotten_boat
+spawn:rotten_button
+spawn:rotten_chest_boat
+spawn:rotten_door
+spawn:rotten_fence
+spawn:rotten_fence_gate
+spawn:rotten_hanging_sign
+spawn:rotten_log
+spawn:rotten_log_anthill
+spawn:rotten_planks
+spawn:rotten_pressure_plate
+spawn:rotten_sign
+spawn:rotten_slab
+spawn:rotten_stairs
+spawn:rotten_trapdoor
+spawn:rotten_wood
+spawn:school_pottery_sherd
+spawn:sea_bunny
+spawn:sea_cow_spawn_egg
+spawn:sea_star
+spawn:sea_urchin
+spawn:seahorse_bucket
+spawn:seahorse_spawn_egg
+spawn:seal_spawn_egg
+spawn:shell_fragments
+spawn:shell_pottery_sherd
+spawn:short_windswept_grass
+spawn:smooth_blasted_sandstone
+spawn:smooth_blasted_sandstone_slab
+spawn:smooth_blasted_sandstone_stairs
+spawn:snail_eggs
+spawn:snail_shell
+spawn:snail_shell_tile_slab
+spawn:snail_shell_tile_stairs
+spawn:snail_shell_tiles
+spawn:snail_spawn_egg
+spawn:spade_pottery_sherd
+spawn:spawn
+spawn:spawn_eggs
+spawn:spider_crab_spawn_egg
+spawn:spike_coral
+spawn:spike_coral_block
+spawn:spike_coral_fan
+spawn:spring_dragon_reeds
+spawn:steamed_clams
+spawn:stickbug_spawn_egg
+spawn:stranded_spawn_egg
+spawn:stripped_date_log
+spawn:stripped_rotten_log
+spawn:stripped_rotten_wood
+spawn:summer_dragon_reeds
+spawn:sunfish_spawn_egg
+spawn:sunflower
+spawn:sunflower_seeds
+spawn:sunstone
+spawn:suspicious_stick
+spawn:suspicious_stick_baby
+spawn:tall_windswept_grass
+spawn:thorn_coral
+spawn:thorn_coral_block
+spawn:thorn_coral_fan
+spawn:tropical_wildflowers
+spawn:tuna_chunk
+spawn:tuna_egg_bucket
+spawn:tuna_roll
+spawn:tuna_sandwich
+spawn:tuna_slice
+spawn:tuna_spawn_egg
+spawn:unstable_heliostone
+spawn:wax_coral
+spawn:wax_coral_block
+spawn:wax_coral_fan
+spawn:winter_dragon_reeds
+spawn:zombified_flower
+
+## neoforge biome_modifiers
+add_angler_fish.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/angler_fish_spawns", "spawners": [ { "type": "spawn:angler_fish", "maxCount": 1, "minCount": 1, "weight": 5 } ]}
+add_barbed.json :: { "type": "neoforge:add_spawns", "biomes": [ "minecraft:warm_ocean", "spawn:deep_warm_ocean", "minecraft:lukewarm_ocean", "minecraft:deep_lukewarm_ocean" ], "spawners": [ { "type": "spawn:barbed", "maxCount": 1, "minCount": 1, "weight": 5 } ]}
+add_barracuda.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/barracuda_spawns", "spawners": [ { "type": "spawn:barracuda", "maxCount": 6, "minCount": 3, "weight": 40 } ]}
+add_bluefish.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/bluefish_spawns", "spawners": [ { "type": "spawn:bluefish", "maxCount": 7, "minCount": 2, "weight": 10 } ]}
+add_clam.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/clam_spawns", "spawners": [ { "type": "spawn:clam", "maxCount": 12, "minCount": 4, "weight": 150 } ]}
+add_coastal_crab.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/coastal_crab_spawns", "spawners": [ { "type": "spawn:coastal_crab", "maxCount": 5, "minCount": 1, "weight": 50 } ]}
+add_dead_sea_star.json :: { "type": "neoforge:add_features", "biomes": [ "minecraft:beach", "spawn:rocky_shore", "spawn:sandy_island", "minecraft:stony_shore" ], "features": "spawn:dead_sea_star", "step": "vegetal_decoration"}
+add_dead_sea_urchin.json :: { "type": "neoforge:add_features", "biomes": [ "minecraft:beach", "spawn:rocky_shore", "minecraft:stony_shore" ], "features": "spawn:dead_sea_urchin", "step": "vegetal_decoration"}
+add_dragon_reeds_mangrove_swamp.json :: { "type": "neoforge:add_features", "biomes": "minecraft:mangrove_swamp", "features": "spawn:patch_dragon_reeds_mangrove_swamp", "step": "vegetal_decoration"}
+add_dragon_reeds_river.json :: { "type": "neoforge:add_features", "biomes": "minecraft:river", "features": "spawn:patch_dragon_reeds_river", "step": "vegetal_decoration"}
+add_dragon_reeds_swamp.json :: { "type": "neoforge:add_features", "biomes": "minecraft:swamp", "features": "spawn:patch_dragon_reeds_swamp", "step": "vegetal_decoration"}
+add_flies.json :: { "type": "spawn:ambient_effects", "biomes": "#spawn:has_flies", "particle": { "options": { "type": "spawn:wandering_fly" }, "probability": 0.000003334 }, "additions_sound": { "sound": "spawn:misc.fly.buzz", "tick_chance": 0.0001 }}
+add_flukeshroom.json :: { "type": "neoforge:add_spawns", "biomes": "minecraft:mushroom_fields", "spawners": [ { "type": "spawn:flukeshroom", "maxCount": 8, "minCount": 1, "weight": 40 } ]}
+add_frequent_hamster.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/hamster_frequently_spawns", "spawners": [ { "type": "spawn:hamster", "maxCount": 4, "minCount": 1, "weight": 100 } ]}
+add_hamster.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/hamster_spawns", "spawners": [ { "type": "spawn:hamster", "maxCount": 1, "minCount": 1, "weight": 25 } ]}
+add_herring.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/herring_spawns", "spawners": [ { "type": "spawn:herring", "maxCount": 50, "minCount": 20, "weight": 15 } ]}
+add_item_in_a_bottle_beach.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_beach", "features": [ "spawn:item_in_a_bottle_beach" ], "step": "vegetal_decoration"}
+add_item_in_a_bottle_ocean.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_ocean", "features": [ "spawn:item_in_a_bottle_ocean" ], "step": "vegetal_decoration"}
+add_octopus.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/octopus_spawns", "spawners": [ { "type": "spawn:octopus", "maxCount": 1, "minCount": 1, "weight": 1 } ]}
+add_reefstone.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_ocean", "features": [ "spawn:ore_reefstone" ], "step": "underground_ores"}
+add_seahorse.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/seahorse_spawns", "spawners": [ { "type": "spawn:seahorse", "maxCount": 3, "minCount": 1, "weight": 20 } ]}
+add_seal.json :: { "type": "neoforge:add_spawns", "biomes": [ "minecraft:frozen_ocean", "minecraft:deep_frozen_ocean" ], "spawners": [ { "type": "spawn:seal", "maxCount": 8, "minCount": 3, "weight": 10 } ]}
+add_sea_cow.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/sea_cow_spawns", "spawners": [ { "type": "spawn:sea_cow", "maxCount": 3, "minCount": 1, "weight": 20 } ]}
+add_sea_star.json :: { "type": "neoforge:add_features", "biomes": "#spawn:mob_spawns/sea_star_generates", "features": "spawn:sea_star", "step": "vegetal_decoration"}
+add_sea_urchin.json :: { "type": "neoforge:add_features", "biomes": "#spawn:mob_spawns/sea_urchin_generates", "features": "spawn:sea_urchin", "step": "vegetal_decoration"}
+add_small_anthill.json :: { "type": "neoforge:add_features", "biomes": "#spawn:small_anthill_generates", "features": [ "spawn:small_anthill" ], "step": "vegetal_decoration"}
+add_snail.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/snail_spawns", "spawners": [ { "type": "spawn:snail", "maxCount": 3, "minCount": 1, "weight": 12 } ]}
+add_spider_crab.json :: { "type": "neoforge:add_spawns", "biomes": [ "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean", "minecraft:deep_frozen_ocean" ], "spawners": [ { "type": "spawn:spider_crab", "maxCount": 1, "minCount": 1, "weight": 15 } ]}
+add_sunfish.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/sunfish_spawns", "spawners": [ { "type": "spawn:sunfish", "maxCount": 2, "minCount": 1, "weight": 20 } ]}
+add_tuna.json :: { "type": "neoforge:add_spawns", "biomes": "#spawn:mob_spawns/tuna_spawns", "spawners": [ { "type": "spawn:tuna", "maxCount": 1, "minCount": 1, "weight": 15 } ]}
+add_windswept_grass.json :: { "type": "neoforge:add_features", "biomes": [ "minecraft:beach", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:warm_ocean", "spawn:deep_warm_ocean", "minecraft:lukewarm_ocean", "minecraft:deep_lukewarm_ocean" ], "features": [ "spawn:patch_windswept_grass" ], "step": "vegetal_decoration"}
+add_zombified_flower.json :: { "type": "neoforge:add_features", "biomes": [ "minecraft:jungle" ], "features": "spawn:patch_zombified_flower", "step": "vegetal_decoration"}
+replace_sunflowers.json :: { "type": "spawn:replace_sunflower", "old_features": [ "minecraft:patch_sunflower" ], "new_features": [ "spawn:patch_sunflower" ]}
+stranded_spawns.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_ocean", "features": [ "spawn:stranded_spawns" ], "step": "vegetal_decoration"}
+
+## c: common tag membership
+block/sand.json :: { "replace" : false, "values": [ "spawn:blasted_sand" ]}
+block/sandstone.json :: { "replace" : false, "values": [ "spawn:chiseled_blasted_sandstone", "spawn:cut_blasted_sandstone", "spawn:smooth_blasted_sandstone", "spawn:blasted_sandstone" ]}
+item/eggs.json :: { "replace" : false, "values": [ "spawn:booby_egg", "spawn:iguana_egg", "spawn:marine_iguana_egg" ]}
+item/fence_gates/wooden.json :: { "replace": false, "values": [ "spawn:rotten_fence_gate", "spawn:date_fence_gate" ]}
+item/music_discs.json :: { "replace": false, "values": [ "spawn:music_disc_rot", "spawn:music_disc_rain", "spawn:music_disc_water_horse", "spawn:music_disc_jammed", "spawn:music_disc_dally", "spawn:music_disc_barbaric" ]}
+item/raw_fishes.json :: { "replace" : false, "values": [ "#spawn:raw_fishes/herring", "#spawn:raw_fishes/bluefish", "#spawn:raw_fishes/tuna" ]}
+item/rods/wooden.json :: { "replace": false, "values": [ "spawn:suspicious_stick" ]}
+item/sand.json :: { "replace" : false, "values": [ "spawn:blasted_sand" ]}

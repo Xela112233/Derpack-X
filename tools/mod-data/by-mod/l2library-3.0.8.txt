@@ -1,0 +1,19 @@
+# l2library-3.0.8
+
+## mod metadata (id / version / deps)
+license = "LGPL-2.1"
+modId = "l2library" #mandatory
+version = "3.0.8" #mandatory
+displayName = "L2Library" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.1.4,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,62 @@
+# BOMD-NeoForge-1.21-1.3.2
+
+## mod metadata (id / version / deps)
+license="GNU LGPL 3.0"
+modId="bosses_of_mass_destruction"
+version="1.3.2"
+displayName="Bosses of Mass Destruction"
+modId="neoforge"
+versionRange="[21.0,)"
+modId="minecraft"
+versionRange="[1.21,1.22)"
+modId="cerbons_api"
+versionRange="[1.2.0,)"
+modId="cloth_config"
+versionRange="[15.0.140,)"
+modId="geckolib"
+versionRange="[4.5.8,)"
+
+## blocks
+bosses_of_mass_destruction:chiseled_stone_altar
+bosses_of_mass_destruction:gauntlet_blackstone
+bosses_of_mass_destruction:levitation_block
+bosses_of_mass_destruction:mob_ward
+bosses_of_mass_destruction:monolith_block
+bosses_of_mass_destruction:obsidilith_end_frame
+bosses_of_mass_destruction:obsidilith_rune
+bosses_of_mass_destruction:sealed_blackstone
+bosses_of_mass_destruction:vine_wall
+bosses_of_mass_destruction:void_blossom
+bosses_of_mass_destruction:void_blossom_block
+bosses_of_mass_destruction:void_lily
+
+## items
+bosses_of_mass_destruction:ancient_anima
+bosses_of_mass_destruction:blazing_eye
+bosses_of_mass_destruction:brimstone_nectar
+bosses_of_mass_destruction:charged_ender_pearl
+bosses_of_mass_destruction:chiseled_stone_altar
+bosses_of_mass_destruction:crystal_fruit
+bosses_of_mass_destruction:earthdive_spear
+bosses_of_mass_destruction:earthdive_spear_throwing
+bosses_of_mass_destruction:gauntlet_blackstone
+bosses_of_mass_destruction:levitation_block
+bosses_of_mass_destruction:mob_ward
+bosses_of_mass_destruction:monolith_block
+bosses_of_mass_destruction:obsidian_heart
+bosses_of_mass_destruction:obsidilith_end_frame
+bosses_of_mass_destruction:obsidilith_rune
+bosses_of_mass_destruction:sealed_blackstone
+bosses_of_mass_destruction:soul_star
+bosses_of_mass_destruction:spear
+bosses_of_mass_destruction:throwing
+bosses_of_mass_destruction:vine_wall
+bosses_of_mass_destruction:void_blossom
+bosses_of_mass_destruction:void_blossom_block
+bosses_of_mass_destruction:void_lily
+bosses_of_mass_destruction:void_thorn
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+entity_type/bosses.json :: { "replace": false, "values": [ "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:gauntlet", "bosses_of_mass_destruction:void_blossom" ]}

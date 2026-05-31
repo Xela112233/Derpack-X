@@ -1,0 +1,19 @@
+# timm-1.1-neoforge-1.21
+
+## mod metadata (id / version / deps)
+license="GPL-3.0 License"
+modId="timm" #mandatory
+version="1.1" #mandatory
+displayName="The Immersive Music Mod" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.0.167,)" #mandatory
+modId="minecraft"
+versionRange="[1.21, 1.21.3]"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

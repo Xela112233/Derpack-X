@@ -1,0 +1,23 @@
+# bettercombat-neoforge-2.3.2+1.21.1
+
+## mod metadata (id / version / deps)
+license = "All Rights Reserved"
+modId = "bettercombat"
+version = "2.3.2+1.21.1"
+displayName = "Better Combat"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+modId="playeranimator"
+versionRange="[1,)"
+modId="cloth_config"
+versionRange="[15.0.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,19 @@
+# blockui-1.0.211-1.21.1-snapshot
+
+## mod metadata (id / version / deps)
+license="GPL3"
+modId="blockui"
+version="1.0.211-1.21.1-snapshot"
+displayName="UI Library Mod"
+modId="neoforge"
+versionRange="[21.1,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

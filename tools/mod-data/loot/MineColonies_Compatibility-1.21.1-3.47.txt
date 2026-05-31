@@ -1,0 +1,3 @@
+minecolonies_compatibility:blocks/citizen_grid | minecraft:block | minecolonies_compatibility:citizen_grid minecraft:block minecraft:item minecraft:survives_explosion
+minecolonies_compatibility:blocks/citizen_stock_keeper | minecraft:block | minecolonies_compatibility:citizen_stock_keeper minecraft:block minecraft:item minecraft:survives_explosion
+minecolonies_compatibility:blocks/common_network_storage | minecraft:block | minecolonies_compatibility:common_network_storage minecraft:block minecraft:item minecraft:survives_explosion

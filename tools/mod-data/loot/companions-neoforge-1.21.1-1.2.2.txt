@@ -1,0 +1,13 @@
+companions:blocks/copper_coin | minecraft:block | companions:copper_coin minecraft:block minecraft:block_state_property minecraft:blocks/candle minecraft:explosion_decay minecraft:item minecraft:set_count
+companions:blocks/croissant_egg_block | minecraft:block | companions:blocks/croissant_egg_block companions:croissant_egg_block minecraft:block minecraft:item minecraft:survives_explosion
+companions:blocks/empty_puppet_block | minecraft:block | companions:blocks/empty_puppet_block companions:empty_puppet_block minecraft:block minecraft:item minecraft:survives_explosion
+companions:blocks/end_coin | minecraft:block | companions:end_coin minecraft:block minecraft:block_state_property minecraft:blocks/candle minecraft:explosion_decay minecraft:item minecraft:set_count
+companions:blocks/nether_coin | minecraft:block | companions:nether_coin minecraft:block minecraft:block_state_property minecraft:blocks/candle minecraft:explosion_decay minecraft:item minecraft:set_count
+companions:blocks/plasma_lamp_block | minecraft:block | companions:blocks/plasma_lamp_block companions:plasma_lamp_block minecraft:block minecraft:item minecraft:survives_explosion
+companions:blocks/recall_platform_block | minecraft:block | companions:blocks/recall_platform_block companions:recall_platform_block minecraft:block minecraft:item minecraft:survives_explosion
+companions:blocks/shade_maw_altar | minecraft:block | companions:blocks/shade_maw_altar companions:shade_maw_altar minecraft:block minecraft:item minecraft:survives_explosion
+companions:blocks/shade_sword_altar | minecraft:block | companions:blocks/shade_sword_altar companions:shade_sword_altar minecraft:block minecraft:item minecraft:survives_explosion
+companions:blocks/soul_furnace_block | minecraft:block | companions:blocks/soul_furnace_block companions:soul_furnace_block minecraft:block minecraft:item minecraft:survives_explosion
+companions:blocks/tesla_coil_block | minecraft:block | companions:blocks/tesla_coil_block companions:tesla_coil_block minecraft:block minecraft:item minecraft:survives_explosion
+companions:blocks/voltaic_pillar_block | minecraft:block | companions:blocks/voltaic_pillar_block companions:voltaic_pillar_block minecraft:block minecraft:item minecraft:survives_explosion
+companions:blocks/voltaic_relay_block | minecraft:block | companions:blocks/voltaic_relay_block companions:voltaic_relay_block minecraft:block minecraft:item minecraft:survives_explosion

@@ -1,0 +1,2 @@
+sereneseasons:calendar | minecraft:crafting_shaped | minecraft:clock minecraft:crafting_shaped minecraft:paper sereneseasons:calendar
+sereneseasons:season_sensor | minecraft:crafting_shaped | minecraft:cobblestone_slab minecraft:crafting_shaped minecraft:glass minecraft:quartz sereneseasons:calendar sereneseasons:season_sensor

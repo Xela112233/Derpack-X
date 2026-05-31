@@ -1,0 +1,21 @@
+# EMIProfessions-neoforge-1.21.1-1.0.3
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="emiprofessions"
+version="${file.jarVersion}"
+displayName="EMI Professions (EMIP)"
+modId="emi"
+versionRange="[1.1.10,)"
+modId="neoforge"
+versionRange="[21.0.76-beta,)"
+modId="minecraft"
+versionRange="[1.21,1.22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

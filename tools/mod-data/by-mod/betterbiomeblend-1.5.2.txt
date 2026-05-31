@@ -1,0 +1,19 @@
+# betterbiomeblend-1.5.2
+
+## mod metadata (id / version / deps)
+license = "GNU LGPL v3"
+modId = "betterbiomereblend"
+version = "1.5.2"
+displayName = "Better Biome Reblend"
+modId="minecraft"
+versionRange="[1.21,)"
+modId = "neoforge"
+versionRange = "[21,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,640 @@
+create:blocks/acacia_window | minecraft:block | create:acacia_window create:blocks/acacia_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/acacia_window_pane | minecraft:block | create:acacia_window_pane create:blocks/acacia_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/adjustable_chain_gearshift | minecraft:block | create:adjustable_chain_gearshift create:blocks/adjustable_chain_gearshift minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/analog_lever | minecraft:block | create:analog_lever create:blocks/analog_lever minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_alloy_block | minecraft:block | create:andesite_alloy_block create:blocks/andesite_alloy_block minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_bars | minecraft:block | create:andesite_bars create:blocks/andesite_bars minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_belt_funnel | minecraft:block | create:andesite_funnel create:blocks/andesite_belt_funnel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_casing | minecraft:block | create:andesite_casing create:blocks/andesite_casing minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_door | minecraft:block | create:andesite_door create:blocks/andesite_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+create:blocks/andesite_encased_cogwheel | minecraft:block | create:blocks/andesite_encased_cogwheel create:cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_encased_large_cogwheel | minecraft:block | create:blocks/andesite_encased_large_cogwheel create:large_cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_encased_shaft | minecraft:block | create:blocks/andesite_encased_shaft create:shaft minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_funnel | minecraft:block | create:andesite_funnel create:blocks/andesite_funnel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_ladder | minecraft:block | create:andesite_ladder create:blocks/andesite_ladder minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_pillar | minecraft:block | create:andesite_pillar create:blocks/andesite_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_scaffolding | minecraft:block | create:andesite_scaffolding create:blocks/andesite_scaffolding minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_table_cloth | minecraft:block | create:andesite_table_cloth create:blocks/andesite_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/andesite_tunnel | minecraft:block | create:andesite_tunnel create:blocks/andesite_tunnel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/asurine | minecraft:block | create:asurine create:blocks/asurine minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/asurine_pillar | minecraft:block | create:asurine_pillar create:blocks/asurine_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/bamboo_window | minecraft:block | create:bamboo_window create:blocks/bamboo_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/bamboo_window_pane | minecraft:block | create:bamboo_window_pane create:blocks/bamboo_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/basin | minecraft:block | create:basin create:blocks/basin minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/belt | minecraft:block | create:belt_connector create:blocks/belt minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/birch_window | minecraft:block | create:birch_window create:blocks/birch_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/birch_window_pane | minecraft:block | create:birch_window_pane create:blocks/birch_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/black_nixie_tube | minecraft:block | create:blocks/black_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/black_postbox | minecraft:block | create:black_postbox create:blocks/black_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/black_sail | minecraft:block | create:blocks/black_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/black_seat | minecraft:block | create:black_seat create:blocks/black_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/black_table_cloth | minecraft:block | create:black_table_cloth create:blocks/black_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/black_toolbox | minecraft:block | create:black_toolbox create:blocks/black_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/black_valve_handle | minecraft:block | create:black_valve_handle create:blocks/black_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/blaze_burner | minecraft:block | create:blaze_burner create:blocks/blaze_burner create:empty_blaze_burner minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+create:blocks/blue_nixie_tube | minecraft:block | create:blocks/blue_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/blue_postbox | minecraft:block | create:blocks/blue_postbox create:blue_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/blue_sail | minecraft:block | create:blocks/blue_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/blue_seat | minecraft:block | create:blocks/blue_seat create:blue_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/blue_table_cloth | minecraft:block | create:blocks/blue_table_cloth create:blue_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/blue_toolbox | minecraft:block | create:blocks/blue_toolbox create:blue_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/blue_valve_handle | minecraft:block | create:blocks/blue_valve_handle create:blue_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/bound_cardboard_block | minecraft:block | create:blocks/bound_cardboard_block create:bound_cardboard_block create:cardboard_block minecraft:alternatives minecraft:block minecraft:inverted minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:string minecraft:survives_explosion
+create:blocks/brass_bars | minecraft:block | create:blocks/brass_bars create:brass_bars minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brass_belt_funnel | minecraft:block | create:blocks/brass_belt_funnel create:brass_funnel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brass_block | minecraft:block | create:blocks/brass_block create:brass_block minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brass_casing | minecraft:block | create:blocks/brass_casing create:brass_casing minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brass_door | minecraft:block | create:blocks/brass_door create:brass_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+create:blocks/brass_encased_cogwheel | minecraft:block | create:blocks/brass_encased_cogwheel create:cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brass_encased_large_cogwheel | minecraft:block | create:blocks/brass_encased_large_cogwheel create:large_cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brass_encased_shaft | minecraft:block | create:blocks/brass_encased_shaft create:shaft minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brass_funnel | minecraft:block | create:blocks/brass_funnel create:brass_funnel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brass_ladder | minecraft:block | create:blocks/brass_ladder create:brass_ladder minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brass_scaffolding | minecraft:block | create:blocks/brass_scaffolding create:brass_scaffolding minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brass_table_cloth | minecraft:block | create:blocks/brass_table_cloth create:brass_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brass_tunnel | minecraft:block | create:blocks/brass_tunnel create:brass_tunnel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brown_nixie_tube | minecraft:block | create:blocks/brown_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brown_postbox | minecraft:block | create:blocks/brown_postbox create:brown_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brown_sail | minecraft:block | create:blocks/brown_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brown_seat | minecraft:block | create:blocks/brown_seat create:brown_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brown_table_cloth | minecraft:block | create:blocks/brown_table_cloth create:brown_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/brown_toolbox | minecraft:block | create:blocks/brown_toolbox create:brown_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/brown_valve_handle | minecraft:block | create:blocks/brown_valve_handle create:brown_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/calcite_pillar | minecraft:block | create:blocks/calcite_pillar create:calcite_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cardboard_block | minecraft:block | create:blocks/cardboard_block create:cardboard_block minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cart_assembler | minecraft:block | create:blocks/cart_assembler create:cart_assembler minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/chain_conveyor | minecraft:block | create:blocks/chain_conveyor create:chain_conveyor minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cherry_window | minecraft:block | create:blocks/cherry_window create:cherry_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/cherry_window_pane | minecraft:block | create:blocks/cherry_window_pane create:cherry_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/chute | minecraft:block | create:blocks/chute create:chute minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/clipboard | minecraft:block | create:blocks/clipboard minecraft:block
+create:blocks/clockwork_bearing | minecraft:block | create:blocks/clockwork_bearing create:clockwork_bearing minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/clutch | minecraft:block | create:blocks/clutch create:clutch minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cogwheel | minecraft:block | create:blocks/cogwheel create:cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/content_observer | minecraft:block | create:blocks/content_observer create:content_observer minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/contraption_controls | minecraft:block | create:blocks/contraption_controls create:contraption_controls minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/controller_rail | minecraft:block | create:blocks/controller_rail create:controller_rail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/controls | minecraft:block | create:blocks/controls create:controls minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copper_backtank | minecraft:block | create:banktank_air create:blocks/copper_backtank create:copper_backtank minecraft:block minecraft:copy_components minecraft:item minecraft:survives_explosion
+create:blocks/copper_bars | minecraft:block | create:blocks/copper_bars create:copper_bars minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copper_casing | minecraft:block | create:blocks/copper_casing create:copper_casing minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copper_door | minecraft:block | create:blocks/copper_door create:copper_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+create:blocks/copper_ladder | minecraft:block | create:blocks/copper_ladder create:copper_ladder minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copper_scaffolding | minecraft:block | create:blocks/copper_scaffolding create:copper_scaffolding minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copper_shingle_slab | minecraft:block | create:blocks/copper_shingle_slab create:copper_shingle_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/copper_shingle_stairs | minecraft:block | create:blocks/copper_shingle_stairs create:copper_shingle_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copper_shingles | minecraft:block | create:blocks/copper_shingles create:copper_shingles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copper_table_cloth | minecraft:block | create:blocks/copper_table_cloth create:copper_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copper_tile_slab | minecraft:block | create:blocks/copper_tile_slab create:copper_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/copper_tile_stairs | minecraft:block | create:blocks/copper_tile_stairs create:copper_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copper_tiles | minecraft:block | create:blocks/copper_tiles create:copper_tiles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copper_valve_handle | minecraft:block | create:blocks/copper_valve_handle create:copper_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copycat_bars | minecraft:block | create:blocks/copycat_bars minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copycat_base | minecraft:block | create:blocks/copycat_base minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copycat_panel | minecraft:block | create:blocks/copycat_panel create:copycat_panel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/copycat_step | minecraft:block | create:blocks/copycat_step create:copycat_step minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/creative_crate | minecraft:block | create:blocks/creative_crate create:creative_crate minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/creative_fluid_tank | minecraft:block | create:blocks/creative_fluid_tank create:creative_fluid_tank minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/creative_motor | minecraft:block | create:blocks/creative_motor create:creative_motor minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/crimsite | minecraft:block | create:blocks/crimsite create:crimsite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/crimsite_pillar | minecraft:block | create:blocks/crimsite_pillar create:crimsite_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/crimson_window | minecraft:block | create:blocks/crimson_window create:crimson_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/crimson_window_pane | minecraft:block | create:blocks/crimson_window_pane create:crimson_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/crushing_wheel | minecraft:block | create:blocks/crushing_wheel create:crushing_wheel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cuckoo_clock | minecraft:block | create:blocks/cuckoo_clock create:cuckoo_clock minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_andesite | minecraft:block | create:blocks/cut_andesite create:cut_andesite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_andesite_brick_slab | minecraft:block | create:blocks/cut_andesite_brick_slab create:cut_andesite_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_andesite_brick_stairs | minecraft:block | create:blocks/cut_andesite_brick_stairs create:cut_andesite_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_andesite_brick_wall | minecraft:block | create:blocks/cut_andesite_brick_wall create:cut_andesite_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_andesite_bricks | minecraft:block | create:blocks/cut_andesite_bricks create:cut_andesite_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_andesite_slab | minecraft:block | create:blocks/cut_andesite_slab create:cut_andesite_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_andesite_stairs | minecraft:block | create:blocks/cut_andesite_stairs create:cut_andesite_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_andesite_wall | minecraft:block | create:blocks/cut_andesite_wall create:cut_andesite_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_asurine | minecraft:block | create:blocks/cut_asurine create:cut_asurine minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_asurine_brick_slab | minecraft:block | create:blocks/cut_asurine_brick_slab create:cut_asurine_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_asurine_brick_stairs | minecraft:block | create:blocks/cut_asurine_brick_stairs create:cut_asurine_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_asurine_brick_wall | minecraft:block | create:blocks/cut_asurine_brick_wall create:cut_asurine_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_asurine_bricks | minecraft:block | create:blocks/cut_asurine_bricks create:cut_asurine_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_asurine_slab | minecraft:block | create:blocks/cut_asurine_slab create:cut_asurine_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_asurine_stairs | minecraft:block | create:blocks/cut_asurine_stairs create:cut_asurine_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_asurine_wall | minecraft:block | create:blocks/cut_asurine_wall create:cut_asurine_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_calcite | minecraft:block | create:blocks/cut_calcite create:cut_calcite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_calcite_brick_slab | minecraft:block | create:blocks/cut_calcite_brick_slab create:cut_calcite_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_calcite_brick_stairs | minecraft:block | create:blocks/cut_calcite_brick_stairs create:cut_calcite_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_calcite_brick_wall | minecraft:block | create:blocks/cut_calcite_brick_wall create:cut_calcite_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_calcite_bricks | minecraft:block | create:blocks/cut_calcite_bricks create:cut_calcite_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_calcite_slab | minecraft:block | create:blocks/cut_calcite_slab create:cut_calcite_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_calcite_stairs | minecraft:block | create:blocks/cut_calcite_stairs create:cut_calcite_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_calcite_wall | minecraft:block | create:blocks/cut_calcite_wall create:cut_calcite_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_crimsite | minecraft:block | create:blocks/cut_crimsite create:cut_crimsite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_crimsite_brick_slab | minecraft:block | create:blocks/cut_crimsite_brick_slab create:cut_crimsite_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_crimsite_brick_stairs | minecraft:block | create:blocks/cut_crimsite_brick_stairs create:cut_crimsite_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_crimsite_brick_wall | minecraft:block | create:blocks/cut_crimsite_brick_wall create:cut_crimsite_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_crimsite_bricks | minecraft:block | create:blocks/cut_crimsite_bricks create:cut_crimsite_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_crimsite_slab | minecraft:block | create:blocks/cut_crimsite_slab create:cut_crimsite_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_crimsite_stairs | minecraft:block | create:blocks/cut_crimsite_stairs create:cut_crimsite_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_crimsite_wall | minecraft:block | create:blocks/cut_crimsite_wall create:cut_crimsite_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_deepslate | minecraft:block | create:blocks/cut_deepslate create:cut_deepslate minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_deepslate_brick_slab | minecraft:block | create:blocks/cut_deepslate_brick_slab create:cut_deepslate_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_deepslate_brick_stairs | minecraft:block | create:blocks/cut_deepslate_brick_stairs create:cut_deepslate_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_deepslate_brick_wall | minecraft:block | create:blocks/cut_deepslate_brick_wall create:cut_deepslate_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_deepslate_bricks | minecraft:block | create:blocks/cut_deepslate_bricks create:cut_deepslate_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_deepslate_slab | minecraft:block | create:blocks/cut_deepslate_slab create:cut_deepslate_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_deepslate_stairs | minecraft:block | create:blocks/cut_deepslate_stairs create:cut_deepslate_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_deepslate_wall | minecraft:block | create:blocks/cut_deepslate_wall create:cut_deepslate_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_diorite | minecraft:block | create:blocks/cut_diorite create:cut_diorite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_diorite_brick_slab | minecraft:block | create:blocks/cut_diorite_brick_slab create:cut_diorite_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_diorite_brick_stairs | minecraft:block | create:blocks/cut_diorite_brick_stairs create:cut_diorite_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_diorite_brick_wall | minecraft:block | create:blocks/cut_diorite_brick_wall create:cut_diorite_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_diorite_bricks | minecraft:block | create:blocks/cut_diorite_bricks create:cut_diorite_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_diorite_slab | minecraft:block | create:blocks/cut_diorite_slab create:cut_diorite_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_diorite_stairs | minecraft:block | create:blocks/cut_diorite_stairs create:cut_diorite_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_diorite_wall | minecraft:block | create:blocks/cut_diorite_wall create:cut_diorite_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_dripstone | minecraft:block | create:blocks/cut_dripstone create:cut_dripstone minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_dripstone_brick_slab | minecraft:block | create:blocks/cut_dripstone_brick_slab create:cut_dripstone_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_dripstone_brick_stairs | minecraft:block | create:blocks/cut_dripstone_brick_stairs create:cut_dripstone_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_dripstone_brick_wall | minecraft:block | create:blocks/cut_dripstone_brick_wall create:cut_dripstone_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_dripstone_bricks | minecraft:block | create:blocks/cut_dripstone_bricks create:cut_dripstone_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_dripstone_slab | minecraft:block | create:blocks/cut_dripstone_slab create:cut_dripstone_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_dripstone_stairs | minecraft:block | create:blocks/cut_dripstone_stairs create:cut_dripstone_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_dripstone_wall | minecraft:block | create:blocks/cut_dripstone_wall create:cut_dripstone_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_granite | minecraft:block | create:blocks/cut_granite create:cut_granite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_granite_brick_slab | minecraft:block | create:blocks/cut_granite_brick_slab create:cut_granite_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_granite_brick_stairs | minecraft:block | create:blocks/cut_granite_brick_stairs create:cut_granite_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_granite_brick_wall | minecraft:block | create:blocks/cut_granite_brick_wall create:cut_granite_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_granite_bricks | minecraft:block | create:blocks/cut_granite_bricks create:cut_granite_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_granite_slab | minecraft:block | create:blocks/cut_granite_slab create:cut_granite_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_granite_stairs | minecraft:block | create:blocks/cut_granite_stairs create:cut_granite_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_granite_wall | minecraft:block | create:blocks/cut_granite_wall create:cut_granite_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_limestone | minecraft:block | create:blocks/cut_limestone create:cut_limestone minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_limestone_brick_slab | minecraft:block | create:blocks/cut_limestone_brick_slab create:cut_limestone_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_limestone_brick_stairs | minecraft:block | create:blocks/cut_limestone_brick_stairs create:cut_limestone_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_limestone_brick_wall | minecraft:block | create:blocks/cut_limestone_brick_wall create:cut_limestone_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_limestone_bricks | minecraft:block | create:blocks/cut_limestone_bricks create:cut_limestone_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_limestone_slab | minecraft:block | create:blocks/cut_limestone_slab create:cut_limestone_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_limestone_stairs | minecraft:block | create:blocks/cut_limestone_stairs create:cut_limestone_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_limestone_wall | minecraft:block | create:blocks/cut_limestone_wall create:cut_limestone_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_ochrum | minecraft:block | create:blocks/cut_ochrum create:cut_ochrum minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_ochrum_brick_slab | minecraft:block | create:blocks/cut_ochrum_brick_slab create:cut_ochrum_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_ochrum_brick_stairs | minecraft:block | create:blocks/cut_ochrum_brick_stairs create:cut_ochrum_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_ochrum_brick_wall | minecraft:block | create:blocks/cut_ochrum_brick_wall create:cut_ochrum_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_ochrum_bricks | minecraft:block | create:blocks/cut_ochrum_bricks create:cut_ochrum_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_ochrum_slab | minecraft:block | create:blocks/cut_ochrum_slab create:cut_ochrum_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_ochrum_stairs | minecraft:block | create:blocks/cut_ochrum_stairs create:cut_ochrum_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_ochrum_wall | minecraft:block | create:blocks/cut_ochrum_wall create:cut_ochrum_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scorchia | minecraft:block | create:blocks/cut_scorchia create:cut_scorchia minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scorchia_brick_slab | minecraft:block | create:blocks/cut_scorchia_brick_slab create:cut_scorchia_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_scorchia_brick_stairs | minecraft:block | create:blocks/cut_scorchia_brick_stairs create:cut_scorchia_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scorchia_brick_wall | minecraft:block | create:blocks/cut_scorchia_brick_wall create:cut_scorchia_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scorchia_bricks | minecraft:block | create:blocks/cut_scorchia_bricks create:cut_scorchia_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scorchia_slab | minecraft:block | create:blocks/cut_scorchia_slab create:cut_scorchia_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_scorchia_stairs | minecraft:block | create:blocks/cut_scorchia_stairs create:cut_scorchia_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scorchia_wall | minecraft:block | create:blocks/cut_scorchia_wall create:cut_scorchia_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scoria | minecraft:block | create:blocks/cut_scoria create:cut_scoria minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scoria_brick_slab | minecraft:block | create:blocks/cut_scoria_brick_slab create:cut_scoria_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_scoria_brick_stairs | minecraft:block | create:blocks/cut_scoria_brick_stairs create:cut_scoria_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scoria_brick_wall | minecraft:block | create:blocks/cut_scoria_brick_wall create:cut_scoria_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scoria_bricks | minecraft:block | create:blocks/cut_scoria_bricks create:cut_scoria_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scoria_slab | minecraft:block | create:blocks/cut_scoria_slab create:cut_scoria_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_scoria_stairs | minecraft:block | create:blocks/cut_scoria_stairs create:cut_scoria_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_scoria_wall | minecraft:block | create:blocks/cut_scoria_wall create:cut_scoria_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_tuff | minecraft:block | create:blocks/cut_tuff create:cut_tuff minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_tuff_brick_slab | minecraft:block | create:blocks/cut_tuff_brick_slab create:cut_tuff_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_tuff_brick_stairs | minecraft:block | create:blocks/cut_tuff_brick_stairs create:cut_tuff_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_tuff_brick_wall | minecraft:block | create:blocks/cut_tuff_brick_wall create:cut_tuff_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_tuff_bricks | minecraft:block | create:blocks/cut_tuff_bricks create:cut_tuff_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_tuff_slab | minecraft:block | create:blocks/cut_tuff_slab create:cut_tuff_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_tuff_stairs | minecraft:block | create:blocks/cut_tuff_stairs create:cut_tuff_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_tuff_wall | minecraft:block | create:blocks/cut_tuff_wall create:cut_tuff_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_veridium | minecraft:block | create:blocks/cut_veridium create:cut_veridium minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_veridium_brick_slab | minecraft:block | create:blocks/cut_veridium_brick_slab create:cut_veridium_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_veridium_brick_stairs | minecraft:block | create:blocks/cut_veridium_brick_stairs create:cut_veridium_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_veridium_brick_wall | minecraft:block | create:blocks/cut_veridium_brick_wall create:cut_veridium_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_veridium_bricks | minecraft:block | create:blocks/cut_veridium_bricks create:cut_veridium_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_veridium_slab | minecraft:block | create:blocks/cut_veridium_slab create:cut_veridium_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/cut_veridium_stairs | minecraft:block | create:blocks/cut_veridium_stairs create:cut_veridium_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cut_veridium_wall | minecraft:block | create:blocks/cut_veridium_wall create:cut_veridium_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cyan_nixie_tube | minecraft:block | create:blocks/cyan_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cyan_postbox | minecraft:block | create:blocks/cyan_postbox create:cyan_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cyan_sail | minecraft:block | create:blocks/cyan_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cyan_seat | minecraft:block | create:blocks/cyan_seat create:cyan_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cyan_table_cloth | minecraft:block | create:blocks/cyan_table_cloth create:cyan_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/cyan_toolbox | minecraft:block | create:blocks/cyan_toolbox create:cyan_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/cyan_valve_handle | minecraft:block | create:blocks/cyan_valve_handle create:cyan_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/dark_oak_window | minecraft:block | create:blocks/dark_oak_window create:dark_oak_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/dark_oak_window_pane | minecraft:block | create:blocks/dark_oak_window_pane create:dark_oak_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/deepslate_pillar | minecraft:block | create:blocks/deepslate_pillar create:deepslate_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/deepslate_zinc_ore | minecraft:block | create:blocks/deepslate_zinc_ore create:deepslate_zinc_ore create:raw_zinc minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:silk_touch
+create:blocks/deployer | minecraft:block | create:blocks/deployer create:deployer minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/depot | minecraft:block | create:blocks/depot create:depot minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/desk_bell | minecraft:block | create:blocks/desk_bell create:desk_bell minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/diorite_pillar | minecraft:block | create:blocks/diorite_pillar create:diorite_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/display_board | minecraft:block | create:blocks/display_board create:display_board minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/display_link | minecraft:block | create:blocks/display_link create:display_link minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/dripstone_pillar | minecraft:block | create:blocks/dripstone_pillar create:dripstone_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/elevator_contact | minecraft:block | create:blocks/elevator_contact create:redstone_contact minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/elevator_pulley | minecraft:block | create:blocks/elevator_pulley create:elevator_pulley minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/encased_chain_drive | minecraft:block | create:blocks/encased_chain_drive create:encased_chain_drive minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/encased_fan | minecraft:block | create:blocks/encased_fan create:encased_fan minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/encased_fluid_pipe | minecraft:block | create:blocks/encased_fluid_pipe create:fluid_pipe minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/experience_block | minecraft:block | create:blocks/experience_block create:experience_block minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/exposed_copper_shingle_slab | minecraft:block | create:blocks/exposed_copper_shingle_slab create:exposed_copper_shingle_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/exposed_copper_shingle_stairs | minecraft:block | create:blocks/exposed_copper_shingle_stairs create:exposed_copper_shingle_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/exposed_copper_shingles | minecraft:block | create:blocks/exposed_copper_shingles create:exposed_copper_shingles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/exposed_copper_tile_slab | minecraft:block | create:blocks/exposed_copper_tile_slab create:exposed_copper_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/exposed_copper_tile_stairs | minecraft:block | create:blocks/exposed_copper_tile_stairs create:exposed_copper_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/exposed_copper_tiles | minecraft:block | create:blocks/exposed_copper_tiles create:exposed_copper_tiles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/factory_gauge | minecraft:block | create:blocks/factory_gauge create:factory_gauge minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/fake_track | minecraft:block | create:blocks/fake_track minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/fluid_pipe | minecraft:block | create:blocks/fluid_pipe create:fluid_pipe minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/fluid_tank | minecraft:block | create:blocks/fluid_tank create:fluid_tank minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/fluid_valve | minecraft:block | create:blocks/fluid_valve create:fluid_valve minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/flywheel | minecraft:block | create:blocks/flywheel create:flywheel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/framed_glass | minecraft:block | create:blocks/framed_glass create:framed_glass minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/framed_glass_door | minecraft:block | create:blocks/framed_glass_door create:framed_glass_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+create:blocks/framed_glass_pane | minecraft:block | create:blocks/framed_glass_pane create:framed_glass_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/framed_glass_trapdoor | minecraft:block | create:blocks/framed_glass_trapdoor create:framed_glass_trapdoor minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/gantry_carriage | minecraft:block | create:blocks/gantry_carriage create:gantry_carriage minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/gantry_shaft | minecraft:block | create:blocks/gantry_shaft create:gantry_shaft minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/gearbox | minecraft:block | create:blocks/gearbox create:gearbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/gearshift | minecraft:block | create:blocks/gearshift create:gearshift minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/glass_fluid_pipe | minecraft:block | create:blocks/glass_fluid_pipe create:fluid_pipe minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/granite_pillar | minecraft:block | create:blocks/granite_pillar create:granite_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/gray_nixie_tube | minecraft:block | create:blocks/gray_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/gray_postbox | minecraft:block | create:blocks/gray_postbox create:gray_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/gray_sail | minecraft:block | create:blocks/gray_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/gray_seat | minecraft:block | create:blocks/gray_seat create:gray_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/gray_table_cloth | minecraft:block | create:blocks/gray_table_cloth create:gray_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/gray_toolbox | minecraft:block | create:blocks/gray_toolbox create:gray_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/gray_valve_handle | minecraft:block | create:blocks/gray_valve_handle create:gray_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/green_nixie_tube | minecraft:block | create:blocks/green_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/green_postbox | minecraft:block | create:blocks/green_postbox create:green_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/green_sail | minecraft:block | create:blocks/green_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/green_seat | minecraft:block | create:blocks/green_seat create:green_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/green_table_cloth | minecraft:block | create:blocks/green_table_cloth create:green_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/green_toolbox | minecraft:block | create:blocks/green_toolbox create:green_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/green_valve_handle | minecraft:block | create:blocks/green_valve_handle create:green_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/hand_crank | minecraft:block | create:blocks/hand_crank create:hand_crank minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/haunted_bell | minecraft:block | create:blocks/haunted_bell create:haunted_bell minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/horizontal_framed_glass | minecraft:block | create:blocks/horizontal_framed_glass create:horizontal_framed_glass minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/horizontal_framed_glass_pane | minecraft:block | create:blocks/horizontal_framed_glass_pane create:horizontal_framed_glass_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/hose_pulley | minecraft:block | create:blocks/hose_pulley create:hose_pulley minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/industrial_iron_block | minecraft:block | create:blocks/industrial_iron_block create:industrial_iron_block minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/industrial_iron_window | minecraft:block | create:blocks/industrial_iron_window create:industrial_iron_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/industrial_iron_window_pane | minecraft:block | create:blocks/industrial_iron_window_pane create:industrial_iron_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/item_drain | minecraft:block | create:blocks/item_drain create:item_drain minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/item_hatch | minecraft:block | create:blocks/item_hatch create:item_hatch minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/item_vault | minecraft:block | create:blocks/item_vault create:item_vault minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/jungle_window | minecraft:block | create:blocks/jungle_window create:jungle_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/jungle_window_pane | minecraft:block | create:blocks/jungle_window_pane create:jungle_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/large_bogey | minecraft:block | create:blocks/large_bogey create:railway_casing minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/large_cogwheel | minecraft:block | create:blocks/large_cogwheel create:large_cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/large_water_wheel | minecraft:block | create:blocks/large_water_wheel create:large_water_wheel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_andesite | minecraft:block | create:blocks/layered_andesite create:layered_andesite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_asurine | minecraft:block | create:blocks/layered_asurine create:layered_asurine minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_calcite | minecraft:block | create:blocks/layered_calcite create:layered_calcite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_crimsite | minecraft:block | create:blocks/layered_crimsite create:layered_crimsite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_deepslate | minecraft:block | create:blocks/layered_deepslate create:layered_deepslate minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_diorite | minecraft:block | create:blocks/layered_diorite create:layered_diorite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_dripstone | minecraft:block | create:blocks/layered_dripstone create:layered_dripstone minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_granite | minecraft:block | create:blocks/layered_granite create:layered_granite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_limestone | minecraft:block | create:blocks/layered_limestone create:layered_limestone minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_ochrum | minecraft:block | create:blocks/layered_ochrum create:layered_ochrum minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_scorchia | minecraft:block | create:blocks/layered_scorchia create:layered_scorchia minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_scoria | minecraft:block | create:blocks/layered_scoria create:layered_scoria minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_tuff | minecraft:block | create:blocks/layered_tuff create:layered_tuff minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/layered_veridium | minecraft:block | create:blocks/layered_veridium create:layered_veridium minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/lectern_controller | minecraft:block | create:blocks/lectern_controller minecraft:block minecraft:item minecraft:lectern minecraft:survives_explosion
+create:blocks/light_blue_nixie_tube | minecraft:block | create:blocks/light_blue_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/light_blue_postbox | minecraft:block | create:blocks/light_blue_postbox create:light_blue_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/light_blue_sail | minecraft:block | create:blocks/light_blue_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/light_blue_seat | minecraft:block | create:blocks/light_blue_seat create:light_blue_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/light_blue_table_cloth | minecraft:block | create:blocks/light_blue_table_cloth create:light_blue_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/light_blue_toolbox | minecraft:block | create:blocks/light_blue_toolbox create:light_blue_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/light_blue_valve_handle | minecraft:block | create:blocks/light_blue_valve_handle create:light_blue_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/light_gray_nixie_tube | minecraft:block | create:blocks/light_gray_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/light_gray_postbox | minecraft:block | create:blocks/light_gray_postbox create:light_gray_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/light_gray_sail | minecraft:block | create:blocks/light_gray_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/light_gray_seat | minecraft:block | create:blocks/light_gray_seat create:light_gray_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/light_gray_table_cloth | minecraft:block | create:blocks/light_gray_table_cloth create:light_gray_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/light_gray_toolbox | minecraft:block | create:blocks/light_gray_toolbox create:light_gray_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/light_gray_valve_handle | minecraft:block | create:blocks/light_gray_valve_handle create:light_gray_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/lime_nixie_tube | minecraft:block | create:blocks/lime_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/lime_postbox | minecraft:block | create:blocks/lime_postbox create:lime_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/lime_sail | minecraft:block | create:blocks/lime_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/lime_seat | minecraft:block | create:blocks/lime_seat create:lime_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/lime_table_cloth | minecraft:block | create:blocks/lime_table_cloth create:lime_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/lime_toolbox | minecraft:block | create:blocks/lime_toolbox create:lime_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/lime_valve_handle | minecraft:block | create:blocks/lime_valve_handle create:lime_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/limestone | minecraft:block | create:blocks/limestone create:limestone minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/limestone_pillar | minecraft:block | create:blocks/limestone_pillar create:limestone_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/linear_chassis | minecraft:block | create:blocks/linear_chassis create:linear_chassis minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/lit_blaze_burner | minecraft:block | create:blocks/lit_blaze_burner create:empty_blaze_burner minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/magenta_nixie_tube | minecraft:block | create:blocks/magenta_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/magenta_postbox | minecraft:block | create:blocks/magenta_postbox create:magenta_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/magenta_sail | minecraft:block | create:blocks/magenta_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/magenta_seat | minecraft:block | create:blocks/magenta_seat create:magenta_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/magenta_table_cloth | minecraft:block | create:blocks/magenta_table_cloth create:magenta_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/magenta_toolbox | minecraft:block | create:blocks/magenta_toolbox create:magenta_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/magenta_valve_handle | minecraft:block | create:blocks/magenta_valve_handle create:magenta_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mangrove_window | minecraft:block | create:blocks/mangrove_window create:mangrove_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/mangrove_window_pane | minecraft:block | create:blocks/mangrove_window_pane create:mangrove_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/mechanical_arm | minecraft:block | create:blocks/mechanical_arm create:mechanical_arm minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_bearing | minecraft:block | create:blocks/mechanical_bearing create:mechanical_bearing minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_crafter | minecraft:block | create:blocks/mechanical_crafter create:mechanical_crafter minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_drill | minecraft:block | create:blocks/mechanical_drill create:mechanical_drill minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_harvester | minecraft:block | create:blocks/mechanical_harvester create:mechanical_harvester minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_mixer | minecraft:block | create:blocks/mechanical_mixer create:mechanical_mixer minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_piston | minecraft:block | create:blocks/mechanical_piston create:mechanical_piston minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_piston_head | minecraft:block | create:blocks/mechanical_piston_head create:piston_extension_pole minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_plough | minecraft:block | create:blocks/mechanical_plough create:mechanical_plough minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_press | minecraft:block | create:blocks/mechanical_press create:mechanical_press minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_pump | minecraft:block | create:blocks/mechanical_pump create:mechanical_pump minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_roller | minecraft:block | create:blocks/mechanical_roller create:mechanical_roller minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mechanical_saw | minecraft:block | create:blocks/mechanical_saw create:mechanical_saw minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/metal_bracket | minecraft:block | create:blocks/metal_bracket create:metal_bracket minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/metal_girder | minecraft:block | create:blocks/metal_girder create:metal_girder minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/metal_girder_encased_shaft | minecraft:block | create:blocks/metal_girder_encased_shaft create:metal_girder create:shaft minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/millstone | minecraft:block | create:blocks/millstone create:millstone minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/minecart_anchor | minecraft:block | create:blocks/minecart_anchor minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/mysterious_cuckoo_clock | minecraft:block | create:blocks/mysterious_cuckoo_clock create:mysterious_cuckoo_clock minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/netherite_backtank | minecraft:block | create:banktank_air create:blocks/netherite_backtank create:netherite_backtank minecraft:block minecraft:copy_components minecraft:item minecraft:survives_explosion
+create:blocks/nixie_tube | minecraft:block | create:blocks/nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/nozzle | minecraft:block | create:blocks/nozzle create:nozzle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/oak_window | minecraft:block | create:blocks/oak_window create:oak_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/oak_window_pane | minecraft:block | create:blocks/oak_window_pane create:oak_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/ochrum | minecraft:block | create:blocks/ochrum create:ochrum minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/ochrum_pillar | minecraft:block | create:blocks/ochrum_pillar create:ochrum_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/orange_postbox | minecraft:block | create:blocks/orange_postbox create:orange_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/orange_sail | minecraft:block | create:blocks/orange_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/orange_seat | minecraft:block | create:blocks/orange_seat create:orange_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/orange_table_cloth | minecraft:block | create:blocks/orange_table_cloth create:orange_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/orange_toolbox | minecraft:block | create:blocks/orange_toolbox create:orange_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/orange_valve_handle | minecraft:block | create:blocks/orange_valve_handle create:orange_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/ornate_iron_window | minecraft:block | create:blocks/ornate_iron_window create:ornate_iron_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/ornate_iron_window_pane | minecraft:block | create:blocks/ornate_iron_window_pane create:ornate_iron_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/oxidized_copper_shingle_slab | minecraft:block | create:blocks/oxidized_copper_shingle_slab create:oxidized_copper_shingle_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/oxidized_copper_shingle_stairs | minecraft:block | create:blocks/oxidized_copper_shingle_stairs create:oxidized_copper_shingle_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/oxidized_copper_shingles | minecraft:block | create:blocks/oxidized_copper_shingles create:oxidized_copper_shingles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/oxidized_copper_tile_slab | minecraft:block | create:blocks/oxidized_copper_tile_slab create:oxidized_copper_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/oxidized_copper_tile_stairs | minecraft:block | create:blocks/oxidized_copper_tile_stairs create:oxidized_copper_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/oxidized_copper_tiles | minecraft:block | create:blocks/oxidized_copper_tiles create:oxidized_copper_tiles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/package_frogport | minecraft:block | create:blocks/package_frogport create:package_frogport minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/packager | minecraft:block | create:blocks/packager create:packager minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/peculiar_bell | minecraft:block | create:blocks/peculiar_bell create:peculiar_bell minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/pink_nixie_tube | minecraft:block | create:blocks/pink_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/pink_postbox | minecraft:block | create:blocks/pink_postbox create:pink_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/pink_sail | minecraft:block | create:blocks/pink_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/pink_seat | minecraft:block | create:blocks/pink_seat create:pink_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/pink_table_cloth | minecraft:block | create:blocks/pink_table_cloth create:pink_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/pink_toolbox | minecraft:block | create:blocks/pink_toolbox create:pink_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/pink_valve_handle | minecraft:block | create:blocks/pink_valve_handle create:pink_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/piston_extension_pole | minecraft:block | create:blocks/piston_extension_pole create:piston_extension_pole minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/placard | minecraft:block | create:blocks/placard create:placard minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_andesite | minecraft:block | create:blocks/polished_cut_andesite create:polished_cut_andesite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_andesite_slab | minecraft:block | create:blocks/polished_cut_andesite_slab create:polished_cut_andesite_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_andesite_stairs | minecraft:block | create:blocks/polished_cut_andesite_stairs create:polished_cut_andesite_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_andesite_wall | minecraft:block | create:blocks/polished_cut_andesite_wall create:polished_cut_andesite_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_asurine | minecraft:block | create:blocks/polished_cut_asurine create:polished_cut_asurine minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_asurine_slab | minecraft:block | create:blocks/polished_cut_asurine_slab create:polished_cut_asurine_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_asurine_stairs | minecraft:block | create:blocks/polished_cut_asurine_stairs create:polished_cut_asurine_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_asurine_wall | minecraft:block | create:blocks/polished_cut_asurine_wall create:polished_cut_asurine_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_calcite | minecraft:block | create:blocks/polished_cut_calcite create:polished_cut_calcite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_calcite_slab | minecraft:block | create:blocks/polished_cut_calcite_slab create:polished_cut_calcite_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_calcite_stairs | minecraft:block | create:blocks/polished_cut_calcite_stairs create:polished_cut_calcite_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_calcite_wall | minecraft:block | create:blocks/polished_cut_calcite_wall create:polished_cut_calcite_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_crimsite | minecraft:block | create:blocks/polished_cut_crimsite create:polished_cut_crimsite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_crimsite_slab | minecraft:block | create:blocks/polished_cut_crimsite_slab create:polished_cut_crimsite_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_crimsite_stairs | minecraft:block | create:blocks/polished_cut_crimsite_stairs create:polished_cut_crimsite_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_crimsite_wall | minecraft:block | create:blocks/polished_cut_crimsite_wall create:polished_cut_crimsite_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_deepslate | minecraft:block | create:blocks/polished_cut_deepslate create:polished_cut_deepslate minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_deepslate_slab | minecraft:block | create:blocks/polished_cut_deepslate_slab create:polished_cut_deepslate_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_deepslate_stairs | minecraft:block | create:blocks/polished_cut_deepslate_stairs create:polished_cut_deepslate_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_deepslate_wall | minecraft:block | create:blocks/polished_cut_deepslate_wall create:polished_cut_deepslate_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_diorite | minecraft:block | create:blocks/polished_cut_diorite create:polished_cut_diorite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_diorite_slab | minecraft:block | create:blocks/polished_cut_diorite_slab create:polished_cut_diorite_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_diorite_stairs | minecraft:block | create:blocks/polished_cut_diorite_stairs create:polished_cut_diorite_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_diorite_wall | minecraft:block | create:blocks/polished_cut_diorite_wall create:polished_cut_diorite_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_dripstone | minecraft:block | create:blocks/polished_cut_dripstone create:polished_cut_dripstone minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_dripstone_slab | minecraft:block | create:blocks/polished_cut_dripstone_slab create:polished_cut_dripstone_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_dripstone_stairs | minecraft:block | create:blocks/polished_cut_dripstone_stairs create:polished_cut_dripstone_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_dripstone_wall | minecraft:block | create:blocks/polished_cut_dripstone_wall create:polished_cut_dripstone_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_granite | minecraft:block | create:blocks/polished_cut_granite create:polished_cut_granite minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_granite_slab | minecraft:block | create:blocks/polished_cut_granite_slab create:polished_cut_granite_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_granite_stairs | minecraft:block | create:blocks/polished_cut_granite_stairs create:polished_cut_granite_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_granite_wall | minecraft:block | create:blocks/polished_cut_granite_wall create:polished_cut_granite_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_limestone | minecraft:block | create:blocks/polished_cut_limestone create:polished_cut_limestone minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_limestone_slab | minecraft:block | create:blocks/polished_cut_limestone_slab create:polished_cut_limestone_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_limestone_stairs | minecraft:block | create:blocks/polished_cut_limestone_stairs create:polished_cut_limestone_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_limestone_wall | minecraft:block | create:blocks/polished_cut_limestone_wall create:polished_cut_limestone_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_ochrum | minecraft:block | create:blocks/polished_cut_ochrum create:polished_cut_ochrum minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_ochrum_slab | minecraft:block | create:blocks/polished_cut_ochrum_slab create:polished_cut_ochrum_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_ochrum_stairs | minecraft:block | create:blocks/polished_cut_ochrum_stairs create:polished_cut_ochrum_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_ochrum_wall | minecraft:block | create:blocks/polished_cut_ochrum_wall create:polished_cut_ochrum_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_scorchia | minecraft:block | create:blocks/polished_cut_scorchia create:polished_cut_scorchia minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_scorchia_slab | minecraft:block | create:blocks/polished_cut_scorchia_slab create:polished_cut_scorchia_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_scorchia_stairs | minecraft:block | create:blocks/polished_cut_scorchia_stairs create:polished_cut_scorchia_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_scorchia_wall | minecraft:block | create:blocks/polished_cut_scorchia_wall create:polished_cut_scorchia_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_scoria | minecraft:block | create:blocks/polished_cut_scoria create:polished_cut_scoria minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_scoria_slab | minecraft:block | create:blocks/polished_cut_scoria_slab create:polished_cut_scoria_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_scoria_stairs | minecraft:block | create:blocks/polished_cut_scoria_stairs create:polished_cut_scoria_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_scoria_wall | minecraft:block | create:blocks/polished_cut_scoria_wall create:polished_cut_scoria_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_tuff | minecraft:block | create:blocks/polished_cut_tuff create:polished_cut_tuff minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_tuff_slab | minecraft:block | create:blocks/polished_cut_tuff_slab create:polished_cut_tuff_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_tuff_stairs | minecraft:block | create:blocks/polished_cut_tuff_stairs create:polished_cut_tuff_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_tuff_wall | minecraft:block | create:blocks/polished_cut_tuff_wall create:polished_cut_tuff_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_veridium | minecraft:block | create:blocks/polished_cut_veridium create:polished_cut_veridium minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_veridium_slab | minecraft:block | create:blocks/polished_cut_veridium_slab create:polished_cut_veridium_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/polished_cut_veridium_stairs | minecraft:block | create:blocks/polished_cut_veridium_stairs create:polished_cut_veridium_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/polished_cut_veridium_wall | minecraft:block | create:blocks/polished_cut_veridium_wall create:polished_cut_veridium_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/portable_fluid_interface | minecraft:block | create:blocks/portable_fluid_interface create:portable_fluid_interface minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/portable_storage_interface | minecraft:block | create:blocks/portable_storage_interface create:portable_storage_interface minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/powered_latch | minecraft:block | create:blocks/powered_latch create:powered_latch minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/powered_shaft | minecraft:block | create:blocks/powered_shaft create:shaft minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/powered_toggle_latch | minecraft:block | create:blocks/powered_toggle_latch create:powered_toggle_latch minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/pulley_magnet | minecraft:block | create:blocks/pulley_magnet minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/pulse_extender | minecraft:block | create:blocks/pulse_extender create:pulse_extender minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/pulse_repeater | minecraft:block | create:blocks/pulse_repeater create:pulse_repeater minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/pulse_timer | minecraft:block | create:blocks/pulse_timer create:pulse_timer minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/purple_nixie_tube | minecraft:block | create:blocks/purple_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/purple_postbox | minecraft:block | create:blocks/purple_postbox create:purple_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/purple_sail | minecraft:block | create:blocks/purple_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/purple_seat | minecraft:block | create:blocks/purple_seat create:purple_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/purple_table_cloth | minecraft:block | create:blocks/purple_table_cloth create:purple_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/purple_toolbox | minecraft:block | create:blocks/purple_toolbox create:purple_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/purple_valve_handle | minecraft:block | create:blocks/purple_valve_handle create:purple_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/radial_chassis | minecraft:block | create:blocks/radial_chassis create:radial_chassis minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/railway_casing | minecraft:block | create:blocks/railway_casing create:railway_casing minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/raw_zinc_block | minecraft:block | create:blocks/raw_zinc_block create:raw_zinc_block minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/red_nixie_tube | minecraft:block | create:blocks/red_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/red_postbox | minecraft:block | create:blocks/red_postbox create:red_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/red_sail | minecraft:block | create:blocks/red_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/red_seat | minecraft:block | create:blocks/red_seat create:red_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/red_table_cloth | minecraft:block | create:blocks/red_table_cloth create:red_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/red_toolbox | minecraft:block | create:blocks/red_toolbox create:red_toolbox create:toolbox_inventory create:toolbox_uuid minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/red_valve_handle | minecraft:block | create:blocks/red_valve_handle create:red_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/redstone_contact | minecraft:block | create:blocks/redstone_contact create:redstone_contact minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/redstone_link | minecraft:block | create:blocks/redstone_link create:redstone_link minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/redstone_requester | minecraft:block | create:blocks/redstone_requester create:redstone_requester minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/refined_radiance_casing | minecraft:block | create:blocks/refined_radiance_casing create:refined_radiance_casing minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/repackager | minecraft:block | create:blocks/repackager create:repackager minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/rope | minecraft:block | create:blocks/rope minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/rope_pulley | minecraft:block | create:blocks/rope_pulley create:rope_pulley minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/rose_quartz_block | minecraft:block | create:blocks/rose_quartz_block create:rose_quartz_block minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/rose_quartz_lamp | minecraft:block | create:blocks/rose_quartz_lamp create:rose_quartz_lamp minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/rose_quartz_tiles | minecraft:block | create:blocks/rose_quartz_tiles create:rose_quartz_tiles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/rotation_speed_controller | minecraft:block | create:blocks/rotation_speed_controller create:rotation_speed_controller minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/sail_frame | minecraft:block | create:blocks/sail_frame create:sail_frame minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/schematic_table | minecraft:block | create:blocks/schematic_table create:schematic_table minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/schematicannon | minecraft:block | create:blocks/schematicannon create:schematicannon create:schematicannon_options minecraft:block minecraft:copy_components minecraft:item minecraft:survives_explosion
+create:blocks/scorchia | minecraft:block | create:blocks/scorchia create:scorchia minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/scorchia_pillar | minecraft:block | create:blocks/scorchia_pillar create:scorchia_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/scoria | minecraft:block | create:blocks/scoria create:scoria minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/scoria_pillar | minecraft:block | create:blocks/scoria_pillar create:scoria_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/secondary_linear_chassis | minecraft:block | create:blocks/secondary_linear_chassis create:secondary_linear_chassis minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/sequenced_gearshift | minecraft:block | create:blocks/sequenced_gearshift create:sequenced_gearshift minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/shadow_steel_casing | minecraft:block | create:blocks/shadow_steel_casing create:shadow_steel_casing minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/shaft | minecraft:block | create:blocks/shaft create:shaft minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_andesite_brick_slab | minecraft:block | create:blocks/small_andesite_brick_slab create:small_andesite_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_andesite_brick_stairs | minecraft:block | create:blocks/small_andesite_brick_stairs create:small_andesite_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_andesite_brick_wall | minecraft:block | create:blocks/small_andesite_brick_wall create:small_andesite_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_andesite_bricks | minecraft:block | create:blocks/small_andesite_bricks create:small_andesite_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_asurine_brick_slab | minecraft:block | create:blocks/small_asurine_brick_slab create:small_asurine_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_asurine_brick_stairs | minecraft:block | create:blocks/small_asurine_brick_stairs create:small_asurine_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_asurine_brick_wall | minecraft:block | create:blocks/small_asurine_brick_wall create:small_asurine_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_asurine_bricks | minecraft:block | create:blocks/small_asurine_bricks create:small_asurine_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_bogey | minecraft:block | create:blocks/small_bogey create:railway_casing minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_calcite_brick_slab | minecraft:block | create:blocks/small_calcite_brick_slab create:small_calcite_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_calcite_brick_stairs | minecraft:block | create:blocks/small_calcite_brick_stairs create:small_calcite_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_calcite_brick_wall | minecraft:block | create:blocks/small_calcite_brick_wall create:small_calcite_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_calcite_bricks | minecraft:block | create:blocks/small_calcite_bricks create:small_calcite_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_crimsite_brick_slab | minecraft:block | create:blocks/small_crimsite_brick_slab create:small_crimsite_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_crimsite_brick_stairs | minecraft:block | create:blocks/small_crimsite_brick_stairs create:small_crimsite_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_crimsite_brick_wall | minecraft:block | create:blocks/small_crimsite_brick_wall create:small_crimsite_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_crimsite_bricks | minecraft:block | create:blocks/small_crimsite_bricks create:small_crimsite_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_deepslate_brick_slab | minecraft:block | create:blocks/small_deepslate_brick_slab create:small_deepslate_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_deepslate_brick_stairs | minecraft:block | create:blocks/small_deepslate_brick_stairs create:small_deepslate_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_deepslate_brick_wall | minecraft:block | create:blocks/small_deepslate_brick_wall create:small_deepslate_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_deepslate_bricks | minecraft:block | create:blocks/small_deepslate_bricks create:small_deepslate_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_diorite_brick_slab | minecraft:block | create:blocks/small_diorite_brick_slab create:small_diorite_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_diorite_brick_stairs | minecraft:block | create:blocks/small_diorite_brick_stairs create:small_diorite_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_diorite_brick_wall | minecraft:block | create:blocks/small_diorite_brick_wall create:small_diorite_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_diorite_bricks | minecraft:block | create:blocks/small_diorite_bricks create:small_diorite_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_dripstone_brick_slab | minecraft:block | create:blocks/small_dripstone_brick_slab create:small_dripstone_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_dripstone_brick_stairs | minecraft:block | create:blocks/small_dripstone_brick_stairs create:small_dripstone_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_dripstone_brick_wall | minecraft:block | create:blocks/small_dripstone_brick_wall create:small_dripstone_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_dripstone_bricks | minecraft:block | create:blocks/small_dripstone_bricks create:small_dripstone_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_granite_brick_slab | minecraft:block | create:blocks/small_granite_brick_slab create:small_granite_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_granite_brick_stairs | minecraft:block | create:blocks/small_granite_brick_stairs create:small_granite_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_granite_brick_wall | minecraft:block | create:blocks/small_granite_brick_wall create:small_granite_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_granite_bricks | minecraft:block | create:blocks/small_granite_bricks create:small_granite_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_limestone_brick_slab | minecraft:block | create:blocks/small_limestone_brick_slab create:small_limestone_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_limestone_brick_stairs | minecraft:block | create:blocks/small_limestone_brick_stairs create:small_limestone_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_limestone_brick_wall | minecraft:block | create:blocks/small_limestone_brick_wall create:small_limestone_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_limestone_bricks | minecraft:block | create:blocks/small_limestone_bricks create:small_limestone_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_ochrum_brick_slab | minecraft:block | create:blocks/small_ochrum_brick_slab create:small_ochrum_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_ochrum_brick_stairs | minecraft:block | create:blocks/small_ochrum_brick_stairs create:small_ochrum_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_ochrum_brick_wall | minecraft:block | create:blocks/small_ochrum_brick_wall create:small_ochrum_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_ochrum_bricks | minecraft:block | create:blocks/small_ochrum_bricks create:small_ochrum_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_rose_quartz_tiles | minecraft:block | create:blocks/small_rose_quartz_tiles create:small_rose_quartz_tiles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_scorchia_brick_slab | minecraft:block | create:blocks/small_scorchia_brick_slab create:small_scorchia_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_scorchia_brick_stairs | minecraft:block | create:blocks/small_scorchia_brick_stairs create:small_scorchia_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_scorchia_brick_wall | minecraft:block | create:blocks/small_scorchia_brick_wall create:small_scorchia_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_scorchia_bricks | minecraft:block | create:blocks/small_scorchia_bricks create:small_scorchia_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_scoria_brick_slab | minecraft:block | create:blocks/small_scoria_brick_slab create:small_scoria_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_scoria_brick_stairs | minecraft:block | create:blocks/small_scoria_brick_stairs create:small_scoria_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_scoria_brick_wall | minecraft:block | create:blocks/small_scoria_brick_wall create:small_scoria_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_scoria_bricks | minecraft:block | create:blocks/small_scoria_bricks create:small_scoria_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_tuff_brick_slab | minecraft:block | create:blocks/small_tuff_brick_slab create:small_tuff_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_tuff_brick_stairs | minecraft:block | create:blocks/small_tuff_brick_stairs create:small_tuff_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_tuff_brick_wall | minecraft:block | create:blocks/small_tuff_brick_wall create:small_tuff_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_tuff_bricks | minecraft:block | create:blocks/small_tuff_bricks create:small_tuff_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_veridium_brick_slab | minecraft:block | create:blocks/small_veridium_brick_slab create:small_veridium_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/small_veridium_brick_stairs | minecraft:block | create:blocks/small_veridium_brick_stairs create:small_veridium_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_veridium_brick_wall | minecraft:block | create:blocks/small_veridium_brick_wall create:small_veridium_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/small_veridium_bricks | minecraft:block | create:blocks/small_veridium_bricks create:small_veridium_bricks minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/smart_chute | minecraft:block | create:blocks/smart_chute create:smart_chute minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/smart_fluid_pipe | minecraft:block | create:blocks/smart_fluid_pipe create:smart_fluid_pipe minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/speedometer | minecraft:block | create:blocks/speedometer create:speedometer minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/spout | minecraft:block | create:blocks/spout create:spout minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/spruce_window | minecraft:block | create:blocks/spruce_window create:spruce_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/spruce_window_pane | minecraft:block | create:blocks/spruce_window_pane create:spruce_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/steam_engine | minecraft:block | create:blocks/steam_engine create:steam_engine minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/steam_whistle | minecraft:block | create:blocks/steam_whistle create:steam_whistle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/steam_whistle_extension | minecraft:block | create:blocks/steam_whistle_extension minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/sticker | minecraft:block | create:blocks/sticker create:sticker minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/sticky_mechanical_piston | minecraft:block | create:blocks/sticky_mechanical_piston create:sticky_mechanical_piston minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/stock_link | minecraft:block | create:blocks/stock_link create:stock_link minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/stock_ticker | minecraft:block | create:blocks/stock_ticker create:stock_ticker minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/stockpile_switch | minecraft:block | create:blocks/stockpile_switch create:stockpile_switch minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/stressometer | minecraft:block | create:blocks/stressometer create:stressometer minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/tiled_glass | minecraft:block | create:blocks/tiled_glass create:tiled_glass minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/tiled_glass_pane | minecraft:block | create:blocks/tiled_glass_pane create:tiled_glass_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/track | minecraft:block | create:blocks/track create:track minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/track_observer | minecraft:block | create:blocks/track_observer create:track_observer minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/track_signal | minecraft:block | create:blocks/track_signal create:track_signal minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/track_station | minecraft:block | create:blocks/track_station create:track_station minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/train_door | minecraft:block | create:blocks/train_door create:train_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+create:blocks/train_trapdoor | minecraft:block | create:blocks/train_trapdoor create:train_trapdoor minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/tuff_pillar | minecraft:block | create:blocks/tuff_pillar create:tuff_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/turntable | minecraft:block | create:blocks/turntable create:turntable minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/veridium | minecraft:block | create:blocks/veridium create:veridium minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/veridium_pillar | minecraft:block | create:blocks/veridium_pillar create:veridium_pillar minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/vertical_framed_glass | minecraft:block | create:blocks/vertical_framed_glass create:vertical_framed_glass minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/vertical_framed_glass_pane | minecraft:block | create:blocks/vertical_framed_glass_pane create:vertical_framed_glass_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/warped_window | minecraft:block | create:blocks/warped_window create:warped_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/warped_window_pane | minecraft:block | create:blocks/warped_window_pane create:warped_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/water_wheel | minecraft:block | create:blocks/water_wheel create:water_wheel minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/water_wheel_structure | minecraft:block | create:blocks/water_wheel_structure minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_copper_shingle_slab | minecraft:block | create:blocks/waxed_copper_shingle_slab create:waxed_copper_shingle_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/waxed_copper_shingle_stairs | minecraft:block | create:blocks/waxed_copper_shingle_stairs create:waxed_copper_shingle_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_copper_shingles | minecraft:block | create:blocks/waxed_copper_shingles create:waxed_copper_shingles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_copper_tile_slab | minecraft:block | create:blocks/waxed_copper_tile_slab create:waxed_copper_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/waxed_copper_tile_stairs | minecraft:block | create:blocks/waxed_copper_tile_stairs create:waxed_copper_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_copper_tiles | minecraft:block | create:blocks/waxed_copper_tiles create:waxed_copper_tiles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_exposed_copper_shingle_slab | minecraft:block | create:blocks/waxed_exposed_copper_shingle_slab create:waxed_exposed_copper_shingle_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/waxed_exposed_copper_shingle_stairs | minecraft:block | create:blocks/waxed_exposed_copper_shingle_stairs create:waxed_exposed_copper_shingle_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_exposed_copper_shingles | minecraft:block | create:blocks/waxed_exposed_copper_shingles create:waxed_exposed_copper_shingles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_exposed_copper_tile_slab | minecraft:block | create:blocks/waxed_exposed_copper_tile_slab create:waxed_exposed_copper_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/waxed_exposed_copper_tile_stairs | minecraft:block | create:blocks/waxed_exposed_copper_tile_stairs create:waxed_exposed_copper_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_exposed_copper_tiles | minecraft:block | create:blocks/waxed_exposed_copper_tiles create:waxed_exposed_copper_tiles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_oxidized_copper_shingle_slab | minecraft:block | create:blocks/waxed_oxidized_copper_shingle_slab create:waxed_oxidized_copper_shingle_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/waxed_oxidized_copper_shingle_stairs | minecraft:block | create:blocks/waxed_oxidized_copper_shingle_stairs create:waxed_oxidized_copper_shingle_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_oxidized_copper_shingles | minecraft:block | create:blocks/waxed_oxidized_copper_shingles create:waxed_oxidized_copper_shingles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_oxidized_copper_tile_slab | minecraft:block | create:blocks/waxed_oxidized_copper_tile_slab create:waxed_oxidized_copper_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/waxed_oxidized_copper_tile_stairs | minecraft:block | create:blocks/waxed_oxidized_copper_tile_stairs create:waxed_oxidized_copper_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_oxidized_copper_tiles | minecraft:block | create:blocks/waxed_oxidized_copper_tiles create:waxed_oxidized_copper_tiles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_weathered_copper_shingle_slab | minecraft:block | create:blocks/waxed_weathered_copper_shingle_slab create:waxed_weathered_copper_shingle_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/waxed_weathered_copper_shingle_stairs | minecraft:block | create:blocks/waxed_weathered_copper_shingle_stairs create:waxed_weathered_copper_shingle_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_weathered_copper_shingles | minecraft:block | create:blocks/waxed_weathered_copper_shingles create:waxed_weathered_copper_shingles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_weathered_copper_tile_slab | minecraft:block | create:blocks/waxed_weathered_copper_tile_slab create:waxed_weathered_copper_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/waxed_weathered_copper_tile_stairs | minecraft:block | create:blocks/waxed_weathered_copper_tile_stairs create:waxed_weathered_copper_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/waxed_weathered_copper_tiles | minecraft:block | create:blocks/waxed_weathered_copper_tiles create:waxed_weathered_copper_tiles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/weathered_copper_shingle_slab | minecraft:block | create:blocks/weathered_copper_shingle_slab create:weathered_copper_shingle_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/weathered_copper_shingle_stairs | minecraft:block | create:blocks/weathered_copper_shingle_stairs create:weathered_copper_shingle_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/weathered_copper_shingles | minecraft:block | create:blocks/weathered_copper_shingles create:weathered_copper_shingles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/weathered_copper_tile_slab | minecraft:block | create:blocks/weathered_copper_tile_slab create:weathered_copper_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+create:blocks/weathered_copper_tile_stairs | minecraft:block | create:blocks/weathered_copper_tile_stairs create:weathered_copper_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/weathered_copper_tiles | minecraft:block | create:blocks/weathered_copper_tiles create:weathered_copper_tiles minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/weathered_iron_block | minecraft:block | create:blocks/weathered_iron_block create:weathered_iron_block minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/weathered_iron_window | minecraft:block | create:blocks/weathered_iron_window create:weathered_iron_window minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/weathered_iron_window_pane | minecraft:block | create:blocks/weathered_iron_window_pane create:weathered_iron_window_pane minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+create:blocks/weighted_ejector | minecraft:block | create:blocks/weighted_ejector create:weighted_ejector minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/white_nixie_tube | minecraft:block | create:blocks/white_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/white_postbox | minecraft:block | create:blocks/white_postbox create:white_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/white_sail | minecraft:block | create:blocks/white_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/white_seat | minecraft:block | create:blocks/white_seat create:white_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/white_table_cloth | minecraft:block | create:blocks/white_table_cloth create:white_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/white_toolbox | minecraft:block | create:blocks/white_toolbox create:toolbox_inventory create:toolbox_uuid create:white_toolbox minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/white_valve_handle | minecraft:block | create:blocks/white_valve_handle create:white_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/windmill_bearing | minecraft:block | create:blocks/windmill_bearing create:windmill_bearing minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/wooden_bracket | minecraft:block | create:blocks/wooden_bracket create:wooden_bracket minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/yellow_nixie_tube | minecraft:block | create:blocks/yellow_nixie_tube create:nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/yellow_postbox | minecraft:block | create:blocks/yellow_postbox create:yellow_postbox minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/yellow_sail | minecraft:block | create:blocks/yellow_sail create:white_sail minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/yellow_seat | minecraft:block | create:blocks/yellow_seat create:yellow_seat minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/yellow_table_cloth | minecraft:block | create:blocks/yellow_table_cloth create:yellow_table_cloth minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/yellow_toolbox | minecraft:block | create:blocks/yellow_toolbox create:toolbox_inventory create:toolbox_uuid create:yellow_toolbox minecraft:block minecraft:copy_components minecraft:copy_name minecraft:item minecraft:survives_explosion
+create:blocks/yellow_valve_handle | minecraft:block | create:blocks/yellow_valve_handle create:yellow_valve_handle minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/zinc_block | minecraft:block | create:blocks/zinc_block create:zinc_block minecraft:block minecraft:item minecraft:survives_explosion
+create:blocks/zinc_ore | minecraft:block | create:blocks/zinc_ore create:raw_zinc create:zinc_ore minecraft:alternatives minecraft:apply_bonus minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:item minecraft:match_tool minecraft:ore_drops minecraft:silk_touch

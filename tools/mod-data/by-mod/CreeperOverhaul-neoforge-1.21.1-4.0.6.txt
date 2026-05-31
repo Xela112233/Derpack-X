@@ -1,0 +1,63 @@
+# CreeperOverhaul-neoforge-1.21.1-4.0.6
+
+## mod metadata (id / version / deps)
+license="All rights reserved"
+modId="creeperoverhaul"
+version="4.0.6"
+displayName="Creeper Overhaul"
+modId="geckolib"
+versionRange="[4.5.5,)"
+modId="resourcefulconfig"
+versionRange="[3.0.0,)"
+modId="neoforge"
+versionRange = "[21.0,)"
+modId="minecraft"
+versionRange="[1.21,)"
+
+## blocks
+creeperoverhaul:potted_tiny_cactus
+creeperoverhaul:tiny_cactus
+
+## items
+creeperoverhaul:badlands_creeper_spawn_egg
+creeperoverhaul:bamboo_creeper_spawn_egg
+creeperoverhaul:beach_creeper_spawn_egg
+creeperoverhaul:birch_creeper_spawn_egg
+creeperoverhaul:cave_creeper_spawn_egg
+creeperoverhaul:dark_oak_creeper_spawn_egg
+creeperoverhaul:desert_creeper_spawn_egg
+creeperoverhaul:dripstone_creeper_spawn_egg
+creeperoverhaul:hills_creeper_spawn_egg
+creeperoverhaul:jungle_creeper_spawn_egg
+creeperoverhaul:mushroom_creeper_spawn_egg
+creeperoverhaul:ocean_creeper_spawn_egg
+creeperoverhaul:plains_creeper_spawn_egg
+creeperoverhaul:savannah_creeper_spawn_egg
+creeperoverhaul:snowy_creeper_spawn_egg
+creeperoverhaul:spruce_creeper_spawn_egg
+creeperoverhaul:swamp_creeper_spawn_egg
+creeperoverhaul:tiny_cactus
+
+## neoforge biome_modifiers
+badlands.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_badlands", "spawners" : { "type": "creeperoverhaul:badlands_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+bamboo.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_jungle", "spawners" : { "type": "creeperoverhaul:bamboo_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+beach.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_beach", "spawners" : { "type": "creeperoverhaul:beach_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+birch.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_birch_forest", "spawners" : { "type": "creeperoverhaul:birch_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+cave.json :: { "type": "neoforge:add_spawns", "biomes": "#creeperoverhaul:where_creepers_spawn", "spawners" : { "type": "creeperoverhaul:cave_creeper", "weight": 50, "minCount": 2, "maxCount": 2 }}
+dark_oak.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_dark_forest", "spawners" : { "type": "creeperoverhaul:dark_oak_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+desert.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_desert", "spawners" : { "type": "creeperoverhaul:desert_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+dripstone.json :: { "type": "neoforge:add_spawns", "biomes": "#creeperoverhaul:is_cave", "spawners" : { "type": "creeperoverhaul:dripstone_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+hill.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_hill", "spawners" : { "type": "creeperoverhaul:hills_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+jungle.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_jungle", "spawners" : { "type": "creeperoverhaul:jungle_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+mushroom.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_mushroom", "spawners" : { "type": "creeperoverhaul:mushroom_creeper", "weight": 10, "minCount": 1, "maxCount": 2 }}
+ocean.json :: { "type": "neoforge:add_spawns", "biomes": [ "minecraft:lukewarm_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:warm_ocean" ], "spawners" : { "type": "creeperoverhaul:ocean_creeper", "weight": 1, "minCount": 1, "maxCount": 1 }}
+remove_vanilla.json :: { "type": "neoforge:remove_spawns", "biomes": "#creeperoverhaul:where_creepers_spawn", "entity_types": [ "minecraft:creeper" ]}
+savannah.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_savanna", "spawners" : { "type": "creeperoverhaul:savannah_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+snowy.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_snowy", "spawners" : { "type": "creeperoverhaul:snowy_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+spruce.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_taiga", "spawners" : { "type": "creeperoverhaul:spruce_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+swamp.json :: { "type": "neoforge:add_spawns", "biomes": "#c:is_swamp", "spawners" : { "type": "creeperoverhaul:swamp_creeper", "weight": 75, "minCount": 2, "maxCount": 2 }}
+
+## c: common tag membership
+entity_type/creepers.json :: { "replace": false, "values": [ "creeperoverhaul:jungle_creeper", "creeperoverhaul:bamboo_creeper", "creeperoverhaul:desert_creeper", "creeperoverhaul:badlands_creeper", "creeperoverhaul:hills_creeper", "creeperoverhaul:savannah_creeper", "creeperoverhaul:mushroom_creeper", "creeperoverhaul:swamp_creeper", "creeperoverhaul:dripstone_creeper", "creeperoverhaul:cave_creeper", "creeperoverhaul:dark_oak_creeper", "creeperoverhaul:spruce_creeper", "creeperoverhaul:beach_creeper", "creeperoverhaul:snowy_creeper", "creeperoverhaul:birch_creeper", "creeperoverhaul:ocean_creeper" ]}
+worldgen/biome/is_dark_forest.json :: { "values": [ "minecraft:dark_forest" ]}
+worldgen/biome/is_mushroom.json :: { "values": [ "minecraft:mushroom_fields" ]}

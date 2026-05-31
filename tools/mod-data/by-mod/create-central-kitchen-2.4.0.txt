@@ -1,0 +1,23 @@
+# create-central-kitchen-2.4.0
+
+## mod metadata (id / version / deps)
+license="LGPL-3.0-or-later"
+modId="create_central_kitchen"
+version="2.4.0"
+displayName="Create: Central Kitchen"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+modId="create"
+versionRange="[6.0.10,)"
+modId="create_dragons_plus"
+versionRange="[1.10.0,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,23 @@
+# dragonlib-neoforge-1.21.1-beta-3.0.26
+
+## mod metadata (id / version / deps)
+license = "GNU General Public License v3.0"
+modId = "dragonlib"
+version = "1.21.1-beta-3.0.26"
+displayName = "DragonLib"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21.1,1.21.2)"
+modId = "architectury"
+versionRange = "[13.0.6,)"
+
+## blocks
+dragonlib:dragon
+
+## items
+dragonlib:dragon
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,2 @@
+createtreadmill:maid_motor | crafting_shaped | create:andesite_casing create:hand_crank createtreadmill:maid_motor createtreadmill:treadmill
+createtreadmill:treadmill | crafting_shaped | create:andesite_casing create:belt_connector create:shaft createtreadmill:treadmill

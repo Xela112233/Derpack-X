@@ -1,0 +1,93 @@
+# ColdSweat-2.4
+
+## mod metadata (id / version / deps)
+license="GNU General Public License v3.1"
+modId="cold_sweat"
+version="2.4"
+displayName="Cold Sweat"
+modId="neoforge"
+versionRange="[21.1.181,)"
+modId="minecraft"
+versionRange="[1.21.1,1.21.2)"
+
+## blocks
+cold_sweat:boiler
+cold_sweat:hearth_bottom
+cold_sweat:hearth_top
+cold_sweat:icebox
+cold_sweat:minecart_insulation
+cold_sweat:sewing_table
+cold_sweat:smokestack
+cold_sweat:soul_stalk
+cold_sweat:thermolith
+
+## items
+cold_sweat:boiler
+cold_sweat:chameleon_boots
+cold_sweat:chameleon_chestplate
+cold_sweat:chameleon_helmet
+cold_sweat:chameleon_leggings
+cold_sweat:chameleon_molt
+cold_sweat:chameleon_spawn_egg
+cold_sweat:filled_waterskin
+cold_sweat:goat_fur
+cold_sweat:goat_fur_boots
+cold_sweat:goat_fur_chestplate
+cold_sweat:goat_fur_helmet
+cold_sweat:goat_fur_leggings
+cold_sweat:hearth
+cold_sweat:hoglin_boots
+cold_sweat:hoglin_chestplate
+cold_sweat:hoglin_helmet
+cold_sweat:hoglin_hide
+cold_sweat:hoglin_leggings
+cold_sweat:icebox
+cold_sweat:insulated_minecart
+cold_sweat:minecart_insulation
+cold_sweat:sewing_table
+cold_sweat:slush_bucket
+cold_sweat:smokestack
+cold_sweat:soul_sprout
+cold_sweat:soulspring_lamp
+cold_sweat:soulspring_lamp/soulspring_lamp_0
+cold_sweat:soulspring_lamp/soulspring_lamp_1
+cold_sweat:soulspring_lamp/soulspring_lamp_2
+cold_sweat:soulspring_lamp/soulspring_lamp_3
+cold_sweat:thermolith
+cold_sweat:thermometer
+cold_sweat:thermometer/thermometer_-1
+cold_sweat:thermometer/thermometer_-2
+cold_sweat:thermometer/thermometer_-3
+cold_sweat:thermometer/thermometer_0
+cold_sweat:thermometer/thermometer_1
+cold_sweat:thermometer/thermometer_2
+cold_sweat:thermometer/thermometer_3
+cold_sweat:thermometer/thermometer_4
+cold_sweat:waterskin
+cold_sweat:waterskin/filled_waterskin_cold
+cold_sweat:waterskin/filled_waterskin_hot
+
+## neoforge biome_modifiers
+soul_stalk.json :: { "type": "neoforge:add_features", "biomes": "#minecraft:is_nether", "features": "cold_sweat:soul_stalk", "step": "vegetal_decoration"}
+entity_spawns.json :: { "type": "cold_sweat:add_spawns", "use_configs": true}
+soul_stalk_common.json :: { "type": "neoforge:add_features", "biomes": "#cold_sweat:increased_soul_stalk", "features": "cold_sweat:soul_stalk_common", "step": "vegetal_decoration"}
+
+## c: common tag membership
+dimension_type/bed_works.json :: { "replace": false, "values": []}
+dimension_type/unnatural.json :: { "replace": false, "values": []}
+dimension_type/overworld_like.json :: { "replace": false, "values": []}
+dimension_type/ultrawarm.json :: { "replace": false, "values": []}
+dimension_type/has_raids.json :: { "replace": false, "values": []}
+dimension_type/has_skylight.json :: { "replace": false, "values": []}
+dimension_type/has_sky.json :: { "replace": false, "values": []}
+dimension_type/natural.json :: { "replace": false, "values": []}
+dimension_type/respawn_anchor_works.json :: { "replace": false, "values": []}
+dimension_type/has_ceiling.json :: { "replace": false, "values": []}
+dimension_type/piglin_safe.json :: { "replace": false, "values": []}
+item/ingots/nether_brick.json :: { "replace": false, "values": [ "minecraft:nether_brick" ]}
+item/scales/chameleon.json :: { "replace": false, "values": [ "cold_sweat:chameleon_molt" ]}
+item/furs/goat.json :: { "replace": false, "values": [ "cold_sweat:goat_fur" ]}
+item/foods.json :: { "replace": false, "values": [ "cold_sweat:soul_sprout" ]}
+item/leathers/hoglin.json :: { "replace": false, "values": [ "cold_sweat:hoglin_hide" ]}
+block/player_workstations/crafting_tables.json :: { "replace": false, "values": [ "cold_sweat:sewing_table" ]}
+block/soul_fire.json :: { "replace": false, "values": [ "minecraft:soul_fire", "minecraft:soul_campfire" ]}

@@ -1,0 +1,24 @@
+# cmparallelpipes-neoforge-2.0.2
+
+## mod metadata (id / version / deps)
+license="Lambda License"
+modId="cmparallelpipes"
+version="2.0.2"
+displayName="Create More: Parallel Pipes"
+modId="neoforge"
+versionRange="[21.1.0,)"
+modId="minecraft"
+versionRange="[1.21.1, 1.22)"
+modId="create"
+versionRange="[6.0.0,)"
+
+## blocks
+
+## items
+cmparallelpipes:pipe_wrench
+cmparallelpipes:pipe_wrench_gear
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+item/tools.json :: { "values": [ "cmparallelpipes:pipe_wrench" ]}

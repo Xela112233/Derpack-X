@@ -1,0 +1,46 @@
+# tacz-neoforge-1.21.1-1.1.7-hotfix-r5
+
+## mod metadata (id / version / deps)
+license = "GPL3 / CC BY-NC-ND 4.0"
+modId = "tacz"
+version = "1.1.7-hotfix-r5"
+displayName = "Timeless & Classics Guns: Zero"
+modId = "neoforge"
+versionRange = "[21,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+
+## blocks
+tacz:gun_smith_table
+tacz:statue
+tacz:target
+tacz:workbench_a
+tacz:workbench_b
+tacz:workbench_c
+
+## items
+tacz:ammo
+tacz:ammo_box
+tacz:ammo_box/all_type_creative_ammo_box
+tacz:ammo_box/creative_ammo_box_close
+tacz:ammo_box/creative_ammo_box_open
+tacz:ammo_box/diamond_ammo_box_close
+tacz:ammo_box/diamond_ammo_box_open
+tacz:ammo_box/gold_ammo_box_close
+tacz:ammo_box/gold_ammo_box_open
+tacz:ammo_box/iron_ammo_box_close
+tacz:ammo_box/iron_ammo_box_open
+tacz:attachment
+tacz:gun_smith_table
+tacz:m67
+tacz:modern_kinetic_gun
+tacz:statue
+tacz:target
+tacz:target_minecart
+tacz:workbench_a
+tacz:workbench_b
+tacz:workbench_c
+
+## neoforge biome_modifiers
+
+## c: common tag membership

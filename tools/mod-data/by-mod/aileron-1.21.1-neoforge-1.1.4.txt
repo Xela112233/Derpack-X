@@ -1,0 +1,19 @@
+# aileron-1.21.1-neoforge-1.1.4
+
+## mod metadata (id / version / deps)
+license = "GNU Lesser General Public License"
+modId = "aileron"
+version = "1.21.1-neoforge-1.1.4"
+displayName = "Aileron"
+modId = "neoforge"
+versionRange = "[21.1,)"
+modId = "minecraft"
+versionRange = "[1.21.1,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

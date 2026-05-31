@@ -1,0 +1,19 @@
+# owo-lib-neoforge-0.12.15.5-beta.1+1.21
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "owo"
+version = "0.12.15.5-beta.1+1.21"
+displayName = "oωo"
+modId = "neoforge"
+versionRange = "[21,)"
+modId = "minecraft"
+versionRange = "[1.21,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,43 @@
+# create_tweaked_controllers-1.21.1-1.2.7
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "create_tweaked_controllers"
+version = "1.21.1-1.2.7"
+displayName = "Create Tweaked Controllers"
+modId = "neoforge"
+versionRange = "[21,)"
+modId = "minecraft"
+versionRange = "[1.21.1,1.22)"
+modId = "create"
+versionRange = "[6.0.0,)"
+
+## blocks
+create_tweaked_controllers:tweaked_lectern_controller
+
+## items
+create_tweaked_controllers:tweaked_linked_controller
+create_tweaked_controllers:tweaked_linked_controller/button
+create_tweaked_controllers:tweaked_linked_controller/button_n_a
+create_tweaked_controllers:tweaked_linked_controller/button_n_b
+create_tweaked_controllers:tweaked_linked_controller/button_n_x
+create_tweaked_controllers:tweaked_linked_controller/button_n_y
+create_tweaked_controllers:tweaked_linked_controller/button_p_c
+create_tweaked_controllers:tweaked_linked_controller/button_p_s
+create_tweaked_controllers:tweaked_linked_controller/button_p_t
+create_tweaked_controllers:tweaked_linked_controller/button_p_x
+create_tweaked_controllers:tweaked_linked_controller/button_x_a
+create_tweaked_controllers:tweaked_linked_controller/button_x_b
+create_tweaked_controllers:tweaked_linked_controller/button_x_x
+create_tweaked_controllers:tweaked_linked_controller/button_x_y
+create_tweaked_controllers:tweaked_linked_controller/controller_n
+create_tweaked_controllers:tweaked_linked_controller/controller_p
+create_tweaked_controllers:tweaked_linked_controller/controller_x
+create_tweaked_controllers:tweaked_linked_controller/item
+create_tweaked_controllers:tweaked_linked_controller/joystick
+create_tweaked_controllers:tweaked_linked_controller/powered
+create_tweaked_controllers:tweaked_linked_controller/trigger
+
+## neoforge biome_modifiers
+
+## c: common tag membership

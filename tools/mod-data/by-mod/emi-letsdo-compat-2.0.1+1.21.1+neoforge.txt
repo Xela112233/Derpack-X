@@ -1,0 +1,23 @@
+# emi-letsdo-compat-2.0.1+1.21.1+neoforge
+
+## mod metadata (id / version / deps)
+license = "MIT"
+modId = "emi_letsdo_compat"
+version = "2.0.1"
+displayName = "emi-letsdo-compat"
+modId = "neoforge"
+versionRange = "[21.0,)"
+modId = "minecraft"
+versionRange = "[1.21.1,)"
+modId = "architectury"
+versionRange = "[0.107.0,)"
+modId = "emi"
+versionRange = "[1.1.13,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

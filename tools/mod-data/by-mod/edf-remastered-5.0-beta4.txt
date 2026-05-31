@@ -1,0 +1,12 @@
+# edf-remastered-5.0-beta4
+
+## mod metadata (id / version / deps)
+license = 'GPL-3.0-only'
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,35 @@
+create_cheese:brie_recipe | create_cheese:maturing | create_cheese:brie create_cheese:calendar_page_tier_1 create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:cabrales_recipe | create_cheese:maturing | create_cheese:cabrales create_cheese:calendar_page_tier_2 create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:calendar_page_tier_1_recipe | minecraft:crafting_shaped | create_cheese:calendar_page_tier_1 minecraft:crafting_shaped minecraft:gold_nugget minecraft:ink_sac minecraft:paper minecraft:red_dye
+create_cheese:calendar_page_tier_2_recipe | minecraft:crafting_shaped | create_cheese:calendar_page_tier_2 minecraft:brown_dye minecraft:crafting_shaped minecraft:gold_nugget minecraft:ink_sac minecraft:paper
+create_cheese:calendar_page_tier_3_recipe | minecraft:crafting_shaped | create_cheese:calendar_page_tier_3 minecraft:crafting_shaped minecraft:gold_nugget minecraft:gray_dye minecraft:ink_sac minecraft:paper
+create_cheese:camembert_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_1 create_cheese:camembert create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:cheddar_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_1 create_cheese:cheddar create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:cheese_cellar_recipe | minecraft:crafting_shaped | c:stones create_cheese:cheese_cellar minecraft:crafting_shaped minecraft:planks minecraft:slabs
+create_cheese:cheese_curds_bucket_unpacked | minecraft:crafting_shapeless | create_cheese:cheese_curds create_cheese:cheese_curds_bucket minecraft:crafting_shapeless
+create_cheese:cheese_curds_smoking | minecraft:smoking | create_cheese:cheese_curds_bucket minecraft:milk_bucket minecraft:smoking
+create_cheese:cheshire_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_3 create_cheese:cheshire create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:colby_jack_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_2 create_cheese:colby_jack create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:comte_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_3 create_cheese:comte create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:create/compacting_cheese_curds | create:compacting | create:compacting create_cheese:cheese_curds create_cheese:soft_curd_cheese minecraft:milk
+create_cheese:create/mixing_milk | create:mixing | c:milk create:mixing create_cheese:cheese_curds
+create_cheese:crottin_de_chavignol_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_1 create_cheese:crottin_de_chavignol create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:emmentaler_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_2 create_cheese:emmentaler create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:feta_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_2 create_cheese:feta create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:fromage_frais_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_1 create_cheese:fromage_frais create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:gorgonzola_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_2 create_cheese:gorgonzola create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:gouda_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_2 create_cheese:gouda create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:grana_panado_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_3 create_cheese:grana_panado create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:gruyere_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_3 create_cheese:gruyere create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:manchego_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_2 create_cheese:manchego create_cheese:maturing create_cheese:soft_curd_cheese
+create_cheese:mimolette_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_3 create_cheese:maturing create_cheese:mimolette create_cheese:soft_curd_cheese
+create_cheese:mozzarella_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_1 create_cheese:maturing create_cheese:mozzarella create_cheese:soft_curd_cheese
+create_cheese:parmigiano_reggiano_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_3 create_cheese:maturing create_cheese:parmigiano_reggiano create_cheese:soft_curd_cheese
+create_cheese:pecorino_romano_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_3 create_cheese:maturing create_cheese:pecorino_romano create_cheese:soft_curd_cheese
+create_cheese:provolone_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_3 create_cheese:maturing create_cheese:provolone create_cheese:soft_curd_cheese
+create_cheese:reblochon_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_1 create_cheese:maturing create_cheese:reblochon create_cheese:soft_curd_cheese
+create_cheese:ricotta_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_2 create_cheese:maturing create_cheese:ricotta create_cheese:soft_curd_cheese
+create_cheese:roquefort_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_1 create_cheese:maturing create_cheese:roquefort create_cheese:soft_curd_cheese
+create_cheese:soft_curd_cheese_press | minecraft:crafting_shapeless | create_cheese:cheese_curds create_cheese:soft_curd_cheese minecraft:crafting_shapeless
+create_cheese:swiss_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_1 create_cheese:maturing create_cheese:soft_curd_cheese create_cheese:swiss
+create_cheese:tomme_de_savoie_recipe | create_cheese:maturing | create_cheese:calendar_page_tier_1 create_cheese:maturing create_cheese:soft_curd_cheese create_cheese:tomme_de_savoie

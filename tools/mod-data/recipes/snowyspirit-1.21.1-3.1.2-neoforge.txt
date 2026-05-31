@@ -1,0 +1,51 @@
+snowyspirit:candy_cane | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:honeycomb minecraft:sugar snowyspirit:candy_cane snowyspirit:flag
+snowyspirit:candy_cane_block | minecraft:crafting_shapeless | minecraft:crafting_shapeless snowyspirit:candy_cane snowyspirit:candy_cane_block snowyspirit:flag
+snowyspirit:candy_cane_block_uncrafting | minecraft:crafting_shapeless | minecraft:crafting_shapeless snowyspirit:candy_cane snowyspirit:candy_cane_block snowyspirit:flag
+snowyspirit:eggnog | minecraft:crafting_shapeless | c:buckets/milk c:eggs minecraft:crafting_shapeless minecraft:glass_bottle snowyspirit:eggnog snowyspirit:flag snowyspirit:ginger
+snowyspirit:ginger_crate | minecraft:crafting_shaped | fabric:mod_loaded minecraft:crafting_shaped snowyspirit:flag snowyspirit:ginger snowyspirit:ginger_crate
+snowyspirit:ginger_crate_uncrafting | minecraft:crafting_shapeless | fabric:mod_loaded minecraft:crafting_shapeless snowyspirit:flag snowyspirit:ginger snowyspirit:ginger_crate
+snowyspirit:gingerbread | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:wheat snowyspirit:flag snowyspirit:ginger snowyspirit:gingerbread
+snowyspirit:gingerbread_compressed | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:hay_block snowyspirit:flag snowyspirit:ginger snowyspirit:gingerbread
+snowyspirit:gingerbread_cookie | minecraft:crafting_shapeless | minecraft:crafting_shapeless snowyspirit:flag snowyspirit:gingerbread_cookie snowyspirit:gingerbreads snowyspirit:gumdrops
+snowyspirit:gingerbread_door | minecraft:crafting_shaped | minecraft:crafting_shaped snowyspirit:flag snowyspirit:gingerbread_door snowyspirit:gingerbreads
+snowyspirit:gingerbread_frosted | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gingerbread snowyspirit:gingerbread_frosted
+snowyspirit:gingerbread_slab | minecraft:crafting_shaped | minecraft:crafting_shaped snowyspirit:flag snowyspirit:gingerbread snowyspirit:gingerbread_slab
+snowyspirit:gingerbread_stairs | minecraft:crafting_shaped | minecraft:crafting_shaped snowyspirit:flag snowyspirit:gingerbread snowyspirit:gingerbread_stairs
+snowyspirit:gingerbread_trapdoor | minecraft:crafting_shaped | minecraft:crafting_shaped snowyspirit:flag snowyspirit:gingerbread_trapdoor snowyspirit:gingerbreads
+snowyspirit:glow_lights_black | minecraft:crafting_shapeless | c:dyes/black c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_black
+snowyspirit:glow_lights_blue | minecraft:crafting_shapeless | c:dyes/blue c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_blue
+snowyspirit:glow_lights_brown | minecraft:crafting_shapeless | c:dyes/brown c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_brown
+snowyspirit:glow_lights_cyan | minecraft:crafting_shapeless | c:dyes/cyan c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_cyan
+snowyspirit:glow_lights_gray | minecraft:crafting_shapeless | c:dyes/gray c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_gray
+snowyspirit:glow_lights_green | minecraft:crafting_shapeless | c:dyes/green c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_green
+snowyspirit:glow_lights_light_blue | minecraft:crafting_shapeless | c:dyes/light_blue c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_light_blue
+snowyspirit:glow_lights_light_gray | minecraft:crafting_shapeless | c:dyes/light_gray c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_light_gray
+snowyspirit:glow_lights_lime | minecraft:crafting_shapeless | c:dyes/lime c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_lime
+snowyspirit:glow_lights_magenta | minecraft:crafting_shapeless | c:dyes/magenta c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_magenta
+snowyspirit:glow_lights_orange | minecraft:crafting_shapeless | c:dyes/orange c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_orange
+snowyspirit:glow_lights_pink | minecraft:crafting_shapeless | c:dyes/pink c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_pink
+snowyspirit:glow_lights_prismatic | minecraft:crafting_shapeless | c:strings minecraft:crafting_shapeless minecraft:diamond minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_prismatic
+snowyspirit:glow_lights_purple | minecraft:crafting_shapeless | c:dyes/purple c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_purple
+snowyspirit:glow_lights_red | minecraft:crafting_shapeless | c:dyes/red c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_red
+snowyspirit:glow_lights_white | minecraft:crafting_shapeless | c:dyes/white c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_white
+snowyspirit:glow_lights_yellow | minecraft:crafting_shapeless | c:dyes/yellow c:strings minecraft:crafting_shapeless minecraft:glowstone_dust snowyspirit:flag snowyspirit:glow_lights_yellow
+snowyspirit:gumdrop_black | minecraft:crafting_shapeless | c:dyes/black minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_black
+snowyspirit:gumdrop_blue | minecraft:crafting_shapeless | c:dyes/blue minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_blue
+snowyspirit:gumdrop_brown | minecraft:crafting_shapeless | c:dyes/brown minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_brown
+snowyspirit:gumdrop_cyan | minecraft:crafting_shapeless | c:dyes/cyan minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_cyan
+snowyspirit:gumdrop_gray | minecraft:crafting_shapeless | c:dyes/gray minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_gray
+snowyspirit:gumdrop_green | minecraft:crafting_shapeless | c:dyes/green minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_green
+snowyspirit:gumdrop_light_blue | minecraft:crafting_shapeless | c:dyes/light_blue minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_light_blue
+snowyspirit:gumdrop_light_gray | minecraft:crafting_shapeless | c:dyes/light_gray minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_light_gray
+snowyspirit:gumdrop_lime | minecraft:crafting_shapeless | c:dyes/lime minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_lime
+snowyspirit:gumdrop_magenta | minecraft:crafting_shapeless | c:dyes/magenta minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_magenta
+snowyspirit:gumdrop_orange | minecraft:crafting_shapeless | c:dyes/orange minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_orange
+snowyspirit:gumdrop_pink | minecraft:crafting_shapeless | c:dyes/pink minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_pink
+snowyspirit:gumdrop_purple | minecraft:crafting_shapeless | c:dyes/purple minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_purple
+snowyspirit:gumdrop_red | minecraft:crafting_shapeless | c:dyes/red minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_red
+snowyspirit:gumdrop_white | minecraft:crafting_shapeless | c:dyes/white minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_white
+snowyspirit:gumdrop_yellow | minecraft:crafting_shapeless | c:dyes/yellow minecraft:crafting_shapeless minecraft:sugar snowyspirit:flag snowyspirit:gumdrop_yellow
+snowyspirit:red_dye_from_ginger_flower | minecraft:crafting_shapeless | minecraft:crafting_shapeless minecraft:red_dye snowyspirit:flag snowyspirit:ginger_flower
+snowyspirit:sled_oak | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:oak_planks minecraft:stick snowyspirit:flag snowyspirit:sled_oak
+snowyspirit:snow_globe | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:glass minecraft:smooth_stone_slab snowyspirit:flag snowyspirit:snow_globe
+snowyspirit:wreath | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:leaves snowyspirit:flag snowyspirit:wreath

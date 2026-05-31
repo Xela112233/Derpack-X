@@ -1,0 +1,17 @@
+# entity_texture_features_1.21-neoforge-7.1
+
+## mod metadata (id / version / deps)
+license = "LGPL-3.0"
+modId = "entity_texture_features"
+version = "7.1"
+displayName = "Entity Texture Features"
+modId = "minecraft"
+versionRange = "[1,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

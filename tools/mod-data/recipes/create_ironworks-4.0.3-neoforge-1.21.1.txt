@@ -1,0 +1,222 @@
+create:crushing/deepslate_tin_ore | create:crushing | create:crushing create:experience_nugget create_ironworks:crushed_raw_tin create_ironworks:deepslate_tin_ore minecraft:cobbled_deepslate
+create:crushing/raw_tin | create:crushing | create:crushing create:experience_nugget create_ironworks:crushed_raw_tin create_ironworks:raw_tin
+create:crushing/raw_tin_block | create:crushing | create:crushing create:experience_nugget create_ironworks:crushed_raw_tin create_ironworks:raw_tin_block
+create:crushing/tin_ore | create:crushing | create:crushing create:experience_nugget create_ironworks:crushed_raw_tin create_ironworks:tin_ore minecraft:cobblestone
+create:mixing/brass_ingot | create:mixing | c:ingots/copper c:ingots/zinc create:brass_ingot create:copper_nugget create:experience_nugget create:mixing create:zinc_nugget
+create_ironworks:armor/boots/brass | minecraft:crafting_shaped | create:brass_ingot create_ironworks:brass_armor_boots minecraft:crafting_shaped
+create_ironworks:armor/boots/bronze | minecraft:crafting_shaped | create_ironworks:bronze_armor_boots create_ironworks:bronze_ingot minecraft:crafting_shaped
+create_ironworks:armor/boots/bronze_tag | minecraft:crafting_shaped | c:ingots/bronze create_ironworks:bronze_armor_boots minecraft:crafting_shaped
+create_ironworks:armor/boots/copper | minecraft:crafting_shaped | create_ironworks:copper_armor_boots minecraft:copper_ingot minecraft:crafting_shaped
+create_ironworks:armor/boots/netherite_steel | minecraft:smithing_transform | create_ironworks:steel_armor_boots minecraft:netherite_boots minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:armor/boots/rose_quartz | minecraft:crafting_shaped | create:polished_rose_quartz create_ironworks:rose_quartz_armor_boots minecraft:crafting_shaped
+create_ironworks:armor/boots/steel | minecraft:crafting_shaped | create_ironworks:steel_armor_boots create_ironworks:steel_ingot minecraft:crafting_shaped
+create_ironworks:armor/boots/steel_tag | minecraft:crafting_shaped | c:ingots/steel create_ironworks:steel_armor_boots minecraft:crafting_shaped
+create_ironworks:armor/boots/sturdy | minecraft:crafting_shaped | create:sturdy_sheet create_ironworks:sturdy_armor_boots minecraft:crafting_shaped
+create_ironworks:armor/chestplate/brass | minecraft:crafting_shaped | create:brass_ingot create_ironworks:brass_armor_chestplate minecraft:crafting_shaped
+create_ironworks:armor/chestplate/bronze | minecraft:crafting_shaped | create_ironworks:bronze_armor_chestplate create_ironworks:bronze_ingot minecraft:crafting_shaped
+create_ironworks:armor/chestplate/bronze_tag | minecraft:crafting_shaped | c:ingots/bronze create_ironworks:bronze_armor_chestplate minecraft:crafting_shaped
+create_ironworks:armor/chestplate/copper | minecraft:crafting_shaped | create_ironworks:copper_armor_chestplate minecraft:copper_ingot minecraft:crafting_shaped
+create_ironworks:armor/chestplate/netherite_steel | minecraft:smithing_transform | create_ironworks:steel_armor_chestplate minecraft:netherite_chestplate minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:armor/chestplate/rose_quartz | minecraft:crafting_shaped | create:polished_rose_quartz create_ironworks:rose_quartz_armor_chestplate minecraft:crafting_shaped
+create_ironworks:armor/chestplate/steel | minecraft:crafting_shaped | create_ironworks:steel_armor_chestplate create_ironworks:steel_ingot minecraft:crafting_shaped
+create_ironworks:armor/chestplate/steel_tag | minecraft:crafting_shaped | c:ingots/steel create_ironworks:steel_armor_chestplate minecraft:crafting_shaped
+create_ironworks:armor/chestplate/sturdy | minecraft:crafting_shaped | create:sturdy_sheet create_ironworks:sturdy_armor_chestplate minecraft:crafting_shaped
+create_ironworks:armor/helmet/brass | minecraft:crafting_shaped | create:brass_ingot create_ironworks:brass_armor_helmet minecraft:crafting_shaped
+create_ironworks:armor/helmet/bronze | minecraft:crafting_shaped | create_ironworks:bronze_armor_helmet create_ironworks:bronze_ingot minecraft:crafting_shaped
+create_ironworks:armor/helmet/bronze_tag | minecraft:crafting_shaped | c:ingots/bronze create_ironworks:bronze_armor_helmet minecraft:crafting_shaped
+create_ironworks:armor/helmet/copper | minecraft:crafting_shaped | create_ironworks:copper_armor_helmet minecraft:copper_ingot minecraft:crafting_shaped
+create_ironworks:armor/helmet/netherite_steel | minecraft:smithing_transform | create_ironworks:steel_armor_helmet minecraft:netherite_helmet minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:armor/helmet/rose_quartz | minecraft:crafting_shaped | create:polished_rose_quartz create_ironworks:rose_quartz_armor_helmet minecraft:crafting_shaped
+create_ironworks:armor/helmet/steel | minecraft:crafting_shaped | create_ironworks:steel_armor_helmet create_ironworks:steel_ingot minecraft:crafting_shaped
+create_ironworks:armor/helmet/steel_tag | minecraft:crafting_shaped | c:ingots/steel create_ironworks:steel_armor_helmet minecraft:crafting_shaped
+create_ironworks:armor/helmet/sturdy | minecraft:crafting_shaped | create:sturdy_sheet create_ironworks:sturdy_armor_helmet minecraft:crafting_shaped
+create_ironworks:armor/leggings/brass | minecraft:crafting_shaped | create:brass_ingot create_ironworks:brass_armor_leggings minecraft:crafting_shaped
+create_ironworks:armor/leggings/bronze | minecraft:crafting_shaped | create_ironworks:bronze_armor_leggings create_ironworks:bronze_ingot minecraft:crafting_shaped
+create_ironworks:armor/leggings/bronze_tag | minecraft:crafting_shaped | c:ingots/bronze create_ironworks:bronze_armor_leggings minecraft:crafting_shaped
+create_ironworks:armor/leggings/copper | minecraft:crafting_shaped | create_ironworks:copper_armor_leggings minecraft:copper_ingot minecraft:crafting_shaped
+create_ironworks:armor/leggings/netherite_steel | minecraft:smithing_transform | create_ironworks:steel_armor_leggings minecraft:netherite_ingot minecraft:netherite_leggings minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:armor/leggings/rose_quartz | minecraft:crafting_shaped | create:polished_rose_quartz create_ironworks:rose_quartz_armor_leggings minecraft:crafting_shaped
+create_ironworks:armor/leggings/steel | minecraft:crafting_shaped | create_ironworks:steel_armor_leggings create_ironworks:steel_ingot minecraft:crafting_shaped
+create_ironworks:armor/leggings/steel_tag | minecraft:crafting_shaped | c:ingots/steel create_ironworks:steel_armor_leggings minecraft:crafting_shaped
+create_ironworks:armor/leggings/sturdy | minecraft:crafting_shaped | create:sturdy_sheet create_ironworks:sturdy_armor_leggings minecraft:crafting_shaped
+create_ironworks:materials/alloys/brass_from_crushed | create:mixing | create:brass_ingot create:copper_nugget create:crushed_raw_copper create:crushed_raw_zinc create:experience_nugget create:mixing create:zinc_nugget
+create_ironworks:materials/alloys/brass_from_ingots | create:mixing | c:ingots/copper c:ingots/zinc create:brass_ingot create:copper_nugget create:experience_nugget create:mixing create:zinc_nugget
+create_ironworks:materials/alloys/brass_from_nuggets | create:mixing | c:nuggets/zinc create:brass_nugget create:copper_nugget create:experience_nugget create:mixing create:zinc_nugget
+create_ironworks:materials/alloys/bronze_from_crushed | create:mixing | create:copper_nugget create:crushed_raw_copper create:experience_nugget create:mixing create_ironworks:bronze_ingot create_ironworks:crushed_raw_tin create_ironworks:tin_nugget
+create_ironworks:materials/alloys/bronze_from_ingots | create:mixing | c:ingots/copper c:ingots/tin create:copper_nugget create:experience_nugget create:mixing create_ironworks:bronze_ingot create_ironworks:tin_nugget
+create_ironworks:materials/alloys/bronze_from_nuggets | create:mixing | c:nuggets/tin create:copper_nugget create:experience_nugget create:mixing create_ironworks:bronze_nugget create_ironworks:tin_nugget
+create_ironworks:materials/alloys/steel_charcoal_from_crushed | create:mixing | create:crushed_raw_iron create:experience_nugget create:mixing create_ironworks:charcoal_dust create_ironworks:steel_ingot create_ironworks:steel_nugget minecraft:iron_nugget
+create_ironworks:materials/alloys/steel_charcoal_from_ingots | create:mixing | create:experience_nugget create:mixing create_ironworks:charcoal_dust create_ironworks:steel_ingot create_ironworks:steel_nugget minecraft:iron_ingot minecraft:iron_nugget
+create_ironworks:materials/alloys/steel_charcoal_from_nuggets | create:mixing | create:experience_nugget create:mixing create_ironworks:charcoal_dust create_ironworks:steel_nugget minecraft:iron_nugget
+create_ironworks:materials/alloys/steel_coal_from_crushed | create:mixing | create:crushed_raw_iron create:experience_nugget create:mixing create_ironworks:coal_dust create_ironworks:steel_ingot create_ironworks:steel_nugget minecraft:iron_nugget
+create_ironworks:materials/alloys/steel_coal_from_ingots | create:mixing | create:experience_nugget create:mixing create_ironworks:coal_dust create_ironworks:steel_ingot create_ironworks:steel_nugget minecraft:iron_ingot minecraft:iron_nugget
+create_ironworks:materials/alloys/steel_coal_from_nuggets | create:mixing | create:experience_nugget create:mixing create_ironworks:coal_dust create_ironworks:steel_nugget minecraft:iron_nugget
+create_ironworks:materials/bronze/block_from_ingot | minecraft:crafting_shaped | create_ironworks:bronze_block create_ironworks:bronze_ingot minecraft:crafting_shaped
+create_ironworks:materials/bronze/ingot_from_block | minecraft:crafting_shapeless | create_ironworks:bronze_block create_ironworks:bronze_ingot minecraft:crafting_shapeless
+create_ironworks:materials/bronze/ingot_from_nugget | minecraft:crafting_shaped | create_ironworks:bronze_ingot create_ironworks:bronze_nugget minecraft:crafting_shaped
+create_ironworks:materials/bronze/nugget_from_ingot | minecraft:crafting_shapeless | create_ironworks:bronze_ingot create_ironworks:bronze_nugget minecraft:crafting_shapeless
+create_ironworks:materials/plates/bronze_sheet | create:pressing | create:pressing create_ironworks:bronze_ingot create_ironworks:bronze_sheet
+create_ironworks:materials/plates/steel_sheet | create:pressing | create:pressing create_ironworks:steel_ingot create_ironworks:steel_sheet
+create_ironworks:materials/plates/tin_sheet | create:pressing | create:pressing create_ironworks:tin_ingot create_ironworks:tin_sheet
+create_ironworks:materials/rose_quartz/block_from_item | minecraft:crafting_shaped | create:polished_rose_quartz create_ironworks:rose_quartz_block minecraft:crafting_shaped
+create_ironworks:materials/rose_quartz/item_from_block | minecraft:crafting_shapeless | create:polished_rose_quartz create_ironworks:rose_quartz_block minecraft:crafting_shapeless
+create_ironworks:materials/steel/block_from_ingot | minecraft:crafting_shaped | create_ironworks:steel_block create_ironworks:steel_ingot minecraft:crafting_shaped
+create_ironworks:materials/steel/ingot_from_block | minecraft:crafting_shapeless | create_ironworks:steel_block create_ironworks:steel_ingot minecraft:crafting_shapeless
+create_ironworks:materials/steel/ingot_from_nugget | minecraft:crafting_shaped | create_ironworks:steel_ingot create_ironworks:steel_nugget minecraft:crafting_shaped
+create_ironworks:materials/steel/nugget_from_ingot | minecraft:crafting_shapeless | create_ironworks:steel_ingot create_ironworks:steel_nugget minecraft:crafting_shapeless
+create_ironworks:materials/steel/sequenced_crafting_precision_mechanism | create:sequenced_assembly | c:plates/gold create:cogwheel create:deploying create:incomplete_precision_mechanism create:large_cogwheel create:precision_mechanism create:sequenced_assembly create_ironworks:steel_nugget
+create_ironworks:materials/steel/upgrade_template | minecraft:crafting_shaped | create_ironworks:steel_ingot minecraft:crafting_shaped minecraft:netherite_upgrade_smithing_template minecraft:netherrack
+create_ironworks:materials/sturdy/block_from_item | minecraft:crafting_shaped | create:sturdy_sheet create_ironworks:sturdy_sheet_block minecraft:crafting_shaped
+create_ironworks:materials/sturdy/item_from_block | minecraft:crafting_shapeless | create:sturdy_sheet create_ironworks:sturdy_sheet_block minecraft:crafting_shapeless
+create_ironworks:materials/tin/blasting/tin_ingot_from_crushed_raw_tin | minecraft:blasting | create_ironworks:crushed_raw_tin create_ironworks:tin_ingot minecraft:blasting
+create_ironworks:materials/tin/blasting/tin_ingot_from_deepslate_tin_ore | minecraft:blasting | create_ironworks:deepslate_tin_ore create_ironworks:tin_ingot minecraft:blasting
+create_ironworks:materials/tin/blasting/tin_ingot_from_raw_tin | minecraft:blasting | create_ironworks:raw_tin create_ironworks:tin_ingot minecraft:blasting
+create_ironworks:materials/tin/blasting/tin_ingot_from_tin_ore | minecraft:blasting | create_ironworks:tin_ingot create_ironworks:tin_ore minecraft:blasting
+create_ironworks:materials/tin/compat/crushed_raw_tin | minecraft:crafting_shapeless | c:raw_materials/tin create:crushed_raw_tin create_ironworks:crushed_raw_tin minecraft:crafting_shapeless neoforge:not neoforge:tag_empty
+create_ironworks:materials/tin/crafting/block_from_ingot | minecraft:crafting_shaped | create_ironworks:tin_block create_ironworks:tin_ingot minecraft:crafting_shaped
+create_ironworks:materials/tin/crafting/ingot_from_block | minecraft:crafting_shapeless | create_ironworks:tin_block create_ironworks:tin_ingot minecraft:crafting_shapeless
+create_ironworks:materials/tin/crafting/ingot_from_nugget | minecraft:crafting_shaped | create_ironworks:tin_ingot create_ironworks:tin_nugget minecraft:crafting_shaped
+create_ironworks:materials/tin/crafting/nugget_from_ingot | minecraft:crafting_shapeless | create_ironworks:tin_ingot create_ironworks:tin_nugget minecraft:crafting_shapeless
+create_ironworks:materials/tin/crafting/raw_tin_block_from_raw_tin | minecraft:crafting_shaped | create_ironworks:raw_tin create_ironworks:raw_tin_block minecraft:crafting_shaped
+create_ironworks:materials/tin/crafting/raw_tin_from_raw_tin_block | minecraft:crafting_shapeless | create_ironworks:raw_tin create_ironworks:raw_tin_block minecraft:crafting_shapeless
+create_ironworks:materials/tin/crushing/deepslate_tin_ore | create:crushing | create:crushing create:experience_nugget create_ironworks:crushed_raw_tin create_ironworks:deepslate_tin_ore minecraft:cobbled_deepslate
+create_ironworks:materials/tin/crushing/raw_tin | create:crushing | create:crushing create:experience_nugget create_ironworks:crushed_raw_tin create_ironworks:raw_tin
+create_ironworks:materials/tin/crushing/raw_tin_block | create:crushing | create:crushing create:experience_nugget create_ironworks:crushed_raw_tin create_ironworks:raw_tin_block
+create_ironworks:materials/tin/crushing/tin_ore | create:crushing | create:crushing create:experience_nugget create_ironworks:crushed_raw_tin create_ironworks:tin_ore minecraft:cobblestone
+create_ironworks:materials/tin/smelting/tin_ingot_from_crushed_raw_tin | minecraft:smelting | create_ironworks:crushed_raw_tin create_ironworks:tin_ingot minecraft:smelting
+create_ironworks:materials/tin/smelting/tin_ingot_from_deepslate_tin_ore | minecraft:smelting | create_ironworks:deepslate_tin_ore create_ironworks:tin_ingot minecraft:smelting
+create_ironworks:materials/tin/smelting/tin_ingot_from_raw_tin | minecraft:smelting | create_ironworks:raw_tin create_ironworks:tin_ingot minecraft:smelting
+create_ironworks:materials/tin/smelting/tin_ingot_from_tin_ore | minecraft:smelting | create_ironworks:tin_ingot create_ironworks:tin_ore minecraft:smelting
+create_ironworks:materials/tin/splashing/tin_nuggets_from_raw_tin | create:splashing | create:splashing create_ironworks:crushed_raw_tin create_ironworks:tin_nugget minecraft:glowstone_dust
+create_ironworks:misc/compat/better_smithing_upgrades/diamond_hammer_smithing | minecraft:smithing_transform | better_smithing_upgrades:basic_upgrade_smithing_template better_smithing_upgrades:diamond_upgrade_part better_smithing_upgrades:upgradable/diamond_hammer create_ironworks:diamond_hammer minecraft:smithing_transform
+create_ironworks:misc/compat/better_smithing_upgrades/diamond_paxel_smithing | minecraft:smithing_transform | better_smithing_upgrades:basic_upgrade_smithing_template better_smithing_upgrades:diamond_upgrade_part better_smithing_upgrades:upgradable/diamond_paxel create_ironworks:diamond_paxel minecraft:smithing_transform
+create_ironworks:misc/compat/better_smithing_upgrades/gold_hammer_smithing | minecraft:smithing_transform | better_smithing_upgrades:basic_upgrade_smithing_template better_smithing_upgrades:gold_upgrade_part better_smithing_upgrades:upgradable/gold_hammer create_ironworks:gold_hammer minecraft:smithing_transform
+create_ironworks:misc/compat/better_smithing_upgrades/gold_paxel_smithing | minecraft:smithing_transform | better_smithing_upgrades:basic_upgrade_smithing_template better_smithing_upgrades:gold_upgrade_part better_smithing_upgrades:upgradable/gold_paxel create_ironworks:gold_paxel minecraft:smithing_transform
+create_ironworks:misc/compat/better_smithing_upgrades/iron_hammer_smithing | minecraft:smithing_transform | better_smithing_upgrades:basic_upgrade_smithing_template better_smithing_upgrades:iron_upgrade_part better_smithing_upgrades:upgradable/iron_hammer create_ironworks:iron_hammer minecraft:smithing_transform
+create_ironworks:misc/compat/better_smithing_upgrades/iron_paxel_smithing | minecraft:smithing_transform | better_smithing_upgrades:basic_upgrade_smithing_template better_smithing_upgrades:iron_upgrade_part better_smithing_upgrades:upgradable/iron_paxel create_ironworks:iron_paxel minecraft:smithing_transform
+create_ironworks:misc/compat/better_smithing_upgrades/netherite_hammer_smithing | minecraft:smithing_transform | better_smithing_upgrades:netherite_upgrade_part better_smithing_upgrades:upgradable/netherite_hammer create_ironworks:netherite_hammer minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:misc/compat/better_smithing_upgrades/netherite_paxel_smithing | minecraft:smithing_transform | better_smithing_upgrades:netherite_upgrade_part better_smithing_upgrades:upgradable/netherite_paxel create_ironworks:netherite_paxel minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:misc/compat/create_dd/recipe/crafting/steel_block_from_compacting | minecraft:crafting_shaped | create_d2d:steel_block create_d2d:steel_ingot minecraft:crafting_shaped neoforge:mod_loaded
+create_ironworks:misc/compat/create_dd/recipe/crafting/steel_ingot_from_compacting | minecraft:crafting_shaped | c:steel_nuggets create_d2d:steel_ingot minecraft:crafting_shaped neoforge:mod_loaded
+create_ironworks:misc/compat/create_dd/recipe/crafting/steel_ingot_from_decompacting | minecraft:crafting_shapeless | c:steel_storage_blocks create_d2d:steel_ingot minecraft:crafting_shapeless neoforge:mod_loaded
+create_ironworks:misc/compat/create_dd/recipe/crafting/steel_nugget_from_decompacting | minecraft:crafting_shapeless | c:steel_ingots create_d2d:steel_nugget minecraft:crafting_shapeless neoforge:mod_loaded
+create_ironworks:misc/compat/create_dd/recipe/crafting/tin_block_from_compacting | minecraft:crafting_shaped | create_d2d:tin_block create_d2d:tin_ingot minecraft:crafting_shaped neoforge:mod_loaded
+create_ironworks:misc/compat/create_dd/recipe/crafting/tin_ingot_from_compacting | minecraft:crafting_shaped | create_d2d:tin_ingot create_d2d:tin_nugget minecraft:crafting_shaped neoforge:mod_loaded
+create_ironworks:misc/compat/create_dd/recipe/ironworks_compat/crushing_coal_piece | create:crushing | create:crushing create_d2d:coal_piece create_ironworks:coal_dust neoforge:compound neoforge:mod_loaded
+create_ironworks:misc/compat/create_dd/recipe/ironworks_compat/raw_tin_exchange | minecraft:crafting_shapeless | create_d2d:raw_tin create_ironworks:raw_tin minecraft:crafting_shapeless neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/emptying/molten_bronze_from_ceramic_mold | create:emptying | create:emptying molten_metals:ceramic_ingot_mold molten_metals:molten_bronze molten_metals:molten_bronze_ceramic_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/emptying/molten_bronze_from_metal_mold | create:emptying | create:emptying molten_metals:ingot_mold molten_metals:molten_bronze molten_metals:molten_bronze_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/emptying/molten_steel_from_ceramic_mold | create:emptying | create:emptying molten_metals:ceramic_ingot_mold molten_metals:molten_steel molten_metals:molten_steel_ceramic_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/emptying/molten_steel_from_metal_mold | create:emptying | create:emptying molten_metals:ingot_mold molten_metals:molten_steel molten_metals:molten_steel_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/emptying/molten_tin_from_ceramic_mold | create:emptying | create:emptying molten_metals:ceramic_ingot_mold molten_metals:molten_tin molten_metals:molten_tin_ceramic_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/emptying/molten_tin_from_metal_mold | create:emptying | create:emptying molten_metals:ingot_mold molten_metals:molten_tin molten_metals:molten_tin_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/filling/bronze_filled_ceramic_mold | create:filling | create:filling molten_metals:ceramic_ingot_mold molten_metals:molten_bronze molten_metals:molten_bronze_ceramic_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/filling/bronze_filled_metal_mold | create:filling | create:filling molten_metals:ingot_mold molten_metals:molten_bronze molten_metals:molten_bronze_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/filling/steel_filled_ceramic_mold | create:filling | create:filling molten_metals:ceramic_ingot_mold molten_metals:molten_steel molten_metals:molten_steel_ceramic_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/filling/steel_filled_metal_mold | create:filling | create:filling molten_metals:ingot_mold molten_metals:molten_steel molten_metals:molten_steel_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/filling/tin_filled_ceramic_mold | create:filling | create:filling molten_metals:ceramic_ingot_mold molten_metals:molten_tin molten_metals:molten_tin_ceramic_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/filling/tin_filled_metal_mold | create:filling | create:filling molten_metals:ingot_mold molten_metals:molten_tin molten_metals:molten_tin_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_bronze_from_block | create:mixing | create:mixing create_ironworks:bronze_block molten_metals:molten_bronze neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_bronze_from_ingot | create:mixing | create:mixing create_ironworks:bronze_ingot molten_metals:molten_bronze neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_bronze_from_nugget | create:mixing | create:mixing create_ironworks:bronze_nugget molten_metals:molten_bronze neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_steel_from_block | create:mixing | create:mixing create_ironworks:steel_block molten_metals:molten_steel neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_steel_from_ingot | create:mixing | create:mixing create_ironworks:steel_ingot molten_metals:molten_steel neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_steel_from_nugget | create:mixing | create:mixing create_ironworks:steel_nugget molten_metals:molten_steel neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_tin_from_block | create:mixing | create:mixing create_ironworks:tin_block molten_metals:molten_tin neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_tin_from_block_raw | create:mixing | create:mixing create_ironworks:raw_tin_block molten_metals:molten_tin molten_metals:slag_block neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_tin_from_crushed | create:mixing | create:mixing create_ironworks:crushed_raw_tin molten_metals:molten_tin molten_metals:slag neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_tin_from_deepslate_ore | create:mixing | create:mixing create_ironworks:deepslate_tin_ore molten_metals:molten_tin molten_metals:slag neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_tin_from_ingot | create:mixing | create:mixing create_ironworks:tin_ingot molten_metals:molten_tin neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_tin_from_ingot_raw | create:mixing | create:mixing create_ironworks:raw_tin molten_metals:molten_tin molten_metals:slag neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_tin_from_nugget | create:mixing | create:mixing create_ironworks:tin_nugget molten_metals:molten_tin neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/mixing/molten_tin_from_ore | create:mixing | create:mixing create_ironworks:tin_ore molten_metals:molten_tin molten_metals:slag neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/splashing/bronze_ingot_from_ceramic_mold | create:splashing | create:splashing create_ironworks:bronze_ingot molten_metals:ceramic_ingot_mold molten_metals:molten_bronze_ceramic_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/splashing/bronze_ingot_from_metal_mold | create:splashing | create:splashing create_ironworks:bronze_ingot molten_metals:ingot_mold molten_metals:molten_bronze_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/splashing/steel_ingot_from_ceramic_mold | create:splashing | create:splashing create_ironworks:steel_ingot molten_metals:ceramic_ingot_mold molten_metals:molten_steel_ceramic_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/splashing/steel_ingot_from_metal_mold | create:splashing | create:splashing create_ironworks:steel_ingot molten_metals:ingot_mold molten_metals:molten_steel_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/splashing/tin_ingot_from_ceramic_mold | create:splashing | create:splashing create_ironworks:tin_ingot molten_metals:ceramic_ingot_mold molten_metals:molten_tin_ceramic_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/molten_metals/splashing/tin_ingot_from_metal_mold | create:splashing | create:splashing create_ironworks:tin_ingot molten_metals:ingot_mold molten_metals:molten_tin_ingot_mold neoforge:mod_loaded
+create_ironworks:misc/compat/tconstruct/recipe/common/materials/steel_block_from_ingots | minecraft:crafting_shaped | create_ironworks:steel_block minecraft:crafting_shaped neoforge:mod_loaded tconstruct:steel_block tconstruct:steel_ingot
+create_ironworks:misc/compat/tconstruct/recipe/common/materials/steel_ingot_from_block | minecraft:crafting_shapeless | create_ironworks:steel_ingot minecraft:crafting_shapeless neoforge:mod_loaded tconstruct:steel_block tconstruct:steel_ingot
+create_ironworks:misc/compat/tconstruct/recipe/common/materials/steel_ingot_from_nuggets | minecraft:crafting_shaped | create_ironworks:steel_ingot minecraft:crafting_shaped neoforge:mod_loaded tconstruct:steel_ingot tconstruct:steel_nugget
+create_ironworks:misc/compat/tconstruct/recipe/common/materials/steel_nugget_from_ingot | minecraft:crafting_shapeless | create_ironworks:steel_nugget minecraft:crafting_shapeless neoforge:mod_loaded tconstruct:steel_ingot tconstruct:steel_nugget
+create_ironworks:misc/compat/tconstruct/recipe/smeltery/casting/metal/steel/block | tconstruct:casting_basin | create_ironworks:steel_block forge:molten_steel neoforge:mod_loaded tconstruct:casting_basin
+create_ironworks:misc/compat/tconstruct/recipe/smeltery/casting/metal/steel/ingot_gold_cast | tconstruct:casting_table | create_ironworks:steel_ingot forge:molten_steel neoforge:mod_loaded tconstruct:casting_table tconstruct:casts/multi_use/ingot
+create_ironworks:misc/compat/tconstruct/recipe/smeltery/casting/metal/steel/ingot_sand_cast | tconstruct:casting_table | create_ironworks:steel_ingot forge:molten_steel neoforge:mod_loaded tconstruct:casting_table tconstruct:casts/single_use/ingot
+create_ironworks:misc/compat/tconstruct/recipe/smeltery/casting/metal/steel/nugget_gold_cast | tconstruct:casting_table | create_ironworks:steel_nugget forge:molten_steel neoforge:mod_loaded tconstruct:casting_table tconstruct:casts/multi_use/nugget
+create_ironworks:misc/compat/tconstruct/recipe/smeltery/casting/metal/steel/nugget_sand_cast | tconstruct:casting_table | create_ironworks:steel_nugget forge:molten_steel neoforge:mod_loaded tconstruct:casting_table tconstruct:casts/single_use/nugget
+create_ironworks:misc/compat/tconstruct/recipe/smeltery/casting/metal/steel/plate_gold_cast | tconstruct:casting_table | create_ironworks:steel_sheet forge:molten_steel forge:plates/steel mantle:tag_filled neoforge:mod_loaded tconstruct:casting_table tconstruct:casts/multi_use/plate
+create_ironworks:misc/compat/tconstruct/recipe/smeltery/casting/metal/steel/plate_sand_cast | tconstruct:casting_table | create_ironworks:steel_sheet forge:molten_steel forge:plates/steel mantle:tag_filled neoforge:mod_loaded tconstruct:casting_table tconstruct:casts/single_use/plate
+create_ironworks:misc/crafting/bell_bronze | minecraft:crafting_shaped | create_ironworks:bronze_block minecraft:bell minecraft:crafting_shaped minecraft:stone minecraft:wooden_slabs
+create_ironworks:misc/crafting/bucket_tin | minecraft:crafting_shaped | create_ironworks:tin_ingot minecraft:bucket minecraft:crafting_shaped
+create_ironworks:misc/crafting/cauldron_tin | minecraft:crafting_shaped | create_ironworks:tin_ingot minecraft:cauldron minecraft:crafting_shaped
+create_ironworks:misc/crafting/gunpowder | minecraft:crafting_shaped | c:dusts/coal minecraft:blaze_powder minecraft:crafting_shaped minecraft:gunpowder
+create_ironworks:misc/crafting/hopper_tin | minecraft:crafting_shaped | c:chests/wooden create_ironworks:tin_ingot minecraft:crafting_shaped minecraft:hopper
+create_ironworks:misc/crafting/lantern | minecraft:crafting_shaped | create_ironworks:tin_nugget minecraft:crafting_shaped minecraft:lantern minecraft:torch
+create_ironworks:misc/crafting/soul_lantern | minecraft:crafting_shaped | create_ironworks:tin_nugget minecraft:crafting_shaped minecraft:soul_lantern minecraft:soul_torch
+create_ironworks:misc/crushing/crushing_charcoal | create:crushing | create:crushing create_ironworks:charcoal_dust minecraft:charcoal
+create_ironworks:misc/crushing/crushing_coal | create:crushing | create:crushing create_ironworks:coal_dust minecraft:coal
+create_ironworks:misc/mixing/mixing_gunpowder | create:mixing | c:dusts/coal create:mixing minecraft:blaze_powder minecraft:gunpowder
+create_ironworks:smeltable_brass | minecraft:smelting | create:brass_nugget create_ironworks:smeltable/brass minecraft:smelting
+create_ironworks:smeltable_bronze | minecraft:smelting | create_ironworks:bronze_nugget create_ironworks:smeltable/bronze minecraft:smelting
+create_ironworks:smeltable_copper | minecraft:smelting | create:copper_nugget create_ironworks:smeltable/copper minecraft:smelting
+create_ironworks:smeltable_gold | minecraft:smelting | create_ironworks:smeltable/gold minecraft:gold_nugget minecraft:smelting
+create_ironworks:smeltable_iron | minecraft:smelting | create_ironworks:smeltable/iron minecraft:iron_nugget minecraft:smelting
+create_ironworks:smeltable_steel | minecraft:smelting | create_ironworks:smeltable/steel create_ironworks:steel_nugget minecraft:smelting
+create_ironworks:tools/axe/brass | minecraft:crafting_shaped | create:brass_ingot create_ironworks:brass_axe minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/axe/bronze | minecraft:crafting_shaped | create_ironworks:bronze_axe create_ironworks:bronze_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/axe/bronze_tag | minecraft:crafting_shaped | c:ingots/bronze create_ironworks:bronze_axe minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/axe/copper | minecraft:crafting_shaped | create_ironworks:copper_axe minecraft:copper_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/axe/netherite_steel | minecraft:smithing_transform | create_ironworks:steel_axe minecraft:netherite_axe minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:tools/axe/steel | minecraft:crafting_shaped | create_ironworks:steel_axe create_ironworks:steel_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/axe/steel_tag | minecraft:crafting_shaped | c:ingots/steel create_ironworks:steel_axe minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hammer/brass | minecraft:crafting_shaped | create:brass_ingot create_ironworks:brass_hammer minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hammer/bronze | minecraft:crafting_shaped | create_ironworks:bronze_hammer create_ironworks:bronze_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hammer/bronze_tag | minecraft:crafting_shaped | c:ingots/bronze create_ironworks:bronze_hammer minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hammer/copper | minecraft:crafting_shaped | create_ironworks:copper_hammer minecraft:copper_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hammer/diamond | minecraft:crafting_shaped | create_ironworks:diamond_hammer minecraft:crafting_shaped minecraft:diamond minecraft:stick
+create_ironworks:tools/hammer/gold | minecraft:crafting_shaped | create_ironworks:gold_hammer minecraft:crafting_shaped minecraft:gold_ingot minecraft:stick
+create_ironworks:tools/hammer/iron | minecraft:crafting_shaped | create_ironworks:iron_hammer minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+create_ironworks:tools/hammer/netherite_diamond | minecraft:smithing_transform | create_ironworks:diamond_hammer create_ironworks:netherite_hammer minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:tools/hammer/netherite_steel | minecraft:smithing_transform | create_ironworks:netherite_hammer create_ironworks:steel_hammer minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:tools/hammer/steel | minecraft:crafting_shaped | create_ironworks:steel_hammer create_ironworks:steel_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hammer/steel_tag | minecraft:crafting_shaped | c:ingots/steel create_ironworks:steel_hammer minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hoe/brass | minecraft:crafting_shaped | create:brass_ingot create_ironworks:brass_hoe minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hoe/bronze | minecraft:crafting_shaped | create_ironworks:bronze_hoe create_ironworks:bronze_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hoe/bronze_tag | minecraft:crafting_shaped | c:ingots/bronze create_ironworks:bronze_hoe minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hoe/copper | minecraft:crafting_shaped | create_ironworks:copper_hoe minecraft:copper_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hoe/netherite_steel | minecraft:smithing_transform | create_ironworks:steel_hoe minecraft:netherite_hoe minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:tools/hoe/steel | minecraft:crafting_shaped | create_ironworks:steel_hoe create_ironworks:steel_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/hoe/steel_tag | minecraft:crafting_shaped | c:ingots/steel create_ironworks:steel_hoe minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/paxel/brass | minecraft:crafting_shaped | create:brass_ingot create_ironworks:brass_paxel minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/paxel/bronze | minecraft:crafting_shaped | create_ironworks:bronze_ingot create_ironworks:bronze_paxel minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/paxel/bronze_tag | minecraft:crafting_shaped | c:ingots/bronze create_ironworks:bronze_paxel minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/paxel/copper | minecraft:crafting_shaped | create_ironworks:copper_paxel minecraft:copper_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/paxel/diamond | minecraft:crafting_shaped | create_ironworks:diamond_paxel minecraft:crafting_shaped minecraft:diamond minecraft:stick
+create_ironworks:tools/paxel/gold | minecraft:crafting_shaped | create_ironworks:gold_paxel minecraft:crafting_shaped minecraft:gold_ingot minecraft:stick
+create_ironworks:tools/paxel/iron | minecraft:crafting_shaped | create_ironworks:iron_paxel minecraft:crafting_shaped minecraft:iron_ingot minecraft:stick
+create_ironworks:tools/paxel/netherite_diamond | minecraft:smithing_transform | create_ironworks:diamond_paxel create_ironworks:netherite_paxel minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:tools/paxel/netherite_steel | minecraft:smithing_transform | create_ironworks:netherite_paxel create_ironworks:steel_paxel minecraft:netherite_ingot minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:tools/paxel/steel | minecraft:crafting_shaped | create_ironworks:steel_ingot create_ironworks:steel_paxel minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/paxel/steel_tag | minecraft:crafting_shaped | c:ingots/steel create_ironworks:steel_paxel minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/pickaxe/brass | minecraft:crafting_shaped | create:brass_ingot create_ironworks:brass_pickaxe minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/pickaxe/bronze | minecraft:crafting_shaped | create_ironworks:bronze_ingot create_ironworks:bronze_pickaxe minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/pickaxe/bronze_tag | minecraft:crafting_shaped | c:ingots/bronze create_ironworks:bronze_pickaxe minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/pickaxe/copper | minecraft:crafting_shaped | create_ironworks:copper_pickaxe minecraft:copper_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/pickaxe/netherite_steel | minecraft:smithing_transform | create_ironworks:steel_pickaxe minecraft:netherite_ingot minecraft:netherite_pickaxe minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:tools/pickaxe/steel | minecraft:crafting_shaped | create_ironworks:steel_ingot create_ironworks:steel_pickaxe minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/pickaxe/steel_tag | minecraft:crafting_shaped | c:ingots/steel create_ironworks:steel_pickaxe minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/shovel/brass | minecraft:crafting_shaped | create:brass_ingot create_ironworks:brass_shovel minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/shovel/bronze | minecraft:crafting_shaped | create_ironworks:bronze_ingot create_ironworks:bronze_shovel minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/shovel/bronze_tag | minecraft:crafting_shaped | c:ingots/bronze create_ironworks:bronze_shovel minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/shovel/copper | minecraft:crafting_shaped | create_ironworks:copper_shovel minecraft:copper_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/shovel/netherite_steel | minecraft:smithing_transform | create_ironworks:steel_shovel minecraft:netherite_ingot minecraft:netherite_shovel minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:tools/shovel/steel | minecraft:crafting_shaped | create_ironworks:steel_ingot create_ironworks:steel_shovel minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/shovel/steel_tag | minecraft:crafting_shaped | c:ingots/steel create_ironworks:steel_shovel minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/sword/brass | minecraft:crafting_shaped | create:brass_ingot create_ironworks:brass_sword minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/sword/bronze | minecraft:crafting_shaped | create_ironworks:bronze_ingot create_ironworks:bronze_sword minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/sword/bronze_tag | minecraft:crafting_shaped | c:ingots/bronze create_ironworks:bronze_sword minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/sword/copper | minecraft:crafting_shaped | create_ironworks:copper_sword minecraft:copper_ingot minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/sword/netherite_steel | minecraft:smithing_transform | create_ironworks:steel_sword minecraft:netherite_ingot minecraft:netherite_sword minecraft:netherite_upgrade_smithing_template minecraft:smithing_transform
+create_ironworks:tools/sword/steel | minecraft:crafting_shaped | create_ironworks:steel_ingot create_ironworks:steel_sword minecraft:crafting_shaped minecraft:stick
+create_ironworks:tools/sword/steel_tag | minecraft:crafting_shaped | c:ingots/steel create_ironworks:steel_sword minecraft:crafting_shaped minecraft:stick

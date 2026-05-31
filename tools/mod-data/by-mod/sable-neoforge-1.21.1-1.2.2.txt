@@ -1,0 +1,28 @@
+# sable-neoforge-1.21.1-1.2.2
+
+## mod metadata (id / version / deps)
+license = "PolyForm Shield License 1.0.0"
+modId = "sable"
+version = "1.2.2"
+displayName = "Sable"
+modId = "neoforge"
+versionRange = "[21.1.219,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "flywheel"
+versionRange = "[1.0.6,)"
+modId = "create"
+versionRange = "[6.0.10,6.1.0)"
+modId = "sablecompanion"
+versionRange = "(1.6.0,)"
+modId = "scalablelux"
+modId = "littletiles"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership
+block/end_stones.json :: { "replace": false, "values": [ "minecraft:end_stone" ]}

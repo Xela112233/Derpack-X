@@ -1,0 +1,12 @@
+# detect-afk-1.2.2
+
+## mod metadata (id / version / deps)
+license = 'MIT'
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

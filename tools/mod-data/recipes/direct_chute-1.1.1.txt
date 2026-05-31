@@ -1,0 +1,1 @@
+minecraft:direct_chute | minecraft:crafting_shaped | create:chute create:zinc_ingot direct_chute:direct_chute minecraft:crafting_shaped

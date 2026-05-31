@@ -1,0 +1,122 @@
+# touhoulittlemaid-1.5.2-neoforge+mc1.21.1
+
+## mod metadata (id / version / deps)
+license = "MIT / CC BY-NC-SA 4.0"
+modId = "touhou_little_maid"
+version = "1.5.2-neoforge+mc1.21.1"
+displayName = "Touhou Little Maid"
+modId = "neoforge"
+versionRange = "[21,)"
+modId = "minecraft"
+versionRange = "[1.21.1,1.21.2)"
+modId = "kubejs"
+versionRange = "[2101.7.2-build.309,)"
+
+## blocks
+touhou_little_maid:altar
+touhou_little_maid:bookshelf
+touhou_little_maid:cchess
+touhou_little_maid:computer
+touhou_little_maid:garage_kit
+touhou_little_maid:gomoku
+touhou_little_maid:keyboard
+touhou_little_maid:maid_beacon
+touhou_little_maid:maid_bed
+touhou_little_maid:model_switcher
+touhou_little_maid:picnic_mat
+touhou_little_maid:scarecrow
+touhou_little_maid:shrine
+touhou_little_maid:snack_cabinet
+touhou_little_maid:statue
+touhou_little_maid:wchess
+
+## items
+touhou_little_maid:all_netherite_equipment
+touhou_little_maid:bookshelf
+touhou_little_maid:broom
+touhou_little_maid:camera
+touhou_little_maid:camera_in_hand
+touhou_little_maid:cchess
+touhou_little_maid:cchess_board_state
+touhou_little_maid:chair
+touhou_little_maid:chair_show
+touhou_little_maid:change_chair_model
+touhou_little_maid:change_maid_model
+touhou_little_maid:chisel
+touhou_little_maid:computer
+touhou_little_maid:crafting_table_backpack
+touhou_little_maid:drown_protect_bauble
+touhou_little_maid:ender_chest_backpack
+touhou_little_maid:entity_id_copy
+touhou_little_maid:entity_placeholder
+touhou_little_maid:explosion_protect_bauble
+touhou_little_maid:extinguisher
+touhou_little_maid:extinguisher_in_hand
+touhou_little_maid:fairy_spawn_egg
+touhou_little_maid:fall_protect_bauble
+touhou_little_maid:favorability_tool_add
+touhou_little_maid:favorability_tool_full
+touhou_little_maid:favorability_tool_reduce
+touhou_little_maid:film
+touhou_little_maid:fire_protect_bauble
+touhou_little_maid:furnace_backpack
+touhou_little_maid:garage_kit
+touhou_little_maid:gomoku
+touhou_little_maid:gomoku_board_state
+touhou_little_maid:hakurei_gohei
+touhou_little_maid:hakurei_gohei_in_hand
+touhou_little_maid:item_magnet_bauble
+touhou_little_maid:kappa_compass
+touhou_little_maid:keyboard
+touhou_little_maid:kill_100
+touhou_little_maid:kill_dragon
+touhou_little_maid:kill_slime_300
+touhou_little_maid:kill_wither
+touhou_little_maid:life_point
+touhou_little_maid:magic_protect_bauble
+touhou_little_maid:maid_100_healthy
+touhou_little_maid:maid_backpack_big
+touhou_little_maid:maid_backpack_middle
+touhou_little_maid:maid_backpack_small
+touhou_little_maid:maid_beacon
+touhou_little_maid:maid_beacon_in_hand
+touhou_little_maid:maid_bed
+touhou_little_maid:maid_spawn_egg
+touhou_little_maid:memorizable_gensokyo
+touhou_little_maid:model_switcher
+touhou_little_maid:monster_list
+touhou_little_maid:mute_bauble
+touhou_little_maid:nimble_fabric
+touhou_little_maid:owner_conversion_tool
+touhou_little_maid:photo
+touhou_little_maid:picnic_basket
+touhou_little_maid:point_item
+touhou_little_maid:power_point
+touhou_little_maid:projectile_protect_bauble
+touhou_little_maid:reborn_maid
+touhou_little_maid:red_fox_scroll
+touhou_little_maid:sanae_gohei
+touhou_little_maid:sanae_gohei_in_hand
+touhou_little_maid:scarecrow
+touhou_little_maid:servant_bell
+touhou_little_maid:shrine
+touhou_little_maid:smart_slab_empty
+touhou_little_maid:smart_slab_has_maid
+touhou_little_maid:smart_slab_init
+touhou_little_maid:snack_cabinet
+touhou_little_maid:snack_cabinet_in_hand
+touhou_little_maid:spawn_box
+touhou_little_maid:spawn_lightning_bolt
+touhou_little_maid:substitute_jizo
+touhou_little_maid:tacz_gun_icon
+touhou_little_maid:tank_backpack
+touhou_little_maid:trumpet
+touhou_little_maid:ultramarine_orb_elixir
+touhou_little_maid:wchess
+touhou_little_maid:wchess_board_state
+touhou_little_maid:white_fox_scroll
+touhou_little_maid:wireless_io
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,22 @@
+kobolds:archaeology/gravel | minecraft:archaeology | kobolds:chests/iron_loot kobolds:kobold_skull minecraft:amethyst_shard minecraft:archaeology minecraft:crossbow minecraft:diamond minecraft:emerald minecraft:iron_ingot minecraft:item minecraft:loot_table
+kobolds:blocks/kobold_skull | minecraft:block | kobolds:kobold_skull minecraft:block minecraft:item minecraft:survives_explosion
+kobolds:blocks/kobold_skull_wall | minecraft:block | kobolds:kobold_skull minecraft:block minecraft:item minecraft:survives_explosion
+kobolds:blocks/kobold_wither_skull | minecraft:block | kobolds:kobold_wither_skull minecraft:block minecraft:item minecraft:survives_explosion
+kobolds:blocks/kobold_wither_skull_wall | minecraft:block | kobolds:kobold_wither_skull minecraft:block minecraft:item minecraft:survives_explosion
+kobolds:chests/iron_loot | minecraft:chest | kobolds:kobold_iron_axe kobolds:kobold_iron_hoe kobolds:kobold_iron_pickaxe kobolds:kobold_iron_shovel kobolds:kobold_iron_sword kobolds:kobold_template minecraft:chest minecraft:item
+kobolds:chests/kobold_loot | minecraft:chest | kobolds:chests/iron_loot minecraft:amethyst_shard minecraft:chest minecraft:coal minecraft:cobblestone minecraft:diamond minecraft:emerald minecraft:flint minecraft:gold_ingot minecraft:iron_ingot minecraft:item minecraft:loot_table
+kobolds:entities/kobold | minecraft:entity | minecraft:entity
+kobolds:entities/kobold_captain | minecraft:entity | minecraft:entity
+kobolds:entities/kobold_child | minecraft:entity | minecraft:entity
+kobolds:entities/kobold_enchanter | minecraft:entity | minecraft:entity
+kobolds:entities/kobold_engineer | minecraft:entity | minecraft:entity
+kobolds:entities/kobold_pirate | minecraft:entity | minecraft:entity
+kobolds:entities/kobold_rascal | minecraft:entity | minecraft:entity
+kobolds:entities/kobold_skeleton | minecraft:entity | kobolds:kobold_skull minecraft:arrow minecraft:bone minecraft:enchanted_count_increase minecraft:entity minecraft:item minecraft:killed_by_player minecraft:looting minecraft:set_count minecraft:uniform
+kobolds:entities/kobold_warrior | minecraft:entity | minecraft:entity
+kobolds:entities/kobold_zombie | minecraft:entity | minecraft:any_of minecraft:carrot minecraft:enchanted_count_increase minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:iron_ingot minecraft:item minecraft:killed_by_player minecraft:linear minecraft:looting minecraft:potato minecraft:random_chance_with_enchanted_bonus minecraft:rotten_flesh minecraft:set_count minecraft:uniform
+kobolds:entities/witherbold | minecraft:entity | kobolds:kobold_wither_skull minecraft:entity minecraft:item
+kobolds:gameplay/enchanter_loot | minecraft:generic | kobolds:amethyst kobolds:prospector minecraft:book minecraft:enchant_randomly minecraft:generic minecraft:item minecraft:long_fire_resistance minecraft:long_water_breathing minecraft:luck minecraft:potion minecraft:set_potion
+kobolds:gameplay/engineer_loot | minecraft:generic | kobolds:music_disc_kobblestone minecraft:activator_rail minecraft:detector_rail minecraft:dispenser minecraft:dropper minecraft:generic minecraft:hopper minecraft:item minecraft:minecart minecraft:observer minecraft:piston minecraft:rail minecraft:redstone minecraft:redstone_lamp minecraft:repeater minecraft:tnt
+kobolds:gameplay/stone_loot | minecraft:generic | minecraft:andesite minecraft:cobbled_deepslate minecraft:diorite minecraft:generic minecraft:granite minecraft:item minecraft:tuff
+kobolds:gameplay/trader_loot | minecraft:generic | kobolds:gameplay/stone_loot minecraft:coal minecraft:copper_ingot minecraft:diamond minecraft:generic minecraft:gold_ingot minecraft:iron_ingot minecraft:item minecraft:loot_table

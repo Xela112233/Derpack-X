@@ -1,0 +1,88 @@
+ecologics:blocks/azalea_button | minecraft:block | ecologics:azalea_button minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_door | minecraft:block | ecologics:azalea_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_fence | minecraft:block | ecologics:azalea_fence minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_fence_gate | minecraft:block | ecologics:azalea_fence_gate minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_flower | minecraft:block | ecologics:azalea_flower minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_hanging_sign | minecraft:block | ecologics:azalea_hanging_sign minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_log | minecraft:block | ecologics:azalea_log minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_planks | minecraft:block | ecologics:azalea_planks minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_pressure_plate | minecraft:block | ecologics:azalea_pressure_plate minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_sign | minecraft:block | ecologics:azalea_sign minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_slab | minecraft:block | ecologics:azalea_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+ecologics:blocks/azalea_stairs | minecraft:block | ecologics:azalea_stairs minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_trapdoor | minecraft:block | ecologics:azalea_trapdoor minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/azalea_wood | minecraft:block | ecologics:azalea_wood minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut | minecraft:block | ecologics:coconut minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_button | minecraft:block | ecologics:coconut_button minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_door | minecraft:block | ecologics:coconut_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_fence | minecraft:block | ecologics:coconut_fence minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_fence_gate | minecraft:block | ecologics:coconut_fence_gate minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_hanging_sign | minecraft:block | ecologics:coconut_hanging_sign minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_leaves | minecraft:block | ecologics:blocks/coconut_leaves ecologics:coconut_leaves ecologics:coconut_seedling minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform
+ecologics:blocks/coconut_log | minecraft:block | ecologics:coconut_log minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_planks | minecraft:block | ecologics:coconut_planks minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_pressure_plate | minecraft:block | ecologics:coconut_pressure_plate minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_seedling | minecraft:block | ecologics:coconut_seedling minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_sign | minecraft:block | ecologics:coconut_sign minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_slab | minecraft:block | ecologics:coconut_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+ecologics:blocks/coconut_stairs | minecraft:block | ecologics:coconut_stairs minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_trapdoor | minecraft:block | ecologics:coconut_trapdoor minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/coconut_wood | minecraft:block | ecologics:coconut_wood minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/flowering_azalea_door | minecraft:block | ecologics:flowering_azalea_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+ecologics:blocks/flowering_azalea_fence | minecraft:block | ecologics:flowering_azalea_fence minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/flowering_azalea_fence_gate | minecraft:block | ecologics:flowering_azalea_fence_gate minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/flowering_azalea_hanging_sign | minecraft:block | ecologics:flowering_azalea_hanging_sign minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/flowering_azalea_log | minecraft:block | ecologics:flowering_azalea_log minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/flowering_azalea_planks | minecraft:block | ecologics:flowering_azalea_planks minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/flowering_azalea_sign | minecraft:block | ecologics:flowering_azalea_sign minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/flowering_azalea_slab | minecraft:block | ecologics:flowering_azalea_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+ecologics:blocks/flowering_azalea_stairs | minecraft:block | ecologics:flowering_azalea_stairs minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/flowering_azalea_trapdoor | minecraft:block | ecologics:flowering_azalea_trapdoor minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/flowering_azalea_wood | minecraft:block | ecologics:flowering_azalea_wood minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/hanging_coconut | minecraft:block | ecologics:coconut ecologics:coconut_slice ecologics:hanging_coconut minecraft:alternatives minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch
+ecologics:blocks/ice_brick_slab | minecraft:block | ecologics:ice_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+ecologics:blocks/ice_brick_stairs | minecraft:block | ecologics:ice_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/ice_brick_wall | minecraft:block | ecologics:ice_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/ice_bricks | minecraft:block | ecologics:ice_bricks minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/moss_layer | minecraft:block | ecologics:moss_layer minecraft:alternatives minecraft:block minecraft:block_state_property minecraft:entity_properties minecraft:item minecraft:moss_block minecraft:moss_carpet minecraft:set_count
+ecologics:blocks/pot | minecraft:block | ecologics:pot minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+ecologics:blocks/potted_azalea_flower | minecraft:block | ecologics:azalea_flower minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion
+ecologics:blocks/potted_coconut_seedling | minecraft:block | ecologics:coconut_seedling minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion
+ecologics:blocks/potted_walnut_sapling | minecraft:block | ecologics:walnut_sapling minecraft:block minecraft:flower_pot minecraft:item minecraft:survives_explosion
+ecologics:blocks/prickly_pear | minecraft:block | ecologics:prickly_pear minecraft:apply_bonus minecraft:binomial_with_bonus_count minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:fortune minecraft:item
+ecologics:blocks/sandcastle | minecraft:block | ecologics:sandcastle ecologics:seashell minecraft:alternatives minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch minecraft:survives_explosion
+ecologics:blocks/seashell | minecraft:block | ecologics:seashell minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/seashell_block | minecraft:block | ecologics:seashell_block minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/seashell_tile_slab | minecraft:block | ecologics:seashell_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+ecologics:blocks/seashell_tile_stairs | minecraft:block | ecologics:seashell_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/seashell_tile_wall | minecraft:block | ecologics:seashell_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/seashell_tiles | minecraft:block | ecologics:seashell_tiles minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/snow_brick_slab | minecraft:block | ecologics:snow_brick_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+ecologics:blocks/snow_brick_stairs | minecraft:block | ecologics:snow_brick_stairs minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/snow_brick_wall | minecraft:block | ecologics:snow_brick_wall minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/snow_bricks | minecraft:block | ecologics:snow_bricks minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/stripped_azalea_log | minecraft:block | ecologics:stripped_azalea_log minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/stripped_azalea_wood | minecraft:block | ecologics:stripped_azalea_wood minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/stripped_coconut_log | minecraft:block | ecologics:stripped_coconut_log minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/stripped_coconut_wood | minecraft:block | ecologics:stripped_coconut_wood minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/stripped_walnut_log | minecraft:block | ecologics:stripped_walnut_log minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/stripped_walnut_wood | minecraft:block | ecologics:stripped_walnut_wood minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/surface_moss | minecraft:block | ecologics:blocks/surface_moss ecologics:surface_moss minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:match_tool minecraft:set_count
+ecologics:blocks/thin_ice | minecraft:block | ecologics:thin_ice minecraft:block minecraft:item minecraft:match_tool minecraft:silk_touch
+ecologics:blocks/walnut_button | minecraft:block | ecologics:walnut_button minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_door | minecraft:block | ecologics:walnut_door minecraft:block minecraft:block_state_property minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_fence | minecraft:block | ecologics:walnut_fence minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_fence_gate | minecraft:block | ecologics:walnut_fence_gate minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_hanging_sign | minecraft:block | ecologics:walnut_hanging_sign minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_leaves | minecraft:block | ecologics:blocks/walnut_leaves ecologics:walnut ecologics:walnut_leaves ecologics:walnut_sapling minecraft:alternatives minecraft:any_of minecraft:block minecraft:explosion_decay minecraft:fortune minecraft:inverted minecraft:item minecraft:match_tool minecraft:set_count minecraft:silk_touch minecraft:stick minecraft:survives_explosion minecraft:table_bonus minecraft:uniform
+ecologics:blocks/walnut_log | minecraft:block | ecologics:walnut_log minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_planks | minecraft:block | ecologics:walnut_planks minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_pressure_plate | minecraft:block | ecologics:walnut_pressure_plate minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_sapling | minecraft:block | ecologics:walnut_sapling minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_sign | minecraft:block | ecologics:walnut_sign minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_slab | minecraft:block | ecologics:walnut_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+ecologics:blocks/walnut_stairs | minecraft:block | ecologics:walnut_stairs minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_trapdoor | minecraft:block | ecologics:walnut_trapdoor minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:blocks/walnut_wood | minecraft:block | ecologics:walnut_wood minecraft:block minecraft:item minecraft:survives_explosion
+ecologics:entities/coconut_crab | minecraft:entity | ecologics:crab_claw minecraft:entity minecraft:entity_properties minecraft:furnace_smelt minecraft:item minecraft:set_count minecraft:uniform
+minecraft:entities/camel | minecraft:entity | minecraft:enchanted_count_increase minecraft:entities/camel minecraft:entity minecraft:item minecraft:leather minecraft:looting minecraft:set_count minecraft:uniform

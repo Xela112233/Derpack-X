@@ -1,0 +1,21 @@
+# durabilitytooltip-1.1.6-neoforge-mc1.21
+
+## mod metadata (id / version / deps)
+license = "All rights reserved" #mandatory
+modId = "durabilitytooltip" #mandatory
+version = "1.1.6" #mandatory
+displayName = "Durability Tooltip" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.0.78-beta,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21,1.22)"
+modId = "supermartijn642configlib"
+versionRange = "[1.1.6,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

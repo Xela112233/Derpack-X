@@ -1,0 +1,47 @@
+# structurize-1.0.823-1.21.1-snapshot
+
+## mod metadata (id / version / deps)
+license="GPL 3.0"
+modId="structurize"
+version="1.0.823-1.21.1-snapshot" #mandatory
+displayName="Structurize"
+modId="neoforge"
+versionRange="[21.0.143,)"
+modId="minecraft"
+versionRange="[1.21, 1.22)"
+modId="blockui"
+versionRange="[1.0.191-1.21.1-snapshot, )"
+modId="domum_ornamentum"
+versionRange="[1.0.203-1.21.1-snapshot, )"
+
+## blocks
+structurize:blockbarreldeco_onside
+structurize:blockbarreldeco_standing
+structurize:blockfluidsubstitution
+structurize:blocksolidsubstitution
+structurize:blocksubstitution
+structurize:blocktagsubstitution
+structurize:caliper
+structurize:multiblock
+structurize:sceptergold
+structurize:sceptersteel
+
+## items
+structurize:blockbarreldeco_onside
+structurize:blockbarreldeco_standing
+structurize:blockfluidsubstitution
+structurize:blocksolidsubstitution
+structurize:blocksubstitution
+structurize:blocktagsubstitution
+structurize:blocktimberframe
+structurize:buildtoolplusplus
+structurize:caliper
+structurize:multiblock
+structurize:sceptergold
+structurize:sceptersteel
+structurize:sceptertag
+structurize:shapetool
+
+## neoforge biome_modifiers
+
+## c: common tag membership

@@ -1,0 +1,2 @@
+minecraft:entities/ender_dragon | ? | minecraft:dragon_head minecraft:elytra minecraft:enchanted_golden_apple minecraft:end_portal_frame minecraft:ender_eye minecraft:item minecraft:set_count
+minecraft:entities/ender_dragon/ender_dragon | ? | minecraft:dragon_head minecraft:elytra minecraft:enchanted_golden_apple minecraft:end_portal_frame minecraft:ender_eye minecraft:item minecraft:set_count

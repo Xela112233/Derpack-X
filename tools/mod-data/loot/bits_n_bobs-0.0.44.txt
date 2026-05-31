@@ -1,0 +1,123 @@
+bits_n_bobs:blocks/andesite_tile_slab | minecraft:block | bits_n_bobs:andesite_tile_slab bits_n_bobs:blocks/andesite_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/andesite_tile_stairs | minecraft:block | bits_n_bobs:andesite_tile_stairs bits_n_bobs:blocks/andesite_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/andesite_tile_wall | minecraft:block | bits_n_bobs:andesite_tile_wall bits_n_bobs:blocks/andesite_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/andesite_tiles | minecraft:block | bits_n_bobs:andesite_tiles bits_n_bobs:blocks/andesite_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/asurine_tile_slab | minecraft:block | bits_n_bobs:asurine_tile_slab bits_n_bobs:blocks/asurine_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/asurine_tile_stairs | minecraft:block | bits_n_bobs:asurine_tile_stairs bits_n_bobs:blocks/asurine_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/asurine_tile_wall | minecraft:block | bits_n_bobs:asurine_tile_wall bits_n_bobs:blocks/asurine_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/asurine_tiles | minecraft:block | bits_n_bobs:asurine_tiles bits_n_bobs:blocks/asurine_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/black_chair | minecraft:block | bits_n_bobs:black_chair bits_n_bobs:blocks/black_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/black_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/black_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/black_nixie_board | minecraft:block | bits_n_bobs:blocks/black_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/blue_chair | minecraft:block | bits_n_bobs:blocks/blue_chair bits_n_bobs:blue_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/blue_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/blue_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/blue_nixie_board | minecraft:block | bits_n_bobs:blocks/blue_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/brass_lamp | minecraft:block | bits_n_bobs:blocks/brass_lamp bits_n_bobs:brass_lamp minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/brown_chair | minecraft:block | bits_n_bobs:blocks/brown_chair bits_n_bobs:brown_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/brown_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/brown_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/brown_nixie_board | minecraft:block | bits_n_bobs:blocks/brown_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/calcite_tile_slab | minecraft:block | bits_n_bobs:blocks/calcite_tile_slab bits_n_bobs:calcite_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/calcite_tile_stairs | minecraft:block | bits_n_bobs:blocks/calcite_tile_stairs bits_n_bobs:calcite_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/calcite_tile_wall | minecraft:block | bits_n_bobs:blocks/calcite_tile_wall bits_n_bobs:calcite_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/calcite_tiles | minecraft:block | bits_n_bobs:blocks/calcite_tiles bits_n_bobs:calcite_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/chain_pulley | minecraft:block | bits_n_bobs:blocks/chain_pulley bits_n_bobs:chain_pulley minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/chain_pulley_magnet | minecraft:block | bits_n_bobs:blocks/chain_pulley_magnet minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/chain_rope | minecraft:block | bits_n_bobs:blocks/chain_rope minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/crimsite_tile_slab | minecraft:block | bits_n_bobs:blocks/crimsite_tile_slab bits_n_bobs:crimsite_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/crimsite_tile_stairs | minecraft:block | bits_n_bobs:blocks/crimsite_tile_stairs bits_n_bobs:crimsite_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/crimsite_tile_wall | minecraft:block | bits_n_bobs:blocks/crimsite_tile_wall bits_n_bobs:crimsite_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/crimsite_tiles | minecraft:block | bits_n_bobs:blocks/crimsite_tiles bits_n_bobs:crimsite_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/cyan_chair | minecraft:block | bits_n_bobs:blocks/cyan_chair bits_n_bobs:cyan_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/cyan_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/cyan_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/cyan_nixie_board | minecraft:block | bits_n_bobs:blocks/cyan_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/deepslate_tile_slab | minecraft:block | bits_n_bobs:blocks/deepslate_tile_slab bits_n_bobs:deepslate_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/deepslate_tile_stairs | minecraft:block | bits_n_bobs:blocks/deepslate_tile_stairs bits_n_bobs:deepslate_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/deepslate_tile_wall | minecraft:block | bits_n_bobs:blocks/deepslate_tile_wall bits_n_bobs:deepslate_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/deepslate_tiles | minecraft:block | bits_n_bobs:blocks/deepslate_tiles bits_n_bobs:deepslate_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/diorite_tile_slab | minecraft:block | bits_n_bobs:blocks/diorite_tile_slab bits_n_bobs:diorite_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/diorite_tile_stairs | minecraft:block | bits_n_bobs:blocks/diorite_tile_stairs bits_n_bobs:diorite_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/diorite_tile_wall | minecraft:block | bits_n_bobs:blocks/diorite_tile_wall bits_n_bobs:diorite_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/diorite_tiles | minecraft:block | bits_n_bobs:blocks/diorite_tiles bits_n_bobs:diorite_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/dripstone_tile_slab | minecraft:block | bits_n_bobs:blocks/dripstone_tile_slab bits_n_bobs:dripstone_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/dripstone_tile_stairs | minecraft:block | bits_n_bobs:blocks/dripstone_tile_stairs bits_n_bobs:dripstone_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/dripstone_tile_wall | minecraft:block | bits_n_bobs:blocks/dripstone_tile_wall bits_n_bobs:dripstone_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/dripstone_tiles | minecraft:block | bits_n_bobs:blocks/dripstone_tiles bits_n_bobs:dripstone_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/flywheel_bearing | minecraft:block | bits_n_bobs:blocks/flywheel_bearing bits_n_bobs:flywheel_bearing minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/girder_strut | minecraft:block | bits_n_bobs:blocks/girder_strut bits_n_bobs:girder_strut minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/granite_tile_slab | minecraft:block | bits_n_bobs:blocks/granite_tile_slab bits_n_bobs:granite_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/granite_tile_stairs | minecraft:block | bits_n_bobs:blocks/granite_tile_stairs bits_n_bobs:granite_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/granite_tile_wall | minecraft:block | bits_n_bobs:blocks/granite_tile_wall bits_n_bobs:granite_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/granite_tiles | minecraft:block | bits_n_bobs:blocks/granite_tiles bits_n_bobs:granite_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/gray_chair | minecraft:block | bits_n_bobs:blocks/gray_chair bits_n_bobs:gray_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/gray_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/gray_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/gray_nixie_board | minecraft:block | bits_n_bobs:blocks/gray_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/green_chair | minecraft:block | bits_n_bobs:blocks/green_chair bits_n_bobs:green_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/green_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/green_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/green_nixie_board | minecraft:block | bits_n_bobs:blocks/green_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/headlamp | minecraft:block | bits_n_bobs:blocks/headlamp bits_n_bobs:headlamp minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/large_cogwheel_chain | minecraft:block | bits_n_bobs:blocks/large_cogwheel_chain create:large_cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/large_flanged_cogwheel | minecraft:block | bits_n_bobs:blocks/large_flanged_cogwheel bits_n_bobs:large_flanged_cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/large_flanged_cogwheel_chain | minecraft:block | bits_n_bobs:blocks/large_flanged_cogwheel_chain bits_n_bobs:large_flanged_cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/large_nixie_tube | minecraft:block | bits_n_bobs:blocks/large_nixie_tube bits_n_bobs:large_nixie_tube minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/light_blue_chair | minecraft:block | bits_n_bobs:blocks/light_blue_chair bits_n_bobs:light_blue_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/light_blue_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/light_blue_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/light_blue_nixie_board | minecraft:block | bits_n_bobs:blocks/light_blue_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/light_gray_chair | minecraft:block | bits_n_bobs:blocks/light_gray_chair bits_n_bobs:light_gray_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/light_gray_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/light_gray_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/light_gray_nixie_board | minecraft:block | bits_n_bobs:blocks/light_gray_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/lightbulb | minecraft:block | bits_n_bobs:blocks/lightbulb bits_n_bobs:lightbulb minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/lime_chair | minecraft:block | bits_n_bobs:blocks/lime_chair bits_n_bobs:lime_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/lime_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/lime_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/lime_nixie_board | minecraft:block | bits_n_bobs:blocks/lime_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/limestone_tile_slab | minecraft:block | bits_n_bobs:blocks/limestone_tile_slab bits_n_bobs:limestone_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/limestone_tile_stairs | minecraft:block | bits_n_bobs:blocks/limestone_tile_stairs bits_n_bobs:limestone_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/limestone_tile_wall | minecraft:block | bits_n_bobs:blocks/limestone_tile_wall bits_n_bobs:limestone_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/limestone_tiles | minecraft:block | bits_n_bobs:blocks/limestone_tiles bits_n_bobs:limestone_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/magenta_chair | minecraft:block | bits_n_bobs:blocks/magenta_chair bits_n_bobs:magenta_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/magenta_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/magenta_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/magenta_nixie_board | minecraft:block | bits_n_bobs:blocks/magenta_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/nixie_board | minecraft:block | bits_n_bobs:blocks/nixie_board bits_n_bobs:nixie_board minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/ochrum_tile_slab | minecraft:block | bits_n_bobs:blocks/ochrum_tile_slab bits_n_bobs:ochrum_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/ochrum_tile_stairs | minecraft:block | bits_n_bobs:blocks/ochrum_tile_stairs bits_n_bobs:ochrum_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/ochrum_tile_wall | minecraft:block | bits_n_bobs:blocks/ochrum_tile_wall bits_n_bobs:ochrum_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/ochrum_tiles | minecraft:block | bits_n_bobs:blocks/ochrum_tiles bits_n_bobs:ochrum_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/orange_chair | minecraft:block | bits_n_bobs:blocks/orange_chair bits_n_bobs:orange_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/orange_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/orange_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/orange_nixie_board | minecraft:block | bits_n_bobs:blocks/orange_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/pink_chair | minecraft:block | bits_n_bobs:blocks/pink_chair bits_n_bobs:pink_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/pink_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/pink_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/pink_nixie_board | minecraft:block | bits_n_bobs:blocks/pink_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/purple_chair | minecraft:block | bits_n_bobs:blocks/purple_chair bits_n_bobs:purple_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/purple_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/purple_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/purple_nixie_board | minecraft:block | bits_n_bobs:blocks/purple_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/red_chair | minecraft:block | bits_n_bobs:blocks/red_chair bits_n_bobs:red_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/red_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/red_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/red_nixie_board | minecraft:block | bits_n_bobs:blocks/red_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/scorchia_tile_slab | minecraft:block | bits_n_bobs:blocks/scorchia_tile_slab bits_n_bobs:scorchia_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/scorchia_tile_stairs | minecraft:block | bits_n_bobs:blocks/scorchia_tile_stairs bits_n_bobs:scorchia_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/scorchia_tile_wall | minecraft:block | bits_n_bobs:blocks/scorchia_tile_wall bits_n_bobs:scorchia_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/scorchia_tiles | minecraft:block | bits_n_bobs:blocks/scorchia_tiles bits_n_bobs:scorchia_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/scoria_tile_slab | minecraft:block | bits_n_bobs:blocks/scoria_tile_slab bits_n_bobs:scoria_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/scoria_tile_stairs | minecraft:block | bits_n_bobs:blocks/scoria_tile_stairs bits_n_bobs:scoria_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/scoria_tile_wall | minecraft:block | bits_n_bobs:blocks/scoria_tile_wall bits_n_bobs:scoria_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/scoria_tiles | minecraft:block | bits_n_bobs:blocks/scoria_tiles bits_n_bobs:scoria_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/small_cogwheel_chain | minecraft:block | bits_n_bobs:blocks/small_cogwheel_chain create:cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/small_flanged_cogwheel | minecraft:block | bits_n_bobs:blocks/small_flanged_cogwheel bits_n_bobs:small_flanged_cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/small_flanged_cogwheel_chain | minecraft:block | bits_n_bobs:blocks/small_flanged_cogwheel_chain bits_n_bobs:small_flanged_cogwheel minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/tuff_tile_slab | minecraft:block | bits_n_bobs:blocks/tuff_tile_slab bits_n_bobs:tuff_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/tuff_tile_stairs | minecraft:block | bits_n_bobs:blocks/tuff_tile_stairs bits_n_bobs:tuff_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/tuff_tile_wall | minecraft:block | bits_n_bobs:blocks/tuff_tile_wall bits_n_bobs:tuff_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/tuff_tiles | minecraft:block | bits_n_bobs:blocks/tuff_tiles bits_n_bobs:tuff_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/veridium_tile_slab | minecraft:block | bits_n_bobs:blocks/veridium_tile_slab bits_n_bobs:veridium_tile_slab minecraft:block minecraft:block_state_property minecraft:explosion_decay minecraft:item minecraft:set_count
+bits_n_bobs:blocks/veridium_tile_stairs | minecraft:block | bits_n_bobs:blocks/veridium_tile_stairs bits_n_bobs:veridium_tile_stairs minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/veridium_tile_wall | minecraft:block | bits_n_bobs:blocks/veridium_tile_wall bits_n_bobs:veridium_tile_wall minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/veridium_tiles | minecraft:block | bits_n_bobs:blocks/veridium_tiles bits_n_bobs:veridium_tiles minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/weathered_girder_strut | minecraft:block | bits_n_bobs:blocks/weathered_girder_strut bits_n_bobs:weathered_girder_strut minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/weathered_metal_girder | minecraft:block | bits_n_bobs:blocks/weathered_metal_girder bits_n_bobs:weathered_metal_girder minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/weathered_metal_girder_encased_shaft | minecraft:block | bits_n_bobs:blocks/weathered_metal_girder_encased_shaft bits_n_bobs:weathered_metal_girder create:shaft minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/white_chair | minecraft:block | bits_n_bobs:blocks/white_chair bits_n_bobs:white_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/white_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/white_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/white_nixie_board | minecraft:block | bits_n_bobs:blocks/white_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/yellow_chair | minecraft:block | bits_n_bobs:blocks/yellow_chair bits_n_bobs:yellow_chair minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/yellow_large_nixie_tube | minecraft:block | bits_n_bobs:blocks/yellow_large_nixie_tube minecraft:air minecraft:block minecraft:item minecraft:survives_explosion
+bits_n_bobs:blocks/yellow_nixie_board | minecraft:block | bits_n_bobs:blocks/yellow_nixie_board minecraft:air minecraft:block minecraft:item minecraft:survives_explosion

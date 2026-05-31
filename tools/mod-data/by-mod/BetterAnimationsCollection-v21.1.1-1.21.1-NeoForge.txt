@@ -1,0 +1,21 @@
+# BetterAnimationsCollection-v21.1.1-1.21.1-NeoForge
+
+## mod metadata (id / version / deps)
+license = "MPL-2.0"
+modId = "betteranimationscollection"
+displayName = "Better Animations Collection"
+version = "21.1.1"
+modId = "neoforge"
+versionRange = "[21.1.21,)"
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "puzzleslib"
+versionRange = "[21.1.8,)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

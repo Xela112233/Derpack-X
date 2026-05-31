@@ -1,0 +1,6 @@
+structurize:caliper | minecraft:crafting_shaped | c:ingots/iron c:nuggets/iron c:rods/wooden minecraft:coals minecraft:crafting_shaped structurize:caliper
+structurize:fluid_substitution | minecraft:crafting_shaped | c:rods/wooden minecraft:bucket minecraft:crafting_shaped minecraft:logs structurize:blockfluidsubstitution
+structurize:light_substitution | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:iron_ingot minecraft:logs structurize:blocksubstitution
+structurize:sceptergold | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:stone_crafting_materials structurize:sceptergold
+structurize:sceptersteel | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:iron_ingot structurize:sceptersteel
+structurize:solid_substitution | minecraft:crafting_shaped | c:rods/wooden minecraft:crafting_shaped minecraft:iron_ingot minecraft:logs structurize:blocksolidsubstitution

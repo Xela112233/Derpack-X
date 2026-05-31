@@ -1,0 +1,17 @@
+# emoji-type-2.3.0-1.21.3-neoforge
+
+## mod metadata (id / version / deps)
+license = "GPL-3.0"
+modId = "emojitype"
+version = "2.3.0-1.21.3"
+displayName = "Emoji Type"
+modId = "neoforge"
+versionRange = "[21, 22)"
+
+## blocks
+
+## items
+
+## neoforge biome_modifiers
+
+## c: common tag membership

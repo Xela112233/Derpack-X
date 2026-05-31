@@ -1,0 +1,44 @@
+mffs:anti_friendly_module | minecraft:crafting_shaped | c:leathers c:slimeballs mffs:anti_friendly_module mffs:focus_matrix minecraft:cooked_porkchop minecraft:crafting_shaped minecraft:wool
+mffs:anti_hostile_module | minecraft:crafting_shaped | mffs:anti_hostile_module mffs:focus_matrix minecraft:bone minecraft:crafting_shaped minecraft:ghast_tear minecraft:gunpowder minecraft:rotten_flesh
+mffs:anti_personnel_module | minecraft:crafting_shaped | mffs:anti_friendly_module mffs:anti_hostile_module mffs:anti_personnel_module mffs:focus_matrix minecraft:crafting_shaped
+mffs:anti_spawn_module | minecraft:crafting_shaped | mffs:anti_friendly_module mffs:anti_hostile_module mffs:anti_spawn_module minecraft:crafting_shaped
+mffs:battery | minecraft:crafting_shaped | c:dusts/redstone c:ingots/copper c:ingots/iron mffs:battery minecraft:coals minecraft:crafting_shaped
+mffs:biometric_identifier | minecraft:crafting_shaped | c:ingots/steel mffs:biometric_identifier mffs:blank_card mffs:focus_matrix minecraft:crafting_shaped
+mffs:blank_card | minecraft:crafting_shaped | c:ingots/steel mffs:blank_card minecraft:crafting_shaped minecraft:paper
+mffs:block_access_module | minecraft:crafting_shaped | c:chests/wooden c:storage_blocks/iron mffs:block_access_module mffs:focus_matrix minecraft:crafting_shaped
+mffs:block_alter_module | minecraft:crafting_shaped | c:storage_blocks/gold mffs:block_access_module mffs:block_alter_module minecraft:crafting_shaped
+mffs:camouflage_module | minecraft:crafting_shaped | mffs:camouflage_module mffs:focus_matrix minecraft:crafting_shaped minecraft:wool
+mffs:capacity_module | minecraft:crafting_shaped | mffs:battery mffs:capacity_module mffs:focus_matrix minecraft:crafting_shaped
+mffs:coercion_deriver | minecraft:crafting_shaped | c:ingots/steel mffs:battery mffs:coercion_deriver mffs:focus_matrix minecraft:crafting_shaped
+mffs:collection_module | minecraft:crafting_shaped | mffs:collection_module mffs:focus_matrix minecraft:crafting_shaped minecraft:hopper
+mffs:confiscation_module | minecraft:crafting_shaped | mffs:confiscation_module mffs:focus_matrix minecraft:crafting_shaped minecraft:ender_eye minecraft:ender_pearl
+mffs:cube_mode | minecraft:crafting_shaped | mffs:cube_mode mffs:focus_matrix minecraft:crafting_shaped
+mffs:custom_mode | minecraft:crafting_shaped | mffs:cube_mode mffs:custom_mode mffs:focus_matrix mffs:pyramid_mode mffs:sphere_mode mffs:tube_mode minecraft:crafting_shaped
+mffs:cylinder_mode | minecraft:crafting_shaped | mffs:cylinder_mode mffs:sphere_mode minecraft:crafting_shaped
+mffs:disintegration_module | minecraft:crafting_shaped | mffs:battery mffs:disintegration_module mffs:focus_matrix minecraft:crafting_shaped minecraft:diamond_pickaxe
+mffs:dome_module | minecraft:crafting_shaped | mffs:dome_module mffs:focus_matrix minecraft:crafting_shaped
+mffs:focus_matrix | minecraft:crafting_shaped | c:dusts/redstone c:gems/diamond c:ingots/steel mffs:focus_matrix minecraft:crafting_shaped
+mffs:fortron_capacitor | minecraft:crafting_shaped | c:ingots/steel mffs:battery mffs:focus_matrix mffs:fortron_capacitor minecraft:crafting_shaped
+mffs:frequency_card | minecraft:crafting_shaped | c:ingots/gold mffs:blank_card mffs:frequency_card minecraft:crafting_shaped
+mffs:fusion_module | minecraft:crafting_shaped | mffs:focus_matrix mffs:fusion_module mffs:shock_module minecraft:crafting_shaped
+mffs:glow_module | minecraft:crafting_shaped | mffs:focus_matrix mffs:glow_module minecraft:crafting_shaped minecraft:glowstone
+mffs:id_card | minecraft:crafting_shaped | c:dusts/redstone mffs:blank_card mffs:id_card minecraft:crafting_shaped
+mffs:interdiction_matrix | minecraft:crafting_shaped | mffs:focus_matrix mffs:interdiction_matrix mffs:shock_module minecraft:crafting_shaped minecraft:ender_chest
+mffs:inverter_module | minecraft:crafting_shaped | c:storage_blocks/lapis mffs:focus_matrix mffs:inverter_module minecraft:crafting_shaped
+mffs:projector | minecraft:crafting_shaped | c:gems/diamond c:ingots/steel mffs:battery mffs:focus_matrix mffs:projector minecraft:crafting_shaped
+mffs:pyramid_mode | minecraft:crafting_shaped | mffs:focus_matrix mffs:pyramid_mode minecraft:crafting_shaped
+mffs:remote_controller | minecraft:crafting_shaped | c:dusts/redstone c:ingots/steel mffs:battery mffs:remote_controller minecraft:crafting_shaped
+mffs:rotation_module | minecraft:crafting_shaped | mffs:focus_matrix mffs:rotation_module minecraft:crafting_shaped
+mffs:scale_module | minecraft:crafting_shaped | mffs:focus_matrix mffs:scale_module minecraft:crafting_shaped
+mffs:shock_module | minecraft:crafting_shaped | mffs:focus_matrix mffs:shock_module minecraft:crafting_shaped minecraft:diamond
+mffs:silence_module | minecraft:crafting_shaped | mffs:focus_matrix mffs:silence_module minecraft:crafting_shaped minecraft:note_block
+mffs:speed_module | minecraft:crafting_shaped | c:dusts/redstone mffs:focus_matrix mffs:speed_module minecraft:crafting_shaped
+mffs:sphere_mode | minecraft:crafting_shaped | mffs:focus_matrix mffs:sphere_mode minecraft:crafting_shaped
+mffs:sponge_module | minecraft:crafting_shaped | mffs:focus_matrix mffs:sponge_module minecraft:crafting_shaped minecraft:sponge
+mffs:stabilization_module | minecraft:crafting_shaped | c:gems/diamond mffs:focus_matrix mffs:stabilization_module minecraft:crafting_shaped minecraft:diamond_axe minecraft:diamond_pickaxe minecraft:diamond_shovel
+mffs:steel_compound | minecraft:crafting_shaped | c:ingots/iron mffs:steel_compound minecraft:coals minecraft:crafting_shaped
+mffs:steel_ingot | minecraft:smelting | mffs:steel_compound mffs:steel_ingot minecraft:smelting
+mffs:translation_module | minecraft:crafting_shaped | mffs:focus_matrix mffs:scale_module mffs:translation_module minecraft:crafting_shaped
+mffs:tube_mode | minecraft:crafting_shaped | mffs:focus_matrix mffs:tube_mode minecraft:crafting_shaped
+mffs:warn_module | minecraft:crafting_shaped | mffs:focus_matrix mffs:warn_module minecraft:crafting_shaped minecraft:note_block
+mffs:handbook | patchouli:shapeless_book_recipe | forge:ingots/iron mffs:handbook minecraft:book neoforge:mod_loaded patchouli:shapeless_book_recipe

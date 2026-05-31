@@ -1,0 +1,224 @@
+mcwstairs:acacia_balcony | minecraft:crafting_shaped | mcwstairs:acacia_balcony minecraft:acacia_fence minecraft:crafting_shaped minecraft:stick
+mcwstairs:acacia_bulk_stairs | minecraft:crafting_shaped | mcwstairs:acacia_bulk_stairs minecraft:acacia_log minecraft:crafting_shaped minecraft:stripped_acacia_log
+mcwstairs:acacia_compact_stairs | minecraft:crafting_shaped | mcwstairs:acacia_compact_stairs minecraft:crafting_shaped minecraft:stripped_acacia_log
+mcwstairs:acacia_loft_stairs | minecraft:crafting_shaped | mcwstairs:acacia_loft_stairs minecraft:crafting_shaped minecraft:stripped_acacia_log
+mcwstairs:acacia_platform | minecraft:crafting_shaped | mcwstairs:acacia_platform minecraft:acacia_log minecraft:acacia_slab minecraft:crafting_shaped
+mcwstairs:acacia_railing | minecraft:crafting_shaped | mcwstairs:acacia_balcony mcwstairs:acacia_railing minecraft:crafting_shaped
+mcwstairs:acacia_skyline_stairs | minecraft:crafting_shaped | mcwstairs:acacia_skyline_stairs minecraft:acacia_log minecraft:crafting_shaped minecraft:stripped_acacia_log
+mcwstairs:acacia_terrace_stairs | minecraft:crafting_shaped | mcwstairs:acacia_terrace_stairs minecraft:acacia_log minecraft:crafting_shaped minecraft:stripped_acacia_log
+mcwstairs:andesite_balcony | minecraft:stonecutting | mcwstairs:andesite_balcony minecraft:andesite minecraft:stonecutting
+mcwstairs:andesite_bulk_stairs | minecraft:stonecutting | mcwstairs:andesite_bulk_stairs minecraft:andesite minecraft:stonecutting
+mcwstairs:andesite_compact_stairs | minecraft:stonecutting | mcwstairs:andesite_compact_stairs minecraft:andesite minecraft:stonecutting
+mcwstairs:andesite_loft_stairs | minecraft:stonecutting | mcwstairs:andesite_loft_stairs minecraft:andesite minecraft:stonecutting
+mcwstairs:andesite_platform | minecraft:stonecutting | mcwstairs:andesite_platform minecraft:andesite minecraft:stonecutting
+mcwstairs:andesite_railing | minecraft:stonecutting | mcwstairs:andesite_railing minecraft:andesite minecraft:stonecutting
+mcwstairs:andesite_skyline_stairs | minecraft:stonecutting | mcwstairs:andesite_skyline_stairs minecraft:andesite minecraft:stonecutting
+mcwstairs:andesite_terrace_stairs | minecraft:stonecutting | mcwstairs:andesite_terrace_stairs minecraft:andesite minecraft:stonecutting
+mcwstairs:birch_balcony | minecraft:crafting_shaped | mcwstairs:birch_balcony minecraft:birch_fence minecraft:crafting_shaped minecraft:stick
+mcwstairs:birch_bulk_stairs | minecraft:crafting_shaped | mcwstairs:birch_bulk_stairs minecraft:birch_log minecraft:crafting_shaped minecraft:stripped_birch_log
+mcwstairs:birch_compact_stairs | minecraft:crafting_shaped | mcwstairs:birch_compact_stairs minecraft:crafting_shaped minecraft:stripped_birch_log
+mcwstairs:birch_loft_stairs | minecraft:crafting_shaped | mcwstairs:birch_loft_stairs minecraft:crafting_shaped minecraft:stripped_birch_log
+mcwstairs:birch_platform | minecraft:crafting_shaped | mcwstairs:birch_platform minecraft:birch_log minecraft:birch_slab minecraft:crafting_shaped
+mcwstairs:birch_railing | minecraft:crafting_shaped | mcwstairs:birch_balcony mcwstairs:birch_railing minecraft:crafting_shaped
+mcwstairs:birch_skyline_stairs | minecraft:crafting_shaped | mcwstairs:birch_skyline_stairs minecraft:birch_log minecraft:crafting_shaped minecraft:stripped_birch_log
+mcwstairs:birch_terrace_stairs | minecraft:crafting_shaped | mcwstairs:birch_terrace_stairs minecraft:birch_log minecraft:crafting_shaped minecraft:stripped_birch_log
+mcwstairs:blackstone_balcony | minecraft:stonecutting | mcwstairs:blackstone_balcony minecraft:blackstone minecraft:stonecutting
+mcwstairs:blackstone_bulk_stairs | minecraft:stonecutting | mcwstairs:blackstone_bulk_stairs minecraft:blackstone minecraft:stonecutting
+mcwstairs:blackstone_compact_stairs | minecraft:stonecutting | mcwstairs:blackstone_compact_stairs minecraft:blackstone minecraft:stonecutting
+mcwstairs:blackstone_loft_stairs | minecraft:stonecutting | mcwstairs:blackstone_loft_stairs minecraft:blackstone minecraft:stonecutting
+mcwstairs:blackstone_platform | minecraft:stonecutting | mcwstairs:blackstone_platform minecraft:blackstone minecraft:stonecutting
+mcwstairs:blackstone_railing | minecraft:stonecutting | mcwstairs:blackstone_railing minecraft:blackstone minecraft:stonecutting
+mcwstairs:blackstone_skyline_stairs | minecraft:stonecutting | mcwstairs:blackstone_skyline_stairs minecraft:blackstone minecraft:stonecutting
+mcwstairs:blackstone_terrace_stairs | minecraft:stonecutting | mcwstairs:blackstone_terrace_stairs minecraft:blackstone minecraft:stonecutting
+mcwstairs:brick_balcony | minecraft:stonecutting | mcwstairs:brick_balcony minecraft:bricks minecraft:stonecutting
+mcwstairs:brick_bulk_stairs | minecraft:stonecutting | mcwstairs:brick_bulk_stairs minecraft:bricks minecraft:stonecutting
+mcwstairs:brick_compact_stairs | minecraft:stonecutting | mcwstairs:brick_compact_stairs minecraft:bricks minecraft:stonecutting
+mcwstairs:brick_loft_stairs | minecraft:stonecutting | mcwstairs:brick_loft_stairs minecraft:bricks minecraft:stonecutting
+mcwstairs:brick_platform | minecraft:stonecutting | mcwstairs:brick_platform minecraft:bricks minecraft:stonecutting
+mcwstairs:brick_railing | minecraft:stonecutting | mcwstairs:brick_railing minecraft:bricks minecraft:stonecutting
+mcwstairs:brick_skyline_stairs | minecraft:stonecutting | mcwstairs:brick_skyline_stairs minecraft:bricks minecraft:stonecutting
+mcwstairs:brick_terrace_stairs | minecraft:stonecutting | mcwstairs:brick_terrace_stairs minecraft:bricks minecraft:stonecutting
+mcwstairs:cherry_balcony | minecraft:crafting_shaped | mcwstairs:cherry_balcony minecraft:cherry_fence minecraft:crafting_shaped minecraft:stick
+mcwstairs:cherry_bulk_stairs | minecraft:crafting_shaped | mcwstairs:cherry_bulk_stairs minecraft:cherry_log minecraft:crafting_shaped minecraft:stripped_cherry_log
+mcwstairs:cherry_compact_stairs | minecraft:crafting_shaped | mcwstairs:cherry_compact_stairs minecraft:crafting_shaped minecraft:stripped_cherry_log
+mcwstairs:cherry_loft_stairs | minecraft:crafting_shaped | mcwstairs:cherry_loft_stairs minecraft:crafting_shaped minecraft:stripped_cherry_log
+mcwstairs:cherry_platform | minecraft:crafting_shaped | mcwstairs:cherry_platform minecraft:cherry_log minecraft:cherry_slab minecraft:crafting_shaped
+mcwstairs:cherry_railing | minecraft:crafting_shaped | mcwstairs:cherry_balcony mcwstairs:cherry_railing minecraft:crafting_shaped
+mcwstairs:cherry_skyline_stairs | minecraft:crafting_shaped | mcwstairs:cherry_skyline_stairs minecraft:cherry_log minecraft:crafting_shaped minecraft:stripped_cherry_log
+mcwstairs:cherry_terrace_stairs | minecraft:crafting_shaped | mcwstairs:cherry_terrace_stairs minecraft:cherry_log minecraft:crafting_shaped minecraft:stripped_cherry_log
+mcwstairs:cobbled_deepslate_balcony | minecraft:stonecutting | mcwstairs:cobbled_deepslate_balcony minecraft:cobbled_deepslate minecraft:stonecutting
+mcwstairs:cobbled_deepslate_bulk_stairs | minecraft:stonecutting | mcwstairs:cobbled_deepslate_bulk_stairs minecraft:cobbled_deepslate minecraft:stonecutting
+mcwstairs:cobbled_deepslate_compact_stairs | minecraft:stonecutting | mcwstairs:cobbled_deepslate_compact_stairs minecraft:cobbled_deepslate minecraft:stonecutting
+mcwstairs:cobbled_deepslate_loft_stairs | minecraft:stonecutting | mcwstairs:cobbled_deepslate_loft_stairs minecraft:cobbled_deepslate minecraft:stonecutting
+mcwstairs:cobbled_deepslate_platform | minecraft:stonecutting | mcwstairs:cobbled_deepslate_platform minecraft:cobbled_deepslate minecraft:stonecutting
+mcwstairs:cobbled_deepslate_railing | minecraft:stonecutting | mcwstairs:cobbled_deepslate_railing minecraft:cobbled_deepslate minecraft:stonecutting
+mcwstairs:cobbled_deepslate_skyline_stairs | minecraft:stonecutting | mcwstairs:cobbled_deepslate_skyline_stairs minecraft:cobbled_deepslate minecraft:stonecutting
+mcwstairs:cobbled_deepslate_terrace_stairs | minecraft:stonecutting | mcwstairs:cobbled_deepslate_terrace_stairs minecraft:cobbled_deepslate minecraft:stonecutting
+mcwstairs:cobblestone_balcony | minecraft:stonecutting | mcwstairs:cobblestone_balcony minecraft:cobblestone minecraft:stonecutting
+mcwstairs:cobblestone_bulk_stairs | minecraft:stonecutting | mcwstairs:cobblestone_bulk_stairs minecraft:cobblestone minecraft:stonecutting
+mcwstairs:cobblestone_compact_stairs | minecraft:stonecutting | mcwstairs:cobblestone_compact_stairs minecraft:cobblestone minecraft:stonecutting
+mcwstairs:cobblestone_loft_stairs | minecraft:stonecutting | mcwstairs:cobblestone_loft_stairs minecraft:cobblestone minecraft:stonecutting
+mcwstairs:cobblestone_platform | minecraft:stonecutting | mcwstairs:cobblestone_platform minecraft:cobblestone minecraft:stonecutting
+mcwstairs:cobblestone_railing | minecraft:stonecutting | mcwstairs:cobblestone_railing minecraft:cobblestone minecraft:stonecutting
+mcwstairs:cobblestone_skyline_stairs | minecraft:stonecutting | mcwstairs:cobblestone_skyline_stairs minecraft:cobblestone minecraft:stonecutting
+mcwstairs:cobblestone_terrace_stairs | minecraft:stonecutting | mcwstairs:cobblestone_terrace_stairs minecraft:cobblestone minecraft:stonecutting
+mcwstairs:crimson_balcony | minecraft:crafting_shaped | mcwstairs:crimson_balcony minecraft:crafting_shaped minecraft:crimson_fence minecraft:stick
+mcwstairs:crimson_bulk_stairs | minecraft:crafting_shaped | mcwstairs:crimson_bulk_stairs minecraft:crafting_shaped minecraft:crimson_stem minecraft:stripped_crimson_stem
+mcwstairs:crimson_compact_stairs | minecraft:crafting_shaped | mcwstairs:crimson_compact_stairs minecraft:crafting_shaped minecraft:stripped_crimson_stem
+mcwstairs:crimson_loft_stairs | minecraft:crafting_shaped | mcwstairs:crimson_loft_stairs minecraft:crafting_shaped minecraft:stripped_crimson_stem
+mcwstairs:crimson_platform | minecraft:crafting_shaped | mcwstairs:crimson_platform minecraft:crafting_shaped minecraft:crimson_slab minecraft:crimson_stem
+mcwstairs:crimson_railing | minecraft:crafting_shaped | mcwstairs:crimson_balcony mcwstairs:crimson_railing minecraft:crafting_shaped
+mcwstairs:crimson_skyline_stairs | minecraft:crafting_shaped | mcwstairs:crimson_skyline_stairs minecraft:crafting_shaped minecraft:crimson_stem minecraft:stripped_crimson_stem
+mcwstairs:crimson_terrace_stairs | minecraft:crafting_shaped | mcwstairs:crimson_terrace_stairs minecraft:crafting_shaped minecraft:crimson_stem minecraft:stripped_crimson_stem
+mcwstairs:dark_oak_balcony | minecraft:crafting_shaped | mcwstairs:dark_oak_balcony minecraft:crafting_shaped minecraft:dark_oak_fence minecraft:stick
+mcwstairs:dark_oak_bulk_stairs | minecraft:crafting_shaped | mcwstairs:dark_oak_bulk_stairs minecraft:crafting_shaped minecraft:dark_oak_log minecraft:stripped_dark_oak_log
+mcwstairs:dark_oak_compact_stairs | minecraft:crafting_shaped | mcwstairs:dark_oak_compact_stairs minecraft:crafting_shaped minecraft:stripped_dark_oak_log
+mcwstairs:dark_oak_loft_stairs | minecraft:crafting_shaped | mcwstairs:dark_oak_loft_stairs minecraft:crafting_shaped minecraft:stripped_dark_oak_log
+mcwstairs:dark_oak_platform | minecraft:crafting_shaped | mcwstairs:dark_oak_platform minecraft:crafting_shaped minecraft:dark_oak_log minecraft:dark_oak_slab
+mcwstairs:dark_oak_railing | minecraft:crafting_shaped | mcwstairs:dark_oak_balcony mcwstairs:dark_oak_railing minecraft:crafting_shaped
+mcwstairs:dark_oak_skyline_stairs | minecraft:crafting_shaped | mcwstairs:dark_oak_skyline_stairs minecraft:crafting_shaped minecraft:dark_oak_log minecraft:stripped_dark_oak_log
+mcwstairs:dark_oak_terrace_stairs | minecraft:crafting_shaped | mcwstairs:dark_oak_terrace_stairs minecraft:crafting_shaped minecraft:dark_oak_log minecraft:stripped_dark_oak_log
+mcwstairs:deepslate_brick_balcony | minecraft:stonecutting | mcwstairs:deepslate_brick_balcony minecraft:deepslate_bricks minecraft:stonecutting
+mcwstairs:deepslate_brick_bulk_stairs | minecraft:stonecutting | mcwstairs:deepslate_brick_bulk_stairs minecraft:deepslate_bricks minecraft:stonecutting
+mcwstairs:deepslate_brick_compact_stairs | minecraft:stonecutting | mcwstairs:deepslate_brick_compact_stairs minecraft:deepslate_bricks minecraft:stonecutting
+mcwstairs:deepslate_brick_loft_stairs | minecraft:stonecutting | mcwstairs:deepslate_brick_loft_stairs minecraft:deepslate_bricks minecraft:stonecutting
+mcwstairs:deepslate_brick_platform | minecraft:stonecutting | mcwstairs:deepslate_brick_platform minecraft:deepslate_bricks minecraft:stonecutting
+mcwstairs:deepslate_brick_railing | minecraft:stonecutting | mcwstairs:deepslate_brick_railing minecraft:deepslate_bricks minecraft:stonecutting
+mcwstairs:deepslate_brick_skyline_stairs | minecraft:stonecutting | mcwstairs:deepslate_brick_skyline_stairs minecraft:deepslate_bricks minecraft:stonecutting
+mcwstairs:deepslate_brick_terrace_stairs | minecraft:stonecutting | mcwstairs:deepslate_brick_terrace_stairs minecraft:deepslate_bricks minecraft:stonecutting
+mcwstairs:diorite_balcony | minecraft:stonecutting | mcwstairs:diorite_balcony minecraft:diorite minecraft:stonecutting
+mcwstairs:diorite_bulk_stairs | minecraft:stonecutting | mcwstairs:diorite_bulk_stairs minecraft:diorite minecraft:stonecutting
+mcwstairs:diorite_compact_stairs | minecraft:stonecutting | mcwstairs:diorite_compact_stairs minecraft:diorite minecraft:stonecutting
+mcwstairs:diorite_loft_stairs | minecraft:stonecutting | mcwstairs:diorite_loft_stairs minecraft:diorite minecraft:stonecutting
+mcwstairs:diorite_platform | minecraft:stonecutting | mcwstairs:diorite_platform minecraft:diorite minecraft:stonecutting
+mcwstairs:diorite_railing | minecraft:stonecutting | mcwstairs:diorite_railing minecraft:diorite minecraft:stonecutting
+mcwstairs:diorite_skyline_stairs | minecraft:stonecutting | mcwstairs:diorite_skyline_stairs minecraft:diorite minecraft:stonecutting
+mcwstairs:diorite_terrace_stairs | minecraft:stonecutting | mcwstairs:diorite_terrace_stairs minecraft:diorite minecraft:stonecutting
+mcwstairs:granite_balcony | minecraft:stonecutting | mcwstairs:granite_balcony minecraft:granite minecraft:stonecutting
+mcwstairs:granite_bulk_stairs | minecraft:stonecutting | mcwstairs:granite_bulk_stairs minecraft:granite minecraft:stonecutting
+mcwstairs:granite_compact_stairs | minecraft:stonecutting | mcwstairs:granite_compact_stairs minecraft:granite minecraft:stonecutting
+mcwstairs:granite_loft_stairs | minecraft:stonecutting | mcwstairs:granite_loft_stairs minecraft:granite minecraft:stonecutting
+mcwstairs:granite_platform | minecraft:stonecutting | mcwstairs:granite_platform minecraft:granite minecraft:stonecutting
+mcwstairs:granite_railing | minecraft:stonecutting | mcwstairs:granite_railing minecraft:granite minecraft:stonecutting
+mcwstairs:granite_skyline_stairs | minecraft:stonecutting | mcwstairs:granite_skyline_stairs minecraft:granite minecraft:stonecutting
+mcwstairs:granite_terrace_stairs | minecraft:stonecutting | mcwstairs:granite_terrace_stairs minecraft:granite minecraft:stonecutting
+mcwstairs:jungle_balcony | minecraft:crafting_shaped | mcwstairs:jungle_balcony minecraft:crafting_shaped minecraft:jungle_fence minecraft:stick
+mcwstairs:jungle_bulk_stairs | minecraft:crafting_shaped | mcwstairs:jungle_bulk_stairs minecraft:crafting_shaped minecraft:jungle_log minecraft:stripped_jungle_log
+mcwstairs:jungle_compact_stairs | minecraft:crafting_shaped | mcwstairs:jungle_compact_stairs minecraft:crafting_shaped minecraft:stripped_jungle_log
+mcwstairs:jungle_loft_stairs | minecraft:crafting_shaped | mcwstairs:jungle_loft_stairs minecraft:crafting_shaped minecraft:stripped_jungle_log
+mcwstairs:jungle_platform | minecraft:crafting_shaped | mcwstairs:jungle_platform minecraft:crafting_shaped minecraft:jungle_log minecraft:jungle_slab
+mcwstairs:jungle_railing | minecraft:crafting_shaped | mcwstairs:jungle_balcony mcwstairs:jungle_railing minecraft:crafting_shaped
+mcwstairs:jungle_skyline_stairs | minecraft:crafting_shaped | mcwstairs:jungle_skyline_stairs minecraft:crafting_shaped minecraft:jungle_log minecraft:stripped_jungle_log
+mcwstairs:jungle_terrace_stairs | minecraft:crafting_shaped | mcwstairs:jungle_terrace_stairs minecraft:crafting_shaped minecraft:jungle_log minecraft:stripped_jungle_log
+mcwstairs:mangrove_balcony | minecraft:crafting_shaped | mcwstairs:mangrove_balcony minecraft:crafting_shaped minecraft:mangrove_fence minecraft:stick
+mcwstairs:mangrove_bulk_stairs | minecraft:crafting_shaped | mcwstairs:mangrove_bulk_stairs minecraft:crafting_shaped minecraft:mangrove_log minecraft:stripped_mangrove_log
+mcwstairs:mangrove_compact_stairs | minecraft:crafting_shaped | mcwstairs:mangrove_compact_stairs minecraft:crafting_shaped minecraft:stripped_mangrove_log
+mcwstairs:mangrove_loft_stairs | minecraft:crafting_shaped | mcwstairs:mangrove_loft_stairs minecraft:crafting_shaped minecraft:stripped_mangrove_log
+mcwstairs:mangrove_platform | minecraft:crafting_shaped | mcwstairs:mangrove_platform minecraft:crafting_shaped minecraft:mangrove_log minecraft:mangrove_slab
+mcwstairs:mangrove_railing | minecraft:crafting_shaped | mcwstairs:mangrove_balcony mcwstairs:mangrove_railing minecraft:crafting_shaped
+mcwstairs:mangrove_skyline_stairs | minecraft:crafting_shaped | mcwstairs:mangrove_skyline_stairs minecraft:crafting_shaped minecraft:mangrove_log minecraft:stripped_mangrove_log
+mcwstairs:mangrove_terrace_stairs | minecraft:crafting_shaped | mcwstairs:mangrove_terrace_stairs minecraft:crafting_shaped minecraft:mangrove_log minecraft:stripped_mangrove_log
+mcwstairs:mossy_cobblestone_balcony | minecraft:stonecutting | mcwstairs:mossy_cobblestone_balcony minecraft:mossy_cobblestone minecraft:stonecutting
+mcwstairs:mossy_cobblestone_bulk_stairs | minecraft:stonecutting | mcwstairs:mossy_cobblestone_bulk_stairs minecraft:mossy_cobblestone minecraft:stonecutting
+mcwstairs:mossy_cobblestone_compact_stairs | minecraft:stonecutting | mcwstairs:mossy_cobblestone_compact_stairs minecraft:mossy_cobblestone minecraft:stonecutting
+mcwstairs:mossy_cobblestone_loft_stairs | minecraft:stonecutting | mcwstairs:mossy_cobblestone_loft_stairs minecraft:mossy_cobblestone minecraft:stonecutting
+mcwstairs:mossy_cobblestone_platform | minecraft:stonecutting | mcwstairs:mossy_cobblestone_platform minecraft:mossy_cobblestone minecraft:stonecutting
+mcwstairs:mossy_cobblestone_railing | minecraft:stonecutting | mcwstairs:mossy_cobblestone_railing minecraft:mossy_cobblestone minecraft:stonecutting
+mcwstairs:mossy_cobblestone_skyline_stairs | minecraft:stonecutting | mcwstairs:mossy_cobblestone_skyline_stairs minecraft:mossy_cobblestone minecraft:stonecutting
+mcwstairs:mossy_cobblestone_terrace_stairs | minecraft:stonecutting | mcwstairs:mossy_cobblestone_terrace_stairs minecraft:mossy_cobblestone minecraft:stonecutting
+mcwstairs:mossy_stone_brick_balcony | minecraft:stonecutting | mcwstairs:mossy_stone_brick_balcony minecraft:mossy_stone_bricks minecraft:stonecutting
+mcwstairs:mossy_stone_brick_bulk_stairs | minecraft:stonecutting | mcwstairs:mossy_stone_brick_bulk_stairs minecraft:mossy_stone_bricks minecraft:stonecutting
+mcwstairs:mossy_stone_brick_compact_stairs | minecraft:stonecutting | mcwstairs:mossy_stone_brick_compact_stairs minecraft:mossy_stone_bricks minecraft:stonecutting
+mcwstairs:mossy_stone_brick_loft_stairs | minecraft:stonecutting | mcwstairs:mossy_stone_brick_loft_stairs minecraft:mossy_stone_bricks minecraft:stonecutting
+mcwstairs:mossy_stone_brick_platform | minecraft:stonecutting | mcwstairs:mossy_stone_brick_platform minecraft:mossy_stone_bricks minecraft:stonecutting
+mcwstairs:mossy_stone_brick_railing | minecraft:stonecutting | mcwstairs:mossy_stone_brick_railing minecraft:mossy_stone_bricks minecraft:stonecutting
+mcwstairs:mossy_stone_brick_skyline_stairs | minecraft:stonecutting | mcwstairs:mossy_stone_brick_skyline_stairs minecraft:mossy_stone_bricks minecraft:stonecutting
+mcwstairs:mossy_stone_brick_terrace_stairs | minecraft:stonecutting | mcwstairs:mossy_stone_brick_terrace_stairs minecraft:mossy_stone_bricks minecraft:stonecutting
+mcwstairs:mud_brick_balcony | minecraft:stonecutting | mcwstairs:mud_brick_balcony minecraft:mud_bricks minecraft:stonecutting
+mcwstairs:mud_brick_bulk_stairs | minecraft:stonecutting | mcwstairs:mud_brick_bulk_stairs minecraft:mud_bricks minecraft:stonecutting
+mcwstairs:mud_brick_compact_stairs | minecraft:stonecutting | mcwstairs:mud_brick_compact_stairs minecraft:mud_bricks minecraft:stonecutting
+mcwstairs:mud_brick_loft_stairs | minecraft:stonecutting | mcwstairs:mud_brick_loft_stairs minecraft:mud_bricks minecraft:stonecutting
+mcwstairs:mud_brick_platform | minecraft:stonecutting | mcwstairs:mud_brick_platform minecraft:mud_bricks minecraft:stonecutting
+mcwstairs:mud_brick_railing | minecraft:stonecutting | mcwstairs:mud_brick_railing minecraft:mud_bricks minecraft:stonecutting
+mcwstairs:mud_brick_skyline_stairs | minecraft:stonecutting | mcwstairs:mud_brick_skyline_stairs minecraft:mud_bricks minecraft:stonecutting
+mcwstairs:mud_brick_terrace_stairs | minecraft:stonecutting | mcwstairs:mud_brick_terrace_stairs minecraft:mud_bricks minecraft:stonecutting
+mcwstairs:nether_brick_balcony | minecraft:stonecutting | mcwstairs:nether_brick_balcony minecraft:nether_bricks minecraft:stonecutting
+mcwstairs:nether_brick_bulk_stairs | minecraft:stonecutting | mcwstairs:nether_brick_bulk_stairs minecraft:nether_bricks minecraft:stonecutting
+mcwstairs:nether_brick_compact_stairs | minecraft:stonecutting | mcwstairs:nether_brick_compact_stairs minecraft:nether_bricks minecraft:stonecutting
+mcwstairs:nether_brick_loft_stairs | minecraft:stonecutting | mcwstairs:nether_brick_loft_stairs minecraft:nether_bricks minecraft:stonecutting
+mcwstairs:nether_brick_platform | minecraft:stonecutting | mcwstairs:nether_brick_platform minecraft:nether_bricks minecraft:stonecutting
+mcwstairs:nether_brick_railing | minecraft:stonecutting | mcwstairs:nether_brick_railing minecraft:nether_bricks minecraft:stonecutting
+mcwstairs:nether_brick_skyline_stairs | minecraft:stonecutting | mcwstairs:nether_brick_skyline_stairs minecraft:nether_bricks minecraft:stonecutting
+mcwstairs:nether_brick_terrace_stairs | minecraft:stonecutting | mcwstairs:nether_brick_terrace_stairs minecraft:nether_bricks minecraft:stonecutting
+mcwstairs:oak_balcony | minecraft:crafting_shaped | mcwstairs:oak_balcony minecraft:crafting_shaped minecraft:oak_fence minecraft:stick
+mcwstairs:oak_bulk_stairs | minecraft:crafting_shaped | mcwstairs:oak_bulk_stairs minecraft:crafting_shaped minecraft:oak_log minecraft:stripped_oak_log
+mcwstairs:oak_compact_stairs | minecraft:crafting_shaped | mcwstairs:oak_compact_stairs minecraft:crafting_shaped minecraft:stripped_oak_log
+mcwstairs:oak_loft_stairs | minecraft:crafting_shaped | mcwstairs:oak_loft_stairs minecraft:crafting_shaped minecraft:stripped_oak_log
+mcwstairs:oak_platform | minecraft:crafting_shaped | mcwstairs:oak_platform minecraft:crafting_shaped minecraft:oak_log minecraft:oak_slab
+mcwstairs:oak_railing | minecraft:crafting_shaped | mcwstairs:oak_balcony mcwstairs:oak_railing minecraft:crafting_shaped
+mcwstairs:oak_skyline_stairs | minecraft:crafting_shaped | mcwstairs:oak_skyline_stairs minecraft:crafting_shaped minecraft:oak_log minecraft:stripped_oak_log
+mcwstairs:oak_terrace_stairs | minecraft:crafting_shaped | mcwstairs:oak_terrace_stairs minecraft:crafting_shaped minecraft:oak_log minecraft:stripped_oak_log
+mcwstairs:prismarine_balcony | minecraft:stonecutting | mcwstairs:prismarine_balcony minecraft:prismarine minecraft:stonecutting
+mcwstairs:prismarine_bulk_stairs | minecraft:stonecutting | mcwstairs:prismarine_bulk_stairs minecraft:prismarine minecraft:stonecutting
+mcwstairs:prismarine_compact_stairs | minecraft:stonecutting | mcwstairs:prismarine_compact_stairs minecraft:prismarine minecraft:stonecutting
+mcwstairs:prismarine_loft_stairs | minecraft:stonecutting | mcwstairs:prismarine_loft_stairs minecraft:prismarine minecraft:stonecutting
+mcwstairs:prismarine_platform | minecraft:stonecutting | mcwstairs:prismarine_platform minecraft:prismarine minecraft:stonecutting
+mcwstairs:prismarine_railing | minecraft:stonecutting | mcwstairs:prismarine_railing minecraft:prismarine minecraft:stonecutting
+mcwstairs:prismarine_skyline_stairs | minecraft:stonecutting | mcwstairs:prismarine_skyline_stairs minecraft:prismarine minecraft:stonecutting
+mcwstairs:prismarine_terrace_stairs | minecraft:stonecutting | mcwstairs:prismarine_terrace_stairs minecraft:prismarine minecraft:stonecutting
+mcwstairs:quartz_balcony | minecraft:stonecutting | mcwstairs:quartz_balcony minecraft:quartz_block minecraft:stonecutting
+mcwstairs:quartz_bulk_stairs | minecraft:stonecutting | mcwstairs:quartz_bulk_stairs minecraft:quartz_block minecraft:stonecutting
+mcwstairs:quartz_compact_stairs | minecraft:stonecutting | mcwstairs:quartz_compact_stairs minecraft:quartz_block minecraft:stonecutting
+mcwstairs:quartz_loft_stairs | minecraft:stonecutting | mcwstairs:quartz_loft_stairs minecraft:quartz_block minecraft:stonecutting
+mcwstairs:quartz_platform | minecraft:stonecutting | mcwstairs:quartz_platform minecraft:quartz_block minecraft:stonecutting
+mcwstairs:quartz_railing | minecraft:stonecutting | mcwstairs:quartz_railing minecraft:quartz_block minecraft:stonecutting
+mcwstairs:quartz_skyline_stairs | minecraft:stonecutting | mcwstairs:quartz_skyline_stairs minecraft:quartz_block minecraft:stonecutting
+mcwstairs:quartz_terrace_stairs | minecraft:stonecutting | mcwstairs:quartz_terrace_stairs minecraft:quartz_block minecraft:stonecutting
+mcwstairs:red_nether_brick_balcony | minecraft:stonecutting | mcwstairs:red_nether_brick_balcony minecraft:red_nether_bricks minecraft:stonecutting
+mcwstairs:red_nether_brick_bulk_stairs | minecraft:stonecutting | mcwstairs:red_nether_brick_bulk_stairs minecraft:red_nether_bricks minecraft:stonecutting
+mcwstairs:red_nether_brick_compact_stairs | minecraft:stonecutting | mcwstairs:red_nether_brick_compact_stairs minecraft:red_nether_bricks minecraft:stonecutting
+mcwstairs:red_nether_brick_loft_stairs | minecraft:stonecutting | mcwstairs:red_nether_brick_loft_stairs minecraft:red_nether_bricks minecraft:stonecutting
+mcwstairs:red_nether_brick_platform | minecraft:stonecutting | mcwstairs:red_nether_brick_platform minecraft:red_nether_bricks minecraft:stonecutting
+mcwstairs:red_nether_brick_railing | minecraft:stonecutting | mcwstairs:red_nether_brick_railing minecraft:red_nether_bricks minecraft:stonecutting
+mcwstairs:red_nether_brick_skyline_stairs | minecraft:stonecutting | mcwstairs:red_nether_brick_skyline_stairs minecraft:red_nether_bricks minecraft:stonecutting
+mcwstairs:red_nether_brick_terrace_stairs | minecraft:stonecutting | mcwstairs:red_nether_brick_terrace_stairs minecraft:red_nether_bricks minecraft:stonecutting
+mcwstairs:red_sandstone_balcony | minecraft:stonecutting | mcwstairs:red_sandstone_balcony minecraft:red_sandstone minecraft:stonecutting
+mcwstairs:red_sandstone_bulk_stairs | minecraft:stonecutting | mcwstairs:red_sandstone_bulk_stairs minecraft:red_sandstone minecraft:stonecutting
+mcwstairs:red_sandstone_compact_stairs | minecraft:stonecutting | mcwstairs:red_sandstone_compact_stairs minecraft:red_sandstone minecraft:stonecutting
+mcwstairs:red_sandstone_loft_stairs | minecraft:stonecutting | mcwstairs:red_sandstone_loft_stairs minecraft:red_sandstone minecraft:stonecutting
+mcwstairs:red_sandstone_platform | minecraft:stonecutting | mcwstairs:red_sandstone_platform minecraft:red_sandstone minecraft:stonecutting
+mcwstairs:red_sandstone_railing | minecraft:stonecutting | mcwstairs:red_sandstone_railing minecraft:red_sandstone minecraft:stonecutting
+mcwstairs:red_sandstone_skyline_stairs | minecraft:stonecutting | mcwstairs:red_sandstone_skyline_stairs minecraft:red_sandstone minecraft:stonecutting
+mcwstairs:red_sandstone_terrace_stairs | minecraft:stonecutting | mcwstairs:red_sandstone_terrace_stairs minecraft:red_sandstone minecraft:stonecutting
+mcwstairs:sandstone_balcony | minecraft:stonecutting | mcwstairs:sandstone_balcony minecraft:sandstone minecraft:stonecutting
+mcwstairs:sandstone_bulk_stairs | minecraft:stonecutting | mcwstairs:sandstone_bulk_stairs minecraft:sandstone minecraft:stonecutting
+mcwstairs:sandstone_compact_stairs | minecraft:stonecutting | mcwstairs:sandstone_compact_stairs minecraft:sandstone minecraft:stonecutting
+mcwstairs:sandstone_loft_stairs | minecraft:stonecutting | mcwstairs:sandstone_loft_stairs minecraft:sandstone minecraft:stonecutting
+mcwstairs:sandstone_platform | minecraft:stonecutting | mcwstairs:sandstone_platform minecraft:sandstone minecraft:stonecutting
+mcwstairs:sandstone_railing | minecraft:stonecutting | mcwstairs:sandstone_railing minecraft:sandstone minecraft:stonecutting
+mcwstairs:sandstone_skyline_stairs | minecraft:stonecutting | mcwstairs:sandstone_skyline_stairs minecraft:sandstone minecraft:stonecutting
+mcwstairs:sandstone_terrace_stairs | minecraft:stonecutting | mcwstairs:sandstone_terrace_stairs minecraft:sandstone minecraft:stonecutting
+mcwstairs:spruce_balcony | minecraft:crafting_shaped | mcwstairs:spruce_balcony minecraft:crafting_shaped minecraft:spruce_fence minecraft:stick
+mcwstairs:spruce_bulk_stairs | minecraft:crafting_shaped | mcwstairs:spruce_bulk_stairs minecraft:crafting_shaped minecraft:spruce_log minecraft:stripped_spruce_log
+mcwstairs:spruce_compact_stairs | minecraft:crafting_shaped | mcwstairs:spruce_compact_stairs minecraft:crafting_shaped minecraft:stripped_spruce_log
+mcwstairs:spruce_loft_stairs | minecraft:crafting_shaped | mcwstairs:spruce_loft_stairs minecraft:crafting_shaped minecraft:stripped_spruce_log
+mcwstairs:spruce_platform | minecraft:crafting_shaped | mcwstairs:spruce_platform minecraft:crafting_shaped minecraft:spruce_log minecraft:spruce_slab
+mcwstairs:spruce_railing | minecraft:crafting_shaped | mcwstairs:spruce_balcony mcwstairs:spruce_railing minecraft:crafting_shaped
+mcwstairs:spruce_skyline_stairs | minecraft:crafting_shaped | mcwstairs:spruce_skyline_stairs minecraft:crafting_shaped minecraft:spruce_log minecraft:stripped_spruce_log
+mcwstairs:spruce_terrace_stairs | minecraft:crafting_shaped | mcwstairs:spruce_terrace_stairs minecraft:crafting_shaped minecraft:spruce_log minecraft:stripped_spruce_log
+mcwstairs:stone_brick_balcony | minecraft:stonecutting | mcwstairs:stone_brick_balcony minecraft:stone_bricks minecraft:stonecutting
+mcwstairs:stone_brick_bulk_stairs | minecraft:stonecutting | mcwstairs:stone_brick_bulk_stairs minecraft:stone_bricks minecraft:stonecutting
+mcwstairs:stone_brick_compact_stairs | minecraft:stonecutting | mcwstairs:stone_brick_compact_stairs minecraft:stone_bricks minecraft:stonecutting
+mcwstairs:stone_brick_loft_stairs | minecraft:stonecutting | mcwstairs:stone_brick_loft_stairs minecraft:stone_bricks minecraft:stonecutting
+mcwstairs:stone_brick_platform | minecraft:stonecutting | mcwstairs:stone_brick_platform minecraft:stone_bricks minecraft:stonecutting
+mcwstairs:stone_brick_railing | minecraft:stonecutting | mcwstairs:stone_brick_railing minecraft:stone_bricks minecraft:stonecutting
+mcwstairs:stone_brick_skyline_stairs | minecraft:stonecutting | mcwstairs:stone_brick_skyline_stairs minecraft:stone_bricks minecraft:stonecutting
+mcwstairs:stone_brick_terrace_stairs | minecraft:stonecutting | mcwstairs:stone_brick_terrace_stairs minecraft:stone_bricks minecraft:stonecutting
+mcwstairs:warped_balcony | minecraft:crafting_shaped | mcwstairs:warped_balcony minecraft:crafting_shaped minecraft:stick minecraft:warped_fence
+mcwstairs:warped_bulk_stairs | minecraft:crafting_shaped | mcwstairs:warped_bulk_stairs minecraft:crafting_shaped minecraft:stripped_warped_stem minecraft:warped_stem
+mcwstairs:warped_compact_stairs | minecraft:crafting_shaped | mcwstairs:warped_compact_stairs minecraft:crafting_shaped minecraft:stripped_warped_stem
+mcwstairs:warped_loft_stairs | minecraft:crafting_shaped | mcwstairs:warped_loft_stairs minecraft:crafting_shaped minecraft:stripped_warped_stem
+mcwstairs:warped_platform | minecraft:crafting_shaped | mcwstairs:warped_platform minecraft:crafting_shaped minecraft:warped_slab minecraft:warped_stem
+mcwstairs:warped_railing | minecraft:crafting_shaped | mcwstairs:warped_balcony mcwstairs:warped_railing minecraft:crafting_shaped
+mcwstairs:warped_skyline_stairs | minecraft:crafting_shaped | mcwstairs:warped_skyline_stairs minecraft:crafting_shaped minecraft:stripped_warped_stem minecraft:warped_stem
+mcwstairs:warped_terrace_stairs | minecraft:crafting_shaped | mcwstairs:warped_terrace_stairs minecraft:crafting_shaped minecraft:stripped_warped_stem minecraft:warped_stem

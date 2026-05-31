@@ -1,0 +1,4 @@
+rottencreatures:corrupted_wart | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:nether_wart rottencreatures:corrupted_wart rottencreatures:frozen_rotten_flesh
+rottencreatures:rotten_flesh_from_campfire_cooking | minecraft:campfire_cooking | minecraft:campfire_cooking minecraft:rotten_flesh rottencreatures:frozen_rotten_flesh
+rottencreatures:rotten_flesh_from_smoking | minecraft:smoking | minecraft:rotten_flesh minecraft:smoking rottencreatures:frozen_rotten_flesh
+rottencreatures:tnt_barrel | minecraft:crafting_shaped | minecraft:barrel minecraft:crafting_shaped minecraft:gunpowder rottencreatures:tnt_barrel

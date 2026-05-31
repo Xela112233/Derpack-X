@@ -1,0 +1,3 @@
+sliceanddice:blocks/slicer | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion sliceanddice:blocks/slicer sliceanddice:slicer
+sliceanddice:blocks/sprinkler | minecraft:block | minecraft:block minecraft:item minecraft:survives_explosion sliceanddice:blocks/sprinkler sliceanddice:sprinkler
+sliceanddice:blocks/wet_air | minecraft:block | minecraft:air minecraft:block minecraft:item minecraft:survives_explosion sliceanddice:blocks/wet_air

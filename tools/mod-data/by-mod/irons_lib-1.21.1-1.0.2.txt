@@ -1,0 +1,30 @@
+# irons_lib-1.21.1-1.0.2
+
+## mod metadata (id / version / deps)
+license = "All Rights Reserved"
+modId = "irons_lib" #mandatory
+version = "1.21.1-1.0.2" #mandatory
+displayName = "Iron's Lib" #mandatory
+modId = "neoforge" #mandatory
+versionRange = "[21.1.200,)" #mandatory
+modId = "minecraft"
+versionRange = "[1.21.1]"
+modId = "geckolib"
+versionRange = "4.7.5.1"
+modId = "irons_patreon_lib"
+
+## blocks
+irons_lib:player_statue
+irons_lib:transmog_table
+irons_patreon_lib:player_statue
+irons_patreon_lib:transmog_table
+
+## items
+irons_lib:player_statue
+irons_lib:transmog_table
+irons_patreon_lib:player_statue
+irons_patreon_lib:transmog_table
+
+## neoforge biome_modifiers
+
+## c: common tag membership
