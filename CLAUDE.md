@@ -1,6 +1,10 @@
 # CLAUDE.md — Derpack X
 
-Create-focused Minecraft modpack for **1.21.1 / NeoForge**, built around Create Aeronautics (airships/planes/vehicles via Create-style contraptions). Distributed as **packwiz manifests, not jars**: the repo holds one `.pw.toml` per mod (download URL + hash), and CI builds a `.mrpack` and a Prism installer zip on release. Pre-alpha, friend-group pack. Deeper background lives in `docs/DESIGN.md`.
+A **broad, kitchen-sink survival modpack** for **1.21.1 / NeoForge** — food, structures, magic, colonies, mobs, decoration, vehicles — unified by one **spine: a Create-driven scarcity economy**. Built around Create (including **Create Aeronautics**: airships/planes/vehicles); ores are scarce and regional, and the loop is **mine → process through Create → manufacture goods → sell for currency (Numismatics)**.
+
+**Design north star — the spine must penetrate every branch.** Breadth is intentional, but each content branch should route *through* the Create economy as far as is feasible: gate progression, power, and resources behind Create processing and the currency loop (via recipe changes and loot tuning) rather than letting a mod stand as a self-contained parallel system. For any add or change, ask: **does this plug into the Create spine, or bypass it?** — prefer the former, and *integrate rather than cut*. The why lives in `docs/DESIGN.md`; the live modlist audit + path-forward in `docs/MODLIST-AUDIT.md`.
+
+Distributed as **packwiz manifests, not jars**: the repo holds one `.pw.toml` per mod (download URL + hash), and CI builds a `.mrpack` and a Prism installer zip on release. Pre-alpha, friend-group pack.
 
 ## Where you're running: Claude Code on the web
 
