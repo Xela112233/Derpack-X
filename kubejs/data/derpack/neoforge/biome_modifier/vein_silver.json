@@ -1,0 +1,1 @@
+{ "type": "neoforge:add_features", "biomes": [ "#minecraft:is_hill", "terralith:rocky_mountains", "terralith:scarlet_mountains", "terralith:granite_cliffs" ], "features": "derpack:vein_silver", "step": "underground_ores" }

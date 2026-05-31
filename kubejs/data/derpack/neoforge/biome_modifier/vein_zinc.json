@@ -1,0 +1,1 @@
+{ "type": "neoforge:add_features", "biomes": [ "#minecraft:is_savanna", "minecraft:plains", "minecraft:sunflower_plains", "minecraft:meadow", "terralith:highlands", "terralith:steppe" ], "features": "derpack:vein_zinc", "step": "underground_ores" }
