@@ -451,6 +451,11 @@ hash = "9659152903c07ccc018e00e09ffe021d78da8be78a83a19ffe269c251e0cd191"
 metafile = true
 
 [[files]]
+file = "mods/create-immersive-tacz-integration.pw.toml"
+hash = "667f5f7cce682baba103c2e07cc811d9bbd14e4813361a7db4c9e81f9478a93f"
+metafile = true
+
+[[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "fc49d6cf786feaabbb26ae0109498f5dab7c20fc939bdd650a38d46a31803e7c"
 metafile = true
@@ -582,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -1813,4 +1818,9 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
+metafile = true
+
+[[files]]
+file = "tacz/create-armorer.pw.toml"
+hash = "e36be1aa65dbe26928639cee2b054773209d257038f9835cd4a7482995e93655"
 metafile = true
