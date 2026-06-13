@@ -334,7 +334,8 @@ The Part 1 README/PR explicitly hands these to Part 2 (the maintainer asked that
 2. **Tier-gated claim allowances** (a *governance* feature, in the catalog as `AUTOMATIC`). Citizens
    start with a small OPAC claim pool; advancing a realm's tier (city growth) raises the per-citizen
    allowance; leaders hold a larger pool to **grant**. This makes the tier ladder *mean something
-   tangible* (land budget) and weaves governance into the claim economy. Sits in 2b/later.
+   tangible* (land budget) and weaves governance into the claim economy. Sits in 2b/later. **Formalized by
+   the charter system (§7.2)** — a charter is the grant vehicle; a bare allowance is its simplest form.
 3. **Hard-limiting claims (open).** Enforcing those allowances (preventing over-allowance claims)
    depends on OPAC exposing **either** a *settable per-player claim limit* **or** a *cancellable
    claim-creation event* — neither verified yet. This is a **shared spike with the territory mod**
@@ -354,7 +355,9 @@ but rides OPAC's **parties/allies** and shared **claim budget**, transferable bo
 
 **Model.** A ship-realm is a **municipality-kind entity bound to an aeroclaims sub-level** rather than a
 colony — a *mobile outpost*. It holds laws, promotes, and can join a federation (a flagship as a member of
-its nation) like any municipality; its footprint is the ship, not chunks.
+its nation) like any municipality; its footprint is the ship, not chunks. **Founding a ship-realm requires
+an `AIRSHIP` charter from a high-tier entity (§7.2)** — anyone may aeroclaim a ship for protection, but a
+charter is what turns it into a recognized outpost.
 
 **Embassy / extraterritoriality — the precedence rule.** For an entity **aboard a claimed sub-level the
 ship-realm governs and overrides whatever territory the ship is over or inside** — its primary faction's
@@ -376,6 +379,40 @@ that repo). Part 2 doesn't block on it — until it lands, ship governance simpl
 **Soft enforcement has no native teeth aboard** — no MineColonies guards ride a ship — so on-ship `SOCIAL`
 enforcement is player/bounty-driven, like an OPAC-only jurisdiction (§5). (Ship-mounted turrets/cannons as
 "guards" is a speculative later weave, not scoped.)
+
+### 7.2 Charters — high-tier entities license special claims and enterprises
+
+**Maintainer decision:** special claims/enterprises — **airship claims (§7.1), mines, farms,** and the like
+— are **chartered**: a player or lower entity may establish one only under a **charter** granted by a
+**high-tier political entity**. Chartering is a *power of scale*, like minting.
+
+- **Who may issue.** Config-gated; default **CITY-tier municipalities and all federations (COUNTY+)**.
+  Settlements/villages/towns can't charter — chartering (with minting) is what high tiers are *for*,
+  reinforcing the climb. (Minting stays federation-only; chartering is deliberately a touch broader to
+  include high cities, per the maintainer.)
+- **What a charter is.** A typed grant record `{issuer, holder (player|entity), type, terms, obligations,
+  revocable}`.
+  - **Type** — an **extensible registry** (mirrors the `LawType` pattern): `AIRSHIP` (a sub-level outpost →
+    a ship-realm, §7.1), `MINE`, `FARM`, … (`TRADING_POST`/`FACTORY` later). MVP of the feature: the
+    framework + `AIRSHIP` + one or two of `MINE`/`FARM`.
+  - **Terms** — allowance/count, optional area or duration, revocability.
+  - **Obligations** — a chartered enterprise typically owes the issuer **tax/tribute** (`AUTOMATIC` fiscal
+    hook, Part 3): the **value-loop weave** — charters turn high-tier political power into a revenue stream,
+    funnelling mine/farm/airship output up into the issuer's treasury.
+- **Subsumes "tier-gated claim allowances" (§7 item 2).** A charter is the formal grant vehicle; the bare
+  allowance grant is just its simplest form.
+- **Layer, not a claim system (enforcement).** The claim mods still own *protection* (anyone may aeroclaim
+  a ship or fence a field). The charter gates **political/economic recognition + special rights** —
+  founding a **ship-realm**, or registering a **recognized mine/farm enterprise** (allowance + tax terms) —
+  a Part 2 registration act, so it's **hard at the founding layer** (the mod refuses an unchartered
+  founding). *Hard-gating the raw claim itself* depends on the **OPAC/aeroclaims claim-limit API** (the same
+  open spike as §7 item 3); without it, running an **unchartered** enterprise is a **`SOCIAL` "unlicensed"
+  violation** (wanted/fineable) — which fits the taxonomy.
+- **Scope:** **2b/later** — charters need the tier ladder + federations to exist first.
+
+**Design anchor.** A strong second-weave: **Economy** (governance issues value-bearing licenses; tax flows
+up) × **Survival/production** (mines, farms) × **logistics/aeronautics** (airships) — it makes high tiers
+economically meaningful and gives the production pillars a political dimension.
 
 ---
 
@@ -411,6 +448,9 @@ Part 1 already ships `/realm found | info | whogoverns | debug bindclaim`. Part 
 /realm law list                        (CITIZEN; what's in force here, with the deciding tier)
 /realm fine <player> <amount> [reason] (OFFICER; OFFICER-settled penalty — auto-withdraw via Part 3)
 /realm wanted [player]                 (CITIZEN; view active wanted status in this jurisdiction)
+/realm charter grant <type> <holder>   (LEADER, CITY+/federation; license a mine/farm/airship — §7.2)
+/realm charter list                    (CITIZEN; charters issued by / held in this realm)
+/realm charter revoke <id>             (LEADER, issuer; revoke a charter)
 /realm mint <amount>                   (LEADER; Part 3 — federation+, against reserves)
 ```
 
@@ -483,6 +523,11 @@ exactly as Part 1↔Part 2.
       ship jurisdictions, or is a "turret/cannon-as-guard" weave worth a later spike?
 - [ ] **Guard integration delivery (§5):** addon vs. fork — recommendation is addon-first; the build
       instance makes the final call against the §5 decision aid once the spike confirms `setPlayerRank`.
+- [ ] **Charter issuer threshold (§7.2):** CITY-tier municipalities + all federations (recommended), or
+      restrict to federations like minting, or open it to TOWN+?
+- [ ] **Chartered-enterprise types in the charter MVP (§7.2):** `AIRSHIP` first only, or `AIRSHIP` +
+      `MINE`/`FARM` together? And do charters carry **tax obligations** from the start (Part 3) or ship
+      rights-only first? *(Recommendation: rights-only framework in 2b; obligations land with Part 3.)*
 
 ---
 
