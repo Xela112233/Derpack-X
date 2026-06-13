@@ -128,7 +128,7 @@ the action's position (§6), walks that entity's ancestry, and applies the winni
 
 | LawType | Mode | Event / trigger | Effect |
 | --- | --- | --- | --- |
-| PVP | SOCIAL | `LivingIncomingDamageEvent` (player→player) | **Do not cancel.** Mark attacker "wanted" + trigger MineColonies guard aggro (scope §5); no guards → no effect. |
+| PVP | SOCIAL | `LivingIncomingDamageEvent` (player→player) | **Do not cancel.** Mark the *unprovoked* attacker "wanted" (self-defense exempt) + trigger MineColonies guard aggro (scope §5); no guards → no effect. |
 | ITEM_BAN | SOCIAL | `PlayerInteractEvent` / region-entry inventory check | Flag a violation → guard aggro; not a hard use-block. |
 | TAX | AUTOMATIC | hook on Trading Floor sale + (optional) colony output | Skim `rate` into the entity treasury (§5; Part 3 moves the coin). |
 | STIPEND | AUTOMATIC | coarse scheduler (scope §6) | Pay `amount` per citizen from the treasury (Part 3). |

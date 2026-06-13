@@ -113,7 +113,7 @@ automate, and what it must leave to people (and guards), are different things.**
 | --- | --- | --- | --- |
 | **`AUTOMATIC`** (hard) | the mod, no human | Applies a mechanical effect directly and reliably. Reserved for **money/state the government legitimately controls** — never for blocking a player's *physical* action. | **Tax**: a cut comes out of a transaction automatically. **Stipend**: a weekly citizen payment is deposited automatically. |
 | **`OFFICER`** (hybrid) | a human officer triggers; the mod settles | The *judgment* is a person's; the *settlement* is automatic. | **Fine**: a designated officer enacts the fine (the mod does not auto-detect the crime), **but the withdrawal of funds is automatic** once enacted. |
-| **`SOCIAL`** (soft) | the player base / MineColonies guards | The mod **never blocks the action**. It records the violation and raises a **consequence signal** (guard aggression, "wanted" status, optional bounty). **If no enforcer is present, nothing happens** — the offender gets away with it. | **PvP ban**: making PvP illegal does **not** stop me killing another player — instead MineColonies guards attack me; if none are near, I get away with it. |
+| **`SOCIAL`** (soft) | the player base / MineColonies guards | The mod **never blocks the action**. It records the violation and raises a **consequence signal** (guard aggression, "wanted" status, optional bounty). **If no enforcer is present, nothing happens** — the offender gets away with it. A matching act counts only if it **fails an exception check** first (e.g. self-defense; §5). | **PvP ban**: making PvP illegal does **not** stop me killing another player — instead MineColonies guards attack me; if none are near, I get away with it. |
 
 ### Why this split (the design rationale)
 
@@ -145,7 +145,7 @@ the **enforcement mode** column and the new fiscal/penalty types.
 
 | Law / act | Mode | Mechanism (Part 2 unless noted) | Lands in | MVP? |
 | --- | --- | --- | --- | --- |
-| **PVP** (`ALLOW`/`DENY`) | `SOCIAL` | On player→player damage in a `DENY` jurisdiction: **do not cancel**; mark attacker "wanted" there and trigger guard aggression (§5). No guards → no effect. | 2a | ✅ |
+| **PVP** (`ALLOW`/`DENY`) | `SOCIAL` | On player→player damage in a `DENY` jurisdiction: **do not cancel**; mark the *unprovoked* attacker "wanted" (self-defense exempt, §5) and trigger guard aggression. No guards → no effect. | 2a | ✅ |
 | **TRESPASS / non-member entry** | `SOCIAL` | Non-member in a restricted jurisdiction → guard aggression / wanted. (Hard *block* of build/use is already the claim mods' job — don't duplicate it; see note below.) | 2a | optional |
 | **CONTRABAND / ITEM_BAN** (tag/item set) | `SOCIAL` | Possessing/using a banned item in-region flags a violation → guard aggression. (A `customs`-style border confiscation is a later `AUTOMATIC` variant.) | 2b | later |
 | **CURFEW** (tick window) | `SOCIAL` | Being out in-region during the window → wanted/guard aggro. TPS-sensitive; defer. | later | later |
@@ -174,6 +174,41 @@ This is the mechanism that makes `SOCIAL` laws real, and the **highest-risk new 
 maintainers' target behavior: *"if I make a law that makes PvP illegal that shouldn't mean I can't kill
 another player; instead MineColonies guards should attack me, or if none are near I should get away with
 it."*
+
+### A violation must clear an **exception check** first (self-defense, and others)
+
+A soft law that flags *every* matching act punishes the wrong player — most obviously, **defending
+yourself**: if someone attacks you, retaliating must not make *you* wanted. So the SOCIAL pipeline has
+three steps, not two: **detect a candidate act → run a justification check → only an *unjustified* act
+raises the wanted signal** (and the guard aggro below). A justified act is a full no-op — no wanted
+status, no guards, no bounty.
+
+**Self-defense (the primary built-in, MVP).** The rule is **the first striker is the violator.** When A
+attacks B unprovoked in a no-PvP jurisdiction, A is flagged; when B hits back, B is *not* flagged,
+because A is B's recent aggressor. Mechanism: a short-lived per-pair **aggression record** — on every
+player→player hit note `(attacker, target, tick)` (vanilla already tracks revenge via
+`LivingEntity#getLastHurtByMob` + timestamp; a small `Map` keyed by attacker suffices). On a candidate
+hit, if the *target* damaged the *attacker* within a config **combat window** (default ~15s), the hit is
+retaliation → **suppress**. The original aggressor stays flagged from their own first strike; the
+defender never is.
+
+Further justifications, in rough priority (keep MVP to self-defense; the rest are cheap once the check
+exists):
+
+- **The target is already wanted/an outlaw → open season.** Attacking a player currently wanted in this
+  jurisdiction is *sanctioned*, not a crime — the attacker isn't flagged. Citizens become effective
+  deputies, and it pairs naturally with bounties (hunting an outlaw is lawful). Strong MVP candidate —
+  same wanted-table lookup, no new data.
+- **Defense of another.** Striking someone who is *currently attacking a fellow member/citizen* extends
+  self-defense to third parties. A little more state (who's attacking whom) → 2b+.
+- **Consented combat (duels / arenas).** Mutual opt-in (a `/duel` accept) or a jurisdiction-designated
+  arena zone exempts both parties. A later nicety, not MVP.
+
+**Generalize the check, not just the cases.** Model it as a pluggable **`Justification`** step the
+SOCIAL evaluator runs for *any* law — so CONTRABAND can later exempt in-transit goods, TRESPASS a player
+fleeing combat, etc., without re-plumbing each law. Self-defense is simply the first registered
+justification. **Risk is low:** this is vanilla combat bookkeeping (a small per-player map + existing
+revenge timestamps), not a new external dependency like the guard integration it gates.
 
 ### Mechanism (leading hypothesis — verify in the spike)
 
@@ -343,6 +378,10 @@ exactly as Part 1↔Part 2.
       (ties the soft law into the economy value-loop), or keep bounties a separate manual system for now?
 - [ ] **TRESPASS / CONTRABAND / CURFEW in MVP scope, or PVP-only for 2a?** *(Recommendation: PVP-only for
       2a; it proves the whole pipeline. Add the rest in 2b once the mode dispatch is solid.)*
+- [ ] **Which exceptions ship in MVP (§5), and the combat-window length?** Self-defense is non-negotiable;
+      is "attacking an already-wanted outlaw is open season" also MVP (recommended — same lookup), or do
+      defense-of-another / consented duels wait for 2b? *(Recommendation: self-defense + outlaw-open-season
+      in 2a; default combat window ~15s, config.)*
 - [ ] **Stipend funding when the treasury is dry:** skip the run (recommended), pay partial (first-come),
       or accrue arrears? *(Recommendation: skip + log; no debt.)*
 - [ ] **Fine target scope:** can an officer fine *any* player who offended in-jurisdiction, or only
