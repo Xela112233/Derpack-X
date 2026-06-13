@@ -201,8 +201,12 @@ exists):
   same wanted-table lookup, no new data.
 - **Defense of another.** Striking someone who is *currently attacking a fellow member/citizen* extends
   self-defense to third parties. A little more state (who's attacking whom) → 2b+.
-- **Consented combat (duels / arenas).** Mutual opt-in (a `/duel` accept) or a jurisdiction-designated
-  arena zone exempts both parties. A later nicety, not MVP.
+- **Consented combat (duels / arenas).** Mutual opt-in or a jurisdiction-designated arena zone exempts
+  both parties. The pack already ships **`opacpvp` (OPAC PvP Support, v1.0.1)** — a per-player
+  mutual-consent PvP toggle for *party* members (`/opacpvp`; both must enable, and it *hard-blocks* member
+  friendly-fire by default). A ready-made consent surface to read for this exception, and it works on the
+  party-consent axis — orthogonal to the territorial PvP law, so the two compose rather than conflict
+  (member friendly-fire is opacpvp's call; outsiders in-jurisdiction are the governance law's). Later, not MVP.
 
 **Generalize the check, not just the cases.** Model it as a pluggable **`Justification`** step the
 SOCIAL evaluator runs for *any* law — so CONTRABAND can later exempt in-transit goods, TRESPASS a player
@@ -214,8 +218,13 @@ revenge timestamps), not a new external dependency like the guard integration it
 
 MineColonies guards already attack players natively via the colony **permission system**: each colony
 ranks players, and a rank with the **"Fight Guards" permission** (the **Hostile** rank by default) is
-attacked by that colony's guards on sight. (Confirmed from the MineColonies wiki/issue tracker:
-"Fight Guards" causes guards to treat the player as an enemy; it is intended for hostile-ranked players.)
+attacked by that colony's guards on sight. Confirmed on two points: the **rank setter is public API** —
+`IPermissions#setPlayerRank(UUID, Rank, Level)` (plus `add(UUID, name, Rank)`) in
+`com.minecolonies.api.colony.permissions`, the surface addon developers use — and guard targeting
+**natively attacks pvp-hostile players** (`AbstractEntityAIGuard` target acquisition; upstream specifically
+fixed "guards not targeting pvp-hostile players"). Guards carry a ~30s combat timer (`COMBAT_TIME = 30*20t`)
+and a per-guard attack list. *(Exact signatures still to be confirmed against the pinned snapshot in the
+spike — the pack runs MineColonies snapshots.)*
 
 So Part 2's `SOCIAL` enforcement is: **on a violation in a colony-governed jurisdiction, set the
 offender's MineColonies rank in that colony to a Fight-Guards rank for a time-boxed "wanted" window.**
@@ -225,10 +234,9 @@ wanted timer expires, restore the prior rank.
 
 ### Spike (do this first, before any enforcement code)
 
-1. **Is rank assignment API-reachable?** Verify `IColony#getPermissions()` exposes programmatic
-   rank/player assignment (something like `setPlayerRank` / `addPlayer(UUID, Rank)` — names to confirm
-   by decompiling the pinned `1.1.1327`, *do not guess*). Compile a real call in a dev env, exactly as
-   Part 1 spiked its lookups.
+1. **Confirm the rank API on the pinned snapshot.** `IPermissions#setPlayerRank(UUID, Rank, Level)` is the
+   target (public `api.colony.permissions`); verify its exact signature on `1.1.1327` and compile a real
+   call in a dev env, exactly as Part 1 spiked its lookups. (Known to exist; snapshots can shift it.)
 2. **Does setting it actually make guards aggro a player in-game?** Static compile ≠ runtime — this needs
    the box (a guard, a Hostile-ranked test player). Add it to the Part 2 playtest checklist.
 3. **Restore semantics.** Confirm we can read the prior rank and put it back; make wanted-state
@@ -243,14 +251,54 @@ wanted timer expires, restore the prior rank.
   subscribe. This is the most robust shape regardless of the guard API and is probably worth building
   **anyway** as the canonical soft-law output, with the rank-flip as one consumer.
 
+### Delivering the guard integration: MineColonies addon vs. fork (decision aid)
+
+The maintainers are weighing a **MineColonies addon** (a separate mod calling MineColonies' public API)
+against **forking MineColonies** (shipping a modified MineColonies in place of upstream). The framework for
+the build instance to decide:
+
+**What soft-law guard enforcement actually needs:** (1) make a specific player attackable by a specific
+colony's guards on demand; (2) scope it to that jurisdiction and to *nearby* guards, with "none near →
+nothing happens"; (3) time-box it and restore.
+
+**The rank/permission path covers all three through the *public API* — so an addon is sufficient for the
+core mechanism:**
+- `IPermissions#setPlayerRank(...)` flips the offender to a Fight-Guards (Hostile) rank → guards attack
+  natively (req 1).
+- Rank is **per-colony**, so aggression auto-scopes to the jurisdiction; guard **vision range** gives
+  locality and "no guards → get away with it" for free (req 2).
+- Read the prior rank, restore it when the window ends (req 3).
+- **Prior art:** *MineColonies: War 'N Taxes* is an existing **addon** adding taxes + war to colonies —
+  evidence the public surface carries this class of feature without a fork.
+
+**What would justify a fork — only guard *behaviour the binary rank can't express*:** graduated response
+(warn → fine → attack), non-lethal/subdue or **jailing**, guards **pursuing past the colony border**, or
+targeting keyed to offense severity / a bounty rather than the on/off Hostile rank. Target acquisition
+lives in `AbstractEntityAIGuard` (`checkForTarget`/`decide`) with **no public hook to inject a target**, so
+reshaping *how* guards choose targets means editing MineColonies source. (A fork does **not** create guards
+where there are none — OPAC-only land and ship-realms still have no guards aboard.)
+
+**A fork's cost is high and pack-wide:** it **replaces upstream MineColonies for every player** (blast
+radius = the whole pack, vs. an additive soft-dep that breaks nothing if removed); the pack runs
+MineColonies **snapshots** (`1.1.1327`), so a fork must **continuously rebase** on upstream or freeze and
+forfeit updates — a standing tax this repo's snapshot-drift notes already call out; and it's two custom
+mods to maintain instead of one.
+
+**Recommendation: addon-first.** Build the integration as MineColonies-API calls inside `pcmc-realms` (or a
+thin companion), gated behind the §5 spike. Treat a fork as a **later, separate** decision triggered only by
+a concrete need for custom guard *behaviour* the rank system provably can't deliver — and budget it as
+*replacing a core pack dependency*, not an addon-sized task. Decide against that bar.
+
 ### Edge cases to design for
 
 - **OPAC-only jurisdictions have no guards.** A realm governing land via bound OPAC claims (no colony)
   has nothing to aggro — `SOCIAL` enforcement there is *purely* player-driven (wanted status + bounty,
   no NPC teeth). That's acceptable and on-theme; document it so it isn't read as a bug.
-- **Aeronautics ships over a border** (per spec §9 / `aeronauticscompat`): a violation resolves by the
-  block position under the actor; a ship crossing a no-PvP border mid-fight is governed by whatever chunk
-  it's over at the hit. Flag for playtest whether that feels right.
+- **Airships are their own jurisdiction (and extraterritorial)** — maintainer decision: a claimed Create
+  Aeronautics ship is a city/outpost-tier entity that stays its own faction's soil even inside another
+  faction's claims (an embassy). Its own design point — see §7.1. For enforcement: a ship has **no
+  MineColonies guards aboard**, so `SOCIAL` enforcement on a ship is player/bounty-driven (like the
+  OPAC-only case above); hard laws (tax/stipend/fine) and the wanted-signal still apply aboard.
 - **Wanted decay & escalation.** Single window length in config for MVP; later, repeat offences could
   escalate (longer window, auto-bounty). Keep MVP simple.
 
@@ -293,6 +341,42 @@ The Part 1 README/PR explicitly hands these to Part 2 (the maintainer asked that
    (its open question too). If neither exists, allowances degrade to *soft* (a `SOCIAL` "illegal
    over-claim" rather than a hard cap) — which fits the taxonomy fine.
 
+### 7.1 Airships are their own jurisdiction (city/outpost-tier) — and extraterritorial (embassies)
+
+**Maintainer decisions:** (a) a claimed Create Aeronautics airship is **its own city/outpost** for law — a
+first-class jurisdiction, not terrain it flies over; and (b) a ship inside another faction's claims **stays
+its own (primary) faction's soil — an embassy** (extraterritoriality).
+
+**Substrate.** The pack ships **`aeroclaims` (Create Aeronautics: Claims, v0.9.0, Modrinth `CwZ8q37q`)** —
+claim a Create Aeronautics **sub-level** (the ship) via a claim block + GUI. Separate from OPAC chunk claims
+but rides OPAC's **parties/allies** and shared **claim budget**, transferable both ways
+(`/aeroclaims transfer to opac|aero`). So a ship already carries an owner/party — the hook a realm binds to.
+
+**Model.** A ship-realm is a **municipality-kind entity bound to an aeroclaims sub-level** rather than a
+colony — a *mobile outpost*. It holds laws, promotes, and can join a federation (a flagship as a member of
+its nation) like any municipality; its footprint is the ship, not chunks.
+
+**Embassy / extraterritoriality — the precedence rule.** For an entity **aboard a claimed sub-level the
+ship-realm governs and overrides whatever territory the ship is over or inside** — its primary faction's
+laws apply on deck even within another faction's colony/claim, and the leaf→root walk follows the *ship's*
+hierarchy, not the host's. Resolution checks **"on a claimed sub-level?" first**; only off-ship does it fall
+to chunk resolution. The general principle: **a realm's own claims are sovereign enclaves (embassies),
+governed by their owner, not the host they sit inside.** *(Open: Part 1 currently has colony borders
+strict-shield their chunks, so a chunk-level enclave inside a colony is hidden today. The embassy rule is
+unambiguous for **sub-levels** (ship over ground); whether it also overturns colony-shielding for **chunk**
+enclaves is a precedence call to settle with Part 1 — §12.)*
+
+**This is territory's job (issues to file, §13).** `TerritoryApi.resolve(level, chunkPos)` is **chunk-based**
+and won't see a sub-level claim — so both the **resolution source** (map entity → sub-level → owner → realm)
+and the **embassy precedence** (sub-level wins over the chunk beneath) are **`pcmc-territory` changes** (the
+resolver owns "who governs this position"). Captured as territory issues in §13 (this session can't write to
+that repo). Part 2 doesn't block on it — until it lands, ship governance simply can't resolve.
+
+**Enforcement aboard.** Hard laws (tax/stipend/fine) and the wanted-signal work on a ship-realm normally.
+**Soft enforcement has no native teeth aboard** — no MineColonies guards ride a ship — so on-ship `SOCIAL`
+enforcement is player/bounty-driven, like an OPAC-only jurisdiction (§5). (Ship-mounted turrets/cannons as
+"guards" is a speculative later weave, not scoped.)
+
 ---
 
 ## 8. Tiers, promotion, federation (from spec §3, unchanged — recap)
@@ -306,6 +390,9 @@ Carried from `GOVERNANCE-MOD-SPEC.md` §3; no change, recapped so this doc stand
   footprint (claimed chunks), development (Town Hall level). Thresholds in `realms-server.toml`.
 - **Federations are composed, not promoted** — `/realm federate` needs ≥ N (config, default 2) consenting
   members of ≥ TOWN. **Recursive `carve`** lets a KINGDOM+ spawn a child one rank below.
+- **An entity may bind an `aeroclaims` sub-level (a mobile outpost) instead of a colony** (§7.1) —
+  ship-realms sit at the municipality kind and promote/federate like any other; their footprint metric is
+  the ship, not claimed chunks.
 
 ---
 
@@ -388,6 +475,37 @@ exactly as Part 1↔Part 2.
       members? Can a player be fined while not present/online (auto-withdraw on next login)?
 - [ ] **Should `Role` be promoted into Part 1's `api` package** (§2) so Part 2's contract is
       self-contained? *(Recommendation: yes — file it on the territory mod.)*
+- [ ] **Embassy vs. colony-shielding precedence (§7.1):** sub-level (ship) claims clearly override the
+      ground they sit on; should a realm's **chunk** enclave inside another faction's colony also be an
+      embassy, overturning Part 1's current colony-shielding for that case? *(Recommendation: ships-only
+      embassy for MVP; revisit chunk enclaves with Part 1.)*
+- [ ] **On-ship soft enforcement (§7.1):** no guards ride a ship — is player/bounty enforcement enough for
+      ship jurisdictions, or is a "turret/cannon-as-guard" weave worth a later spike?
+- [ ] **Guard integration delivery (§5):** addon vs. fork — recommendation is addon-first; the build
+      instance makes the final call against the §5 decision aid once the spike confirms `setPlayerRank`.
+
+---
+
+## 13. Cross-repo: `pcmc-territory` issues to file
+
+> Ship-as-jurisdiction (§7.1) needs Part 1 (territory) resolver work. **This session's GitHub scope is
+> limited to `theasshats/project-commonwealth` and cannot write to `theasshats/pcmc-territory`** (an
+> `issue_write` there was denied; the repo-scoping tools to add it aren't available in this session). So
+> these are captured here to file on that repo — by a session scoped to it, or by hand.
+
+**Issue 1 — Resolve `aeroclaims` sub-level claims (claimed airships resolve as ungoverned).**
+`resolve(level, chunkPos)` is chunk-based (OPAC chunk claims + MineColonies colonies); an `aeroclaims`
+claim is bound to a **sub-level**, not a chunk, so a player on a claimed ship resolves to *ungoverned*.
+Add a resolution source mapping *entity → sub-level it's on → owning party/claim → entity*. Spike whether
+`aeroclaims` exposes the sub-level's owning party/owner via API. Not blocking Part 2 MVP (resolve by the
+ground chunk until then), but the chunk-only assumption should be a documented limitation.
+
+**Issue 2 — Precedence: a claimed sub-level is extraterritorial over the territory beneath it (embassy).**
+When a claimed ship sits inside/over another faction's claim, occupants **aboard** are governed by the
+**ship-realm**, not the host. Define the resolver precedence "on a claimed sub-level wins over the chunk
+claim/colony beneath," and decide whether the same embassy rule extends to **chunk** enclaves (a realm's
+OPAC claim inside another's colony), which would revisit Part 1's current colony-shielding. May fold into
+Issue 1 as its precedence half.
 
 ---
 
@@ -395,4 +513,5 @@ _Refs: [`GOVERNANCE-MOD-SPEC.md`](GOVERNANCE-MOD-SPEC.md) (the whole-project 3-m
 §4 law engine, §3 tiers, §8 parts); [`GOVERNANCE.md`](GOVERNANCE.md) (scoping + path comparison);
 [`CUSTOM-MODS.md`](CUSTOM-MODS.md) (own-repo + mod-mirror pattern); `docs/SYSTEMS.md` §3a
 (event-driven/position-local perf doctrine); issue #260; `theasshats/pcmc-territory` PR #1 (the Part 1
-source this contract is read from) and its issue #3 (resolver thread-safety)._
+source this contract is read from) and its issue #3 (resolver thread-safety); `aeroclaims` (Modrinth
+`CwZ8q37q`), `opacpvp` (OPAC PvP Support), and MineColonies *War 'N Taxes* (addon prior art)._
