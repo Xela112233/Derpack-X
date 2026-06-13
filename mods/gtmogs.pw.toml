@@ -1,5 +1,5 @@
 name = "Gregtech: Modern Ore Generation Standalone"
-filename = "gtmogs-1.21.1-1.0.6-pcmc.7.jar"
+filename = "gtmogs-1.21.1-1.0.6-pcmc.8.jar"
 side = "both"
 # PCMC fork build (theasshats/gtmogs, branch pcmc/main): upstream 1.0.6 + the pack's
 # maintained-continuation patches (issue #326) — Xaero WM 1.40+ compat (the deleted
@@ -13,6 +13,6 @@ side = "both"
 pin = true
 
 [download]
-url = "https://github.com/theasshats/gtmogs/releases/download/1.0.6-pcmc.7/gtmogs-1.21.1-1.0.6-pcmc.7.jar"
+url = "https://github.com/theasshats/gtmogs/releases/download/1.0.6-pcmc.8/gtmogs-1.21.1-1.0.6-pcmc.8.jar"
 hash-format = "sha512"
-hash = "a009eb42f409f74579a73b413b25eab141b4b52dff485e96d24ce3c9494a5f251a2202f0a91500fc393f687d3ae84260b12b689b58c35df6ec1e832fe514599e"
+hash = "3bdb7136fd128cc1293aaf22365386e2e126e08b8d3d1eceadce6b185ce4d719bc7a9c20cd3319392670e8c1c74cca58b13cd060bc755d50059527fad3a81365"
