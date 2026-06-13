@@ -98,15 +98,26 @@ command**, never on a tick.
 
 A **law is a typed rule**, not free text — so it can be enforced and resolved deterministically.
 
+> **Reframed in Part 2 scope.** The enforcement taxonomy below (every law "cancels the action") is
+> superseded by the **hard-law / soft-law** model in **[`GOVERNANCE-REALMS-SCOPE.md`](GOVERNANCE-REALMS-SCOPE.md)**
+> — the authoritative Part 2 (`pcmc-realms`) design. A law now carries an **enforcement mode**:
+> `AUTOMATIC` (mod applies a fiscal effect — tax/stipend), `OFFICER` (a human enacts, the mod settles —
+> fines), or `SOCIAL` (the mod never blocks; guards/players enforce — PvP). Read that doc for §4 details;
+> the sketch here is kept for the data-model shape only.
+
 ```java
-record Law(UUID id, LawType type, ScopeRef scope, Value value, boolean enabled) {}
+record Law(UUID id, LawType type, EnforcementMode mode, ScopeRef scope, Value value, boolean enabled) {}
+
+enum EnforcementMode { AUTOMATIC, OFFICER, SOCIAL }  // see GOVERNANCE-REALMS-SCOPE.md §3
 
 enum LawType {
-  PVP,             // value: ALLOW | DENY
-  BLOCK_INTERACT,  // value: ALLOW | DENY  (build/use by non-members)
-  ITEM_BAN,        // value: item/tag set
-  TAX,             // value: rate (bps) on a taxable event (sales via Trading Floor, colony output)
-  CURFEW/optional, // value: tick window (defer to v2 — TPS-sensitive)
+  PVP,             // SOCIAL — value: ALLOW | DENY (guard aggro on DENY, not a cancel)
+  ITEM_BAN,        // SOCIAL — value: item/tag set (contraband → guard aggro)
+  TAX,             // AUTOMATIC — value: rate (bps); Part 3 moves the coin
+  STIPEND,         // AUTOMATIC — value: amount + period; scheduled payout, Part 3 moves the coin
+  FINE,            // OFFICER — an enforcement *action* (not a standing rule); auto-withdraw via Part 3
+  CURFEW/optional, // SOCIAL — value: tick window (defer — TPS-sensitive)
+  // BLOCK_INTERACT dropped: claim protection is OPAC/MineColonies' job, not a governance law.
 }
 ```
 
@@ -115,12 +126,16 @@ enum LawType {
 Each enforceable `LawType` maps to a **NeoForge event handler** that resolves the governing entity for
 the action's position (§6), walks that entity's ancestry, and applies the winning law (§ resolver below):
 
-| LawType | Event | Effect |
-| --- | --- | --- |
-| PVP | `LivingIncomingDamageEvent` (player→player) | Cancel if the governing entity resolves PVP=DENY. |
-| BLOCK_INTERACT | `BlockEvent.BreakEvent` / `PlayerInteractEvent.RightClickBlock` | Cancel for non-members if DENY. |
-| ITEM_BAN | `PlayerInteractEvent` / tick-light inventory check on region entry | Block use of banned items in-region. |
-| TAX | hook on Trading Floor sale + (optional) colony output | Skim `rate` into the entity treasury (§5). |
+| LawType | Mode | Event / trigger | Effect |
+| --- | --- | --- | --- |
+| PVP | SOCIAL | `LivingIncomingDamageEvent` (player→player) | **Do not cancel.** Mark attacker "wanted" + trigger MineColonies guard aggro (scope §5); no guards → no effect. |
+| ITEM_BAN | SOCIAL | `PlayerInteractEvent` / region-entry inventory check | Flag a violation → guard aggro; not a hard use-block. |
+| TAX | AUTOMATIC | hook on Trading Floor sale + (optional) colony output | Skim `rate` into the entity treasury (§5; Part 3 moves the coin). |
+| STIPEND | AUTOMATIC | coarse scheduler (scope §6) | Pay `amount` per citizen from the treasury (Part 3). |
+| FINE | OFFICER | `/realm fine` command | Auto-withdraw `amount` from the target into the treasury (Part 3). |
+
+*(BLOCK_INTERACT removed — claim protection is OPAC/MineColonies' job; a hard build/break law would
+duplicate it. Griefing-as-a-crime is the SOCIAL path instead. See scope §4.)*
 
 All handlers are **event-driven and position-local** — no global world scan, matching the perf doctrine
 in `SYSTEMS.md` §3a. The chunk→entity lookup must be **O(1)-ish and cached** (§6), since these events are
@@ -238,6 +253,12 @@ the mod owns zero claims.
 entity CRUD events — kept in a clean `api` package from day one. This is the contract Part 2 consumes.
 
 ### Part 2 — Government (the political layer)
+
+> **Full Part 2 scope: [`GOVERNANCE-REALMS-SCOPE.md`](GOVERNANCE-REALMS-SCOPE.md)** — the hard/soft
+> enforcement model, the law catalog, the exact Part 1 API contract (`TerritoryApi`/`EntitySnapshot`/
+> `TerritoryEvents`/`Role`) read from the shipped territory source, the MineColonies-guard mechanism,
+> the territory-mod feature recommendations, commands, slices, and the spike list. The summary below
+> is the project-level view.
 
 The hierarchy and the law engine, standing on Part 1's resolution. Two slices:
 
