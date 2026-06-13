@@ -1,9 +1,9 @@
-# gtmogs-1.21.1-1.0.6-pcmc.7
+# gtmogs-1.21.1-1.0.6-pcmc.8
 
 ## mod metadata (id / version / deps)
 license = "LGPL-3.0 license"
 modId = "gtmogs"
-version = "1.0.6-pcmc.7"
+version = "1.0.6-pcmc.8"
 displayName = "GregTech Modern Ore Gen Standalone"
 modId = "neoforge"
 versionRange = "[21.1,)"
