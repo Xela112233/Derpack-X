@@ -8,7 +8,7 @@
 ## 0. The moves (TL;DR)
 
 1. **Draw a 1.0 line.** 1.0 = a complete co-op pack on *buildable* content (config / recipe / curation /
-   shipped-mods work). Target: **end of August 2026.** The custom-mod megaprojects move to **2.0**.
+   shipped-mods work). Target: **early August 2026.** The custom-mod megaprojects move to **2.0**.
 2. **Magic = a skill-gated specialization** (the middle ground between demote and deep-re-anchor): a few
    players invest in a **bare-bones skill gate** to become magic specialists whose output brings value to
    their group/realm. Keeps magic *and* gives it a real Eco-style place. **Evaluate a full skill/
@@ -50,19 +50,19 @@ extends.
 
 **Principle:** 1.0 ships on content/config/curation/shipped-mods work. Anything needing multi-month
 box-verified custom-mod development is 2.0. Targets assume agent-authored content + serialized box
-playtests (see §5); they're tight by design to hit **end of August**.
+playtests (see §5); they're tight by design to hit **early August**.
 
 | Milestone | Open | Owner | Target | Key change in this proposal |
 |---|---:|---|---|---|
 | `v0.8.0 — Stabilization I` | 17 | shared (weave: Xela) | late June | — (in progress; lands the weave project) |
-| `v0.9.0 — Survival` | 20 | **zagwar + Xela** | late June–July | — (soak overlaps onward; see §5 risk) |
-| `v0.10.0 — Stabilization II` | 3 | shared | July | — |
-| **`v0.11.0 — Colony & the magic skill-gate`** *(was "Magic & MineColonies")* | 11 | **zagwar** (colony) · **Xela** (magic skill-gate) | July | MineColonies as the load-bearing route **+ magic re-cast as a skill-gated specialization (§4)** |
-| `v0.12.0 — Stabilization III` | 4 | shared | late July | #309 split largely **resolved** by the §3 deferral |
-| `v0.13.0 — Economy & logistics` | 30 | **zagwar** (economy) · **Xela** (logistics) | August | **Scoped down:** keep coins/stalls/bounties/loot-wiring + the full aeronautics/transport ladder; **defer dynamic pricing + minting (#221/#136/#150/#240) to 2.0** |
-| `v0.14.0 — Stabilization IV` | 2 | shared | August | — |
-| `v0.15.0 — Polish & site + launch` | 16 | shared | late August | Wiki, onboarding, JEI, the rename (#212), the **weave review**, and the **public launch** (`outreach-plan`) |
-| `v1.0.0 — Release [NFR]` | 13 | **Xela** (box) | **end August** | Feature-frozen perf/RAM, ore-gen final, CI required, ship |
+| `v0.9.0 — Survival` | 20 | **zagwar + Xela** | late June | — (soak overlaps into live 1.0; see §5 risk) |
+| `v0.10.0 — Stabilization II` | 3 | shared | early July | — |
+| **`v0.11.0 — Colony & the magic skill-gate`** *(was "Magic & MineColonies")* | 11 | **zagwar** (colony) · **Xela** (magic skill-gate) | early–mid July | MineColonies as the load-bearing route **+ magic re-cast as a skill-gated specialization (§4)** |
+| `v0.12.0 — Stabilization III` | 4 | shared | mid July | #309 split largely **resolved** by the §3 deferral |
+| `v0.13.0 — Economy & logistics` | 30 | **zagwar** (economy) · **Xela** (logistics) | mid–late July | **Scoped down:** keep coins/stalls/bounties/loot-wiring + the full aeronautics/transport ladder; **defer dynamic pricing + minting (#221/#136/#150/#240) to 2.0** |
+| `v0.14.0 — Stabilization IV` | 2 | shared | late July | — |
+| `v0.15.0 — Polish & site + launch` | 16 | shared | late July | Wiki, onboarding, JEI, the rename (#212), the **weave review**, and the **public launch** (`outreach-plan`) |
+| `v1.0.0 — Release [NFR]` | 13 | **Xela** (box) | **early August** | Feature-frozen perf/RAM, ore-gen final, CI required, ship |
 
 **The two 1.0 scope cuts that matter:**
 
@@ -176,22 +176,36 @@ data point), so the schedule is no longer gated by *writing* content. It's gated
 — in-game playtest, perf measurement, and **time-based soak** — all of which run on **one human + one
 server**. Plan accordingly: **parallelize authoring, serialize verification.**
 
-**1.0 — target end of August 2026** (~11 weeks from now):
-- Agents author v0.9 / v0.11 / v0.13 content **concurrently** on branches; the human serializes box
-  playtests as each is ready. The critical path is the **playtest queue**, not the build.
-- **#1 risk to the date: the Survival seasons soak.** A full seasons cycle is weeks of wall-clock that can't
-  be agent-accelerated. **Mitigation:** ship v0.9 on a shorter existence-and-function verification and let
-  seasons *tuning* soak across the *later* milestones' windows (overlap it; don't block v0.10+ on a complete
-  cycle).
-- Secondary risks: the v0.13 breadth (mitigated by the deep-economy deferral) and the v1.0 perf gate (#205/
-  #48) — both box-verification items, so protect the queue.
+### 1.0 — target early August 2026 (~7 weeks)
 
-**2.0 — target end of 2026 (likely), end of spring 2027 (absolute latest):**
-- Runs as **parallel background tracks** (§3) that **start now** and overlap 1.0 — that's how end-2026 is
-  reachable: 2.0 authoring doesn't wait for 1.0 to ship.
-- The binding constraint is the same box-verification queue, now shared with live-1.0 support. The custom-mod
-  tracks each carry `[needs box]` runtime spikes, so **box throughput is the real 2.0 schedule** — agents
-  keep the authoring ahead of it. Spring-2027 is the buffer if verification backs up.
+The §2 targets pull to early August: v0.8 (late June) → v1.0 (early August). Agents author the pillars
+**concurrently** on branches; the human serializes box playtests as each lands. The critical path is the
+**playtest queue**, not the build.
+
+- **#1 risk: the Survival seasons soak.** A full seasons cycle is weeks of wall-clock that can't be
+  agent-accelerated, and early-August is too tight to fit one. **Accept it explicitly:** ship v0.9 on an
+  existence-and-function check and let seasons *tuning* continue **into live 1.0** as a post-launch patch,
+  rather than holding the release for a full cycle. Everything else fits the queue.
+- Secondary risks: the v0.13 breadth (mitigated by the deep-economy deferral) and the v1.0 perf gate
+  (#205/#48) — both box-verification items; protect the queue.
+
+### 2.0 — a rolling timeline (end of 2026 likely, spring 2027 latest)
+
+The eight tracks (§3) don't ship as one big-bang release — they **land on a rolling basis as each clears box
+verification**, in the background while 1.0 is played. Authoring starts now (Territory is already spiked);
+the bulk of *landing* is post-launch, when the box frees from 1.0.
+
+| Window | Tracks landing | Note |
+|---|---|---|
+| **Now → 1.0** (Jun–early Aug) | Author-ahead only: **A** Territory (spiked), **E** Electricity, **F** skill-system design + the 1.0 magic-gate pilot | Overlaps 1.0; verification queued behind it |
+| **Launch → Sep 2026** | **Foundations:** **A** Territory, **B** Realms MVP (guard-enforced law), **E** Electricity overhaul | 1.0 live → the box frees for 2.0 |
+| **Oct–Nov 2026** | **Parallel build-out:** **B** Realms hierarchy, **D** Conquest, **F** Skill system, **G** Space, **H** Miniaturization | Independent tracks land as ready (rolling 2.x) |
+| **Nov–Dec 2026** | **The hard last mile:** **C** Mint + deep economy (dynamic pricing / player-minted currency) | The least-certain track, deliberately last |
+| **Jan → spring 2027** | Integration, balance, buffer for any verification-backed slippage | Absolute-latest landing for the custom-mod tracks |
+
+The binding constraint throughout is the **box-verification queue** (one human, one server), now shared with
+live-1.0 support; the custom-mod tracks each carry `[needs box]` spikes. Agents keep authoring ahead of it,
+so **box throughput is the real 2.0 schedule.** End-2026 if the queue keeps pace; spring-2027 is the buffer.
 
 **Calibrate against your real cadence.** These windows assume the playtest/soak queue keeps moving; if box
 time is scarcer than assumed, the dates stretch — but the *authoring* won't be the reason.
