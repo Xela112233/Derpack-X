@@ -43,6 +43,9 @@ off those two.
 | [`CUSTOM-MODS.md`](CUSTOM-MODS.md) | The custom-mods program (pcmc-arcana etc.) — what we build ourselves and why. |
 | [`GOVERNANCE.md`](GOVERNANCE.md) | Player-governance scoping (#260) — municipalities→empires, cascading laws, entity minting. **SCOPING, not accepted** — survey + 3 implementation paths. (Governance reopened in `SYSTEMS.md`.) |
 | [`GOVERNANCE-MOD-SPEC.md`](GOVERNANCE-MOD-SPEC.md) | Path B technical spec for #260 — the custom NeoForge governance mod (data model, law-precedence resolver, Numismatics minting bridge, claim-mod integration, MVP phasing). **DRAFT, not accepted.** |
+| [`GOVERNANCE-REALMS-SCOPE.md`](GOVERNANCE-REALMS-SCOPE.md) | Governance Part 2 — `pcmc-realms` scope: the hard/soft law taxonomy, the Part-1 API contract, and the **MineColonies-guard soft-enforcement mechanism + addon-vs-fork decision aid** (§5). **SCOPE, not accepted.** |
+| [`CONQUEST-MOD-SCOPE.md`](CONQUEST-MOD-SCOPE.md) | Colony Factions & Warfare mod (`pcmc-conquest`, working name) — the VC-replacement faction/army mod scope: NPC joinable factions, faction equipment, army mechanics, and the `pcmc-realms` law→guard seam. **CONCEPT, nothing built.** |
+| [`CONQUEST-FORK-VS-ADDON-HANDOFF.md`](CONQUEST-FORK-VS-ADDON-HANDOFF.md) | Handoff brief — decide (per feature) whether `pcmc-conquest` is a MineColonies **addon** or a **fork**, against the `GOVERNANCE-REALMS-SCOPE.md` §5 bar. Investigation tasks + spikes. |
 
 ## Player-facing copy
 
