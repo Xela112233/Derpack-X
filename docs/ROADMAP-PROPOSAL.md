@@ -14,9 +14,10 @@
    their group/realm. Keeps magic *and* gives it a real Eco-style place. **Evaluate a full skill/
    specialization system for 2.0** — which doubles as the loop's missing "hard specialization" lever.
 3. **2.0 = parallel background tracks**, not a linear sequel. The **"Commonwealth" governance/conquest**
-   program, the **deep economy**, the **electricity overhaul**, and the **full skill system** run as
-   *simultaneous* milestones in the background **while 1.0 is live and played**. Target: **end of 2026
-   likely, end of spring 2027 at the latest.**
+   program, the **deep economy**, the **electricity overhaul**, the **full skill system**, and tech
+   expansions — **extending the tech tree to space** and **machine miniaturization** — run as *simultaneous*
+   milestones in the background **while 1.0 is live and played**. Target: **end of 2026 likely, end of
+   spring 2027 at the latest.**
 
 **The throughline (revised around agent velocity):** agent-driven authoring is no longer the schedule
 driver — a recent mod backport estimated at 1–2 weeks landed in under two hours. So the binding constraint
@@ -94,13 +95,16 @@ land as 2.x content drops between **end of 2026 (likely)** and **end of spring 2
 | **2.0-D — Conquest** (`pcmc-conquest`) | Joinable NPC factions, faction kit, armies; replaces Valarian Conquest | zagwar | Realms wanted-signal (seam only — parallel) |
 | **2.0-E — Electricity overhaul** (#282 Create: Power Grid) | The power-spine reimagining; Nuclear's return | Xela | independent (gated by #281 perf) |
 | **2.0-F — Skill / specialization system** | Generalize the 1.0 magic skill-gate into a full Eco-style specialization system across routes; **magic 2.0 rides it** | Xela | the 1.0 magic gate (pilot) |
+| **2.0-G — Space tech tier** (Ad Astra — lead candidate) | Extend the tech tree off-world: an orbital/planetary endgame — the new top scarcity frontier and the pack's clear endgame goal | Xela | Electricity (E) + logistics/aeronautics |
+| **2.0-H — Machine miniaturization** (microchip/controller — mod TBD) | A chip/controller tier that shrinks machine footprint; late-game compaction | Xela | Electricity (E) — the PCB/circuit tier |
 
 **Why this shape works:** the governance trio (A→B→C) has an internal sequence but pipelines; conquest (D)
 runs parallel off the shared wanted-signal seam; electricity (E) and the skill system (F) are fully
-independent. Agents author all six concurrently; the **box-verification queue** (one human, one server) is
-the real serializer — which is exactly why these stay off 1.0's verification path.
+independent; and the tech tracks (G space, H miniaturization) build on E's power and circuit tiers. Agents
+author all eight concurrently; the **box-verification queue** (one human, one server) is the real
+serializer — which is exactly why these stay off 1.0's verification path.
 
-**Two strategic notes:**
+**Strategic notes:**
 - **The deep economy folds into Mint (2.0-C).** Dynamic pricing + minting *is* governance's economic
   capstone — same problem, same home. This is where the "currency may need a fork or whole new mod" work
   lives.
@@ -109,6 +113,15 @@ the real serializer — which is exactly why these stay off 1.0's verification p
   locked exclusives the only anti-erosion device. A real skill/specialization system (Eco's hard skill-cap
   analog) is the mechanism that *hardens* it across the board. So 2.0-F isn't just "magic 2.0" — it's the
   fix for an open loop-design problem, with magic as its 1.0 pilot.
+- **Space (2.0-G) closes the loop at the top — it's not a bolt-on.** `SYSTEMS.md` §5 says growth renews
+  scarcity *one tier up* — farther, scarcer, more dangerous frontiers. Space is literally that: off-world
+  resources re-open scarcity → production → trade at a new tier, and it hands the pack the clear endgame
+  *goal* the video essay praised in Create: Above and Beyond. Three anchors — Create (top production tier),
+  scarcity/economy (frontier resources → new trade), logistics/aeronautics (the movement arm goes orbital).
+- **Miniaturization (2.0-H) is a perf lever, not just QoL.** Smaller machines = fewer block entities =
+  direct relief for the **#151 chunk-save serialization spikes** the perf docs flag. So it earns its place
+  twice — a Create tech reward *and* a late-game perf win — built on the electricity overhaul's circuit/PCB
+  tier (chips are PCB-tier outputs).
 
 **This line matches the player ladder.** `wiki/economy-progression.md` already marks rungs 1–5 *live* (1.0)
 and rungs 6–9 — realms, federation, factions, mint — *planned* (2.0). The roadmap and the player map agree.
@@ -200,7 +213,7 @@ on the milestones now.**
 | **Weave project** | **shared, mostly Xela** | `weaving-plan`, rides the thunderdomes |
 | **Release / CI / perf (v1.0)** | **Xela** | Box-side gates (#205/#48/#79/#81) |
 | **2.0 governance + conquest (A–D)** | **zagwar** | His #260 program |
-| **2.0 electricity (E) + skill system (F)** | **Xela** | #282 + the magic-gate generalization |
+| **2.0 tech tracks — electricity (E), skill system (F), space (G), miniaturization (H)** | **Xela** | #282 + the magic-gate generalization + the new top-tier tech |
 | **Outreach / launch** | **shared** | `outreach-plan`; lands with v0.15 |
 
 ---
@@ -221,13 +234,16 @@ on the milestones now.**
 1. **Accept the 1.0 line + the end-of-August target?** (Buildable content in; custom-mod megaprojects to 2.0.)
 2. **Magic — option D (skill-gated specialization)?** And **which mechanism for the 1.0 bare-bones gate —
    PMMO (recommended, scales to 2.0) or a KubeJS progression gate (no new mod)?**
-3. **2.0 as parallel background tracks** (A–F in §3), started now, landing end-2026 / spring-2027?
+3. **2.0 as parallel background tracks** (A–H in §3), started now, landing end-2026 / spring-2027?
 4. **Defer the deep economy** (#221/#136/#150/#240) out of v0.13 into 2.0-C — and does that retire the #309
    split?
 5. **Adopt the full skill system (2.0-F) as the loop's "hard specialization" lever**, or keep specialization
    soft and skill-gate magic only?
 6. **Consolidate the magic mods** (drop Iron's Spellbooks) under D, or keep all three?
-7. **Assign the §6 pillar leads** now (close the 127-unassigned gap)?
+7. **Confirm the two new tech-expansion tracks** — 2.0-G space (Ad Astra the lead candidate) and 2.0-H
+   machine miniaturization — and **source their mods** (an existing mod, or a small custom one for the
+   chip/controller if nothing fits)?
+8. **Assign the §6 pillar leads** now (close the 127-unassigned gap)?
 
 Once settled, the follow-up is a docs-pass folding the accepted moves into `ROADMAP.md`, `SYSTEMS.md`,
 `CUSTOM-MODS.md`, `DESIGN.md`, re-titling the v0.11 milestone, and creating the 2.0 track milestones on
