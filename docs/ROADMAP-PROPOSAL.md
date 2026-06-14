@@ -1,9 +1,19 @@
-# Roadmap & scope proposal — the 1.0 line, the 2.0 horizon, and magic
+# Roadmap & scope proposal — the beta arc (Beta 1.0 → 3.0 = Release 1.0), and magic
 
 > **Status: PROPOSAL — for Xela112233 + zagwar to discuss. Not accepted.** Nothing here is canon until
 > folded into `docs/ROADMAP.md` / `docs/SYSTEMS.md`. Drafted 2026-06-14; revised with maintainer feedback
 > (magic skill-gate, compressed timeline, parallel 2.0, ownership). It proposes the moves and the
 > alternatives so they can be argued with, not rubber-stamped.
+
+> **Versioning — this reframes the whole arc.** Everything below is the **beta program**: the three majors
+> are **Beta 1.0 → Beta 2.0 → Beta 3.0**. **Beta 3.0 *is* the official Release 1.0** — when the living world
+> closes the Eco loop and the design vision is complete, the pack exits beta and that milestone ships as
+> **Release 1.0**, the first non-beta public version. So the **early-August launch is the public *beta***
+> (Beta 1.0, the foundation); the true **Release 1.0** lands at the end of the arc (~2027+), not in August.
+> Mind the two distinct "1.0"s: **Beta 1.0** = the August foundation; **Release 1.0** = Beta 3.0, the
+> design-complete graduation. Below, "1.0 / 2.0 / 3.0" mean the betas unless they say "Release." *(Open
+> mechanical detail for you two: do the betas carry 1.x/2.x/3.x numbers, beta-tagged, or does the pack stay
+> 0.x until Release 1.0? — a labeling call.)*
 
 ## 0. The moves (TL;DR)
 
@@ -26,8 +36,8 @@ human and one server. Custom-mod work carries the heaviest verification burden (
 `[needs box]` lists), so it must run as **background-parallel tracks that don't compete with 1.0's
 verification throughput** — that's *why* it's 2.0, not because it's slow to write.
 
-*(Beyond 2.0, a **3.0 horizon — "the living world,"** anchored on the ecological-cost mechanic — is
-sketched after §3: a direction marker, not a decision here.)*
+*(Beyond 2.0, a **Beta 3.0 horizon — "the living world" (which ships as the official Release 1.0)** —
+anchored on the ecological-cost mechanic — is sketched after §3: a direction marker, not a decision here.)*
 
 ---
 
@@ -49,7 +59,7 @@ extends.
 
 ---
 
-## 2. The 1.0 line — milestones, owners, targets
+## 2. The Beta 1.0 line — milestones, owners, targets
 
 **Principle:** 1.0 ships on content/config/curation/shipped-mods work. Anything needing multi-month
 box-verified custom-mod development is 2.0. Targets assume agent-authored content + serialized box
@@ -83,7 +93,7 @@ playtests (see §5); they're tight by design to hit **early August**.
 
 ---
 
-## 3. The 2.0 horizon — parallel background tracks
+## 3. The Beta 2.0 horizon — parallel background tracks
 
 2.0 is **not** a linear sequel. It's a set of **simultaneous milestones worked in the background while 1.0
 is live and being played** — enabled by agent-parallel authoring, gated only by box-verification
@@ -131,7 +141,7 @@ and rungs 6–9 — realms, federation, factions, mint — *planned* (2.0). The 
 
 ---
 
-## The 3.0 horizon — the living world (a sketch)
+## The Beta 3.0 horizon — the living world, shipping as Release 1.0 (a sketch)
 
 > Further out and more speculative than 2.0 — a *sketch* to capture direction, not a plan. 3.0 follows 2.0
 > (so ~2027+), and like 2.0 it's a set of parallel background tracks, not a linear release.
@@ -140,7 +150,9 @@ and rungs 6–9 — realms, federation, factions, mint — *planned* (2.0). The 
 becoming a living system that responds to — and is damaged by — the economy the players have built.** It
 closes the one edge of the Eco loop still open: **production → world**. After 3.0 the causal loop
 (scarcity → pressure → production → economy, and back to scarcity *through the world itself*) is finally
-self-driving, not just designed.
+self-driving, not just designed. **This is the out-of-beta line:** with the loop complete and the design
+vision "done," Beta 3.0 ships as the official **Release 1.0** — the pack's first non-beta public version,
+and the point freshness shifts from build-out to the live-service content cadence.
 
 ### What fits 3.0 (already seeded; lands here by its own logic)
 
