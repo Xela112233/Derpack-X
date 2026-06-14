@@ -12,6 +12,15 @@
 
 _Draft placeholder — replace the lead with real notes before release._
 
+### Rendering
+
+- Distant Horizons is now in the pack, adding low-detail terrain far beyond the normal view distance
+  so the world keeps going to the horizon. It is adjustable in the video settings, and heavier on the
+  GPU at high settings — turn the detail distance down if your hardware feels it.
+- Aeronautics ships, planes, and vehicles now render at that extended distance instead of disappearing
+  at the edge of normal view. This is what the new Separate Sable Render Distance addon does; the
+  slider for it sits in the Sodium video settings, under Simulation Distance.
+
 ### Fixes and cleanup
 
 - Mining tools now show their mining speed in the tooltip, including the bonus from Efficiency. The

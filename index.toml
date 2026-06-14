@@ -1655,6 +1655,11 @@ hash = "87d17b6f585dec07f2b0b70c4577d508610263806926d093a2334e3cb9fca48c"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "c75e5c5d0a9c8c15239c5177b9af6363dc3d44a9baf3a3f6f238b2cf5d563388"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
 metafile = true
@@ -2537,6 +2542,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "71fbe3311856dd07c67910e8dc8207ab4cff856968fb9ee3cb824bcbe1a6ef83"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
+hash = "f14159d9c29d01d34edc940a687d1cd3181b6c8f8311edb38ddc44a473b00596"
 metafile = true
 
 [[files]]
