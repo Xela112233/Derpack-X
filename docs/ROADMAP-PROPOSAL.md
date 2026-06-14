@@ -70,7 +70,7 @@ playtests (see §5); they're tight by design to hit **early August**.
 | `v0.8.0 — Stabilization I` | 17 | shared (weave: Xela) | late June | — (in progress; lands the weave project) |
 | `v0.9.0 — Survival` | 20 | **zagwar + Xela** | late June | — (soak overlaps into live 1.0; see §5 risk) |
 | `v0.10.0 — Stabilization II` | 3 | shared | early July | — |
-| **`v0.11.0 — Colony & the magic skill-gate`** *(was "Magic & MineColonies")* | 11 | **zagwar** (colony) · **Xela** (magic skill-gate) | early–mid July | MineColonies as the load-bearing route **+ magic re-cast as a skill-gated specialization (§4)** |
+| **`v0.11.0 — Colony, territory & the magic skill-gate`** *(was "Magic & MineColonies")* | 11 | **zagwar** (colony + territory) · **Xela** (magic skill-gate) | early–mid July | MineColonies as the load-bearing route **+ ship `pcmc-territory`** (unified colony+OPAC borders — the spiked claims substrate) **+ magic re-cast as a skill-gated specialization (§4)** |
 | `v0.12.0 — Stabilization III` | 4 | shared | mid July | #309 split largely **resolved** by the §3 deferral |
 | `v0.13.0 — Economy & logistics` | 30 | **zagwar** (economy) · **Xela** (logistics) | mid–late July | **Scoped down:** keep coins/stalls/bounties/loot-wiring + the full aeronautics/transport ladder; **defer dynamic pricing + minting (#221/#136/#150/#240) to 2.0** |
 | `v0.14.0 — Stabilization IV` | 2 | shared | late July | — |
@@ -89,7 +89,16 @@ playtests (see §5); they're tight by design to hit **early August**.
   layer (same problem). Ownership splits cleanly — **economy = zagwar, logistics = Xela** — which also
   de-risks the **#309 split** question: with the uncertain half gone, the pillar is tractable as one.
 
-**Governance (#260) is not on the 1.0 path** — it's a 2.0 track (§3).
+**Territory pulled into Beta 1.0 — the one custom-mod exception (v0.11).** `pcmc-territory` (the unified
+colony + OPAC "who-governs-this-chunk" borders layer) is **already spiked (PR #1)**, **read-only and
+low-runtime-risk** (it owns no claims — it just resolves the two systems already in the pack), and **useful
+standalone** (a co-op group gets unified territory/borders without needing laws). Shipping it in 1.0 delivers
+value now *and* de-risks 2.0: Realms/Conquest/Mint drop onto a foundation that already shipped. The
+"custom-mod ⇒ 2.0" rule still holds for the heavy, `[needs box]`-laden tracks; Territory is the justified
+exception.
+
+**The rest of governance (#260) is not on the 1.0 path** — only its claims substrate (above) is; Realms,
+Mint, and Conquest are 2.0 tracks (§3).
 
 ---
 
@@ -102,8 +111,8 @@ land as 2.x content drops between **end of 2026 (likely)** and **end of spring 2
 
 | Track (proposed milestone) | What it is | Owner | Depends on |
 |---|---|---|---|
-| **2.0-A — Territory** (`pcmc-territory`) | "Who governs this chunk" — claims resolution layer | zagwar | — (Part 1, already spiked) |
-| **2.0-B — Realms** (`pcmc-realms`) | Tiers, hierarchy, the hard/soft law engine, guard enforcement | zagwar | Territory |
+| **Territory** (`pcmc-territory`) — *pulled to Beta 1.0 (v0.11)* | The claims substrate ("who governs this chunk"); **ships in 1.0** — the 2.0 tracks build on it | zagwar | — (foundation, in Beta 1.0) |
+| **2.0-B — Realms** (`pcmc-realms`) | Tiers, hierarchy, the hard/soft law engine, guard enforcement | zagwar | Territory (shipped in Beta 1.0) |
 | **2.0-C — Mint + deep economy** (`pcmc-mint`) | Treasury, taxes, charters, minting **+ dynamic pricing / player-minted currency** (#221/#136/#150/#240) | zagwar | Realms; may be its own mod/fork |
 | **2.0-D — Conquest** (`pcmc-conquest`) | Joinable NPC factions, faction kit, armies; replaces Valarian Conquest | zagwar | Realms wanted-signal (seam only — parallel) |
 | **2.0-E — Electricity overhaul** (#282 Create: Power Grid) | The power-spine reimagining; Nuclear's return | Xela | independent (gated by #281 perf) |
@@ -111,11 +120,12 @@ land as 2.x content drops between **end of 2026 (likely)** and **end of spring 2
 | **2.0-G — Space tech tier** (Ad Astra — lead candidate) | Extend the tech tree off-world: an orbital/planetary endgame — the new top scarcity frontier and the pack's clear endgame goal | Xela | Electricity (E) + logistics/aeronautics |
 | **2.0-H — Machine miniaturization** (microchip/controller — mod TBD) | A chip/controller tier that shrinks machine footprint; late-game compaction | Xela | Electricity (E) — the PCB/circuit tier |
 
-**Why this shape works:** the governance trio (A→B→C) has an internal sequence but pipelines; conquest (D)
-runs parallel off the shared wanted-signal seam; electricity (E) and the skill system (F) are fully
-independent; and the tech tracks (G space, H miniaturization) build on E's power and circuit tiers. Agents
-author all eight concurrently; the **box-verification queue** (one human, one server) is the real
-serializer — which is exactly why these stay off 1.0's verification path.
+**Why this shape works:** the governance work (B Realms → C Mint) builds on the **Territory layer already
+shipped in Beta 1.0**; conquest (D) runs parallel off the shared wanted-signal seam; electricity (E) and
+the skill system (F) are fully independent; and the tech tracks (G space, H miniaturization) build on E's
+power and circuit tiers. Agents author all seven 2.0 tracks (B–H) concurrently; the **box-verification
+queue** (one human, one server) is the real serializer — which is exactly why these stay off 1.0's
+verification path.
 
 **Strategic notes:**
 - **The deep economy folds into Mint (2.0-C).** Dynamic pricing + minting *is* governance's economic
@@ -259,8 +269,8 @@ the bulk of *landing* is post-launch, when the box frees from 1.0.
 
 | Window | Tracks landing | Note |
 |---|---|---|
-| **Now → 1.0** (Jun–early Aug) | Author-ahead only: **A** Territory (spiked), **E** Electricity, **F** skill-system design + the 1.0 magic-gate pilot | Overlaps 1.0; verification queued behind it |
-| **Launch → Sep 2026** | **Foundations:** **A** Territory, **B** Realms MVP (guard-enforced law), **E** Electricity overhaul | 1.0 live → the box frees for 2.0 |
+| **Now → 1.0** (Jun–early Aug) | Author-ahead only: **E** Electricity, **F** skill-system design + the 1.0 magic-gate pilot (Territory itself ships *in* Beta 1.0, v0.11) | Overlaps 1.0; verification queued behind it |
+| **Launch → Sep 2026** | **Foundations:** **B** Realms MVP (guard-enforced law, on the Beta-1.0 Territory layer), **E** Electricity overhaul | 1.0 live → the box frees for 2.0 |
 | **Oct–Nov 2026** | **Parallel build-out:** **B** Realms hierarchy, **D** Conquest, **F** Skill system, **G** Space, **H** Miniaturization | Independent tracks land as ready (rolling 2.x) |
 | **Nov–Dec 2026** | **The hard last mile:** **C** Mint + deep economy (dynamic pricing / player-minted currency) | The least-certain track, deliberately last |
 | **Jan → spring 2027** | Integration, balance, buffer for any verification-backed slippage | Absolute-latest landing for the custom-mod tracks |
@@ -288,7 +298,7 @@ on the milestones now.**
 | **Logistics / aeronautics (v0.13)** | **Xela** | Airships/transport ladder |
 | **Weave project** | **shared, mostly Xela** | `weaving-plan`, rides the thunderdomes |
 | **Release / CI / perf (v1.0)** | **Xela** | Box-side gates (#205/#48/#79/#81) |
-| **2.0 governance + conquest (A–D)** | **zagwar** | His #260 program |
+| **Territory (Beta 1.0, v0.11) + 2.0 governance & conquest (B–D)** | **zagwar** | The claims substrate ships in 1.0; Realms/Mint/Conquest in 2.0 |
 | **2.0 tech tracks — electricity (E), skill system (F), space (G), miniaturization (H)** | **Xela** | #282 + the magic-gate generalization + the new top-tier tech |
 | **Outreach / launch** | **shared** | `outreach-plan`; lands with v0.15 |
 
@@ -310,7 +320,8 @@ on the milestones now.**
 1. **Accept the 1.0 line + the end-of-August target?** (Buildable content in; custom-mod megaprojects to 2.0.)
 2. **Magic — option D (skill-gated specialization)?** And **which mechanism for the 1.0 bare-bones gate —
    PMMO (recommended, scales to 2.0) or a KubeJS progression gate (no new mod)?**
-3. **2.0 as parallel background tracks** (A–H in §3), started now, landing end-2026 / spring-2027?
+3. **2.0 as parallel background tracks** (B–H in §3, on the Territory layer pulled into Beta 1.0), started
+   now, landing end-2026 / spring-2027?
 4. **Defer the deep economy** (#221/#136/#150/#240) out of v0.13 into 2.0-C — and does that retire the #309
    split?
 5. **Adopt the full skill system (2.0-F) as the loop's "hard specialization" lever**, or keep specialization
