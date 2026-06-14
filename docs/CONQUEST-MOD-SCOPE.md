@@ -67,15 +67,28 @@ the handoff's API spikes confirm them.**
 | **More army mechanics** | The **unbounded** pillar — formations, ranks, offensive units, marching/attacking on command, sieges, inter-faction war. | **Mixed.** Defensive guard aggro is native (addon). **Offensive** control (march/attack/leave borders) is exactly the "reshape guard target-acquisition / pursue past border" that `GOVERNANCE-REALMS-SCOPE.md` §5 flagged as **fork territory**. | **Must be scoped to a concrete bounded list before estimating** — "army mechanics" balloons without limit. The MineColonies **raid system** (barbarian/pirate waves) is a possible reuse lever for army AI — investigate. |
 | **Laws/government → guard system** | `pcmc-realms` laws enforced by guards: a soft-law violation makes the offender attackable by the colony's guards. | **Addon — already designed.** `pcmc-realms` §5 specifies the mechanism: flip the offender's MineColonies rank to a Fight-Guards rank via `IPermissions#setPlayerRank` for a "wanted" window; guards aggro natively. | **This pillar is the most solved.** This mod is a **consumer** of the `pcmc-realms` wanted-signal — reuse it, don't rebuild it. |
 
-## 5. Architecture stance (pending the handoff)
+## 5. Architecture stance — **decided: addon + targeted mixins, no fork**
 
-**Lean: addon-first**, mirroring the conclusion `GOVERNANCE-REALMS-SCOPE.md` §5 already reached for the
-guard-enforcement mechanism. An addon keeps the real MineColonies (its updates, and its load-bearing
-"cheap-basics + locked-exclusives" production-route role in `SYSTEMS.md`), coexists, and is additive. A
-**fork replaces MineColonies pack-wide** (blast radius = the whole pack) and must **continuously rebase**
-on the MineColonies **snapshots** this pack runs — a standing tax. So a fork is justified **only** by a
-concrete must-have that the public API provably can't express (per §5's bar) — most plausibly the
-**offensive army mechanics**. The handoff makes the call **per feature**, not globally.
+The fork-vs-addon investigation is **done** — see [`CONQUEST-FORK-VS-ADDON.md`](CONQUEST-FORK-VS-ADDON.md)
+for the per-feature verdict, the source evidence, and the box spike checklist. Outcome:
+
+| Feature | Verdict |
+| --- | --- |
+| NPC joinable factions | **addon** — `IColonyManager.createColony` + a FakePlayer/`setOwnerAbandoned` owner; the join hook is `IPermissions.addPlayer(UUID, rank)` / `setPlayerRank` (all public API). |
+| Faction equipment by allegiance | **addon** — items are content; livery via `ICitizenData.setCustomTexture`, worn gear via `getEntity()` + the native gear/request pipeline. |
+| Army mechanics (ranks, offensive march, formations, sieges/war) | **addon + targeted mixin** — guard rally/patrol/follow (`IGuardBuilding`) and the raid trigger (`IRaiderManager.raiderEvent`) are public; only the 500-block rally **leash** and the guard-**mode** setter need a small mixin into one core class. Sieges/war ride the **raid system**, not custom unit AI. |
+| Laws → guards | **addon** — already solved; consumes the `pcmc-realms` wanted-signal via `setPlayerRank`. |
+
+**Global call: addon-first, confirmed.** Every capability is reachable through MineColonies' public API or a
+**targeted, reversible mixin** into one or two core guard methods — none clears §5's fork bar ("replacing a
+core pack dependency"). An addon keeps the real MineColonies (its updates and its `SYSTEMS.md` §3
+production-route role), coexists, and matches the maintainer's "reuse, don't reinvent" steer (reuse
+colonies/citizens/guards/raids/rally rather than VC-style parallel entities). A **fork** is reconsidered
+**only** if the two guard mixins prove unstable across the snapshot cadence *and* arbitrary-range offensive
+march is a hard must-have *and* no access-widener/coremod holds — a later, separate, evidence-triggered
+call, not part of this scope. Findings are read from MineColonies' GPL-3.0 source (`version/1.21`@`aeb1ad8`);
+**byte-exact confirmation against the pinned `1.1.1327` jar and every runtime behavior are [needs box]** (the
+web sandbox can't pull the jar — `forgecdn`/`ldtteam`/Modrinth are outside its egress allowlist).
 
 ## 6. Relationship to `pcmc-realms` (the guard/law seam)
 
@@ -105,21 +118,27 @@ one wanted table. **Design these two together at the seam**; don't fork the want
 
 ## 8. Open questions (the fork-vs-addon determiners → the handoff)
 
-These are what the handoff must resolve; listed here so the scope is honest about what's unsettled.
+The fork/addon determiners are now **resolved** by [`CONQUEST-FORK-VS-ADDON.md`](CONQUEST-FORK-VS-ADDON.md)
+(statics confirmed against the 1.21 source; runtime checks are its §7 box spike list). Remaining open items
+are recast details and scheduling, not architecture.
 
-- [ ] Does MineColonies' public API allow **programmatic colony creation + NPC/non-player ownership** (for
-      joinable NPC factions)? If not, is the feature fork-only, or recast (e.g. pre-placed structure colonies)?
-- [ ] Can guards be given **offensive** behavior (march/attack on command, pursue past the colony border)
-      via API/mixin, or only native defensive aggro? (§5: `AbstractEntityAIGuard` has **no public target-
-      injection hook** — re-confirm on the pinned snapshot.)
-- [ ] Can citizens/guards be made to **wear faction-specific equipment by allegiance** (slots + visuals)
-      through the API?
-- [ ] Can the MineColonies **raid system** be reused/extended as the army-AI substrate, rather than building
-      unit AI from scratch?
-- [ ] **Bounded list for "army mechanics"** — which specific mechanics are in scope? (Each maps to
-      addon/mixin/fork differently; the pillar is meaningless to estimate until enumerated.)
+- [x] **Programmatic colony creation + NPC/non-player ownership** → **yes, public API.**
+      `IColonyManager.createColony(...)` + a FakePlayer owner or `IPermissions.setOwnerAbandoned()`. Likely
+      needs a **pre-placed Town Hall** at the position (a worldgen/structure recast, not a fork). Addon.
+- [x] **Offensive guard behavior** → **yes.** Rally/patrol/follow primitives are public on `IGuardBuilding`;
+      only **arbitrary-range march** (core 500-block leash) and **forcing guard mode** need a targeted mixin.
+      §5's "no public target-injection hook" stands for `AbstractEntityAIGuard`, but the rally path reaches
+      the same outcome without it.
+- [x] **Faction equipment by allegiance** → **yes.** `ICitizenData.setCustomTexture(UUID)` for livery;
+      `getEntity()` + the native gear/request pipeline for worn kit. Addon.
+- [x] **Raid system as army substrate** → **yes.** `IRaiderManager.raiderEvent(RaidSettings)` triggers a raid
+      at a colony — the siege/inter-faction-war substrate, reusing MineColonies' own raiders.
+- [x] **Bounded "army mechanics" list** → **confirmed (maintainer, 2026-06-14): all four** — unit ranks &
+      promotion, offensive march/attack-move, formations/grouped movement, sieges & inter-faction war. All
+      land addon or addon+mixin (see the army section of the verdict doc).
 - [ ] How do **NPC joinable factions** relate to `pcmc-realms`' player-founded entities — a separate entity
-      kind, or pre-seeded realms the governance layer already understands?
+      kind (own `SavedData` keyed by colony id, the leaning answer), or pre-seeded realms the governance
+      layer already understands? Design at the seam with `pcmc-realms`.
 - [ ] Milestone home: the colony/faction/army core leans **v0.11.0 (Magic & MineColonies, zagwar's
       pillar)**; the law-into-guard seam leans **v0.13.0 (Economy & governance, #260)**. Likely a
       `Backlog / living` project until split. Maintainer call.
