@@ -1,5 +1,11 @@
 # Handoff — fork vs. addon for `pcmc-conquest` (the colony-warfare mod)
 
+> **✅ ANSWERED (2026-06-14): build it as a MineColonies *add-on* (public API + two targeted mixins), not a
+> fork.** The verdict, per-feature reasoning, and source evidence are in
+> [`CONQUEST-FORK-VS-ADDON.md`](CONQUEST-FORK-VS-ADDON.md); the build plan is
+> [`CONQUEST-ADDON-BUILD-HANDOFF.md`](CONQUEST-ADDON-BUILD-HANDOFF.md). This handoff is retained as the brief
+> that investigation reasoned against — it is **history, not an open task**.
+>
 > **For:** a future instance investigating the architecture of the colony-factions-and-warfare mod
 > (working name `pcmc-conquest`), ideally one that can reach a **NeoForge dev/build env** or will write
 > the **spikes for the box** (the web sandbox cannot compile or run NeoForge).

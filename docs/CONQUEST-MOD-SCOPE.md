@@ -1,22 +1,25 @@
 # Colony Factions & Warfare — `pcmc-conquest` scope (working name)
 
-> **Status: CONCEPT / early scope — nothing built, nothing accepted.** Captures the vision worked through
-> in the session of **2026-06-13**: a MineColonies-based **faction + army** mod that **replaces Valarian
-> Conquest** (`valarian-conquest`), reuses VC's *ideas* under a strict **clean-room** rule (no VC code —
-> VC is **All Rights Reserved**), and **integrates with `pcmc-realms`** (the governance "laws/government"
-> mod) at the **MineColonies guard system**. The working name `pcmc-conquest` is **provisional** — rename
-> freely; it only nods to the VC lineage it replaces.
+> **Status: CONCEPT / scoped — architecture DECIDED (add-on), nothing built yet.** Captures the vision
+> worked through in the session of **2026-06-13** and the architecture decision of **2026-06-14**: a
+> MineColonies-based **faction + army** mod that **replaces Valarian Conquest** (`valarian-conquest`),
+> reuses VC's *ideas* under a strict **clean-room** rule (no VC code — VC is **All Rights Reserved**), and
+> **integrates with `pcmc-realms`** (the governance "laws/government" mod) at the **MineColonies guard
+> system**. The working name `pcmc-conquest` is **provisional** — rename freely; it only nods to the VC
+> lineage it replaces.
 >
 > This is a **sibling** to the governance trio (`pcmc-territory` → `pcmc-realms` → `pcmc-mint`), **not** a
 > fourth part of it. Governance is *political* (tiers, laws, taxes, minting); this mod is *military +
 > faction-identity* (joinable NPC powers, faction kit, armies). They meet at the MineColonies guard. Per
-> [`CUSTOM-MODS.md`](CUSTOM-MODS.md) it would live in its **own repo** under `theasshats` and reach the
+> [`CUSTOM-MODS.md`](CUSTOM-MODS.md) it lives in its **own repo** under `theasshats` and reaches the
 > pack via the mod-mirror packwiz pattern — it is **not** developed in this repo, and the web sandbox
 > **cannot compile or run NeoForge**, so all work here is design-only (built/playtested on the box).
 >
-> **The architecture question — fork MineColonies vs. build an addon — is handed off in
-> [`CONQUEST-FORK-VS-ADDON-HANDOFF.md`](CONQUEST-FORK-VS-ADDON-HANDOFF.md).** This doc is the feature
-> scope that handoff reasons against.
+> **Architecture is settled: a MineColonies *add-on* (public API + two targeted mixins), not a fork**
+> (maintainer call, 2026-06-14). The full per-feature reasoning and source evidence are in
+> [`CONQUEST-FORK-VS-ADDON.md`](CONQUEST-FORK-VS-ADDON.md); the next-step build plan for the box/mod-repo is
+> [`CONQUEST-ADDON-BUILD-HANDOFF.md`](CONQUEST-ADDON-BUILD-HANDOFF.md). This doc is the feature scope and the
+> reuse-surface those two reason from.
 
 ---
 
@@ -90,6 +93,29 @@ call, not part of this scope. Findings are read from MineColonies' GPL-3.0 sourc
 **byte-exact confirmation against the pinned `1.1.1327` jar and every runtime behavior are [needs box]** (the
 web sandbox can't pull the jar — `forgecdn`/`ldtteam`/Modrinth are outside its egress allowlist).
 
+### 5a. The reuse surface — MineColonies public API building blocks
+
+The add-on is built almost entirely from public `com.minecolonies.api.*` calls (verified in the 1.21
+source; see the verdict doc for URLs). This is the "tie into MineColonies, don't reinvent" inventory — the
+hooks the mod stands on, by pillar:
+
+| Need | Public API hook | Package |
+| --- | --- | --- |
+| Found an NPC faction colony | `IColonyManager.createColony(Level, BlockPos, Player, name, pack)` — pass a **FakePlayer** for NPC ownership | `api.colony` |
+| Make a colony NPC-run / ownerless | `IPermissions.setOwner(Player)`, `setOwnerAbandoned()`, `getOwner()` | `api.colony.permissions` |
+| A player **joins** a faction | `IPermissions.addPlayer(UUID, name, Rank)` / `addPlayer(GameProfile, Rank)`; ranks via `getRankFriend()/getRankOfficer()` | `api.colony.permissions` |
+| Promote / desert / outlaw a member | `IPermissions.setPlayerRank(UUID, Rank, Level)`; `getRankHostile()` for enemy/wanted | `api.colony.permissions` |
+| Faction livery on a citizen | `ICitizenData.setCustomTexture(UUID)` | `api.colony` |
+| Faction kit on a citizen | `ICitizenData.getEntity()` → `AbstractEntityCitizen` (vanilla `setItemSlot`) + native gear/request pipeline | `api.colony` |
+| Move guards offensively (rally/follow/patrol) | `IGuardBuilding.setRallyLocation/getRallyLocation`, `setGuardPos`, `addPatrolTarget/resetPatrolTargets`, `setPlayerToFollow`, `getTask` | `api.colony.buildings` |
+| Sieges / inter-faction war | `IRaiderManager.raiderEvent(RaidSettings)`, `setRaidNextNight(RaidSettings)`, `calculateRaiderAmount`, `isRaided` | `api.colony.managers.interfaces` |
+| Faction-themed attackers | register own `AbstractEntityMinecoloniesRaider` subtypes (addon content) | `api.entity.mobs` |
+
+**The only two things not on the public surface** (both need a small targeted mixin/AT into one core class,
+`AbstractBuildingGuards` — not a fork): (1) the **500-block + TELESCOPE rally leash** baked into core
+`getRallyLocation()`, which caps arbitrary-range march; (2) the **guard-mode setter** (GUARD/PATROL/FOLLOW),
+keyed by core `GUARD_TASK` behind a read-only `api.ISetting`. Everything else is plain API.
+
 ## 6. Relationship to `pcmc-realms` (the guard/law seam)
 
 ```
@@ -113,7 +139,9 @@ one wanted table. **Design these two together at the seam**; don't fork the want
 - **Clean-room VC** — ideas only, never code.
 - **MineColonies is the base** (GPL-3.0 permits it).
 - **Tier-2 custom-mod project** — own `theasshats` repo, mod-mirror packwiz delivery, built on the box.
-- **Addon-first lean**, fork reserved for a proven API gap (handoff decides per feature).
+- **Add-on, decided (2026-06-14)** — a MineColonies add-on on the public API plus two targeted mixins;
+  **no fork**. The per-feature reasoning is settled in [`CONQUEST-FORK-VS-ADDON.md`](CONQUEST-FORK-VS-ADDON.md);
+  the build plan is [`CONQUEST-ADDON-BUILD-HANDOFF.md`](CONQUEST-ADDON-BUILD-HANDOFF.md).
 - **`pcmc-realms` is the "laws/government" mod** — this mod consumes it, doesn't duplicate it.
 
 ## 8. Open questions (the fork-vs-addon determiners → the handoff)
