@@ -149,6 +149,7 @@ the **enforcement mode** column and the new fiscal/penalty types.
 | **TRESPASS / non-member entry** | `SOCIAL` | Non-member in a restricted jurisdiction → guard aggression / wanted. (Hard *block* of build/use is already the claim mods' job — don't duplicate it; see note below.) | 2a | optional |
 | **CONTRABAND / ITEM_BAN** (tag/item set) | `SOCIAL` | Possessing/using a banned item in-region flags a violation → guard aggression. (A `customs`-style border confiscation is a later `AUTOMATIC` variant.) | 2b | later |
 | **CURFEW** (tick window) | `SOCIAL` | Being out in-region during the window → wanted/guard aggro. TPS-sensitive; defer. | later | later |
+| **SECESSION** (`ALLOW`/`DENY`) | `SOCIAL` | Federation-scope. Leaving is **never hard-blocked** (at-will, §8.1); on `DENY`, secession lets the abandoned faction's top officer declare the seceder (+ its new host) hostile. | 2b | later |
 | **TAX** (rate, bps) | `AUTOMATIC` | On a taxable transaction in-region, skim `rate` into the entity treasury. Part 2 defines the type + trigger point; **Part 3 moves the coin** (Numismatics). Trigger hook is the shared risk (§9). | 3 (type stubbed in 2) | later |
 | **STIPEND** (amount, period) | `AUTOMATIC` | On a recurring schedule (§6), pay `amount` from the treasury to each citizen. Part 2 owns the **scheduler + member iteration**; **Part 3 moves the coin**. Skips when underfunded. | 3 (type stubbed in 2) | later |
 | **FINE** (amount, target, reason) | `OFFICER` | An OFFICER+ runs `/realm fine <player> <amount> [reason]`; the mod **auto-withdraws** from the target's account (Part 3) into the treasury. Not a standing rule — an *enforcement action*, usually issued *for* a soft-law violation. | 3 (command in 2) | later |
@@ -431,6 +432,44 @@ Carried from `GOVERNANCE-MOD-SPEC.md` §3; no change, recapped so this doc stand
   ship-realms sit at the municipality kind and promote/federate like any other; their footprint metric is
   the ship, not claimed chunks.
 
+### 8.1 Secession is at-will — forced confederation & inter-entity hostility
+
+**Principle: confederations are voluntary and at-will.** A member may **leave its parent at any time**
+(`/realm secede`). A federation is not a prison — and, mirroring the rule that a law never *cancels* an
+action (§3), **a federation cannot hard-block secession even by passing a law against it.** The *only*
+thing that truly holds an entity in is a **server-admin lock** (Exception 1). Everything a faction itself
+can do makes leaving *costly*, not impossible.
+
+**Exception 1 — admin-forced confederation (the one hard lock; real-world time).** OP admins can force an
+entity into a confederation and **lock it from leaving for an IRL (wall-clock) duration** — e.g. to enforce
+peace terms when a war's loser won't honor them. Persist a `lockedUntil` **epoch timestamp** (real time,
+not game ticks — it elapses across restarts and while the server is offline); `/realm secede` is refused
+until it passes, then at-will resumes. `/realm admin confederate <entity> <parent> <duration>`;
+`/realm admin unlock <entity>` releases early. Default duration in config.
+
+**Exception 2 — a "no-secession" law (SOCIAL: leaving is allowed but is an act of war).** A federation may
+pass `SECESSION = DENY`. Per the taxonomy this **does not block** the leave (at-will holds); instead, on
+secession the abandoned faction's **top officer gets an OFFICER-mode decision** to **declare the seceder
+hostile** — and, if the seceder **joins another faction, that host faction too**. Resolved via a pending
+decision (`/realm hostility decide …`; clickable prompt / GUI later); the officer may also **ignore** it
+(leaving was lawful by default).
+
+- **Whose officer decides — OPEN (maintainer-flagged).** "The highest-ranking officer in the whole faction
+  *or* the sub-region, depending on what type of entity leaves" — to settle during the build. The fork: a
+  **direct member** leaving → the **root federation's** top officer; a **carved sub-region** leaving → its
+  **immediate parent's** top officer (the entity actually abandoned), perhaps escalating to the root.
+  *(Leaning: the immediate parent's top officer — it's the entity directly harmed — but recorded as open.)*
+
+**Inter-entity hostility ("war") = the entity-scale analog of player "wanted" (§5).** Declaring entity B
+hostile means **B's members are auto-wanted within A's territory** (guards aggro them via §5) and **PvP
+between A and B is lawful** (the "outlaw → open season" exception, §5, applied faction-wide). Stored as
+directional hostile pairs on the entity in Part 2. The secession decision is its **first trigger**; a
+general `/realm war declare / sue-for-peace` surface is a natural later extension (open question, §12).
+
+**Scope:** 2b — it needs federations + the hierarchy, and it **reuses §5's wanted machinery** (no new
+enforcement path). At-will `/realm secede` itself (minus the war consequences) can land as soon as
+federations exist.
+
 ---
 
 ## 9. Commands (extends Part 1's `/realm` tree)
@@ -442,16 +481,22 @@ Part 1 already ships `/realm found | info | whogoverns | debug bindclaim`. Part 
 /realm promote                         (LEADER; attempt next municipality tier — §8)
 /realm federate <name>                 (LEADER; compose a federation from consenting members)
 /realm carve <name> <tier>             (LEADER; recursive sub-region, KINGDOM+)
+/realm secede                          (LEADER; leave your parent — at-will unless admin-locked, §8.1)
 /realm member <add|remove|role> ...    (LEADER; manage members/roles)
 /realm law set <type> <value>          (LEADER; issue/replace a law)
 /realm law unset <type>                (LEADER; clear a law → falls back to parent/vanilla)
 /realm law list                        (CITIZEN; what's in force here, with the deciding tier)
 /realm fine <player> <amount> [reason] (OFFICER; OFFICER-settled penalty — auto-withdraw via Part 3)
 /realm wanted [player]                 (CITIZEN; view active wanted status in this jurisdiction)
+/realm hostility decide <entity> <hostile|ignore>  (OFFICER; resolve a secession war decision — §8.1)
+/realm hostility list                  (CITIZEN; entities at war with this realm)
 /realm charter grant <type> <holder>   (LEADER, CITY+/federation; license a mine/farm/airship — §7.2)
 /realm charter list                    (CITIZEN; charters issued by / held in this realm)
 /realm charter revoke <id>             (LEADER, issuer; revoke a charter)
 /realm mint <amount>                   (LEADER; Part 3 — federation+, against reserves)
+
+/realm admin confederate <entity> <parent> <duration>  (OP; force into a confederation, IRL leave-lock — §8.1)
+/realm admin unlock <entity>           (OP; release an admin leave-lock early)
 ```
 
 GUI (entity/law/treasury screens, `/realm map` border render) is **post-MVP polish** (spec §"Cross-cutting
@@ -528,6 +573,14 @@ exactly as Part 1↔Part 2.
 - [ ] **Chartered-enterprise types in the charter MVP (§7.2):** `AIRSHIP` first only, or `AIRSHIP` +
       `MINE`/`FARM` together? And do charters carry **tax obligations** from the start (Part 3) or ship
       rights-only first? *(Recommendation: rights-only framework in 2b; obligations land with Part 3.)*
+- [ ] **Secession war decision — whose officer (§8.1)?** Maintainer-flagged: direct-member leave → root
+      federation's top officer; carved-sub-region leave → immediate parent's top officer (leaning), escalate
+      to root? Settle during the build.
+- [ ] **What "hostile/war" does beyond wanted-propagation (§8.1):** just guards-aggro + lawful PvP
+      (recommended MVP), or also sever trade / void embassies (§7.1) / other effects? And is a general
+      `/realm war declare ↔ sue-for-peace` surface in 2b scope, or only the secession trigger for now?
+- [ ] **Admin leave-lock default duration (§8.1)** and the list of *other* "few exceptions" to at-will, if
+      any beyond the admin lock.
 
 ---
 
