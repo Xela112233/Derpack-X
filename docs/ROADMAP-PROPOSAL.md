@@ -26,6 +26,9 @@ human and one server. Custom-mod work carries the heaviest verification burden (
 `[needs box]` lists), so it must run as **background-parallel tracks that don't compete with 1.0's
 verification throughput** — that's *why* it's 2.0, not because it's slow to write.
 
+*(Beyond 2.0, a **3.0 horizon — "the living world,"** anchored on the ecological-cost mechanic — is
+sketched after §3: a direction marker, not a decision here.)*
+
 ---
 
 ## 1. Verified state (June 2026)
@@ -125,6 +128,53 @@ serializer — which is exactly why these stay off 1.0's verification path.
 
 **This line matches the player ladder.** `wiki/economy-progression.md` already marks rungs 1–5 *live* (1.0)
 and rungs 6–9 — realms, federation, factions, mint — *planned* (2.0). The roadmap and the player map agree.
+
+---
+
+## The 3.0 horizon — the living world (a sketch)
+
+> Further out and more speculative than 2.0 — a *sketch* to capture direction, not a plan. 3.0 follows 2.0
+> (so ~2027+), and like 2.0 it's a set of parallel background tracks, not a linear release.
+
+**The arc.** 1.0 is the industrial foundation; 2.0 is civilization + reaching space; **3.0 is the world
+becoming a living system that responds to — and is damaged by — the economy the players have built.** It
+closes the one edge of the Eco loop still open: **production → world**. After 3.0 the causal loop
+(scarcity → pressure → production → economy, and back to scarcity *through the world itself*) is finally
+self-driving, not just designed.
+
+### What fits 3.0 (already seeded; lands here by its own logic)
+
+- **Ecological cost — the flagship (`SYSTEMS.md` §3a).** Production damages the shared world: heavy
+  extraction degrades the local environment and worsens scarcity; industrial output feeds pressure
+  (pollution → local temperature into Cold Sweat's range, fouled water/crops). It's **adopted in principle
+  but parked as unsolved** — two hard blockers (an infinite world defeats naive enforcement; it's
+  TPS-heavy). **Why it's 3.0, not 2.0:** the fix is to scope damage to a player's *claimed/settled
+  footprint*, which **needs 2.0's claims/realms to exist first**, and it wants 2.0's miniaturization/perf
+  headroom. Likely custom KubeJS/datapack, event-driven and locality-bounded. The single most
+  loop-completing feature left.
+- **Dynamic weather as survival pressure (`SYSTEMS.md` "Open/unsettled").** Storms, severe weather,
+  exposure — considered, parked as a TPS cost. Pairs naturally with ecology (industry → climate) and fits
+  the living-world theme; affordable once the 2.0 perf work (miniaturization, electricity) lands.
+- **Full maturity of the player economy** — if 2.0-C's dynamic pricing only partly lands, a market that
+  genuinely *reacts* to ecological scarcity shifts matures here (ecology makes prices move for real reasons).
+
+### What we could add to 3.0 (candidates to evaluate)
+
+- **A computational / programmable layer** — CC: Tweaked, or Create logic/displays: programmable automation,
+  the "intelligence" tier after industry and space. Anchors to Create production as a top automation tier.
+- **Deeper frontiers** — beyond the first space tier (2.0-G): more planets/dimensions, deep-space resources —
+  the loop re-opened one more tier up. (If 2.0-G ships one destination, 3.0 ships the system.)
+- **Diplomacy & treaties** — formal inter-realm diplomacy, trade agreements, alliances atop 2.0's
+  governance: the social endgame for a maturing server. Anchors to governance + economy.
+- **Endgame challenge content** — raids, mega-bosses, dungeon dimensions for fully-geared groups. Anchors to
+  danger-pressure + the boss-drop production route.
+- **Live-service cadence** — formalize the "freshness from curated content, no resets" principle into a
+  seasonal/event rhythm for the public server (rotating limited-time content), keeping a public pack alive
+  long-term.
+
+**Same shape as 2.0:** parallel background tracks, agent-authored, gated by box verification, landing
+rolling. The ecological mechanic is the one that *defines* 3.0's identity; the rest are optional weaves
+around it. Scope it properly once 2.0 is landing — this is a direction marker, not a commitment.
 
 ---
 
@@ -258,6 +308,8 @@ on the milestones now.**
    machine miniaturization — and **source their mods** (an existing mod, or a small custom one for the
    chip/controller if nothing fits)?
 8. **Assign the §6 pillar leads** now (close the 127-unassigned gap)?
+9. **3.0 direction (far-out):** does "the living world" — the ecological-cost mechanic (§3a) as the 3.0
+   flagship — resonate, or should 3.0 anchor elsewhere (deep-space, a computational tier, diplomacy)?
 
 Once settled, the follow-up is a docs-pass folding the accepted moves into `ROADMAP.md`, `SYSTEMS.md`,
 `CUSTOM-MODS.md`, `DESIGN.md`, re-titling the v0.11 milestone, and creating the 2.0 track milestones on
