@@ -11,6 +11,8 @@ in the wiki issue. Until then, add pages here as Markdown and link them from thi
 
 - `create-progression.md` — the player's map of the tech climb: the power ladder, tier tokens, heat,
   flight, boss gates, and end-game extraction.
+- `economy-progression.md` — the player's map of the economic and governing climb: barter, coin, the
+  marketplace, settlement, and the planned realm/federation/mint capstone.
 - `prospecting.md` — finding ores under the GregTech-style vein system, the prospecting kit, and the
   separate end-game drilling veins.
 - `weapons-and-gear.md` — firearms and the ammo line, jetpacks, exoskeletons and power gear, capture
