@@ -21,6 +21,11 @@ _Draft placeholder — replace the lead with real notes before release._
   at the edge of normal view. This is what the new Separate Sable Render Distance addon does; the
   slider for it sits in the Sodium video settings, under Simulation Distance.
 
+### Additions
+
+- Create: Sound of Steam adds buildable pipe organs, with a wide range of organ stops powered through
+  Create. It is an early beta from upstream, so expect rough edges.
+
 ### Fixes and cleanup
 
 - Mining tools now show their mining speed in the tooltip, including the bonus from Efficiency. The
