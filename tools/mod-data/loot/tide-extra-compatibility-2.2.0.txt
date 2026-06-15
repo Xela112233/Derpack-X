@@ -1,0 +1,8 @@
+aquaculture:gameplay/fishing/treasure_leech | minecraft:fishing | aquaculture:leech minecraft:fishing minecraft:item
+aquaculture:gameplay/fishing/treasure_neptunium | minecraft:fishing | aquaculture:neptunium_nugget minecraft:fishing minecraft:item
+crittersandcompanions:gameplay/fishing/treasure_clam | minecraft:fishing | crittersandcompanions:clam minecraft:fishing minecraft:item
+unusualfishmod:gameplay/fishing/unusual_catch_deep_lukewarm_ocean_treasure | minecraft:fishing | minecraft:fishing minecraft:item unusualfishmod:lobster_spike unusualfishmod:relucent_eggs unusualfishmod:relucent_shard
+unusualfishmod:gameplay/fishing/unusual_catch_deep_ocean_treasure | minecraft:fishing | minecraft:fishing minecraft:item unusualfishmod:crimson_eggs unusualfishmod:crimson_shard
+unusualfishmod:gameplay/fishing/unusual_catch_dripstone_caves_treasure | minecraft:fishing | minecraft:fishing minecraft:item unusualfishmod:depth_claw
+unusualfishmod:gameplay/fishing/unusual_catch_river_treasure | minecraft:fishing | minecraft:fishing minecraft:item unusualfishmod:ripper_tooth
+unusualfishmod:gameplay/fishing/unusual_catch_underground_treasure | minecraft:fishing | minecraft:fishing minecraft:item unusualfishmod:tendril
