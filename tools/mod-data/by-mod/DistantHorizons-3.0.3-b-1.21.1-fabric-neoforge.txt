@@ -1,0 +1,23 @@
+# DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge
+
+## mod metadata (id / version / deps)
+license = "LGPL"
+modId = "distanthorizons" #//mandatory
+version = "3.0.3-b" #//mandatory, gets the version number from jar populated by the build.gradle script
+displayName = "Distant Horizons" #//mandatory
+modId = "minecraft"
+versionRange = "[1.21, 1.21.1,)" # Where we set what version of mc it is avalible for
+modId = "neoforge"
+versionRange = "[*,)"
+
+## blocks
+
+
+## items
+
+
+## neoforge biome_modifiers
+
+
+## c: common tag membership
+

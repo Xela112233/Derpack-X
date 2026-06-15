@@ -1,0 +1,509 @@
+# fabric-convention-tags-v2-2.12.0+c3656daa19
+bundled-in: DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge
+
+## mod metadata (id / version / deps)
+
+
+## blocks
+
+
+## items
+
+
+## neoforge biome_modifiers
+
+
+## c: common tag membership
+block/barrels :: {"values": ["#c:barrels/wooden"]}
+block/barrels/wooden :: {"values": ["minecraft:barrel", {"id": "#c:wooden_barrels", "required": false}]}
+block/bookshelves :: {"values": ["minecraft:bookshelf"]}
+block/budding_blocks :: {"values": ["minecraft:budding_amethyst"]}
+block/buds :: {"values": ["minecraft:small_amethyst_bud", "minecraft:medium_amethyst_bud", "minecraft:large_amethyst_bud"]}
+block/chains :: {"values": ["minecraft:chain"]}
+block/chests :: {"values": ["#c:chests/wooden", "#c:chests/trapped", "#c:chests/ender"]}
+block/chests/ender :: {"values": ["minecraft:ender_chest"]}
+block/chests/trapped :: {"values": ["minecraft:trapped_chest"]}
+block/chests/wooden :: {"values": ["minecraft:chest", "minecraft:trapped_chest", {"id": "#c:wooden_chests", "required": false}]}
+block/clusters :: {"values": ["minecraft:amethyst_cluster"]}
+block/cobblestones :: {"values": [{"id": "#c:cobblestones/normal", "required": false}, {"id": "#c:cobblestones/mossy", "required": false}, {"id": "#c:cobblestones/infested", "required": false}, {"id": "#c:cobblestones/deepslate", "required": false}]}
+block/cobblestones/deepslate :: {"values": ["minecraft:cobbled_deepslate"]}
+block/cobblestones/infested :: {"values": ["minecraft:infested_cobblestone"]}
+block/cobblestones/mossy :: {"values": ["minecraft:mossy_cobblestone"]}
+block/cobblestones/normal :: {"values": ["minecraft:cobblestone"]}
+block/concrete :: {"values": ["minecraft:white_concrete", "minecraft:orange_concrete", "minecraft:magenta_concrete", "minecraft:light_blue_concrete", "minecraft:yellow_concrete", "minecraft:lime_concrete", "minecraft:pink_concrete", "minecraft:gray_concrete", "minecraft:light_gray_concrete", "minecraft:cyan_concrete", "minecraft:purple_concrete", "minecraft:blue_concrete", "minecraft:brown_concrete", "minecraft:green_concrete", "minecraft:black_concrete", "minecraft:red_concrete"]}
+block/concretes :: {"values": ["minecraft:white_concrete", "minecraft:orange_concrete", "minecraft:magenta_concrete", "minecraft:light_blue_concrete", "minecraft:yellow_concrete", "minecraft:lime_concrete", "minecraft:pink_concrete", "minecraft:gray_concrete", "minecraft:light_gray_concrete", "minecraft:cyan_concrete", "minecraft:purple_concrete", "minecraft:blue_concrete", "minecraft:brown_concrete", "minecraft:green_concrete", "minecraft:black_concrete", "minecraft:red_concrete", {"id": "#c:concrete", "required": false}]}
+block/dyed :: {"values": ["#c:dyed/white", "#c:dyed/orange", "#c:dyed/magenta", "#c:dyed/light_blue", "#c:dyed/yellow", "#c:dyed/lime", "#c:dyed/pink", "#c:dyed/gray", "#c:dyed/light_gray", "#c:dyed/cyan", "#c:dyed/purple", "#c:dyed/blue", "#c:dyed/brown", "#c:dyed/green", "#c:dyed/red", "#c:dyed/black"]}
+block/dyed/black :: {"values": ["minecraft:black_banner", "minecraft:black_bed", "minecraft:black_candle", "minecraft:black_carpet", "minecraft:black_concrete", "minecraft:black_concrete_powder", "minecraft:black_glazed_terracotta", "minecraft:black_shulker_box", "minecraft:black_stained_glass", "minecraft:black_stained_glass_pane", "minecraft:black_terracotta", "minecraft:black_wall_banner", "minecraft:black_wool"]}
+block/dyed/blue :: {"values": ["minecraft:blue_banner", "minecraft:blue_bed", "minecraft:blue_candle", "minecraft:blue_carpet", "minecraft:blue_concrete", "minecraft:blue_concrete_powder", "minecraft:blue_glazed_terracotta", "minecraft:blue_shulker_box", "minecraft:blue_stained_glass", "minecraft:blue_stained_glass_pane", "minecraft:blue_terracotta", "minecraft:blue_wall_banner", "minecraft:blue_wool"]}
+block/dyed/brown :: {"values": ["minecraft:brown_banner", "minecraft:brown_bed", "minecraft:brown_candle", "minecraft:brown_carpet", "minecraft:brown_concrete", "minecraft:brown_concrete_powder", "minecraft:brown_glazed_terracotta", "minecraft:brown_shulker_box", "minecraft:brown_stained_glass", "minecraft:brown_stained_glass_pane", "minecraft:brown_terracotta", "minecraft:brown_wall_banner", "minecraft:brown_wool"]}
+block/dyed/cyan :: {"values": ["minecraft:cyan_banner", "minecraft:cyan_bed", "minecraft:cyan_candle", "minecraft:cyan_carpet", "minecraft:cyan_concrete", "minecraft:cyan_concrete_powder", "minecraft:cyan_glazed_terracotta", "minecraft:cyan_shulker_box", "minecraft:cyan_stained_glass", "minecraft:cyan_stained_glass_pane", "minecraft:cyan_terracotta", "minecraft:cyan_wall_banner", "minecraft:cyan_wool"]}
+block/dyed/gray :: {"values": ["minecraft:gray_banner", "minecraft:gray_bed", "minecraft:gray_candle", "minecraft:gray_carpet", "minecraft:gray_concrete", "minecraft:gray_concrete_powder", "minecraft:gray_glazed_terracotta", "minecraft:gray_shulker_box", "minecraft:gray_stained_glass", "minecraft:gray_stained_glass_pane", "minecraft:gray_terracotta", "minecraft:gray_wall_banner", "minecraft:gray_wool"]}
+block/dyed/green :: {"values": ["minecraft:green_banner", "minecraft:green_bed", "minecraft:green_candle", "minecraft:green_carpet", "minecraft:green_concrete", "minecraft:green_concrete_powder", "minecraft:green_glazed_terracotta", "minecraft:green_shulker_box", "minecraft:green_stained_glass", "minecraft:green_stained_glass_pane", "minecraft:green_terracotta", "minecraft:green_wall_banner", "minecraft:green_wool"]}
+block/dyed/light_blue :: {"values": ["minecraft:light_blue_banner", "minecraft:light_blue_bed", "minecraft:light_blue_candle", "minecraft:light_blue_carpet", "minecraft:light_blue_concrete", "minecraft:light_blue_concrete_powder", "minecraft:light_blue_glazed_terracotta", "minecraft:light_blue_shulker_box", "minecraft:light_blue_stained_glass", "minecraft:light_blue_stained_glass_pane", "minecraft:light_blue_terracotta", "minecraft:light_blue_wall_banner", "minecraft:light_blue_wool"]}
+block/dyed/light_gray :: {"values": ["minecraft:light_gray_banner", "minecraft:light_gray_bed", "minecraft:light_gray_candle", "minecraft:light_gray_carpet", "minecraft:light_gray_concrete", "minecraft:light_gray_concrete_powder", "minecraft:light_gray_glazed_terracotta", "minecraft:light_gray_shulker_box", "minecraft:light_gray_stained_glass", "minecraft:light_gray_stained_glass_pane", "minecraft:light_gray_terracotta", "minecraft:light_gray_wall_banner", "minecraft:light_gray_wool"]}
+block/dyed/lime :: {"values": ["minecraft:lime_banner", "minecraft:lime_bed", "minecraft:lime_candle", "minecraft:lime_carpet", "minecraft:lime_concrete", "minecraft:lime_concrete_powder", "minecraft:lime_glazed_terracotta", "minecraft:lime_shulker_box", "minecraft:lime_stained_glass", "minecraft:lime_stained_glass_pane", "minecraft:lime_terracotta", "minecraft:lime_wall_banner", "minecraft:lime_wool"]}
+block/dyed/magenta :: {"values": ["minecraft:magenta_banner", "minecraft:magenta_bed", "minecraft:magenta_candle", "minecraft:magenta_carpet", "minecraft:magenta_concrete", "minecraft:magenta_concrete_powder", "minecraft:magenta_glazed_terracotta", "minecraft:magenta_shulker_box", "minecraft:magenta_stained_glass", "minecraft:magenta_stained_glass_pane", "minecraft:magenta_terracotta", "minecraft:magenta_wall_banner", "minecraft:magenta_wool"]}
+block/dyed/orange :: {"values": ["minecraft:orange_banner", "minecraft:orange_bed", "minecraft:orange_candle", "minecraft:orange_carpet", "minecraft:orange_concrete", "minecraft:orange_concrete_powder", "minecraft:orange_glazed_terracotta", "minecraft:orange_shulker_box", "minecraft:orange_stained_glass", "minecraft:orange_stained_glass_pane", "minecraft:orange_terracotta", "minecraft:orange_wall_banner", "minecraft:orange_wool"]}
+block/dyed/pink :: {"values": ["minecraft:pink_banner", "minecraft:pink_bed", "minecraft:pink_candle", "minecraft:pink_carpet", "minecraft:pink_concrete", "minecraft:pink_concrete_powder", "minecraft:pink_glazed_terracotta", "minecraft:pink_shulker_box", "minecraft:pink_stained_glass", "minecraft:pink_stained_glass_pane", "minecraft:pink_terracotta", "minecraft:pink_wall_banner", "minecraft:pink_wool"]}
+block/dyed/purple :: {"values": ["minecraft:purple_banner", "minecraft:purple_bed", "minecraft:purple_candle", "minecraft:purple_carpet", "minecraft:purple_concrete", "minecraft:purple_concrete_powder", "minecraft:purple_glazed_terracotta", "minecraft:purple_shulker_box", "minecraft:purple_stained_glass", "minecraft:purple_stained_glass_pane", "minecraft:purple_terracotta", "minecraft:purple_wall_banner", "minecraft:purple_wool"]}
+block/dyed/red :: {"values": ["minecraft:red_banner", "minecraft:red_bed", "minecraft:red_candle", "minecraft:red_carpet", "minecraft:red_concrete", "minecraft:red_concrete_powder", "minecraft:red_glazed_terracotta", "minecraft:red_shulker_box", "minecraft:red_stained_glass", "minecraft:red_stained_glass_pane", "minecraft:red_terracotta", "minecraft:red_wall_banner", "minecraft:red_wool"]}
+block/dyed/white :: {"values": ["minecraft:white_banner", "minecraft:white_bed", "minecraft:white_candle", "minecraft:white_carpet", "minecraft:white_concrete", "minecraft:white_concrete_powder", "minecraft:white_glazed_terracotta", "minecraft:white_shulker_box", "minecraft:white_stained_glass", "minecraft:white_stained_glass_pane", "minecraft:white_terracotta", "minecraft:white_wall_banner", "minecraft:white_wool"]}
+block/dyed/yellow :: {"values": ["minecraft:yellow_banner", "minecraft:yellow_bed", "minecraft:yellow_candle", "minecraft:yellow_carpet", "minecraft:yellow_concrete", "minecraft:yellow_concrete_powder", "minecraft:yellow_glazed_terracotta", "minecraft:yellow_shulker_box", "minecraft:yellow_stained_glass", "minecraft:yellow_stained_glass_pane", "minecraft:yellow_terracotta", "minecraft:yellow_wall_banner", "minecraft:yellow_wool"]}
+block/end_stones :: {"values": ["minecraft:end_stone"]}
+block/fence_gates :: {"values": [{"id": "#c:fence_gates/wooden", "required": false}]}
+block/fence_gates/wooden :: {"values": ["minecraft:oak_fence_gate", "minecraft:spruce_fence_gate", "minecraft:birch_fence_gate", "minecraft:jungle_fence_gate", "minecraft:acacia_fence_gate", "minecraft:dark_oak_fence_gate", "minecraft:crimson_fence_gate", "minecraft:warped_fence_gate", "minecraft:mangrove_fence_gate", "minecraft:bamboo_fence_gate", "minecraft:cherry_fence_gate"]}
+block/fences :: {"values": [{"id": "#c:fences/wooden", "required": false}, {"id": "#c:fences/nether_brick", "required": false}]}
+block/fences/nether_brick :: {"values": ["minecraft:nether_brick_fence"]}
+block/fences/wooden :: {"values": ["minecraft:oak_fence", "minecraft:spruce_fence", "minecraft:birch_fence", "minecraft:jungle_fence", "minecraft:acacia_fence", "minecraft:dark_oak_fence", "minecraft:crimson_fence", "minecraft:warped_fence", "minecraft:mangrove_fence", "minecraft:bamboo_fence", "minecraft:cherry_fence"]}
+block/glass_blocks :: {"values": [{"id": "#c:glass_blocks/colorless", "required": false}, {"id": "#c:glass_blocks/cheap", "required": false}, {"id": "#c:glass_blocks/tinted", "required": false}]}
+block/glass_blocks/cheap :: {"values": ["minecraft:glass", "minecraft:white_stained_glass", "minecraft:orange_stained_glass", "minecraft:magenta_stained_glass", "minecraft:light_blue_stained_glass", "minecraft:yellow_stained_glass", "minecraft:lime_stained_glass", "minecraft:pink_stained_glass", "minecraft:gray_stained_glass", "minecraft:light_gray_stained_glass", "minecraft:cyan_stained_glass", "minecraft:purple_stained_glass", "minecraft:blue_stained_glass", "minecraft:brown_stained_glass", "minecraft:green_stained_glass", "minecraft:black_stained_glass", "minecraft:red_stained_glass"]}
+block/glass_blocks/colorless :: {"values": ["minecraft:glass"]}
+block/glass_blocks/tinted :: {"values": ["minecraft:tinted_glass"]}
+block/glass_panes :: {"values": ["minecraft:white_stained_glass_pane", "minecraft:orange_stained_glass_pane", "minecraft:magenta_stained_glass_pane", "minecraft:light_blue_stained_glass_pane", "minecraft:yellow_stained_glass_pane", "minecraft:lime_stained_glass_pane", "minecraft:pink_stained_glass_pane", "minecraft:gray_stained_glass_pane", "minecraft:light_gray_stained_glass_pane", "minecraft:cyan_stained_glass_pane", "minecraft:purple_stained_glass_pane", "minecraft:blue_stained_glass_pane", "minecraft:brown_stained_glass_pane", "minecraft:green_stained_glass_pane", "minecraft:black_stained_glass_pane", "minecraft:red_stained_glass_pane", {"id": "#c:glass_panes/colorless", "required": false}]}
+block/glass_panes/colorless :: {"values": ["minecraft:glass_pane"]}
+block/glazed_terracotta :: {"values": ["minecraft:white_glazed_terracotta", "minecraft:orange_glazed_terracotta", "minecraft:magenta_glazed_terracotta", "minecraft:light_blue_glazed_terracotta", "minecraft:yellow_glazed_terracotta", "minecraft:lime_glazed_terracotta", "minecraft:pink_glazed_terracotta", "minecraft:gray_glazed_terracotta", "minecraft:light_gray_glazed_terracotta", "minecraft:cyan_glazed_terracotta", "minecraft:purple_glazed_terracotta", "minecraft:blue_glazed_terracotta", "minecraft:brown_glazed_terracotta", "minecraft:green_glazed_terracotta", "minecraft:black_glazed_terracotta", "minecraft:red_glazed_terracotta"]}
+block/glazed_terracottas :: {"values": ["minecraft:white_glazed_terracotta", "minecraft:orange_glazed_terracotta", "minecraft:magenta_glazed_terracotta", "minecraft:light_blue_glazed_terracotta", "minecraft:yellow_glazed_terracotta", "minecraft:lime_glazed_terracotta", "minecraft:pink_glazed_terracotta", "minecraft:gray_glazed_terracotta", "minecraft:light_gray_glazed_terracotta", "minecraft:cyan_glazed_terracotta", "minecraft:purple_glazed_terracotta", "minecraft:blue_glazed_terracotta", "minecraft:brown_glazed_terracotta", "minecraft:green_glazed_terracotta", "minecraft:black_glazed_terracotta", "minecraft:red_glazed_terracotta", {"id": "#c:glazed_terracotta", "required": false}]}
+block/gravels :: {"values": ["minecraft:gravel"]}
+block/hidden_from_recipe_viewers :: {"values": []}
+block/netherracks :: {"values": ["minecraft:netherrack"]}
+block/obsidians :: {"values": [{"id": "#c:obsidians/normal", "required": false}, {"id": "#c:obsidians/crying", "required": false}]}
+block/obsidians/crying :: {"values": ["minecraft:crying_obsidian"]}
+block/obsidians/normal :: {"values": ["minecraft:obsidian"]}
+block/ore_bearing_ground/deepslate :: {"values": ["minecraft:deepslate"]}
+block/ore_bearing_ground/netherrack :: {"values": ["minecraft:netherrack"]}
+block/ore_bearing_ground/stone :: {"values": ["minecraft:stone"]}
+block/ore_rates/dense :: {"values": ["minecraft:copper_ore", "minecraft:deepslate_copper_ore", "minecraft:deepslate_lapis_ore", "minecraft:deepslate_redstone_ore", "minecraft:lapis_ore", "minecraft:redstone_ore"]}
+block/ore_rates/singular :: {"values": ["minecraft:ancient_debris", "minecraft:coal_ore", "minecraft:deepslate_coal_ore", "minecraft:deepslate_diamond_ore", "minecraft:deepslate_emerald_ore", "minecraft:deepslate_gold_ore", "minecraft:deepslate_iron_ore", "minecraft:diamond_ore", "minecraft:emerald_ore", "minecraft:gold_ore", "minecraft:iron_ore", "minecraft:nether_quartz_ore"]}
+block/ore_rates/sparse :: {"values": ["minecraft:nether_gold_ore"]}
+block/ores :: {"values": [{"id": "#c:ores/coal", "required": false}, {"id": "#c:ores/copper", "required": false}, {"id": "#c:ores/diamond", "required": false}, {"id": "#c:ores/emerald", "required": false}, {"id": "#c:ores/gold", "required": false}, {"id": "#c:ores/iron", "required": false}, {"id": "#c:ores/lapis", "required": false}, {"id": "#c:ores/netherite_scrap", "required": false}, {"id": "#c:ores/redstone", "required": false}, {"id": "#c:ores/quartz", "required": false}]}
+block/ores/coal :: {"values": [{"id": "#minecraft:coal_ores", "required": false}]}
+block/ores/copper :: {"values": [{"id": "#minecraft:copper_ores", "required": false}]}
+block/ores/diamond :: {"values": [{"id": "#minecraft:diamond_ores", "required": false}]}
+block/ores/emerald :: {"values": [{"id": "#minecraft:emerald_ores", "required": false}]}
+block/ores/gold :: {"values": [{"id": "#minecraft:gold_ores", "required": false}]}
+block/ores/iron :: {"values": [{"id": "#minecraft:iron_ores", "required": false}]}
+block/ores/lapis :: {"values": [{"id": "#minecraft:lapis_ores", "required": false}]}
+block/ores/netherite_scrap :: {"values": ["minecraft:ancient_debris"]}
+block/ores/quartz :: {"values": ["minecraft:nether_quartz_ore", {"id": "#c:quartz_ores", "required": false}]}
+block/ores/redstone :: {"values": [{"id": "#minecraft:redstone_ores", "required": false}]}
+block/ores_in_ground/deepslate :: {"values": ["minecraft:deepslate_coal_ore", "minecraft:deepslate_copper_ore", "minecraft:deepslate_diamond_ore", "minecraft:deepslate_emerald_ore", "minecraft:deepslate_gold_ore", "minecraft:deepslate_iron_ore", "minecraft:deepslate_lapis_ore", "minecraft:deepslate_redstone_ore"]}
+block/ores_in_ground/netherrack :: {"values": ["minecraft:nether_gold_ore", "minecraft:nether_quartz_ore"]}
+block/ores_in_ground/stone :: {"values": ["minecraft:coal_ore", "minecraft:copper_ore", "minecraft:diamond_ore", "minecraft:emerald_ore", "minecraft:gold_ore", "minecraft:iron_ore", "minecraft:lapis_ore", "minecraft:redstone_ore"]}
+block/player_workstations/crafting_tables :: {"values": ["minecraft:crafting_table"]}
+block/player_workstations/furnaces :: {"values": ["minecraft:furnace"]}
+block/pumpkins :: {"values": ["#c:pumpkins/normal", "#c:pumpkins/carved", "#c:pumpkins/jack_o_lanterns"]}
+block/pumpkins/carved :: {"values": ["minecraft:carved_pumpkin"]}
+block/pumpkins/jack_o_lanterns :: {"values": ["minecraft:jack_o_lantern"]}
+block/pumpkins/normal :: {"values": ["minecraft:pumpkin"]}
+block/relocation_not_supported :: {"values": [{"id": "#c:movement_restricted", "required": false}]}
+block/ropes :: {"values": []}
+block/sands :: {"values": [{"id": "#c:sands/colorless", "required": false}, {"id": "#c:sands/red", "required": false}]}
+block/sands/colorless :: {"values": ["minecraft:sand"]}
+block/sands/red :: {"values": ["minecraft:red_sand"]}
+block/sandstone/blocks :: {"values": [{"id": "#c:sandstone/uncolored_blocks", "required": false}, {"id": "#c:sandstone/red_blocks", "required": false}, {"id": "#c:sandstone_blocks", "required": false}]}
+block/sandstone/red_blocks :: {"values": ["minecraft:red_sandstone", "minecraft:cut_red_sandstone", "minecraft:smooth_red_sandstone", "minecraft:chiseled_red_sandstone", {"id": "#c:red_sandstone_blocks", "required": false}]}
+block/sandstone/red_slabs :: {"values": ["minecraft:red_sandstone_slab", "minecraft:cut_red_sandstone_slab", "minecraft:smooth_red_sandstone_slab", {"id": "#c:red_sandstone_slabs", "required": false}]}
+block/sandstone/red_stairs :: {"values": ["minecraft:red_sandstone_stairs", "minecraft:smooth_red_sandstone_stairs", {"id": "#c:red_sandstone_stairs", "required": false}]}
+block/sandstone/slabs :: {"values": [{"id": "#c:sandstone/uncolored_slabs", "required": false}, {"id": "#c:sandstone/red_slabs", "required": false}, {"id": "#c:sandstone_slabs", "required": false}]}
+block/sandstone/stairs :: {"values": [{"id": "#c:sandstone/uncolored_stairs", "required": false}, {"id": "#c:sandstone/red_stairs", "required": false}, {"id": "#c:sandstone_stairs", "required": false}]}
+block/sandstone/uncolored_blocks :: {"values": ["minecraft:sandstone", "minecraft:cut_sandstone", "minecraft:smooth_sandstone", "minecraft:chiseled_sandstone", {"id": "#c:uncolored_sandstone_blocks", "required": false}]}
+block/sandstone/uncolored_slabs :: {"values": ["minecraft:sandstone_slab", "minecraft:cut_sandstone_slab", "minecraft:smooth_sandstone_slab", {"id": "#c:uncolored_sandstone_slabs", "required": false}]}
+block/sandstone/uncolored_stairs :: {"values": ["minecraft:sandstone_stairs", "minecraft:smooth_sandstone_stairs", {"id": "#c:uncolored_sandstone_stairs", "required": false}]}
+block/skulls :: {"values": ["minecraft:skeleton_skull", "minecraft:skeleton_wall_skull", "minecraft:wither_skeleton_skull", "minecraft:wither_skeleton_wall_skull", "minecraft:player_head", "minecraft:player_wall_head", "minecraft:zombie_head", "minecraft:zombie_wall_head", "minecraft:creeper_head", "minecraft:creeper_wall_head", "minecraft:piglin_head", "minecraft:piglin_wall_head", "minecraft:dragon_head", "minecraft:dragon_wall_head"]}
+block/stones :: {"values": ["minecraft:stone", "minecraft:andesite", "minecraft:diorite", "minecraft:granite", "minecraft:tuff", "minecraft:deepslate"]}
+block/storage_blocks :: {"values": ["#c:storage_blocks/bone_meal", "#c:storage_blocks/coal", "#c:storage_blocks/copper", "#c:storage_blocks/diamond", "#c:storage_blocks/dried_kelp", "#c:storage_blocks/emerald", "#c:storage_blocks/gold", "#c:storage_blocks/iron", "#c:storage_blocks/lapis", "#c:storage_blocks/netherite", "#c:storage_blocks/raw_copper", "#c:storage_blocks/raw_gold", "#c:storage_blocks/raw_iron", "#c:storage_blocks/redstone", "#c:storage_blocks/slime", "#c:storage_blocks/wheat"]}
+block/storage_blocks/bone_meal :: {"values": ["minecraft:bone_block"]}
+block/storage_blocks/coal :: {"values": ["minecraft:coal_block"]}
+block/storage_blocks/copper :: {"values": ["minecraft:copper_block"]}
+block/storage_blocks/diamond :: {"values": ["minecraft:diamond_block"]}
+block/storage_blocks/dried_kelp :: {"values": ["minecraft:dried_kelp_block"]}
+block/storage_blocks/emerald :: {"values": ["minecraft:emerald_block"]}
+block/storage_blocks/gold :: {"values": ["minecraft:gold_block"]}
+block/storage_blocks/iron :: {"values": ["minecraft:iron_block"]}
+block/storage_blocks/lapis :: {"values": ["minecraft:lapis_block"]}
+block/storage_blocks/netherite :: {"values": ["minecraft:netherite_block"]}
+block/storage_blocks/raw_copper :: {"values": ["minecraft:raw_copper_block"]}
+block/storage_blocks/raw_gold :: {"values": ["minecraft:raw_gold_block"]}
+block/storage_blocks/raw_iron :: {"values": ["minecraft:raw_iron_block"]}
+block/storage_blocks/redstone :: {"values": ["minecraft:redstone_block"]}
+block/storage_blocks/slime :: {"values": ["minecraft:slime_block"]}
+block/storage_blocks/wheat :: {"values": ["minecraft:hay_block"]}
+block/stripped_logs :: {"values": ["minecraft:stripped_acacia_log", "minecraft:stripped_bamboo_block", "minecraft:stripped_birch_log", "minecraft:stripped_cherry_log", "minecraft:stripped_dark_oak_log", "minecraft:stripped_jungle_log", "minecraft:stripped_mangrove_log", "minecraft:stripped_oak_log", "minecraft:stripped_spruce_log", "minecraft:stripped_crimson_stem", "minecraft:stripped_warped_stem"]}
+block/stripped_woods :: {"values": ["minecraft:stripped_acacia_wood", "minecraft:stripped_birch_wood", "minecraft:stripped_cherry_wood", "minecraft:stripped_dark_oak_wood", "minecraft:stripped_jungle_wood", "minecraft:stripped_mangrove_wood", "minecraft:stripped_oak_wood", "minecraft:stripped_spruce_wood", "minecraft:stripped_crimson_hyphae", "minecraft:stripped_warped_hyphae"]}
+block/villager_job_sites :: {"values": ["minecraft:barrel", "minecraft:blast_furnace", "minecraft:brewing_stand", "minecraft:cartography_table", "minecraft:cauldron", "minecraft:lava_cauldron", "minecraft:water_cauldron", "minecraft:powder_snow_cauldron", "minecraft:composter", "minecraft:fletching_table", "minecraft:grindstone", "minecraft:lectern", "minecraft:loom", "minecraft:smithing_table", "minecraft:smoker", "minecraft:stonecutter"]}
+enchantment/entity_auxiliary_movement_enhancements :: {"values": ["minecraft:feather_falling", "minecraft:frost_walker"]}
+enchantment/entity_defense_enhancements :: {"values": ["minecraft:protection", "minecraft:blast_protection", "minecraft:projectile_protection", "minecraft:fire_protection", "minecraft:respiration", "minecraft:feather_falling", {"id": "#c:entity_defense_enhancement", "required": false}]}
+enchantment/entity_speed_enhancements :: {"values": ["minecraft:soul_speed", "minecraft:swift_sneak", "minecraft:depth_strider", {"id": "#c:entity_movement_enhancement", "required": false}]}
+enchantment/increase_block_drops :: {"values": ["minecraft:fortune"]}
+enchantment/increase_entity_drops :: {"values": ["minecraft:looting"]}
+enchantment/weapon_damage_enhancements :: {"values": ["minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:power", "minecraft:impaling"]}
+entity_type/boats :: {"values": ["minecraft:boat", "minecraft:chest_boat"]}
+entity_type/bosses :: {"values": ["minecraft:ender_dragon", "minecraft:wither"]}
+entity_type/capturing_not_supported :: {"values": []}
+entity_type/minecarts :: {"values": ["minecraft:minecart", "minecraft:tnt_minecart", "minecraft:chest_minecart", "minecraft:furnace_minecart", "minecraft:command_block_minecart", "minecraft:hopper_minecart", "minecraft:spawner_minecart"]}
+entity_type/teleporting_not_supported :: {"values": []}
+fluid/beetroot_soup :: {"values": []}
+fluid/experience :: {"values": []}
+fluid/gaseous :: {"values": []}
+fluid/hidden_from_recipe_viewers :: {"values": []}
+fluid/honey :: {"values": []}
+fluid/lava :: {"values": [{"id": "#minecraft:lava", "required": false}]}
+fluid/milk :: {"values": []}
+fluid/mushroom_stew :: {"values": []}
+fluid/potion :: {"values": []}
+fluid/rabbit_stew :: {"values": []}
+fluid/suspicious_stew :: {"values": []}
+fluid/water :: {"values": [{"id": "#minecraft:water", "required": false}]}
+item/animal_foods :: {"values": [{"id": "#minecraft:armadillo_food", "required": false}, {"id": "#minecraft:axolotl_food", "required": false}, {"id": "#minecraft:bee_food", "required": false}, {"id": "#minecraft:camel_food", "required": false}, {"id": "#minecraft:cat_food", "required": false}, {"id": "#minecraft:chicken_food", "required": false}, {"id": "#minecraft:cow_food", "required": false}, {"id": "#minecraft:fox_food", "required": false}, {"id": "#minecraft:frog_food", "required": false}, {"id": "#minecraft:goat_food", "required": false}, {"id": "#minecraft:hoglin_food", "required": false}, {"id": "#minecraft:horse_food", "required": false}, {"id": "#minecraft:llama_food", "required": false}, {"id": "#minecraft:ocelot_food", "required": false}, {"id": "#minecraft:panda_food", "required": false}, {"id": "#minecraft:parrot_food", "required": false}, {"id": "#minecraft:pig_food", "required": false}, {"id": "#minecraft:piglin_food", "required": false}, {"id": "#minecraft:rabbit_food", "required": false}, {"id": "#minecraft:sheep_food", "required": false}, {"id": "#minecraft:sniffer_food", "required": false}, {"id": "#minecraft:strider_food", "required": false}, {"id": "#minecraft:turtle_food", "required": false}, {"id": "#minecraft:wolf_food", "required": false}]}
+item/armors :: {"values": [{"id": "#minecraft:head_armor", "required": false}, {"id": "#minecraft:chest_armor", "required": false}, {"id": "#minecraft:leg_armor", "required": false}, {"id": "#minecraft:foot_armor", "required": false}]}
+item/barrels :: {"values": ["#c:barrels/wooden"]}
+item/barrels/wooden :: {"values": ["minecraft:barrel", {"id": "#c:wooden_barrels", "required": false}, {"id": "#c:wooden_barrels", "required": false}]}
+item/bones :: {"values": ["minecraft:bone"]}
+item/bookshelves :: {"values": ["minecraft:bookshelf"]}
+item/bricks :: {"values": [{"id": "#c:bricks/normal", "required": false}, {"id": "#c:bricks/nether", "required": false}]}
+item/bricks/nether :: {"values": ["minecraft:nether_brick"]}
+item/bricks/normal :: {"values": ["minecraft:brick"]}
+item/buckets :: {"values": [{"id": "#c:buckets/empty", "required": false}, {"id": "#c:buckets/water", "required": false}, {"id": "#c:buckets/lava", "required": false}, {"id": "#c:buckets/milk", "required": false}, {"id": "#c:buckets/powder_snow", "required": false}, {"id": "#c:buckets/entity_water", "required": false}]}
+item/buckets/empty :: {"values": ["minecraft:bucket"]}
+item/buckets/entity_water :: {"values": ["minecraft:axolotl_bucket", "minecraft:cod_bucket", "minecraft:pufferfish_bucket", "minecraft:tadpole_bucket", "minecraft:tropical_fish_bucket", "minecraft:salmon_bucket"]}
+item/buckets/lava :: {"values": ["minecraft:lava_bucket"]}
+item/buckets/milk :: {"values": ["minecraft:milk_bucket"]}
+item/buckets/powder_snow :: {"values": ["minecraft:powder_snow_bucket"]}
+item/buckets/water :: {"values": ["minecraft:water_bucket"]}
+item/budding_blocks :: {"values": ["minecraft:budding_amethyst"]}
+item/buds :: {"values": ["minecraft:small_amethyst_bud", "minecraft:medium_amethyst_bud", "minecraft:large_amethyst_bud"]}
+item/chains :: {"values": ["minecraft:chain"]}
+item/chests :: {"values": ["#c:chests/wooden", "#c:chests/trapped", "#c:chests/ender"]}
+item/chests/ender :: {"values": ["minecraft:ender_chest"]}
+item/chests/trapped :: {"values": ["minecraft:trapped_chest"]}
+item/chests/wooden :: {"values": ["minecraft:chest", "minecraft:trapped_chest", {"id": "#c:wooden_chests", "required": false}, {"id": "#c:wooden_chests", "required": false}]}
+item/clusters :: {"values": ["minecraft:amethyst_cluster"]}
+item/coal :: {"values": [{"id": "#minecraft:coals", "required": false}]}
+item/cobblestones :: {"values": [{"id": "#c:cobblestones/normal", "required": false}, {"id": "#c:cobblestones/mossy", "required": false}, {"id": "#c:cobblestones/infested", "required": false}, {"id": "#c:cobblestones/deepslate", "required": false}]}
+item/cobblestones/deepslate :: {"values": ["minecraft:cobbled_deepslate"]}
+item/cobblestones/infested :: {"values": ["minecraft:infested_cobblestone"]}
+item/cobblestones/mossy :: {"values": ["minecraft:mossy_cobblestone"]}
+item/cobblestones/normal :: {"values": ["minecraft:cobblestone"]}
+item/concrete :: {"values": ["minecraft:white_concrete", "minecraft:orange_concrete", "minecraft:magenta_concrete", "minecraft:light_blue_concrete", "minecraft:yellow_concrete", "minecraft:lime_concrete", "minecraft:pink_concrete", "minecraft:gray_concrete", "minecraft:light_gray_concrete", "minecraft:cyan_concrete", "minecraft:purple_concrete", "minecraft:blue_concrete", "minecraft:brown_concrete", "minecraft:green_concrete", "minecraft:black_concrete", "minecraft:red_concrete"]}
+item/concrete_powder :: {"values": ["minecraft:white_concrete_powder", "minecraft:orange_concrete_powder", "minecraft:magenta_concrete_powder", "minecraft:light_blue_concrete_powder", "minecraft:yellow_concrete_powder", "minecraft:lime_concrete_powder", "minecraft:pink_concrete_powder", "minecraft:gray_concrete_powder", "minecraft:light_gray_concrete_powder", "minecraft:cyan_concrete_powder", "minecraft:purple_concrete_powder", "minecraft:blue_concrete_powder", "minecraft:brown_concrete_powder", "minecraft:green_concrete_powder", "minecraft:red_concrete_powder", "minecraft:black_concrete_powder"]}
+item/concrete_powders :: {"values": ["minecraft:white_concrete_powder", "minecraft:orange_concrete_powder", "minecraft:magenta_concrete_powder", "minecraft:light_blue_concrete_powder", "minecraft:yellow_concrete_powder", "minecraft:lime_concrete_powder", "minecraft:pink_concrete_powder", "minecraft:gray_concrete_powder", "minecraft:light_gray_concrete_powder", "minecraft:cyan_concrete_powder", "minecraft:purple_concrete_powder", "minecraft:blue_concrete_powder", "minecraft:brown_concrete_powder", "minecraft:green_concrete_powder", "minecraft:red_concrete_powder", "minecraft:black_concrete_powder", {"id": "#c:concrete_powder", "required": false}]}
+item/concretes :: {"values": ["minecraft:white_concrete", "minecraft:orange_concrete", "minecraft:magenta_concrete", "minecraft:light_blue_concrete", "minecraft:yellow_concrete", "minecraft:lime_concrete", "minecraft:pink_concrete", "minecraft:gray_concrete", "minecraft:light_gray_concrete", "minecraft:cyan_concrete", "minecraft:purple_concrete", "minecraft:blue_concrete", "minecraft:brown_concrete", "minecraft:green_concrete", "minecraft:black_concrete", "minecraft:red_concrete", {"id": "#c:concrete", "required": false}]}
+item/crops :: {"values": [{"id": "#c:crops/beetroot", "required": false}, {"id": "#c:crops/cactus", "required": false}, {"id": "#c:crops/carrot", "required": false}, {"id": "#c:crops/cocoa_bean", "required": false}, {"id": "#c:crops/melon", "required": false}, {"id": "#c:crops/nether_wart", "required": false}, {"id": "#c:crops/potato", "required": false}, {"id": "#c:crops/pumpkin", "required": false}, {"id": "#c:crops/sugar_cane", "required": false}, {"id": "#c:crops/wheat", "required": false}]}
+item/crops/beetroot :: {"values": ["minecraft:beetroot"]}
+item/crops/cactus :: {"values": ["minecraft:cactus"]}
+item/crops/carrot :: {"values": ["minecraft:carrot"]}
+item/crops/cocoa_bean :: {"values": ["minecraft:cocoa_beans"]}
+item/crops/melon :: {"values": ["minecraft:melon"]}
+item/crops/nether_wart :: {"values": ["minecraft:nether_wart"]}
+item/crops/potato :: {"values": ["minecraft:potato"]}
+item/crops/pumpkin :: {"values": ["minecraft:pumpkin"]}
+item/crops/sugar_cane :: {"values": ["minecraft:sugar_cane"]}
+item/crops/wheat :: {"values": ["minecraft:wheat"]}
+item/drink_containing/bottle :: {"values": ["minecraft:potion", "minecraft:honey_bottle", "minecraft:ominous_bottle"]}
+item/drink_containing/bucket :: {"values": ["minecraft:milk_bucket"]}
+item/drinks :: {"values": [{"id": "#c:drinks/water", "required": false}, {"id": "#c:drinks/watery", "required": false}, {"id": "#c:drinks/milk", "required": false}, {"id": "#c:drinks/honey", "required": false}, {"id": "#c:drinks/magic", "required": false}, {"id": "#c:drinks/ominous", "required": false}, {"id": "#c:drinks/juice", "required": false}]}
+item/drinks/honey :: {"values": ["minecraft:honey_bottle"]}
+item/drinks/juice :: {"values": []}
+item/drinks/magic :: {"values": ["minecraft:potion", {"id": "#c:drinks/ominous", "required": false}]}
+item/drinks/milk :: {"values": ["minecraft:milk_bucket"]}
+item/drinks/ominous :: {"values": ["minecraft:ominous_bottle"]}
+item/drinks/water :: {"values": []}
+item/drinks/watery :: {"values": ["minecraft:potion", {"id": "#c:drinks/water", "required": false}]}
+item/dusts :: {"values": [{"id": "#c:dusts/glowstone", "required": false}, {"id": "#c:dusts/redstone", "required": false}]}
+item/dusts/glowstone :: {"values": ["minecraft:glowstone_dust", {"id": "#c:glowstone_dusts", "required": false}]}
+item/dusts/redstone :: {"values": ["minecraft:redstone", {"id": "#c:redstone_dusts", "required": false}]}
+item/dyed :: {"values": ["#c:dyed/white", "#c:dyed/orange", "#c:dyed/magenta", "#c:dyed/light_blue", "#c:dyed/yellow", "#c:dyed/lime", "#c:dyed/pink", "#c:dyed/gray", "#c:dyed/light_gray", "#c:dyed/cyan", "#c:dyed/purple", "#c:dyed/blue", "#c:dyed/brown", "#c:dyed/green", "#c:dyed/red", "#c:dyed/black"]}
+item/dyed/black :: {"values": ["minecraft:black_banner", "minecraft:black_bed", "minecraft:black_candle", "minecraft:black_carpet", "minecraft:black_concrete", "minecraft:black_concrete_powder", "minecraft:black_glazed_terracotta", "minecraft:black_shulker_box", "minecraft:black_stained_glass", "minecraft:black_stained_glass_pane", "minecraft:black_terracotta", "minecraft:black_wool"]}
+item/dyed/blue :: {"values": ["minecraft:blue_banner", "minecraft:blue_bed", "minecraft:blue_candle", "minecraft:blue_carpet", "minecraft:blue_concrete", "minecraft:blue_concrete_powder", "minecraft:blue_glazed_terracotta", "minecraft:blue_shulker_box", "minecraft:blue_stained_glass", "minecraft:blue_stained_glass_pane", "minecraft:blue_terracotta", "minecraft:blue_wool"]}
+item/dyed/brown :: {"values": ["minecraft:brown_banner", "minecraft:brown_bed", "minecraft:brown_candle", "minecraft:brown_carpet", "minecraft:brown_concrete", "minecraft:brown_concrete_powder", "minecraft:brown_glazed_terracotta", "minecraft:brown_shulker_box", "minecraft:brown_stained_glass", "minecraft:brown_stained_glass_pane", "minecraft:brown_terracotta", "minecraft:brown_wool"]}
+item/dyed/cyan :: {"values": ["minecraft:cyan_banner", "minecraft:cyan_bed", "minecraft:cyan_candle", "minecraft:cyan_carpet", "minecraft:cyan_concrete", "minecraft:cyan_concrete_powder", "minecraft:cyan_glazed_terracotta", "minecraft:cyan_shulker_box", "minecraft:cyan_stained_glass", "minecraft:cyan_stained_glass_pane", "minecraft:cyan_terracotta", "minecraft:cyan_wool"]}
+item/dyed/gray :: {"values": ["minecraft:gray_banner", "minecraft:gray_bed", "minecraft:gray_candle", "minecraft:gray_carpet", "minecraft:gray_concrete", "minecraft:gray_concrete_powder", "minecraft:gray_glazed_terracotta", "minecraft:gray_shulker_box", "minecraft:gray_stained_glass", "minecraft:gray_stained_glass_pane", "minecraft:gray_terracotta", "minecraft:gray_wool"]}
+item/dyed/green :: {"values": ["minecraft:green_banner", "minecraft:green_bed", "minecraft:green_candle", "minecraft:green_carpet", "minecraft:green_concrete", "minecraft:green_concrete_powder", "minecraft:green_glazed_terracotta", "minecraft:green_shulker_box", "minecraft:green_stained_glass", "minecraft:green_stained_glass_pane", "minecraft:green_terracotta", "minecraft:green_wool"]}
+item/dyed/light_blue :: {"values": ["minecraft:light_blue_banner", "minecraft:light_blue_bed", "minecraft:light_blue_candle", "minecraft:light_blue_carpet", "minecraft:light_blue_concrete", "minecraft:light_blue_concrete_powder", "minecraft:light_blue_glazed_terracotta", "minecraft:light_blue_shulker_box", "minecraft:light_blue_stained_glass", "minecraft:light_blue_stained_glass_pane", "minecraft:light_blue_terracotta", "minecraft:light_blue_wool"]}
+item/dyed/light_gray :: {"values": ["minecraft:light_gray_banner", "minecraft:light_gray_bed", "minecraft:light_gray_candle", "minecraft:light_gray_carpet", "minecraft:light_gray_concrete", "minecraft:light_gray_concrete_powder", "minecraft:light_gray_glazed_terracotta", "minecraft:light_gray_shulker_box", "minecraft:light_gray_stained_glass", "minecraft:light_gray_stained_glass_pane", "minecraft:light_gray_terracotta", "minecraft:light_gray_wool"]}
+item/dyed/lime :: {"values": ["minecraft:lime_banner", "minecraft:lime_bed", "minecraft:lime_candle", "minecraft:lime_carpet", "minecraft:lime_concrete", "minecraft:lime_concrete_powder", "minecraft:lime_glazed_terracotta", "minecraft:lime_shulker_box", "minecraft:lime_stained_glass", "minecraft:lime_stained_glass_pane", "minecraft:lime_terracotta", "minecraft:lime_wool"]}
+item/dyed/magenta :: {"values": ["minecraft:magenta_banner", "minecraft:magenta_bed", "minecraft:magenta_candle", "minecraft:magenta_carpet", "minecraft:magenta_concrete", "minecraft:magenta_concrete_powder", "minecraft:magenta_glazed_terracotta", "minecraft:magenta_shulker_box", "minecraft:magenta_stained_glass", "minecraft:magenta_stained_glass_pane", "minecraft:magenta_terracotta", "minecraft:magenta_wool"]}
+item/dyed/orange :: {"values": ["minecraft:orange_banner", "minecraft:orange_bed", "minecraft:orange_candle", "minecraft:orange_carpet", "minecraft:orange_concrete", "minecraft:orange_concrete_powder", "minecraft:orange_glazed_terracotta", "minecraft:orange_shulker_box", "minecraft:orange_stained_glass", "minecraft:orange_stained_glass_pane", "minecraft:orange_terracotta", "minecraft:orange_wool"]}
+item/dyed/pink :: {"values": ["minecraft:pink_banner", "minecraft:pink_bed", "minecraft:pink_candle", "minecraft:pink_carpet", "minecraft:pink_concrete", "minecraft:pink_concrete_powder", "minecraft:pink_glazed_terracotta", "minecraft:pink_shulker_box", "minecraft:pink_stained_glass", "minecraft:pink_stained_glass_pane", "minecraft:pink_terracotta", "minecraft:pink_wool"]}
+item/dyed/purple :: {"values": ["minecraft:purple_banner", "minecraft:purple_bed", "minecraft:purple_candle", "minecraft:purple_carpet", "minecraft:purple_concrete", "minecraft:purple_concrete_powder", "minecraft:purple_glazed_terracotta", "minecraft:purple_shulker_box", "minecraft:purple_stained_glass", "minecraft:purple_stained_glass_pane", "minecraft:purple_terracotta", "minecraft:purple_wool"]}
+item/dyed/red :: {"values": ["minecraft:red_banner", "minecraft:red_bed", "minecraft:red_candle", "minecraft:red_carpet", "minecraft:red_concrete", "minecraft:red_concrete_powder", "minecraft:red_glazed_terracotta", "minecraft:red_shulker_box", "minecraft:red_stained_glass", "minecraft:red_stained_glass_pane", "minecraft:red_terracotta", "minecraft:red_wool"]}
+item/dyed/white :: {"values": ["minecraft:white_banner", "minecraft:white_bed", "minecraft:white_candle", "minecraft:white_carpet", "minecraft:white_concrete", "minecraft:white_concrete_powder", "minecraft:white_glazed_terracotta", "minecraft:white_shulker_box", "minecraft:white_stained_glass", "minecraft:white_stained_glass_pane", "minecraft:white_terracotta", "minecraft:white_wool"]}
+item/dyed/yellow :: {"values": ["minecraft:yellow_banner", "minecraft:yellow_bed", "minecraft:yellow_candle", "minecraft:yellow_carpet", "minecraft:yellow_concrete", "minecraft:yellow_concrete_powder", "minecraft:yellow_glazed_terracotta", "minecraft:yellow_shulker_box", "minecraft:yellow_stained_glass", "minecraft:yellow_stained_glass_pane", "minecraft:yellow_terracotta", "minecraft:yellow_wool"]}
+item/dyes :: {"values": [{"id": "#c:dyes/white", "required": false}, {"id": "#c:dyes/orange", "required": false}, {"id": "#c:dyes/magenta", "required": false}, {"id": "#c:dyes/light_blue", "required": false}, {"id": "#c:dyes/yellow", "required": false}, {"id": "#c:dyes/lime", "required": false}, {"id": "#c:dyes/pink", "required": false}, {"id": "#c:dyes/gray", "required": false}, {"id": "#c:dyes/light_gray", "required": false}, {"id": "#c:dyes/cyan", "required": false}, {"id": "#c:dyes/purple", "required": false}, {"id": "#c:dyes/blue", "required": false}, {"id": "#c:dyes/brown", "required": false}, {"id": "#c:dyes/green", "required": false}, {"id": "#c:dyes/red", "required": false}, {"id": "#c:dyes/black", "required": false}]}
+item/dyes/black :: {"values": ["minecraft:black_dye", {"id": "#c:black_dyes", "required": false}]}
+item/dyes/blue :: {"values": ["minecraft:blue_dye", {"id": "#c:blue_dyes", "required": false}]}
+item/dyes/brown :: {"values": ["minecraft:brown_dye", {"id": "#c:brown_dyes", "required": false}]}
+item/dyes/cyan :: {"values": ["minecraft:cyan_dye", {"id": "#c:cyan_dyes", "required": false}]}
+item/dyes/gray :: {"values": ["minecraft:gray_dye", {"id": "#c:gray_dyes", "required": false}]}
+item/dyes/green :: {"values": ["minecraft:green_dye", {"id": "#c:green_dyes", "required": false}]}
+item/dyes/light_blue :: {"values": ["minecraft:light_blue_dye", {"id": "#c:light_blue_dyes", "required": false}]}
+item/dyes/light_gray :: {"values": ["minecraft:light_gray_dye", {"id": "#c:light_gray_dyes", "required": false}]}
+item/dyes/lime :: {"values": ["minecraft:lime_dye", {"id": "#c:lime_dyes", "required": false}]}
+item/dyes/magenta :: {"values": ["minecraft:magenta_dye", {"id": "#c:magenta_dyes", "required": false}]}
+item/dyes/orange :: {"values": ["minecraft:orange_dye", {"id": "#c:orange_dyes", "required": false}]}
+item/dyes/pink :: {"values": ["minecraft:pink_dye", {"id": "#c:pink_dyes", "required": false}]}
+item/dyes/purple :: {"values": ["minecraft:purple_dye", {"id": "#c:purple_dyes", "required": false}]}
+item/dyes/red :: {"values": ["minecraft:red_dye", {"id": "#c:red_dyes", "required": false}]}
+item/dyes/white :: {"values": ["minecraft:white_dye", {"id": "#c:white_dyes", "required": false}]}
+item/dyes/yellow :: {"values": ["minecraft:yellow_dye", {"id": "#c:yellow_dyes", "required": false}]}
+item/eggs :: {"values": ["minecraft:egg"]}
+item/enchantables :: {"values": [{"id": "#minecraft:enchantable/armor", "required": false}, {"id": "#minecraft:enchantable/equippable", "required": false}, {"id": "#minecraft:enchantable/weapon", "required": false}, {"id": "#minecraft:enchantable/sword", "required": false}, {"id": "#minecraft:enchantable/mining", "required": false}, {"id": "#minecraft:enchantable/mining_loot", "required": false}, {"id": "#minecraft:enchantable/fishing", "required": false}, {"id": "#minecraft:enchantable/trident", "required": false}, {"id": "#minecraft:enchantable/bow", "required": false}, {"id": "#minecraft:enchantable/crossbow", "required": false}, {"id": "#minecraft:enchantable/mace", "required": false}, {"id": "#minecraft:enchantable/fire_aspect", "required": false}, {"id": "#minecraft:enchantable/durability", "required": false}, {"id": "#minecraft:enchantable/vanishing", "required": false}]}
+item/end_stones :: {"values": ["minecraft:end_stone"]}
+item/ender_pearls :: {"values": ["minecraft:ender_pearl"]}
+item/feathers :: {"values": ["minecraft:feather"]}
+item/fence_gates :: {"values": [{"id": "#c:fence_gates/wooden", "required": false}]}
+item/fence_gates/wooden :: {"values": ["minecraft:oak_fence_gate", "minecraft:spruce_fence_gate", "minecraft:birch_fence_gate", "minecraft:jungle_fence_gate", "minecraft:acacia_fence_gate", "minecraft:dark_oak_fence_gate", "minecraft:crimson_fence_gate", "minecraft:warped_fence_gate", "minecraft:mangrove_fence_gate", "minecraft:bamboo_fence_gate", "minecraft:cherry_fence_gate"]}
+item/fences :: {"values": [{"id": "#c:fences/wooden", "required": false}, {"id": "#c:fences/nether_brick", "required": false}]}
+item/fences/nether_brick :: {"values": ["minecraft:nether_brick_fence"]}
+item/fences/wooden :: {"values": ["minecraft:oak_fence", "minecraft:spruce_fence", "minecraft:birch_fence", "minecraft:jungle_fence", "minecraft:acacia_fence", "minecraft:dark_oak_fence", "minecraft:crimson_fence", "minecraft:warped_fence", "minecraft:mangrove_fence", "minecraft:bamboo_fence", "minecraft:cherry_fence"]}
+item/fertilizers :: {"values": ["minecraft:bone_meal"]}
+item/foods :: {"values": ["minecraft:baked_potato", "minecraft:pumpkin_pie", "minecraft:honey_bottle", "minecraft:ominous_bottle", "minecraft:dried_kelp", {"id": "#c:foods/fruit", "required": false}, {"id": "#c:foods/vegetable", "required": false}, {"id": "#c:foods/berry", "required": false}, {"id": "#c:foods/bread", "required": false}, {"id": "#c:foods/cookie", "required": false}, {"id": "#c:foods/dough", "required": false}, {"id": "#c:foods/raw_meat", "required": false}, {"id": "#c:foods/raw_fish", "required": false}, {"id": "#c:foods/cooked_meat", "required": false}, {"id": "#c:foods/cooked_fish", "required": false}, {"id": "#c:foods/soup", "required": false}, {"id": "#c:foods/candy", "required": false}, {"id": "#c:foods/pie", "required": false}, {"id": "#c:foods/golden", "required": false}, {"id": "#c:foods/edible_when_placed", "required": false}, {"id": "#c:foods/food_poisoning", "required": false}]}
+item/foods/berries :: {"values": ["minecraft:sweet_berries", "minecraft:glow_berries"]}
+item/foods/berry :: {"values": ["minecraft:sweet_berries", "minecraft:glow_berries", {"id": "#c:foods/berries", "required": false}]}
+item/foods/bread :: {"values": ["minecraft:bread", {"id": "#c:foods/breads", "required": false}]}
+item/foods/breads :: {"values": ["minecraft:bread"]}
+item/foods/candies :: {"values": []}
+item/foods/candy :: {"values": [{"id": "#c:foods/candies", "required": false}]}
+item/foods/cooked_fish :: {"values": ["minecraft:cooked_cod", "minecraft:cooked_salmon", {"id": "#c:foods/cooked_fishes", "required": false}]}
+item/foods/cooked_fishes :: {"values": ["minecraft:cooked_cod", "minecraft:cooked_salmon"]}
+item/foods/cooked_meat :: {"values": ["minecraft:cooked_beef", "minecraft:cooked_porkchop", "minecraft:cooked_chicken", "minecraft:cooked_rabbit", "minecraft:cooked_mutton", {"id": "#c:foods/cooked_meats", "required": false}]}
+item/foods/cooked_meats :: {"values": ["minecraft:cooked_beef", "minecraft:cooked_porkchop", "minecraft:cooked_chicken", "minecraft:cooked_rabbit", "minecraft:cooked_mutton"]}
+item/foods/cookie :: {"values": ["minecraft:cookie", {"id": "#c:foods/cookies", "required": false}]}
+item/foods/cookies :: {"values": ["minecraft:cookie"]}
+item/foods/dough :: {"values": []}
+item/foods/edible_when_placed :: {"values": ["minecraft:cake"]}
+item/foods/food_poisoning :: {"values": ["minecraft:poisonous_potato", "minecraft:pufferfish", "minecraft:spider_eye", "minecraft:chicken", "minecraft:rotten_flesh"]}
+item/foods/fruit :: {"values": ["minecraft:apple", "minecraft:golden_apple", "minecraft:enchanted_golden_apple", "minecraft:chorus_fruit", "minecraft:melon_slice", {"id": "#c:foods/fruits", "required": false}]}
+item/foods/fruits :: {"values": ["minecraft:apple", "minecraft:golden_apple", "minecraft:enchanted_golden_apple", "minecraft:melon_slice"]}
+item/foods/golden :: {"values": ["minecraft:golden_apple", "minecraft:enchanted_golden_apple", "minecraft:golden_carrot"]}
+item/foods/pie :: {"values": ["minecraft:pumpkin_pie"]}
+item/foods/raw_fish :: {"values": ["minecraft:cod", "minecraft:salmon", "minecraft:tropical_fish", "minecraft:pufferfish", {"id": "#c:foods/raw_fishes", "required": false}]}
+item/foods/raw_fishes :: {"values": ["minecraft:cod", "minecraft:salmon", "minecraft:tropical_fish", "minecraft:pufferfish"]}
+item/foods/raw_meat :: {"values": ["minecraft:beef", "minecraft:porkchop", "minecraft:chicken", "minecraft:rabbit", "minecraft:mutton", {"id": "#c:foods/raw_meats", "required": false}]}
+item/foods/raw_meats :: {"values": ["minecraft:beef", "minecraft:porkchop", "minecraft:chicken", "minecraft:rabbit", "minecraft:mutton"]}
+item/foods/soup :: {"values": ["minecraft:beetroot_soup", "minecraft:mushroom_stew", "minecraft:rabbit_stew", "minecraft:suspicious_stew", {"id": "#c:foods/soups", "required": false}]}
+item/foods/soups :: {"values": ["minecraft:beetroot_soup", "minecraft:mushroom_stew", "minecraft:rabbit_stew", "minecraft:suspicious_stew"]}
+item/foods/vegetable :: {"values": ["minecraft:carrot", "minecraft:golden_carrot", "minecraft:potato", "minecraft:beetroot", {"id": "#c:foods/vegetables", "required": false}]}
+item/foods/vegetables :: {"values": ["minecraft:carrot", "minecraft:golden_carrot", "minecraft:potato", "minecraft:beetroot"]}
+item/gems :: {"values": [{"id": "#c:gems/amethyst", "required": false}, {"id": "#c:gems/diamond", "required": false}, {"id": "#c:gems/emerald", "required": false}, {"id": "#c:gems/lapis", "required": false}, {"id": "#c:gems/prismarine", "required": false}, {"id": "#c:gems/quartz", "required": false}]}
+item/gems/amethyst :: {"values": ["minecraft:amethyst_shard"]}
+item/gems/diamond :: {"values": ["minecraft:diamond", {"id": "#c:diamonds", "required": false}]}
+item/gems/emerald :: {"values": ["minecraft:emerald", {"id": "#c:emeralds", "required": false}]}
+item/gems/lapis :: {"values": ["minecraft:lapis_lazuli", {"id": "#c:lapis", "required": false}]}
+item/gems/prismarine :: {"values": ["minecraft:prismarine_crystals"]}
+item/gems/quartz :: {"values": ["minecraft:quartz", {"id": "#c:quartz", "required": false}]}
+item/glass_blocks :: {"values": [{"id": "#c:glass_blocks/colorless", "required": false}, {"id": "#c:glass_blocks/cheap", "required": false}, {"id": "#c:glass_blocks/tinted", "required": false}]}
+item/glass_blocks/cheap :: {"values": ["minecraft:glass", "minecraft:white_stained_glass", "minecraft:orange_stained_glass", "minecraft:magenta_stained_glass", "minecraft:light_blue_stained_glass", "minecraft:yellow_stained_glass", "minecraft:lime_stained_glass", "minecraft:pink_stained_glass", "minecraft:gray_stained_glass", "minecraft:light_gray_stained_glass", "minecraft:cyan_stained_glass", "minecraft:purple_stained_glass", "minecraft:blue_stained_glass", "minecraft:brown_stained_glass", "minecraft:green_stained_glass", "minecraft:black_stained_glass", "minecraft:red_stained_glass"]}
+item/glass_blocks/colorless :: {"values": ["minecraft:glass"]}
+item/glass_blocks/tinted :: {"values": ["minecraft:tinted_glass"]}
+item/glass_panes :: {"values": ["minecraft:white_stained_glass_pane", "minecraft:orange_stained_glass_pane", "minecraft:magenta_stained_glass_pane", "minecraft:light_blue_stained_glass_pane", "minecraft:yellow_stained_glass_pane", "minecraft:lime_stained_glass_pane", "minecraft:pink_stained_glass_pane", "minecraft:gray_stained_glass_pane", "minecraft:light_gray_stained_glass_pane", "minecraft:cyan_stained_glass_pane", "minecraft:purple_stained_glass_pane", "minecraft:blue_stained_glass_pane", "minecraft:brown_stained_glass_pane", "minecraft:green_stained_glass_pane", "minecraft:black_stained_glass_pane", "minecraft:red_stained_glass_pane", {"id": "#c:glass_panes/colorless", "required": false}]}
+item/glass_panes/colorless :: {"values": ["minecraft:glass_pane"]}
+item/glazed_terracotta :: {"values": ["minecraft:white_glazed_terracotta", "minecraft:orange_glazed_terracotta", "minecraft:magenta_glazed_terracotta", "minecraft:light_blue_glazed_terracotta", "minecraft:yellow_glazed_terracotta", "minecraft:lime_glazed_terracotta", "minecraft:pink_glazed_terracotta", "minecraft:gray_glazed_terracotta", "minecraft:light_gray_glazed_terracotta", "minecraft:cyan_glazed_terracotta", "minecraft:purple_glazed_terracotta", "minecraft:blue_glazed_terracotta", "minecraft:brown_glazed_terracotta", "minecraft:green_glazed_terracotta", "minecraft:black_glazed_terracotta", "minecraft:red_glazed_terracotta"]}
+item/glazed_terracottas :: {"values": ["minecraft:white_glazed_terracotta", "minecraft:orange_glazed_terracotta", "minecraft:magenta_glazed_terracotta", "minecraft:light_blue_glazed_terracotta", "minecraft:yellow_glazed_terracotta", "minecraft:lime_glazed_terracotta", "minecraft:pink_glazed_terracotta", "minecraft:gray_glazed_terracotta", "minecraft:light_gray_glazed_terracotta", "minecraft:cyan_glazed_terracotta", "minecraft:purple_glazed_terracotta", "minecraft:blue_glazed_terracotta", "minecraft:brown_glazed_terracotta", "minecraft:green_glazed_terracotta", "minecraft:black_glazed_terracotta", "minecraft:red_glazed_terracotta", {"id": "#c:glazed_terracotta", "required": false}]}
+item/gravels :: {"values": ["minecraft:gravel"]}
+item/gunpowders :: {"values": ["minecraft:gunpowder"]}
+item/hidden_from_recipe_viewers :: {"values": []}
+item/ingots :: {"values": [{"id": "#c:ingots/copper", "required": false}, {"id": "#c:ingots/iron", "required": false}, {"id": "#c:ingots/gold", "required": false}, {"id": "#c:ingots/netherite", "required": false}]}
+item/ingots/copper :: {"values": ["minecraft:copper_ingot"]}
+item/ingots/gold :: {"values": ["minecraft:gold_ingot"]}
+item/ingots/iron :: {"values": ["minecraft:iron_ingot"]}
+item/ingots/netherite :: {"values": ["minecraft:netherite_ingot"]}
+item/leathers :: {"values": ["minecraft:leather"]}
+item/loom_patterns :: {"values": ["minecraft:flower_banner_pattern", "minecraft:creeper_banner_pattern", "minecraft:skull_banner_pattern", "minecraft:mojang_banner_pattern", "minecraft:globe_banner_pattern", "minecraft:piglin_banner_pattern", "minecraft:flow_banner_pattern", "minecraft:guster_banner_pattern"]}
+item/mushrooms :: {"values": ["minecraft:red_mushroom", "minecraft:brown_mushroom"]}
+item/music_discs :: {"values": ["minecraft:music_disc_13", "minecraft:music_disc_cat", "minecraft:music_disc_blocks", "minecraft:music_disc_chirp", "minecraft:music_disc_far", "minecraft:music_disc_mall", "minecraft:music_disc_mellohi", "minecraft:music_disc_stal", "minecraft:music_disc_strad", "minecraft:music_disc_ward", "minecraft:music_disc_11", "minecraft:music_disc_wait", "minecraft:music_disc_otherside", "minecraft:music_disc_5", "minecraft:music_disc_pigstep", "minecraft:music_disc_relic", "minecraft:music_disc_creator", "minecraft:music_disc_creator_music_box", "minecraft:music_disc_precipice"]}
+item/nether_stars :: {"values": ["minecraft:nether_star"]}
+item/netherracks :: {"values": ["minecraft:netherrack"]}
+item/nuggets :: {"values": [{"id": "#c:nuggets/iron", "required": false}, {"id": "#c:nuggets/gold", "required": false}]}
+item/nuggets/gold :: {"values": ["minecraft:gold_nugget"]}
+item/nuggets/iron :: {"values": ["minecraft:iron_nugget"]}
+item/obsidians :: {"values": [{"id": "#c:obsidians/normal", "required": false}, {"id": "#c:obsidians/crying", "required": false}]}
+item/obsidians/crying :: {"values": ["minecraft:crying_obsidian"]}
+item/obsidians/normal :: {"values": ["minecraft:obsidian"]}
+item/ore_bearing_ground/deepslate :: {"values": ["minecraft:deepslate"]}
+item/ore_bearing_ground/netherrack :: {"values": ["minecraft:netherrack"]}
+item/ore_bearing_ground/stone :: {"values": ["minecraft:stone"]}
+item/ore_rates/dense :: {"values": ["minecraft:copper_ore", "minecraft:deepslate_copper_ore", "minecraft:deepslate_lapis_ore", "minecraft:deepslate_redstone_ore", "minecraft:lapis_ore", "minecraft:redstone_ore"]}
+item/ore_rates/singular :: {"values": ["minecraft:ancient_debris", "minecraft:coal_ore", "minecraft:deepslate_coal_ore", "minecraft:deepslate_diamond_ore", "minecraft:deepslate_emerald_ore", "minecraft:deepslate_gold_ore", "minecraft:deepslate_iron_ore", "minecraft:diamond_ore", "minecraft:emerald_ore", "minecraft:gold_ore", "minecraft:iron_ore", "minecraft:nether_quartz_ore"]}
+item/ore_rates/sparse :: {"values": ["minecraft:nether_gold_ore"]}
+item/ores :: {"values": [{"id": "#c:ores/coal", "required": false}, {"id": "#c:ores/copper", "required": false}, {"id": "#c:ores/diamond", "required": false}, {"id": "#c:ores/emerald", "required": false}, {"id": "#c:ores/gold", "required": false}, {"id": "#c:ores/iron", "required": false}, {"id": "#c:ores/lapis", "required": false}, {"id": "#c:ores/netherite_scrap", "required": false}, {"id": "#c:ores/redstone", "required": false}, {"id": "#c:ores/quartz", "required": false}]}
+item/ores/coal :: {"values": [{"id": "#minecraft:coal_ores", "required": false}]}
+item/ores/copper :: {"values": [{"id": "#minecraft:copper_ores", "required": false}]}
+item/ores/diamond :: {"values": [{"id": "#minecraft:diamond_ores", "required": false}]}
+item/ores/emerald :: {"values": [{"id": "#minecraft:emerald_ores", "required": false}]}
+item/ores/gold :: {"values": [{"id": "#minecraft:gold_ores", "required": false}]}
+item/ores/iron :: {"values": [{"id": "#minecraft:iron_ores", "required": false}]}
+item/ores/lapis :: {"values": [{"id": "#minecraft:lapis_ores", "required": false}]}
+item/ores/netherite_scrap :: {"values": ["minecraft:ancient_debris"]}
+item/ores/quartz :: {"values": ["minecraft:nether_quartz_ore", {"id": "#c:quartz_ores", "required": false}]}
+item/ores/redstone :: {"values": [{"id": "#minecraft:redstone_ores", "required": false}]}
+item/ores_in_ground/deepslate :: {"values": ["minecraft:deepslate_coal_ore", "minecraft:deepslate_copper_ore", "minecraft:deepslate_diamond_ore", "minecraft:deepslate_emerald_ore", "minecraft:deepslate_gold_ore", "minecraft:deepslate_iron_ore", "minecraft:deepslate_lapis_ore", "minecraft:deepslate_redstone_ore"]}
+item/ores_in_ground/netherrack :: {"values": ["minecraft:nether_gold_ore", "minecraft:nether_quartz_ore"]}
+item/ores_in_ground/stone :: {"values": ["minecraft:coal_ore", "minecraft:copper_ore", "minecraft:diamond_ore", "minecraft:emerald_ore", "minecraft:gold_ore", "minecraft:iron_ore", "minecraft:lapis_ore", "minecraft:redstone_ore"]}
+item/player_workstations/crafting_tables :: {"values": ["minecraft:crafting_table"]}
+item/player_workstations/furnaces :: {"values": ["minecraft:furnace"]}
+item/potions :: {"values": [{"id": "#c:potions/bottle", "required": false}]}
+item/potions/bottle :: {"values": ["minecraft:potion", "minecraft:splash_potion", "minecraft:lingering_potion"]}
+item/pumpkins :: {"values": ["#c:pumpkins/normal", "#c:pumpkins/carved", "#c:pumpkins/jack_o_lanterns"]}
+item/pumpkins/carved :: {"values": ["minecraft:carved_pumpkin"]}
+item/pumpkins/jack_o_lanterns :: {"values": ["minecraft:jack_o_lantern"]}
+item/pumpkins/normal :: {"values": ["minecraft:pumpkin"]}
+item/raw_blocks :: {"values": [{"id": "#c:raw_blocks/copper", "required": false}, {"id": "#c:raw_blocks/gold", "required": false}, {"id": "#c:raw_blocks/iron", "required": false}]}
+item/raw_blocks/copper :: {"values": ["minecraft:raw_copper_block"]}
+item/raw_blocks/gold :: {"values": ["minecraft:raw_gold_block"]}
+item/raw_blocks/iron :: {"values": ["minecraft:raw_iron_block"]}
+item/raw_materials :: {"values": [{"id": "#c:raw_materials/copper", "required": false}, {"id": "#c:raw_materials/gold", "required": false}, {"id": "#c:raw_materials/iron", "required": false}, {"id": "#c:raw_materials/copper", "required": false}, {"id": "#c:raw_materials/iron", "required": false}, {"id": "#c:raw_materials/gold", "required": false}]}
+item/raw_materials/copper :: {"values": ["minecraft:raw_copper", {"id": "#c:raw_copper_ores", "required": false}]}
+item/raw_materials/gold :: {"values": ["minecraft:raw_gold", {"id": "#c:raw_gold_ores", "required": false}]}
+item/raw_materials/iron :: {"values": ["minecraft:raw_iron", {"id": "#c:raw_iron_ores", "required": false}]}
+item/rods :: {"values": [{"id": "#c:rods/wooden", "required": false}, {"id": "#c:rods/blaze", "required": false}, {"id": "#c:rods/breeze", "required": false}]}
+item/rods/blaze :: {"values": ["minecraft:blaze_rod"]}
+item/rods/breeze :: {"values": ["minecraft:breeze_rod"]}
+item/rods/wooden :: {"values": ["minecraft:stick"]}
+item/ropes :: {"values": []}
+item/sands :: {"values": [{"id": "#c:sands/colorless", "required": false}, {"id": "#c:sands/red", "required": false}]}
+item/sands/colorless :: {"values": ["minecraft:sand"]}
+item/sands/red :: {"values": ["minecraft:red_sand"]}
+item/sandstone/blocks :: {"values": [{"id": "#c:sandstone/uncolored_blocks", "required": false}, {"id": "#c:sandstone/red_blocks", "required": false}, {"id": "#c:sandstone_blocks", "required": false}]}
+item/sandstone/red_blocks :: {"values": ["minecraft:red_sandstone", "minecraft:cut_red_sandstone", "minecraft:smooth_red_sandstone", "minecraft:chiseled_red_sandstone", {"id": "#c:red_sandstone_blocks", "required": false}]}
+item/sandstone/red_slabs :: {"values": ["minecraft:red_sandstone_slab", "minecraft:cut_red_sandstone_slab", "minecraft:smooth_red_sandstone_slab", {"id": "#c:red_sandstone_slabs", "required": false}]}
+item/sandstone/red_stairs :: {"values": ["minecraft:red_sandstone_stairs", "minecraft:smooth_red_sandstone_stairs", {"id": "#c:red_sandstone_stairs", "required": false}]}
+item/sandstone/slabs :: {"values": [{"id": "#c:sandstone/uncolored_slabs", "required": false}, {"id": "#c:sandstone/red_slabs", "required": false}, {"id": "#c:sandstone_slabs", "required": false}]}
+item/sandstone/stairs :: {"values": [{"id": "#c:sandstone/uncolored_stairs", "required": false}, {"id": "#c:sandstone/red_stairs", "required": false}, {"id": "#c:sandstone_stairs", "required": false}]}
+item/sandstone/uncolored_blocks :: {"values": ["minecraft:sandstone", "minecraft:cut_sandstone", "minecraft:smooth_sandstone", "minecraft:chiseled_sandstone", {"id": "#c:uncolored_sandstone_blocks", "required": false}]}
+item/sandstone/uncolored_slabs :: {"values": ["minecraft:sandstone_slab", "minecraft:cut_sandstone_slab", "minecraft:smooth_sandstone_slab", {"id": "#c:uncolored_sandstone_slabs", "required": false}]}
+item/sandstone/uncolored_stairs :: {"values": ["minecraft:sandstone_stairs", "minecraft:smooth_sandstone_stairs", {"id": "#c:uncolored_sandstone_stairs", "required": false}]}
+item/seeds :: {"values": [{"id": "#c:seeds/beetroot", "required": false}, {"id": "#c:seeds/melon", "required": false}, {"id": "#c:seeds/pumpkin", "required": false}, {"id": "#c:seeds/torchflower", "required": false}, {"id": "#c:seeds/wheat", "required": false}]}
+item/seeds/beetroot :: {"values": ["minecraft:beetroot_seeds"]}
+item/seeds/melon :: {"values": ["minecraft:melon_seeds"]}
+item/seeds/pumpkin :: {"values": ["minecraft:pumpkin_seeds"]}
+item/seeds/torchflower :: {"values": ["minecraft:torchflower_seeds"]}
+item/seeds/wheat :: {"values": ["minecraft:wheat_seeds"]}
+item/shulker_boxes :: {"values": ["minecraft:shulker_box", "minecraft:white_shulker_box", "minecraft:orange_shulker_box", "minecraft:magenta_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:pink_shulker_box", "minecraft:gray_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:cyan_shulker_box", "minecraft:purple_shulker_box", "minecraft:blue_shulker_box", "minecraft:brown_shulker_box", "minecraft:green_shulker_box", "minecraft:red_shulker_box", "minecraft:black_shulker_box"]}
+item/slime_balls :: {"values": ["minecraft:slime_ball"]}
+item/stones :: {"values": ["minecraft:stone", "minecraft:andesite", "minecraft:diorite", "minecraft:granite", "minecraft:tuff", "minecraft:deepslate"]}
+item/storage_blocks :: {"values": ["#c:storage_blocks/bone_meal", "#c:storage_blocks/coal", "#c:storage_blocks/copper", "#c:storage_blocks/diamond", "#c:storage_blocks/dried_kelp", "#c:storage_blocks/emerald", "#c:storage_blocks/gold", "#c:storage_blocks/iron", "#c:storage_blocks/lapis", "#c:storage_blocks/netherite", "#c:storage_blocks/raw_copper", "#c:storage_blocks/raw_gold", "#c:storage_blocks/raw_iron", "#c:storage_blocks/redstone", "#c:storage_blocks/slime", "#c:storage_blocks/wheat"]}
+item/storage_blocks/bone_meal :: {"values": ["minecraft:bone_block"]}
+item/storage_blocks/coal :: {"values": ["minecraft:coal_block"]}
+item/storage_blocks/copper :: {"values": ["minecraft:copper_block"]}
+item/storage_blocks/diamond :: {"values": ["minecraft:diamond_block"]}
+item/storage_blocks/dried_kelp :: {"values": ["minecraft:dried_kelp_block"]}
+item/storage_blocks/emerald :: {"values": ["minecraft:emerald_block"]}
+item/storage_blocks/gold :: {"values": ["minecraft:gold_block"]}
+item/storage_blocks/iron :: {"values": ["minecraft:iron_block"]}
+item/storage_blocks/lapis :: {"values": ["minecraft:lapis_block"]}
+item/storage_blocks/netherite :: {"values": ["minecraft:netherite_block"]}
+item/storage_blocks/raw_copper :: {"values": ["minecraft:raw_copper_block"]}
+item/storage_blocks/raw_gold :: {"values": ["minecraft:raw_gold_block"]}
+item/storage_blocks/raw_iron :: {"values": ["minecraft:raw_iron_block"]}
+item/storage_blocks/redstone :: {"values": ["minecraft:redstone_block"]}
+item/storage_blocks/slime :: {"values": ["minecraft:slime_block"]}
+item/storage_blocks/wheat :: {"values": ["minecraft:hay_block"]}
+item/strings :: {"values": ["minecraft:string", {"id": "#c:string", "required": false}]}
+item/stripped_logs :: {"values": ["minecraft:stripped_acacia_log", "minecraft:stripped_bamboo_block", "minecraft:stripped_birch_log", "minecraft:stripped_cherry_log", "minecraft:stripped_dark_oak_log", "minecraft:stripped_jungle_log", "minecraft:stripped_mangrove_log", "minecraft:stripped_oak_log", "minecraft:stripped_spruce_log", "minecraft:stripped_crimson_stem", "minecraft:stripped_warped_stem"]}
+item/stripped_woods :: {"values": ["minecraft:stripped_acacia_wood", "minecraft:stripped_birch_wood", "minecraft:stripped_cherry_wood", "minecraft:stripped_dark_oak_wood", "minecraft:stripped_jungle_wood", "minecraft:stripped_mangrove_wood", "minecraft:stripped_oak_wood", "minecraft:stripped_spruce_wood", "minecraft:stripped_crimson_hyphae", "minecraft:stripped_warped_hyphae"]}
+item/tools :: {"values": [{"id": "#minecraft:axes", "required": false}, {"id": "#minecraft:hoes", "required": false}, {"id": "#minecraft:pickaxes", "required": false}, {"id": "#minecraft:shovels", "required": false}, {"id": "#minecraft:swords", "required": false}, {"id": "#c:tools/bow", "required": false}, {"id": "#c:tools/brush", "required": false}, {"id": "#c:tools/crossbow", "required": false}, {"id": "#c:tools/fishing_rod", "required": false}, {"id": "#c:tools/igniter", "required": false}, {"id": "#c:tools/shear", "required": false}, {"id": "#c:tools/shield", "required": false}, {"id": "#c:tools/spear", "required": false}, {"id": "#c:tools/mining_tool", "required": false}, {"id": "#c:tools/melee_weapon", "required": false}, {"id": "#c:tools/ranged_weapon", "required": false}]}
+item/tools/bow :: {"values": ["minecraft:bow", {"id": "#c:tools/bows", "required": false}, {"id": "#c:bows", "required": false}]}
+item/tools/bows :: {"values": ["minecraft:bow"]}
+item/tools/brush :: {"values": ["minecraft:brush", {"id": "#c:tools/brushes", "required": false}]}
+item/tools/brushes :: {"values": ["minecraft:brush"]}
+item/tools/crossbow :: {"values": ["minecraft:crossbow", {"id": "#c:tools/crossbows", "required": false}]}
+item/tools/crossbows :: {"values": ["minecraft:crossbow"]}
+item/tools/fishing_rod :: {"values": ["minecraft:fishing_rod", {"id": "#c:tools/fishing_rods", "required": false}]}
+item/tools/fishing_rods :: {"values": ["minecraft:fishing_rod"]}
+item/tools/igniter :: {"values": ["minecraft:flint_and_steel"]}
+item/tools/mace :: {"values": ["minecraft:mace"]}
+item/tools/melee_weapon :: {"values": ["minecraft:mace", "minecraft:trident", "minecraft:wooden_sword", "minecraft:stone_sword", "minecraft:golden_sword", "minecraft:iron_sword", "minecraft:diamond_sword", "minecraft:netherite_sword", "minecraft:wooden_axe", "minecraft:stone_axe", "minecraft:golden_axe", "minecraft:iron_axe", "minecraft:diamond_axe", "minecraft:netherite_axe", {"id": "#c:tools/melee_weapons", "required": false}]}
+item/tools/melee_weapons :: {"values": ["minecraft:wooden_sword", "minecraft:stone_sword", "minecraft:golden_sword", "minecraft:iron_sword", "minecraft:diamond_sword", "minecraft:netherite_sword", "minecraft:wooden_axe", "minecraft:stone_axe", "minecraft:golden_axe", "minecraft:iron_axe", "minecraft:diamond_axe", "minecraft:netherite_axe"]}
+item/tools/mining_tool :: {"values": ["minecraft:wooden_pickaxe", "minecraft:stone_pickaxe", "minecraft:golden_pickaxe", "minecraft:iron_pickaxe", "minecraft:diamond_pickaxe", "minecraft:netherite_pickaxe", {"id": "#c:tools/mining_tools", "required": false}]}
+item/tools/mining_tools :: {"values": ["minecraft:wooden_pickaxe", "minecraft:stone_pickaxe", "minecraft:golden_pickaxe", "minecraft:iron_pickaxe", "minecraft:diamond_pickaxe", "minecraft:netherite_pickaxe"]}
+item/tools/ranged_weapon :: {"values": ["minecraft:bow", "minecraft:crossbow", "minecraft:trident", {"id": "#c:tools/ranged_weapons", "required": false}]}
+item/tools/ranged_weapons :: {"values": ["minecraft:bow", "minecraft:crossbow", "minecraft:trident"]}
+item/tools/shear :: {"values": ["minecraft:shears", {"id": "#c:tools/shears", "required": false}, {"id": "#c:shears", "required": false}]}
+item/tools/shears :: {"values": ["minecraft:shears"]}
+item/tools/shield :: {"values": ["minecraft:shield", {"id": "#c:tools/shields", "required": false}, {"id": "#c:shields", "required": false}]}
+item/tools/shields :: {"values": ["minecraft:shield"]}
+item/tools/spear :: {"values": ["minecraft:trident", {"id": "#c:tools/spears", "required": false}, {"id": "#c:spears", "required": false}]}
+item/tools/spears :: {"values": ["minecraft:trident"]}
+item/villager_job_sites :: {"values": ["minecraft:barrel", "minecraft:blast_furnace", "minecraft:brewing_stand", "minecraft:cartography_table", "minecraft:cauldron", "minecraft:composter", "minecraft:fletching_table", "minecraft:grindstone", "minecraft:lectern", "minecraft:loom", "minecraft:smithing_table", "minecraft:smoker", "minecraft:stonecutter"]}
+worldgen/biome/hidden_from_locator_selection :: {"values": []}
+worldgen/biome/is_aquatic :: {"values": [{"id": "#c:is_ocean", "required": false}, {"id": "#c:is_river", "required": false}]}
+worldgen/biome/is_aquatic_icy :: {"values": ["minecraft:frozen_river", "minecraft:deep_frozen_ocean", "minecraft:frozen_ocean"]}
+worldgen/biome/is_badlands :: {"values": [{"id": "#minecraft:is_badlands", "required": false}]}
+worldgen/biome/is_beach :: {"values": [{"id": "#minecraft:is_beach", "required": false}]}
+worldgen/biome/is_birch_forest :: {"values": ["minecraft:birch_forest", "minecraft:old_growth_birch_forest"]}
+worldgen/biome/is_cave :: {"values": ["minecraft:deep_dark", "minecraft:dripstone_caves", "minecraft:lush_caves", {"id": "#c:caves", "required": false}]}
+worldgen/biome/is_cold :: {"values": ["#c:is_cold/overworld", "#c:is_cold/nether", "#c:is_cold/end"]}
+worldgen/biome/is_cold/end :: {"values": ["minecraft:the_end", "minecraft:small_end_islands", "minecraft:end_midlands", "minecraft:end_highlands", "minecraft:end_barrens"]}
+worldgen/biome/is_cold/nether :: {"values": []}
+worldgen/biome/is_cold/overworld :: {"values": ["minecraft:taiga", "minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga", "minecraft:windswept_hills", "minecraft:windswept_gravelly_hills", "minecraft:windswept_forest", "minecraft:snowy_plains", "minecraft:ice_spikes", "minecraft:grove", "minecraft:snowy_slopes", "minecraft:jagged_peaks", "minecraft:frozen_peaks", "minecraft:stony_shore", "minecraft:snowy_beach", "minecraft:snowy_taiga", "minecraft:frozen_river", "minecraft:cold_ocean", "minecraft:frozen_ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean", {"id": "#c:climate_cold", "required": false}]}
+worldgen/biome/is_dead :: {"values": []}
+worldgen/biome/is_deep_ocean :: {"values": [{"id": "#minecraft:is_deep_ocean", "required": false}]}
+worldgen/biome/is_dense_vegetation :: {"values": [{"id": "#c:is_dense_vegetation/overworld", "required": false}, {"id": "#c:is_dense_vegetation/nether", "required": false}, {"id": "#c:is_dense_vegetation/end", "required": false}]}
+worldgen/biome/is_dense_vegetation/end :: {"values": []}
+worldgen/biome/is_dense_vegetation/nether :: {"values": []}
+worldgen/biome/is_dense_vegetation/overworld :: {"values": ["minecraft:dark_forest", "minecraft:old_growth_birch_forest", "minecraft:old_growth_spruce_taiga", "minecraft:jungle", "minecraft:bamboo_jungle", "minecraft:mangrove_swamp", {"id": "#c:vegetation_dense", "required": false}]}
+worldgen/biome/is_desert :: {"values": ["minecraft:desert"]}
+worldgen/biome/is_dry :: {"values": ["#c:is_dry/overworld", "#c:is_dry/nether", "#c:is_dry/end"]}
+worldgen/biome/is_dry/end :: {"values": ["minecraft:the_end", "minecraft:small_end_islands", "minecraft:end_midlands", "minecraft:end_highlands", "minecraft:end_barrens"]}
+worldgen/biome/is_dry/nether :: {"values": ["minecraft:nether_wastes", "minecraft:crimson_forest", "minecraft:warped_forest", "minecraft:soul_sand_valley", "minecraft:basalt_deltas"]}
+worldgen/biome/is_dry/overworld :: {"values": ["minecraft:desert", "minecraft:badlands", "minecraft:wooded_badlands", "minecraft:eroded_badlands", "minecraft:savanna", "minecraft:savanna_plateau", "minecraft:windswept_savanna", {"id": "#c:climate_dry", "required": false}]}
+worldgen/biome/is_end :: {"values": [{"id": "#minecraft:is_end", "required": false}, {"id": "#c:in_the_end", "required": false}]}
+worldgen/biome/is_floral :: {"values": ["minecraft:sunflower_plains", "minecraft:meadow", "minecraft:cherry_grove", {"id": "#c:is_flower_forest", "required": false}]}
+worldgen/biome/is_flower_forest :: {"values": ["minecraft:flower_forest", {"id": "#c:flower_forests", "required": false}, {"id": "#c:flower_forests", "required": false}]}
+worldgen/biome/is_forest :: {"values": [{"id": "#minecraft:is_forest", "required": false}]}
+worldgen/biome/is_hill :: {"values": [{"id": "#minecraft:is_hill", "required": false}]}
+worldgen/biome/is_hot :: {"values": ["#c:is_hot/overworld", "#c:is_hot/nether", "#c:is_hot/end"]}
+worldgen/biome/is_hot/end :: {"values": []}
+worldgen/biome/is_hot/nether :: {"values": ["minecraft:nether_wastes", "minecraft:crimson_forest", "minecraft:warped_forest", "minecraft:soul_sand_valley", "minecraft:basalt_deltas"]}
+worldgen/biome/is_hot/overworld :: {"values": ["minecraft:jungle", "minecraft:bamboo_jungle", "minecraft:sparse_jungle", "minecraft:desert", "minecraft:badlands", "minecraft:wooded_badlands", "minecraft:eroded_badlands", "minecraft:savanna", "minecraft:savanna_plateau", "minecraft:windswept_savanna", "minecraft:stony_peaks", "minecraft:mushroom_fields", "minecraft:warm_ocean", {"id": "#c:climate_hot", "required": false}]}
+worldgen/biome/is_icy :: {"values": ["minecraft:frozen_peaks", "minecraft:ice_spikes"]}
+worldgen/biome/is_jungle :: {"values": [{"id": "#minecraft:is_jungle", "required": false}]}
+worldgen/biome/is_lush :: {"values": ["minecraft:lush_caves"]}
+worldgen/biome/is_magical :: {"values": []}
+worldgen/biome/is_mountain :: {"values": [{"id": "#minecraft:is_mountain", "required": false}, {"id": "#c:is_mountain/peak", "required": false}, {"id": "#c:is_mountain/slope", "required": false}]}
+worldgen/biome/is_mountain/peak :: {"values": ["minecraft:frozen_peaks", "minecraft:jagged_peaks", "minecraft:stony_peaks", {"id": "#c:mountain_peak", "required": false}]}
+worldgen/biome/is_mountain/slope :: {"values": ["minecraft:snowy_slopes", "minecraft:meadow", "minecraft:grove", "minecraft:cherry_grove", {"id": "#c:mountain_slope", "required": false}]}
+worldgen/biome/is_mushroom :: {"values": ["minecraft:mushroom_fields"]}
+worldgen/biome/is_nether :: {"values": [{"id": "#minecraft:is_nether", "required": false}, {"id": "#c:in_nether", "required": false}]}
+worldgen/biome/is_nether_forest :: {"values": ["minecraft:warped_forest", "minecraft:crimson_forest", {"id": "#c:nether_forests", "required": false}]}
+worldgen/biome/is_ocean :: {"values": [{"id": "#minecraft:is_ocean", "required": false}, {"id": "#c:is_deep_ocean", "required": false}, {"id": "#c:is_shallow_ocean", "required": false}]}
+worldgen/biome/is_old_growth :: {"values": ["minecraft:old_growth_birch_forest", "minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga"]}
+worldgen/biome/is_outer_end_island :: {"values": ["minecraft:end_highlands", "minecraft:end_midlands", "minecraft:end_barrens", {"id": "#c:end_islands", "required": false}]}
+worldgen/biome/is_overworld :: {"values": [{"id": "#minecraft:is_overworld", "required": false}, {"id": "#c:in_the_overworld", "required": false}]}
+worldgen/biome/is_plains :: {"values": ["minecraft:plains", "minecraft:sunflower_plains"]}
+worldgen/biome/is_plateau :: {"values": ["minecraft:wooded_badlands", "minecraft:savanna_plateau", "minecraft:cherry_grove", "minecraft:meadow"]}
+worldgen/biome/is_rare :: {"values": ["minecraft:sunflower_plains", "minecraft:flower_forest", "minecraft:old_growth_birch_forest", "minecraft:old_growth_spruce_taiga", "minecraft:bamboo_jungle", "minecraft:sparse_jungle", "minecraft:eroded_badlands", "minecraft:savanna_plateau", "minecraft:windswept_savanna", "minecraft:ice_spikes", "minecraft:windswept_gravelly_hills", "minecraft:mushroom_fields", "minecraft:deep_dark"]}
+worldgen/biome/is_river :: {"values": [{"id": "#minecraft:is_river", "required": false}]}
+worldgen/biome/is_sandy :: {"values": ["minecraft:desert", "minecraft:badlands", "minecraft:wooded_badlands", "minecraft:eroded_badlands", "minecraft:beach"]}
+worldgen/biome/is_savanna :: {"values": [{"id": "#minecraft:is_savanna", "required": false}]}
+worldgen/biome/is_shallow_ocean :: {"values": ["minecraft:ocean", "minecraft:lukewarm_ocean", "minecraft:warm_ocean", "minecraft:cold_ocean", "minecraft:frozen_ocean"]}
+worldgen/biome/is_snowy :: {"values": ["minecraft:snowy_beach", "minecraft:snowy_plains", "minecraft:ice_spikes", "minecraft:snowy_taiga", "minecraft:grove", "minecraft:snowy_slopes", "minecraft:jagged_peaks", "minecraft:frozen_peaks"]}
+worldgen/biome/is_snowy_plains :: {"values": ["minecraft:snowy_plains"]}
+worldgen/biome/is_sparse_vegetation :: {"values": [{"id": "#c:is_sparse_vegetation/overworld", "required": false}, {"id": "#c:is_sparse_vegetation/nether", "required": false}, {"id": "#c:is_sparse_vegetation/end", "required": false}]}
+worldgen/biome/is_sparse_vegetation/end :: {"values": []}
+worldgen/biome/is_sparse_vegetation/nether :: {"values": []}
+worldgen/biome/is_sparse_vegetation/overworld :: {"values": ["minecraft:wooded_badlands", "minecraft:savanna", "minecraft:savanna_plateau", "minecraft:sparse_jungle", "minecraft:windswept_savanna", "minecraft:windswept_forest", "minecraft:windswept_hills", "minecraft:windswept_gravelly_hills", "minecraft:snowy_slopes", "minecraft:jagged_peaks", "minecraft:frozen_peaks", {"id": "#c:vegetation_sparse", "required": false}]}
+worldgen/biome/is_spooky :: {"values": ["minecraft:dark_forest", "minecraft:deep_dark"]}
+worldgen/biome/is_stony_shores :: {"values": ["minecraft:stony_shore"]}
+worldgen/biome/is_swamp :: {"values": ["minecraft:mangrove_swamp", "minecraft:swamp"]}
+worldgen/biome/is_taiga :: {"values": [{"id": "#minecraft:is_taiga", "required": false}]}
+worldgen/biome/is_temperate :: {"values": ["#c:is_temperate/overworld", "#c:is_temperate/nether", "#c:is_temperate/end"]}
+worldgen/biome/is_temperate/end :: {"values": []}
+worldgen/biome/is_temperate/nether :: {"values": []}
+worldgen/biome/is_temperate/overworld :: {"values": ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:old_growth_birch_forest", "minecraft:dark_forest", "minecraft:cherry_grove", "minecraft:meadow", "minecraft:swamp", "minecraft:mangrove_swamp", "minecraft:beach", "minecraft:ocean", "minecraft:deep_ocean", {"id": "#c:climate_temperate", "required": false}]}
+worldgen/biome/is_tree/coniferous :: {"values": [{"id": "#c:is_taiga", "required": false}, "minecraft:grove", {"id": "#c:tree_coniferous", "required": false}]}
+worldgen/biome/is_tree/deciduous :: {"values": ["minecraft:forest", "minecraft:windswept_forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:dark_forest", "minecraft:old_growth_birch_forest", {"id": "#c:tree_deciduous", "required": false}]}
+worldgen/biome/is_tree/jungle :: {"values": [{"id": "#c:is_jungle", "required": false}, {"id": "#c:tree_jungle", "required": false}]}
+worldgen/biome/is_tree/savanna :: {"values": [{"id": "#c:is_savanna", "required": false}, {"id": "#c:tree_savanna", "required": false}]}
+worldgen/biome/is_underground :: {"values": [{"id": "#c:is_cave", "required": false}]}
+worldgen/biome/is_void :: {"values": ["minecraft:the_void"]}
+worldgen/biome/is_wasteland :: {"values": []}
+worldgen/biome/is_wet :: {"values": ["#c:is_wet/overworld", "#c:is_wet/nether", "#c:is_wet/end"]}
+worldgen/biome/is_wet/end :: {"values": []}
+worldgen/biome/is_wet/nether :: {"values": []}
+worldgen/biome/is_wet/overworld :: {"values": ["minecraft:swamp", "minecraft:mangrove_swamp", "minecraft:jungle", "minecraft:bamboo_jungle", "minecraft:sparse_jungle", "minecraft:beach", "minecraft:lush_caves", "minecraft:dripstone_caves", {"id": "#c:climate_wet", "required": false}]}
+worldgen/biome/is_windswept :: {"values": ["minecraft:windswept_hills", "minecraft:windswept_gravelly_hills", "minecraft:windswept_forest", "minecraft:windswept_savanna"]}
+worldgen/biome/no_default_monsters :: {"values": ["minecraft:mushroom_fields", "minecraft:deep_dark"]}
+worldgen/structure/hidden_from_displayers :: {"values": []}
+worldgen/structure/hidden_from_locator_selection :: {"values": []}
