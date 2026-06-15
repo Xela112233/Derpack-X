@@ -1,0 +1,29 @@
+pipeorgans:crafting/base | minecraft:crafting_shaped | c:ingots/copper create:fluid_pipe minecraft:crafting_shaped pipeorgans:base
+pipeorgans:crafting/brass_boot | minecraft:crafting_shaped | c:plates/brass minecraft:crafting_shaped pipeorgans:brass_boot
+pipeorgans:crafting/copper_boot | minecraft:crafting_shaped | c:plates/copper minecraft:crafting_shaped pipeorgans:copper_boot
+pipeorgans:crafting/dark_oak_boot | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_planks pipeorgans:dark_oak_boot
+pipeorgans:crafting/diapason | minecraft:crafting_shaped | c:ingots/zinc minecraft:crafting_shaped pipeorgans:base pipeorgans:diapason
+pipeorgans:crafting/gamba | minecraft:crafting_shaped | c:ingots/iron c:plates/iron minecraft:crafting_shaped pipeorgans:base pipeorgans:gamba
+pipeorgans:crafting/gedeckt | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:spruce_planks minecraft:spruce_slab pipeorgans:base pipeorgans:gedeckt
+pipeorgans:crafting/hohlflute | minecraft:crafting_shaped | minecraft:birch_planks minecraft:birch_slab minecraft:crafting_shaped pipeorgans:base pipeorgans:hohlflute
+pipeorgans:crafting/iron_boot | minecraft:crafting_shaped | c:plates/iron minecraft:crafting_shaped pipeorgans:iron_boot
+pipeorgans:crafting/keyboard_relay | minecraft:crafting_shaped | c:ingots/iron create:brass_casing create:precision_mechanism create:transmitter minecraft:crafting_shaped minecraft:redstone pipeorgans:keyboard_relay
+pipeorgans:crafting/nasard | minecraft:crafting_shaped | c:ingots/copper minecraft:crafting_shaped pipeorgans:base pipeorgans:nasard
+pipeorgans:crafting/piccolo | minecraft:crafting_shaped | c:ingots/iron minecraft:cherry_log minecraft:crafting_shaped pipeorgans:base pipeorgans:piccolo
+pipeorgans:crafting/rohrflote | minecraft:crafting_shaped | c:ingots/iron c:plates/iron minecraft:crafting_shaped pipeorgans:base pipeorgans:rohrflote
+pipeorgans:crafting/roll_puncher | minecraft:crafting_shaped | c:ingots/iron minecraft:crafting_shaped minecraft:smooth_stone minecraft:spruce_slab minecraft:writable_book pipeorgans:roll_puncher
+pipeorgans:crafting/subbass | minecraft:crafting_shaped | minecraft:crafting_shaped minecraft:dark_oak_planks minecraft:dark_oak_slab pipeorgans:base pipeorgans:subbass
+pipeorgans:crafting/tracker_bar | minecraft:crafting_shaped | create:brass_casing create:precision_mechanism create:shaft minecraft:crafting_shaped pipeorgans:tracker_bar
+pipeorgans:crafting/tuning_wire | minecraft:crafting_shaped | create:copper_nugget minecraft:crafting_shaped pipeorgans:tuning_wire
+pipeorgans:crafting/viola | minecraft:crafting_shaped | create:industrial_iron_block minecraft:crafting_shaped pipeorgans:base pipeorgans:viola
+pipeorgans:crafting/vox_celeste | minecraft:crafting_shaped | create:weathered_iron_block minecraft:crafting_shaped pipeorgans:base pipeorgans:vox_celeste
+pipeorgans:crafting/windchest | minecraft:crafting_shaped | create:fluid_pipe minecraft:crafting_shaped minecraft:oak_planks minecraft:redstone minecraft:spruce_slab pipeorgans:windchest
+pipeorgans:crafting/windchest_master | minecraft:crafting_shaped | c:ingots/zinc minecraft:crafting_shaped minecraft:oak_planks minecraft:redstone minecraft:spruce_slab pipeorgans:windchest_master
+pipeorgans:haunting/haunted_whistle | create:haunting | create:haunting create:steam_whistle pipeorgans:haunted_whistle
+pipeorgans:pressing/brass_reed | create:pressing | create:brass_nugget create:pressing pipeorgans:brass_reed
+pipeorgans:sequenced_assembly/english_horn | create:sequenced_assembly | create:deploying create:sequenced_assembly pipeorgans:base pipeorgans:brass_reed pipeorgans:english_horn pipeorgans:incomplete_english_horn pipeorgans:iron_boot pipeorgans:tuning_wire
+pipeorgans:sequenced_assembly/posaune | create:sequenced_assembly | create:deploying create:sequenced_assembly pipeorgans:base pipeorgans:brass_reed pipeorgans:dark_oak_boot pipeorgans:incomplete_posaune pipeorgans:posaune pipeorgans:tuning_wire
+pipeorgans:sequenced_assembly/trompette | create:sequenced_assembly | create:deploying create:sequenced_assembly pipeorgans:base pipeorgans:brass_boot pipeorgans:brass_reed pipeorgans:incomplete_trompette pipeorgans:trompette pipeorgans:tuning_wire
+pipeorgans:sequenced_assembly/vox_humana | create:sequenced_assembly | create:deploying create:sequenced_assembly pipeorgans:base pipeorgans:brass_reed pipeorgans:copper_boot pipeorgans:incomplete_vox_humana pipeorgans:tuning_wire pipeorgans:vox_humana
+pipeorgans:stonecutting/diapason | minecraft:stonecutting | minecraft:stonecutting pipeorgans:diapason pipeorgans:prestant
+pipeorgans:stonecutting/prestant | minecraft:stonecutting | minecraft:stonecutting pipeorgans:diapason pipeorgans:prestant

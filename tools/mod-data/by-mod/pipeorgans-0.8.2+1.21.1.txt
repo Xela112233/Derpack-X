@@ -1,0 +1,94 @@
+# pipeorgans-0.8.2+1.21.1
+
+## mod metadata (id / version / deps)
+license="MIT"
+modId="pipeorgans" #mandatory
+version="0.8.2+1.21.1" #mandatory
+displayName="Create: Sound of Steam" #mandatory
+modId="neoforge" #mandatory
+versionRange="[21.1.200,)" #mandatory
+modId="minecraft"
+versionRange="[1.21.1]"
+modId="create"
+versionRange="[6.0.8,6.1.0)"
+
+## blocks
+pipeorgans:base
+pipeorgans:diapason
+pipeorgans:diapason_extension
+pipeorgans:english_horn
+pipeorgans:english_horn_extension
+pipeorgans:gamba
+pipeorgans:gamba_extension
+pipeorgans:gedeckt
+pipeorgans:gedeckt_extension
+pipeorgans:haunted_whistle
+pipeorgans:haunted_whistle_extension
+pipeorgans:hohlflute
+pipeorgans:hohlflute_extension
+pipeorgans:keyboard_relay
+pipeorgans:nasard
+pipeorgans:nasard_extension
+pipeorgans:piccolo
+pipeorgans:piccolo_extension
+pipeorgans:posaune
+pipeorgans:posaune_extension
+pipeorgans:prestant
+pipeorgans:prestant_extension
+pipeorgans:rohrflote
+pipeorgans:rohrflote_extension
+pipeorgans:roll_puncher
+pipeorgans:subbass
+pipeorgans:subbass_extension
+pipeorgans:tracker_bar
+pipeorgans:trompette
+pipeorgans:trompette_extension
+pipeorgans:viola
+pipeorgans:viola_extension
+pipeorgans:vox_celeste
+pipeorgans:vox_celeste_extension
+pipeorgans:vox_humana
+pipeorgans:vox_humana_extension
+pipeorgans:windchest
+pipeorgans:windchest_master
+
+## items
+pipeorgans:base
+pipeorgans:brass_boot
+pipeorgans:brass_reed
+pipeorgans:copper_boot
+pipeorgans:dark_oak_boot
+pipeorgans:diapason
+pipeorgans:english_horn
+pipeorgans:gamba
+pipeorgans:gedeckt
+pipeorgans:haunted_whistle
+pipeorgans:hohlflute
+pipeorgans:incomplete_english_horn
+pipeorgans:incomplete_posaune
+pipeorgans:incomplete_trompette
+pipeorgans:incomplete_vox_humana
+pipeorgans:iron_boot
+pipeorgans:keyboard_relay
+pipeorgans:music_roll
+pipeorgans:nasard
+pipeorgans:piccolo
+pipeorgans:posaune
+pipeorgans:prestant
+pipeorgans:rohrflote
+pipeorgans:roll_puncher
+pipeorgans:subbass
+pipeorgans:tracker_bar
+pipeorgans:trompette
+pipeorgans:tuning_wire
+pipeorgans:viola
+pipeorgans:vox_celeste
+pipeorgans:vox_humana
+pipeorgans:windchest
+pipeorgans:windchest_master
+
+## neoforge biome_modifiers
+
+
+## c: common tag membership
+
