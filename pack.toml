@@ -1,12 +1,12 @@
 name = "Project Commonwealth"
 author = "Alex Ignacio-Gamez"
-version = "0.7.0"
+version = "0.8.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a03bcc5c764ef27f9418f62f9f71eab5b5ef7328cda4d04fcc22e0126e5c6169"
+hash = "85bcf767b528cad4bc123936b7f0e0df927923cc8236029333cb16b98d7a750f"
 
 [versions]
 minecraft = "1.21.1"

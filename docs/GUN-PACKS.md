@@ -162,6 +162,17 @@ workbench's tab icons used 1.20-era `{"item":…,"nbt":…}`; 1.21 needs `{"id":
 TaCZ logged a hard `BlockDataLoader`/`BlockIndexLoader` error for `create_armorer:create_workbench` —
 the override rewrites every tab icon to the component form, clearing the error.
 
+**Create: Armorer — `kubejs/data/create_armorer/data/guns/{gl_revolver_devastator,cannon_40mm_salamander}_data.json`
+(#308, v0.8.0):** the two explosive heavies never broke blocks — their `bullet.explosion` blocks lack
+`destroy_block` (TaCZ's `ExplosionData` defaults it false, and the runtime requires the per-gun flag
+*and* the global `ExplosiveAmmoDestroysBlock` config, which already defaults true). These same-id
+overrides are the pack's **own gun-data edit surface**: authored in our own form, carrying the pack's
+balance decisions — currently identical to live behavior since #308 changes only block destruction —
+plus `destroy_block: true`. **#231 (ammo/damage balance) edits these files**, never the zip.
+Mechanism verified in TaCZ 1.1.8 bytecode: `GunPackLoader` injects `.minecraft/tacz/` packs into the
+vanilla pack repository at `Pack.Position.BOTTOM`, so every real datapack — KubeJS's included —
+shadows same-id files; gun *data* jsons resolve through the same lookup the workbench fix proved out.
+
 > Regenerate after a mod update: re-run the recipe generator (it reads the `createimmersivetacz` and
 > `create_armorer` data straight from the jars/zip), re-validate JSON, then `packwiz refresh`.
 
@@ -201,6 +212,6 @@ the override rewrites every tab icon to the component form, clearing the error.
 - **Ammo is a four-stage line** (`.../recipe/ammo/`): casings cut from brass sheets (yields halved in
   v0.7.0), then per round: deploy primer → fill gunpowder → deploy a **lead** projectile (nuggets;
   ingots for the 40mm/grenade payloads) → crimping press. Lead demand is intentional (the lead veins).
-- **Known gap:** the grenade launcher + 40mm cannon don't break blocks — diagnosed (missing per-gun
-  `destroy_block`; the global TaCZ config already allows it) but the fix sits inside the ND-licensed
-  zip → **#308**. Default-TaCZ JEI visibility cleanup → **#307**.
+- ~~**Known gap:** the grenade launcher + 40mm cannon don't break blocks~~ — **fixed in v0.8.0 (#308)**
+  via the same-id gun-data overrides described in the compat-overlays section above (the ND zip stays
+  verbatim). Default-TaCZ JEI visibility cleanup shipped alongside it (#307).

@@ -16,5 +16,7 @@ in the wiki issue. Until then, add pages here as Markdown and link them from thi
 - `weapons-and-gear.md` — firearms and the ammo line, jetpacks, exoskeletons and power gear, capture
   tools, and where the gates are.
 - `inventory-profiles-next.md` — what Inventory Profiles Next does by default (sorting, auto-refill, locked slots) and how to turn pieces off.
+- `mining-stamina.md` — why mining makes you hungry: the block weight classes, the tool-tier drain
+  multipliers, the tooltip line that shows them, and what escapes the cost (machines, crops, decoration).
 - `units.md` — dimensional analysis of the pack's unit systems: what SU, FE, mB, °T, spurs, and Source
   actually measure, how they calibrate to real-world units, and where the conversion seams are.

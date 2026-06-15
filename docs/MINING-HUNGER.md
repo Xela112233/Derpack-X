@@ -97,6 +97,11 @@ Everything is at the top of `kubejs/server_scripts/mining-hunger.js`:
 - **Overall harshness** — `EXHAUSTION_PER_WEIGHT`. Lower it to make all mining cheaper
   (e.g. 0.4 → 200 blocks/bar for Normal); raise it to bite harder.
 - **Per-tier multipliers** — `W_LIGHT` / `W_NORMAL` / `W_HEAVY` / `W_VHEAVY`.
+- **Tool-tier multipliers** — `T_NONE` … `T_NETHERITE`. ⚠️ These are surfaced to players: the
+  mining-speed tooltip (`kubejs/client_scripts/mining-speed-tooltip.js`) shows a per-tool
+  "Stamina drain: x\<mult> (~N stone per shank)" line computed from a mirrored copy of this
+  table (client and server scripts can't share code) — when tuning a `T_*` value or
+  `toolMultiplier()`'s id rules, update the tooltip script to match.
 - **What lands in each tier** — the `FREE_*`, `LIGHT_*`, `HEAVY_*`, `METALS`, `VHEAVY_*`
   lists. The `METALS` list catches modded `<metal>_block` storage blocks generically; add a
   metal name there and every mod's block of it becomes very-heavy automatically.

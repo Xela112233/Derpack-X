@@ -23,6 +23,8 @@ const EXHAUSTION_PER_WEIGHT = 0.8
 // bare hand is hardest (2.5×), each tier of tool easier, down to netherite (0.5×). This is
 // why the "100 blocks per bar" anchor below is calibrated to an IRON tool (1.0×): wood/none
 // compress it, diamond/netherite stretch it. Final drain = rate × block weight × this.
+// ⚠️ The tooltip "Stamina drain" line (client_scripts/mining-speed-tooltip.js) mirrors
+// these values and toolMultiplier()'s id rules — KEEP THEM IN SYNC when tuning.
 const T_NONE      = 2.5  //  bare hand / non-mining item (sword, block, food, …)
 const T_WOOD      = 2.0  //  wooden (and golden — same harvest tier as wood)
 const T_STONE     = 1.5

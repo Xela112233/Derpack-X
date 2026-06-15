@@ -8,6 +8,43 @@
      The "## X.Y.Z" section ships verbatim as the GitHub release body (build.yml), so it must
      read complete on its own. Shipped sections are the published record — don't restyle them. -->
 
+## 0.8.0 — TBD
+
+_Draft placeholder — replace the lead with real notes before release._
+
+### Rendering
+
+- Distant Horizons is now in the pack, adding low-detail terrain far beyond the normal view distance
+  so the world keeps going to the horizon. It is adjustable in the video settings, and heavier on the
+  GPU at high settings — turn the detail distance down if your hardware feels it.
+- Aeronautics ships, planes, and vehicles now render at that extended distance instead of disappearing
+  at the edge of normal view. This is what the new Separate Sable Render Distance addon does; the
+  slider for it sits in the Sodium video settings, under Simulation Distance.
+
+### Additions
+
+- Create: Sound of Steam adds buildable pipe organs, with a wide range of organ stops powered through
+  Create. It is an early beta from upstream, so expect rough edges.
+- Fish from several of the pack's mods — Upgrade Aquatic, Alex's Mobs, L_Ender's Cataclysm, and Spawn —
+  are now catchable through Tide, with their own Fishing Journal entries, via the Tide Extra
+  Compatibility datapack.
+
+### Fixes and cleanup
+
+- Mining tools now show their mining speed in the tooltip, including the bonus from Efficiency. The
+  line was announced for 0.6.3 as an in-pack replacement for the removed Mining Speed Tooltips mod
+  but never rendered; the script has been rewritten against the correct API and works now. A second
+  line shows the tool's stamina drain — how the mining-hunger cost scales with the tool's tier,
+  anchored as standard blocks per shank of hunger.
+- The grenade launcher and the 40mm field cannon now break blocks. Their shells always exploded but
+  never carried the block-destruction flag; the fix ships as the pack's own data override, so the
+  bundled Create: Armorer gun pack remains unmodified.
+- The stock TaCZ guns, ammunition, and attachments no longer appear in JEI or the creative menu.
+  They were never craftable in this pack — the gun roster is the Create: Armorer set, built through
+  Create machines — so the leftover entries only read as broken content. The 12-gauge shell stays
+  visible: two Armorer shotguns fire it and it has a Create recipe. The four unused TaCZ gun
+  workbenches are hidden as well.
+
 ## 0.7.0 — The Create spine
 
 The tech route gets its backbone. Create and its addons now climb four tiers — manual, water and wind,

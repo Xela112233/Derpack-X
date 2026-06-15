@@ -32,6 +32,9 @@ A self-loading action cycles on its recoil spring, and the autocannon barrel com
 Cannons' cast-and-bore steel line — the pack's firearms grow out of the artillery industry, so expect to
 build a Big Cannons workshop on the way to a serious armory.
 
+The two explosive heavies — the grenade launcher and the 40mm field cannon — break blocks where their
+shells land. Treat them as siege weapons: fire near a base and you will leave craters in it.
+
 ## Ammunition
 
 Ammunition is a four-stage production line, not a craft. Brass casings are cut from sheets; each round
