@@ -2635,6 +2635,11 @@ hash = "4c6f7b9400c313faa67408db2a5a12ee38a94293926bcbcd7ce9a0c8b2e402e7"
 metafile = true
 
 [[files]]
+file = "mods/tide-extra-compatibility.pw.toml"
+hash = "b0e3edb9309ceb7976d9cf5fdb5e416f70c654f27b0d648d97cd0ad79ef69342"
+metafile = true
+
+[[files]]
 file = "mods/tide.pw.toml"
 hash = "74674dea8d53bc4e52793a6bdd03092478ee67d2d5c65f542ea13a5dc2847f32"
 metafile = true

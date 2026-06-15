@@ -25,6 +25,9 @@ _Draft placeholder — replace the lead with real notes before release._
 
 - Create: Sound of Steam adds buildable pipe organs, with a wide range of organ stops powered through
   Create. It is an early beta from upstream, so expect rough edges.
+- Fish from several of the pack's mods — Upgrade Aquatic, Alex's Mobs, L_Ender's Cataclysm, and Spawn —
+  are now catchable through Tide, with their own Fishing Journal entries, via the Tide Extra
+  Compatibility datapack.
 
 ### Fixes and cleanup
 
