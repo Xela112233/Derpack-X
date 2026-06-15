@@ -2802,11 +2802,6 @@ hash = "5fb7f4876a945a1af5b50ed9d25229696f06161e186d5565920ab2e28cd3f879"
 metafile = true
 
 [[files]]
-file = "mods/valarian-conquest.pw.toml"
-hash = "5e116858f979b7f0f3040334d352a02176233e1345c656d0423d8d0a6053d8ae"
-metafile = true
-
-[[files]]
 file = "mods/veil-lib.pw.toml"
 hash = "627a8401f992e449475d2403d2f02091ade5da0687d5a8dae7b0e9f8986053bc"
 metafile = true
