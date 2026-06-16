@@ -79,6 +79,13 @@ expedition over. Ore generation only affects newly generated chunks.
   three and none of the old overlay quirks; saved inventory profiles and locked slots, which saw
   little use, are gone with it.
 
+### Fixes
+
+- Fixed a client crash when an AzureLib-animated mob (for example the enenra) came into view. The
+  performance mod's parallel resource reloader was racing AzureLib's animation parser, corrupting it
+  during world load and then crashing the game the next time one of those mobs was drawn. The
+  parallel reloader is now turned off; world loads are marginally slower in exchange.
+
 ## 0.7.0 — The Create spine
 
 The tech route gets its backbone. Create and its addons now climb four tiers — manual, water and wind,

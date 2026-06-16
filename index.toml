@@ -57,6 +57,10 @@ file = "config/mixinhelper.json"
 hash = "e79e162a143d75ab2f19dd8ac5eef5f0c12f9cea6aae872b829c4ea3b869ce3d"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "28c7449e163fd3e567d7bee41ab4a64c69632273068e845024336ae8085efdfb"
+
+[[files]]
 file = "defaultconfigs/accessories.json5"
 hash = "2d34c1d20dfa9047a4ba9bfab54cbd89232cc0ba966acf0aac1f1c110581f624"
 
