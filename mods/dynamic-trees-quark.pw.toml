@@ -3,11 +3,11 @@ filename = "dtquark-2.6.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8d13799a1893faba90b3364c07ed7c076b41a7be"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9paueCZy/versions/rn17sHPV/dtquark-2.6.1.jar"
+hash-format = "sha512"
+hash = "c0e4ec5933d12869f7d24e33468a1902736e0705e550eb45408328946a63af2265dc2fdf4bbf3d97e33bbd9c8fd7c2612f6a0ada8c5795c74ea429a75d99adf4"
 
 [update]
-[update.curseforge]
-file-id = 8022428
-project-id = 386753
+[update.modrinth]
+mod-id = "9paueCZy"
+version = "rn17sHPV"

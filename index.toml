@@ -22,7 +22,11 @@ hash = "7ea3255a5a506429ba17c07f01393540860228d51a7e773209cdd2060c1d6bf2"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "7725fdda23e1f9f73fe4165105f6ad97f58f454a645db7cbffcf8166886de261"
+hash = "4efa666f5b6094abbc285c4006add752476fa2ff61405d00421f5f37a78d9964"
+
+[[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "3362627305afe2fcfb927aab03dbe9d4ad17146b69206fc17918765b8c07bee9"
 
 [[files]]
 file = "config/createblockchain-common.toml"
@@ -34,7 +38,7 @@ hash = "abe2744c46c81c28ef0bee5cc5cbf63c6982ee589f54ec06c9b31d258f841051"
 
 [[files]]
 file = "config/gtmogs.yaml"
-hash = "37723fb5b0d21c4cb2fecec47122b826a1f8aa876c790e876e64be8e3406c0d4"
+hash = "1caabd1805deea78f724bc3ad0e684f8526571cab359af3ea5bb910b097187ca"
 
 [[files]]
 file = "config/immersivepaintings.json"
@@ -53,16 +57,20 @@ file = "config/mixinhelper.json"
 hash = "e79e162a143d75ab2f19dd8ac5eef5f0c12f9cea6aae872b829c4ea3b869ce3d"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "28c7449e163fd3e567d7bee41ab4a64c69632273068e845024336ae8085efdfb"
+
+[[files]]
 file = "defaultconfigs/accessories.json5"
 hash = "2d34c1d20dfa9047a4ba9bfab54cbd89232cc0ba966acf0aac1f1c110581f624"
 
 [[files]]
-file = "kubejs/assets/inventoryprofilesnext/textures/gui/overlay_new.png"
-hash = "cce47379706d8eb5075a66e9710353bc659971b4f26f1fe1e9813956fdfe0ee4"
+file = "kubejs/client_scripts/hide-default-tacz-guns.js"
+hash = "51f8c3c5f904a9ea01cd7ff0c564b90c42e872ab99678c4a332a3105597c819b"
 
 [[files]]
 file = "kubejs/client_scripts/mining-speed-tooltip.js"
-hash = "aad40ea1cf31d88a0ec23cfc55b9e279a51db47cb84f5764c191c63c24a169b1"
+hash = "b42b4b6b75ce4983fa414ad3ba96db20c1d6510d4b8f9e862742b786e7d6c18e"
 
 [[files]]
 file = "kubejs/data/born_in_chaos_v1/neoforge/biome_modifier/infected_deepslate_diamond_ore_feature_biome_modifier.json"
@@ -470,95 +478,171 @@ hash = "f11f10777de47f37b15376898eadbc30136d20558f52b390a5ffcc5a8f74abb8"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/bauxite.json"
-hash = "3938899a8e8fb820d2b7a0804d206561d5e5e4b2ffcd2bcf8dd2e82ceaf195be"
+hash = "72225d96982ac9be58a3d4121ce1477341cb2ac8f8c5aea895243053a39afb75"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/coal.json"
-hash = "c131f259e76eff072ed7fb2373da7a5d45b6152259d332262022cc654590a3a5"
+hash = "3315a399bf54a2ade87a2cc8903c4a7c3469bfbe02407a8622509c3821fa1b6a"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/coal_mega.json"
+hash = "1718515f46a5984c9dc70c9ea195e0d8f3a6bee8d9fbcb40029626ba9edbfc41"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/copper.json"
-hash = "289d470cc6bec1245d219155278708b40a833ab6f4ba209a20dd676480862c33"
+hash = "9546d1ceda7bac4ca5452b1d8dc1ada85c474785cf67ce920e7a9f03aef1c091"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/copper_deep_ocean.json"
+hash = "7345e3d63a2f22c35e947988f647c35075ea589a61036f795c463b3b58917323"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/copper_forest.json"
+hash = "4f7a6f43edb132f82499bd8c9e6f0411f06e2eb22c2d8474864d4f119773a339"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/copper_mega.json"
+hash = "27d2e3877dbbbd9cc3dc9c33ea65eb48e7ae3483da54beb485c59a3905c21433"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/copper_warm_ocean.json"
+hash = "b2d21f09620c4f1ea4314897314c0faf552d14a563da878b1c61c9547e71da55"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/diamond.json"
-hash = "014e7c6daaf68dbf919195cd5100b2956fe890e83c004294f6bc27dfe1f85c3b"
+hash = "a1f68132032540a2d8c84f788f7826d44107f3783dd31c4c8bac05b999d75b0c"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/diamond_mountains.json"
+hash = "5bb5ebab94f4d94d69c4461acb817c6709daa441c2cdbde1675c91054dfcfeab"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/emerald.json"
-hash = "b0cce7a2965cbf8a969e42aa1f2ab885361032a47d2914a6bb6f83d3ca0cd8ab"
+hash = "15e5f086e574ed19089d3a4a2710140b7379aae4cd705cbaa2162ab4c7b49187"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/gold.json"
-hash = "94ce08ca987340fc96448657f8d0b80e1289ab4c948c19c4c16b90a5ae21e1cc"
+hash = "5e45e047dcf1995e0c6f8af84fde61ff6a8325aa65d3550df7235f9020979658"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/gold_forest.json"
+hash = "da22ac27ebe358cc51de6cf7b66c0e34e479ea5dceca964fb0a2b7ab31ebdc53"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/gold_hills.json"
+hash = "5068b8c445ce7b9a97f93b08b23cbe0f0f8e2b56bccf34eb25db1593781d123e"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/gold_warm_ocean.json"
+hash = "85cf17bd66ff004584376241f83326df4f273a2fe659dca64281c2dc6195c3e2"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/iron.json"
-hash = "8f9c8e81298a076da4a0ebb68a4cd164bd3d720de6ace04c71d6afba05e0f48d"
+hash = "6b5e55170901dfe18b2f337950d53738f623a2019b382a1b705ca708340f5a9b"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/iron_mega.json"
+hash = "e6a3ab93f3d0d561824d2831971ae3674ca0eb036b1209a6581b527d33fe4fdc"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/iron_swamp.json"
+hash = "4739ad90b621229622932c8025ec37104635dbdb38a306cc5c83bbba02483472"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/jade.json"
-hash = "cf06ae006b4f7a8119bc0b23c78e22cb01b246d06d02814bc2c4c06cf1629b34"
+hash = "c4cde03c196b1fe670a381fa4930d1f3efc846737b3aeed3fb9c8de321f206bc"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/lapis.json"
-hash = "dd55afb498185c76d13344369af7fe0c6bdfc7535ec65e31642b552a9958ae37"
+hash = "878f71c1c38160b9218a31de301ec92a6c521f5304b1072d2ea26ed2a7bcacdc"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/lapis_jungle.json"
+hash = "0eb749c873ccf0349bbf5b6943ba9b60b42881c8ef319f14a2d1b40c9e6e59e3"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/lead.json"
-hash = "613e1d325d0c7eba114c54f53a5314aa08a88fe81d384b8056aec85f7b810df2"
+hash = "76870bbeb5467250b2ab5d1a8593d02ea2e3a8026178b331e920663c1a78f453"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/lead_warm_ocean.json"
+hash = "764dea3c421551ba84b9faf9d74e319bd81d42defe69b265b438caa0754ccaff"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/lignite.json"
-hash = "4ec29d338fcf2171833f8a4a50c7821bf6c947af6bfc2d5773150370d292b319"
+hash = "dfb7dc43a8f0d45576eb83e071f5e8379b538b0e56ffe0c4dd53bd1d324259a1"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/lithium.json"
-hash = "cdf09fc12e2c5f5074c29926601c683e79d5c29c73d486bff2b9c839771b8422"
+hash = "cff20003922640e77c9d2b7493d3bdfe49ef6cbfa4d0604b3106f6c1cc196c1d"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/magnetite.json"
-hash = "532f63ff865b4c6d1dc78f046b4b85a9db55310cf28aadb6241bb6bd3225b06d"
+hash = "856bbccc16bf90587dca97ba0487a8e8a217cae8ffcf469e3fd8282030ebdaf5"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/mithril.json"
-hash = "93066c1357efbe22ede5cae912e42f90da94916f10c43660a7f52a8fe69825a7"
+hash = "fc5cb56faddae7584f2bb03060f7c30689b51105dceede78cdf18fe8398c7653"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/mithril_deep_ocean.json"
+hash = "a51cf9ed5135c3a327c1737d6c2c8f7c34af05613bcf338434e2590913e2113f"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/nickel.json"
-hash = "5662a2bc7149f19bab427ff4432275c2a202f2e0af5531b166438015ec36a17e"
+hash = "f4f61f9067246e755ecd73618c468b5d6c794e53e852ac06608c1d7d9e816aca"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/nickel_deep_ocean.json"
+hash = "e7501343aff04619150b388726f72426e733a4553052d7f5edb4ee1ddb6af87c"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/palladium.json"
-hash = "adc244492f30402b21d0830da2130f27498c571ab9fe134f96f39301420cb112"
+hash = "7cd3a72632fe38b1fcc1e4923e8ca85de49f14eb83c39329b34f359cdc103db2"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/palladium_deep_ocean.json"
+hash = "c312f5264a973711931bd23664de846b0af5b7a7c476f64b575ea454fa6738fe"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/redstone.json"
-hash = "f1c00ad91cb1ac1514a0d05feae48cdc4aaaaf5fb218b29f5b1b397953197734"
+hash = "fc67d8a7d25266e4a9a1c6da727d0f1fb8fc11c83a2499adbd7e2ba47cf775be"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/redstone_mountains.json"
+hash = "37b4231429dc694b1a3fc1eed38ba9bc90f60699a9b049b46981669021ee12b9"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/salt.json"
-hash = "27e185f99e464991a46b24ace15e7a44a1a493ca0425a3f27830867160c3f0c3"
+hash = "dba3c8f8385e70463dd698971b7f413ae08af2f211178c4efcd81f66bb7f16c7"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/silver.json"
-hash = "0725386c449a60122f2cf2713928d39c6ad4d60b30daad36ca254d66dfe4a0fe"
+hash = "b0a894c6cce4a15c5b8d1ba372d19c3cee4d6f0f8ee6eb9e6847341d7b67ac32"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/silver_warm_ocean.json"
+hash = "ad131e168fe5bbe4c10dee665f58c272778b93da489f7e163a8c407426553a97"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/thorium.json"
-hash = "2f64ffe21d7d5c3201d70c189f440f82c94f34dbe174d9716cb6563f4d389f76"
+hash = "c98a8986d39c5e33445211bb2924c487a9cade8f2a48842348c0cf0cb931c943"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/tin.json"
-hash = "7f1d8824f1f88d0e329da069f04a1c1b0f80c5b2e1efca8d7dc47b7dd99c2d93"
+hash = "2dc61e121cc20ac540a25461d988da61f349c6981cd930595b4134f686d581e0"
 
 [[files]]
 file = "kubejs/data/pcmc/gtmogs/ore_vein/zinc.json"
-hash = "539d8783b93dd9341a8349fffed1ae35e245f8f249f44929b0d9b0dbd5a158c8"
+hash = "b3e9ff94e8680f65ae946da2d80a1730967de04c85296236f6d29abe7f2d82ad"
+
+[[files]]
+file = "kubejs/data/pcmc/gtmogs/ore_vein/zinc_warm_ocean.json"
+hash = "210d80db0c61996c2bb2173f9a726f047e9770f0a33e05b06c934c88e0b0932d"
 
 [[files]]
 file = "kubejs/data/pcmc/neoforge/biome_modifier/small_ores.json"
-hash = "713727121de30c7dc4481420414d50b6cfc01b307f83b0d629c788be9a9107c1"
+hash = "f0121b233b2e02bcfe02605fd3c8de33e72a37f1bd850c7a16994f8242f4703e"
 
 [[files]]
 file = "kubejs/data/pcmc/recipe/firing_mechanism.json"
@@ -589,12 +673,36 @@ file = "kubejs/data/pcmc/tags/worldgen/biome/vein_coal.json"
 hash = "231d453d0e6c3c82866e25f4042fe9f2dd2f1b04ddee27907370990c78c554fb"
 
 [[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_coal_mega.json"
+hash = "82a8e0e9628a3de521e80aa895b3aea6cde60ee69c293ac3fb259c147a2c2db6"
+
+[[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_copper.json"
 hash = "bf30af9bd952baf26dfb805aa37a39750061886a4dc2f065b889e9c951b27eb3"
 
 [[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_copper_deep_ocean.json"
+hash = "27e500461c51e316261121a7854a37a63dd128bbf166d1e406406d23c6741a02"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_copper_forest.json"
+hash = "8cf99bc0133a9bcf31cb59123de82e0e56f33c6bec1dffab7fa8eea13b4a325f"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_copper_mega.json"
+hash = "235295a73f541ed180b9534e01fdd27ec86cba62a317efa4b8b451a106fa38af"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_copper_warm_ocean.json"
+hash = "200829ca0ef7a15ade1559dc539055caa3d3d4987fe3797b8fd9b05929836469"
+
+[[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_diamond.json"
 hash = "e819034b14b9819dc3519ef151417401f4f26e4a738f74a38d015482e3d57705"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_diamond_mountains.json"
+hash = "abfcc0c3f0e21337ad363ccf678225d39370ec9af36fe22933b32226f2dcdaa3"
 
 [[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_emerald.json"
@@ -605,8 +713,28 @@ file = "kubejs/data/pcmc/tags/worldgen/biome/vein_gold.json"
 hash = "c4c772fd5eca83d22d3412df02e2e441e34501b8864db7379efdbf5cb780837e"
 
 [[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_gold_forest.json"
+hash = "8cf99bc0133a9bcf31cb59123de82e0e56f33c6bec1dffab7fa8eea13b4a325f"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_gold_hills.json"
+hash = "2eb738a665707be388e85105ce32e979c8d1d3c6d05c1ba3293b1584aa6978e0"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_gold_warm_ocean.json"
+hash = "200829ca0ef7a15ade1559dc539055caa3d3d4987fe3797b8fd9b05929836469"
+
+[[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_iron.json"
 hash = "ae4c30b0ee20c1ba8b44bfa0503da48fd8e4544e4ec1acd46c4e71abb87565f3"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_iron_mega.json"
+hash = "5786cf8f4047afacb87c6815687aa59c5763418566df5bff1fc4d73d6fffeb48"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_iron_swamp.json"
+hash = "518ecc15316378081514eb1e7fc989b548fb8a10e12a546c3b1bb8c0458a0fe0"
 
 [[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_jade.json"
@@ -617,8 +745,16 @@ file = "kubejs/data/pcmc/tags/worldgen/biome/vein_lapis.json"
 hash = "a03d3104257f7cd6f7ad39a0eedf08ee58bba6f0cb8c73d21e53dfbe476f7b49"
 
 [[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_lapis_jungle.json"
+hash = "7923812e8fd2ab11e84f5b41f4a12b9d2367724bf3eca8f7b5ef9ac006f357d4"
+
+[[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_lead.json"
 hash = "68b109c832f6b594805ab51658da7e079172be87d092ce4b1a011f71b4599458"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_lead_warm_ocean.json"
+hash = "200829ca0ef7a15ade1559dc539055caa3d3d4987fe3797b8fd9b05929836469"
 
 [[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_lignite.json"
@@ -637,16 +773,32 @@ file = "kubejs/data/pcmc/tags/worldgen/biome/vein_mithril.json"
 hash = "09da3a371357dca38b6bba08a6172c83d8f31aa84698fc3cef9f553a2c533897"
 
 [[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_mithril_deep_ocean.json"
+hash = "27e500461c51e316261121a7854a37a63dd128bbf166d1e406406d23c6741a02"
+
+[[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_nickel.json"
 hash = "92b4906a9b9aeb3c3d92474e8fef13be557f88a1fb45eced8fba52e481cf34d3"
 
 [[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_nickel_deep_ocean.json"
+hash = "27e500461c51e316261121a7854a37a63dd128bbf166d1e406406d23c6741a02"
+
+[[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_palladium.json"
-hash = "bc23c67b515bc789a978c01a4765fbc3642e4d0fb1543a5d7fcf9b3659c503e9"
+hash = "7cfba4135b5d57f24187386754e157c5e4d7176fcdd1fa2ef81886eaffbfb45b"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_palladium_deep_ocean.json"
+hash = "27e500461c51e316261121a7854a37a63dd128bbf166d1e406406d23c6741a02"
 
 [[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_redstone.json"
 hash = "02272cca5551ab1ba5d2e1e812fdf46534dc5321569c4b96bb9eb9865592d6e1"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_redstone_mountains.json"
+hash = "abfcc0c3f0e21337ad363ccf678225d39370ec9af36fe22933b32226f2dcdaa3"
 
 [[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_salt.json"
@@ -655,6 +807,10 @@ hash = "907b9e820db27ec0737a0a12e110f7c0e8b3752ba34c2ebe9518c78f417e37a8"
 [[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_silver.json"
 hash = "4f172cbf0955aa7b53e08979ff87495a9b59afb9a36e4513e233b6bbad755656"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_silver_warm_ocean.json"
+hash = "200829ca0ef7a15ade1559dc539055caa3d3d4987fe3797b8fd9b05929836469"
 
 [[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_thorium.json"
@@ -667,6 +823,10 @@ hash = "eafb565f0950f99d838d56e7a10fcaec6290c671fe6c4fd20158e0dca584fc86"
 [[files]]
 file = "kubejs/data/pcmc/tags/worldgen/biome/vein_zinc.json"
 hash = "7642b53be6292821aa188f459b1157f750332aceec6a66716deb33530969c2e1"
+
+[[files]]
+file = "kubejs/data/pcmc/tags/worldgen/biome/vein_zinc_warm_ocean.json"
+hash = "200829ca0ef7a15ade1559dc539055caa3d3d4987fe3797b8fd9b05929836469"
 
 [[files]]
 file = "kubejs/data/pcmc/worldgen/configured_feature/small_coal.json"
@@ -699,10 +859,6 @@ hash = "04a8e5380e24a41934ce50497ca1f8553d0b84b92e9d2a745aa138a04964d75d"
 [[files]]
 file = "kubejs/data/pcmc/worldgen/configured_feature/small_redstone.json"
 hash = "6e94254d3750eaefb0ffefc1a62f3d3f363aec85aa14ac433d9b9417f9bc2b1a"
-
-[[files]]
-file = "kubejs/data/pcmc/worldgen/configured_feature/small_silver.json"
-hash = "07b762ceef9636c15a65cb85100131fbd0dec73000af96bd56d3c2735e7acc69"
 
 [[files]]
 file = "kubejs/data/pcmc/worldgen/configured_feature/small_tin.json"
@@ -743,10 +899,6 @@ hash = "66d702350ae6fab3a6b028bfddbc0dda15f2394ef957972a12bc9ea857e7bdd7"
 [[files]]
 file = "kubejs/data/pcmc/worldgen/placed_feature/small_redstone.json"
 hash = "372398baa8cc0a01d06836d17b184b82220e99c92e13d5b3eac2395785d3d6eb"
-
-[[files]]
-file = "kubejs/data/pcmc/worldgen/placed_feature/small_silver.json"
-hash = "783b14288d87582523f26d78d583466962463edc1a8e9646234c8fd45cabe31f"
 
 [[files]]
 file = "kubejs/data/pcmc/worldgen/placed_feature/small_tin.json"
@@ -1075,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "5150d0aebd32633617c791ecf1b3665c77ce5b17c256453e9d66a7da93cff4b1"
+hash = "ec93a09720535c2f2fbccd3ec510c5e3eb18a9fa99ffe338e266c4cb6361d835"
 metafile = true
 
 [[files]]
@@ -1300,7 +1452,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "5c0fb5558f40b2eadcda6d7035961f48fa4c7ff24b0b440e59ba505edff97930"
+hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
 metafile = true
 
 [[files]]
@@ -1320,7 +1472,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-compatability.pw.toml"
-hash = "0c79e3caa8d94a77f96540b045ffaad071ef3ad1593bccf6adebbc01df5d08e8"
+hash = "14a661c7ccb290a48b14ed189ff5728cc50d7dd1606368e979464aff1faa9e5b"
 metafile = true
 
 [[files]]
@@ -1350,7 +1502,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "2502acf731c895c28f4243e5cad630107eee6305e3f4ef6cfd0348f8144041ab"
+hash = "0fc8543a96381e5a70359be8b4f5a7a3c6c810f025bf3795e166bfe17726070f"
 metafile = true
 
 [[files]]
@@ -1515,12 +1667,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "0ec6556e7e1c8d7b5ee522656adcd51ff59629e589409128241794f7d677c422"
+hash = "5d7c434f746d615ea78adfdc4ba6e96452c93b2a68dc939c2ff3611a061e0b21"
 metafile = true
 
 [[files]]
-file = "mods/create-stuff-n-additions-x-sable-aeronautics.pw.toml"
-hash = "9ad47b3747d5aad0939d148ee9d7f26ee924d42f38e46d8038469fdfb8262c48"
+file = "mods/create-stuff-n-additions-x-sable-aeronautics-compat.pw.toml"
+hash = "3124ff7b0beddb44ec981a35a149ced3e6a29f84b72a01a1d088932d61bdbdbb"
 metafile = true
 
 [[files]]
@@ -1600,12 +1752,12 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
 file = "mods/data-anchor.pw.toml"
-hash = "269ec2e84dda586fcc3bcf843c23357e3f9cc5bcb075fb7a04b7cbc50f5b6836"
+hash = "b1ec14892ade3126c6238f82a2adbd9154e8cb68891e3f41d61746c08aea07ab"
 metafile = true
 
 [[files]]
@@ -1625,7 +1777,7 @@ metafile = true
 
 [[files]]
 file = "mods/diet-appleseed-edition.pw.toml"
-hash = "a2451b2ba33b0bac7903692c8cf6f9cbe5999f36f2cb1b3166296263e303c45f"
+hash = "0175fd53deda2d160a2c6b7bddb14e08f63306931f1b85f40c03ab4559f4afb9"
 metafile = true
 
 [[files]]
@@ -1680,7 +1832,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-trees-quark.pw.toml"
-hash = "6be82afdb084dd07e9eb6ecc14577a0fb47306dee735ff4c1d0a50f0c4790862"
+hash = "87a61d4fb5ff4a4800c3af8f71ba66e79583b769b6b53f50dcb5089cd660774f"
 metafile = true
 
 [[files]]
@@ -1690,7 +1842,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "69f503b23dbc4850512a26134644bb3316ecbca86563ecbe30198a0dcc57f58d"
+hash = "f11cfc095a15b81b4e33dede81238c384af95d5222d7740222f848c848abf80a"
 metafile = true
 
 [[files]]
@@ -1725,7 +1877,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "39cbab92fb61fa1809540a828858e16c2386ff6fbd5bc01140d180c74ad94002"
+hash = "36b1bfa4292d1ba3dfe05badf5686f51eaa388ee1ada210690241cc45a9b20aa"
 metafile = true
 
 [[files]]
@@ -1814,11 +1966,6 @@ hash = "01b46817d87426a5626abca21f53d71f0af28a8f26a45184627b29337b5a8c50"
 metafile = true
 
 [[files]]
-file = "mods/furniture-mods-create-sable-aeronautics.pw.toml"
-hash = "e79db224b31119d6cbe97cd314cfb1c6d6839dca629b3f5e61d6f9edd7a30096"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "9342bd3338c6fbb80f84625e2715a6c443b54daff11826f0dfb9ebb6ab411fd2"
 metafile = true
@@ -1845,7 +1992,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
@@ -1870,7 +2017,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtmogs.pw.toml"
-hash = "cbb7f4b9917de2057e6b15610b681d8bbdf80e4248ec1a05a142f3ac7ee64e1d"
+hash = "8d1208d2503ae822604151cb20dce96e0b574791a8a1ab7bee8a27ac31f10959"
 metafile = true
 
 [[files]]
@@ -1924,23 +2071,18 @@ hash = "8e90c889394fe3e69d75a8aa8466b74af5ff8a26b755abf90b668dcc225b23d5"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "8fa66c922e1f46810b1e973175bf2c203aa2c799c19e88d86eb5b11f5ad9ee5b"
-metafile = true
-
-[[files]]
-file = "mods/invtweaks-emu-for-ipn.pw.toml"
-hash = "be26a76ebecc5004c7723c86ed5b989603d750c20698b176e9f69f4c787459b8"
+file = "mods/inventory-essentials.pw.toml"
+hash = "702a028e2d428d352b4d664a21b0fb6182c20a930888a6c962f557aeba05871f"
 metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "de72c43ede23c75ec2c9242add0f3d196dda4d07e31fd02d81a7ac14cc0a140a"
+hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
 metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "068d82b7c5bdd0af392663256728d7ecb85047887639eb788373ee8fc9c72813"
+hash = "21af550ee15c7bf9b5be31121febf8f0132aca0bd88c407f8acdabb814f3a2c2"
 metafile = true
 
 [[files]]
@@ -2049,8 +2191,8 @@ hash = "64a5531d7aacebc6ad691f76e108938cd0d84d5e5b927b7eac3dcdb38a3dbe87"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-hash = "f31297be9617ca9c68a9167c974c29d1c28c2495df333b4263cc117642fc58ea"
+file = "mods/lets-do-furniture-another-furniture-handcrafted-create-sable.pw.toml"
+hash = "c8f5a0a40beb41235e957cc9fe9202fa63eea08a46bdec56e9527e72d70e6573"
 metafile = true
 
 [[files]]
@@ -2320,7 +2462,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
@@ -2394,11 +2536,6 @@ hash = "f2a650461d21b0355cc7056c0ab3729babfa1e5e05207b39e7bb0a187e73f4a7"
 metafile = true
 
 [[files]]
-file = "mods/ritchies-projectile-library.pw.toml"
-hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
-metafile = true
-
-[[files]]
 file = "mods/rolling-down-in-the-deep.pw.toml"
 hash = "63ac4106945a26cfc63a9a0c42f46dda6fafc9db63e09af7c302223870f250b6"
 metafile = true
@@ -2409,13 +2546,23 @@ hash = "9c0eebad19c2e18848d405642bafde08dd08cbe09b06d4755a4238894b596758"
 metafile = true
 
 [[files]]
-file = "mods/sable-collision-damage-create-aeronautics.pw.toml"
-hash = "f467f74e195e8366bdd3965d997f3fd42d3e2c4f2e6464fd54a35028673a9d49"
+file = "mods/rpl.pw.toml"
+hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
+metafile = true
+
+[[files]]
+file = "mods/sab.pw.toml"
+hash = "fa4dc46583e1d2ce3b4f4fbfef0b299dba92b077f68e6419d8eef126b4eff825"
+metafile = true
+
+[[files]]
+file = "mods/sable-(create-aeronautics)-collision-damage.pw.toml"
+hash = "29fdbd5c9fc8183982036b090e52da87153451cdf24682e72b2eb99b67a59158"
 metafile = true
 
 [[files]]
 file = "mods/sable-new-sodium-compat.pw.toml"
-hash = "914c0c017cd1bffccfaa1482d01baf72d4b868ed878c0d613126ee64e22b468b"
+hash = "0e69fc9fb8843cc904435648663d9ccdf902898a8df928488edc61f23abf52a8"
 metafile = true
 
 [[files]]
@@ -2534,11 +2681,6 @@ hash = "dd45b4e1265a2af59e1df20a7df3ee86545a0abae1fb8dc6cc58760c0dd4ffc1"
 metafile = true
 
 [[files]]
-file = "mods/steel-armor-blocks.pw.toml"
-hash = "74224a1a64ddca85ae25c47096685800fdbc5736cb3f549980c61321603d6c33"
-metafile = true
-
-[[files]]
 file = "mods/steves-lava-chicken-music-disc-backport.pw.toml"
 hash = "45f965aa98a9cc23d64c2ff2a93dea3ccf51db060961a2129899442c0ecc6793"
 metafile = true
@@ -2604,6 +2746,11 @@ hash = "4c6f7b9400c313faa67408db2a5a12ee38a94293926bcbcd7ce9a0c8b2e402e7"
 metafile = true
 
 [[files]]
+file = "mods/tide-extra-compatibility.pw.toml"
+hash = "cb002d1ce8e05b806e9b188f245cc0df4958a6835ee07b5a2504a0f1235e773d"
+metafile = true
+
+[[files]]
 file = "mods/tide.pw.toml"
 hash = "74674dea8d53bc4e52793a6bdd03092478ee67d2d5c65f542ea13a5dc2847f32"
 metafile = true
@@ -2664,11 +2811,6 @@ hash = "5fb7f4876a945a1af5b50ed9d25229696f06161e186d5565920ab2e28cd3f879"
 metafile = true
 
 [[files]]
-file = "mods/valarian-conquest.pw.toml"
-hash = "5e116858f979b7f0f3040334d352a02176233e1345c656d0423d8d0a6053d8ae"
-metafile = true
-
-[[files]]
 file = "mods/veil-lib.pw.toml"
 hash = "627a8401f992e449475d2403d2f02091ade5da0687d5a8dae7b0e9f8986053bc"
 metafile = true
@@ -2695,12 +2837,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2dea95045b782554e51b6d718e059f8736481814817ec760f0df25999e126747"
+hash = "c66f08eac85d2c685625b2851c6967db9d94c516f1228d3533634f517f2a1b20"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9b18b4fc1350b8a90768034abf77fa31a46ef9f61c4a0d8c9543cbc72f018768"
+hash = "bdfc8ca72a410e304aaafec4d89c45fdf8d720dd8fa9a5c2384b9cdaf4d32e4b"
 metafile = true
 
 [[files]]
@@ -2745,7 +2887,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Xray_Ultimate_1.21_v5.2.2.zip"
-hash = "ba22ae2ba81bdcc4f9c221536805e147d7b72922310e29d40fe767d18dd77afe"
+hash = "4e254fef0c491a7e5bf44264607c157576ae7ae06ae5ec84d755457d19b37d38"
 
 [[files]]
 file = "tacz/Create_Armorer-v1.2.0.1.zip"

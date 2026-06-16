@@ -1,6 +1,8 @@
 name = "Xaero's Minimap"
 filename = "xaerominimap-neoforge-1.21.1-25.3.13.jar"
 side = "client"
+# Xaero stays current: the gtmogs fork (1.0.6-pcmc.4+) carries the map integration
+# and is member-diff verified against new Xaero builds by its release CI (#326).
 
 [download]
 url = "https://cdn.modrinth.com/data/1bokaNcj/versions/CklXEjmp/xaerominimap-neoforge-1.21.1-25.3.13.jar"

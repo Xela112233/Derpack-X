@@ -8,12 +8,20 @@
 // with its mining speed, read from the `minecraft:tool` data component where 1.21.1
 // keeps it — and the line reflects the hovered stack's Efficiency enchantment.
 //
-// API note (the KubeJS 6 `ItemEvents.tooltip` event does NOT exist in the 1.21 rewrite —
-// it fails the whole script with "Unknown event"). Verified against the shipped
-// kubejs-neoforge-2101.7.2-build.368 bytecode and Mojang's official 1.21.1 mappings:
-//   - `ItemEvents.dynamicTooltips` is per-hover and stack-aware, but requires a
-//     per-item-id target (`requiredTarget(STRING)`, posted with the stack's id) — so the
-//     registry pass below enumerates every digger once at load and subscribes each id.
+// Why this rev (#302): the previous rev called `ItemEvents.dynamicTooltips(id, …)` ALONE
+// and rendered no line. Per the KubeJS 1.21 docs, `dynamicTooltips` is only the *content*
+// half — the handler never fires unless the item is first MARKED as carrying a dynamic
+// section via `ItemEvents.modifyTooltips` + `tooltip.dynamic(<key>)`. The earlier
+// "requiredTarget = the stack's own id" reading of the bytecode was wrong: the target is
+// an arbitrary dynamic-section key you attach in modifyTooltips, not the item id. So this
+// rev pairs the two events on one shared key, and passes a single Text to `event.add`
+// (the dynamicTooltips signature is `add(Component)`, not `add(Component[])` — the old
+// array arg was the second reason nothing showed).
+//
+//   - modifyTooltips: mark every digger id with the `pcmc:mining_speed` dynamic key (once,
+//     at load) so the section exists on those items.
+//   - dynamicTooltips('pcmc:mining_speed', …): per-hover, stack-aware — look the hovered
+//     item's base speed up in the load-time table and render base + Efficiency bonus.
 //   - Efficiency in 1.21 is data-driven (data/minecraft/enchantment/efficiency.json):
 //     `levels_squared, added: 1` onto `player.mining_efficiency`, i.e. bonus = lvl² + 1,
 //     applied by vanilla only while the tool is the correct one. The line shows
@@ -37,7 +45,28 @@ const $BuiltInRegistries = Java.loadClass('net.minecraft.core.registries.BuiltIn
 const $DataComponents = Java.loadClass('net.minecraft.core.component.DataComponents')
 const $DiggerItem = Java.loadClass('net.minecraft.world.item.DiggerItem')
 
+const DYNAMIC_KEY = 'pcmc:mining_speed'
 const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X']
+
+// Load-time pass: id -> base mining speed, for every DiggerItem whose fastest rule beats 1.
+const BASE = {}
+$BuiltInRegistries.ITEM.forEach(item => {
+  try {
+    if (!(item instanceof $DiggerItem)) return
+    const tool = item.components().get($DataComponents.TOOL)
+    if (!tool) return
+    let base = tool.defaultMiningSpeed()
+    tool.rules().forEach(rule => {
+      const s = rule.speed()
+      if (s.isPresent() && s.get() > base) base = s.get()
+    })
+    if (base <= 1) return
+    const id = $BuiltInRegistries.ITEM.getKey(item).toString()
+    BASE[id] = Math.round(base * 10) / 10
+  } catch (err) {
+    // swallow — worst case this one item is missing its line, never a load failure
+  }
+})
 
 function efficiencyLevel(stack) {
   try {
@@ -53,35 +82,31 @@ function efficiencyLevel(stack) {
   }
 }
 
-$BuiltInRegistries.ITEM.forEach(item => {
-  try {
-    if (!(item instanceof $DiggerItem)) return
-    const tool = item.components().get($DataComponents.TOOL)
-    if (!tool) return
-    let base = tool.defaultMiningSpeed()
-    tool.rules().forEach(rule => {
-      const s = rule.speed()
-      if (s.isPresent() && s.get() > base) base = s.get()
-    })
-    if (base <= 1) return
-    base = Math.round(base * 10) / 10
-    const id = $BuiltInRegistries.ITEM.getKey(item).toString()
+// Mark every digger id as carrying the dynamic section (the half the old rev was missing).
+ItemEvents.modifyTooltips(event => {
+  Object.keys(BASE).forEach(id => {
+    try {
+      event.modify(id, tooltip => tooltip.dynamic(DYNAMIC_KEY))
+    } catch (err) {
+      // swallow — a single bad id must not abort the whole registration pass
+    }
+  })
+})
 
-    ItemEvents.dynamicTooltips(id, event => {
-      try {
-        const lvl = efficiencyLevel(event.item)
-        if (lvl > 0) {
-          const total = Math.round((base + lvl * lvl + 1) * 10) / 10
-          const name = lvl <= 10 ? ROMAN[lvl - 1] : `${lvl}`
-          event.add([Text.gray(`Mining speed: ${total} (base ${base}, Efficiency ${name})`)])
-        } else {
-          event.add([Text.gray(`Mining speed: ${base}`)])
-        }
-      } catch (err) {
-        // swallow — a tooltip must never crash the client
-      }
-    })
+// Supply the content per hover, reading the hovered stack's base + Efficiency.
+ItemEvents.dynamicTooltips(DYNAMIC_KEY, event => {
+  try {
+    const base = BASE[event.item.id]
+    if (base === undefined) return
+    const lvl = efficiencyLevel(event.item)
+    if (lvl > 0) {
+      const total = Math.round((base + lvl * lvl + 1) * 10) / 10
+      const name = lvl <= 10 ? ROMAN[lvl - 1] : `${lvl}`
+      event.add(Text.gray(`Mining speed: ${total} (base ${base}, Efficiency ${name})`))
+    } else {
+      event.add(Text.gray(`Mining speed: ${base}`))
+    }
   } catch (err) {
-    // swallow — worst case this one item is missing its line, never a load failure
+    // swallow — a tooltip must never crash the client
   }
 })

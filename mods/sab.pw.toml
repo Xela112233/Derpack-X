@@ -1,0 +1,13 @@
+name = "Create: Steel armor blocks"
+filename = "s_a_b-1.4.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VwYIUgbk/versions/BuGLo3zw/s_a_b-1.4.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "bf810d60a1f4a49f4e013aa4724d9c4a10e4a9e7d9e019aae91a55ccf58229d98bfca43c47c750ed23203346e89ba838b9272cb76e5f73fed0b3868eb084769b"
+
+[update]
+[update.modrinth]
+mod-id = "VwYIUgbk"
+version = "BuGLo3zw"

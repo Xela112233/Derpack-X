@@ -8,6 +8,84 @@
      The "## X.Y.Z" section ships verbatim as the GitHub release body (build.yml), so it must
      read complete on its own. Shipped sections are the published record — don't restyle them. -->
 
+## 0.7.1 — Ore rebalance
+
+A worldgen follow-up to 0.7.0's ore retune, acting on the first playtest reports: silver was
+everywhere, every vein was roughly the same size, and there was no find worth mounting an
+expedition over. Ore generation only affects newly generated chunks.
+
+### Silver is scarce again
+
+- Silver now comes from silver country. The stray silver bands in the snowy lapis, tin, and nickel
+  veins are gone (replaced by iron, copper, and gold), and silver no longer appears among the
+  scattered small ores. What remains: the dedicated hill vein — now about one hill deposit in ten —
+  a thin band in lead country, and traces in the rare mithril and palladium veins.
+
+### Vein sizes now vary
+
+- Common-metal veins (coal, iron, copper, tin, zinc, bauxite, lignite) are smaller — routine finds
+  that keep a region supplied without carpeting it. Mid-tier and rare veins are unchanged.
+- New mega veins: iron in mountains, copper in badlands, coal in taiga and forest. A mega vein is an
+  enormous deposit at roughly one per three hundred chunks of its region — a find worth building a
+  mining outpost and a trade route around.
+
+### Regional mix retune
+
+- Veins are lighter: ore density inside ordinary veins is halved, so a deposit fills less of its
+  footprint. Where veins spawn and how often is unchanged, and the rare mega veins stay as dense as
+  before.
+- Oceans are no longer salt-only. Warm and lukewarm oceans and coasts carry very rare copper, zinc,
+  lead, gold, and silver deposits (5% of finds each); deep, cold, and frozen oceans carry nickel,
+  copper, and palladium (5% each) plus a trace of mithril (2.5%). Salt remains the dominant ocean
+  find.
+- Forests gain gold (5%) and copper (15%) alongside coal; hills gain gold (5%); mountains gain
+  diamond (2%) and redstone (8%).
+- Jungles trade some jade and diamond for lapis: lapis is now 20% of jungle finds, with jade and
+  diamond each down about ten points.
+- Swamps gain iron (10% of finds) alongside lignite.
+
+### World generation
+
+- Archwood forests are much rarer. Ars Nouveau's default biome weight handed a single biome
+  roughly a sixth of the overworld; it is now at the minimum non-zero weight, so the magic
+  forest is a find rather than a backdrop. Applies to newly generated chunks.
+
+### Mods
+
+- Prospected ore veins now draw on Xaero's maps, with a toggle button on the fullscreen map —
+  it turns out this feature had never actually worked: the ore generation mod shipped the map
+  renderers but never registered them. The pack now runs its own maintained build of the mod,
+  which wires the integration up properly and keeps the map mods current.
+- Ore veins now follow the surface landscape. Vein eligibility used to be decided by the
+  underground cave biome at depth, which silently blanked or hijacked cells under every region;
+  it is now decided by the biome you see on the surface. Palladium, which previously leaned on
+  cave biomes, is re-homed to mountains with richer deposits. Applies to newly generated chunks.
+- Diet - AppleSeed Edition updates to 2.1.0 and installs from Modrinth again. The dedicated-server
+  startup fix the pack had carried as a custom build is in the official release, which also adds a
+  filter to the automatic food-group calculator.
+- Villager farmers replant crops in single-player worlds again. Smarter Farmers was marked
+  server-only, so single-player installs never received it; it now installs everywhere.
+
+### Interface
+
+- Mining tools show their mining speed on the tooltip again, and the line reflects any Efficiency
+  enchantment on the tool (for example, "Mining speed: 34 (base 8, Efficiency V)"). This restores the
+  feature lost when the Mining Speed Tooltips mod was removed in 0.6.3.
+- The recipe viewer and creative search now list only the pack's Create: Armorer guns, ammunition, and
+  attachments. The stock TaCZ guns and attachments, which were already uncraftable, no longer show up
+  without a recipe.
+- Inventory sorting is now Inventory Essentials, replacing Inventory Profiles Next and its two
+  companion mods. Sorting and bulk item movement work the same or better, with one mod instead of
+  three and none of the old overlay quirks; saved inventory profiles and locked slots, which saw
+  little use, are gone with it.
+
+### Fixes
+
+- Fixed a client crash when an AzureLib-animated mob (for example the enenra) came into view. The
+  performance mod's parallel resource reloader was racing AzureLib's animation parser, corrupting it
+  during world load and then crashing the game the next time one of those mobs was drawn. The
+  parallel reloader is now turned off; world loads are marginally slower in exchange.
+
 ## 0.7.0 — The Create spine
 
 The tech route gets its backbone. Create and its addons now climb four tiers — manual, water and wind,

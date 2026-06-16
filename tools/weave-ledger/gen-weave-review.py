@@ -5,7 +5,7 @@ This integrates the pre-1.0 mod-review sweep (docs/MOD-REVIEW.md) with the weave
 ledger's candidate corpus, and is RE-RUNNABLE: as more convergence passes land
 (targeting ~50), re-run this and the doc refreshes with the latest CANDIDATES.md.
 
-The candidate corpus lives on the **`claude/weaving-plan`** branch (NOT vendored here — we reference
+The candidate corpus lives on the **`weaving-plan`** branch (NOT vendored here — we reference
 that branch, we don't merge it). By default this reads it via `git show <ref>:<path>`; override with
 --ref / --candidates, or point --candidates at a local checkout of the weaving-plan branch.
 
@@ -33,7 +33,7 @@ DX   = os.path.join(HERE, "review-dx.json")
 PRE  = os.path.join(HERE, "review-preamble.md")
 OUT  = os.path.join(ROOT, "docs", "WEAVE-REVIEW.md")
 # The corpus is NOT vendored here — it lives on the weaving-plan branch (referenced, not merged).
-WEAVE_REF  = "origin/claude/weaving-plan"
+WEAVE_REF  = "origin/weaving-plan"
 WEAVE_PATH = "tools/weave-ledger/phase2/CANDIDATES.md"
 
 def read_candidates_text(candidates_arg, ref):
@@ -44,7 +44,7 @@ def read_candidates_text(candidates_arg, ref):
         return subprocess.check_output(["git", "show", f"{ref}:{WEAVE_PATH}"], cwd=ROOT, text=True)
     except subprocess.CalledProcessError:
         sys.exit(f"ERROR: couldn't read {ref}:{WEAVE_PATH}. Fetch the branch "
-                 f"(`git fetch origin claude/weaving-plan`) or pass --candidates <path>.")
+                 f"(`git fetch origin weaving-plan`) or pass --candidates <path>.")
 
 MS = {11:'v0.7.0 — Create spine',12:'v0.8.0 — Stabilization I',13:'v0.9.0 — Economy & logistics',
  14:'v0.10.0 — Stabilization II',15:'v0.11.0 — Magic',16:'v0.12.0 — Stabilization III',

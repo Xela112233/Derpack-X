@@ -1,6 +1,6 @@
 {
   "cluster_size": 40,
-  "density": 0.3,
+  "density": 0.15,
   "weight": 40,
   "layer": "stone",
   "dimension_filter": [
@@ -75,7 +75,7 @@
             "tag": "minecraft:stone_ore_replaceables"
           },
           "state": {
-            "Name": "occultism:silver_ore"
+            "Name": "minecraft:gold_ore"
           }
         },
         {
@@ -84,7 +84,7 @@
             "tag": "minecraft:deepslate_ore_replaceables"
           },
           "state": {
-            "Name": "occultism:silver_ore_deepslate"
+            "Name": "minecraft:deepslate_gold_ore"
           }
         }
       ],

@@ -1,6 +1,8 @@
 name = "Xaero's World Map"
 filename = "xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
 side = "client"
+# Xaero stays current: the gtmogs fork (1.0.6-pcmc.4+) carries the map integration
+# and is member-diff verified against new Xaero builds by its release CI (#326).
 
 [download]
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/XwL25au3/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"

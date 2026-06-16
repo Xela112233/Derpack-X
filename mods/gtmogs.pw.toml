@@ -1,13 +1,18 @@
 name = "Gregtech: Modern Ore Generation Standalone"
-filename = "gtmogs-1.21.1-1.0.6.jar"
+filename = "gtmogs-1.21.1-1.0.6-pcmc.8.jar"
 side = "both"
+# PCMC fork build (theasshats/gtmogs, branch pcmc/main): upstream 1.0.6 + the pack's
+# maintained-continuation patches (issue #326) — Xaero WM 1.40+ compat (the deleted
+# ModSettings waypoint fields), the never-registered Xaero ore-vein map layer + buttons
+# (registration mixins upstream dropped), surface-biome vein eligibility, and the
+# prospect-investigation fixes (JEI Ore Vein Diagram icon crash on JEI 19.27+, the
+# "no vein records" actionbar, /gtmogs prospect). Served from the fork's own release
+# (jar + LGPL sources together; future pcmc.N releases are a url+hash bump here).
+# Return to the official Modrinth build if upstream revives; until then pinned + static
+# (no [update] section).
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/fNd6d6cd/versions/m0HcaGYd/gtmogs-1.21.1-1.0.6.jar"
+url = "https://github.com/theasshats/gtmogs/releases/download/1.0.6-pcmc.8/gtmogs-1.21.1-1.0.6-pcmc.8.jar"
 hash-format = "sha512"
-hash = "5887e8022c07c259995fe11129249f3e2c8ad14194be1bd424a3af2794f7f8530123eada74d4b9b49781c7be7a9344ca047f8fba09c1db95d2ffea982efb3796"
-
-[update]
-[update.modrinth]
-mod-id = "fNd6d6cd"
-version = "m0HcaGYd"
+hash = "3bdb7136fd128cc1293aaf22365386e2e126e08b8d3d1eceadce6b185ce4d719bc7a9c20cd3319392670e8c1c74cca58b13cd060bc755d50059527fad3a81365"

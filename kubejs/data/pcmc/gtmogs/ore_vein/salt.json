@@ -1,7 +1,7 @@
 {
   "cluster_size": 24,
-  "density": 0.4,
-  "weight": 25,
+  "density": 0.2,
+  "weight": 165,
   "layer": "stone",
   "dimension_filter": [
     "minecraft:overworld"

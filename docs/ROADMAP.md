@@ -45,8 +45,7 @@ The **#56 per-ore model has been retired**; **PR #82 (GTMOGS GregTech-style mix 
 v1 model in v0.5.1**, strictly regional. The #56-vs-#82 decision (**#93**) is **closed**. Remaining
 ore-gen work is all release-tuning:
 - **#81** — early-game ore bootstrap, now that the vanilla starter trickle is gone (`needed-for-release`).
-- **#116** — pre-release tuning: cave ores follow the surface biome, salt trim, rarity curve, Y-bands (`needed-for-release`).
-- **#58** — playtest (you — runs on the server) + rarity/regionality review (zagwar). Written against the old #56 model — refocus onto GTMOGS or fold into #116.
+- **#318** — the consolidated ore-gen tracker (absorbed #116 and #58 in v0.7.1): tuning surface, rarity math, the kingdom/monopoly design lens, surface-biome cave-ore want, release exit checklist. #81/#261/#290/#296/#298/#300 ride as sub-issues.
 - **#115** — player-facing prospecting wiki page (kicked off by the GTMOGS move).
 
 ### Phase 2 — Guns / combat ✅ on `main` (#55, #59)
@@ -98,7 +97,7 @@ post-release polish or ongoing curation.
 
 - [x] **Ore-gen model decided** — **#93 closed**; GTMOGS (#82) shipped as the v1 model in v0.5.1.
 - [ ] **Early-game ore bootstrap** — #81 (vanilla trickle removed; define the replacement). Phase 1.
-- [ ] **Ore-gen tuned for release** — #116 (cave-ore biome follow, rarity curve) + #58 review. Phase 1.
+- [ ] **Ore-gen tuned for release** — #318 (the consolidated tracker; absorbed #116/#58 in v0.7.1). Phase 1.
 - [x] **Create recipe spine landed** — #62 (v0.4.6). Follow-ups: #101/#102/#103/#113.
 - [x] **Pack renamed** — #78 (renamed to **Project Commonwealth**).
 - [ ] **CI required on `main`** — #79 (turn on the `pr-checks.yml` ruleset; Phase 8).
@@ -187,7 +186,7 @@ Economy: #221 economy tooling (dynamic pricing + player-minted currency) · #240
 **Last call for major additions/integrations**; closes with the final thunderdome + the full weave review (the loop seams *between* the systems), then feature freeze.
 
 **`v1.0.0 — Release` · even / perf patch [NFR]** — *Goal: feature-frozen — final performance + RAM tuning, ore-gen finalized, renamed, CI required → ship the public build.*
-#149 v1.0.0 readiness checklist (meta-tracker) · #79 require CI on `main` · #81 early-game ore bootstrap · #116 ore-gen tuning · #58 ore-gen review (refocus onto GTMOGS or fold into #116) · #78 rename the pack (zagwar) · #48 GC/RAM (spark; server's up) · #110 custom-item textures (living tracker, needed-for-release).
+#149 v1.0.0 readiness checklist (meta-tracker) · #79 require CI on `main` · #81 early-game ore bootstrap · #318 ore-gen consolidated tracker (absorbed #116/#58) · #78 rename the pack (zagwar) · #48 GC/RAM (spark; server's up) · #110 custom-item textures (living tracker, needed-for-release).
 
 **`📋 Backlog / living`** — *the holding pen so nothing is untriaged; pull into a version when it's next up.* #9 mod-ideas wishlist · #21 mod-removal suggestions · #40 quarterly port watch. Recurring passes that ride the cadence: #160 (mod-conflict catalog — runs on the even stabilization passes) · #161 (mod-update / changelog — feeds the next odd thunderdome).
 

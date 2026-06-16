@@ -75,7 +75,7 @@ leading with release blockers.
 - **"Version done" ≠ milestone at 100%.** Milestone 100% = all work *implemented*. The hard ship signal is
   the **`vX.Y.Z` release tag** (`release.yml`, §6). Truly shipped = milestone 100% **and** no
   `playtest-blocked` left **and** the tag cut.
-- A close still gets a one-line comment pointing to live follow-ups where apt (e.g. #93 → #81/#116/#58),
+- A close still gets a one-line comment pointing to live follow-ups where apt (e.g. #116/#58 → #318),
   and the PR's `Closes #N` keyword is fine to leave in (a no-op once the issue is already closed).
 - **Living trackers stay open by design:** #9 (mod ideas), #17 (recipes), #18 (loot), #21 (removals).
 - Confirm with the maintainer before closing anything **ambiguous** — a partial fix, a multi-issue PR, or
@@ -83,7 +83,7 @@ leading with release blockers.
 
 ## 6 · Release gate — `v1.0.0` / `needed-for-release`
 The `needed-for-release`-tagged set is the `v1.0.0 — Release` milestone, deliberately last: rename (#78),
-CI-required (#79), ore-gen tuned + playtested (#81/#116/#58), RAM tuned (#48). Tag flow: bump `version`
+CI-required (#79), ore-gen tuned + playtested (#318, with #81 as a sub-issue), RAM tuned (#48). Tag flow: bump `version`
 in `pack.toml` → merge to `main` → tag `vX.Y.Z`.
 
 ## 7 · The systems-loop yardstick (why an issue matters)

@@ -30,9 +30,9 @@ anything else.
 ## Small ores are indicators
 
 Single ore blocks are scattered across the overworld: coal, iron, copper, tin, zinc, gold,
-silver, nickel, redstone, lapis, and the occasional diamond. They are enough for a first set of
+nickel, redstone, lapis, and the occasional diamond. They are enough for a first set of
 tools, but their real job is to point at veins. When you find one, right-click it and check
-your map.
+your map. (Silver is not among them — it only comes from veins, in silver country.)
 
 ## Step by step
 
@@ -97,20 +97,26 @@ Veins are regional — the biome at the vein's depth decides what generates. A r
 - Mountain peaks: emerald.
 - Coasts and oceans: salt.
 
+A few regions also hide **mega veins** — iron in mountains, copper in badlands, coal in taiga and
+forest. They are far larger than ordinary veins and far rarer (on the order of one per few hundred
+chunks of their region). Prospecting reveals them the same way, and a single find can supply a
+settlement or anchor a trade route.
+
 Depth matters as much as biome. Marquee ores such as diamond, thorium, and mithril sit deep;
 emerald sits high in peaks. The JEI diagram above gives the exact spawn range per vein.
 
 ## Configuration knobs
 
-These live in the GTMOGS config (`config/gtmogs.yaml`, generated on first run). Defaults read
-from the jar:
+These live in the GTMOGS config (`config/gtmogs.yaml`). The pack ships its own values where they
+differ from the jar defaults:
 
 - `oreBlockProspectRange` = 24 — how far a right-click scans for veins.
-- `oreVeinGridSize` = 3 and `oreVeinRandomOffset` = 12 — veins sit on a grid roughly every few
-  chunks, with a random jitter, so once you find one the next sits at a predictable interval.
+- `oreVeinGridSize` = 5 and `oreVeinRandomOffset` = 20 (pack values; the jar defaults are 3 and 12)
+  — veins sit on a wide grid with a random jitter, so once you find one the next sits at a roughly
+  predictable interval.
 - `xaerosMapIntegration` / `ftbChunksIntegration` / `journeyMapIntegration` = all on.
-- `oreIconSize` = 32, `oreNamePrefix` = ">", `borderColor` = "#00000000" (fully transparent —
-  if vein markers ever look like they have no outline, this is why).
+- `oreIconSize` = 32, and the pack sets `borderColor` = `material`, so vein markers outline in the
+  ore's own colour.
 - `removeVanillaOreGen` / `removeVanillaLargeOreVeins` = on (vanilla ore is disabled, as above).
 
 ## Tips

@@ -1,6 +1,6 @@
 {
   "cluster_size": 40,
-  "density": 0.35,
+  "density": 0.175,
   "weight": 40,
   "layer": "stone",
   "dimension_filter": [

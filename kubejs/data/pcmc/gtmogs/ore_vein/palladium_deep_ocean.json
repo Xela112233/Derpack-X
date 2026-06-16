@@ -1,0 +1,118 @@
+{
+  "cluster_size": 20,
+  "density": 0.1,
+  "weight": 10,
+  "layer": "stone",
+  "dimension_filter": [
+    "minecraft:overworld"
+  ],
+  "height_range": {
+    "height": {
+      "type": "minecraft:uniform",
+      "min_inclusive": {
+        "absolute": -16
+      },
+      "max_inclusive": {
+        "absolute": 35
+      }
+    }
+  },
+  "discard_chance_on_air_exposure": 0.0,
+  "biomes": "#pcmc:vein_palladium_deep_ocean",
+  "generator": {
+    "type": "gtmogs:classic",
+    "primary": {
+      "targets": [
+        {
+          "target": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:stone_ore_replaceables"
+          },
+          "state": {
+            "Name": "galosphere:palladium_ore"
+          }
+        },
+        {
+          "target": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:deepslate_ore_replaceables"
+          },
+          "state": {
+            "Name": "galosphere:deepslate_palladium_ore"
+          }
+        }
+      ],
+      "layers": 3
+    },
+    "secondary": {
+      "targets": [
+        {
+          "target": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:stone_ore_replaceables"
+          },
+          "state": {
+            "Name": "galosphere:palladium_ore"
+          }
+        },
+        {
+          "target": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:deepslate_ore_replaceables"
+          },
+          "state": {
+            "Name": "galosphere:deepslate_palladium_ore"
+          }
+        }
+      ],
+      "layers": 3
+    },
+    "between": {
+      "targets": [
+        {
+          "target": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:stone_ore_replaceables"
+          },
+          "state": {
+            "Name": "galosphere:palladium_ore"
+          }
+        },
+        {
+          "target": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:deepslate_ore_replaceables"
+          },
+          "state": {
+            "Name": "galosphere:deepslate_palladium_ore"
+          }
+        }
+      ],
+      "layers": 2
+    },
+    "sporadic": {
+      "targets": [
+        {
+          "target": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:stone_ore_replaceables"
+          },
+          "state": {
+            "Name": "galosphere:palladium_ore"
+          }
+        },
+        {
+          "target": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:deepslate_ore_replaceables"
+          },
+          "state": {
+            "Name": "galosphere:deepslate_palladium_ore"
+          }
+        }
+      ],
+      "layers": 1
+    },
+    "y_radius": 4
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "cluster_size": 60,
-  "density": 0.45,
+  "cluster_size": 36,
+  "density": 0.225,
   "weight": 80,
   "layer": "stone",
   "dimension_filter": [
@@ -13,7 +13,7 @@
         "absolute": 0
       },
       "max_inclusive": {
-        "absolute": 136
+        "absolute": 112
       }
     }
   },

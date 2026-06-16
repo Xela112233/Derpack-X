@@ -3,11 +3,11 @@ filename = "aeronauticscompat-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "64044986287367e7f638012c931d8a23528bee41"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/aLVC5usA/versions/QTtIbBua/aeronauticscompat-1.1.2.jar"
+hash-format = "sha512"
+hash = "e4bf1c16e476d47f2b09d3b5bf6c8713bf7d474019dca871a24a6ea1e35f12288e6aed276004c310ddfd53af80c5415927c8bde2abc0b1005531fce918ea7c90"
 
 [update]
-[update.curseforge]
-file-id = 7996938
-project-id = 1524351
+[update.modrinth]
+mod-id = "aLVC5usA"
+version = "QTtIbBua"

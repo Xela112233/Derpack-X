@@ -1,0 +1,14 @@
+# Shipped by the pack (v0.7.1): Ars Nouveau runs on mod defaults otherwise, but the
+# default archwood-forest TerraBlender weight of 2 (vs vanilla's ~10) hands a single
+# biome roughly a sixth of the overworld's climate space — playtest read "ars biomes
+# are super common". Weight 1 is the minimum non-zero (integer weights); set 0 to
+# remove the biome entirely if rare-but-present still reads as too much.
+# NeoForge appends the remaining defaults on first load; verify after first boot that
+# archwoodForest still reads 1 here (if NeoForge moved/dropped it, the section path
+# changed upstream and this file needs re-aligning).
+# Worldgen: affects newly generated chunks only.
+
+[general]
+	#Archwood forest spawn weight
+	#Range: > 0
+	archwoodForest = 1

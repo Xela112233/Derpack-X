@@ -1,5 +1,5 @@
 # ldlib-neoforge-1.21.1-1.0.35.a
-bundled-in: gtmogs-1.21.1-1.0.6
+bundled-in: gtmogs-1.21.1-1.0.6-pcmc.8
 
 ## mod metadata (id / version / deps)
 license = "GPL-3.0 license"

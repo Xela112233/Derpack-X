@@ -1,3 +1,0 @@
-gtmogs:blocks/overworld_marker | minecraft:block | gtmogs:blocks/overworld_marker gtmogs:overworld_marker minecraft:block minecraft:item minecraft:survives_explosion
-gtmogs:blocks/the_end_marker | minecraft:block | gtmogs:blocks/the_end_marker gtmogs:the_end_marker minecraft:block minecraft:item minecraft:survives_explosion
-gtmogs:blocks/the_nether_marker | minecraft:block | gtmogs:blocks/the_nether_marker gtmogs:the_nether_marker minecraft:block minecraft:item minecraft:survives_explosion

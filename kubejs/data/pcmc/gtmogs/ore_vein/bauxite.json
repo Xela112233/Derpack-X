@@ -1,6 +1,6 @@
 {
-  "cluster_size": 50,
-  "density": 0.4,
+  "cluster_size": 32,
+  "density": 0.2,
   "weight": 30,
   "layer": "stone",
   "dimension_filter": [
@@ -10,10 +10,10 @@
     "height": {
       "type": "minecraft:uniform",
       "min_inclusive": {
-        "absolute": 32
+        "absolute": 8
       },
       "max_inclusive": {
-        "absolute": 128
+        "absolute": 72
       }
     }
   },

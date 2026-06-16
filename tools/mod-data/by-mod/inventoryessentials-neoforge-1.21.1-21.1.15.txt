@@ -1,0 +1,25 @@
+# inventoryessentials-neoforge-1.21.1-21.1.15
+
+## mod metadata (id / version / deps)
+license="All Rights Reserved"
+modId="inventoryessentials"
+version="21.1.15"
+displayName="Inventory Essentials"
+modId="neoforge"
+versionRange="[21-beta,)"
+modId="minecraft"
+versionRange="[1.21,)"
+modId="balm"
+versionRange="[21.0.48,)"
+
+## blocks
+
+
+## items
+
+
+## neoforge biome_modifiers
+
+
+## c: common tag membership
+

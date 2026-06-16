@@ -1,0 +1,21 @@
+# appleseed-2.1.0-1.21.1
+
+## mod metadata (id / version / deps)
+license="LGPLv3"
+modId="appleseed"
+version="2.1.0-1.21.1"
+displayName="Diet - AppleSeed Edition"
+modId="neoforge"
+versionRange="[21.1.186,)"
+
+## blocks
+
+
+## items
+
+
+## neoforge biome_modifiers
+
+
+## c: common tag membership
+

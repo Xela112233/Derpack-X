@@ -9,6 +9,14 @@ worldgen:
     # Default: 12 — raised to 20 so the larger grid doesn't read as a visible lattice.
     oreVeinRandomOffset: 20
 
+    # Decide vein eligibility from the column's SURFACE biome instead of the 3D noise
+    # biome at y=0 (pcmc.3 fork feature; stock behavior let cave-biome pockets veto or
+    # capture cells under every region). Sample height 200 clears tall Terralith terrain;
+    # if playtest shows skyland-shadowed dead cells, tune surfaceBiomeSampleY.
+    sampleSurfaceBiome: true
+
+    surfaceBiomeSampleY: 200
+
     # Prevents regular vanilla ores from being generated outside GregTech ore veins
     # Default: true (kept — regional scarcity purity)
     removeVanillaOreGen: true
@@ -102,7 +110,7 @@ dev:
   debug: true
 
   # Debug ore vein placement? (will print placed veins to server's debug.log)
-  # Default: false — ON to verify vein placement/rarity during the #116 playtest; turn OFF before release (#261).
+  # Default: false — ON to verify vein placement/rarity during the ore playtest (#318); turn OFF before release (#261).
   debugWorldgen: true
 
   # Generate ores in superflat worlds?

@@ -284,7 +284,7 @@
 ## v0.14.0 — Stabilization IV  (40 mods)
 
 - [ ] `kleeslabs` — KleeSlabs  _(Polish/QoL)_
-- [ ] `libipn` — libIPN  _(Polish/QoL)_
+- [x] `libipn` — libIPN  _(Polish/QoL)_ — **removed v0.7.1 with IPN (#257)**
 - [ ] `macaws-doors` — Macaw's Doors  _(Polish/QoL)_
 - [ ] `macaws-fences-and-walls` — Macaw's Fences and Walls  _(Polish/QoL)_
 - [ ] `macaws-roofs` — Macaw's Roofs  _(Polish/QoL)_
@@ -359,8 +359,8 @@
 - [ ] `handcrafted` — Handcrafted  _(Polish/QoL)_
 - [ ] `immersive-paintings` — Immersive Paintings  _(Polish/QoL)_
 - [ ] `immersivemusicmod` — The Immersive Music Mod  _(Polish/QoL)_
-- [ ] `inventory-profiles-next` — Inventory Profiles Next  _(Polish/QoL)_
-- [ ] `invtweaks-emu-for-ipn` — InvTweaks Emu for IPN  _(Polish/QoL)_
+- [x] `inventory-profiles-next` — Inventory Profiles Next  _(Polish/QoL)_ — **removed v0.7.1, swapped for `inventory-essentials` (#257)**
+- [x] `invtweaks-emu-for-ipn` — InvTweaks Emu for IPN  _(Polish/QoL)_ — **removed v0.7.1 with IPN (#257)**
 - [ ] `jade` — Jade 🔍  _(Polish/QoL)_
 - [ ] `jakes-build-tools` — Jake's Build Tools  _(Polish/QoL)_
 - [ ] `jei` — Just Enough Items (JEI)  _(Polish/QoL)_

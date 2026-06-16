@@ -4,11 +4,11 @@ side = "client"
 pin = true
 
 [download]
-hash-format = "sha1"
-hash = "a4aa7ec9c1ba96828058f799254d08c27c07108a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4eableak/versions/ApS5t0LU/sable_new_sodium_compat-1.0.0.jar"
+hash-format = "sha512"
+hash = "8b46470ad981cc5f7ac41e48d19e1089d5aabe9351ee743aa9345b636a20ca352f09cfc70bcde523d204e3e7702fb09f5bc3112274fd6228b6f4391abefedda8"
 
 [update]
-[update.curseforge]
-file-id = 8143694
-project-id = 1553530
+[update.modrinth]
+mod-id = "4eableak"
+version = "ApS5t0LU"

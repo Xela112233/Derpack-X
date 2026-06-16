@@ -1,7 +1,7 @@
 # Mod review × weave ledger — integrated analysis
 
 > Integrates the **pre-1.0 mod-review sweep** (`docs/MOD-REVIEW.md`) with the **weave ledger**, which
-> lives on the **[`claude/weaving-plan`](../../tree/claude/weaving-plan)** branch (referenced, not
+> lives on the **[`weaving-plan`](../../tree/weaving-plan)** branch (referenced, not
 > merged — `docs/WEAVE-LEDGER.md`, `docs/WEAVING-PLAN.md`, and `tools/weave-ledger/phase2/CANDIDATES.md`
 > are over there). The reviews **are the thunderdomes** — the
 > odd-milestone curation-by-merit (`docs/ROADMAP.md`): each per-mod review is a **keep / cut / weave**
@@ -22,7 +22,7 @@ For each mod: `modid (packwiz-slug) — NA/NR · motifs` (accept/reject counts +
 ride), then a **DX:** line — my own take (agree/disagree, risk, priority, cross-links, cut/Gate-0
 flags) — then the top consensus-**ACCEPT** weaves, each as `motif ×N → pillar · from · via method`,
 where `×N` = how many independent passes proposed it (confidence). Motif definitions live in
-`docs/WEAVE-LEDGER.md` §1 **on the `claude/weaving-plan` branch**.
+`docs/WEAVE-LEDGER.md` §1 **on the `weaving-plan` branch**.
 
 ## Sell is not an anchor (the economy is player-driven)
 

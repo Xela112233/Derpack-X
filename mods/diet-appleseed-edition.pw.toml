@@ -1,9 +1,13 @@
 name = "Diet - AppleSeed Edition"
-filename = "appleseed-2.0.3.1-1.21.1.jar"
+filename = "appleseed-2.1.0-1.21.1.jar"
 side = "both"
-pin = true
 
 [download]
-url = "https://github.com/theasshats/Diet---AppleSeed-Edition-fix/releases/download/2.0.3.1-1.21.1/appleseed-2.0.3.1-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/uwTJPjNt/versions/pZCXpybv/appleseed-2.1.0-1.21.1.jar"
 hash-format = "sha512"
-hash = "09ae1e51aa66b0d73bfe0b1768299e22ff0d4ae939f19e66674dee9285586625326c0df7bc9e2ef43f0ee521adda0866fb06a7aa6414742a2d1fc1550e677d3c"
+hash = "f0e8d41641566dc8bd96d50e2cd6e4412d16dd137783f6ed8389acf1f3903da3cf673d61dba81e1b46ebaf2e54a5dc4e472ee634f0e3ed0ce9220fedb0b6b9c4"
+
+[update]
+[update.modrinth]
+mod-id = "uwTJPjNt"
+version = "pZCXpybv"

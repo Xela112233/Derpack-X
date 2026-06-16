@@ -59,10 +59,12 @@ The `side` tags themselves are correct — no client-only mod is mis-routed to t
 server. A separate, mod-level failure mode still exists: a `both`-tagged mod can
 carry its own server-side crash (e.g. loading a client class from common code),
 which only a real server boot catches — not CI, not the `side` tags. Live
-example: **appleseed 2.0.3** does exactly this (a client `KeyMapping` constructed
-from its common mod constructor) and currently blocks server boot; the fix is in
-the mod (`theasshats/Diet---AppleSeed-Edition-fix`, pending upstream), not the
-pack's tags.
+example: **appleseed 2.0.3** did exactly this (a client `KeyMapping` constructed
+from its common mod constructor) and blocked server boot; the pack carried the
+fix as a pinned fork build (`theasshats/Diet---AppleSeed-Edition-fix`, 2.0.3.1)
+until upstream shipped it — **appleseed 2.1.0** ("fix the initialization bug on
+dedicated server") includes it, and since v0.7.1 the manifest points back at
+Modrinth, unpinned. The lesson stands: only a real server boot catches this class.
 
 ### Optional: slimming the server (playtest-gated)
 
@@ -70,7 +72,7 @@ A handful of pure-cosmetic client mods currently ride `both` and could be
 narrowed to `client` to slim the server (cosmetic-only, no registered content):
 `fogoverrides`, `particle-rain`, `blood-n-particles-mod`,
 `better-animations-collection`, `immersive-armor-hud`, `build-guide`,
-`durability-tooltip`, `mining-speed-tooltips`, `better-ping-display`,
+`durability-tooltip`, `better-ping-display`,
 `immersivemusicmod`, `sound-physics-remastered`. This is an optimization, not a
 fix — narrow only after a playtest confirms clients still connect (a wrong narrow
 on a content-registering mod breaks registry parity). Leaving them `both` is

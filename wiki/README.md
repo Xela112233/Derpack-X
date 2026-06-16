@@ -15,6 +15,7 @@ in the wiki issue. Until then, add pages here as Markdown and link them from thi
   separate end-game drilling veins.
 - `weapons-and-gear.md` — firearms and the ammo line, jetpacks, exoskeletons and power gear, capture
   tools, and where the gates are.
-- `inventory-profiles-next.md` — what Inventory Profiles Next does by default (sorting, auto-refill, locked slots) and how to turn pieces off.
+- Inventory sorting is provided by Inventory Essentials: a sort button/keybind in every container,
+  shift/drag bulk moves, and nothing to configure. (Replaced Inventory Profiles Next in 0.7.1.)
 - `units.md` — dimensional analysis of the pack's unit systems: what SU, FE, mB, °T, spurs, and Source
   actually measure, how they calibrate to real-world units, and where the conversion seams are.
